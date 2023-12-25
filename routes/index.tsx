@@ -1,5 +1,6 @@
 import Header from "../islands/Header.tsx";
-import Counter from "../islands/Counter.tsx";
+
+import links from "./links.json" assert { type: "json" };
 
 export default function Home() {
   return (
@@ -9,7 +10,16 @@ export default function Home() {
         Welcome to `fresh`. Try update this message in the ./routes/index.tsx
         file, and refresh.
       </p>
-      <Counter start={3} />
+     
+
+      <div class="links">
+        {links.map((link, index) => (
+          <div key={index} class="link">
+            <a href={link.url} target="_blank" rel="noopener noreferrer">{link.url}</a>
+            {link.label && <p class="description">{link.label}</p>}
+          </div>
+        ))}
+      </div>
     </div>
   );
 }
