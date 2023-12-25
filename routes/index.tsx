@@ -12,11 +12,11 @@ export default function Home() {
       </p>
      
 
-      <div class="links">
+      <div class="p-2">
         {links.map((link, index) => (
           <div key={index} class="link">
             <a href={link.url} target="_blank" rel="noopener noreferrer">{link.url}</a>
-            {link.label && <p class="description">{link.label}</p>}
+            {link.label && <p class="font-semibold">{link.label}</p>}
           </div>
         ))}
       </div>
