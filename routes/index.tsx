@@ -1,6 +1,6 @@
 import Header from "../islands/Header.tsx";
 
-import links from "./links.json" assert { type: "json" };
+import links from "../links.json" assert { type: "json" };
 
 export default function Home() {
   return (
