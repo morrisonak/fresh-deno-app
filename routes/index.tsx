@@ -14,7 +14,7 @@ export default function Home() {
 
       <div class="p-2">
         {links.map((link, index) => (
-          <div key={index} class="link">
+          <div key={index} class="px-2">
             <a href={link.url} target="_blank" rel="noopener noreferrer">{link.url}</a>
             {link.label && <p class="font-semibold">{link.label}</p>}
           </div>
