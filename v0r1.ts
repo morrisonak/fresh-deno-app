@@ -51,9 +51,11 @@ const downloadImage = async (url, filePath) => {
     if (!response.ok) {
         throw new Error(`Failed to fetch image: ${response.statusText}`);
     }
-    const buffer = await response.buffer();
+    const arrayBuffer = await response.arrayBuffer();
+    const buffer = Buffer.from(arrayBuffer);
     await fs.writeFile(filePath, buffer);
 };
+
 
 
 const appendLinksToJson = async (newLinks: LinkWithLabelAndDate[], filename: string) => {
