@@ -1,4 +1,4 @@
-import fetch from 'node-fetch';
+import { fetch } from 'node-fetch';
 import cheerio from 'cheerio';
 import { promises as fs } from 'fs';
 import path from 'path';
