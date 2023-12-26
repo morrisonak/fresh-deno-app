@@ -6810,5 +6810,200 @@
     "url": "https://v0.dev/abdlalisalmi",
     "label": "",
     "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/aU7x707R1f3",
+    "label": "Template for prompt: この画像と同じレイアウトを作成して",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/8vEP0qpTsi4",
+    "label": "Template for prompt: I need to create a personal website with sections for header, about, projects, experience, and contact. In the header, I want to include navigation and a logo for Rozhkoy. The 'about' section should contain information about me, and the h1 heading should have a gradient similar to the one on the Vercel website. For 'projects,' there should be a slider with project cards displaying project names, project images, and hover-over descriptions. Each project card should include tags specifying the technologies used, as well as links to the project website and repository. The 'contacts' section should include links to social media and a form",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/Q8E5SiVOyr2",
+    "label": "Template for prompt: build page like pic using tool react.js , typescript and tailwindcss",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/VXWJYoL98A2",
+    "label": "Template for prompt: a portfolio site for web developer",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/tbYEhVD2YRO",
+    "label": "Template for prompt: A dashboard concept with a floating sidebar like Apple TV",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/XBKpNThdjmB",
+    "label": "Template for prompt: web auth for ai app, include google and github login",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/Q8KXGye2rGE",
+    "label": "Template for prompt: please help modernize this \"add creature to encounter\" ui. also add a way to add more than one of the same creature as a \"minion\" ",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/7KkAVXFjTV4",
+    "label": "Template for prompt: a chat page that has a chat between two users",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/VPteYouWT9r",
+    "label": "Template for prompt: A dashboard concept with a floating sidebar like Apple TV",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/VZIqelqg1CV",
+    "label": "Template for prompt: compine category select list and sort select list ind search text input in one bar by tailwind react",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/OrdfHrmkMy2",
+    "label": "Template for prompt: build something like this with a modern design",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/TcFHljBt4bg",
+    "label": "Template for prompt: create a list table with a delete button column",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/9BLxwGjqh7H",
+    "label": "Template for prompt: この画像と同じレイアウトを作成して",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/axYjx9dUXRI",
+    "label": "Template for prompt: crea un div que sirva como recordatorio",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/tQC9TZ7Hx0z",
+    "label": "Template for prompt: a landing page for a photographer with an elegant and minimalist style with a black background",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/8lQkv0h0u5a",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/D81GP9q3N0V",
+    "label": "Template for prompt: a navbar for a photograph landing",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/xcXn6jEhot7",
+    "label": "Template for prompt: Ayúdame a crear esas cards con react, preferiría que modificaras mi código el cual es el siguiente:\n\n{products.map((products) => (\n            <div\n              key={products.id}\n              className=\"flex flex-col items-start justify-between px-4 py-8 text-left md:w-[300px] mx-auto md:h-80 rounded-md shadow cursor-pointer hover:-translate-y-5 hover:border-b-4 hover:border-brandPrimary transition-all duration-300 h-full bg-[#FFFFFF]\"\n            >\n              <div>\n                <div className=\"bg-[#e8f5e9] mb-4 h-14 w-14 mx-auto rounded-tl-3xl rounded-br-3xl  \">\n                  <img src={products.image} alt=\"\" className=\"-ml-5\" />\n                </div>\n                <h4 className=\"text-1xl font-bold text-black mb-2 px-2 \">\n                  {products.title}\n                </h4>\n                <p className=\"text-sm text-neutralGrey \">\n                  {products.description}\n                </p>\n              </div>\n            </div>\n          ))}",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/J2C5jkAeQT1",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/qFnUx9OpeGf",
+    "label": "Template for prompt: Use placeholder for the images. Use shadcn",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/iNe636YpWd6",
+    "label": "Template for prompt: Create a dashboard view. On the left side should be navigation menu with items: Forms, Webhooks, Settings. Settings navigation item should be at the bottom of the page on the lieft side navigation. Page should have top navigation with logo, search bar and logged user round picture. On the right side of main area should be the list of items. Items table should have following columns: Name, Created, Last modified, Actions. Actions column should have edit and delete icon for every list item. Table should have 20 items per page. Pagination should be at the after listing table.",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/dC9AypHGQCQ",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/AJc0QzLfdaX",
+    "label": "Template for prompt: A modal that appears when you want to create a new dad joke entry in the page",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/konashi-st4systemco",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/moshyfawn",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/samar19",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/lexgarey",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/pejedev",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/cs2716",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/kurokochi789-gmailcom",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/gleasonw",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/ignaciobecher",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/dermuratakkas-gmailcom",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/j3ejosue",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/zohran14",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/ghxstloner",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/hui-tony-zk",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/kranthixperience",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/ggjara",
+    "label": "",
+    "dateAdded": "2023-12-26"
   }
 ]
