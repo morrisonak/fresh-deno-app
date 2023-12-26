@@ -7005,5 +7005,195 @@
     "url": "https://v0.dev/ggjara",
     "label": "",
     "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/VfzBiSiwMn0",
+    "label": "Template for prompt: Give me the html markup for this image",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/JCGvcTQfB6E",
+    "label": "Template for prompt: leaderboard with using shadn ui",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/xh1YIICLgq0",
+    "label": "Template for prompt: shopify",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/N6w64NaeCr5",
+    "label": "Template for prompt: Given these following requirements, create a mentor dashboard. Think step by step and detmerine what should information should be displayed on the dashboard and what information should have it's own dedicated page.\n\nMentors should be notified when one of their students sets their goals\nMentors should be notified when one of their students updates their goals\nMentors should be able to view their students’ goals\nMentors should be able to provide feedback on their students’ goals\nMentors should be able to see the graphs that track their students’ progress on their goals over time\n",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/UFLtscupHji",
+    "label": "Template for prompt: Omegle clone",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/3lzYkWgisAo",
+    "label": "Template for prompt: a rewad system app with wallet for social users",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/lnVyDYYD2Mf",
+    "label": "Template for prompt: a project management table like Notion",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/rK2hRv2C6pL",
+    "label": "Template for prompt: A todo list for three items",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/CUL7DAOeE0G",
+    "label": "Template for prompt: mobile and desktop app for keeping track of blood pressure",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/W4MHQxWZusf",
+    "label": "Template for prompt: build same this page using react.js and typescript and tailwindcss and tak care about responsive screen ",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/SmU1IPxypgU",
+    "label": "Template for prompt: A page that lists all of the fields are farmer has setup in our sytem",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/Ip4vkzh9Cpl",
+    "label": "Template for prompt: make the sidebar nav look like this one ",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/E8JD1W8p3Nk",
+    "label": "Template for prompt: make a sidebar nav that looks like this ",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/thBAatWGBj3",
+    "label": "Template for prompt: something interactive",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/6KFvUhmUftO",
+    "label": "Template for prompt: a photo image editor",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/Cb6dKIycAYT",
+    "label": "Template for prompt: Anonymous videocall website with tiktok main colours, named \"OMG!\"",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/DdiHkE0r7bm",
+    "label": "Template for prompt: quiero un formulario me crees una interfaz de registro con estos campos. \"nombre\" \n  \"descripcion\"\n  \"codigo\"\n  \"modelo\"\n  \"color\"\n  \"serie\"\n  \"imagen\"\n  \"activo\"\n  \"proveedor_id\" \n  \"categoria_id\" \n  \"marca_id\" \n  \"modelo_id\" es para registrar un articulo. Quiero que consideres tambien tener una buena experiencia de usuario",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/sjHNvkRL461",
+    "label": "Template for prompt: Construct a sticky header with flexbox layout. Include a logo container aligned flex-start, a nav element with inline-block links, and a CTA button aligned flex-end. Apply a max-height of 80px and a z-index for layering.",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/TgukDlNdO7c",
+    "label": "Template for prompt: can you build a linear like landing page",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/rzeeCLLb5do",
+    "label": "Template for prompt: Recreate the ui in the picture",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/Pv2QHi2DJqI",
+    "label": "Template for prompt: button that changes colors when clicked",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/SzEgh9r1rdD",
+    "label": "Template for prompt: a project mangement list like Asana",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/UmTGOVC3nrT",
+    "label": "Template for prompt: generate this cards",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/7MExiK3u5Lp",
+    "label": "Template for prompt: about page for my ebook app",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/davidr2998",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/rlatmfrl24",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/nikolavas",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/joppaa-programming",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/lorenzoalinovi",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/jonathan-franchisesal",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/swsvindland",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/addisonkowalski",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/brandon-braner",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/googolaire",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/gy1",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/cristianismen1",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/ethanleifer",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/armendh",
+    "label": "",
+    "dateAdded": "2023-12-26"
   }
 ]
