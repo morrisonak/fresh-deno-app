@@ -5,10 +5,9 @@ export default function Home() {
   return (
     <div class="p-4 mx-auto max-w-screen-md">
       <Header />
-      <p class="my-6">
-        Welcome to `fresh`. Try update this message in the ./routes/index.tsx
-        file, and refresh.
-      </p>
+      <h1 class="my-6">
+        This is a collection of components created via <a href="V0.dev></a>
+      </h1>
 
       <div class="p-2">
         {links.map((link, index) => (
