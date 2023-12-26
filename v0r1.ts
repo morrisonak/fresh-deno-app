@@ -46,11 +46,15 @@ const fetchLinks = async (url: string): Promise<LinkWithLabelAndDate[]> => {
   }
 };
 
-const downloadImage = async (url: string, filePath: string): Promise<void> => {
-  const response = await fetch(url);
-  const buffer = await response.buffer();
-  await fs.writeFile(filePath, buffer);
+const downloadImage = async (url, filePath) => {
+    const response = await fetch(url);
+    if (!response.ok) {
+        throw new Error(`Failed to fetch image: ${response.statusText}`);
+    }
+    const buffer = await response.buffer();
+    await fs.writeFile(filePath, buffer);
 };
+
 
 const appendLinksToJson = async (newLinks: LinkWithLabelAndDate[], filename: string) => {
   try {
