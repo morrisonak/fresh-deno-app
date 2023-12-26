@@ -1330,5 +1330,177 @@
   {
     "url": "https://v0.dev/aleixxor",
     "label": ""
+  },
+  {
+    "url": "https://v0.dev/t/bXY9PgbM3MC",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button."
+  },
+  {
+    "url": "https://v0.dev/t/LJXjpylz8dY",
+    "label": "Template for prompt: an animae waifu tier list "
+  },
+  {
+    "url": "https://v0.dev/t/xzobfIvj0JE",
+    "label": "Template for prompt: event section. Recieves {event.title} {event.image} {event.content} {event.description} {event.content}. tailwindcss zinc"
+  },
+  {
+    "url": "https://v0.dev/t/J1TZtmEViJp",
+    "label": "Template for prompt: create a page to request a passwrod for the user"
+  },
+  {
+    "url": "https://v0.dev/t/p7MdUJPnSrl",
+    "label": "Template for prompt: stylish audio player with song picker"
+  },
+  {
+    "url": "https://v0.dev/t/z9SpQUMFAk3",
+    "label": "Template for prompt: an arabic learning resources website, with sections such as nahw,sarf"
+  },
+  {
+    "url": "https://v0.dev/t/Ku4gNuRmNnV",
+    "label": "Template for prompt: a chat app"
+  },
+  {
+    "url": "https://v0.dev/t/S41IzDg8QpH",
+    "label": "Template for prompt: A visual generation"
+  },
+  {
+    "url": "https://v0.dev/t/SIpuLRM8lXE",
+    "label": "Template for prompt: The dashboard has a dark mode, is minimalistic, has blue accents and the following content is included in the MVP:\n1. **Dashboards**: Simple but customizable dashboards with basic templates.\n2. **Tasks**: Basic task management and assignment.\n3. **Projects**: Project management with simple project creation and staff assignment.\n4. **Sales**: Management of leads and customers, basic order management.\n5. **Finance**: Ledger entries and basic invoicing.\n6. **HR**: Employee list and basic onboarding functions.\n7 **Recruitment**: Basic applicant tracking."
+  },
+  {
+    "url": "https://v0.dev/t/oC8fMTvwXUV",
+    "label": "Template for prompt: create the input with the animated placeholder on input focus"
+  },
+  {
+    "url": "https://v0.dev/t/jdSEJB4RnKL",
+    "label": "Template for prompt: An info panel that lists an organization's information such as name, billing details, deployment etc"
+  },
+  {
+    "url": "https://v0.dev/t/GUpGkYriIIl",
+    "label": "Template for prompt: Create a phase 10 UI"
+  },
+  {
+    "url": "https://v0.dev/t/2tUkQjRbtXR",
+    "label": "Template for prompt:  create input animated placeholder on input focus for vue js"
+  },
+  {
+    "url": "https://v0.dev/t/dcCB08z81go",
+    "label": "Template for prompt: A hero banner with a background image, a center \"watch video\" button, and a \"request info\" button"
+  },
+  {
+    "url": "https://v0.dev/t/x6z3lCTYNt9",
+    "label": "Template for prompt: a minimalist blog application"
+  },
+  {
+    "url": "https://v0.dev/t/SJyFup5N978",
+    "label": "Template for prompt: a social media profile header with a banner image, avatar an dname"
+  },
+  {
+    "url": "https://v0.dev/t/PeT0fuj90HO",
+    "label": "Template for prompt: Model with save and reset button"
+  },
+  {
+    "url": "https://v0.dev/t/sW8o4Kqi9cR",
+    "label": "Template for prompt: 实现一个聊天页面，聊天内容为一对情侣的暧昧沟通，男人的昵称为牛郎，女人的昵称为织女，背景为让人愉悦的颜色，标题为小傻瓜，男人的内容在左边，女人的内容在右边，男人用中文沟通，女人用英文回复，页面有时间记录，男人开启话题，他们聊到了旅游和食物，也聊到了中国和新加坡，还聊到了天气和工作，最后聊到了目前工作情况，两人聊了一下午。"
+  },
+  {
+    "url": "https://v0.dev/t/qOXzlg7NWIZ",
+    "label": "Template for prompt: a about me section, of a portfolio, following a cyberpunk astethic"
+  },
+  {
+    "url": "https://v0.dev/t/zf8cnsd4dEk",
+    "label": "Template for prompt: login page"
+  },
+  {
+    "url": "https://v0.dev/t/GJ7lTEUffOD",
+    "label": "Template for prompt: arabic learning app landing page, with nahw, sarf, questions and answers sections"
+  },
+  {
+    "url": "https://v0.dev/t/F1IIy92zSnR",
+    "label": "Template for prompt: With similar design to https://weddingbudai.hu/arak.html create a page which can list and manipulate prices (add, remove, modify). A price consists of 'Title', 'Price' and 'Description' fields."
+  },
+  {
+    "url": "https://v0.dev/t/1LRDdxMjnqG",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button."
+  },
+  {
+    "url": "https://v0.dev/t/86YFHQ2bKUS",
+    "label": "Template for prompt: A visual generation"
+  },
+  {
+    "url": "https://v0.dev/t/rZ020fW4wJ3",
+    "label": "Template for prompt: a futuristic about section"
+  },
+  {
+    "url": "https://v0.dev/rykuno",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/spuknan",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/anewm-nwm",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/tomasgil1234",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/usman9602",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/pavelgorbach",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/nicokempe",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/walterchoi0131",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/m-hussain03-outlookcom",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/georgesstein",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/samarthparmanand",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/captainrogers",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/reillyjodonnell",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/natasha-93",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/kotavenugopalreddy7860-gmailcom",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/richie735",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/raphaeldechiare-ddcomsystems",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/alex-chainbridgec",
+    "label": ""
   }
 ]
