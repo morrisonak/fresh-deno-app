@@ -47,13 +47,16 @@ const fetchLinks = async (url: string): Promise<LinkWithLabelAndDate[]> => {
 };
 
 const downloadImage = async (url, filePath) => {
+    console.log(`Attempting to download image from URL: ${url}`);
     const response = await fetch(url);
     if (!response.ok) {
-        throw new Error(`Failed to fetch image: ${response.statusText}`);
+        console.error(`Failed to fetch image: ${response.statusText}. URL: ${url}`);
+        return; // Skip this image and continue
     }
     const arrayBuffer = await response.arrayBuffer();
     const buffer = Buffer.from(arrayBuffer);
     await fs.writeFile(filePath, buffer);
+    console.log(`Image saved to ${filePath}`);
 };
 
 
