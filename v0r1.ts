@@ -92,7 +92,7 @@ const appendLinksToJson = async (newLinks: LinkWithLabelAndDate[], filename: str
       if (link.url.includes('/t/')) {
         const imageId = link.url.split('/t/')[1];
         const imageUrl = `${domain}/api/${imageId}/image`;
-        const imagePath = path.join('images', `${imageId}.jpg`);
+        const imagePath = path.join('static', 'images', `${imageId}.jpg`);
 
         await downloadImage(imageUrl, imagePath);
       }
