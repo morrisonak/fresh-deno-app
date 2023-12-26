@@ -2022,5 +2022,193 @@
   {
     "url": "https://v0.dev/samuraiux",
     "label": ""
+  },
+  {
+    "url": "https://v0.dev/t/YyNoP0wEH7F",
+    "label": "Template for prompt: a design tool for interior design"
+  },
+  {
+    "url": "https://v0.dev/t/kQpFkRKgk9y",
+    "label": "Template for prompt: A visual generation"
+  },
+  {
+    "url": "https://v0.dev/t/a4Ky6tqoKjr",
+    "label": "Template for prompt: A visual generation"
+  },
+  {
+    "url": "https://v0.dev/t/7gmxlJTFtlm",
+    "label": "Template for prompt: create a registration form with material ui"
+  },
+  {
+    "url": "https://v0.dev/t/RSm3BSgleEP",
+    "label": "Template for prompt: プロジェクトを新規作成するページ"
+  },
+  {
+    "url": "https://v0.dev/t/mgJXV1alqud",
+    "label": "Template for prompt: material design navbar"
+  },
+  {
+    "url": "https://v0.dev/t/3ZX1jkJ9mBi",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders."
+  },
+  {
+    "url": "https://v0.dev/t/SQuOh8D894c",
+    "label": "Template for prompt: A layout composed by a flex header and a second column the second column contains to flex columns (flex-column) and the last of those two is scrollable"
+  },
+  {
+    "url": "https://v0.dev/t/PiLaatnMAlc",
+    "label": "Template for prompt: using tailwing create a onboarding landing page with profile. make the landing form livewire ready, am using vite and laravel"
+  },
+  {
+    "url": "https://v0.dev/t/utsp96SLbOm",
+    "label": "Template for prompt: I want to create a service that connects clients with videographers. I need to be able to: 1) see a list of ongoing projects, but also be able to see at a glance which videographer is responsible for each project and the current status, 2) see a list of videographers I've worked with so far and bookmark some of them, and 3) schedule the freelancers I want to work with for my next project. "
+  },
+  {
+    "url": "https://v0.dev/t/CPrsFPvwh6N",
+    "label": "Template for prompt: Create a chat app in Angular"
+  },
+  {
+    "url": "https://v0.dev/t/dQwE6qo1NSW",
+    "label": "Template for prompt: 상점을 생성하는 페이지를 만들어줘"
+  },
+  {
+    "url": "https://v0.dev/t/a6xnCpolkcJ",
+    "label": "Template for prompt: Neo-Brutalism-style chat page"
+  },
+  {
+    "url": "https://v0.dev/t/UvZrHgLVxvo",
+    "label": "Template for prompt: I am working in an mobile application. I have to show a modal with a list of tournaments that has the next information: a title, the location and the date"
+  },
+  {
+    "url": "https://v0.dev/t/OGt2W4Lqx2v",
+    "label": "Template for prompt: I want an interface similar to instagram, where I can have publications of banners, products and informative flyers, events and promotions, so that the publication is displayed with the company that publishes it, the image, reactions and comments below. additionally, on the left side I would like a menu where the pages appear similar to the image that I will provide you and in the center above the publications there is a search engine with 3 options: company, services and products.\nthe picture is only for reference, is similar to what I want"
+  },
+  {
+    "url": "https://v0.dev/t/aCrqNS8eGnz",
+    "label": "Template for prompt: Movie recommendations slider"
+  },
+  {
+    "url": "https://v0.dev/t/drkBZkRQ9Wr",
+    "label": "Template for prompt: 고객과 영상편집자를 연결해주는 서비스를 만들고 싶어. 필요한 기능은 1. 진행중인 프로젝트 목록나오되 각 프로젝트별 담당 영상편집자와 현재 진행상황을 한눈에 볼 수 있어야 돼 2. 여태껏 작업한 영상편집자 목록을 볼 수 있고, 일부를 즐겨찾기할 수 있어. 3. \b그중 원하는 프리랜서들과 일정을 조율해 다음 프로젝트를 진행할 수 있어 "
+  },
+  {
+    "url": "https://v0.dev/t/RxF6vnwnj6Y",
+    "label": "Template for prompt: media asset management system"
+  },
+  {
+    "url": "https://v0.dev/t/bEOcNDninY9",
+    "label": "Template for prompt: I have to change this homePage to have Five buttons saying \"groups\" \"sessions\" \"results\" \"question\" \"questionnary\" how can i imp^rove my style I'm using Vue.js and I need this to be User friendly"
+  },
+  {
+    "url": "https://v0.dev/t/i2j6Dl5nU5u",
+    "label": "Template for prompt: Create a hero section for a blockchain lottery app called Felix."
+  },
+  {
+    "url": "https://v0.dev/t/yoLOvu8KG7Z",
+    "label": "Template for prompt: create an activities module for a crm similar to salesforce"
+  },
+  {
+    "url": "https://v0.dev/t/jbjsCd8hlOQ",
+    "label": "Template for prompt: empty state page ui"
+  },
+  {
+    "url": "https://v0.dev/t/EAutxZGMs65",
+    "label": "Template for prompt: ethiopian live stock market prices and news "
+  },
+  {
+    "url": "https://v0.dev/t/ipL9dhkXEpq",
+    "label": "Template for prompt: an order page for vegetables wholesale, the list of product in a table section containing the price and add to cart. the cart section contains the product and the total price of the product, the total price section showing total price of the product in the cart."
+  },
+  {
+    "url": "https://v0.dev/t/FAyLx47cCwi",
+    "label": "Template for prompt: I have to do an application web with vue.js where I need an home page with five buttons \"session\" \"question\" \"questionnary\" \"groups\" \"results\" can you give me a css style inspiration for this app "
+  },
+  {
+    "url": "https://v0.dev/t/sBxtWIfU82a",
+    "label": "Template for prompt: video server control interface"
+  },
+  {
+    "url": "https://v0.dev/alexbrinza",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/vmartinez-cosdeicom",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/mchenry19-gmailcom",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/thaenandar14seint-gmailcom",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/muhammadawaisml",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/daranix",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/achebiegon-gmailcom",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/lenny25d",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/momo-youngg",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/danielcordeiro1",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/gamebook0603",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/lucaford",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/dxnsav-gmailcom",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/joeypy",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/vercel-ozenzorbaco",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/vicnicius",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/cmoitchoupi",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/pablogil",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/ize-302",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/neko1101",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/churchillavebets-gmailcom",
+    "label": ""
   }
 ]
