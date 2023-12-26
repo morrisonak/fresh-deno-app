@@ -5230,5 +5230,396 @@
   {
     "url": "https://v0.dev/vapawar-journeyguide",
     "label": ""
+  },
+  {
+    "url": "https://v0.dev/t/m6QD7BteYZ8",
+    "label": "Template for prompt: A calculator",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/NB2XafIgBfW",
+    "label": "Template for prompt: an ai image generator app with image input and prompt input, with nextjs and daisyUI, typescript",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/RykFkROtJDR",
+    "label": "Template for prompt:  a search input",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/RzUwWBeWGIS",
+    "label": "Template for prompt: A job application information viewer dashboard",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/xuggRAtBwmQ",
+    "label": "Template for prompt: app like picture",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/j2FtqY1y3fz",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/D7AJRiTBCsD",
+    "label": "Template for prompt: blog post page, no date no author name but title, text and some grid for data and links",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/pIyW2KdeaZa",
+    "label": "Template for prompt: Use React, TypeScript, Nextjs, tailwind, The image generation page background shows an AI-generated image that changes periodically. The top contains the app logo and key UI elements including:\n\nA text prompt input box with placeholder descriptor text, underlined on focus.\nAn upload button allowing image inputs, styled with bold outlines.\nA generate button with a conspicuous color and hover animation.\nAs images are generated, they appear in organized galleries with subtle animations and transitions between views. The image captions include confidence ratings and feedback buttons.\n\nFocus on smooth interactions and visual polish with dark backgrounds, vibrant accents, balanced negative space, and integrated context cues for an aesthetic yet intuitive experience",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/sifA1ZDBS6l",
+    "label": "Template for prompt: an ai image generator app with image and prompt input",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/lvF39x7gTLg",
+    "label": "Template for prompt: blog post",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/A5ugcbhBtJ0",
+    "label": "Template for prompt: grid masonry",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/PmvKYdEuMrc",
+    "label": "Template for prompt: A oee dashboard control for Manufacturing Execution System  software",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/iTuumljJU9c",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/JJdH7Q0XGVz",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/AUEXgKrzCLQ",
+    "label": "Template for prompt: Design a user interface for an app called 'Dumpster.' Dumpster is a platform where users can curate collections of links and resources for future reference. The primary functionality involves users creating 'dumps,' which are collections of web links with brief descriptions. Users can organize these dumps, add tags, and view, edit, or delete individual links within each dump. The app should prioritize a clean, intuitive user experience, allowing users to easily create, manage, and access their dumps. Consider an interface that emphasizes simplicity, quick link addition, easy categorization, and intuitive navigation for a seamless user experience",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/aa3pjgb523p",
+    "label": "Template for prompt: a landing page for my charity sponsor wall website",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/fyrJ13WRmeZ",
+    "label": "Template for prompt: react component for a hamburger style button which shows a menu when expanded",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/fDdWEPhuzus",
+    "label": "Template for prompt: a dashboard with a sidebar with a toggle button to reduce width of the sidebar",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/1gUiRVEihSc",
+    "label": "Template for prompt: an elegant website",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/aRgcT7vIWDP",
+    "label": "Template for prompt: timeline social media scrolling with username, description of post, likes amount, imagepost, and rt",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/284hPbugzR3",
+    "label": "Template for prompt: make better start page UI, aadd you suggetions",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/YuhRztNFPiv",
+    "label": "Template for prompt: a stepper for onboarding new user",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/BngFe4ozesG",
+    "label": "Template for prompt: basic todo app, clear visuals and neutral colors",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/PngeKxsAXgt",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/z0j9r9mAua6",
+    "label": "Template for prompt: admin dashboard for cms",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/KtbmO66BNrF",
+    "label": "Template for prompt: a dashboard to share yugioh cards",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/kicknickr2-gmailcom",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/michaelandreuzza",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/mhasanloo",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/jtpoluxs-gmailcom",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/jasongh17",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/rafayexalter",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/pabloifran",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/p-r-s-13-hotmailcom",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/inouraalmanea-gmailcom",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/hugocl",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/fuzzylim",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/parms221",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/magnusquest",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/thewisepigeon",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/ara-o",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/idriscayman-falkciacom",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/ebokhyan",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/davidoduneye",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/thiago-mota-santos",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/nextdigimarking-gmailcom",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/arthur242",
+    "label": "",
+    "dateAdded": "2023-12-26"
+  },
+  {
+    "url": "https://v0.dev/t/PWUj0BCymUk",
+    "label": "Template for prompt: i need for my book app a contact page that the users can write what they want to be improved "
+  },
+  {
+    "url": "https://v0.dev/t/rxSPwk6FNEe",
+    "label": "Template for prompt: A visual generation"
+  },
+  {
+    "url": "https://v0.dev/t/P3zw60Byk2t",
+    "label": "Template for prompt: An e-commerce site that sells sports apparel"
+  },
+  {
+    "url": "https://v0.dev/t/DpM1YGoaxd1",
+    "label": "Template for prompt: A map of Alabama with pins indicating specific coordinates."
+  },
+  {
+    "url": "https://v0.dev/t/mahGVPJ8qbb",
+    "label": "Template for prompt: a surgeon's site. especially for chronic wounds"
+  },
+  {
+    "url": "https://v0.dev/t/7CxtcXZzfdn",
+    "label": "Template for prompt: combobox input with list of 30 most popular languages. user can select maximum 3 languages. when selected, languages appears in input as a chip, with x to remove from selected "
+  },
+  {
+    "url": "https://v0.dev/t/sD4EG2ndDGB",
+    "label": "Template for prompt: card galllery for music"
+  },
+  {
+    "url": "https://v0.dev/t/37iIZ91gFsJ",
+    "label": "Template for prompt: an ai image generator app, dark mode, tailwind"
+  },
+  {
+    "url": "https://v0.dev/t/k1z1OS0jadX",
+    "label": "Template for prompt: a sleek circular gradient background, from red to flat-white, with pixelated smooth texture, with a recording button in the center"
+  },
+  {
+    "url": "https://v0.dev/t/LiwUnjTPCkE",
+    "label": "Template for prompt: blog post page, no date no author name no image but title, text, and some grid for data and data's link"
+  },
+  {
+    "url": "https://v0.dev/t/1mkEsfbMzbp",
+    "label": "Template for prompt: A visual generation"
+  },
+  {
+    "url": "https://v0.dev/t/m6QD7BteYZ8",
+    "label": "Template for prompt: A calculator"
+  },
+  {
+    "url": "https://v0.dev/t/1nJYknz3t6D",
+    "label": "Template for prompt: write react code to create this componenet make it responsive using react bootstrap "
+  },
+  {
+    "url": "https://v0.dev/t/xuggRAtBwmQ",
+    "label": "Template for prompt: app like picture"
+  },
+  {
+    "url": "https://v0.dev/t/D7AJRiTBCsD",
+    "label": "Template for prompt: blog post page, no date no author name but title, text and some grid for data and links"
+  },
+  {
+    "url": "https://v0.dev/t/VIZzttPt7EH",
+    "label": "Template for prompt: an ai image generator app, with image upload input and text prompt input, tailwind, daysiUI, typescript, nextjs"
+  },
+  {
+    "url": "https://v0.dev/t/NB2XafIgBfW",
+    "label": "Template for prompt: an ai image generator app with image input and prompt input, with nextjs and daisyUI, typescript"
+  },
+  {
+    "url": "https://v0.dev/t/j2FtqY1y3fz",
+    "label": "Template for prompt: A list of product categories with image, name and description."
+  },
+  {
+    "url": "https://v0.dev/t/sifA1ZDBS6l",
+    "label": "Template for prompt: an ai image generator app with image and prompt input"
+  },
+  {
+    "url": "https://v0.dev/t/RzUwWBeWGIS",
+    "label": "Template for prompt: A job application information viewer dashboard"
+  },
+  {
+    "url": "https://v0.dev/t/RykFkROtJDR",
+    "label": "Template for prompt:  a search input"
+  },
+  {
+    "url": "https://v0.dev/t/lvF39x7gTLg",
+    "label": "Template for prompt: blog post"
+  },
+  {
+    "url": "https://v0.dev/t/aRgcT7vIWDP",
+    "label": "Template for prompt: timeline social media scrolling with username, description of post, likes amount, imagepost, and rt"
+  },
+  {
+    "url": "https://v0.dev/t/A5ugcbhBtJ0",
+    "label": "Template for prompt: grid masonry"
+  },
+  {
+    "url": "https://v0.dev/t/PmvKYdEuMrc",
+    "label": "Template for prompt: A oee dashboard control for Manufacturing Execution System  software"
+  },
+  {
+    "url": "https://v0.dev/t/pIyW2KdeaZa",
+    "label": "Template for prompt: Use React, TypeScript, Nextjs, tailwind, The image generation page background shows an AI-generated image that changes periodically. The top contains the app logo and key UI elements including:\n\nA text prompt input box with placeholder descriptor text, underlined on focus.\nAn upload button allowing image inputs, styled with bold outlines.\nA generate button with a conspicuous color and hover animation.\nAs images are generated, they appear in organized galleries with subtle animations and transitions between views. The image captions include confidence ratings and feedback buttons.\n\nFocus on smooth interactions and visual polish with dark backgrounds, vibrant accents, balanced negative space, and integrated context cues for an aesthetic yet intuitive experience"
+  },
+  {
+    "url": "https://v0.dev/sayinmehmet47",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/ankarahastanesidergisi-gmailcom",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/henryfernanv-gmailcom",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/sylenthmen",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/mhasanloo",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/kicknickr2-gmailcom",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/rudrii1807-gmailcom",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/rafayexalter",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/pabloifran",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/jasongh17",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/michaelandreuzza",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/thiago-mota-santos",
+    "label": ""
+  },
+  {
+    "url": "https://v0.dev/p-r-s-13-hotmailcom",
+    "label": ""
   }
 ]
