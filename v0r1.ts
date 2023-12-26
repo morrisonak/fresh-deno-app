@@ -3,8 +3,6 @@ import cheerio from 'cheerio';
 import { promises as fs } from 'fs';
 import path from 'path';
 
-// ... [rest of your code, including the fetchLinks function] ...
-
 const domain = "https://v0.dev";
 const ignoredLinks = [
   "/",
