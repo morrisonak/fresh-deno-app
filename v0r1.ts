@@ -47,16 +47,26 @@ const fetchLinks = async (url: string): Promise<LinkWithLabelAndDate[]> => {
 };
 
 const downloadImage = async (url, filePath) => {
-    console.log(`Attempting to download image from URL: ${url}`);
-    const response = await fetch(url);
-    if (!response.ok) {
-        console.error(`Failed to fetch image: ${response.statusText}. URL: ${url}`);
-        return; // Skip this image and continue
+    try {
+        // Check if the file already exists
+        if (await fs.stat(filePath).then(() => true).catch(() => false)) {
+            console.log(`Image already exists: ${filePath}`);
+            return; // File exists, so skip downloading
+        }
+
+        console.log(`Downloading image from URL: ${url}`);
+        const response = await fetch(url);
+        if (!response.ok) {
+            console.error(`Failed to fetch image: ${response.statusText}. URL: ${url}`);
+            return; // Skip this image and continue
+        }
+        const arrayBuffer = await response.arrayBuffer();
+        const buffer = Buffer.from(arrayBuffer);
+        await fs.writeFile(filePath, buffer);
+        console.log(`Image saved to ${filePath}`);
+    } catch (error) {
+        console.error(`Error in downloading image: ${error.message}`);
     }
-    const arrayBuffer = await response.arrayBuffer();
-    const buffer = Buffer.from(arrayBuffer);
-    await fs.writeFile(filePath, buffer);
-    console.log(`Image saved to ${filePath}`);
 };
 
 
