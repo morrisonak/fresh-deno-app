@@ -6,7 +6,7 @@ export default function Home() {
     <div class="p-4 mx-auto max-w-screen-md">
       <Header />
       <h1 class="my-6">
-        This is a collection of components created via <a href="https://v0.dev" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 transition-colors duration-200">V0.dev</a>
+        This is a collection of components created via <a href="https://v0.dev" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 transition-colors duration-200">v0.dev</a>
       </h1>
 
       <div class="p-2">
