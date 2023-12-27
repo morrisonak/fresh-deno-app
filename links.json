@@ -13153,5 +13153,135 @@
     "url": "https://v0.dev/t/S4b3bfjHOXR",
     "label": "Template for prompt: A Curriculum Vitae website for a front-end engineer",
     "dateAdded": "2023-12-27T19:00:03.182Z"
+  },
+  {
+    "url": "https://v0.dev/t/sQBum7lxQtG",
+    "label": "Template for prompt: create simple portfolio single page without scroll",
+    "dateAdded": "2023-12-27T19:05:03.291Z"
+  },
+  {
+    "url": "https://v0.dev/t/Lxq0wsHm4lz",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-27T19:05:03.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/zSP7vP7dBjY",
+    "label": "Template for prompt: landing page for dating app called nightly with download links and concept description. UI like vercel.com website",
+    "dateAdded": "2023-12-27T19:05:03.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/MTcqZzlgb5n",
+    "label": "Template for prompt: A page where the user can enter a Link",
+    "dateAdded": "2023-12-27T19:05:03.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/6T39OeLpu3j",
+    "label": "Template for prompt: Can make category list and subcategory ",
+    "dateAdded": "2023-12-27T19:05:03.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/BbxkVN08K5x",
+    "label": "Template for prompt: product edit page from dashboard",
+    "dateAdded": "2023-12-27T19:05:03.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/RRhGjF7Mt5h",
+    "label": "Template for prompt: product page in list of an ecommerce dashboard",
+    "dateAdded": "2023-12-27T19:05:03.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/aefRueF26eE",
+    "label": "Template for prompt: A login page for a booking page",
+    "dateAdded": "2023-12-27T19:05:03.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/cCtx98IrGfG",
+    "label": "Template for prompt: A timesheet by project dashboard",
+    "dateAdded": "2023-12-27T19:05:03.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/IDlyo7mi0KI",
+    "label": "Template for prompt: create a modern and fancy 404 page",
+    "dateAdded": "2023-12-27T19:05:03.293Z"
+  },
+  {
+    "url": "https://v0.dev/t/BqS4dVPH7Zs",
+    "label": "Template for prompt: nft claim game",
+    "dateAdded": "2023-12-27T19:05:03.293Z"
+  },
+  {
+    "url": "https://v0.dev/t/bI3Bk0BsvQ3",
+    "label": "Template for prompt: an hamburger menu with a list of interfaces, carriers, streams which have child dropdowns of DL and UL",
+    "dateAdded": "2023-12-27T19:05:03.293Z"
+  },
+  {
+    "url": "https://v0.dev/t/meg8jsByrUF",
+    "label": "Template for prompt: a form page to register players for a tournament",
+    "dateAdded": "2023-12-27T19:05:03.293Z"
+  },
+  {
+    "url": "https://v0.dev/t/3Nd5SIzgKzA",
+    "label": "Template for prompt: child application for teach basic arithmetic operations",
+    "dateAdded": "2023-12-27T19:05:03.293Z"
+  },
+  {
+    "url": "https://v0.dev/t/PjalIEhD7G8",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27T19:05:03.293Z"
+  },
+  {
+    "url": "https://v0.dev/t/eAhLGQnYIib",
+    "label": "Template for prompt: a page of products from dashboard ecommerce",
+    "dateAdded": "2023-12-27T19:05:03.293Z"
+  },
+  {
+    "url": "https://v0.dev/t/GU2NDolBaXx",
+    "label": "Template for prompt: Build a reddit like clone",
+    "dateAdded": "2023-12-27T19:05:03.293Z"
+  },
+  {
+    "url": "https://v0.dev/t/ct6ouNzuUNp",
+    "label": "Template for prompt: A login page for a booking page",
+    "dateAdded": "2023-12-27T19:05:03.294Z"
+  },
+  {
+    "url": "https://v0.dev/t/5LwicMJZkn2",
+    "label": "Template for prompt: create a card that can display this data {\n            \"id\": \"3023d197-67d5-4904-a5ba-6af381ebf0fb\",\n            \"owner\": \"fc6f561c-cbc3-45a7-a666-ea932c9d54b0\",\n            \"created_at\": \"2023-11-18T21:44:23.497663+00:00\",\n            \"workout\": {\n                \"title\": \"Test\",\n                \"exercises\": [\n                    {\n                        \"id\": \"3f527d61-a3ae-489d-985f-c74e6fe2e4b2\",\n                        \"name\": \"Prancha (Plank)\",\n                        \"sets\": [\n                            {\n                                \"load\": 0,\n                                \"reps\": 0,\n                                \"variant\": \"Normal\"\n                            }\n                        ],\n                        \"level\": [\n                            \"Iniciante\"\n                        ],\n                        \"muscles\": [\n                            \"Abdominais\"\n                        ],\n                        \"equipment\": [\n                            \"Livre\"\n   ",
+    "dateAdded": "2023-12-27T19:05:03.294Z"
+  },
+  {
+    "url": "https://v0.dev/t/uJ4y8hDoYKf",
+    "label": "Template for prompt: a simple app with a chatroom. username and pass for signup and login, global chat only (therefore 1 room for everyone), users' user and pass are saved in C:\\Users\\User\\OneDrive\\Desktop\\a wittle smth\\\nuse python!!!!!! make it compatible with macos!!!!! server is hosted on my computer, user directly enters chatroom when putting user and pass. people can chat with eachother however they want, and their name appears above the text they send. for text to send you press send or click the Send button next to a chatbox where the text they write appears before sending it.",
+    "dateAdded": "2023-12-27T19:05:03.294Z"
+  },
+  {
+    "url": "https://v0.dev/t/UOCcDhBGqUW",
+    "label": "Template for prompt: criar uma home de uma intranet onde tenha uma timeline, banner rotativo, espaço para uns blocos de informação com suporte a dark mode",
+    "dateAdded": "2023-12-27T19:05:03.294Z"
+  },
+  {
+    "url": "https://v0.dev/t/Pxl4Bq0P5mT",
+    "label": "Template for prompt: A promo section in the background pastel colored spectrum",
+    "dateAdded": "2023-12-27T19:05:03.294Z"
+  },
+  {
+    "url": "https://v0.dev/t/NIfbQO0luFA",
+    "label": "Template for prompt: Personal branding website",
+    "dateAdded": "2023-12-27T19:05:03.294Z"
+  },
+  {
+    "url": "https://v0.dev/t/5UpLQKak2Xh",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27T19:05:03.294Z"
+  },
+  {
+    "url": "https://v0.dev/t/eHy3TXRsmUo",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T19:05:03.294Z"
+  },
+  {
+    "url": "https://v0.dev/t/sNjR38NnTlI",
+    "label": "Template for prompt: create animated toater with yellow background and black text",
+    "dateAdded": "2023-12-27T19:05:03.295Z"
   }
 ]
