@@ -9313,5 +9313,135 @@
     "url": "https://v0.dev/t/3NkfAVeD2LR",
     "label": "Template for prompt: A responsive sidebar with a header, content and footer",
     "dateAdded": "2023-12-27T16:30:03.774Z"
+  },
+  {
+    "url": "https://v0.dev/t/O9lwx5qbpk1",
+    "label": "Template for prompt: centralized maintenance notice page",
+    "dateAdded": "2023-12-27T16:35:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/FPygvNomZzF",
+    "label": "Template for prompt: webiste for a chess club in Croatia",
+    "dateAdded": "2023-12-27T16:35:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/UbLmXdyclYI",
+    "label": "Template for prompt: 影视网站",
+    "dateAdded": "2023-12-27T16:35:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/76yRsJIuV5W",
+    "label": "Template for prompt: muti step form",
+    "dateAdded": "2023-12-27T16:35:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/3RyJnx5TjdY",
+    "label": "Template for prompt: Login form for admin to the dashboard",
+    "dateAdded": "2023-12-27T16:35:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/5U6REOoDgx2",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T16:35:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/1EMKgHcggZ1",
+    "label": "Template for prompt: generate qr code has content and link input and generate button",
+    "dateAdded": "2023-12-27T16:35:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/mcprwjOQb3w",
+    "label": "Template for prompt: create a email with a hero and 4 section ... use modern layout because its for a SAAS company",
+    "dateAdded": "2023-12-27T16:35:03.454Z"
+  },
+  {
+    "url": "https://v0.dev/t/bIxsed5erRN",
+    "label": "Template for prompt: recreate this ",
+    "dateAdded": "2023-12-27T16:35:03.454Z"
+  },
+  {
+    "url": "https://v0.dev/t/hoGyetIZWhU",
+    "label": "Template for prompt: muti step form",
+    "dateAdded": "2023-12-27T16:35:03.454Z"
+  },
+  {
+    "url": "https://v0.dev/t/phr6ir6Apwc",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27T16:35:03.454Z"
+  },
+  {
+    "url": "https://v0.dev/t/KMB7AhMpqfB",
+    "label": "Template for prompt: A table with sortable columns for name, date, and completed. Filters should exist to choose a specific name or completion status and see all entries in the table that match",
+    "dateAdded": "2023-12-27T16:35:03.454Z"
+  },
+  {
+    "url": "https://v0.dev/t/XLvqgDVgpUd",
+    "label": "Template for prompt: A modal which render in the center of the screen. Clicking on submit log submit to the console. Clicking on cancel closes the modal",
+    "dateAdded": "2023-12-27T16:35:03.455Z"
+  },
+  {
+    "url": "https://v0.dev/t/3Lkb4IvpJXz",
+    "label": "Template for prompt: a platform for students to interact with different AI tutors",
+    "dateAdded": "2023-12-27T16:35:03.455Z"
+  },
+  {
+    "url": "https://v0.dev/t/xywNrlMMcK5",
+    "label": "Template for prompt: a chat app",
+    "dateAdded": "2023-12-27T16:35:03.455Z"
+  },
+  {
+    "url": "https://v0.dev/t/0AuDmqUPj91",
+    "label": "Template for prompt: pinterest clone",
+    "dateAdded": "2023-12-27T16:35:03.455Z"
+  },
+  {
+    "url": "https://v0.dev/t/ojE5HaNJj09",
+    "label": "Template for prompt: Create a beautiful one page report layout using tailwind and daisyui that uses the following JSON object for data: \n{\n  \"Startup\": \"HUBBSTER\",\n  \"Investment Advice\": \"Proceed with caution. Interested investors should engage in deeper due diligence, specifically examining traction post-pandemic, as well as the scalability of the service model and IP protections.\",\n  \"Summary\": \"A company providing 'sports clubs in a box' via physical hubs and a digital platform for shared public spaces, promoting social sports participation.\",\n  \"Thesis Fit\": \"Fits the investment thesis due to being sports-adjacent and offering innovative shared infrastructure for sports engagement.\",\n  \"Fundraising\": \"Not specified in provided data; additional details needed from founders.\",\n  \"Investment Summary\": {\n    \"Product\": \"Modular hubs installed in public spaces for various sports, paired with a digital platform.\",\n    \"Market\": \"Sizable addressable market with an estimated $11B ARR potential\"}",
+    "dateAdded": "2023-12-27T16:35:03.455Z"
+  },
+  {
+    "url": "https://v0.dev/t/9XFznlauySX",
+    "label": "Template for prompt: A dashboard for editing restaurants menu",
+    "dateAdded": "2023-12-27T16:35:03.456Z"
+  },
+  {
+    "url": "https://v0.dev/t/jWBYUrmNq6n",
+    "label": "Template for prompt: In a work order report page, I want a status indicator component that shows up at the top of the work order report. There should be one status indicator for each operation in the work order, and there should be 4 operations with different statuses",
+    "dateAdded": "2023-12-27T16:35:03.456Z"
+  },
+  {
+    "url": "https://v0.dev/t/7ccZlIadqYU",
+    "label": "Template for prompt: create a hero for a email marketing with 4 sections",
+    "dateAdded": "2023-12-27T16:35:03.456Z"
+  },
+  {
+    "url": "https://v0.dev/t/kZ29oFIfNYZ",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27T16:35:03.456Z"
+  },
+  {
+    "url": "https://v0.dev/t/T0DxXoUKou1",
+    "label": "Template for prompt: I need a live chat button when opened use can ask questions and bot will reply",
+    "dateAdded": "2023-12-27T16:35:03.456Z"
+  },
+  {
+    "url": "https://v0.dev/t/pL3XeuHgzQs",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T16:35:03.457Z"
+  },
+  {
+    "url": "https://v0.dev/t/ks3nv9rKGyI",
+    "label": "Template for prompt: graph to show a patient's blood pressure RPM readings for our care management platform",
+    "dateAdded": "2023-12-27T16:35:03.457Z"
+  },
+  {
+    "url": "https://v0.dev/t/N9R9GkzfdJo",
+    "label": "Template for prompt: Create a main business panel for a rent business where I need to see the main data about this business",
+    "dateAdded": "2023-12-27T16:35:03.457Z"
+  },
+  {
+    "url": "https://v0.dev/t/2Ohn6PpRzyg",
+    "label": "Template for prompt: draw me a block of skills that I have, there should be charisma, endurance, strength, stealth, intellect",
+    "dateAdded": "2023-12-27T16:35:03.457Z"
   }
 ]
