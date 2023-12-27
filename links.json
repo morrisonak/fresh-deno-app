@@ -11753,5 +11753,135 @@
     "url": "https://v0.dev/t/b8C65igL0JQ",
     "label": "Template for prompt: A minimalist resume website with multiple sections and sidebar navigation",
     "dateAdded": "2023-12-27T18:05:03.986Z"
+  },
+  {
+    "url": "https://v0.dev/t/PjgmOkvZBpf",
+    "label": "Template for prompt: a software house website",
+    "dateAdded": "2023-12-27T18:10:03.727Z"
+  },
+  {
+    "url": "https://v0.dev/t/rS9Z0UyU7Gv",
+    "label": "Template for prompt: code a site that asks me to choose one of two options and every time I choose a new option, it brings me new options and after a while it brings back the same options I chose and makes me undecided.",
+    "dateAdded": "2023-12-27T18:10:03.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/CBi1f9xSwww",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27T18:10:03.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/awL4wWHG4e8",
+    "label": "Template for prompt: Landing page for engineering manager",
+    "dateAdded": "2023-12-27T18:10:03.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/9iz73g3ZM7f",
+    "label": "Template for prompt: An apartment card",
+    "dateAdded": "2023-12-27T18:10:03.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/mlPLqyET5A6",
+    "label": "Template for prompt: I want a dashboard with an integration page, where a user can add integrations for PagerDuty, Datadog, and slack with their API keys and they all connect to a central source, showing a green check mark when connected. They should look similar to the image provided.",
+    "dateAdded": "2023-12-27T18:10:03.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/SUmurlcAj5i",
+    "label": "Template for prompt: Create a web application for test management, focusing on the front-end design. The interface should feature a user-friendly dashboard displaying tests, schedules, results, and statistics. Include a streamlined navigation menu for easy access to test creation, user management, and analytics sections. Develop an intuitive test creation interface and a question bank for organizing questions. The test-taker interface needs to be simple and distraction-free. Incorporate a reporting and analytics section with visual representations of test results and performance metrics. Ensure the design is intuitive, with attention to user experience, and supports various question types like multiple-choice, essay, and true/false. The application should be mobile-responsive and include features like test scheduling, randomization, time limits, and feedback systems. Prioritize accessibility and user-friendly design for a diverse range of users.",
+    "dateAdded": "2023-12-27T18:10:03.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/jkdQuC7NFm7",
+    "label": "Template for prompt: login",
+    "dateAdded": "2023-12-27T18:10:03.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/nXnAyQ8rBdQ",
+    "label": "Template for prompt: Hero use shadcn, image on the right and text on the left",
+    "dateAdded": "2023-12-27T18:10:03.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/uI0QPFtKmfG",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T18:10:03.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/zku4rkImBSH",
+    "label": "Template for prompt: architecter",
+    "dateAdded": "2023-12-27T18:10:03.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/grMTxoT7ABA",
+    "label": "Template for prompt: a modern dark hero page",
+    "dateAdded": "2023-12-27T18:10:03.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/wFpm6lt8piN",
+    "label": "Template for prompt: An ecommerce quantity input with +/- buttons on each side above an Add to cart button",
+    "dateAdded": "2023-12-27T18:10:03.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/KvnZNQQHijl",
+    "label": "Template for prompt: An e-commerce website of a candy shop",
+    "dateAdded": "2023-12-27T18:10:03.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/tTD7bh3gYQ1",
+    "label": "Template for prompt: A modern bnb apartment card",
+    "dateAdded": "2023-12-27T18:10:03.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/ozZINwJfh3h",
+    "label": "Template for prompt: a ui where multiple people share the same ui to watch the same video",
+    "dateAdded": "2023-12-27T18:10:03.731Z"
+  },
+  {
+    "url": "https://v0.dev/t/fWdjKlZTmBw",
+    "label": "Template for prompt: make me an assome protfolio website for full stack web developer",
+    "dateAdded": "2023-12-27T18:10:03.731Z"
+  },
+  {
+    "url": "https://v0.dev/t/iHCSBdAVf9y",
+    "label": "Template for prompt: A modern bnb apartment card",
+    "dateAdded": "2023-12-27T18:10:03.731Z"
+  },
+  {
+    "url": "https://v0.dev/t/1cpxDUdQiQm",
+    "label": "Template for prompt: A modern bnb apartment card",
+    "dateAdded": "2023-12-27T18:10:03.731Z"
+  },
+  {
+    "url": "https://v0.dev/t/EwZ4HSS2Q2H",
+    "label": "Template for prompt: make an admin dashboard with MacOs style html css and js vanilla, its for control users at real time (redirect users to next pages)",
+    "dateAdded": "2023-12-27T18:10:03.732Z"
+  },
+  {
+    "url": "https://v0.dev/t/5rGCmDgK0qD",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T18:10:03.732Z"
+  },
+  {
+    "url": "https://v0.dev/t/TISJUMJD2nI",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T18:10:03.732Z"
+  },
+  {
+    "url": "https://v0.dev/t/lG7Msoh6iln",
+    "label": "Template for prompt: Make an edit form of a contact in a CRM",
+    "dateAdded": "2023-12-27T18:10:03.733Z"
+  },
+  {
+    "url": "https://v0.dev/t/Drnt6HDsB6r",
+    "label": "Template for prompt: design me a homepage with information about the top 10 best cars in the world and include pictures.",
+    "dateAdded": "2023-12-27T18:10:03.733Z"
+  },
+  {
+    "url": "https://v0.dev/t/ciepi47AMvx",
+    "label": "Template for prompt: projects section for a portfolio",
+    "dateAdded": "2023-12-27T18:10:03.733Z"
+  },
+  {
+    "url": "https://v0.dev/t/bRdFQwaNuor",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T18:10:03.733Z"
   }
 ]
