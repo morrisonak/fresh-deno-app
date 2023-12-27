@@ -16,8 +16,10 @@ export default function Home() {
 
           return (
             <div key={index} class="px-4 py-2 mb-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow duration-200">
-              {link.url.includes('/t/') && 
-              {/* <img src={imagePath} alt={link.label || 'Image preview'} class="w-full h-40 object-cover rounded-t-lg" />} */}
+              {/* Uncomment below to display images */}
+              {/* {link.url.includes('/t/') && 
+                <img src={imagePath} alt={link.label || 'Image preview'} class="w-full h-40 object-cover rounded-t-lg" />
+              } */}
               <div class="p-4">
                 <a 
                   href={link.url} 
@@ -30,7 +32,7 @@ export default function Home() {
                 {link.label && <p class="font-semibold mt-1">{link.label}</p>}
                 <p class="text-gray-600 text-sm">Date Added: {link.dateAdded}</p>
               </div>
-           
+            </div>
           );
         })}
       </div>
