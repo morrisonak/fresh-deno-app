@@ -7013,5 +7013,135 @@
     "url": "https://v0.dev/t/1bN98I0Hwgy",
     "label": "Template for prompt: a credit card with css",
     "dateAdded": "2023-12-27T15:04:03.366Z"
+  },
+  {
+    "url": "https://v0.dev/t/vy92EvAc5ol",
+    "label": "Template for prompt: an inventory management dashboard",
+    "dateAdded": "2023-12-27T15:07:53.691Z"
+  },
+  {
+    "url": "https://v0.dev/t/GzLCKFTuovc",
+    "label": "Template for prompt: A rick and morty characters landing page",
+    "dateAdded": "2023-12-27T15:07:53.691Z"
+  },
+  {
+    "url": "https://v0.dev/t/IHsNNZSuQj1",
+    "label": "Template for prompt: a landing page for a music festival playlist generator. a user will search for a music festival and the website will generate playlists. also, on the homepage there's already some feature festivals in order for the user to just click",
+    "dateAdded": "2023-12-27T15:07:53.691Z"
+  },
+  {
+    "url": "https://v0.dev/t/33XIntOHXU5",
+    "label": "Template for prompt: A landing page for a finance expense tracking and viewing site",
+    "dateAdded": "2023-12-27T15:07:53.691Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ly2US2c34NG",
+    "label": "Template for prompt: a cart sheck out sheet with a resume of all products choosen, the number of products, product image , the price, add a plus and add button to increase or decrease the number of items per product\nwith a total shipping estimate, shipping cost, and IVA Cost  \n",
+    "dateAdded": "2023-12-27T15:07:53.691Z"
+  },
+  {
+    "url": "https://v0.dev/t/bSE0xS7VdTI",
+    "label": "Template for prompt: a page that shows all our facilities i dont want card layout",
+    "dateAdded": "2023-12-27T15:07:53.691Z"
+  },
+  {
+    "url": "https://v0.dev/t/Pzd6LbhTwTr",
+    "label": "Template for prompt: website with dark theme homepage with pictures around main text",
+    "dateAdded": "2023-12-27T15:07:53.691Z"
+  },
+  {
+    "url": "https://v0.dev/t/iCKFPBwKatm",
+    "label": "Template for prompt: I want an app to log all my relevant life activity, like which food I eat, which people I meet, which sport I practice during the day?",
+    "dateAdded": "2023-12-27T15:07:53.692Z"
+  },
+  {
+    "url": "https://v0.dev/t/ykVxbv3FwLe",
+    "label": "Template for prompt: Admin application with Users, Companies and Perk codes sections. Users section is active and has a paginated template with columns: Name, Email, Registered, Last sign in, Actions.",
+    "dateAdded": "2023-12-27T15:07:53.692Z"
+  },
+  {
+    "url": "https://v0.dev/t/63Tmf6Rn3gK",
+    "label": "Template for prompt: Design a dashboard for your app with a sidebar navigation. The sidebar should display icons and names for the following listings: Categories, Products, Stores, Customers.\n\nThe sidebar should have a clean and intuitive design, with each listing represented by an icon and its corresponding name. For example:\n- Categories (Icon: 📦)\n- Products (Icon: 📝)\n- Stores (Icon: 🏬)\n- Customers (Icon: 👥)\n\nThe selected item in the sidebar should be visually highlighted to provide a clear indication of the active page. You can use a different background color, underline the name, or add a border to the selected item.\n\nAdditionally, the sidebar should include three buttons at the bottom:\n- Settings (Icon: ⚙️) - Clicking this button should open the settings page.\n- Help (Icon: ❓) - Clicking this button should provide access to help or support resources.\n- Logout (Icon: 🔒) - Clicking this button should log the user out of the application.\n\nConsider the layout and spacing of the dashboard to ensure it",
+    "dateAdded": "2023-12-27T15:07:53.692Z"
+  },
+  {
+    "url": "https://v0.dev/t/iRDYU5EAtWL",
+    "label": "Template for prompt: a page to show all our facilities. I dont want card layout",
+    "dateAdded": "2023-12-27T15:07:53.692Z"
+  },
+  {
+    "url": "https://v0.dev/t/uEJnVELsH1Y",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27T15:07:53.692Z"
+  },
+  {
+    "url": "https://v0.dev/t/GcaLcMFBEPF",
+    "label": "Template for prompt: a rick and morty character page view",
+    "dateAdded": "2023-12-27T15:07:53.692Z"
+  },
+  {
+    "url": "https://v0.dev/t/nttUQiWh5gr",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T15:07:53.692Z"
+  },
+  {
+    "url": "https://v0.dev/t/fDV4bGSxqfj",
+    "label": "Template for prompt: design a landing page for a service that connects dieticians, nutritionists, and other health professionals with prospects",
+    "dateAdded": "2023-12-27T15:07:53.692Z"
+  },
+  {
+    "url": "https://v0.dev/t/orWEOAP01vK",
+    "label": "Template for prompt: create a terms and conditions page with signature request and agree button at the bottom of the text",
+    "dateAdded": "2023-12-27T15:07:53.693Z"
+  },
+  {
+    "url": "https://v0.dev/t/TOn4G8JAEaz",
+    "label": "Template for prompt: chatgpt的对话框",
+    "dateAdded": "2023-12-27T15:07:53.693Z"
+  },
+  {
+    "url": "https://v0.dev/t/dto3hTqK8xZ",
+    "label": "Template for prompt: a rick and morty character view",
+    "dateAdded": "2023-12-27T15:07:53.693Z"
+  },
+  {
+    "url": "https://v0.dev/t/dFMh4Jeo4q9",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-27T15:07:53.693Z"
+  },
+  {
+    "url": "https://v0.dev/t/z17SM0wiNit",
+    "label": "Template for prompt: a landing case for an investing AI called investif.ai",
+    "dateAdded": "2023-12-27T15:07:53.693Z"
+  },
+  {
+    "url": "https://v0.dev/t/QJTzOpJ6WZj",
+    "label": "Template for prompt: a page to list all our facilities with a little description",
+    "dateAdded": "2023-12-27T15:07:53.693Z"
+  },
+  {
+    "url": "https://v0.dev/t/K2kEa7jr2Eh",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27T15:07:53.693Z"
+  },
+  {
+    "url": "https://v0.dev/t/IUn5lyrjiSe",
+    "label": "Template for prompt: a dropdown with grouped collapsable sections and sub navs",
+    "dateAdded": "2023-12-27T15:07:53.693Z"
+  },
+  {
+    "url": "https://v0.dev/t/Uk46b4Xmfea",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T15:07:53.693Z"
+  },
+  {
+    "url": "https://v0.dev/t/2ir5oP7AgIt",
+    "label": "Template for prompt: create a layout with two sidebars, with a music player like spotify attached to the bottom, use a black theme",
+    "dateAdded": "2023-12-27T15:07:53.694Z"
+  },
+  {
+    "url": "https://v0.dev/t/JM2TsaNRoRE",
+    "label": "Template for prompt: 对话框",
+    "dateAdded": "2023-12-27T15:07:53.694Z"
   }
 ]
