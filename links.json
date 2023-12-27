@@ -10608,5 +10608,135 @@
     "url": "https://v0.dev/t/fsrQbHpQlCf",
     "label": "Template for prompt: 2. Abas de navegação: Dashboard, Clientes, Pedidos, Venda, Relatórios, Acervo.\n3. Ícone de pesquisa (lupa).\n4. Ícone de perfil do usuário com a opção \"Sua opinião\".\n5. Ícone de carrinho de compras com contador zero.\n6. Identificação de sessão do usuário no canto superior direito.\n7. Barra de ferramentas com campos de busca e seleção.\n8. Campo de texto para busca por \"Cliente\" (código, nome ou CNPJ).\n9. Campo de texto para busca por \"Artigo ou código de barras\".\n10. Seleção para \"Tabela de preços\" com a opção \"001 - TABELA 8P*\" pré-definida.\n11. Menus suspensos para seleção de \"Coleção\", \"Linha\" e \"Grupo\".\n12. Menu suspenso para escolha de \"Data prevista\" com opção de \"Datas pré-definidas\".\n13. Botão de pesquisa azul \"Pesquisar\".\n14. Lista de produtos com códigos numéricos e descrições.\n15. Preços listados em reais (R$) ao lado de cada produto.\n16. Indicação de unidades e tamanhos disponíveis (P, M, G, GG) para cada produto.\n17. Mix de produtos variados, como camisetas estampadas e lisa",
     "dateAdded": "2023-12-27T17:20:03.995Z"
+  },
+  {
+    "url": "https://v0.dev/t/XBpKD8bN7S4",
+    "label": "Template for prompt: A mobile conversations of voice messages, as in a messaging app",
+    "dateAdded": "2023-12-27T17:25:04.046Z"
+  },
+  {
+    "url": "https://v0.dev/t/SFslc4gW1BJ",
+    "label": "Template for prompt: Newsletter",
+    "dateAdded": "2023-12-27T17:25:04.046Z"
+  },
+  {
+    "url": "https://v0.dev/t/fpLqb98zMNO",
+    "label": "Template for prompt: A restaurant mobile app homme screen",
+    "dateAdded": "2023-12-27T17:25:04.046Z"
+  },
+  {
+    "url": "https://v0.dev/t/F9ezqffJS6I",
+    "label": "Template for prompt: a dashbord admin user with supabase role based",
+    "dateAdded": "2023-12-27T17:25:04.046Z"
+  },
+  {
+    "url": "https://v0.dev/t/388cRHI6n9e",
+    "label": "Template for prompt: Make Tesla website ",
+    "dateAdded": "2023-12-27T17:25:04.046Z"
+  },
+  {
+    "url": "https://v0.dev/t/7EyjCVBxeNr",
+    "label": "Template for prompt: clean homepage for a platform to easily schedule auto services and and add your specific vehicle to your dashboard - for fleet maintenence",
+    "dateAdded": "2023-12-27T17:25:04.047Z"
+  },
+  {
+    "url": "https://v0.dev/t/MQyA6liLZxD",
+    "label": "Template for prompt: editor that supports adding titles and paragraphs",
+    "dateAdded": "2023-12-27T17:25:04.047Z"
+  },
+  {
+    "url": "https://v0.dev/t/WM4CopYZ4e0",
+    "label": "Template for prompt: Change the colors",
+    "dateAdded": "2023-12-27T17:25:04.047Z"
+  },
+  {
+    "url": "https://v0.dev/t/G5MBIJtbuMH",
+    "label": "Template for prompt: Like this",
+    "dateAdded": "2023-12-27T17:25:04.047Z"
+  },
+  {
+    "url": "https://v0.dev/t/8PGWaSJWD18",
+    "label": "Template for prompt: pricing plan with three plans: FREE, PREMIUM and CLASSROOM",
+    "dateAdded": "2023-12-27T17:25:04.047Z"
+  },
+  {
+    "url": "https://v0.dev/t/Th8IVljifsJ",
+    "label": "Template for prompt: reproduce it",
+    "dateAdded": "2023-12-27T17:25:04.048Z"
+  },
+  {
+    "url": "https://v0.dev/t/fnHdfD77TzG",
+    "label": "Template for prompt: create me a simple landing page that looks technical",
+    "dateAdded": "2023-12-27T17:25:04.048Z"
+  },
+  {
+    "url": "https://v0.dev/t/PB35sNKnYA7",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button. With success after submit click is a short message saying thank you and someone will get in touch",
+    "dateAdded": "2023-12-27T17:25:04.048Z"
+  },
+  {
+    "url": "https://v0.dev/t/WdHfaCJ3hwq",
+    "label": "Template for prompt: vertical form with the following fields 1. image upload, 2 title, 3 subtitle, 4 tag and a submit button",
+    "dateAdded": "2023-12-27T17:25:04.048Z"
+  },
+  {
+    "url": "https://v0.dev/t/2hHbhVUeP2e",
+    "label": "Template for prompt: a spotify music card",
+    "dateAdded": "2023-12-27T17:25:04.049Z"
+  },
+  {
+    "url": "https://v0.dev/t/puKIJV8ukMi",
+    "label": "Template for prompt: full page loading state where snow falls from the top of the screen",
+    "dateAdded": "2023-12-27T17:25:04.049Z"
+  },
+  {
+    "url": "https://v0.dev/t/fgjACySUfEa",
+    "label": "Template for prompt: Chatbot",
+    "dateAdded": "2023-12-27T17:25:04.049Z"
+  },
+  {
+    "url": "https://v0.dev/t/H1sAkmFS0zM",
+    "label": "Template for prompt: I want you to please help create a heat map of a schedule in react where provided data is an array of object each object with start_date:(date in milliseconds), duration:(hours spent on shift but in millisecond). Given thi data the heatmap like github's one it will have a colums of seven rounded squares , the first one represent sunday the last one saturday. The color fill of each squre will be determined but how great is the duration.\n\nHere is a starter , I'm using tailwindcss for styles:\n {/**Heat Map */}\n      <div\n        className=\"w-full h-full overflow-hidden !text-xxs font-semibold capitalize border\n         border-dashed border-zinc-200 bg-zinc-50 rounded-sm p-3 shadow\"\n      ></div> ",
+    "dateAdded": "2023-12-27T17:25:04.049Z"
+  },
+  {
+    "url": "https://v0.dev/t/gQDRLitjtgL",
+    "label": "Template for prompt: A saas app with a toolbar with hamburger menu with company logo and the customers name on the right side",
+    "dateAdded": "2023-12-27T17:25:04.049Z"
+  },
+  {
+    "url": "https://v0.dev/t/6fRO6RECmhG",
+    "label": "Template for prompt: 포스트잇처럼 온라인 롤링페이퍼 서비스",
+    "dateAdded": "2023-12-27T17:25:04.049Z"
+  },
+  {
+    "url": "https://v0.dev/t/Td6jJVF1GYM",
+    "label": "Template for prompt: black button white text that triggers a dialog. inside dialog is a form to upload an article with the following fields:\nthumbnail image upload, title, subtitle, tag and a submit button",
+    "dateAdded": "2023-12-27T17:25:04.050Z"
+  },
+  {
+    "url": "https://v0.dev/t/eg0xaDiFMrD",
+    "label": "Template for prompt: An audio player",
+    "dateAdded": "2023-12-27T17:25:04.050Z"
+  },
+  {
+    "url": "https://v0.dev/t/nWGz7tqVWL1",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T17:25:04.050Z"
+  },
+  {
+    "url": "https://v0.dev/t/WpOUh24fbQZ",
+    "label": "Template for prompt: code in reactnative ",
+    "dateAdded": "2023-12-27T17:25:04.050Z"
+  },
+  {
+    "url": "https://v0.dev/t/NDLFQgjbThX",
+    "label": "Template for prompt: a bottom navigation component with 4 icons that becomes a drawer on desktop screen sizes",
+    "dateAdded": "2023-12-27T17:25:04.050Z"
+  },
+  {
+    "url": "https://v0.dev/t/zB4uYBCyTDD",
+    "label": "Template for prompt: admin page with card builder",
+    "dateAdded": "2023-12-27T17:25:04.051Z"
   }
 ]
