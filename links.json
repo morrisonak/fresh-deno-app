@@ -18198,5 +18198,135 @@
     "url": "https://v0.dev/t/PFonaootmQP",
     "label": "Template for prompt: catalogo de odjectos",
     "dateAdded": "2023-12-27T22:20:03.253Z"
+  },
+  {
+    "url": "https://v0.dev/t/kg5WRH4NuSw",
+    "label": "Template for prompt: build a layout the represents a detailed tree of JSON data",
+    "dateAdded": "2023-12-27T22:25:03.199Z"
+  },
+  {
+    "url": "https://v0.dev/t/mZCfR1kKisl",
+    "label": "Template for prompt: An email card with an edit button that expands into a drawer with a form to edit it",
+    "dateAdded": "2023-12-27T22:25:03.200Z"
+  },
+  {
+    "url": "https://v0.dev/t/d3HrkOYa5QV",
+    "label": "Template for prompt: Minimalist landing page for frontend developer",
+    "dateAdded": "2023-12-27T22:25:03.200Z"
+  },
+  {
+    "url": "https://v0.dev/t/uz8OzWhjfjm",
+    "label": "Template for prompt: Remake this scan into a document looking file and translate to Spanish",
+    "dateAdded": "2023-12-27T22:25:03.200Z"
+  },
+  {
+    "url": "https://v0.dev/t/jdMHK319XZH",
+    "label": "Template for prompt: A card for amazon products that works with my json\n\nimport { useState, useEffect } from \"react\";\nimport camerasData from \"../cameras.json\";\n\ninterface Camera {\n  id: number;\n  name: string;\n  description: string;\n  price: string;\n  affiliateLink: string;\n}\n\nconst itemsPerPage = 8; // Number of cameras per page\n\nconst CameraList = () => {\n  const [cameras, setCameras] = useState<Camera[]>([]);\n  const [currentPage, setCurrentPage] = useState(1);\n  const totalPages = Math.ceil(camerasData.length / itemsPerPage);\n\n  useEffect(() => {\n    const start = (currentPage - 1) * itemsPerPage;\n    const end = start + itemsPerPage;\n    setCameras(camerasData.slice(start, end));\n  }, [currentPage]);\n\n  const handlePrevPage = () => {\n    setCurrentPage(currentPage > 1 ? currentPage - 1 : currentPage);\n  };\n\n  const handleNextPage = () => {\n    setCurrentPage(currentPage < totalPages ? currentPage + 1 : currentPage);\n  };\n\n  return (\n    <div className=\"flex flex-col justify-center items-center h-fu",
+    "dateAdded": "2023-12-27T22:25:03.200Z"
+  },
+  {
+    "url": "https://v0.dev/t/O5Z6PDOgYmf",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27T22:25:03.200Z"
+  },
+  {
+    "url": "https://v0.dev/t/8Xh7e71L0hZ",
+    "label": "Template for prompt: agendar cita barber con su tikec de compra",
+    "dateAdded": "2023-12-27T22:25:03.200Z"
+  },
+  {
+    "url": "https://v0.dev/t/zr4fJTVxJ2a",
+    "label": "Template for prompt: Welcom interface for a video games ",
+    "dateAdded": "2023-12-27T22:25:03.201Z"
+  },
+  {
+    "url": "https://v0.dev/t/e9zje3rsDwX",
+    "label": "Template for prompt: build a detailed personal contact record",
+    "dateAdded": "2023-12-27T22:25:03.201Z"
+  },
+  {
+    "url": "https://v0.dev/t/rU6hJjooVzd",
+    "label": "Template for prompt: Design a financial dashboard showcasing comprehensive data for all Orders and Expenses. This should include details for Orders such as customer name, total amount, status (pending, completed, canceled), payment information (type and amount), completion date, profit, profit percentage, and total commission paid. The Orders section should have a sub-array for Order Items, displaying associated order details, responsible employee, item type (Product or Service), user who registered the order, quantity, unit price, and commission, but only as a part of order details. In the Expenses section, include description, amount, category, date, receipt, and user. Focus on clearly displaying the total revenue and expenses, with filtering options by date, category, and user. Incorporate charts for trend analysis and financial performance comparisons. with small and minimalist graphs, total revenue showing the comparison with the same previous period",
+    "dateAdded": "2023-12-27T22:25:03.201Z"
+  },
+  {
+    "url": "https://v0.dev/t/0GVHsJHCi9b",
+    "label": "Template for prompt: blog post app profile page option to edit personal details profile pic. Count of how many comments and posts I made",
+    "dateAdded": "2023-12-27T22:25:03.201Z"
+  },
+  {
+    "url": "https://v0.dev/t/xaHSITDoKVG",
+    "label": "Template for prompt: Glass UI based, driving school website",
+    "dateAdded": "2023-12-27T22:25:03.201Z"
+  },
+  {
+    "url": "https://v0.dev/t/0nyAwo77Wsj",
+    "label": "Template for prompt: agendar una cita barberia animada",
+    "dateAdded": "2023-12-27T22:25:03.202Z"
+  },
+  {
+    "url": "https://v0.dev/t/HNwAR93Yekm",
+    "label": "Template for prompt: porda de un a barberia wed animada",
+    "dateAdded": "2023-12-27T22:25:03.202Z"
+  },
+  {
+    "url": "https://v0.dev/t/sHbx9Nimk3E",
+    "label": "Template for prompt: create a form for adding a burger to a database",
+    "dateAdded": "2023-12-27T22:25:03.202Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ngjy54FIzMz",
+    "label": "Template for prompt: create a form for adding a burger to a database",
+    "dateAdded": "2023-12-27T22:25:03.202Z"
+  },
+  {
+    "url": "https://v0.dev/t/pBUGy4hpJIo",
+    "label": "Template for prompt: an minialistic drawing app, apple style, ipad notes styles, top centred input for ai prompt, canvas is square in the middle, pensils and shapes on button",
+    "dateAdded": "2023-12-27T22:25:03.202Z"
+  },
+  {
+    "url": "https://v0.dev/t/bA7RceV8Ya9",
+    "label": "Template for prompt: a landing page for a Product Manager present his portifolio",
+    "dateAdded": "2023-12-27T22:25:03.203Z"
+  },
+  {
+    "url": "https://v0.dev/t/fxwZcOjFLoh",
+    "label": "Template for prompt: A personal website with parallax scrolling and pop art",
+    "dateAdded": "2023-12-27T22:25:03.203Z"
+  },
+  {
+    "url": "https://v0.dev/t/pHUVVbFJjz4",
+    "label": "Template for prompt: blog post app profile page option to edit personal details profile pic. Count of how many comments and posts I made",
+    "dateAdded": "2023-12-27T22:25:03.203Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qt9W9reXmZX",
+    "label": "Template for prompt: text input fields that depend on one another",
+    "dateAdded": "2023-12-27T22:25:03.203Z"
+  },
+  {
+    "url": "https://v0.dev/t/NGhQPU6kQOO",
+    "label": "Template for prompt: crypto exchange ",
+    "dateAdded": "2023-12-27T22:25:03.203Z"
+  },
+  {
+    "url": "https://v0.dev/t/jUuhbTSyD3v",
+    "label": "Template for prompt: content section with counters",
+    "dateAdded": "2023-12-27T22:25:03.203Z"
+  },
+  {
+    "url": "https://v0.dev/t/W9dWhsyc2gn",
+    "label": "Template for prompt: Create a glass landing page",
+    "dateAdded": "2023-12-27T22:25:03.203Z"
+  },
+  {
+    "url": "https://v0.dev/t/bn3wOvP9Tn2",
+    "label": "Template for prompt: Design a financial dashboard showcasing comprehensive data for all Orders and Expenses. This should include details for Orders such as customer name, total amount, status (pending, completed, canceled), payment information (type and amount), completion date, profit, profit percentage, and total commission paid. The Orders section should have a sub-array for Order Items, displaying associated order details, responsible employee, item type (Product or Service), user who registered the order, quantity, unit price, and commission, but only as a part of order details. In the Expenses section, include description, amount, category, date, receipt, and user. Focus on clearly displaying the total revenue and expenses, with filtering options by date, category, and user. Incorporate charts for trend analysis and financial performance comparisons. simple and intuitive",
+    "dateAdded": "2023-12-27T22:25:03.203Z"
+  },
+  {
+    "url": "https://v0.dev/t/umk35Z5OpYL",
+    "label": "Template for prompt: A simple layout, where a header bar fills the full width with fixed height of 70px. Under it, there's a block that fills the full height.",
+    "dateAdded": "2023-12-27T22:25:03.204Z"
   }
 ]
