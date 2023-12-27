@@ -15588,5 +15588,125 @@
     "url": "https://v0.dev/t/1F3G2706OWH",
     "label": "Template for prompt: Translation and grammar improvement:\n\n\"Landing page for a transportation service website, similar to city-to-city bus travel but offering a more personalized service.\"",
     "dateAdded": "2023-12-27T20:35:03.068Z"
+  },
+  {
+    "url": "https://v0.dev/t/BDOLLCCSgkd",
+    "label": "Template for prompt: i want a landing page for my cricket club",
+    "dateAdded": "2023-12-27T20:40:03.340Z"
+  },
+  {
+    "url": "https://v0.dev/t/gwsP35qSj4V",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-27T20:40:03.340Z"
+  },
+  {
+    "url": "https://v0.dev/t/ElBldnmwrNw",
+    "label": "Template for prompt: a search bar with a table with 7 columns ",
+    "dateAdded": "2023-12-27T20:40:03.340Z"
+  },
+  {
+    "url": "https://v0.dev/t/xJE0nbKK0Al",
+    "label": "Template for prompt: landing page for a photographer",
+    "dateAdded": "2023-12-27T20:40:03.340Z"
+  },
+  {
+    "url": "https://v0.dev/t/fGlic5Mz5kS",
+    "label": "Template for prompt: A minimalist pixel art themed blog template",
+    "dateAdded": "2023-12-27T20:40:03.340Z"
+  },
+  {
+    "url": "https://v0.dev/t/wzvgBsjm6eb",
+    "label": "Template for prompt: payment method",
+    "dateAdded": "2023-12-27T20:40:03.340Z"
+  },
+  {
+    "url": "https://v0.dev/t/zK0vc8PhWzp",
+    "label": "Template for prompt: do a video player for shorts, inspired by youtube and tiktok",
+    "dateAdded": "2023-12-27T20:40:03.341Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ju87R7jndYv",
+    "label": "Template for prompt: a component for a card that shows an artwork. It can dynamically be in whatever aspect ratio. \nuse this type: export interface ContentProps {\n    title: string\n    description: string\n    height: number\n    width: number\n    src: string\n    objectFit: React.CSSProperties['objectFit']\n    alt: string\n}\nheres the image html: <Image\n                    alt={alt}\n                    className=\"w-full h-full object-cover object-center\"\n                    height={height}\n                    src={src}\n                    style={{\n                        aspectRatio: `${width}/${height}`,\n                        objectFit: objectFit,\n                    }}\n                    width={width}\n                />",
+    "dateAdded": "2023-12-27T20:40:03.341Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZT0c8GCgdR8",
+    "label": "Template for prompt: Write a section with inline buttons, for Product 1 through 5.",
+    "dateAdded": "2023-12-27T20:40:03.341Z"
+  },
+  {
+    "url": "https://v0.dev/t/y2TCSXdHe1o",
+    "label": "Template for prompt: CAn you please create a beautiful about us page for a technology company ?",
+    "dateAdded": "2023-12-27T20:40:03.341Z"
+  },
+  {
+    "url": "https://v0.dev/t/qGaSIkL1NtO",
+    "label": "Template for prompt: CAn you please create a beautiful about us page for a technology company ?",
+    "dateAdded": "2023-12-27T20:40:03.341Z"
+  },
+  {
+    "url": "https://v0.dev/t/mKiXehzN5qM",
+    "label": "Template for prompt: A event detail page for a mountaineering club website",
+    "dateAdded": "2023-12-27T20:40:03.341Z"
+  },
+  {
+    "url": "https://v0.dev/t/cWy4VGurooj",
+    "label": "Template for prompt: ecommerce header with search profile and cart button",
+    "dateAdded": "2023-12-27T20:40:03.341Z"
+  },
+  {
+    "url": "https://v0.dev/t/XWtcgt3MQsZ",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27T20:40:03.341Z"
+  },
+  {
+    "url": "https://v0.dev/t/aw1efVUWN7X",
+    "label": "Template for prompt: skelleton loading",
+    "dateAdded": "2023-12-27T20:40:03.342Z"
+  },
+  {
+    "url": "https://v0.dev/t/ftASkIb548e",
+    "label": "Template for prompt: can you create a simple email client using jmap , vue and nuxt 3",
+    "dateAdded": "2023-12-27T20:40:03.342Z"
+  },
+  {
+    "url": "https://v0.dev/t/hlvtewt1W4K",
+    "label": "Template for prompt: A chat component with time, files, and message cards",
+    "dateAdded": "2023-12-27T20:40:03.342Z"
+  },
+  {
+    "url": "https://v0.dev/t/shYTM06AhPM",
+    "label": "Template for prompt: a meme coin landing page template",
+    "dateAdded": "2023-12-27T20:40:03.342Z"
+  },
+  {
+    "url": "https://v0.dev/t/j7lzKLfBrvd",
+    "label": "Template for prompt: A application that helps you write repsonses to RFPs",
+    "dateAdded": "2023-12-27T20:40:03.342Z"
+  },
+  {
+    "url": "https://v0.dev/t/6nzK0a0rvK3",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-27T20:40:03.342Z"
+  },
+  {
+    "url": "https://v0.dev/t/63oo8ewwTZJ",
+    "label": "Template for prompt: Crypto lending component with withdraw and deposit buttons",
+    "dateAdded": "2023-12-27T20:40:03.342Z"
+  },
+  {
+    "url": "https://v0.dev/t/uh5A12MhV9A",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T20:40:03.342Z"
+  },
+  {
+    "url": "https://v0.dev/t/xlbad7O5GC2",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-27T20:40:03.343Z"
+  },
+  {
+    "url": "https://v0.dev/t/qkEXJJsHg7o",
+    "label": "Template for prompt: grid with brand links such as facebook.com and some unique text or anything else to show",
+    "dateAdded": "2023-12-27T20:40:03.343Z"
   }
 ]
