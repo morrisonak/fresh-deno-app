@@ -7403,5 +7403,130 @@
     "url": "https://v0.dev/t/Pzd6LbhTwTr",
     "label": "Template for prompt: website with dark theme homepage with pictures around main text",
     "dateAdded": "2023-12-27T15:15:03.315Z"
+  },
+  {
+    "url": "https://v0.dev/t/kchOhJ21EKD",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T15:20:03.944Z"
+  },
+  {
+    "url": "https://v0.dev/t/sZGggdzm7c6",
+    "label": "Template for prompt: a website with a list of links to different services prominently displayed at the center of the screen",
+    "dateAdded": "2023-12-27T15:20:03.944Z"
+  },
+  {
+    "url": "https://v0.dev/t/hTtyeR9kmpu",
+    "label": "Template for prompt: create a bento grid",
+    "dateAdded": "2023-12-27T15:20:03.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/ESr0yUA0pdz",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T15:20:03.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/7a4c1W18nmn",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T15:20:03.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/mUDyADbIJjQ",
+    "label": "Template for prompt: Design static web pages required for any online services website. Home Page: Divide the Page into 3 Frames. Divide the first page into two columns. Insert the logo into the first frame and the website header into the right frame. Divide the 2nd frame into 5 columns and insert the hyperlinks such as Home, Login, Registration, Catalogue, Cart, and Contact Us. (When we click on any hyperlink, corresponding web pages should be loaded into the bottom right frame) Divide the 3rd frame into 2 columns. In the left column insert hyperlinks for the services of the website. (When we click on any hyperlink, corresponding web pages should be loaded into the right frame). In the right column write the description of the webpage.",
+    "dateAdded": "2023-12-27T15:20:03.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/aur0AN7R4YK",
+    "label": "Template for prompt: create a carousel with chakra ui cards",
+    "dateAdded": "2023-12-27T15:20:03.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/TCUy07LyavZ",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-27T15:20:03.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/FoBNrVoz1gz",
+    "label": "Template for prompt: create a payment platform like stripe with side bar menu of \"dashboard\nreporting\ncampaigns\ndonors\nelements\nfundraisers\nexport data\n\nhelp\ntest data\n\n\nsetting\"",
+    "dateAdded": "2023-12-27T15:20:03.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/XH4e7xB64p6",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T15:20:03.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/nsC8nUKtPBN",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T15:20:03.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/y3JMQi2X7Oa",
+    "label": "Template for prompt: Objective: Create a blog section at the bottom of the homepage with three cards displaying the latest blog posts.\nSpecifications:\nBlog Cards:\nEach card should display: Author,Title, date, brief description, and an image for the blog post. Show only the three most recent blog posts. Ensure an appealing layout for the cards.\nLayout Placement: Integrate the blog section at the bottom of the homepage.\nNavigation:Add a prominent \"See All Blog Posts\" button below the cards. The button should lead users to the complete blog archive.\nResponsiveness: Ensure the design works well on desktop, tablet, and mobile screens.\nConsiderations: Maintain a cohesive theme with the website's overall design. Prioritize user-friendliness and quick access to blog content.",
+    "dateAdded": "2023-12-27T15:20:03.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/U8aBYFvQ3M1",
+    "label": "Template for prompt: media player controls with functional state",
+    "dateAdded": "2023-12-27T15:20:03.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/qhyCdtuYk08",
+    "label": "Template for prompt: create a otp verificaton 6 input field in react ",
+    "dateAdded": "2023-12-27T15:20:03.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/YhIsFZmlQ1w",
+    "label": "Template for prompt: customer profile page with customer image, name, address,  phone, total balance, due balance, deposit balance. recent transaction list, recent sell list\n\non large screen image on top then name then customer profile page with customer image, name, address,  phone, total balance, due balance, deposit balance. recent transaction list, recent sell list\n\non large screen image on top then name then address and phone side by side then sell list and transaction list\n\non small screen image on top then name, then address, then phone then sell list and transaction list",
+    "dateAdded": "2023-12-27T15:20:03.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/RSDY7HGdHUN",
+    "label": "Template for prompt: create a beatiful navbar that responsive on all screens with toogle hamburger menu with animations in small screens",
+    "dateAdded": "2023-12-27T15:20:03.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/iE4dYn06bTd",
+    "label": "Template for prompt: customer profile page with customer image, name, address,  phone, total balance, due balance, deposit balance. recent transaction list, recent sell list\n\non large screen image on top then name then ",
+    "dateAdded": "2023-12-27T15:20:03.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/3wW8qc55Aw9",
+    "label": "Template for prompt: Craft engaging content for the homepage of EUREKA GLOBAL Consulting Firm. Provide a concise introduction to the firm, highlighting its mission, vision, and commitment to excellence. Include visually appealing elements such as high-quality images and graphics to create an inviting first impression. Consider incorporating a brief overview of the firm's core services and a compelling call to action.",
+    "dateAdded": "2023-12-27T15:20:03.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/a7ZvXqqZeJa",
+    "label": "Template for prompt: On the left is the service main image and on the right is the main login page with Google simple login.",
+    "dateAdded": "2023-12-27T15:20:03.947Z"
+  },
+  {
+    "url": "https://v0.dev/t/lByhjUsWJNx",
+    "label": "Template for prompt: crea un reporductor de música con todos sus controles y la lista de reproducción ",
+    "dateAdded": "2023-12-27T15:20:03.947Z"
+  },
+  {
+    "url": "https://v0.dev/t/bx3Qf2HnRBi",
+    "label": "Template for prompt: 왼쪽엔 서비스 메인 이미지 오른쪽엔 구글 간편로그인이 있는 메인 로그인페이지",
+    "dateAdded": "2023-12-27T15:20:03.947Z"
+  },
+  {
+    "url": "https://v0.dev/t/Dyc6W4HN6bk",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-27T15:20:03.947Z"
+  },
+  {
+    "url": "https://v0.dev/t/tHvZWke1NGh",
+    "label": "Template for prompt: crea una pagina de perfil, donde el ususario podra ver su informacion basica y solicitar modificar el email",
+    "dateAdded": "2023-12-27T15:20:03.947Z"
+  },
+  {
+    "url": "https://v0.dev/t/o5KJXhXP9Pf",
+    "label": "Template for prompt: create this exactly",
+    "dateAdded": "2023-12-27T15:20:03.947Z"
+  },
+  {
+    "url": "https://v0.dev/t/BDfBierF6b4",
+    "label": "Template for prompt: Screen Shot 2023-12-27 at 8.41.35 PM.png",
+    "dateAdded": "2023-12-27T15:20:03.947Z"
   }
 ]
