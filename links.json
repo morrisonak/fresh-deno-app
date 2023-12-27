@@ -5013,5 +5013,135 @@
     "url": "https://v0.dev/t/tnkAO6CQxme",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/nbWibSAOuhX",
+    "label": "Template for prompt: A page for a PMS where we can add a room to a property, the room will be shown on a calendar with soom reservation ",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/4YEGurnffXU",
+    "label": "Template for prompt: map",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/bUKeYkDHgsk",
+    "label": "Template for prompt: a react landing page for an AI company",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/rRytkJYDu1n",
+    "label": "Template for prompt: A Home page for Company Tech2weaks (Tech2weaks Group) which is a tech services base Holding comapny",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/CH6EI876rv2",
+    "label": "Template for prompt: A landing page of a university",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/tyCnfVJvwJP",
+    "label": "Template for prompt: design a background removal saas landing page.",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/b09Zn6MgREb",
+    "label": "Template for prompt: A \"Point of Sale Closing Form\" Modal. The user should enter number of Bank Notes for each denomination on which the totals will be calculated.",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/ZlLJ8W2hlRd",
+    "label": "Template for prompt: I'm going to create a file management system.\nThe file type, file name, file size, and modified date are displayed in a list format, and there is a list format and a thumbnail format. There is a menu button on the right, and when you press it, a side menu appears. There is a logout and settings button in the side menu, so you can configure it.",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/pJEa3IhOvS3",
+    "label": "Template for prompt: Create a nice looking user profile editing section where a user can update their details such as email, phone number, name, notification settings, etc",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/FBNogQBo4LE",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/Ud2nZ285w0V",
+    "label": "Template for prompt: Project Overview:\nObjective:\n\nBuild a React dashboard that displays a list of people.\nClicking on a person's name in the list should dynamically change the displayed profile picture.\nComponents:\n\nDashboard Component:\n\nContains the main structure of the dashboard.\nRenders the list of people and the profile picture.\n\nHandles the state for the currently selected person.\n\nPersonList Component:\n\nDisplays a list of people.\nEach person is a clickable element that triggers a change in the profile picture.\nProfilePicture Component:\n\nDisplays the profile picture of the selected person.\nState Management:\n\nUse React state to manage the selected person and update the profile picture accordingly.\nEnsure that state changes trigger re-renders of the appropriate components.\nData Structure:\n\nStore the list of people and their associated profile pictures.\nConsider using an array of objects with properties like id, name, and imageURL.\nEvent Handling:\n\nImplement an event handler that captures clicks on a p",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/YUS7NVz6x2C",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/4NIhKgViYku",
+    "label": "Template for prompt: design me a cool portfolio website",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/umOUkrq7MDB",
+    "label": "Template for prompt: a landing page for a university",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/7U7kHljMtnJ",
+    "label": "Template for prompt: 仿照这个界面写一个类似的",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/IX4OwOXPjBn",
+    "label": "Template for prompt: A simple data table example",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/LAALW6WEhqM",
+    "label": "Template for prompt: 仿照这个界面写一个类似的",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/2Wb9QnS1zWb",
+    "label": "Template for prompt: A home page for a retail cookie store ",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/Jqf2uuWLf3U",
+    "label": "Template for prompt: a modern web application that uses a streaming chat ui for healthcare workers to ask questions and lookup medical codes. ",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/E9kQ699DJ5f",
+    "label": "Template for prompt: a multi step sruvey and signup and payment web app for a 5G broadband provider",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/CjoXiGR0SlC",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/57uoq6Pr9Lf",
+    "label": "Template for prompt: give me a design for my portfolio website",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/YRArDh6xfkR",
+    "label": "Template for prompt: Website FrontPage",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/OQv9Xqwhq5D",
+    "label": "Template for prompt: create an speech to text react component for an input box for a chatbot",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/RE337QyIZ3e",
+    "label": "Template for prompt: An AI audit dashbored",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/3xBeHyon0nJ",
+    "label": "Template for prompt: Create a page that has that generates QR codes for various use cases such as vCard, PDFs, website URLs etc. One the left, you can have selections such as colors, shapes of QR code, frame etc. and on the right section there will be a live QR code getting updated. A key focus will be on modern, clean, and aesthetically pleasing design layouts that prioritize user experience",
+    "dateAdded": "2023-12-27"
   }
 ]
