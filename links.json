@@ -10353,5 +10353,135 @@
     "url": "https://v0.dev/t/WsWrgfxCGpq",
     "label": "Template for prompt: can you help me modernize this encounter tracker ui? i would like to display the number of creatures in the minion stack, especially. ",
     "dateAdded": "2023-12-27T17:10:03.338Z"
+  },
+  {
+    "url": "https://v0.dev/t/TpjyI3fshGF",
+    "label": "Template for prompt: a train ticket booking website",
+    "dateAdded": "2023-12-27T17:15:03.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/ecbNZVDScdi",
+    "label": "Template for prompt: Make a view for displaying a contact in a CRM",
+    "dateAdded": "2023-12-27T17:15:03.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q1Au6Z5rEQS",
+    "label": "Template for prompt: I want you to please help create a heat map of a schedule in react where provided data is an array of object each object with start_date:(date in milliseconds), duration:(hours spent on shift but in millisecond). Given thi data the heatmap like github's one it will have a colums of seven rounded squares , the first one represent sunday the last one saturday. The color fill of each squre will be determined but how great is the duration.\n\nHere is a starter , I'm using tailwindcss for styles:\n {/**Heat Map */}\n      <div\n        className=\"w-full h-full overflow-hidden !text-xxs font-semibold capitalize border\n         border-dashed border-zinc-200 bg-zinc-50 rounded-sm p-3 shadow\"\n      ></div> ",
+    "dateAdded": "2023-12-27T17:15:03.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/Hfzp2oeXq4P",
+    "label": "Template for prompt: Una lista vertical de categorías, que, al clickear en una categoría, a la derecha se abre la misma lista pero con subcategorias.",
+    "dateAdded": "2023-12-27T17:15:03.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/OpZqctB4zbb",
+    "label": "Template for prompt: Make a view for displaying a contact",
+    "dateAdded": "2023-12-27T17:15:03.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/oQt0PZvkI4e",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27T17:15:03.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/kv2viia0oPC",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-27T17:15:03.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/UKK8Kzs7KYY",
+    "label": "Template for prompt: a clean modern contact form",
+    "dateAdded": "2023-12-27T17:15:03.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/4kQEhHRJbBt",
+    "label": "Template for prompt: image file browser with drag and drop",
+    "dateAdded": "2023-12-27T17:15:03.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/XUKK1fRqUXA",
+    "label": "Template for prompt: side navigartion bar fopr haouse service company",
+    "dateAdded": "2023-12-27T17:15:03.556Z"
+  },
+  {
+    "url": "https://v0.dev/t/obxPJTB5KNw",
+    "label": "Template for prompt: a clean modern contact form",
+    "dateAdded": "2023-12-27T17:15:03.556Z"
+  },
+  {
+    "url": "https://v0.dev/t/g5wNzzDpr9r",
+    "label": "Template for prompt: A web form for a world cup tournament pool. Where users can input their match predictions and pick winners for all scheduled games. All games for the past workd cup should be shown witht their respective team flags. Users should be apble to fill each game prediction and submit",
+    "dateAdded": "2023-12-27T17:15:03.556Z"
+  },
+  {
+    "url": "https://v0.dev/t/khu5jUx7kKy",
+    "label": "Template for prompt: a landing pagfe for my portfolio",
+    "dateAdded": "2023-12-27T17:15:03.556Z"
+  },
+  {
+    "url": "https://v0.dev/t/B90p6bDcKbj",
+    "label": "Template for prompt: image upload interface with geolocation and drag and drop",
+    "dateAdded": "2023-12-27T17:15:03.556Z"
+  },
+  {
+    "url": "https://v0.dev/t/eHUVIIly0yj",
+    "label": "Template for prompt: A mobile app to help people filling and signing pdf forms",
+    "dateAdded": "2023-12-27T17:15:03.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/fsrQbHpQlCf",
+    "label": "Template for prompt: 2. Abas de navegação: Dashboard, Clientes, Pedidos, Venda, Relatórios, Acervo.\n3. Ícone de pesquisa (lupa).\n4. Ícone de perfil do usuário com a opção \"Sua opinião\".\n5. Ícone de carrinho de compras com contador zero.\n6. Identificação de sessão do usuário no canto superior direito.\n7. Barra de ferramentas com campos de busca e seleção.\n8. Campo de texto para busca por \"Cliente\" (código, nome ou CNPJ).\n9. Campo de texto para busca por \"Artigo ou código de barras\".\n10. Seleção para \"Tabela de preços\" com a opção \"001 - TABELA 8P*\" pré-definida.\n11. Menus suspensos para seleção de \"Coleção\", \"Linha\" e \"Grupo\".\n12. Menu suspenso para escolha de \"Data prevista\" com opção de \"Datas pré-definidas\".\n13. Botão de pesquisa azul \"Pesquisar\".\n14. Lista de produtos com códigos numéricos e descrições.\n15. Preços listados em reais (R$) ao lado de cada produto.\n16. Indicação de unidades e tamanhos disponíveis (P, M, G, GG) para cada produto.\n17. Mix de produtos variados, como camisetas estampadas e lisa",
+    "dateAdded": "2023-12-27T17:15:03.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/8piZI1ebI7m",
+    "label": "Template for prompt: generate a dashboard with sidebar in the left",
+    "dateAdded": "2023-12-27T17:15:03.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/9zJsp2ToyAQ",
+    "label": "Template for prompt: Design a ui that resembles a book:\nCentral Focus on a Single Page: The main content area displays a single page at a time, mimicking the look of a book page. This could include text and images arranged as they would be in a printed book, with a font style that resembles print media for authenticity.\n\nPage Edges Visible in the Background: To give the impression of an actual book, the edges of other pages are visible behind the main page. These edges would be slightly curved and shadowed to create a realistic depth effect, indicating that more pages are available to flip through.\n\nColor Scheme: The color scheme would reflect that of a classic book. This might involve a cream or off-white background for the page itself, emulating the color of paper. The page edges in the background could be a slightly darker shade to provide contrast and enhance the realistic appearance.",
+    "dateAdded": "2023-12-27T17:15:03.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/5zovfcEIu13",
+    "label": "Template for prompt: Gere uma interface com base nesta imagem",
+    "dateAdded": "2023-12-27T17:15:03.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/8Au6xTggSDT",
+    "label": "Template for prompt: Generate login pages for supertoken",
+    "dateAdded": "2023-12-27T17:15:03.558Z"
+  },
+  {
+    "url": "https://v0.dev/t/Mz75AxhiXIW",
+    "label": "Template for prompt: can you help me modernize this UI? in particular, i want the inputs/stat block associated with a creature to clearly associate with the selected creature. however, the layout of the page should only highlight information the gm needs during an encounter.",
+    "dateAdded": "2023-12-27T17:15:03.558Z"
+  },
+  {
+    "url": "https://v0.dev/t/SrBk4ESWM0G",
+    "label": "Template for prompt: Create a Automobile showcase website",
+    "dateAdded": "2023-12-27T17:15:03.558Z"
+  },
+  {
+    "url": "https://v0.dev/t/0BwiYNXg0I9",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T17:15:03.558Z"
+  },
+  {
+    "url": "https://v0.dev/t/mwcLUlrklOP",
+    "label": "Template for prompt: url shorten chrome extension",
+    "dateAdded": "2023-12-27T17:15:03.558Z"
+  },
+  {
+    "url": "https://v0.dev/t/qoa9dAFzJMD",
+    "label": "Template for prompt: An dashboard for financial",
+    "dateAdded": "2023-12-27T17:15:03.559Z"
+  },
+  {
+    "url": "https://v0.dev/t/JDt8IaZ5iEO",
+    "label": "Template for prompt: contact form with different fields depending on first field which can be e.g. reservation, career,...",
+    "dateAdded": "2023-12-27T17:15:03.559Z"
   }
 ]
