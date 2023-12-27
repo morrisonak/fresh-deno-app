@@ -7788,5 +7788,130 @@
     "url": "https://v0.dev/t/TMOl94RIPbH",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2023-12-27T15:30:03.671Z"
+  },
+  {
+    "url": "https://v0.dev/t/OBQPJpwLlPR",
+    "label": "Template for prompt: A calendar for booking teacher appointment",
+    "dateAdded": "2023-12-27T15:35:03.962Z"
+  },
+  {
+    "url": "https://v0.dev/t/84GFJCvYGN1",
+    "label": "Template for prompt: ## Task Management Panel\n\nThe Task Management Panel includes components for managing tasks efficiently. It consists of:\n\n1. **Code Diff View**: The primary component that displays the changes in code for review. It serves as the central focus for the task management process, allowing users to analyze and provide feedback on specific code changes.\n2. **SLA Timer**: Shows remaining time for task response, ensuring prompt support.\n3. **Duty Rotation Schedule**: Displays team members' rotation schedule, distributing workload effectively.\n4. **Automated Task Assignment**: Automatically assigns tasks based on workload, streamlining the review process.\n5. **Task Priority Indicator**: Highlights task priority, enhancing user experience.\n6. **Task Status Updates**: Shows current task status, ensuring transparency and accountability.\n7. **Task Workflow Visualization**: Visualizes task stages and progress, facilitating tracking and management.",
+    "dateAdded": "2023-12-27T15:35:03.962Z"
+  },
+  {
+    "url": "https://v0.dev/t/ME1xphjXVjW",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-27T15:35:03.962Z"
+  },
+  {
+    "url": "https://v0.dev/t/1rFHr73ECeO",
+    "label": "Template for prompt: a modal to insert employee number",
+    "dateAdded": "2023-12-27T15:35:03.963Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZaBC5LUvLpv",
+    "label": "Template for prompt: make \"Falcon\" icon",
+    "dateAdded": "2023-12-27T15:35:03.963Z"
+  },
+  {
+    "url": "https://v0.dev/t/0P8kpl97mu9",
+    "label": "Template for prompt: i want a onboarding multiplestep screen",
+    "dateAdded": "2023-12-27T15:35:03.963Z"
+  },
+  {
+    "url": "https://v0.dev/t/UwuKMqArRqB",
+    "label": "Template for prompt: a air bnb style booking module where you select dates and guests",
+    "dateAdded": "2023-12-27T15:35:03.963Z"
+  },
+  {
+    "url": "https://v0.dev/t/w7ScdUKElgY",
+    "label": "Template for prompt: a air bnb style booking module where you select dates and guests",
+    "dateAdded": "2023-12-27T15:35:03.964Z"
+  },
+  {
+    "url": "https://v0.dev/t/KstomuiUNkG",
+    "label": "Template for prompt: delivery login",
+    "dateAdded": "2023-12-27T15:35:03.964Z"
+  },
+  {
+    "url": "https://v0.dev/t/uP9Wn9tVG1j",
+    "label": "Template for prompt: make Falcon logo avatar",
+    "dateAdded": "2023-12-27T15:35:03.964Z"
+  },
+  {
+    "url": "https://v0.dev/t/xWKv4xhdnnZ",
+    "label": "Template for prompt: Read to our newsletter and stay updated with the latest news on safe walking alone at night. We also have an inbuild social app where you can share your own stories, experiences, and tips on staying safe while walking alone.",
+    "dateAdded": "2023-12-27T15:35:03.964Z"
+  },
+  {
+    "url": "https://v0.dev/t/DPnUAtDvMfm",
+    "label": "Template for prompt: View with 20 cards with QR codes inside each card",
+    "dateAdded": "2023-12-27T15:35:03.965Z"
+  },
+  {
+    "url": "https://v0.dev/t/I3rDlKFEYNG",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T15:35:03.965Z"
+  },
+  {
+    "url": "https://v0.dev/t/ySrJ1gy935u",
+    "label": "Template for prompt: create a benefits section for a mental health landing page, it should have 3 benefits",
+    "dateAdded": "2023-12-27T15:35:03.965Z"
+  },
+  {
+    "url": "https://v0.dev/t/EJRc2JZqGb0",
+    "label": "Template for prompt: PORTFOLIO WEBSITE FOR VIDEO EDITOR",
+    "dateAdded": "2023-12-27T15:35:03.966Z"
+  },
+  {
+    "url": "https://v0.dev/t/2aGDVeYgRhA",
+    "label": "Template for prompt: next js 14, use https://www.tremor.so/docs/ui/table",
+    "dateAdded": "2023-12-27T15:35:03.966Z"
+  },
+  {
+    "url": "https://v0.dev/t/KNdsgb1SN6n",
+    "label": "Template for prompt: ccreate a ui/ux application",
+    "dateAdded": "2023-12-27T15:35:03.966Z"
+  },
+  {
+    "url": "https://v0.dev/t/LrprwWueZkd",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27T15:35:03.966Z"
+  },
+  {
+    "url": "https://v0.dev/t/ReHCdpwMh6z",
+    "label": "Template for prompt: An order status tracking page.",
+    "dateAdded": "2023-12-27T15:35:03.966Z"
+  },
+  {
+    "url": "https://v0.dev/t/pAZFvYTlBB7",
+    "label": "Template for prompt: front end developer web portfolio javascript",
+    "dateAdded": "2023-12-27T15:35:03.966Z"
+  },
+  {
+    "url": "https://v0.dev/t/yycnxIOtOIZ",
+    "label": "Template for prompt: a pricing plan gallery component, with a 3,4 and 8 plans option. includung product image,  dicount, included features and most popular plan badge",
+    "dateAdded": "2023-12-27T15:35:03.967Z"
+  },
+  {
+    "url": "https://v0.dev/t/lsDRB7fEKok",
+    "label": "Template for prompt: Create content for the website of EUREKA GLOBAL Consulting Firm. Imagine that you are the content manager, and your goal is to comprehensively and attractively present the firm's services and expertise. Include information about areas of expertise, the team of professionals, past successes, and any other relevant elements to promote the firm's credibility and service quality. Don't forget to incorporate calls to action to encourage visitors to get in touch.",
+    "dateAdded": "2023-12-27T15:35:03.967Z"
+  },
+  {
+    "url": "https://v0.dev/t/tnXX4k4qv2t",
+    "label": "Template for prompt: A simple page informing users that the website is trying to detect their platform in order to send them to the correct app store",
+    "dateAdded": "2023-12-27T15:35:03.967Z"
+  },
+  {
+    "url": "https://v0.dev/t/IsuaFmJ9y2c",
+    "label": "Template for prompt: I want to create a page that lists character stats",
+    "dateAdded": "2023-12-27T15:35:03.967Z"
+  },
+  {
+    "url": "https://v0.dev/t/mcwuG608bU2",
+    "label": "Template for prompt: a lean car detail page with a black backgroud for a car dealership",
+    "dateAdded": "2023-12-27T15:35:03.968Z"
   }
 ]
