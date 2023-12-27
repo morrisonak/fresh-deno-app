@@ -18693,5 +18693,130 @@
     "url": "https://v0.dev/t/Gr5dqX4zhvh",
     "label": "Template for prompt: A website for a coffee conniseur",
     "dateAdded": "2023-12-27T22:40:03.091Z"
+  },
+  {
+    "url": "https://v0.dev/t/MxIDo4MmULM",
+    "label": "Template for prompt: Landing page for an app called CaptionThat",
+    "dateAdded": "2023-12-27T22:45:03.358Z"
+  },
+  {
+    "url": "https://v0.dev/t/elLFGEWkTh5",
+    "label": "Template for prompt: Please recreate this",
+    "dateAdded": "2023-12-27T22:45:03.358Z"
+  },
+  {
+    "url": "https://v0.dev/t/P9weNfMhJ61",
+    "label": "Template for prompt: A project list for a web developer portfolio in astro",
+    "dateAdded": "2023-12-27T22:45:03.358Z"
+  },
+  {
+    "url": "https://v0.dev/t/OAKNfmkpe55",
+    "label": "Template for prompt: an audit log explorer/browser",
+    "dateAdded": "2023-12-27T22:45:03.359Z"
+  },
+  {
+    "url": "https://v0.dev/t/2nop15n8OGq",
+    "label": "Template for prompt: component that checks a mongodb database for any matches in a collection called schedule that finds all unique values of event_code in that collection and displays them in a dropdown box",
+    "dateAdded": "2023-12-27T22:45:03.359Z"
+  },
+  {
+    "url": "https://v0.dev/t/249gru869K4",
+    "label": "Template for prompt: npx shadcn-ui@latest add accordion",
+    "dateAdded": "2023-12-27T22:45:03.359Z"
+  },
+  {
+    "url": "https://v0.dev/t/QXKSmQdFjRo",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-27T22:45:03.359Z"
+  },
+  {
+    "url": "https://v0.dev/t/98dDoBwYhR6",
+    "label": "Template for prompt: Make me this component write some text and below it, there should be 4 images that will take 75% of the entire width kind of like small cards but only for picture and using Image component from next js :\n\"use client\";\n\nimport React from \"react\";\nimport SectionHeading from \"./section-heading\";\nimport { useSectionInView } from \"@/lib/hooks\";\n\nexport default function Pensions() {\n  const { ref } = useSectionInView(\"Pensions\", 0.5);\n\n  return (\n    <section ref={ref} id=\"pensions\" className=\"scroll-mt-28 mb-28\">\n      <SectionHeading>Pensions</SectionHeading>\n      <div></div>\n    </section>\n  );\n}\n",
+    "dateAdded": "2023-12-27T22:45:03.359Z"
+  },
+  {
+    "url": "https://v0.dev/t/oPnASjLAdI1",
+    "label": "Template for prompt: npx shadcn-ui@latest add button",
+    "dateAdded": "2023-12-27T22:45:03.360Z"
+  },
+  {
+    "url": "https://v0.dev/t/WXuTZ4raFsL",
+    "label": "Template for prompt: A section from services page",
+    "dateAdded": "2023-12-27T22:45:03.360Z"
+  },
+  {
+    "url": "https://v0.dev/t/lN5e1xfdncQ",
+    "label": "Template for prompt: A page for an individual event's details. The site is for creating and sharing event details happening locally. This page is for an example event posted on the site.",
+    "dateAdded": "2023-12-27T22:45:03.360Z"
+  },
+  {
+    "url": "https://v0.dev/t/LnRjBTfqvcn",
+    "label": "Template for prompt: scroll trigger hero sections",
+    "dateAdded": "2023-12-27T22:45:03.360Z"
+  },
+  {
+    "url": "https://v0.dev/t/75YQ1aKyDt0",
+    "label": "Template for prompt: Genera una interfaz de usuario que permita registrar gastos mensuales. En la parte superior, debe mostrar el total gastado en el mes en función de los gastos registrados. Además, se deben incluir funcionalidades para eliminar y editar gastos. Al final de la interfaz, añade un botón flotante redondo con un icono de \"+\" para facilitar la adición de nuevos gastos.",
+    "dateAdded": "2023-12-27T22:45:03.361Z"
+  },
+  {
+    "url": "https://v0.dev/t/MaVFAepPcG9",
+    "label": "Template for prompt: A website for a trip program. Let say the destination is Ireland. The home displays a background with a welcome message. Then a page is dedicated to day 1 program. Same for days 2 and 3. Another is for the travel and accommodation : plane tickets, hotels etc.",
+    "dateAdded": "2023-12-27T22:45:03.361Z"
+  },
+  {
+    "url": "https://v0.dev/t/PwHVDoeKeLU",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T22:45:03.361Z"
+  },
+  {
+    "url": "https://v0.dev/t/yT4yiOFdk2H",
+    "label": "Template for prompt: A landing page for my design portfolio",
+    "dateAdded": "2023-12-27T22:45:03.361Z"
+  },
+  {
+    "url": "https://v0.dev/t/2tFeFjD7bYk",
+    "label": "Template for prompt: create simple todo app",
+    "dateAdded": "2023-12-27T22:45:03.361Z"
+  },
+  {
+    "url": "https://v0.dev/t/W7LL5R1wyQU",
+    "label": "Template for prompt: create a dynamic list of ingredients where you can adjust quantites according to serving sizes for a recipe",
+    "dateAdded": "2023-12-27T22:45:03.362Z"
+  },
+  {
+    "url": "https://v0.dev/t/7UygTBiuPtn",
+    "label": "Template for prompt: make issue cards with title and description aswell as button to toggle status open and closed",
+    "dateAdded": "2023-12-27T22:45:03.362Z"
+  },
+  {
+    "url": "https://v0.dev/t/0w7Yhp6uNoB",
+    "label": "Template for prompt: team invite page",
+    "dateAdded": "2023-12-27T22:45:03.362Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z02pzeiAj8A",
+    "label": "Template for prompt: create simple todo app",
+    "dateAdded": "2023-12-27T22:45:03.362Z"
+  },
+  {
+    "url": "https://v0.dev/t/8qYw0lwwutO",
+    "label": "Template for prompt: A search bar in the center of the page, stylized, modern, with big text in it which has on the right side a search button as magnifying glass. ",
+    "dateAdded": "2023-12-27T22:45:03.362Z"
+  },
+  {
+    "url": "https://v0.dev/t/8xEqgvM5ABG",
+    "label": "Template for prompt: ubicacion de un negocio en google maps",
+    "dateAdded": "2023-12-27T22:45:03.362Z"
+  },
+  {
+    "url": "https://v0.dev/t/AtD6QaZUfid",
+    "label": "Template for prompt: tree view of directories",
+    "dateAdded": "2023-12-27T22:45:03.363Z"
+  },
+  {
+    "url": "https://v0.dev/t/CbJ6r1Z4sbS",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-27T22:45:03.363Z"
   }
 ]
