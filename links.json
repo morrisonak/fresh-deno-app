@@ -8033,5 +8033,135 @@
     "url": "https://v0.dev/t/bS0A43Z97oZ",
     "label": "Template for prompt: I WANT AN EXPENSE TRACKER WITH SHARE TRACKER",
     "dateAdded": "2023-12-27T15:40:03.612Z"
+  },
+  {
+    "url": "https://v0.dev/t/CHOvLwfJ8Ol",
+    "label": "Template for prompt: Root Calculator",
+    "dateAdded": "2023-12-27T15:45:03.665Z"
+  },
+  {
+    "url": "https://v0.dev/t/X3HQrkrtpzA",
+    "label": "Template for prompt: Create a dev portfolio single page",
+    "dateAdded": "2023-12-27T15:45:03.665Z"
+  },
+  {
+    "url": "https://v0.dev/t/eb4DUEvd7Nh",
+    "label": "Template for prompt: create site about counter strike game by valve using counter strike, valve and steam logos. we need counter-terrorrist and terrorist in header. site should be with Black, Red and Green colour",
+    "dateAdded": "2023-12-27T15:45:03.665Z"
+  },
+  {
+    "url": "https://v0.dev/t/pPOis4K9Eod",
+    "label": "Template for prompt: A developer portfolio website",
+    "dateAdded": "2023-12-27T15:45:03.665Z"
+  },
+  {
+    "url": "https://v0.dev/t/L1B5ua474aA",
+    "label": "Template for prompt: make a website for developers to test a series of APIs. Add a sidebar to the left for each of the available API groups. In the body, add a form for the API interaction, similar in style to Postman",
+    "dateAdded": "2023-12-27T15:45:03.666Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ps3NNJ292Q4",
+    "label": "Template for prompt: create me a website with showcasing my portfolio",
+    "dateAdded": "2023-12-27T15:45:03.666Z"
+  },
+  {
+    "url": "https://v0.dev/t/TB1s82B4sAM",
+    "label": "Template for prompt: create a retangle grid that has 5 rows and 20 columns and thus resulting in 100 square boxes",
+    "dateAdded": "2023-12-27T15:45:03.666Z"
+  },
+  {
+    "url": "https://v0.dev/t/JsGM0BkI4Pm",
+    "label": "Template for prompt: google maps integration with a table list under of the search results",
+    "dateAdded": "2023-12-27T15:45:03.666Z"
+  },
+  {
+    "url": "https://v0.dev/t/NDseTAqGDDA",
+    "label": "Template for prompt: video analysis tool. Browse multiple videos, watch them, see insights about them",
+    "dateAdded": "2023-12-27T15:45:03.666Z"
+  },
+  {
+    "url": "https://v0.dev/t/hKQ9wvmyUXB",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an Image behind them.",
+    "dateAdded": "2023-12-27T15:45:03.666Z"
+  },
+  {
+    "url": "https://v0.dev/t/sNLrtSYRYnY",
+    "label": "Template for prompt:  internal use product category suggestion (when describing an item populate automatic category)",
+    "dateAdded": "2023-12-27T15:45:03.666Z"
+  },
+  {
+    "url": "https://v0.dev/t/3OYC7LnP7Yj",
+    "label": "Template for prompt: \"Create a UI design concept for an educational platform that facilitates teacher-student meetings, inspired by the ease and functionality of flight booking websites. The main interface should feature a clean and user-friendly layout. At the top, there's a navigation bar with options such as 'Home', 'About', and 'Contact'. Below this, the primary section of the UI includes several dropdown menus and interactive elements:\nState Selector: A dropdown menu allowing users to select a state from a list.\nSubject Selector: Another dropdown adjacent to the state selector, where users can choose a subject from a broad range of academic disciplines.\nTeacher Selector: This dropdown lets users select a teacher, with options dynamically updating based on the chosen state and subject.\nCalendar Interface: A calendar view is prominently displayed, allowing users to see available dates. This should be intuitive, resembling the calendar selection in flight booking sites, but tailored for selecting dates ",
+    "dateAdded": "2023-12-27T15:45:03.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/hYWaAKSgabc",
+    "label": "Template for prompt: Pizza site \"Gray Shark Pizza\" with katanas",
+    "dateAdded": "2023-12-27T15:45:03.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/XhS1Z3IpHG4",
+    "label": "Template for prompt: Pizza site \"Gray Shark Pizza\" with katanas",
+    "dateAdded": "2023-12-27T15:45:03.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/lq5Dh18xSNc",
+    "label": "Template for prompt: login",
+    "dateAdded": "2023-12-27T15:45:03.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/B5sOM8AAqVn",
+    "label": "Template for prompt: make this page more visual appealing, change the sidebar, add more colors, do what you feel like",
+    "dateAdded": "2023-12-27T15:45:03.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/VnH8RQnw0Sy",
+    "label": "Template for prompt: I want registration form which includes full name,age, gender(Options selection ), e-mail, phone no, district, address and pin code and also the captacha verification and in the end one sign up button ",
+    "dateAdded": "2023-12-27T15:45:03.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/tg87XTJ7unw",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T15:45:03.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/vYeX7PrhVA7",
+    "label": "Template for prompt: a modal to insert employee number data to retrieve current payments",
+    "dateAdded": "2023-12-27T15:45:03.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/HdsFC4h9ZLV",
+    "label": "Template for prompt: This is an artboard. On the artboard are cards generated by svg. The cards are connected through svg. The cards cannot be dragged and need to be arranged vertically down\n",
+    "dateAdded": "2023-12-27T15:45:03.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/KVzTcqC8d5z",
+    "label": "Template for prompt: automatic category detection for product descriptions with search bar",
+    "dateAdded": "2023-12-27T15:45:03.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/EjxiBwrkwHJ",
+    "label": "Template for prompt: a ractangle grid that has 5 rows and 20 columns",
+    "dateAdded": "2023-12-27T15:45:03.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/KtF9DKLUAdz",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27T15:45:03.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/3kItUaIl0EP",
+    "label": "Template for prompt: create site about counter strike game by valve using counter strike and valve logos. we need counter-terrorrist and terrorist in header. site should be with Black, Red and Green colour",
+    "dateAdded": "2023-12-27T15:45:03.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/iCVil8p5riT",
+    "label": "Template for prompt: A results screen for a survey app that scores business on their ability to transact.",
+    "dateAdded": "2023-12-27T15:45:03.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/WhK5iJETPDi",
+    "label": "Template for prompt: list card component with title, course list: include grade, percentage",
+    "dateAdded": "2023-12-27T15:45:03.668Z"
   }
 ]
