@@ -18943,5 +18943,130 @@
     "url": "https://v0.dev/t/MaVFAepPcG9",
     "label": "Template for prompt: A website for a trip program. Let say the destination is Ireland. The home displays a background with a welcome message. Then a page is dedicated to day 1 program. Same for days 2 and 3. Another is for the travel and accommodation : plane tickets, hotels etc.",
     "dateAdded": "2023-12-27T22:50:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/FMMQcr5YaRM",
+    "label": "Template for prompt: Create a web app with lateral navigation with the sections \"LOTM\", \"Renting Market\", \"APE staking\" and \"My Inventory\".  The top of the web app should be a hero showing 4 company partners with their logos centred and a CTA button on the right saying \"Connect Wallet\".",
+    "dateAdded": "2023-12-27T22:55:03.179Z"
+  },
+  {
+    "url": "https://v0.dev/t/c5RDNdGBOvO",
+    "label": "Template for prompt: a dashboard screen for a construction project management overview page",
+    "dateAdded": "2023-12-27T22:55:03.179Z"
+  },
+  {
+    "url": "https://v0.dev/t/pI6drzhUrsg",
+    "label": "Template for prompt: write me a card using shadcnui components to display the average stars and the total numbers of reiews",
+    "dateAdded": "2023-12-27T22:55:03.180Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZMpBDz9aPfg",
+    "label": "Template for prompt: LinkTree Clone",
+    "dateAdded": "2023-12-27T22:55:03.180Z"
+  },
+  {
+    "url": "https://v0.dev/t/NQf3Qay8omj",
+    "label": "Template for prompt: create me mobile menu",
+    "dateAdded": "2023-12-27T22:55:03.180Z"
+  },
+  {
+    "url": "https://v0.dev/t/Rct3Cbj3nSM",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-27T22:55:03.180Z"
+  },
+  {
+    "url": "https://v0.dev/t/QjkGKkzHy6D",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-27T22:55:03.180Z"
+  },
+  {
+    "url": "https://v0.dev/t/XUuUMRIvZs3",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27T22:55:03.181Z"
+  },
+  {
+    "url": "https://v0.dev/t/ToZ06bMBfTW",
+    "label": "Template for prompt: Privacy policy page",
+    "dateAdded": "2023-12-27T22:55:03.181Z"
+  },
+  {
+    "url": "https://v0.dev/t/rS6jJeEoAk3",
+    "label": "Template for prompt: Basketball League dashboard with logo banner",
+    "dateAdded": "2023-12-27T22:55:03.181Z"
+  },
+  {
+    "url": "https://v0.dev/t/29iJsyIyk6H",
+    "label": "Template for prompt: A list of games with a filter section on the left",
+    "dateAdded": "2023-12-27T22:55:03.181Z"
+  },
+  {
+    "url": "https://v0.dev/t/UHuVtpq92SP",
+    "label": "Template for prompt: can you create a responsive video component with text?",
+    "dateAdded": "2023-12-27T22:55:03.181Z"
+  },
+  {
+    "url": "https://v0.dev/t/ocdwDq3J3G3",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T22:55:03.182Z"
+  },
+  {
+    "url": "https://v0.dev/t/PwHVDoeKeLU",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T22:55:03.182Z"
+  },
+  {
+    "url": "https://v0.dev/t/43oWmaBbkXz",
+    "label": "Template for prompt: Basketball League signup page",
+    "dateAdded": "2023-12-27T22:55:03.182Z"
+  },
+  {
+    "url": "https://v0.dev/t/HpCRI9Ir15n",
+    "label": "Template for prompt: Build a blue trend graph component",
+    "dateAdded": "2023-12-27T22:55:03.182Z"
+  },
+  {
+    "url": "https://v0.dev/t/AQC8QxESZAe",
+    "label": "Template for prompt: Create a web app with lateral navigation with the sections \"LOTM\", \"Renting Market\", \"APE staking\" and \"My Inventory\". The \"Renting Market\" should have two internal tabs. The first tab is called \"Marketplace\" and be a view with 4 cards per row. Each card has an image and a CTA button saying \"Rent Now\". The second tab is called \"Your Inventory\" and show also a view with 4 cards per row with a CTA button saying \"List\"",
+    "dateAdded": "2023-12-27T22:55:03.182Z"
+  },
+  {
+    "url": "https://v0.dev/t/J85vGSojtPy",
+    "label": "Template for prompt: Quiero crear un formulario de crear almacen usando estos campos. \n  \"nombre\" \n  \"descripcion\" \n  \"direccion\" \n  \"celular\" \n  \"responsable_id\" \n  \"activo\" ",
+    "dateAdded": "2023-12-27T22:55:03.183Z"
+  },
+  {
+    "url": "https://v0.dev/t/KySVAmJJzWb",
+    "label": "Template for prompt: Basketball League dashboard",
+    "dateAdded": "2023-12-27T22:55:03.183Z"
+  },
+  {
+    "url": "https://v0.dev/t/zXPbyJowoBO",
+    "label": "Template for prompt: A form for purchacing tickets.",
+    "dateAdded": "2023-12-27T22:55:03.183Z"
+  },
+  {
+    "url": "https://v0.dev/t/elLFGEWkTh5",
+    "label": "Template for prompt: Please recreate this",
+    "dateAdded": "2023-12-27T22:55:03.183Z"
+  },
+  {
+    "url": "https://v0.dev/t/MxIDo4MmULM",
+    "label": "Template for prompt: Landing page for an app called CaptionThat",
+    "dateAdded": "2023-12-27T22:55:03.183Z"
+  },
+  {
+    "url": "https://v0.dev/t/P9weNfMhJ61",
+    "label": "Template for prompt: A project list for a web developer portfolio in astro",
+    "dateAdded": "2023-12-27T22:55:03.183Z"
+  },
+  {
+    "url": "https://v0.dev/t/QXKSmQdFjRo",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-27T22:55:03.184Z"
+  },
+  {
+    "url": "https://v0.dev/t/4iiP0eqX9s9",
+    "label": "Template for prompt: create me a menu card one pager, with informations such as location and opening times",
+    "dateAdded": "2023-12-27T22:55:03.184Z"
   }
 ]
