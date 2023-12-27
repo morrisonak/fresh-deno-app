@@ -10093,5 +10093,135 @@
     "url": "https://v0.dev/t/RwGHbysSMBl",
     "label": "Template for prompt: Create cards in grid tightly packed together with glowing edges",
     "dateAdded": "2023-12-27T17:00:03.152Z"
+  },
+  {
+    "url": "https://v0.dev/t/Po5AjUEmjxP",
+    "label": "Template for prompt: General Layout:\n\nThe webpage should be divided into two distinct sections, arranged side by side.\nThe left section will occupy 40% of the total width of the page.\nThe right section will occupy the remaining 60% of the width.\nLeft Section:\n\nThis section should contain two interactive buttons.\nThese buttons will function as tabs, meaning that only one of them can be active or selected at any given time.\nThe design should visually indicate which tab is currently active.\nRight Section:\n\nThe content of this section will depend on which tab is selected in the left section.\nDetails of the content for the right section are not specified and can be determined based on the context of the webpage.\nInteractivity:\n\nClicking a button in the left section should change the content displayed in the right section accordingly.\nThe transition or the change of content should be smooth, ensuring a seamless user experience.\nDesign Considerations:\n\nThe overall design should be responsive, ensuring proper disp",
+    "dateAdded": "2023-12-27T17:05:02.929Z"
+  },
+  {
+    "url": "https://v0.dev/t/OMxhXgy0Tj7",
+    "label": "Template for prompt: Redo this page in html and translate to spanish",
+    "dateAdded": "2023-12-27T17:05:02.929Z"
+  },
+  {
+    "url": "https://v0.dev/t/dON8LQzuejP",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-27T17:05:02.929Z"
+  },
+  {
+    "url": "https://v0.dev/t/qCOBTrgkuNs",
+    "label": "Template for prompt: A call to action with some text on the left and a button on the right",
+    "dateAdded": "2023-12-27T17:05:02.930Z"
+  },
+  {
+    "url": "https://v0.dev/t/EDdn7PsPS2r",
+    "label": "Template for prompt: a project card for a portfolio site",
+    "dateAdded": "2023-12-27T17:05:02.930Z"
+  },
+  {
+    "url": "https://v0.dev/t/EaqZAKOkJai",
+    "label": "Template for prompt: beautiful thanks for your shopping page",
+    "dateAdded": "2023-12-27T17:05:02.930Z"
+  },
+  {
+    "url": "https://v0.dev/t/VJGyItpnbkB",
+    "label": "Template for prompt: A leaderboard view in which there will be passed a array of objects and each object will have\n {username: string, profilePicture?: string, points: number}\nthis object and then the array will be sorted with points and the highest points on top \nwith an animation\nand the points should a bar in backgrond so that shows which have more points",
+    "dateAdded": "2023-12-27T17:05:02.930Z"
+  },
+  {
+    "url": "https://v0.dev/t/H2kXCxtFRV7",
+    "label": "Template for prompt: i want page to thank user for shopping and show result number of payment",
+    "dateAdded": "2023-12-27T17:05:02.931Z"
+  },
+  {
+    "url": "https://v0.dev/t/AXXmDCjw7Wt",
+    "label": "Template for prompt: 我想创造一个收集waitlist的网站，这个网站的功能是帮你学些一切知识，网站名字叫Copilot Learn，当用户上传想要学习的书籍、视频链接之后，会通过交互形式和用户互动，逐步的去讲解清楚确保用户接收到，并且阶段性的会要求用户通过语音讲解其中的一些知识",
+    "dateAdded": "2023-12-27T17:05:02.931Z"
+  },
+  {
+    "url": "https://v0.dev/t/WsWrgfxCGpq",
+    "label": "Template for prompt: can you help me modernize this encounter tracker ui? i would like to display the number of creatures in the minion stack, especially. ",
+    "dateAdded": "2023-12-27T17:05:02.931Z"
+  },
+  {
+    "url": "https://v0.dev/t/UDboi2SyYgq",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-27T17:05:02.931Z"
+  },
+  {
+    "url": "https://v0.dev/t/VhYiFNzBhNp",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27T17:05:02.931Z"
+  },
+  {
+    "url": "https://v0.dev/t/xGBMRIsCclx",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T17:05:02.932Z"
+  },
+  {
+    "url": "https://v0.dev/t/UFl3KmfZkIx",
+    "label": "Template for prompt: A leaderboard view in which there will be passed a array of objects and each object will have\n {username: string, profilePicture?: string, points: number}\nthis object and then the array will be sorted with points and the highest points on top \nwith an animation",
+    "dateAdded": "2023-12-27T17:05:02.932Z"
+  },
+  {
+    "url": "https://v0.dev/t/6bjuXgmckaA",
+    "label": "Template for prompt: UI for Biometrics Verification App",
+    "dateAdded": "2023-12-27T17:05:02.932Z"
+  },
+  {
+    "url": "https://v0.dev/t/c9F5Cit841b",
+    "label": "Template for prompt: A banner page called Zoogle and an search bar ",
+    "dateAdded": "2023-12-27T17:05:02.932Z"
+  },
+  {
+    "url": "https://v0.dev/t/NtqVmQY0GWJ",
+    "label": "Template for prompt: give me the code of the right yellowish section",
+    "dateAdded": "2023-12-27T17:05:02.932Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zp9IsENDqPe",
+    "label": "Template for prompt: A travel ticket stire ",
+    "dateAdded": "2023-12-27T17:05:02.932Z"
+  },
+  {
+    "url": "https://v0.dev/t/danxWwqxRTH",
+    "label": "Template for prompt: nav bar",
+    "dateAdded": "2023-12-27T17:05:02.933Z"
+  },
+  {
+    "url": "https://v0.dev/t/ueXVlNAGVWP",
+    "label": "Template for prompt: give me order History",
+    "dateAdded": "2023-12-27T17:05:02.933Z"
+  },
+  {
+    "url": "https://v0.dev/t/rofMEZ0k8AW",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T17:05:02.933Z"
+  },
+  {
+    "url": "https://v0.dev/t/wdKEL61HBFN",
+    "label": "Template for prompt: File storage with authenction and folders ",
+    "dateAdded": "2023-12-27T17:05:02.933Z"
+  },
+  {
+    "url": "https://v0.dev/t/zrvYLiM0bx7",
+    "label": "Template for prompt: a list of grid items with a group name",
+    "dateAdded": "2023-12-27T17:05:02.933Z"
+  },
+  {
+    "url": "https://v0.dev/t/UZzOZfFsc0s",
+    "label": "Template for prompt: 一个使用对话交互的教育网站首页",
+    "dateAdded": "2023-12-27T17:05:02.933Z"
+  },
+  {
+    "url": "https://v0.dev/t/9zLEJCkKRI4",
+    "label": "Template for prompt: A technical company page with articles of different categories ",
+    "dateAdded": "2023-12-27T17:05:02.934Z"
+  },
+  {
+    "url": "https://v0.dev/t/CDeXyRmLimL",
+    "label": "Template for prompt: Generate a coming soon static page for a clothing brand",
+    "dateAdded": "2023-12-27T17:05:02.934Z"
   }
 ]
