@@ -17313,5 +17313,130 @@
     "url": "https://v0.dev/t/wnDjHjAJJbT",
     "label": "Template for prompt: A search page for a store directory of a resort.",
     "dateAdded": "2023-12-27T21:45:03.107Z"
+  },
+  {
+    "url": "https://v0.dev/t/Jo5f2VpEjfe",
+    "label": "Template for prompt: a input field with a button in it",
+    "dateAdded": "2023-12-27T21:50:03.605Z"
+  },
+  {
+    "url": "https://v0.dev/t/8cv3WH17bzu",
+    "label": "Template for prompt: a luxury e-commerce shop that sell old money shorts called \"rich boy shorts\"",
+    "dateAdded": "2023-12-27T21:50:03.605Z"
+  },
+  {
+    "url": "https://v0.dev/t/bGdoxOcNrxs",
+    "label": "Template for prompt: We will make a product search page by giving importance to visuality, there will be only product search box and logo on the top of the page. ",
+    "dateAdded": "2023-12-27T21:50:03.605Z"
+  },
+  {
+    "url": "https://v0.dev/t/RXzL9Wu42YT",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-27T21:50:03.605Z"
+  },
+  {
+    "url": "https://v0.dev/t/q5xh2BoE1F0",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-27T21:50:03.605Z"
+  },
+  {
+    "url": "https://v0.dev/t/26YpDsd4y6V",
+    "label": "Template for prompt: a cyber scuertity quiz game with level and feedbak",
+    "dateAdded": "2023-12-27T21:50:03.606Z"
+  },
+  {
+    "url": "https://v0.dev/t/xEuLqTxxFy5",
+    "label": "Template for prompt:  order ui based on {\n\"isEnabled\": true,\n\"userId\": \"string\",\n\"corporationId\": \"string\",\n\"currencyCode\": \"USD\",\n\"items\": [\n{\n\"id\": \"string\",\n\"name\": \"string\",\n\"description\": \"string\",\n\"feeType\": \"SosFee\",\n\"quantity\": 0,\n\"unitPrice\": 0,\n\"discountPercent\": 0,\n\"unitDiscount\": 0,\n\"taxCode\": \"string\",\n\"taxDisabled\": true,\n\"taxableAmount\": 0,\n\"taxRate\": 0,\n\"tax\": 0,\n\"serviceType\": \"Virtual Mailbox\"\n}\n],\n\"billingAddress\": {\n\"firstName\": \"string\",\n\"lastName\": \"string\",\n\"countryCode\": \"string\",\n\"stateCode\": \"string\",\n\"city\": \"string\",\n\"addressLine1\": \"string\",\n\"addressLine2\": \"string\",\n\"postalCode\": \"string\",\n\"province\": \"string\",\n\"phoneNumber\": \"string\",\n\"email\": \"user@example.com\"\n},\n\"note\": \"string\"\n}",
+    "dateAdded": "2023-12-27T21:50:03.606Z"
+  },
+  {
+    "url": "https://v0.dev/t/DwEKwNheBdQ",
+    "label": "Template for prompt: simple fully responsive navbar with hamburguer menu for mobile devices ",
+    "dateAdded": "2023-12-27T21:50:03.606Z"
+  },
+  {
+    "url": "https://v0.dev/t/OE9JL1vAY9f",
+    "label": "Template for prompt:  order ui based on {\n\"isEnabled\": true,\n\"userId\": \"string\",\n\"corporationId\": \"string\",\n\"currencyCode\": \"USD\",\n\"items\": [\n{\n\"id\": \"string\",\n\"name\": \"string\",\n\"description\": \"string\",\n\"feeType\": \"SosFee\",\n\"quantity\": 0,\n\"unitPrice\": 0,\n\"discountPercent\": 0,\n\"unitDiscount\": 0,\n\"taxCode\": \"string\",\n\"taxDisabled\": true,\n\"taxableAmount\": 0,\n\"taxRate\": 0,\n\"tax\": 0,\n\"serviceType\": \"Virtual Mailbox\"\n}\n],\n\"billingAddress\": {\n\"firstName\": \"string\",\n\"lastName\": \"string\",\n\"countryCode\": \"string\",\n\"stateCode\": \"string\",\n\"city\": \"string\",\n\"addressLine1\": \"string\",\n\"addressLine2\": \"string\",\n\"postalCode\": \"string\",\n\"province\": \"string\",\n\"phoneNumber\": \"string\",\n\"email\": \"user@example.com\"\n},\n\"note\": \"string\"\n}",
+    "dateAdded": "2023-12-27T21:50:03.606Z"
+  },
+  {
+    "url": "https://v0.dev/t/QzjktQBC2KG",
+    "label": "Template for prompt: preciso de uma pagina de upload de arquivo pdf e gere uma pagina para assinatura digital",
+    "dateAdded": "2023-12-27T21:50:03.606Z"
+  },
+  {
+    "url": "https://v0.dev/t/1zUEvntOlu9",
+    "label": "Template for prompt: create a \"logged in as\" item for a logged in user for the upper right corner of a header component",
+    "dateAdded": "2023-12-27T21:50:03.607Z"
+  },
+  {
+    "url": "https://v0.dev/t/9ScDdbjGnjQ",
+    "label": "Template for prompt: restructure this list data into 2 row per item.\n\ni want it to be black and white\n\nlist is of a leaderboard of stock portfolios -- on teh first row include avatar badge, portfolio name, username and number of followers -- on the second row include Portfolio Value\nReturn %\nNumber of holdings\nTop Holdings\nRisk Level\nPortfolio Age",
+    "dateAdded": "2023-12-27T21:50:03.607Z"
+  },
+  {
+    "url": "https://v0.dev/t/irSRS4Uo0Vv",
+    "label": "Template for prompt: a dashboard for car rental",
+    "dateAdded": "2023-12-27T21:50:03.607Z"
+  },
+  {
+    "url": "https://v0.dev/t/HQYa6TPP9PI",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T21:50:03.607Z"
+  },
+  {
+    "url": "https://v0.dev/t/NpJsjllIibs",
+    "label": "Template for prompt: a list of cards",
+    "dateAdded": "2023-12-27T21:50:03.607Z"
+  },
+  {
+    "url": "https://v0.dev/t/vkD4oC5JwSo",
+    "label": "Template for prompt: design a login page that has login by Gmail and login by github options",
+    "dateAdded": "2023-12-27T21:50:03.608Z"
+  },
+  {
+    "url": "https://v0.dev/t/P0K77b7TV48",
+    "label": "Template for prompt: A page that takes in a vehicle registration (styled like a UK vehicle registration plate)",
+    "dateAdded": "2023-12-27T21:50:03.608Z"
+  },
+  {
+    "url": "https://v0.dev/t/jE34xLW2wPf",
+    "label": "Template for prompt: restaurant menu that offers 3 3 options of meals",
+    "dateAdded": "2023-12-27T21:50:03.608Z"
+  },
+  {
+    "url": "https://v0.dev/t/LuC0LeJdm9R",
+    "label": "Template for prompt: dashboard for student in platform mobile design",
+    "dateAdded": "2023-12-27T21:50:03.608Z"
+  },
+  {
+    "url": "https://v0.dev/t/hQTmRQYousv",
+    "label": "Template for prompt: Church website built in TailwindCSS",
+    "dateAdded": "2023-12-27T21:50:03.608Z"
+  },
+  {
+    "url": "https://v0.dev/t/25r8FrhtEj0",
+    "label": "Template for prompt: A user facing table to display ecommerce message support inquiries",
+    "dateAdded": "2023-12-27T21:50:03.608Z"
+  },
+  {
+    "url": "https://v0.dev/t/an5aAm19qne",
+    "label": "Template for prompt: A mobile upload modal that will let the user upload folders and files\nDon't restrict them on a single selection, the user can upload unlimited amounts of folders/files, show an example of how'd they look like on a list inside the modal while uploading and after they've uploaded.",
+    "dateAdded": "2023-12-27T21:50:03.608Z"
+  },
+  {
+    "url": "https://v0.dev/t/hoWdZtCteUT",
+    "label": "Template for prompt: A todo application that has a funneling system similar to Getting Things Done by David Allen",
+    "dateAdded": "2023-12-27T21:50:03.608Z"
+  },
+  {
+    "url": "https://v0.dev/t/U3rCXkIstnP",
+    "label": "Template for prompt: A mobile upload modal that will let the user upload folders and files",
+    "dateAdded": "2023-12-27T21:50:03.609Z"
+  },
+  {
+    "url": "https://v0.dev/t/SSNE9Ft7EHS",
+    "label": "Template for prompt: cool digital rain",
+    "dateAdded": "2023-12-27T21:50:03.609Z"
   }
 ]
