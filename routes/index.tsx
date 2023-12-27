@@ -2,8 +2,16 @@ import Header from "../islands/Header.tsx";
 import links from "../links.json" assert { type: "json" };
 
 export default function Home() {
-  // Sort links by date in descending order (newest first)
-  const sortedLinks = [...links].sort((a, b) => new Date(b.dateAdded) - new Date(a.dateAdded));
+  // Define a default date for links without a dateAdded field
+  const defaultDate = new Date(0); // This sets the date to Unix Epoch (January 1, 1970)
+
+  // Sort links by date and time in descending order
+  const sortedLinks = [...links].sort((a, b) => {
+    const dateA = a.dateAdded ? new Date(a.dateAdded) : defaultDate;
+    const dateB = b.dateAdded ? new Date(b.dateAdded) : defaultDate;
+
+    return dateB - dateA;
+  });
 
   return (
     <div class="p-4 mx-auto max-w-screen-md">
@@ -13,31 +21,22 @@ export default function Home() {
       </h1>
 
       <div class="p-2">
-        {sortedLinks.map((link, index) => {
-          // Construct the image path
-          const imagePath = `/images/${link.url.split('/').pop()}.jpg`;
-
-          return (
-            <div key={index} class="px-4 py-2 mb-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow duration-200">
-              {/* Uncomment below to display images */}
-              {/* {link.url.includes('/t/') && 
-                <img src={imagePath} alt={link.label || 'Image preview'} class="w-full h-40 object-cover rounded-t-lg" />
-              } */}
-              <div class="p-4">
-                <a 
-                  href={link.url} 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  class="text-blue-600 hover:text-blue-800 transition-colors duration-200"
-                >
-                  {link.url}
-                </a>
-                {link.label && <p class="font-semibold mt-1">{link.label}</p>}
-                <p class="text-gray-600 text-sm">Date Added: {link.dateAdded}</p>
-              </div>
+        {sortedLinks.map((link, index) => (
+          <div key={index} class="px-4 py-2 mb-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow duration-200">
+            <div class="p-4">
+              <a 
+                href={link.url} 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                class="text-blue-600 hover:text-blue-800 transition-colors duration-200"
+              >
+                {link.url}
+              </a>
+              {link.label && <p class="font-semibold mt-1">{link.label}</p>}
+              <p class="text-gray-600 text-sm">Date Added: {link.dateAdded ? new Date(link.dateAdded).toLocaleString() : 'Unknown'}</p>
             </div>
-          );
-        })}
+          </div>
+        ))}
       </div>
     </div>
   );
