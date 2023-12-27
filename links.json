@@ -6138,5 +6138,120 @@
     "url": "https://v0.dev/t/O02zmzkeUZR",
     "label": "Template for prompt: make post it note",
     "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/Uyfhff8gOJp",
+    "label": "Template for prompt: how can I make a navbar like this one with customise shape like in the picture",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/JugMOrzDAip",
+    "label": "Template for prompt: social media dashboard",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/Xxj1fda5RAP",
+    "label": "Template for prompt: social media dashboard",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/VHDCVmY4nez",
+    "label": "Template for prompt: create a form with 10 fields  2 dates one signature 7 questions and answer fields ",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/2NcqaZ8JzeQ",
+    "label": "Template for prompt: dating app logo with this color #7F73E3",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/gc9ZtMWDVAE",
+    "label": "Template for prompt: crie uma landing page de taxi",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/Jdp89up7pfx",
+    "label": "Template for prompt: generate login page with material ui",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/0clbieUdOXs",
+    "label": "Template for prompt: replicate this UI!",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/U245hVpK9QM",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/evguQxhHKD2",
+    "label": "Template for prompt: how can I make a navbar similar to this one ",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/GecVxF6T9v1",
+    "label": "Template for prompt: generate a faq page for a ewaste website. page shoulld be modern looking and should match with the green theme of the website. ",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/wsPwZiZO2SS",
+    "label": "Template for prompt: make a page with three js background parallax while scrolling",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/QY9v98OXTyd",
+    "label": "Template for prompt: data table for stock analysis",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/UsvbmYIyBQP",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/3Xb8gjRLYz1",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/7uKVQ1CQrob",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/Qwc4wVPjFGR",
+    "label": "Template for prompt: Tutor profile card",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/YOKdHPL1B6f",
+    "label": "Template for prompt: using the library MUI in nextjs, create a nav bar where a logo svg is placed on the left side. In the middle, a date along with a calendar icon is displayed. On the right side, a hamburger menu that can be expanded to several elements is displayed",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/4umz7N9n5nQ",
+    "label": "Template for prompt: a navbar responsive",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/gzharrGw0j5",
+    "label": "Template for prompt: a dashboard for consumption metrics of an API-based product, which differentiates requests into different complexity metrics",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/fImPK5CX8hB",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/TeA2k7PxGPD",
+    "label": "Template for prompt:   {\n    id: 4,\n    name: \"festival\",\n    label: \"バンドフェスティバル\",\n    state: \"open\",\n    detail: \"申し込み締切り11月23日、\\n締め切りまで内容変更可\",\n    databasePath: \"2023-1\", //never repeat\n    year: \"2023\", //dropDown\n    open: true,\n    image: \"\",\n    localStorageKey: \"Suisou-Application-Data\",\n    formType: \"festival\", //rutine song, pull down.  Song info 1\n  },\n\nPlease create a form to let the users edit all the values above.",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/rQkEk1Z1ZwB",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27"
   }
 ]
