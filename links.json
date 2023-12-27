@@ -12763,5 +12763,135 @@
     "url": "https://v0.dev/t/VA0D5D1at3q",
     "label": "Template for prompt: A chat based interface to gather technical information about cybersecurity",
     "dateAdded": "2023-12-27T18:45:03.080Z"
+  },
+  {
+    "url": "https://v0.dev/t/BoCYGuB3QBK",
+    "label": "Template for prompt: We're a tour agency called Your Yours. Create a landing page designed to capture travel agents so they can bring us customers who want custom tour and excursions. \n\nPunta Cana's Premier Partner For Travel Agencies\nAre you a travel agent or advisor looking for a partner in Punta Cana? You’ve found it! Delegate your tour bookings, airport transfers, group activities, and special requests to us!\nGET STARTED\nWhy Partner With Us?\nExceptional Customer Service: We're Dominican-owned and operated company with over 15 years in Punta Cana's resorts, we offer deep connections and insights, ensuring unmatched service for your clients.\nBoost Your Revenue: Earn up to 10% commission on tours by delegating your Punta Cana arrangements to us.\nLocal Expertise: Benefit from our deep knowledge and connections in Punta Cana & beyond.\nWhite Glove Service: We provide top-notch service and handle all client interactions discreetly, only engaging directly upon your request.\nCustom Itineraries: Offer your clien",
+    "dateAdded": "2023-12-27T18:50:04.041Z"
+  },
+  {
+    "url": "https://v0.dev/t/jpP2HRZYY7t",
+    "label": "Template for prompt: make this login page attractive. i have a background with dark theme. this should look in glassy finish",
+    "dateAdded": "2023-12-27T18:50:04.041Z"
+  },
+  {
+    "url": "https://v0.dev/t/1NvpMrd8Sp7",
+    "label": "Template for prompt: create a website landing portfolio for a programmer",
+    "dateAdded": "2023-12-27T18:50:04.041Z"
+  },
+  {
+    "url": "https://v0.dev/t/XnqT8ba9sIv",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders. Minimalist design with blue.",
+    "dateAdded": "2023-12-27T18:50:04.041Z"
+  },
+  {
+    "url": "https://v0.dev/t/kpuc2YeGI7m",
+    "label": "Template for prompt: reservation app for party rooms, garages, etc... it should have a calendar to see the dates that are already booked",
+    "dateAdded": "2023-12-27T18:50:04.042Z"
+  },
+  {
+    "url": "https://v0.dev/t/vt7yme4stLY",
+    "label": "Template for prompt: an application for managing custom applications for the tidbyt retro display. It allow adding devices. once a device is added, a device contains at least 1 playlist. a playlist contains applets. applets contain configuration options.",
+    "dateAdded": "2023-12-27T18:50:04.042Z"
+  },
+  {
+    "url": "https://v0.dev/t/pevyLHQu85Q",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-27T18:50:04.042Z"
+  },
+  {
+    "url": "https://v0.dev/t/q7lKfpVPUyh",
+    "label": "Template for prompt: creame una app web en la cual recopile las palabras más repetidas en las noticias (a traves de la recopilacion de RSS) y crea graficas de tendencias",
+    "dateAdded": "2023-12-27T18:50:04.042Z"
+  },
+  {
+    "url": "https://v0.dev/t/zFttfbqFlah",
+    "label": "Template for prompt: an ebook website",
+    "dateAdded": "2023-12-27T18:50:04.042Z"
+  },
+  {
+    "url": "https://v0.dev/t/md2frwuyUJY",
+    "label": "Template for prompt: splitscreen user login form validated with zod",
+    "dateAdded": "2023-12-27T18:50:04.042Z"
+  },
+  {
+    "url": "https://v0.dev/t/cPasE4mjSMk",
+    "label": "Template for prompt: counter",
+    "dateAdded": "2023-12-27T18:50:04.042Z"
+  },
+  {
+    "url": "https://v0.dev/t/Dk1khlDoomu",
+    "label": "Template for prompt: a membership management system dashboard",
+    "dateAdded": "2023-12-27T18:50:04.042Z"
+  },
+  {
+    "url": "https://v0.dev/t/jvwMou72by7",
+    "label": "Template for prompt: Generame un calendario html y css responsivo, que muestre los dias del mes, que se pueda cambiar de mes con flechas y que acorde al dia aparezca un circulo rojo que indique que hay actividades para ese dia, al clickear en cualquier dia se abre una lista de tareas del dia",
+    "dateAdded": "2023-12-27T18:50:04.043Z"
+  },
+  {
+    "url": "https://v0.dev/t/XN8TrqmBOT7",
+    "label": "Template for prompt: a minimalist personal site but with a splash of colour",
+    "dateAdded": "2023-12-27T18:50:04.043Z"
+  },
+  {
+    "url": "https://v0.dev/t/wOfyVJD1abJ",
+    "label": "Template for prompt: a tic tac toe game",
+    "dateAdded": "2023-12-27T18:50:04.043Z"
+  },
+  {
+    "url": "https://v0.dev/t/4FQ2CKmZ9gn",
+    "label": "Template for prompt: reservation app with calendar to garages, party saloons, etc",
+    "dateAdded": "2023-12-27T18:50:04.043Z"
+  },
+  {
+    "url": "https://v0.dev/t/aCnqpeKVzMZ",
+    "label": "Template for prompt: url shorten page include a original url and access link input",
+    "dateAdded": "2023-12-27T18:50:04.043Z"
+  },
+  {
+    "url": "https://v0.dev/t/A71wSp6fQJ7",
+    "label": "Template for prompt: make admin dashboard with sidebar and analytics",
+    "dateAdded": "2023-12-27T18:50:04.043Z"
+  },
+  {
+    "url": "https://v0.dev/t/7FnGCTdUQWH",
+    "label": "Template for prompt: create a page view of detail of organization, the props to show are: \nimages\nname\nslug\nemail\nPhone\nschedule\nyear_start\nlegal_organization\nactivity_services\ndetails_activity_services\nparticipate_in_networks\nwich_networks_participate\nmision\nmedia\nlogo\ndescription\ncomments\nthematics\ntypes\naudience\ntypes_audience\nsocial media\ndonations\nvolunteers\naddresses\ncontacts\nstatus",
+    "dateAdded": "2023-12-27T18:50:04.043Z"
+  },
+  {
+    "url": "https://v0.dev/t/Rp2rAltGei1",
+    "label": "Template for prompt: reproduce it",
+    "dateAdded": "2023-12-27T18:50:04.043Z"
+  },
+  {
+    "url": "https://v0.dev/t/tqM42W0irCn",
+    "label": "Template for prompt: A landing page for a challenge website about making daily React component challenges ",
+    "dateAdded": "2023-12-27T18:50:04.044Z"
+  },
+  {
+    "url": "https://v0.dev/t/4zJOotamOji",
+    "label": "Template for prompt: habit tracker mobile app",
+    "dateAdded": "2023-12-27T18:50:04.044Z"
+  },
+  {
+    "url": "https://v0.dev/t/xu4se6hDD93",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-27T18:50:04.044Z"
+  },
+  {
+    "url": "https://v0.dev/t/xUAwhRILC8U",
+    "label": "Template for prompt: a photo mosaic creator from multiple images",
+    "dateAdded": "2023-12-27T18:50:04.044Z"
+  },
+  {
+    "url": "https://v0.dev/t/pgnfILw2qIf",
+    "label": "Template for prompt: Make a copy of messager admin panel ",
+    "dateAdded": "2023-12-27T18:50:04.044Z"
+  },
+  {
+    "url": "https://v0.dev/t/RxFK14ApYOU",
+    "label": "Template for prompt: a sortable list of video games displayed as a collection",
+    "dateAdded": "2023-12-27T18:50:04.044Z"
   }
 ]
