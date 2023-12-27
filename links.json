@@ -8293,5 +8293,135 @@
     "url": "https://v0.dev/t/NDseTAqGDDA",
     "label": "Template for prompt: video analysis tool. Browse multiple videos, watch them, see insights about them",
     "dateAdded": "2023-12-27T15:50:02.977Z"
+  },
+  {
+    "url": "https://v0.dev/t/strjn2uai10",
+    "label": "Template for prompt: チャット形式の問い合わせ画面",
+    "dateAdded": "2023-12-27T15:55:03.395Z"
+  },
+  {
+    "url": "https://v0.dev/t/4rkOqTAoLAs",
+    "label": "Template for prompt: login de entrega com thema escuro e efeitos neons",
+    "dateAdded": "2023-12-27T15:55:03.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/Aaxw5hOyaia",
+    "label": "Template for prompt: create authentication screens",
+    "dateAdded": "2023-12-27T15:55:03.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/FAqsQYeDioe",
+    "label": "Template for prompt: login de entrega com thema escuro e efeitos neons",
+    "dateAdded": "2023-12-27T15:55:03.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/6H5r7yDBRi6",
+    "label": "Template for prompt: Create a product page for selling virtual products",
+    "dateAdded": "2023-12-27T15:55:03.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/HuFBSflfd9T",
+    "label": "Template for prompt: nft hero section with 3d image carousel",
+    "dateAdded": "2023-12-27T15:55:03.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/qyQPIq9nTOg",
+    "label": "Template for prompt: We have a one text box and after writing the text we should on click on it we shoud have option of list that can the font,color ,and size of a text and after changing the modifications click submit and we should have changed text another opyion below to add new text",
+    "dateAdded": "2023-12-27T15:55:03.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/6ltGTIMrS8k",
+    "label": "Template for prompt: Create a product page for selling virtual products",
+    "dateAdded": "2023-12-27T15:55:03.397Z"
+  },
+  {
+    "url": "https://v0.dev/t/agqGEvx09xr",
+    "label": "Template for prompt: create a dashboard to show launches and launchpads",
+    "dateAdded": "2023-12-27T15:55:03.397Z"
+  },
+  {
+    "url": "https://v0.dev/t/QU4iBszuphF",
+    "label": "Template for prompt: A mix between landing and blog website for software develoepr",
+    "dateAdded": "2023-12-27T15:55:03.397Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZpPlKaYg92A",
+    "label": "Template for prompt: A locking page with centred log-in model, the log-in model has a soft blur. Inside the model, the title is 用户登录, with input fiels Account， Password， and a list to choose from Servers. (this list is long so make it a select). At the bottom shows a login button.",
+    "dateAdded": "2023-12-27T15:55:03.397Z"
+  },
+  {
+    "url": "https://v0.dev/t/TfOUDz8zMDY",
+    "label": "Template for prompt:  generate a table that accepts data and paginates",
+    "dateAdded": "2023-12-27T15:55:03.397Z"
+  },
+  {
+    "url": "https://v0.dev/t/i3IoGjQrVL9",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text.",
+    "dateAdded": "2023-12-27T15:55:03.398Z"
+  },
+  {
+    "url": "https://v0.dev/t/sRa1zeoQf04",
+    "label": "Template for prompt: make a graphical interface to enter some data, a cancel process button, and a browse button on the computer to save a file",
+    "dateAdded": "2023-12-27T15:55:03.398Z"
+  },
+  {
+    "url": "https://v0.dev/t/R68hrliSWWk",
+    "label": "Template for prompt: a giant bouncy drag-and-drop UI for uploading pictures that turn into santa claus.",
+    "dateAdded": "2023-12-27T15:55:03.398Z"
+  },
+  {
+    "url": "https://v0.dev/t/bkR8Iu9PxVu",
+    "label": "Template for prompt: create 10 small square boxes side by side",
+    "dateAdded": "2023-12-27T15:55:03.398Z"
+  },
+  {
+    "url": "https://v0.dev/t/BMv4O9vvQ1Q",
+    "label": "Template for prompt: delivery login",
+    "dateAdded": "2023-12-27T15:55:03.398Z"
+  },
+  {
+    "url": "https://v0.dev/t/EUbtteRdBz3",
+    "label": "Template for prompt: Make control panel for game hosting html template",
+    "dateAdded": "2023-12-27T15:55:03.398Z"
+  },
+  {
+    "url": "https://v0.dev/t/iY84sCWbwrL",
+    "label": "Template for prompt: do this page in only one component taking into account that i'm gonna use nextjs 14 and typescript, so the image of the car will be a next image component and you shoud superpose the green tag to the top left",
+    "dateAdded": "2023-12-27T15:55:03.399Z"
+  },
+  {
+    "url": "https://v0.dev/t/i7iN6CElPr4",
+    "label": "Template for prompt: create a login screen",
+    "dateAdded": "2023-12-27T15:55:03.399Z"
+  },
+  {
+    "url": "https://v0.dev/t/GQPrM5URjuD",
+    "label": "Template for prompt: hacer interfaz gráfica para ingresar algunos datos, un boton de cancelar proceso , y un boton de examinar en el equipo para guardar un archivo",
+    "dateAdded": "2023-12-27T15:55:03.399Z"
+  },
+  {
+    "url": "https://v0.dev/t/R9B0RtV8pt8",
+    "label": "Template for prompt: a popup guide with an image title and text description",
+    "dateAdded": "2023-12-27T15:55:03.399Z"
+  },
+  {
+    "url": "https://v0.dev/t/nzThdf63d4W",
+    "label": "Template for prompt: A locking page with centred log-in model, the log-in model has a soft blur. Inside the model, the title is 用户登录, with input fiels Account， Password， and a list to choose from Servers. (this list is long so make it a select). At the bottom shows a login button.",
+    "dateAdded": "2023-12-27T15:55:03.399Z"
+  },
+  {
+    "url": "https://v0.dev/t/OHOwXBN1nBH",
+    "label": "Template for prompt: A 404 error page",
+    "dateAdded": "2023-12-27T15:55:03.399Z"
+  },
+  {
+    "url": "https://v0.dev/t/a8oA6O1EH1w",
+    "label": "Template for prompt: workflowy-like ui",
+    "dateAdded": "2023-12-27T15:55:03.399Z"
+  },
+  {
+    "url": "https://v0.dev/t/kISfIUwMc2Y",
+    "label": "Template for prompt: Make a Call To Action section where there are cards with text \"Register\", \"Login\" and \"Find Your Bus\" with some icons",
+    "dateAdded": "2023-12-27T15:55:03.400Z"
   }
 ]
