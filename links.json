@@ -8933,5 +8933,130 @@
     "url": "https://v0.dev/t/DPAUN9X8tXy",
     "label": "Template for prompt: an sas with client information and draft design",
     "dateAdded": "2023-12-27T16:15:03.394Z"
+  },
+  {
+    "url": "https://v0.dev/t/KRA1uPrW0X7",
+    "label": "Template for prompt: a rich text editor",
+    "dateAdded": "2023-12-27T16:20:03.282Z"
+  },
+  {
+    "url": "https://v0.dev/t/k1UhEec13eI",
+    "label": "Template for prompt: hazme el código para una página web cuya interfaz tenga un título de \"Bienvenido\" y tres botones para \"buscar marca\", \"buscar número\" y \"buscar precio\". Cada botón deberá tener un input para poder escribir datos. aplícale estilo boostrap o algo parecido para darle una buena vistosidad",
+    "dateAdded": "2023-12-27T16:20:03.282Z"
+  },
+  {
+    "url": "https://v0.dev/t/wjJiLf9PU7b",
+    "label": "Template for prompt: 3d personal portfolio , use some animations and it should be smooth",
+    "dateAdded": "2023-12-27T16:20:03.282Z"
+  },
+  {
+    "url": "https://v0.dev/t/KUsznIa866k",
+    "label": "Template for prompt: a time picker",
+    "dateAdded": "2023-12-27T16:20:03.282Z"
+  },
+  {
+    "url": "https://v0.dev/t/1Hl6An5vGOq",
+    "label": "Template for prompt: A text box that, on blur, updates another text box with a capitalized version of the text in it",
+    "dateAdded": "2023-12-27T16:20:03.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/pyS53Q0V7zt",
+    "label": "Template for prompt: A paper colored landing page",
+    "dateAdded": "2023-12-27T16:20:03.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/9w3vecEnWMi",
+    "label": "Template for prompt: improve the design of this page",
+    "dateAdded": "2023-12-27T16:20:03.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/usMMfqwJZQc",
+    "label": "Template for prompt: How to make a hamburger nav menu for mobile screen size in tailwind css with nextjs",
+    "dateAdded": "2023-12-27T16:20:03.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/pAkkVRBmMUf",
+    "label": "Template for prompt: draw me a user card.\n\nThere should be only avatar and 2 progress random bars ",
+    "dateAdded": "2023-12-27T16:20:03.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/oa1lL61GRjY",
+    "label": "Template for prompt: A form to create cooking recipe, it should include a list of ingredients that can be extended, and a list of instruction that can also be extended. Each element in the ingredients and instructions can be removed.",
+    "dateAdded": "2023-12-27T16:20:03.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/MB4buTQRQNU",
+    "label": "Template for prompt: hola necesito una vista con dos opciones, una para agregar un solo elemento y la otra para agregar un bulk de elementos ",
+    "dateAdded": "2023-12-27T16:20:03.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/zAc7DrEXNXD",
+    "label": "Template for prompt: hola necesito una vista con dos opciones, una para agregar un solo elemento y la otra para agregar un bulk de elementos ",
+    "dateAdded": "2023-12-27T16:20:03.284Z"
+  },
+  {
+    "url": "https://v0.dev/t/cqZZJfzx6Cu",
+    "label": "Template for prompt: A featured recipes page for a recipe organiser SaaS app.",
+    "dateAdded": "2023-12-27T16:20:03.284Z"
+  },
+  {
+    "url": "https://v0.dev/t/BvCcqB4KR3K",
+    "label": "Template for prompt: hola necesito una vista con dos opciones, una para agregar un solo elemento y la otra para agregar un bulk de elementos ",
+    "dateAdded": "2023-12-27T16:20:03.284Z"
+  },
+  {
+    "url": "https://v0.dev/t/eIvmnRrvlgt",
+    "label": "Template for prompt: Necesito un login usuario ",
+    "dateAdded": "2023-12-27T16:20:03.284Z"
+  },
+  {
+    "url": "https://v0.dev/t/7LrL48EHhmL",
+    "label": "Template for prompt: write me down a block with user avatar and 2 progress bars for energy and willpower",
+    "dateAdded": "2023-12-27T16:20:03.284Z"
+  },
+  {
+    "url": "https://v0.dev/t/rygB92u16Rb",
+    "label": "Template for prompt: make a dashboard view of an AI powered virtual career coach platform where you can see the past and future sessions.",
+    "dateAdded": "2023-12-27T16:20:03.284Z"
+  },
+  {
+    "url": "https://v0.dev/t/0FwV4inAQA9",
+    "label": "Template for prompt: a single page responsive web, with dark material design. Design a user interface for a mobile app focused on helping travelers pack for their trips based on weather insights and IA. The inputs should be Destination, trip type (joy/bussines), length and custom input. the output should be the thing to take into consideration and other recomendations about the destination ",
+    "dateAdded": "2023-12-27T16:20:03.284Z"
+  },
+  {
+    "url": "https://v0.dev/t/hR9gXrive89",
+    "label": "Template for prompt: Recreate this login page",
+    "dateAdded": "2023-12-27T16:20:03.284Z"
+  },
+  {
+    "url": "https://v0.dev/t/e7McvuP2cf8",
+    "label": "Template for prompt: a dialog with 2 radio button and 2 ctas at the bottom",
+    "dateAdded": "2023-12-27T16:20:03.285Z"
+  },
+  {
+    "url": "https://v0.dev/t/rnllek0nOGV",
+    "label": "Template for prompt: header",
+    "dateAdded": "2023-12-27T16:20:03.285Z"
+  },
+  {
+    "url": "https://v0.dev/t/OxiOJABgvI1",
+    "label": "Template for prompt: chatbox UI",
+    "dateAdded": "2023-12-27T16:20:03.285Z"
+  },
+  {
+    "url": "https://v0.dev/t/RCxEwwJdRoZ",
+    "label": "Template for prompt: hola necesito una vista con dos opciones, una para agregar un solo elemento y la otra para agregar un bulk de elementos ",
+    "dateAdded": "2023-12-27T16:20:03.285Z"
+  },
+  {
+    "url": "https://v0.dev/t/Lv5dR0Ar451",
+    "label": "Template for prompt: grid that shows products as websites templates",
+    "dateAdded": "2023-12-27T16:20:03.285Z"
+  },
+  {
+    "url": "https://v0.dev/t/yw4PU7Xg4Tf",
+    "label": "Template for prompt: A business to business shopfront",
+    "dateAdded": "2023-12-27T16:20:03.285Z"
   }
 ]
