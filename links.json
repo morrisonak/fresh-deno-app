@@ -16303,5 +16303,130 @@
     "url": "https://v0.dev/t/nJr0Y4Zyw6S",
     "label": "Template for prompt: landing page",
     "dateAdded": "2023-12-27T21:05:03.209Z"
+  },
+  {
+    "url": "https://v0.dev/t/ueM6tJeCA6k",
+    "label": "Template for prompt: movie seat booking",
+    "dateAdded": "2023-12-27T21:10:02.917Z"
+  },
+  {
+    "url": "https://v0.dev/t/6r6Cfymtq9f",
+    "label": "Template for prompt: 把图标都画出来",
+    "dateAdded": "2023-12-27T21:10:02.917Z"
+  },
+  {
+    "url": "https://v0.dev/t/BQmDjHCw42y",
+    "label": "Template for prompt: 把图标都画出来",
+    "dateAdded": "2023-12-27T21:10:02.917Z"
+  },
+  {
+    "url": "https://v0.dev/t/Hoo4Vip9Y6z",
+    "label": "Template for prompt: help me create an advance Nextjs dashboard using the app router",
+    "dateAdded": "2023-12-27T21:10:02.917Z"
+  },
+  {
+    "url": "https://v0.dev/t/mBKZoteHCsH",
+    "label": "Template for prompt: 把图标都画出来",
+    "dateAdded": "2023-12-27T21:10:02.918Z"
+  },
+  {
+    "url": "https://v0.dev/t/WZiCHORQSMC",
+    "label": "Template for prompt: Dropdown with to select all month during the year and redirect to a page reporting/month",
+    "dateAdded": "2023-12-27T21:10:02.918Z"
+  },
+  {
+    "url": "https://v0.dev/t/KtJE39BAMlr",
+    "label": "Template for prompt: image gallery",
+    "dateAdded": "2023-12-27T21:10:02.918Z"
+  },
+  {
+    "url": "https://v0.dev/t/FgV1zv9rhqB",
+    "label": "Template for prompt: 把图标都画出来",
+    "dateAdded": "2023-12-27T21:10:02.918Z"
+  },
+  {
+    "url": "https://v0.dev/t/2GldTSXqiHg",
+    "label": "Template for prompt: \n",
+    "dateAdded": "2023-12-27T21:10:02.918Z"
+  },
+  {
+    "url": "https://v0.dev/t/4pYRBJs7GKZ",
+    "label": "Template for prompt: an order summary for a recurring donation",
+    "dateAdded": "2023-12-27T21:10:02.919Z"
+  },
+  {
+    "url": "https://v0.dev/t/xnsQF4TC5uU",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-27T21:10:02.919Z"
+  },
+  {
+    "url": "https://v0.dev/t/sixYrnCVJ6P",
+    "label": "Template for prompt: a cosmic bg gradient svg",
+    "dateAdded": "2023-12-27T21:10:02.919Z"
+  },
+  {
+    "url": "https://v0.dev/t/cRtBCGypIit",
+    "label": "Template for prompt: A shop page with checkout",
+    "dateAdded": "2023-12-27T21:10:02.919Z"
+  },
+  {
+    "url": "https://v0.dev/t/S7zqXjOq6RQ",
+    "label": "Template for prompt: 把图标都画出来",
+    "dateAdded": "2023-12-27T21:10:02.919Z"
+  },
+  {
+    "url": "https://v0.dev/t/Byk7Z6wbFpW",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T21:10:02.920Z"
+  },
+  {
+    "url": "https://v0.dev/t/iNn3g21rnuI",
+    "label": "Template for prompt: simple responsive dashboard, will only contain header and different card elements. first card element will show internet status and external ip address. second card will display list of services. each service will be represented by its name, current status and option to turn it on/off depending on status. status should be visually represented. third card will contain list of machines with its ip address and current status. status should be represented visually.",
+    "dateAdded": "2023-12-27T21:10:02.920Z"
+  },
+  {
+    "url": "https://v0.dev/t/efp0dqNeGQn",
+    "label": "Template for prompt: swift app view for a fitness tracking app",
+    "dateAdded": "2023-12-27T21:10:02.920Z"
+  },
+  {
+    "url": "https://v0.dev/t/iIIh6q3Bmr4",
+    "label": "Template for prompt: Generate the dashboard base on this image",
+    "dateAdded": "2023-12-27T21:10:02.920Z"
+  },
+  {
+    "url": "https://v0.dev/t/PYZohup8Q56",
+    "label": "Template for prompt: generate a banking page with a header that says Hello Emilie! and a large counter underneath with the current balance. below that again, is a table with transactions; the description, amount, and a red or green arrow for whether it was incoming or outgoing",
+    "dateAdded": "2023-12-27T21:10:02.920Z"
+  },
+  {
+    "url": "https://v0.dev/t/NSUGz9QpWD9",
+    "label": "Template for prompt: A simple bougie e-commerce website",
+    "dateAdded": "2023-12-27T21:10:02.921Z"
+  },
+  {
+    "url": "https://v0.dev/t/oFLyxm0AXtA",
+    "label": "Template for prompt: A Landingpage fast food",
+    "dateAdded": "2023-12-27T21:10:02.921Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZKoqdtOSSUU",
+    "label": "Template for prompt: UI for a Wedding seating chart, where the user can add new Tables as SVG Figures such square, circle, rectangle, triangle. These can be dragged around the SVG area and with a click it would display its options such edit control and remove control, these would open its respective modals to edit information such name and seat number and a confirmation to delete the control",
+    "dateAdded": "2023-12-27T21:10:02.921Z"
+  },
+  {
+    "url": "https://v0.dev/t/MtVxxCb6MT7",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T21:10:02.921Z"
+  },
+  {
+    "url": "https://v0.dev/t/VpB3xzcmMmq",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T21:10:02.921Z"
+  },
+  {
+    "url": "https://v0.dev/t/k64avwTzGWS",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T21:10:02.922Z"
   }
 ]
