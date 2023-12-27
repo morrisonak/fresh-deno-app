@@ -16063,5 +16063,115 @@
     "url": "https://v0.dev/t/KZkeprkrWsr",
     "label": "Template for prompt: An about me page that features cards showing off projects i have worked on (the project cards should include tech stack, title)",
     "dateAdded": "2023-12-27T20:55:03.533Z"
+  },
+  {
+    "url": "https://v0.dev/t/tRO7bwm4uEe",
+    "label": "Template for prompt: a vertical side bar on the left of a screen with icons similar to the one used in gmail",
+    "dateAdded": "2023-12-27T21:00:02.763Z"
+  },
+  {
+    "url": "https://v0.dev/t/GwUBLbcVkh8",
+    "label": "Template for prompt: section for reviews with optional photo, text, author first name, date, source (e.g. shopify). h-scroll, show 3.5 on desktop, 1.5 on mobile. left and right arrows to navigate ",
+    "dateAdded": "2023-12-27T21:00:02.763Z"
+  },
+  {
+    "url": "https://v0.dev/t/noYo8aOD1NF",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27T21:00:02.764Z"
+  },
+  {
+    "url": "https://v0.dev/t/70oPp6mNbkp",
+    "label": "Template for prompt: A livestream video page with live chat on the side, similar to Twitch and YouTube",
+    "dateAdded": "2023-12-27T21:00:02.764Z"
+  },
+  {
+    "url": "https://v0.dev/t/ukbuWMafO9Z",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T21:00:02.764Z"
+  },
+  {
+    "url": "https://v0.dev/t/nJr0Y4Zyw6S",
+    "label": "Template for prompt: landing page",
+    "dateAdded": "2023-12-27T21:00:02.764Z"
+  },
+  {
+    "url": "https://v0.dev/t/iOYF4hJMAqe",
+    "label": "Template for prompt: I would like the same desing ",
+    "dateAdded": "2023-12-27T21:00:02.764Z"
+  },
+  {
+    "url": "https://v0.dev/t/Nym7LkodjVl",
+    "label": "Template for prompt: a image gallery display with a navbar on the right side. minimalist",
+    "dateAdded": "2023-12-27T21:00:02.765Z"
+  },
+  {
+    "url": "https://v0.dev/t/w1I5AjFrGPL",
+    "label": "Template for prompt: a portfolio",
+    "dateAdded": "2023-12-27T21:00:02.765Z"
+  },
+  {
+    "url": "https://v0.dev/t/CE9gZzBjY8m",
+    "label": "Template for prompt: a korean beauty brand website",
+    "dateAdded": "2023-12-27T21:00:02.765Z"
+  },
+  {
+    "url": "https://v0.dev/t/AMU25ttzHV2",
+    "label": "Template for prompt: move project form with description, project name and dropdown to select move destination",
+    "dateAdded": "2023-12-27T21:00:02.765Z"
+  },
+  {
+    "url": "https://v0.dev/t/974fKxOGWT5",
+    "label": "Template for prompt: A dashboard for managing users",
+    "dateAdded": "2023-12-27T21:00:02.765Z"
+  },
+  {
+    "url": "https://v0.dev/t/2726rJVCVrQ",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-27T21:00:02.766Z"
+  },
+  {
+    "url": "https://v0.dev/t/xsuATSfgeca",
+    "label": "Template for prompt: make a search bar",
+    "dateAdded": "2023-12-27T21:00:02.766Z"
+  },
+  {
+    "url": "https://v0.dev/t/GWSIDULRndm",
+    "label": "Template for prompt: Software to simulate Airport scoreboard, Similar to image.",
+    "dateAdded": "2023-12-27T21:00:02.766Z"
+  },
+  {
+    "url": "https://v0.dev/t/SzOQgiH062V",
+    "label": "Template for prompt: create me a chatbot that is aware of current news, especially trading news, have a simple interface, have a wide vocabulary, answer every question I will write, in short, let it be chatGPT 4, but let it know the current news and have Turkish language support ",
+    "dateAdded": "2023-12-27T21:00:02.766Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZEAdeLTzh2P",
+    "label": "Template for prompt: An alert dialog component showing a list of social media a user can share a post to",
+    "dateAdded": "2023-12-27T21:00:02.766Z"
+  },
+  {
+    "url": "https://v0.dev/t/34K7jsQxBzH",
+    "label": "Template for prompt: black and white profile card for a leaderboard of a stock simulator profile shows a person and their portfolio including stock picks",
+    "dateAdded": "2023-12-27T21:00:02.767Z"
+  },
+  {
+    "url": "https://v0.dev/t/J1pPEMFzUhk",
+    "label": "Template for prompt: create a repl page with sidebar navigation",
+    "dateAdded": "2023-12-27T21:00:02.767Z"
+  },
+  {
+    "url": "https://v0.dev/t/6lCf4NiLzMI",
+    "label": "Template for prompt: create me a chatbot that is aware of current news, especially trading news, have a simple interface, have a wide vocabulary, answer every question I will write, in short, let it be chatGPT 4 but know the current news ",
+    "dateAdded": "2023-12-27T21:00:02.767Z"
+  },
+  {
+    "url": "https://v0.dev/t/YiAN2QYmwBv",
+    "label": "Template for prompt: A front end developer's portfolio site",
+    "dateAdded": "2023-12-27T21:00:02.767Z"
+  },
+  {
+    "url": "https://v0.dev/t/1nDborhoqiJ",
+    "label": "Template for prompt: make me a pill shaped button that has for text has a \"+\" icon with the text add tag",
+    "dateAdded": "2023-12-27T21:00:02.769Z"
   }
 ]
