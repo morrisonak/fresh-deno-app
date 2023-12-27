@@ -1,8 +1,7 @@
-import fetch from 'node-fetch';
+import { fetch } from 'node-fetch';
 import cheerio from 'cheerio';
 import { promises as fs } from 'fs';
-
-// ... [rest of your code, including the fetchLinks function] ...
+import path from 'path';
 
 const domain = "https://v0.dev";
 const ignoredLinks = [
@@ -14,17 +13,18 @@ const ignoredLinks = [
   "https://vercel.com/?utm_source=v0-site&utm_medium=banner&utm_campaign=home"
 ];
 
-interface LinkWithLabel {
+interface LinkWithLabelAndDate {
   url: string;
   label: string | undefined;
+  dateAdded: string;
 }
 
-const fetchLinks = async (url: string): Promise<LinkWithLabel[]> => {
+const fetchLinks = async (url: string): Promise<LinkWithLabelAndDate[]> => {
   try {
     const response = await fetch(url);
     const html = await response.text();
     const $ = cheerio.load(html);
-    const links = new Set<LinkWithLabel>();
+    const links = new Set<LinkWithLabelAndDate>();
 
     $('a').each((_, element) => {
       const url = $(element).attr('href');
@@ -32,9 +32,10 @@ const fetchLinks = async (url: string): Promise<LinkWithLabel[]> => {
 
       if (url && !ignoredLinks.includes(url)) {
         const fullUrl = url.startsWith('http') ? url : `${domain}${url}`; // Prepend domain if not already present
+        const currentDate = new Date().toISOString().split('T')[0]; // Get current date in YYYY-MM-DD format
 
-        const linkWithLabel: LinkWithLabel = { url: fullUrl, label };
-        links.add(linkWithLabel);
+        const linkWithLabelAndDate: LinkWithLabelAndDate = { url: fullUrl, label, dateAdded: currentDate };
+        links.add(linkWithLabelAndDate);
       }
     });
 
@@ -45,12 +46,35 @@ const fetchLinks = async (url: string): Promise<LinkWithLabel[]> => {
   }
 };
 
+const downloadImage = async (url, filePath) => {
+    try {
+        // Check if the file already exists
+        if (await fs.stat(filePath).then(() => true).catch(() => false)) {
+            console.log(`Image already exists: ${filePath}`);
+            return; // File exists, so skip downloading
+        }
+
+        console.log(`Downloading image from URL: ${url}`);
+        const response = await fetch(url);
+        if (!response.ok) {
+            console.error(`Failed to fetch image: ${response.statusText}. URL: ${url}`);
+            return; // Skip this image and continue
+        }
+        const arrayBuffer = await response.arrayBuffer();
+        const buffer = Buffer.from(arrayBuffer);
+        await fs.writeFile(filePath, buffer);
+        console.log(`Image saved to ${filePath}`);
+    } catch (error) {
+        console.error(`Error in downloading image: ${error.message}`);
+    }
+};
 
 
-const appendLinksToJson = async (newLinks: LinkWithLabel[], filename: string) => {
+
+const appendLinksToJson = async (newLinks: LinkWithLabelAndDate[], filename: string) => {
   try {
     // Read existing links from the file, if it exists
-    let existingLinks: LinkWithLabel[] = [];
+    let existingLinks: LinkWithLabelAndDate[] = [];
     try {
       const fileContents = await fs.readFile(filename, 'utf8');
       existingLinks = JSON.parse(fileContents);
@@ -62,6 +86,17 @@ const appendLinksToJson = async (newLinks: LinkWithLabel[], filename: string) =>
     const combinedLinks = Array.from(new Set([...existingLinks, ...newLinks]
                               .map(link => JSON.stringify(link))))
                               .map(str => JSON.parse(str));
+
+    // Download images for 't' links and update the combined links
+    for (const link of combinedLinks) {
+      if (link.url.includes('/t/')) {
+        const imageId = link.url.split('/t/')[1];
+        const imageUrl = `${domain}/api/${imageId}/image`;
+        const imagePath = path.join('static', 'images', `${imageId}.jpg`);
+
+        await downloadImage(imageUrl, imagePath);
+      }
+    }
 
     // Write the updated list of links to the file
     await fs.writeFile(filename, JSON.stringify(combinedLinks, null, 2));
