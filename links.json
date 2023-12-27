@@ -7913,5 +7913,125 @@
     "url": "https://v0.dev/t/mcwuG608bU2",
     "label": "Template for prompt: a lean car detail page with a black backgroud for a car dealership",
     "dateAdded": "2023-12-27T15:35:03.968Z"
+  },
+  {
+    "url": "https://v0.dev/t/qAPNw3YRnQ1",
+    "label": "Template for prompt: a drag and drop layout with two columns",
+    "dateAdded": "2023-12-27T15:40:03.607Z"
+  },
+  {
+    "url": "https://v0.dev/t/EGJScPQsTaL",
+    "label": "Template for prompt: A makerspace calendar/event system. Main color being #99CC66",
+    "dateAdded": "2023-12-27T15:40:03.608Z"
+  },
+  {
+    "url": "https://v0.dev/t/EdzG8CiBkLD",
+    "label": "Template for prompt: I want registration form which includes full name,age, gender, e-mail, phone no, district, address and pin code and also the captacha verification and in the end one sign up button",
+    "dateAdded": "2023-12-27T15:40:03.608Z"
+  },
+  {
+    "url": "https://v0.dev/t/wBD7vKlFZle",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-27T15:40:03.608Z"
+  },
+  {
+    "url": "https://v0.dev/t/wyP5Cp0wPB8",
+    "label": "Template for prompt: next js 14, use https://www.tremor.so/docs/ui/table",
+    "dateAdded": "2023-12-27T15:40:03.608Z"
+  },
+  {
+    "url": "https://v0.dev/t/NIEutrV803J",
+    "label": "Template for prompt: a image collage",
+    "dateAdded": "2023-12-27T15:40:03.608Z"
+  },
+  {
+    "url": "https://v0.dev/t/zyGx6J7wQXp",
+    "label": "Template for prompt: make this page more visual appealing, change the sidebar, add more colors, do what you feel like",
+    "dateAdded": "2023-12-27T15:40:03.608Z"
+  },
+  {
+    "url": "https://v0.dev/t/qnvs9au3ww0",
+    "label": "Template for prompt: framer motion page, full screen hegiht sections, fade effect",
+    "dateAdded": "2023-12-27T15:40:03.609Z"
+  },
+  {
+    "url": "https://v0.dev/t/sz0SaR3NX9g",
+    "label": "Template for prompt: create site about counter strike game by valve using counter strike and valve logos. we need counter-terrorrist and terrorist in header. site should be with Black, Red and Green colour",
+    "dateAdded": "2023-12-27T15:40:03.609Z"
+  },
+  {
+    "url": "https://v0.dev/t/QFLzls3x6AN",
+    "label": "Template for prompt: a portfolio website for a 3d web developer, data scientist, and software developer. ",
+    "dateAdded": "2023-12-27T15:40:03.609Z"
+  },
+  {
+    "url": "https://v0.dev/t/4j401hhaFAd",
+    "label": "Template for prompt: A \"F\" icon using letter \"F\" double lines",
+    "dateAdded": "2023-12-27T15:40:03.609Z"
+  },
+  {
+    "url": "https://v0.dev/t/CuRMWh05jDe",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T15:40:03.610Z"
+  },
+  {
+    "url": "https://v0.dev/t/p2pt0JhUZTV",
+    "label": "Template for prompt: I want this model in colors",
+    "dateAdded": "2023-12-27T15:40:03.610Z"
+  },
+  {
+    "url": "https://v0.dev/t/H3T4DHnmoFH",
+    "label": "Template for prompt: a github like code diff box that demonstrates the deep impacts of a code change on applicataion apis",
+    "dateAdded": "2023-12-27T15:40:03.610Z"
+  },
+  {
+    "url": "https://v0.dev/t/fsdkmd9bfv0",
+    "label": "Template for prompt: 3D EARTH, which will depict the location when the user selects his/her location. When the user selects the location the earth will rotate and create a pin into the chosen location.*\n\n\n### *In the background, we will insert a GIF/Video that will depict our motto of how to walk alone in the night. The GIF/Video will playback continuously.*\n\n\n### *After Selecting the country, they need to provide their email ID, enter the password, to create an account, and after providing their email ID and password, our system will randomly give them a name and avatar. The user will not be able to change the name and avatar, since we need to keep the user anonymous.*\n\n\n### *After entering the above details, when the user clicks on \"Get Started !\" the hand logo will play an animation of HighFive! depicting that the user has joined our community,  and a pop-up will come out with our \"TERMS & CONDITIONS\". The User must need to check the box \"I agree to the Terms & Conditions above\".  This is only for the f",
+    "dateAdded": "2023-12-27T15:40:03.610Z"
+  },
+  {
+    "url": "https://v0.dev/t/vLOlZD01MrN",
+    "label": "Template for prompt: An assessment screen with accordion sections with additional details",
+    "dateAdded": "2023-12-27T15:40:03.610Z"
+  },
+  {
+    "url": "https://v0.dev/t/uqzennA8WS5",
+    "label": "Template for prompt: a pricing plan gallery component, with a 3,4 and 8 plans option. includung product image,  dicount, included features and most popular plan badge",
+    "dateAdded": "2023-12-27T15:40:03.611Z"
+  },
+  {
+    "url": "https://v0.dev/t/BTt4B7X0obA",
+    "label": "Template for prompt: make icon \"F\"",
+    "dateAdded": "2023-12-27T15:40:03.611Z"
+  },
+  {
+    "url": "https://v0.dev/t/1LNt2WoG1ll",
+    "label": "Template for prompt: ## Task Management Panel\n\nThe Task Management Panel includes components for managing tasks efficiently. It consists of:\n\n1. **Code Diff View**: The primary component that displays the changes in code for review. It serves as the central focus for the task management process, allowing users to analyze and provide feedback on specific code changes.\n2. **SLA Timer**: Shows remaining time for task response, ensuring prompt support.\n3. **Duty Rotation Schedule**: Displays team members' rotation schedule, distributing workload effectively.\n4. **Automated Task Assignment**: Automatically assigns tasks based on workload, streamlining the review process.\n5. **Task Priority Indicator**: Highlights task priority, enhancing user experience.\n6. **Task Status Updates**: Shows current task status, ensuring transparency and accountability.\n7. **Task Workflow Visualization**: Visualizes task stages and progress, facilitating tracking and management.\n\n## Collaboration Panel\n\nThe Collaboration Panel prom",
+    "dateAdded": "2023-12-27T15:40:03.611Z"
+  },
+  {
+    "url": "https://v0.dev/t/rmqAMTz7hB6",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-27T15:40:03.611Z"
+  },
+  {
+    "url": "https://v0.dev/t/mrR9Yfpavgo",
+    "label": "Template for prompt: Create a website exactly the same as shown in the image. Make sure the font style is the same as shown in the image.",
+    "dateAdded": "2023-12-27T15:40:03.611Z"
+  },
+  {
+    "url": "https://v0.dev/t/QnXfaCQwE3E",
+    "label": "Template for prompt: portfolio ",
+    "dateAdded": "2023-12-27T15:40:03.612Z"
+  },
+  {
+    "url": "https://v0.dev/t/dJqueJ8Lb6M",
+    "label": "Template for prompt: a blog for a lawyer called Boblaw's Law Blog",
+    "dateAdded": "2023-12-27T15:40:03.612Z"
+  },
+  {
+    "url": "https://v0.dev/t/bS0A43Z97oZ",
+    "label": "Template for prompt: I WANT AN EXPENSE TRACKER WITH SHARE TRACKER",
+    "dateAdded": "2023-12-27T15:40:03.612Z"
   }
 ]
