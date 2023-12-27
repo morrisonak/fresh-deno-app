@@ -2,6 +2,9 @@ import Header from "../islands/Header.tsx";
 import links from "../links.json" assert { type: "json" };
 
 export default function Home() {
+  // Sort links by date in descending order (newest first)
+  const sortedLinks = [...links].sort((a, b) => new Date(b.dateAdded) - new Date(a.dateAdded));
+
   return (
     <div class="p-4 mx-auto max-w-screen-md">
       <Header />
@@ -10,7 +13,7 @@ export default function Home() {
       </h1>
 
       <div class="p-2">
-        {links.map((link, index) => {
+        {sortedLinks.map((link, index) => {
           // Construct the image path
           const imagePath = `/images/${link.url.split('/').pop()}.jpg`;
 
