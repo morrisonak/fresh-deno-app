@@ -16428,5 +16428,125 @@
     "url": "https://v0.dev/t/k64avwTzGWS",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2023-12-27T21:10:02.922Z"
+  },
+  {
+    "url": "https://v0.dev/t/SXoTQlfDpKb",
+    "label": "Template for prompt: Login page where left half contains aside with image across the whole half. Right side contains login form. The left side also contains some text on top of the image. Image serves as background.",
+    "dateAdded": "2023-12-27T21:15:03.351Z"
+  },
+  {
+    "url": "https://v0.dev/t/OdDmwgxWEtX",
+    "label": "Template for prompt: A website of a listing of AI tools with each tool shown as a card having name, description and an image of the tool. Make the cards smaller, but still be able to hold a lot of information. the cards should flip when hovered.",
+    "dateAdded": "2023-12-27T21:15:03.351Z"
+  },
+  {
+    "url": "https://v0.dev/t/YPOdYRH0Yvt",
+    "label": "Template for prompt: generate a page for keepass password manager",
+    "dateAdded": "2023-12-27T21:15:03.351Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z4kEAvsaiaI",
+    "label": "Template for prompt: create a dashboard for my saas where i can manage self hosted saas projects",
+    "dateAdded": "2023-12-27T21:15:03.351Z"
+  },
+  {
+    "url": "https://v0.dev/t/PqqxIOa6Oab",
+    "label": "Template for prompt: a code editor with an accordion / tree view showing directories, files on left, diff capability in the middle, and a chat with code interface on the right",
+    "dateAdded": "2023-12-27T21:15:03.351Z"
+  },
+  {
+    "url": "https://v0.dev/t/nxHV6HTu0i6",
+    "label": "Template for prompt: create a custom search bar with only a bottom border",
+    "dateAdded": "2023-12-27T21:15:03.352Z"
+  },
+  {
+    "url": "https://v0.dev/t/xlzjP8qjKgG",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T21:15:03.352Z"
+  },
+  {
+    "url": "https://v0.dev/t/njOroA6OuTC",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T21:15:03.352Z"
+  },
+  {
+    "url": "https://v0.dev/t/JTsIIw3aLOk",
+    "label": "Template for prompt: create a modern sleek search bar",
+    "dateAdded": "2023-12-27T21:15:03.352Z"
+  },
+  {
+    "url": "https://v0.dev/t/Hoo4Vip9Y6z",
+    "label": "Template for prompt: help me create an advance Nextjs dashboard using the app router",
+    "dateAdded": "2023-12-27T21:15:03.352Z"
+  },
+  {
+    "url": "https://v0.dev/t/xft9Zrni0gH",
+    "label": "Template for prompt: avatar component with diff size and status",
+    "dateAdded": "2023-12-27T21:15:03.353Z"
+  },
+  {
+    "url": "https://v0.dev/t/6r6Cfymtq9f",
+    "label": "Template for prompt: 把图标都画出来",
+    "dateAdded": "2023-12-27T21:15:03.353Z"
+  },
+  {
+    "url": "https://v0.dev/t/mBKZoteHCsH",
+    "label": "Template for prompt: 把图标都画出来",
+    "dateAdded": "2023-12-27T21:15:03.353Z"
+  },
+  {
+    "url": "https://v0.dev/t/ueM6tJeCA6k",
+    "label": "Template for prompt: movie seat booking",
+    "dateAdded": "2023-12-27T21:15:03.353Z"
+  },
+  {
+    "url": "https://v0.dev/t/S7zqXjOq6RQ",
+    "label": "Template for prompt: 把图标都画出来",
+    "dateAdded": "2023-12-27T21:15:03.354Z"
+  },
+  {
+    "url": "https://v0.dev/t/xnsQF4TC5uU",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-27T21:15:03.354Z"
+  },
+  {
+    "url": "https://v0.dev/t/9Lu6MQMsRsC",
+    "label": "Template for prompt: This is a single page tool. A main section with header \"Cropping Things Visually\" and footer \"Created by Kaito\". Use a color scheme similar to Suichi Saihara from Danganronpa V3.",
+    "dateAdded": "2023-12-27T21:15:03.354Z"
+  },
+  {
+    "url": "https://v0.dev/t/bYqHg9WJYPd",
+    "label": "Template for prompt: A website of a listing of AI tools with each tool shown as a card having name, description and an image of the tool",
+    "dateAdded": "2023-12-27T21:15:03.354Z"
+  },
+  {
+    "url": "https://v0.dev/t/BQmDjHCw42y",
+    "label": "Template for prompt: 把图标都画出来",
+    "dateAdded": "2023-12-27T21:15:03.354Z"
+  },
+  {
+    "url": "https://v0.dev/t/2GldTSXqiHg",
+    "label": "Template for prompt: \n",
+    "dateAdded": "2023-12-27T21:15:03.354Z"
+  },
+  {
+    "url": "https://v0.dev/t/WZiCHORQSMC",
+    "label": "Template for prompt: Dropdown with to select all month during the year and redirect to a page reporting/month",
+    "dateAdded": "2023-12-27T21:15:03.354Z"
+  },
+  {
+    "url": "https://v0.dev/t/4pYRBJs7GKZ",
+    "label": "Template for prompt: an order summary for a recurring donation",
+    "dateAdded": "2023-12-27T21:15:03.355Z"
+  },
+  {
+    "url": "https://v0.dev/t/KtJE39BAMlr",
+    "label": "Template for prompt: image gallery",
+    "dateAdded": "2023-12-27T21:15:03.355Z"
+  },
+  {
+    "url": "https://v0.dev/t/FgV1zv9rhqB",
+    "label": "Template for prompt: 把图标都画出来",
+    "dateAdded": "2023-12-27T21:15:03.355Z"
   }
 ]
