@@ -10858,5 +10858,135 @@
     "url": "https://v0.dev/t/oHjJWNkMStM",
     "label": "Template for prompt: Newspaper website via html and css",
     "dateAdded": "2023-12-27T17:30:02.826Z"
+  },
+  {
+    "url": "https://v0.dev/t/TizXKDBALNn",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button. With success after submit click is to hide the form and show a message saying thank you and someone will get in touch",
+    "dateAdded": "2023-12-27T17:35:03.661Z"
+  },
+  {
+    "url": "https://v0.dev/t/HMO2wmtRoaa",
+    "label": "Template for prompt: put a select menu ",
+    "dateAdded": "2023-12-27T17:35:03.662Z"
+  },
+  {
+    "url": "https://v0.dev/t/w7YflYncdks",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button. With success after submit click is a short message saying thank you and someone will get in touch",
+    "dateAdded": "2023-12-27T17:35:03.662Z"
+  },
+  {
+    "url": "https://v0.dev/t/NNBuf3wB2jW",
+    "label": "Template for prompt: create a pop with 3 options to download data",
+    "dateAdded": "2023-12-27T17:35:03.662Z"
+  },
+  {
+    "url": "https://v0.dev/t/shXm52sefnH",
+    "label": "Template for prompt: An ai chat app that shows the description on current gpt variation and 4 hints in different section to hint the message and inputs",
+    "dateAdded": "2023-12-27T17:35:03.662Z"
+  },
+  {
+    "url": "https://v0.dev/t/cozNQGAxWxD",
+    "label": "Template for prompt: url shorten page include a original url and access link input",
+    "dateAdded": "2023-12-27T17:35:03.662Z"
+  },
+  {
+    "url": "https://v0.dev/t/INJ0BijsK06",
+    "label": "Template for prompt: https://hendon.qodeinteractive.com/",
+    "dateAdded": "2023-12-27T17:35:03.662Z"
+  },
+  {
+    "url": "https://v0.dev/t/8WjItlW3DkB",
+    "label": "Template for prompt: Create a page where users can manage their account an see an history of their purchases.",
+    "dateAdded": "2023-12-27T17:35:03.662Z"
+  },
+  {
+    "url": "https://v0.dev/t/yj0ih2qtctV",
+    "label": "Template for prompt: An ai chat app that shows the description on current gpt variation and 4 hints in different section to hint the message and inputs",
+    "dateAdded": "2023-12-27T17:35:03.663Z"
+  },
+  {
+    "url": "https://v0.dev/t/f4y2slafx1o",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T17:35:03.663Z"
+  },
+  {
+    "url": "https://v0.dev/t/kXVz4NRJObg",
+    "label": "Template for prompt: Create a portfolio site for a staff software engineer\n",
+    "dateAdded": "2023-12-27T17:35:03.663Z"
+  },
+  {
+    "url": "https://v0.dev/t/sorVFPXlfw4",
+    "label": "Template for prompt: Create a portfolio site for a staff software engineer\n",
+    "dateAdded": "2023-12-27T17:35:03.663Z"
+  },
+  {
+    "url": "https://v0.dev/t/uAOogXqhfRl",
+    "label": "Template for prompt: dropdown menu to select job offer, down there an system output that will show the generated output by the model based on selected occupation",
+    "dateAdded": "2023-12-27T17:35:03.663Z"
+  },
+  {
+    "url": "https://v0.dev/t/lOdAQjnqvDm",
+    "label": "Template for prompt: a user management dashboard with preline ui",
+    "dateAdded": "2023-12-27T17:35:03.663Z"
+  },
+  {
+    "url": "https://v0.dev/t/bolsUpGGO0D",
+    "label": "Template for prompt: url shorten page include a original url and link to access",
+    "dateAdded": "2023-12-27T17:35:03.663Z"
+  },
+  {
+    "url": "https://v0.dev/t/sclQwfbtkJ5",
+    "label": "Template for prompt: url shorten page ",
+    "dateAdded": "2023-12-27T17:35:03.663Z"
+  },
+  {
+    "url": "https://v0.dev/t/kWlh9jlR1Iy",
+    "label": "Template for prompt: A user management panel",
+    "dateAdded": "2023-12-27T17:35:03.664Z"
+  },
+  {
+    "url": "https://v0.dev/t/T79ZAeCpu7O",
+    "label": "Template for prompt: An AI social media assistant platform",
+    "dateAdded": "2023-12-27T17:35:03.664Z"
+  },
+  {
+    "url": "https://v0.dev/t/rAKEMjzS374",
+    "label": "Template for prompt: collapsable section. three columns on desktop. color pickers in the first two. number input in the last",
+    "dateAdded": "2023-12-27T17:35:03.664Z"
+  },
+  {
+    "url": "https://v0.dev/t/WXx8AI0aFLd",
+    "label": "Template for prompt: create me react component like the image",
+    "dateAdded": "2023-12-27T17:35:03.664Z"
+  },
+  {
+    "url": "https://v0.dev/t/tCuj2WDfp3v",
+    "label": "Template for prompt: create a same same component like this with the description like : A leaderboard view in which there will be passed a array of objects and each object will have\n {username: string, profilePicture?: string, points: number}\nthis object and then the array will be sorted with points and the highest points on top \nwith an animation\nand the points should a bar in backgrond so that shows which have more points",
+    "dateAdded": "2023-12-27T17:35:03.664Z"
+  },
+  {
+    "url": "https://v0.dev/t/wnFxWOVncAj",
+    "label": "Template for prompt: can you help me clean up this encounter ui? modernize? correct spacing? ",
+    "dateAdded": "2023-12-27T17:35:03.664Z"
+  },
+  {
+    "url": "https://v0.dev/t/bLl36iwBKFt",
+    "label": "Template for prompt: I want an original landing page for my UI/UX design agency",
+    "dateAdded": "2023-12-27T17:35:03.664Z"
+  },
+  {
+    "url": "https://v0.dev/t/S0Vo5V16Z47",
+    "label": "Template for prompt: A dragable panel that allows users to select  configuration options ",
+    "dateAdded": "2023-12-27T17:35:03.664Z"
+  },
+  {
+    "url": "https://v0.dev/t/vUfTpWIDTOn",
+    "label": "Template for prompt: a software Wishlist similar to http://wishlist.webflow.com ",
+    "dateAdded": "2023-12-27T17:35:03.664Z"
+  },
+  {
+    "url": "https://v0.dev/t/AKlHhrDjOUv",
+    "label": "Template for prompt: i want StickyButton ",
+    "dateAdded": "2023-12-27T17:35:03.665Z"
   }
 ]
