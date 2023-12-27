@@ -5753,5 +5753,130 @@
     "url": "https://v0.dev/t/j8j2WAPJt0r",
     "label": "Template for prompt: course landing page",
     "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/a1ZfC1jrMks",
+    "label": "Template for prompt: Configuration panel for a discord bot",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/zmMgpsmp881",
+    "label": "Template for prompt: build a landing page for a javascript library for adding realtime capabilities to Next.js and Solid Start full stack web frameworks",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/EzFRiJrhdz0",
+    "label": "Template for prompt: I want a leveled bubble chart to display include relationship, and i want click any bubble to display infomation, this page has three components, one top bar, and content area split to two columns, left is leveled bubble chart, its occupy 2/3, and right is detial page, fullfill the rest area",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/F8y7AMexi6Z",
+    "label": "Template for prompt: add a breadcrum bewteen the navbar and the page",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/RSmgZphHGFM",
+    "label": "Template for prompt: build a landing page for a javascript library for adding realtime capabilities to Next.js and Solid Start full stack web frameworks",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/g2d5SK2hLYZ",
+    "label": "Template for prompt: make a copy of this but make it purple and blue",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/tvVUMqHqAeH",
+    "label": "Template for prompt: i need a responsive navbar with logo search input and 2 links",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/z7CCgCst8kB",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/kbrB7zmIr5X",
+    "label": "Template for prompt: Retail SKU page which has a paginated table showing all sales for a given date and time, quantity sold, and the date time of each sale",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/JN2f5B49Hha",
+    "label": "Template for prompt: create a layout for image uploads and viewing for my website zkpin. I would like a pin Icon and bold 'zkpin' title  in the header. I need a footer with contact info, privacy policy link. ",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/b52k1yOX3Gs",
+    "label": "Template for prompt: i need foter for stor digital produits ",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/PGiyO8PafDi",
+    "label": "Template for prompt: Spatial canvas with branching tree of dialog boxes",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/9u6Wh7x1xt0",
+    "label": "Template for prompt: A grid with dragable tiles",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/oyK3H8TriJD",
+    "label": "Template for prompt: Create a responsive nav bar",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/s802GfYqsEX",
+    "label": "Template for prompt: A modal with the amount, currency and whether if the amount is a expense (red) or income (green)",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/vp9MW9BNyYo",
+    "label": "Template for prompt: A file broadcasting page, with login page, admin page, and client page. Admin can start file broadcasting session, and client will see the files that they are broadcasting",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/6GtMqMN7t2i",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/nZVgJYCP4n7",
+    "label": "Template for prompt: a whimsical ui for navigating an animated storybook",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/rkKDIohMo6J",
+    "label": "Template for prompt: 应用落地页",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/dTHPiz38pkJ",
+    "label": "Template for prompt: Angular chat component ",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/z5vdk0KUmBz",
+    "label": "Template for prompt: a signup page with nav bar at top and fields: [first name, last name, state, zip code, password, confirm password] as well as button to redirect to sign in",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/vdsQ3hAhxX9",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/PGkJyI4o1lg",
+    "label": "Template for prompt: A list of transaction dates showing when an item is sold. should take up little vertical space. dates should be in one row",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/dZsdDOQbFDg",
+    "label": "Template for prompt: create a test question generator. The user selects a tests section (Math, Science, Reading, English) and checks off a number of topics and clicks submit. THey then see multiple choice questions listed.",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/i49TgWlGjmr",
+    "label": "Template for prompt: Anime. Reel watching website",
+    "dateAdded": "2023-12-27"
   }
 ]
