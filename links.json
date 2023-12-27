@@ -8163,5 +8163,135 @@
     "url": "https://v0.dev/t/WhK5iJETPDi",
     "label": "Template for prompt: list card component with title, course list: include grade, percentage",
     "dateAdded": "2023-12-27T15:45:03.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/sRa1zeoQf04",
+    "label": "Template for prompt: make a graphical interface to enter some data, a cancel process button, and a browse button on the computer to save a file",
+    "dateAdded": "2023-12-27T15:50:02.972Z"
+  },
+  {
+    "url": "https://v0.dev/t/bkR8Iu9PxVu",
+    "label": "Template for prompt: create 10 small square boxes side by side",
+    "dateAdded": "2023-12-27T15:50:02.972Z"
+  },
+  {
+    "url": "https://v0.dev/t/i3IoGjQrVL9",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text.",
+    "dateAdded": "2023-12-27T15:50:02.972Z"
+  },
+  {
+    "url": "https://v0.dev/t/EUbtteRdBz3",
+    "label": "Template for prompt: Make control panel for game hosting html template",
+    "dateAdded": "2023-12-27T15:50:02.972Z"
+  },
+  {
+    "url": "https://v0.dev/t/GQPrM5URjuD",
+    "label": "Template for prompt: hacer interfaz gráfica para ingresar algunos datos, un boton de cancelar proceso , y un boton de examinar en el equipo para guardar un archivo",
+    "dateAdded": "2023-12-27T15:50:02.973Z"
+  },
+  {
+    "url": "https://v0.dev/t/a8oA6O1EH1w",
+    "label": "Template for prompt: workflowy-like ui",
+    "dateAdded": "2023-12-27T15:50:02.973Z"
+  },
+  {
+    "url": "https://v0.dev/t/OHOwXBN1nBH",
+    "label": "Template for prompt: A 404 error page",
+    "dateAdded": "2023-12-27T15:50:02.973Z"
+  },
+  {
+    "url": "https://v0.dev/t/BMv4O9vvQ1Q",
+    "label": "Template for prompt: delivery login",
+    "dateAdded": "2023-12-27T15:50:02.973Z"
+  },
+  {
+    "url": "https://v0.dev/t/t08Cr4ZBDAv",
+    "label": "Template for prompt: a playground builder for ai videos",
+    "dateAdded": "2023-12-27T15:50:02.973Z"
+  },
+  {
+    "url": "https://v0.dev/t/POiRHWpZnWK",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T15:50:02.974Z"
+  },
+  {
+    "url": "https://v0.dev/t/unqsXNF8eri",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T15:50:02.974Z"
+  },
+  {
+    "url": "https://v0.dev/t/R9B0RtV8pt8",
+    "label": "Template for prompt: a popup guide with an image title and text description",
+    "dateAdded": "2023-12-27T15:50:02.974Z"
+  },
+  {
+    "url": "https://v0.dev/t/k3QEsgSJYXp",
+    "label": "Template for prompt: create a grid of small squares , there should be 5 rows , each row having 20 small squares",
+    "dateAdded": "2023-12-27T15:50:02.974Z"
+  },
+  {
+    "url": "https://v0.dev/t/kISfIUwMc2Y",
+    "label": "Template for prompt: Make a Call To Action section where there are cards with text \"Register\", \"Login\" and \"Find Your Bus\" with some icons",
+    "dateAdded": "2023-12-27T15:50:02.975Z"
+  },
+  {
+    "url": "https://v0.dev/t/uGwuSbZWutj",
+    "label": "Template for prompt: make dashboard exactly like this image",
+    "dateAdded": "2023-12-27T15:50:02.975Z"
+  },
+  {
+    "url": "https://v0.dev/t/L1B5ua474aA",
+    "label": "Template for prompt: make a website for developers to test a series of APIs. Add a sidebar to the left for each of the available API groups. In the body, add a form for the API interaction, similar in style to Postman",
+    "dateAdded": "2023-12-27T15:50:02.975Z"
+  },
+  {
+    "url": "https://v0.dev/t/nzThdf63d4W",
+    "label": "Template for prompt: A locking page with centred log-in model, the log-in model has a soft blur. Inside the model, the title is 用户登录, with input fiels Account， Password， and a list to choose from Servers. (this list is long so make it a select). At the bottom shows a login button.",
+    "dateAdded": "2023-12-27T15:50:02.975Z"
+  },
+  {
+    "url": "https://v0.dev/t/gz4KPTwjVoe",
+    "label": "Template for prompt: make a website for developers to test a series of APIs. Add a sidebar to the left for each of the available API groups. In the body, add a form for the API interaction, similar in style to Postman",
+    "dateAdded": "2023-12-27T15:50:02.975Z"
+  },
+  {
+    "url": "https://v0.dev/t/eb4DUEvd7Nh",
+    "label": "Template for prompt: create site about counter strike game by valve using counter strike, valve and steam logos. we need counter-terrorrist and terrorist in header. site should be with Black, Red and Green colour",
+    "dateAdded": "2023-12-27T15:50:02.975Z"
+  },
+  {
+    "url": "https://v0.dev/t/X3HQrkrtpzA",
+    "label": "Template for prompt: Create a dev portfolio single page",
+    "dateAdded": "2023-12-27T15:50:02.976Z"
+  },
+  {
+    "url": "https://v0.dev/t/yugrKieol90",
+    "label": "Template for prompt: Patrick was excited to learn that the next year is leap year. He seeks Spongebobsquareroot's help in identifying which years qualify as leap years. Spongebob takes out the book of time and reads out the leap year rules.\nLeap Year Rules:\n\nA leap year is a year that is divisible by 4.\nHowever, if a year is divisible by 100, it needs to be also divisble by 400 in order to qualify as a leap year.\nCan you help Patrick to determine which years are leap years?\n\nInput\nInput:\nInput consists of a single integer N, the year.\n\nConstraints:\n1 <= N <= 5000\n",
+    "dateAdded": "2023-12-27T15:50:02.976Z"
+  },
+  {
+    "url": "https://v0.dev/t/pPOis4K9Eod",
+    "label": "Template for prompt: A developer portfolio website",
+    "dateAdded": "2023-12-27T15:50:02.976Z"
+  },
+  {
+    "url": "https://v0.dev/t/TB1s82B4sAM",
+    "label": "Template for prompt: create a retangle grid that has 5 rows and 20 columns and thus resulting in 100 square boxes",
+    "dateAdded": "2023-12-27T15:50:02.976Z"
+  },
+  {
+    "url": "https://v0.dev/t/CHOvLwfJ8Ol",
+    "label": "Template for prompt: Root Calculator",
+    "dateAdded": "2023-12-27T15:50:02.976Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ps3NNJ292Q4",
+    "label": "Template for prompt: create me a website with showcasing my portfolio",
+    "dateAdded": "2023-12-27T15:50:02.976Z"
+  },
+  {
+    "url": "https://v0.dev/t/NDseTAqGDDA",
+    "label": "Template for prompt: video analysis tool. Browse multiple videos, watch them, see insights about them",
+    "dateAdded": "2023-12-27T15:50:02.977Z"
   }
 ]
