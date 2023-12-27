@@ -14428,5 +14428,135 @@
     "url": "https://v0.dev/t/vY2M1K3CguK",
     "label": "Template for prompt: веб-приложение (клиентскую и серверную части), с помощью которого можно добавить студента, удалить студента по уникальному номеру, вывести список студентов",
     "dateAdded": "2023-12-27T19:50:04.012Z"
+  },
+  {
+    "url": "https://v0.dev/t/s60CtEID4uT",
+    "label": "Template for prompt: A landing page hero section ",
+    "dateAdded": "2023-12-27T19:55:03.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/QOlxi0g0FjS",
+    "label": "Template for prompt: success toast ",
+    "dateAdded": "2023-12-27T19:55:03.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/VVCpfkwvLZ9",
+    "label": "Template for prompt: A comment modal similar to this using shadcn",
+    "dateAdded": "2023-12-27T19:55:03.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/ar8z8Vai3J4",
+    "label": "Template for prompt: A circular dial in a minimalist black and white Vercel style with lines to represent the remaining time.",
+    "dateAdded": "2023-12-27T19:55:03.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/UiI0xvlWEBv",
+    "label": "Template for prompt: footer",
+    "dateAdded": "2023-12-27T19:55:03.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/esaDj1VyLWQ",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27T19:55:03.689Z"
+  },
+  {
+    "url": "https://v0.dev/t/w5tYLm3a0Rm",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T19:55:03.689Z"
+  },
+  {
+    "url": "https://v0.dev/t/BguTmS5QzEa",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T19:55:03.689Z"
+  },
+  {
+    "url": "https://v0.dev/t/XcxRDZDf45d",
+    "label": "Template for prompt: A create comment modal using shadcn dialog",
+    "dateAdded": "2023-12-27T19:55:03.689Z"
+  },
+  {
+    "url": "https://v0.dev/t/9md5hQxL0Fd",
+    "label": "Template for prompt: header bar with login , cart icon side right",
+    "dateAdded": "2023-12-27T19:55:03.689Z"
+  },
+  {
+    "url": "https://v0.dev/t/g4bJmzD1vfZ",
+    "label": "Template for prompt: faça um timer funcional",
+    "dateAdded": "2023-12-27T19:55:03.689Z"
+  },
+  {
+    "url": "https://v0.dev/t/OVQL88UqUvL",
+    "label": "Template for prompt: a table containing products name, stock, sku and price. each product can be designed to a group that is created and selected by the user",
+    "dateAdded": "2023-12-27T19:55:03.689Z"
+  },
+  {
+    "url": "https://v0.dev/t/2YET8KHwKbt",
+    "label": "Template for prompt: A circular dial that serves as a timer in a minimalist style.",
+    "dateAdded": "2023-12-27T19:55:03.690Z"
+  },
+  {
+    "url": "https://v0.dev/t/hb3DFt1dd5Z",
+    "label": "Template for prompt: An empty state with and icon, a title, a description and a CTA",
+    "dateAdded": "2023-12-27T19:55:03.690Z"
+  },
+  {
+    "url": "https://v0.dev/t/MRTvFvhemrj",
+    "label": "Template for prompt: faz",
+    "dateAdded": "2023-12-27T19:55:03.690Z"
+  },
+  {
+    "url": "https://v0.dev/t/tT6Ve2z9lzq",
+    "label": "Template for prompt: login page",
+    "dateAdded": "2023-12-27T19:55:03.690Z"
+  },
+  {
+    "url": "https://v0.dev/t/i7cYa4d2cvq",
+    "label": "Template for prompt: A landing page for a new DTC tequila brand",
+    "dateAdded": "2023-12-27T19:55:03.690Z"
+  },
+  {
+    "url": "https://v0.dev/t/Jkm4QnYls02",
+    "label": "Template for prompt: how can i cache the data from an api request when reloading?",
+    "dateAdded": "2023-12-27T19:55:03.690Z"
+  },
+  {
+    "url": "https://v0.dev/t/oRqWrWKcxGJ",
+    "label": "Template for prompt: Create the form provided",
+    "dateAdded": "2023-12-27T19:55:03.690Z"
+  },
+  {
+    "url": "https://v0.dev/t/FqAH7NBYuzJ",
+    "label": "Template for prompt: A profile page for a mobile gym app where you can post personal records and have a profile photo, bio, and home gym. Colors are dark blue and yellow",
+    "dateAdded": "2023-12-27T19:55:03.690Z"
+  },
+  {
+    "url": "https://v0.dev/t/JQacwOondIT",
+    "label": "Template for prompt: speed test page",
+    "dateAdded": "2023-12-27T19:55:03.690Z"
+  },
+  {
+    "url": "https://v0.dev/t/wHXvujlX4AV",
+    "label": "Template for prompt: not found ecommerce page",
+    "dateAdded": "2023-12-27T19:55:03.691Z"
+  },
+  {
+    "url": "https://v0.dev/t/RyDGMIvkHtL",
+    "label": "Template for prompt: sort component",
+    "dateAdded": "2023-12-27T19:55:03.691Z"
+  },
+  {
+    "url": "https://v0.dev/t/qxZbJfKaiPk",
+    "label": "Template for prompt: search google",
+    "dateAdded": "2023-12-27T19:55:03.691Z"
+  },
+  {
+    "url": "https://v0.dev/t/nd7z7JwDCQV",
+    "label": "Template for prompt: clone facebook page",
+    "dateAdded": "2023-12-27T19:55:03.691Z"
+  },
+  {
+    "url": "https://v0.dev/t/8FyllyrjgvA",
+    "label": "Template for prompt: Login form with a email, password, remember me and login button.",
+    "dateAdded": "2023-12-27T19:55:03.691Z"
   }
 ]
