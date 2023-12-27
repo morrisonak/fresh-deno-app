@@ -17438,5 +17438,135 @@
     "url": "https://v0.dev/t/SSNE9Ft7EHS",
     "label": "Template for prompt: cool digital rain",
     "dateAdded": "2023-12-27T21:50:03.609Z"
+  },
+  {
+    "url": "https://v0.dev/t/n018ashm3oS",
+    "label": "Template for prompt: A bentogrid with GIFs",
+    "dateAdded": "2023-12-27T21:55:03.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/M2cfymEXtG4",
+    "label": "Template for prompt: HR dashboard",
+    "dateAdded": "2023-12-27T21:55:03.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wzs1LV8dMah",
+    "label": "Template for prompt: preciso de uma pagina para fazer upload de arquivo pdf usando html css e php, apos o upload do arquivo para uma pasta chamada \"uploads\"  a proxima pagima deve abrir uma tela com o pdf anexado e permitir a assinatura de forma digital",
+    "dateAdded": "2023-12-27T21:55:03.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/gjKFUcQx7To",
+    "label": "Template for prompt: preciso de uma pagina para fazer upload de arquivo pdf usando html css e php, apos o upload do arquivo para uma pasta chamada \"uploads\"  a proxima pagima deve abrir uma tela com o pdf anexado e permitir a assinatura de forma digital",
+    "dateAdded": "2023-12-27T21:55:03.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/aXvOFA41rRx",
+    "label": "Template for prompt: preciso de uma pagina para fazer upload de arquivo pdf usando html css e php, apos o upload do arquivo para uma pasta chamada \"uploads\"  a proxima pagima deve abrir uma tela com o pdf anexado e permitir a assinatura de forma digital",
+    "dateAdded": "2023-12-27T21:55:03.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/qy9cCe92smP",
+    "label": "Template for prompt: create me a news site contining crypto tickers, featured news sections, todays hits, and a main content section layed out super clean for crypto news",
+    "dateAdded": "2023-12-27T21:55:03.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/qGIbbEbH7p8",
+    "label": "Template for prompt: A three column layout for a emial client, first colum will have folders for the email like inbox, sent and deleted and send column will show the list of emails and first line of the email subject and the thirst column will show the details of the email selected",
+    "dateAdded": "2023-12-27T21:55:03.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/LcynUrwfmeO",
+    "label": "Template for prompt: Admin Template dashboard website",
+    "dateAdded": "2023-12-27T21:55:03.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/y8IS3IvC8DC",
+    "label": "Template for prompt: A changelog page for a SaaS that shows screenshots of changes ",
+    "dateAdded": "2023-12-27T21:55:03.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/EuxSuNtxZqz",
+    "label": "Template for prompt: An online doctor appointment Admin dashboard",
+    "dateAdded": "2023-12-27T21:55:03.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/AE3YJNPZCZ2",
+    "label": "Template for prompt: A UI to show all the SMS/email reminder a user has requested. ",
+    "dateAdded": "2023-12-27T21:55:03.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/ylFZ62kEYNT",
+    "label": "Template for prompt: creame un login en react",
+    "dateAdded": "2023-12-27T21:55:03.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/a6KKxUgFk6t",
+    "label": "Template for prompt: Make a website for a shitcoin called muslimfinance and make it very similar to a scammy ponzy scheme",
+    "dateAdded": "2023-12-27T21:55:03.884Z"
+  },
+  {
+    "url": "https://v0.dev/t/XnBma0N3wBC",
+    "label": "Template for prompt: Newsletter CTA",
+    "dateAdded": "2023-12-27T21:55:03.884Z"
+  },
+  {
+    "url": "https://v0.dev/t/KKahCKuDF4S",
+    "label": "Template for prompt: Internal company portal site with a nav",
+    "dateAdded": "2023-12-27T21:55:03.884Z"
+  },
+  {
+    "url": "https://v0.dev/t/kdaV56Gb1Fn",
+    "label": "Template for prompt: A reporting and analytics dashboard for ecommerce",
+    "dateAdded": "2023-12-27T21:55:03.884Z"
+  },
+  {
+    "url": "https://v0.dev/t/3zVIHjaIrtl",
+    "label": "Template for prompt: Create me an advacned footer with a logo, mutiple social icons, 2 link blocks with 4-5 links each fully resposive. also add a spot for subsribing to news letters and a copyright tag",
+    "dateAdded": "2023-12-27T21:55:03.884Z"
+  },
+  {
+    "url": "https://v0.dev/t/OE9JL1vAY9f",
+    "label": "Template for prompt:  order ui based on {\n\"isEnabled\": true,\n\"userId\": \"string\",\n\"corporationId\": \"string\",\n\"currencyCode\": \"USD\",\n\"items\": [\n{\n\"id\": \"string\",\n\"name\": \"string\",\n\"description\": \"string\",\n\"feeType\": \"SosFee\",\n\"quantity\": 0,\n\"unitPrice\": 0,\n\"discountPercent\": 0,\n\"unitDiscount\": 0,\n\"taxCode\": \"string\",\n\"taxDisabled\": true,\n\"taxableAmount\": 0,\n\"taxRate\": 0,\n\"tax\": 0,\n\"serviceType\": \"Virtual Mailbox\"\n}\n],\n\"billingAddress\": {\n\"firstName\": \"string\",\n\"lastName\": \"string\",\n\"countryCode\": \"string\",\n\"stateCode\": \"string\",\n\"city\": \"string\",\n\"addressLine1\": \"string\",\n\"addressLine2\": \"string\",\n\"postalCode\": \"string\",\n\"province\": \"string\",\n\"phoneNumber\": \"string\",\n\"email\": \"user@example.com\"\n},\n\"note\": \"string\"\n}",
+    "dateAdded": "2023-12-27T21:55:03.884Z"
+  },
+  {
+    "url": "https://v0.dev/t/XpbGkmtn0LR",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-27T21:55:03.884Z"
+  },
+  {
+    "url": "https://v0.dev/t/Jo5f2VpEjfe",
+    "label": "Template for prompt: a input field with a button in it",
+    "dateAdded": "2023-12-27T21:55:03.884Z"
+  },
+  {
+    "url": "https://v0.dev/t/SfHBmc2hhLE",
+    "label": "Template for prompt: a dashboard made for fintech loans investments",
+    "dateAdded": "2023-12-27T21:55:03.885Z"
+  },
+  {
+    "url": "https://v0.dev/t/bGdoxOcNrxs",
+    "label": "Template for prompt: We will make a product search page by giving importance to visuality, there will be only product search box and logo on the top of the page. ",
+    "dateAdded": "2023-12-27T21:55:03.885Z"
+  },
+  {
+    "url": "https://v0.dev/t/8cv3WH17bzu",
+    "label": "Template for prompt: a luxury e-commerce shop that sell old money shorts called \"rich boy shorts\"",
+    "dateAdded": "2023-12-27T21:55:03.885Z"
+  },
+  {
+    "url": "https://v0.dev/t/DwEKwNheBdQ",
+    "label": "Template for prompt: simple fully responsive navbar with hamburguer menu for mobile devices ",
+    "dateAdded": "2023-12-27T21:55:03.885Z"
+  },
+  {
+    "url": "https://v0.dev/t/myzC15phFOV",
+    "label": "Template for prompt: A very modern Chat UI. Should be themed with black/white (depending on user's selection) and have subtle tones of pastel blue (aka baby blue). To the left there will be a box containing a list of chats, each chat having a title, timestamp, and message count. It should only be around 20-25% of the screen. To the right is the chat UI. there should be modern-looking chat messages with a send message box on the bottom. Above the chat UI should be settings, with a dropdown called \"Model,\" a dropdown-animated numeric slider named \"Temperature,\" and another dropdown-animated slider named \"Max Tokens.\" All of the Chat UI should be rounded, and a glossy-clean modern look.",
+    "dateAdded": "2023-12-27T21:55:03.885Z"
+  },
+  {
+    "url": "https://v0.dev/t/QzjktQBC2KG",
+    "label": "Template for prompt: preciso de uma pagina de upload de arquivo pdf e gere uma pagina para assinatura digital",
+    "dateAdded": "2023-12-27T21:55:03.885Z"
   }
 ]
