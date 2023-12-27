@@ -15458,5 +15458,135 @@
     "url": "https://v0.dev/t/mOS2xAnUenm",
     "label": "Template for prompt: glassamorphic blurred navbar tailwind",
     "dateAdded": "2023-12-27T20:30:03.524Z"
+  },
+  {
+    "url": "https://v0.dev/t/y2TCSXdHe1o",
+    "label": "Template for prompt: CAn you please create a beautiful about us page for a technology company ?",
+    "dateAdded": "2023-12-27T20:35:03.065Z"
+  },
+  {
+    "url": "https://v0.dev/t/6nzK0a0rvK3",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-27T20:35:03.065Z"
+  },
+  {
+    "url": "https://v0.dev/t/shYTM06AhPM",
+    "label": "Template for prompt: a meme coin landing page template",
+    "dateAdded": "2023-12-27T20:35:03.065Z"
+  },
+  {
+    "url": "https://v0.dev/t/qkEXJJsHg7o",
+    "label": "Template for prompt: grid with brand links such as facebook.com and some unique text or anything else to show",
+    "dateAdded": "2023-12-27T20:35:03.065Z"
+  },
+  {
+    "url": "https://v0.dev/t/xlbad7O5GC2",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-27T20:35:03.066Z"
+  },
+  {
+    "url": "https://v0.dev/t/XB1F5rt5nYA",
+    "label": "Template for prompt: members table",
+    "dateAdded": "2023-12-27T20:35:03.066Z"
+  },
+  {
+    "url": "https://v0.dev/t/j7lzKLfBrvd",
+    "label": "Template for prompt: A application that helps you write repsonses to RFPs",
+    "dateAdded": "2023-12-27T20:35:03.066Z"
+  },
+  {
+    "url": "https://v0.dev/t/7kSNban7anh",
+    "label": "Template for prompt: members list",
+    "dateAdded": "2023-12-27T20:35:03.066Z"
+  },
+  {
+    "url": "https://v0.dev/t/ya59RAyNan6",
+    "label": "Template for prompt: a login screen that toggels between donor login and user login",
+    "dateAdded": "2023-12-27T20:35:03.066Z"
+  },
+  {
+    "url": "https://v0.dev/t/tKmxWjMcjHB",
+    "label": "Template for prompt: Bookstore webset page",
+    "dateAdded": "2023-12-27T20:35:03.066Z"
+  },
+  {
+    "url": "https://v0.dev/t/s6OfA1eZRkr",
+    "label": "Template for prompt: Cards for a porfolio ",
+    "dateAdded": "2023-12-27T20:35:03.066Z"
+  },
+  {
+    "url": "https://v0.dev/t/hlvtewt1W4K",
+    "label": "Template for prompt: A chat component with time, files, and message cards",
+    "dateAdded": "2023-12-27T20:35:03.067Z"
+  },
+  {
+    "url": "https://v0.dev/t/ogAzC6JKKxO",
+    "label": "Template for prompt: make a chatgpt4 ",
+    "dateAdded": "2023-12-27T20:35:03.067Z"
+  },
+  {
+    "url": "https://v0.dev/t/WvXkRyX9AlN",
+    "label": "Template for prompt: Landing page with language selection",
+    "dateAdded": "2023-12-27T20:35:03.067Z"
+  },
+  {
+    "url": "https://v0.dev/t/gECtZLWDexZ",
+    "label": "Template for prompt: a minimalist landing page for an under construction ios app called TalkThroughIt. Indicate that its under construction. The app is a hands free AI assistant to guide people to think through complex ideas.",
+    "dateAdded": "2023-12-27T20:35:03.067Z"
+  },
+  {
+    "url": "https://v0.dev/t/uh5A12MhV9A",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T20:35:03.067Z"
+  },
+  {
+    "url": "https://v0.dev/t/xhNbtvWToHl",
+    "label": "Template for prompt: create a 5 star review",
+    "dateAdded": "2023-12-27T20:35:03.067Z"
+  },
+  {
+    "url": "https://v0.dev/t/xE9Y9MFvWrn",
+    "label": "Template for prompt: can you give me html for a page that looks like this",
+    "dateAdded": "2023-12-27T20:35:03.067Z"
+  },
+  {
+    "url": "https://v0.dev/t/J0Th1OuZzWo",
+    "label": "Template for prompt: a colorful 3d globe hero section",
+    "dateAdded": "2023-12-27T20:35:03.067Z"
+  },
+  {
+    "url": "https://v0.dev/t/yyF1BSKCVUE",
+    "label": "Template for prompt: Calculator with some scientific options and a graph plotter",
+    "dateAdded": "2023-12-27T20:35:03.067Z"
+  },
+  {
+    "url": "https://v0.dev/t/VH2Z4iLTadQ",
+    "label": "Template for prompt: sales",
+    "dateAdded": "2023-12-27T20:35:03.068Z"
+  },
+  {
+    "url": "https://v0.dev/t/hHMHgIZCn72",
+    "label": "Template for prompt: I want to have the conversation history being shown along with these datas\ninterface GetDetailedHistoryResponse {\n    totalPage: number;\n    currentPage: number;\n    history: {\n        aiProvider: string;\n        message: string;\n        time: Date;\n        tokens: number;\n        direction: string;\n    }[]\n};",
+    "dateAdded": "2023-12-27T20:35:03.068Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yd2Cw1XVvHO",
+    "label": "Template for prompt: recreate this page: https://harpa.ai/",
+    "dateAdded": "2023-12-27T20:35:03.068Z"
+  },
+  {
+    "url": "https://v0.dev/t/Vq9CsptwiZT",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T20:35:03.068Z"
+  },
+  {
+    "url": "https://v0.dev/t/PDUpgsG9xdN",
+    "label": "Template for prompt: A document signature page with:\n\n- PDF.js visualization on the left side\n- Sidebar with signers card list with their informations like full name, email and phone.\n- A sign button",
+    "dateAdded": "2023-12-27T20:35:03.068Z"
+  },
+  {
+    "url": "https://v0.dev/t/1F3G2706OWH",
+    "label": "Template for prompt: Translation and grammar improvement:\n\n\"Landing page for a transportation service website, similar to city-to-city bus travel but offering a more personalized service.\"",
+    "dateAdded": "2023-12-27T20:35:03.068Z"
   }
 ]
