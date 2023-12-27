@@ -5143,5 +5143,130 @@
     "url": "https://v0.dev/t/3xBeHyon0nJ",
     "label": "Template for prompt: Create a page that has that generates QR codes for various use cases such as vCard, PDFs, website URLs etc. One the left, you can have selections such as colors, shapes of QR code, frame etc. and on the right section there will be a live QR code getting updated. A key focus will be on modern, clean, and aesthetically pleasing design layouts that prioritize user experience",
     "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/sJrAiHABCek",
+    "label": "Template for prompt: quiz form with title, optional code block and radio button choices, with a [submit] button ",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/kAQbJylyKgO",
+    "label": "Template for prompt: A next.js responsive slider component for avatar type stories/reels.",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/C5UHEl8ABaI",
+    "label": "Template for prompt: A mobile app screen called medication tracking screen for prediabetes healthcare app that has the components: Medication Tracking Screen:\n\nComponents:\nList of medications with dosage and schedule\nCalendar for tracking medication adherence\nReminders and notifications\nOption to add new medications\nHistory of medication adherence",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/memEfsNh8cj",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/1OFnIGMUtEi",
+    "label": "Template for prompt: A mobile app screen called medication tracking screen for prediabetes healthcare app that has the components: Medication Tracking Screen:\n\nComponents:\nList of medications with dosage and schedule\nCalendar for tracking medication adherence\nReminders and notifications\nOption to add new medications\nHistory of medication adherence\n",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/6hJxNgUzxXr",
+    "label": "Template for prompt: モーダルを作って",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/dKam7cDyWnt",
+    "label": "Template for prompt: a SaaS API AI Markteplace similar the ones used in Azure and in Salesforce",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/wcnOebFhCia",
+    "label": "Template for prompt: make html page",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/asYbugOgcq8",
+    "label": "Template for prompt: 生成一个汇报页面",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/abphZ878sqJ",
+    "label": "Template for prompt: image to html page",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/3xYwloZkRQ5",
+    "label": "Template for prompt: A portfolio page for photography where the pictures are displayed in a grid",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/X5n54HNvFw3",
+    "label": "Template for prompt: A chat page with logo and content. Side bar containing friends list",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/kL01TbTfEfm",
+    "label": "Template for prompt: A portfolio page for photography where the pictures are displayed in a grid. If the user hovers over the picture, a black transparent overlay goes over the picture. If the user clicks on a picture, they get taken to a different page for that picture",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/cR1aHYRwLem",
+    "label": "Template for prompt: shopping card with add item button and the item list",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/9Nl1z2H0lTU",
+    "label": "Template for prompt: make html page",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/L48mkx5SChf",
+    "label": "Template for prompt: create with only html, css and vanilla js",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/G6yfdAj2qaH",
+    "label": "Template for prompt: vue library",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/NBYRBOfygQz",
+    "label": "Template for prompt: 生成一个企业门户首页",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/5PgRoJOcex1",
+    "label": "Template for prompt: library map",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/8jzfoviydNE",
+    "label": "Template for prompt: aplicacion web que me permita realizar una auditoria cada pregunta que se añada a la auditoria deve tener los siguientes parametros Excelente\nBueno\nCon advertencia\nCrítico\nNo aplica",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/vtRKUA6M9ec",
+    "label": "Template for prompt: calendar like timeline with button on the top to add a new line",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/vQiOdfpnWnm",
+    "label": "Template for prompt: person portfolio hero page",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/gn5hz4pkohG",
+    "label": "Template for prompt: can you help me modernize this dnd encounter running interface?",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/Ta7YnlvHR5k",
+    "label": "Template for prompt: Make a form that has the request type name fields, a department combo box, a person type combo box, an email field, a city field, a full name field, a combo box field with callsign country next to this combo box a cell phone number field, an evidence field, a description field, and a button that says send",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/zZnziuNK1K2",
+    "label": "Template for prompt: a home page for a medical office website",
+    "dateAdded": "2023-12-27"
   }
 ]
