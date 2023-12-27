@@ -30,7 +30,7 @@ export default function Home() {
                 {link.label && <p class="font-semibold mt-1">{link.label}</p>}
                 <p class="text-gray-600 text-sm">Date Added: {link.dateAdded}</p>
               </div>
-            </div>
+           
           );
         })}
       </div>
