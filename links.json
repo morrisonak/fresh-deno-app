@@ -17183,5 +17183,135 @@
     "url": "https://v0.dev/t/qlM4RCGvawk",
     "label": "Template for prompt: simple fully responsive navbar with hamburguer menu for mobile devices",
     "dateAdded": "2023-12-27T21:40:02.852Z"
+  },
+  {
+    "url": "https://v0.dev/t/HQYa6TPP9PI",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T21:45:03.102Z"
+  },
+  {
+    "url": "https://v0.dev/t/Dl7NBKfaBRQ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T21:45:03.102Z"
+  },
+  {
+    "url": "https://v0.dev/t/irSRS4Uo0Vv",
+    "label": "Template for prompt: a dashboard for car rental",
+    "dateAdded": "2023-12-27T21:45:03.102Z"
+  },
+  {
+    "url": "https://v0.dev/t/q5xh2BoE1F0",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-27T21:45:03.103Z"
+  },
+  {
+    "url": "https://v0.dev/t/an5aAm19qne",
+    "label": "Template for prompt: A mobile upload modal that will let the user upload folders and files\nDon't restrict them on a single selection, the user can upload unlimited amounts of folders/files, show an example of how'd they look like on a list inside the modal while uploading and after they've uploaded.",
+    "dateAdded": "2023-12-27T21:45:03.103Z"
+  },
+  {
+    "url": "https://v0.dev/t/hQTmRQYousv",
+    "label": "Template for prompt: Church website built in TailwindCSS",
+    "dateAdded": "2023-12-27T21:45:03.103Z"
+  },
+  {
+    "url": "https://v0.dev/t/9ScDdbjGnjQ",
+    "label": "Template for prompt: restructure this list data into 2 row per item.\n\ni want it to be black and white\n\nlist is of a leaderboard of stock portfolios -- on teh first row include avatar badge, portfolio name, username and number of followers -- on the second row include Portfolio Value\nReturn %\nNumber of holdings\nTop Holdings\nRisk Level\nPortfolio Age",
+    "dateAdded": "2023-12-27T21:45:03.103Z"
+  },
+  {
+    "url": "https://v0.dev/t/NpJsjllIibs",
+    "label": "Template for prompt: a list of cards",
+    "dateAdded": "2023-12-27T21:45:03.103Z"
+  },
+  {
+    "url": "https://v0.dev/t/LuC0LeJdm9R",
+    "label": "Template for prompt: dashboard for student in platform mobile design",
+    "dateAdded": "2023-12-27T21:45:03.104Z"
+  },
+  {
+    "url": "https://v0.dev/t/26YpDsd4y6V",
+    "label": "Template for prompt: a cyber scuertity quiz game with level and feedbak",
+    "dateAdded": "2023-12-27T21:45:03.104Z"
+  },
+  {
+    "url": "https://v0.dev/t/P0K77b7TV48",
+    "label": "Template for prompt: A page that takes in a vehicle registration (styled like a UK vehicle registration plate)",
+    "dateAdded": "2023-12-27T21:45:03.104Z"
+  },
+  {
+    "url": "https://v0.dev/t/jE34xLW2wPf",
+    "label": "Template for prompt: restaurant menu that offers 3 3 options of meals",
+    "dateAdded": "2023-12-27T21:45:03.104Z"
+  },
+  {
+    "url": "https://v0.dev/t/hoWdZtCteUT",
+    "label": "Template for prompt: A todo application that has a funneling system similar to Getting Things Done by David Allen",
+    "dateAdded": "2023-12-27T21:45:03.104Z"
+  },
+  {
+    "url": "https://v0.dev/t/25r8FrhtEj0",
+    "label": "Template for prompt: A user facing table to display ecommerce message support inquiries",
+    "dateAdded": "2023-12-27T21:45:03.105Z"
+  },
+  {
+    "url": "https://v0.dev/t/vkD4oC5JwSo",
+    "label": "Template for prompt: design a login page that has login by Gmail and login by github options",
+    "dateAdded": "2023-12-27T21:45:03.105Z"
+  },
+  {
+    "url": "https://v0.dev/t/pPuVFhBlA8G",
+    "label": "Template for prompt: make a component like that",
+    "dateAdded": "2023-12-27T21:45:03.105Z"
+  },
+  {
+    "url": "https://v0.dev/t/GBngirjDTdo",
+    "label": "Template for prompt: design a login page that has login by Gmail and login by github options",
+    "dateAdded": "2023-12-27T21:45:03.105Z"
+  },
+  {
+    "url": "https://v0.dev/t/U3rCXkIstnP",
+    "label": "Template for prompt: A mobile upload modal that will let the user upload folders and files",
+    "dateAdded": "2023-12-27T21:45:03.106Z"
+  },
+  {
+    "url": "https://v0.dev/t/Sf83GpTHype",
+    "label": "Template for prompt: crea una interfaz que tenga un formulario donde quiero pedir estos datos \"nombre\" \n  \"contacto\" \n  \"celular\" \n  \"telefono\"\n  \"email\"\n  \"direccion\" \n  \"activo\"  ",
+    "dateAdded": "2023-12-27T21:45:03.106Z"
+  },
+  {
+    "url": "https://v0.dev/t/HzWEo21RwXl",
+    "label": "Template for prompt: a web dashboard to show 3 nodes of sigfox, each one having temperature and humidity last record, and a history of them y a linear chart",
+    "dateAdded": "2023-12-27T21:45:03.106Z"
+  },
+  {
+    "url": "https://v0.dev/t/GG5VcrHDrAe",
+    "label": "Template for prompt: Dashboard keep passwords",
+    "dateAdded": "2023-12-27T21:45:03.106Z"
+  },
+  {
+    "url": "https://v0.dev/t/6UMl7zHn47O",
+    "label": "Template for prompt: Responsive sidebar menu using shadcn ",
+    "dateAdded": "2023-12-27T21:45:03.106Z"
+  },
+  {
+    "url": "https://v0.dev/t/SSNE9Ft7EHS",
+    "label": "Template for prompt: cool digital rain",
+    "dateAdded": "2023-12-27T21:45:03.107Z"
+  },
+  {
+    "url": "https://v0.dev/t/yqLozzmWM3G",
+    "label": "Template for prompt: matrix rain",
+    "dateAdded": "2023-12-27T21:45:03.107Z"
+  },
+  {
+    "url": "https://v0.dev/t/xmDaZsy2aJq",
+    "label": "Template for prompt: A rounded blue CTA button with hover animation",
+    "dateAdded": "2023-12-27T21:45:03.107Z"
+  },
+  {
+    "url": "https://v0.dev/t/wnDjHjAJJbT",
+    "label": "Template for prompt: A search page for a store directory of a resort.",
+    "dateAdded": "2023-12-27T21:45:03.107Z"
   }
 ]
