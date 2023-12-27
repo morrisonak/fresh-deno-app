@@ -9573,5 +9573,135 @@
     "url": "https://v0.dev/t/rzmIevwcPp5",
     "label": "Template for prompt: Copy https://coderthemes.com/yum/product-grid.html",
     "dateAdded": "2023-12-27T16:40:03.153Z"
+  },
+  {
+    "url": "https://v0.dev/t/F39mw3Exq9q",
+    "label": "Template for prompt: Create me a dashboard screen, which has a left hand sidebar, with a logo, page links and an dropdown to change what month you are looking at. Then on the right, three boxes which container KPI data, then underneath that there is a chart and progress bars for different users",
+    "dateAdded": "2023-12-27T16:45:03.892Z"
+  },
+  {
+    "url": "https://v0.dev/t/RELI9q9kkVW",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T16:45:03.893Z"
+  },
+  {
+    "url": "https://v0.dev/t/iOlJCC3ygrW",
+    "label": "Template for prompt: header for  ecommerce site with logo on the left side, search bar in middle, account/cart button on right side. below that, make the navbar for all of the printing services.",
+    "dateAdded": "2023-12-27T16:45:03.893Z"
+  },
+  {
+    "url": "https://v0.dev/t/g9nDwTPHL05",
+    "label": "Template for prompt: accounting tool",
+    "dateAdded": "2023-12-27T16:45:03.893Z"
+  },
+  {
+    "url": "https://v0.dev/t/uTUaA7j80KQ",
+    "label": "Template for prompt: Make a component like this, that explains the steps of an app, but connect them by an arrow pointing from step 1 to 2, ...",
+    "dateAdded": "2023-12-27T16:45:03.893Z"
+  },
+  {
+    "url": "https://v0.dev/t/wIppaxmMikQ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T16:45:03.893Z"
+  },
+  {
+    "url": "https://v0.dev/t/YPY9qGoaHx2",
+    "label": "Template for prompt: create a footer with a logo, a name of the website, multiple subtitles and list of links, and also a link to edit the page",
+    "dateAdded": "2023-12-27T16:45:03.894Z"
+  },
+  {
+    "url": "https://v0.dev/t/fqp07JTbbqC",
+    "label": "Template for prompt: code this image",
+    "dateAdded": "2023-12-27T16:45:03.894Z"
+  },
+  {
+    "url": "https://v0.dev/t/tMh6L0taCif",
+    "label": "Template for prompt: skeumorphic landing page",
+    "dateAdded": "2023-12-27T16:45:03.894Z"
+  },
+  {
+    "url": "https://v0.dev/t/2HW71VTYfSU",
+    "label": "Template for prompt: I need a homepage for an event using HTML, CSS, and Bootstrap. I don't want React to be used, and I would like a navigation bar.",
+    "dateAdded": "2023-12-27T16:45:03.894Z"
+  },
+  {
+    "url": "https://v0.dev/t/thwKOtB5t28",
+    "label": "Template for prompt: a habit tracker",
+    "dateAdded": "2023-12-27T16:45:03.894Z"
+  },
+  {
+    "url": "https://v0.dev/t/rFR6l9Q7Hxc",
+    "label": "Template for prompt: pagina web de para reservar cita con peluqueros tipo red social",
+    "dateAdded": "2023-12-27T16:45:03.894Z"
+  },
+  {
+    "url": "https://v0.dev/t/xyHUhKyRu7H",
+    "label": "Template for prompt: create a dropdown with all the cars brands",
+    "dateAdded": "2023-12-27T16:45:03.895Z"
+  },
+  {
+    "url": "https://v0.dev/t/AX3EbusJnsM",
+    "label": "Template for prompt: 2000s web forum",
+    "dateAdded": "2023-12-27T16:45:03.895Z"
+  },
+  {
+    "url": "https://v0.dev/t/8IT0C5xHwlo",
+    "label": "Template for prompt: A navbar with aladeen effect",
+    "dateAdded": "2023-12-27T16:45:03.895Z"
+  },
+  {
+    "url": "https://v0.dev/t/Staa3pYPTgH",
+    "label": "Template for prompt: Design a header and a subheader which will be placed above a picture",
+    "dateAdded": "2023-12-27T16:45:03.895Z"
+  },
+  {
+    "url": "https://v0.dev/t/C4Zwmu6RnSM",
+    "label": "Template for prompt: a page footer with a logo",
+    "dateAdded": "2023-12-27T16:45:03.895Z"
+  },
+  {
+    "url": "https://v0.dev/t/MmY0u6a9Qr6",
+    "label": "Template for prompt: a table for mobile devices that have the first column fixed and the rest can be scrolled to the side. Each row has a a expand feature that expands more details of that row. it should have an arrow icon that auto scrolls and center each one of the scrollable rows.",
+    "dateAdded": "2023-12-27T16:45:03.895Z"
+  },
+  {
+    "url": "https://v0.dev/t/NSsMY5XoHME",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-27T16:45:03.895Z"
+  },
+  {
+    "url": "https://v0.dev/t/xLs9PIvnbfC",
+    "label": "Template for prompt: header for printing ecommerce site with navbar, logo on the left side, search bar and cart and account buttons",
+    "dateAdded": "2023-12-27T16:45:03.895Z"
+  },
+  {
+    "url": "https://v0.dev/t/KqyHUeHEOPl",
+    "label": "Template for prompt: A todo app",
+    "dateAdded": "2023-12-27T16:45:03.896Z"
+  },
+  {
+    "url": "https://v0.dev/t/zAVoHBq4n12",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27T16:45:03.896Z"
+  },
+  {
+    "url": "https://v0.dev/t/2oGv5uh7pMO",
+    "label": "Template for prompt: Adblock Detector",
+    "dateAdded": "2023-12-27T16:45:03.896Z"
+  },
+  {
+    "url": "https://v0.dev/t/JuJRQSKXLXx",
+    "label": "Template for prompt: A landing page for my website. I'm a data engineer and science with 5+ experience working in the biotech academy and industry",
+    "dateAdded": "2023-12-27T16:45:03.896Z"
+  },
+  {
+    "url": "https://v0.dev/t/53rqLnLE4t2",
+    "label": "Template for prompt: crea una pagina web para hacer un sorteo en el que pueda vender papeletas para sortear un viaje a paris y que haya 1000 papeletas con un precio de 2 euros cada una ",
+    "dateAdded": "2023-12-27T16:45:03.896Z"
+  },
+  {
+    "url": "https://v0.dev/t/XEs9VWf6D5V",
+    "label": "Template for prompt: Create a dashboard for a SaaS app which helps one to create blog articles and have it rendered on the front end.",
+    "dateAdded": "2023-12-27T16:45:03.896Z"
   }
 ]
