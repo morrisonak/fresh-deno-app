@@ -11368,5 +11368,135 @@
     "url": "https://v0.dev/t/rkE6SQUUqvw",
     "label": "Template for prompt: horizontal auto scroll list of card with fixed height, includes title, description and 2 cta for show and delete",
     "dateAdded": "2023-12-27T17:50:03.526Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZyQXBupnDaR",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-27T17:55:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/JAlEgRXB7Nf",
+    "label": "Template for prompt: a class componetnt contain a form to enter phoneNumber and location as strings with submit buton",
+    "dateAdded": "2023-12-27T17:55:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/JpORizu5S9C",
+    "label": "Template for prompt: Make a table for displaying contacts in a crm",
+    "dateAdded": "2023-12-27T17:55:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/WTN0TYRYwL1",
+    "label": "Template for prompt: Hero for a personal website with description below it a button for scheduling call and right of that call button all social handle and on the right side of this text, call and social icons a picture",
+    "dateAdded": "2023-12-27T17:55:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/dWLUSY9KacB",
+    "label": "Template for prompt: write me a page terms of service in french",
+    "dateAdded": "2023-12-27T17:55:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/lS94XM4NWkY",
+    "label": "Template for prompt: a software Wishlist similar to http://wishlist.webflow.com ",
+    "dateAdded": "2023-12-27T17:55:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/BM6btqqJKHO",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T17:55:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/rplB9Uqq1ef",
+    "label": "Template for prompt: make this restuant ",
+    "dateAdded": "2023-12-27T17:55:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/tQTQ9a5gMpj",
+    "label": "Template for prompt: Design an intuitive and visually appealing user interface for a note-taking application tailored for users who write reviews and shoot videos. The app should provide a seamless experience for creating, organizing, and managing notes with specific predefined checklists. Users should be able to easily switch between different checklists, customize them, and access rich text editing features for detailed reviews. ",
+    "dateAdded": "2023-12-27T17:55:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/aPNLKRRqoZA",
+    "label": "Template for prompt: an ios messages interface",
+    "dateAdded": "2023-12-27T17:55:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/PpLPkJCVqHU",
+    "label": "Template for prompt: a component that dynamically and smoothly adjusts its size based on its children's content, every tome contet updates it should rezise",
+    "dateAdded": "2023-12-27T17:55:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/xO9OCDUjiMs",
+    "label": "Template for prompt: Necesito añadir un listado de clientes en algun lado, donde cada cliente tiene que llenar este mismo formulario",
+    "dateAdded": "2023-12-27T17:55:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/2bvuDWonqJQ",
+    "label": "Template for prompt: Necesito añadir un listado de clientes en algun lado, donde cada cliente tiene que llenar este mismo formulario",
+    "dateAdded": "2023-12-27T17:55:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/zahTYymyApA",
+    "label": "Template for prompt: I want a integration page, similar to this, but with fields that show connected data sources, with encrypted keys or a green check for PagerDuty, Slack, and Datadog, flowing to a lightning Bolt symbol. This is for an incident response platform called Resolvd AI. The integration page is part 1. The next tab should be training, where data from these sources will be used to train the model, then the last part should be model metrics. ",
+    "dateAdded": "2023-12-27T17:55:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/ah5aRXzhtK0",
+    "label": "Template for prompt: Pricing table for SaaS product",
+    "dateAdded": "2023-12-27T17:55:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/71q1KTr0NXV",
+    "label": "Template for prompt: form for entering details of contact card that should have first name, last name, phone, email, company",
+    "dateAdded": "2023-12-27T17:55:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/cReOzZPpBw2",
+    "label": "Template for prompt: a detail page for terraform apply results",
+    "dateAdded": "2023-12-27T17:55:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/zz20o2Mjird",
+    "label": "Template for prompt: landing page for payment initiation product ",
+    "dateAdded": "2023-12-27T17:55:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/9VtfiloGe57",
+    "label": "Template for prompt: create a landing page with header and footer and with an logo in the header , in the body put an image and text and 2 bottom, the logo is the number 42 ",
+    "dateAdded": "2023-12-27T17:55:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/0c3yXQm1WIF",
+    "label": "Template for prompt: OYUN sitesi ",
+    "dateAdded": "2023-12-27T17:55:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/XZ11E0oOAAf",
+    "label": "Template for prompt: financial data dashboard",
+    "dateAdded": "2023-12-27T17:55:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/I4SJ4Vk5aFe",
+    "label": "Template for prompt: TimeTracking Dashboard with \"Zeit am Kind, Verfügungszeit und pause\" ",
+    "dateAdded": "2023-12-27T17:55:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/qhsaC7M87eM",
+    "label": "Template for prompt: reproduce it, texts color is 32325D and image size is 420x420",
+    "dateAdded": "2023-12-27T17:55:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/5aO65LJ5nqg",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-27T17:55:03.580Z"
+  },
+  {
+    "url": "https://v0.dev/t/oa0E0hiYjGv",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27T17:55:03.580Z"
+  },
+  {
+    "url": "https://v0.dev/t/FfSZckIkYbn",
+    "label": "Template for prompt: Time Tracking input for a kindergarden",
+    "dateAdded": "2023-12-27T17:55:03.580Z"
   }
 ]
