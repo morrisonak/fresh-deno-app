@@ -15328,5 +15328,135 @@
     "url": "https://v0.dev/t/8zLJPLJTAG4",
     "label": "Template for prompt: This is a music site for listening and downloading music. The name of the site is Musical Fireflies or simply Fireflies",
     "dateAdded": "2023-12-27T20:25:03.547Z"
+  },
+  {
+    "url": "https://v0.dev/t/7kSNban7anh",
+    "label": "Template for prompt: members list",
+    "dateAdded": "2023-12-27T20:30:03.520Z"
+  },
+  {
+    "url": "https://v0.dev/t/lqHZOUlmrcR",
+    "label": "Template for prompt: Could you help me create a prisoners dilema game? Where you can battle bots against each other? ",
+    "dateAdded": "2023-12-27T20:30:03.520Z"
+  },
+  {
+    "url": "https://v0.dev/t/tKmxWjMcjHB",
+    "label": "Template for prompt: Bookstore webset page",
+    "dateAdded": "2023-12-27T20:30:03.520Z"
+  },
+  {
+    "url": "https://v0.dev/t/WvXkRyX9AlN",
+    "label": "Template for prompt: Landing page with language selection",
+    "dateAdded": "2023-12-27T20:30:03.520Z"
+  },
+  {
+    "url": "https://v0.dev/t/hHMHgIZCn72",
+    "label": "Template for prompt: I want to have the conversation history being shown along with these datas\ninterface GetDetailedHistoryResponse {\n    totalPage: number;\n    currentPage: number;\n    history: {\n        aiProvider: string;\n        message: string;\n        time: Date;\n        tokens: number;\n        direction: string;\n    }[]\n};",
+    "dateAdded": "2023-12-27T20:30:03.520Z"
+  },
+  {
+    "url": "https://v0.dev/t/gECtZLWDexZ",
+    "label": "Template for prompt: a minimalist landing page for an under construction ios app called TalkThroughIt. Indicate that its under construction. The app is a hands free AI assistant to guide people to think through complex ideas.",
+    "dateAdded": "2023-12-27T20:30:03.520Z"
+  },
+  {
+    "url": "https://v0.dev/t/YWhvIN5MKm3",
+    "label": "Template for prompt: a minimalist landing page for an under construction ios app called TalkThroughIt. Indicate that its under construction. The app is a hands free AI assistant to guide people to think through complex ideas.",
+    "dateAdded": "2023-12-27T20:30:03.521Z"
+  },
+  {
+    "url": "https://v0.dev/t/yyF1BSKCVUE",
+    "label": "Template for prompt: Calculator with some scientific options and a graph plotter",
+    "dateAdded": "2023-12-27T20:30:03.521Z"
+  },
+  {
+    "url": "https://v0.dev/t/VH2Z4iLTadQ",
+    "label": "Template for prompt: sales",
+    "dateAdded": "2023-12-27T20:30:03.521Z"
+  },
+  {
+    "url": "https://v0.dev/t/ogAzC6JKKxO",
+    "label": "Template for prompt: make a chatgpt4 ",
+    "dateAdded": "2023-12-27T20:30:03.521Z"
+  },
+  {
+    "url": "https://v0.dev/t/xhNbtvWToHl",
+    "label": "Template for prompt: create a 5 star review",
+    "dateAdded": "2023-12-27T20:30:03.521Z"
+  },
+  {
+    "url": "https://v0.dev/t/J0Th1OuZzWo",
+    "label": "Template for prompt: a colorful 3d globe hero section",
+    "dateAdded": "2023-12-27T20:30:03.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/xE9Y9MFvWrn",
+    "label": "Template for prompt: can you give me html for a page that looks like this",
+    "dateAdded": "2023-12-27T20:30:03.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/Vq9CsptwiZT",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T20:30:03.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/PDUpgsG9xdN",
+    "label": "Template for prompt: A document signature page with:\n\n- PDF.js visualization on the left side\n- Sidebar with signers card list with their informations like full name, email and phone.\n- A sign button",
+    "dateAdded": "2023-12-27T20:30:03.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/QgZTkWn7iOq",
+    "label": "Template for prompt: url shorten page include a original url and access link input",
+    "dateAdded": "2023-12-27T20:30:03.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/1F3G2706OWH",
+    "label": "Template for prompt: Translation and grammar improvement:\n\n\"Landing page for a transportation service website, similar to city-to-city bus travel but offering a more personalized service.\"",
+    "dateAdded": "2023-12-27T20:30:03.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yd2Cw1XVvHO",
+    "label": "Template for prompt: recreate this page: https://harpa.ai/",
+    "dateAdded": "2023-12-27T20:30:03.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/TFwZFZtIDS8",
+    "label": "Template for prompt: quiz creation wizard/page to select questions, tags etc",
+    "dateAdded": "2023-12-27T20:30:03.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/jp0U1phyaU6",
+    "label": "Template for prompt: create a view where i can see the documnts that i've upload  with buttons for delete, show, edit and download",
+    "dateAdded": "2023-12-27T20:30:03.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/RCaR1OZAfgo",
+    "label": "Template for prompt: Contraktor home page",
+    "dateAdded": "2023-12-27T20:30:03.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/DyT3kXRM05w",
+    "label": "Template for prompt: This website is used for online bookstore website where users can browse and purchase books.\n\na. The logo and menus are required in the header section ( home page, Book Details Page, Shopping Cart page). All of these things should be designed and must be functional.\n\nb. Home page:\n\nDisplay a list of featured books on the homepage.\nInclude images, titles, and small descriptions of each featured book.\n\nc. Book Details Page:\n\nWhen a user clicks on a book, show detailed information about the book.\nInclude options to add the book to the shopping cart.\n\nd. Shopping Cart page:\n\ne. Implement a shopping cart functionality:\n\n1. Allow users to add and remove the books from the cart and display the total price of items in the cart.\nAnd where users can enter their details and complete the purchase.\n\n2. Set up a database to store information about books, users, and orders.\nAnd Implement API endpoints to retrieve a list of featured books, book details,\nand handle shopping cart interactions.\n\nWhen an ",
+    "dateAdded": "2023-12-27T20:30:03.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/nfueFWNsQnR",
+    "label": "Template for prompt: A document signature page with:\n\n- PDF.js visualization on the left side;\n- Sidebar with signers card with their informations like full name, email and phone.\n- A sign button",
+    "dateAdded": "2023-12-27T20:30:03.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/BoIz7CkNF7p",
+    "label": "Template for prompt: Single page, portfolio for web developer, simple, one page, html and css only",
+    "dateAdded": "2023-12-27T20:30:03.524Z"
+  },
+  {
+    "url": "https://v0.dev/t/34MVTc3QYGV",
+    "label": "Template for prompt: A document signature page with:\n\n- PDF.js visualization on the left side;",
+    "dateAdded": "2023-12-27T20:30:03.524Z"
+  },
+  {
+    "url": "https://v0.dev/t/mOS2xAnUenm",
+    "label": "Template for prompt: glassamorphic blurred navbar tailwind",
+    "dateAdded": "2023-12-27T20:30:03.524Z"
   }
 ]
