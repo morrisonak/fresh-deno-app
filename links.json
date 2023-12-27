@@ -17693,5 +17693,130 @@
     "url": "https://v0.dev/t/y8IS3IvC8DC",
     "label": "Template for prompt: A changelog page for a SaaS that shows screenshots of changes ",
     "dateAdded": "2023-12-27T22:00:03.697Z"
+  },
+  {
+    "url": "https://v0.dev/t/PbAWrh2FbaM",
+    "label": "Template for prompt: a pricing page with a way to add seats for a 10% discount",
+    "dateAdded": "2023-12-27T22:05:03.422Z"
+  },
+  {
+    "url": "https://v0.dev/t/YuCiZKVQd7X",
+    "label": "Template for prompt: Check https://www.tolahq.com/ and create a similar landing page in italian",
+    "dateAdded": "2023-12-27T22:05:03.422Z"
+  },
+  {
+    "url": "https://v0.dev/t/5P393MVjuM5",
+    "label": "Template for prompt: a our discord section nextjs",
+    "dateAdded": "2023-12-27T22:05:03.422Z"
+  },
+  {
+    "url": "https://v0.dev/t/3vyLnMWqrSd",
+    "label": "Template for prompt: a animated button",
+    "dateAdded": "2023-12-27T22:05:03.422Z"
+  },
+  {
+    "url": "https://v0.dev/t/AVmOFwJTVWb",
+    "label": "Template for prompt: a heading section for a product, with a main heading, sub heading, and up to four highlighted points",
+    "dateAdded": "2023-12-27T22:05:03.422Z"
+  },
+  {
+    "url": "https://v0.dev/t/yrIT6LPM1VY",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T22:05:03.422Z"
+  },
+  {
+    "url": "https://v0.dev/t/4VVT0xKFoKU",
+    "label": "Template for prompt: notification overlay with message",
+    "dateAdded": "2023-12-27T22:05:03.423Z"
+  },
+  {
+    "url": "https://v0.dev/t/qm9bgofPQYJ",
+    "label": "Template for prompt: dashboard",
+    "dateAdded": "2023-12-27T22:05:03.423Z"
+  },
+  {
+    "url": "https://v0.dev/t/YT8u1IMt5lA",
+    "label": "Template for prompt: A upload file button",
+    "dateAdded": "2023-12-27T22:05:03.423Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZhY2PI4clYs",
+    "label": "Template for prompt: An app for viewing municipal water and sewage fees for different postal codes",
+    "dateAdded": "2023-12-27T22:05:03.423Z"
+  },
+  {
+    "url": "https://v0.dev/t/T5nx6E26eo8",
+    "label": "Template for prompt: صحح لي هذا الكود class PathView(LoginRequiredMixin, View):\n    def get(self, request):\n        try:\n            subscription = Subscription.objects.get(user=self.request.user)\n            if subscription.is_active:\n                datefirst = Futurepath.objects.get(Futurepath.datef, pk=1)\n                dateend = Futurepath.objects.get(Futurepath.dateto, pk=1)\n                context = {\n                    datefirst:'datefirst',\n                    dateend:'dateend'\n                }\n                return render(self.request, \"path.html\", context)\n            else:\n                return render(\n                    self.request,\n                    \"home.html\",\n                    {\"message\": \"Please subscribe to access our service.\"},\n                )\n        except Subscription.DoesNotExist:\n            return render(\n                request,\n                \"home.html\",\n                {\"message\": \"Please subscribe to access our service.\"},\n            )",
+    "dateAdded": "2023-12-27T22:05:03.423Z"
+  },
+  {
+    "url": "https://v0.dev/t/lwexVgo7TQv",
+    "label": "Template for prompt: a macos custom screenshot app with an OCR option",
+    "dateAdded": "2023-12-27T22:05:03.424Z"
+  },
+  {
+    "url": "https://v0.dev/t/syLPouVJT0g",
+    "label": "Template for prompt: a page containing quotes that automatically change with each refresh ",
+    "dateAdded": "2023-12-27T22:05:03.424Z"
+  },
+  {
+    "url": "https://v0.dev/t/CG7K5VadXlY",
+    "label": "Template for prompt: admin dashboard for an online doctor appointments service",
+    "dateAdded": "2023-12-27T22:05:03.424Z"
+  },
+  {
+    "url": "https://v0.dev/t/AnXaAgZ2Oh5",
+    "label": "Template for prompt: process as product search box and write codes with php ",
+    "dateAdded": "2023-12-27T22:05:03.424Z"
+  },
+  {
+    "url": "https://v0.dev/t/IFyOKaxDSj8",
+    "label": "Template for prompt: A landing page for a SaaS ",
+    "dateAdded": "2023-12-27T22:05:03.424Z"
+  },
+  {
+    "url": "https://v0.dev/t/2cEJcgC5ckN",
+    "label": "Template for prompt: landing page with big rounded search bar in the center for new years resolutions, like linear.app",
+    "dateAdded": "2023-12-27T22:05:03.425Z"
+  },
+  {
+    "url": "https://v0.dev/t/dN1DsxjODwM",
+    "label": "Template for prompt: create a bento personal page minimalism",
+    "dateAdded": "2023-12-27T22:05:03.425Z"
+  },
+  {
+    "url": "https://v0.dev/t/NIq7W5Xlfqg",
+    "label": "Template for prompt: create a modal that allows the user to choose the categories under dynamic creation of class groups. should have create group option, view group or join group using the group passcode",
+    "dateAdded": "2023-12-27T22:05:03.425Z"
+  },
+  {
+    "url": "https://v0.dev/t/0mujXvzQoJ1",
+    "label": "Template for prompt: Can you write a football match simulation engine with second by second actions by individual players where the outcome is stochastic but partly influenced by the relative skill of the players.",
+    "dateAdded": "2023-12-27T22:05:03.425Z"
+  },
+  {
+    "url": "https://v0.dev/t/JuYPk3Ewwwr",
+    "label": "Template for prompt: landing page with big rounded input in the center for new years resolutions",
+    "dateAdded": "2023-12-27T22:05:03.425Z"
+  },
+  {
+    "url": "https://v0.dev/t/YMFSgaqk6FI",
+    "label": "Template for prompt: carrusel de imagenes 6 fotos, con 3 visibles",
+    "dateAdded": "2023-12-27T22:05:03.425Z"
+  },
+  {
+    "url": "https://v0.dev/t/uVEeGmBwolG",
+    "label": "Template for prompt: Can you write a football management simulator?",
+    "dateAdded": "2023-12-27T22:05:03.426Z"
+  },
+  {
+    "url": "https://v0.dev/t/gZMMs45vlgN",
+    "label": "Template for prompt: a dashboard for life expectancy data",
+    "dateAdded": "2023-12-27T22:05:03.426Z"
+  },
+  {
+    "url": "https://v0.dev/t/C0y5vlggmJr",
+    "label": "Template for prompt: minimalistic chatbot interface",
+    "dateAdded": "2023-12-27T22:05:03.426Z"
   }
 ]
