@@ -6008,5 +6008,135 @@
     "url": "https://v0.dev/t/infgZj6JJlF",
     "label": "Template for prompt:   username: \"\",\n      email: \"\",\n      password: \"\",\n      name: \"\",\n      role: Role.STAFF,\n      restaurant: \"\",\n      brand: \"\",\n      phone: \"\",\n      avatar: \"\",\nmake a register form with mantine",
     "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/noytytl9n47",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/k06eHZrDxAU",
+    "label": "Template for prompt: a landing page to showcase photogarph capture by me. keep it short",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/ll91hUXcNa7",
+    "label": "Template for prompt: create a checkout page",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/EHcnKDJKWrF",
+    "label": "Template for prompt: A user card with the user's name, a list of user \"storefronts\" (a storefront is just a name) and the user's current role as a dropdown",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/feImrPGQUiL",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/FUCwiz42PGO",
+    "label": "Template for prompt: a multi step form",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/mfecwoiMpdS",
+    "label": "Template for prompt: HIgh fidelity Instagram Feed",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/7ZLb4JhmNek",
+    "label": "Template for prompt: table with export functionality",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/cWpbgtbH2Rq",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/geoztmmMa0C",
+    "label": "Template for prompt: Similar to OA approval flowcharting tool",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/07RS12eNwDo",
+    "label": "Template for prompt: A login page for an android application about teaching and learning programming with MUI.",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/wlNEnWhUKED",
+    "label": "Template for prompt: create this ui",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/oVtiQwDsxpV",
+    "label": "Template for prompt: a portfolio in dark mode with a hero section and underneath key elements for skills",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/VMKawQIxuaH",
+    "label": "Template for prompt: Ecommerse tshirt page with multiple tshirt images and name, price description and reviews at bottom + recommedatn ",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/KnRWozFm7xJ",
+    "label": "Template for prompt: A login page for an android application about teaching and learning programming with MUI.",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/Vda4bCupBRg",
+    "label": "Template for prompt: a page to show all the campaign details",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/oIn1OV6ngjm",
+    "label": "Template for prompt: a hero section with image that cover the herro section and the navbar",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/raGtdBWeibj",
+    "label": "Template for prompt:  Create a ai chat window.",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/5yxr79hZLuk",
+    "label": "Template for prompt: using the library MUI, create a list of exercise sessions for a given date. The exercises should display name of exercise, number of sets along reps and weight",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/jji3j6CVGTx",
+    "label": "Template for prompt: <template>\n  <div class=\"p-main\" :style=\"backgroundStyle\">\n    <div class=\"p-content-overlay\"></div>\n    <transition name=\"fade\">\n      <div v-if=\"isLoading\" class=\"p-overlay\">\n        <ripple class=\"p-loader\"></ripple>\n      </div>\n    </transition>\n    <div class=\"p-header\">\n      <div class=\"p-header-inner\">\n        <div class=\"p-progress-chat-bg\">\n          <div class=\"p-progress-chat-bar\" :style=\"{ width: progressBarLength + '%' }\">\n            <span class=\"p-progress-chat-percentage\"></span>\n          </div>\n        </div>\n      </div>\n    </div>\n    <div class=\"p-content p-container\">\n      <div class=\"p-chat\">\n        <div class=\"p-chat-messages\">\n          <ul class=\"p-chat-message-list\">\n            <li v-for=\"item in messages\" :key=\"item.id\" class=\"p-chat-message p-chat-message--full\">\n              <div class=\"p-chat-user\">\n                <img :src=\"adminImage\" class=\"p-chat-user-photo\" alt=\"avatar\" />\n\n                <div class=\"p-chat-user-status\"></div>\n              <",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/YRMyk2qKgPq",
+    "label": "Template for prompt: a hero section with image that cover the herro section and the navbar",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/JI58uY6rsg7",
+    "label": "Template for prompt: Suggest me a decision modal where I have to choose betwen creating a new entity or generating it based on 2 fields",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/xc1whYBzlUu",
+    "label": "Template for prompt: Build this using tailwind css",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/ebQJMSM0905",
+    "label": "Template for prompt: Customized dashboard builder for CRM",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/gXywijotgJF",
+    "label": "Template for prompt: create a ui for a diet app where you have to select a employee asign a city, 3 meals, fill comment and delete one is a array",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/O02zmzkeUZR",
+    "label": "Template for prompt: make post it note",
+    "dateAdded": "2023-12-27"
   }
 ]
