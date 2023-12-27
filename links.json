@@ -10988,5 +10988,130 @@
     "url": "https://v0.dev/t/AKlHhrDjOUv",
     "label": "Template for prompt: i want StickyButton ",
     "dateAdded": "2023-12-27T17:35:03.665Z"
+  },
+  {
+    "url": "https://v0.dev/t/1apvnNjWS3G",
+    "label": "Template for prompt: Videogame time tracker ",
+    "dateAdded": "2023-12-27T17:40:04.485Z"
+  },
+  {
+    "url": "https://v0.dev/t/ijl54ooij1P",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-27T17:40:04.486Z"
+  },
+  {
+    "url": "https://v0.dev/t/DU7PxioBCSf",
+    "label": "Template for prompt: dashboard with bootstrap 5",
+    "dateAdded": "2023-12-27T17:40:04.487Z"
+  },
+  {
+    "url": "https://v0.dev/t/RcIIMnCqAZt",
+    "label": "Template for prompt: create minimalistic card ui to display following data:\n{\n    \"id\": \"ac027289-382e-49f8-9f65-b8b4af9388e5\",\n    \"ownerId\": 5,\n    \"title\": \"Lorem Ipsum\",\n    \"documentUrl\": \"https://r-randimg-py.fly.dev/picsum/doc5\",\n    \"deadline\": \"2024-03-28T00:00:00.000Z\",\n    \"state\": \"frozen\",\n    \"resultUrl\": \"https://r-randimg-py.fly.dev/picsum/result5\",\n    \"votedFor\": 2000,\n    \"votedAgainst\": 400,\n    \"votersCount\": 2700,\n    \"owner\": {\n        \"id\": 3,\n        \"name\": \"City Council\",\n        \"logo\": \"https://r-randimg-py.fly.dev/picsum/logo3\"\n    }\n}",
+    "dateAdded": "2023-12-27T17:40:04.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/2IJRm6CIZCR",
+    "label": "Template for prompt: To design a website layout and user interface for the puzzles website, I will first consider the target audience and the overall objective of the website, which is to generate new puzzles every day.\n\nHomepage:\n\nThe homepage should have a clean and modern design with a visually appealing background that represents the essence of puzzles.\nThe website's logo and name should be prominently displayed at the top, allowing users to easily recognize and remember the website.\nThe main navigation menu should be placed at the top or side of the page, providing easy access to different puzzle categories such as math puzzles, word puzzles, logic puzzles, etc.\nA search bar can also be included to allow users to quickly find specific puzzles or keywords.\nBelow the navigation menu, there should be a section displaying the latest or featured puzzles, enticing users to explore and engage with the website.\nAdditionally, a brief introduction or description of the website's purpose and the benefits of solv",
+    "dateAdded": "2023-12-27T17:40:04.491Z"
+  },
+  {
+    "url": "https://v0.dev/t/kKkSAuywkeO",
+    "label": "Template for prompt: navbar with search, profile and dropdown",
+    "dateAdded": "2023-12-27T17:40:04.492Z"
+  },
+  {
+    "url": "https://v0.dev/t/jw6v6m0Z9Nf",
+    "label": "Template for prompt: create a landing page for a new business on the health care  site that is focused on muscle gain and mental health support",
+    "dateAdded": "2023-12-27T17:40:04.494Z"
+  },
+  {
+    "url": "https://v0.dev/t/ds8TPtx3aNW",
+    "label": "Template for prompt: A mobile app to fill and sign pdf forms",
+    "dateAdded": "2023-12-27T17:40:04.495Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ixf4TOCfjZ5",
+    "label": "Template for prompt: provide  a detailed panel dashboard, where the cards from my picture that i send are clikcable, and change the dashboard window/panel/card whatever based on what card u clicked",
+    "dateAdded": "2023-12-27T17:40:04.496Z"
+  },
+  {
+    "url": "https://v0.dev/t/cozNQGAxWxD",
+    "label": "Template for prompt: url shorten page include a original url and access link input",
+    "dateAdded": "2023-12-27T17:40:04.497Z"
+  },
+  {
+    "url": "https://v0.dev/t/6BXafoKEcHh",
+    "label": "Template for prompt: create this hero section",
+    "dateAdded": "2023-12-27T17:40:04.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/w7YflYncdks",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button. With success after submit click is a short message saying thank you and someone will get in touch",
+    "dateAdded": "2023-12-27T17:40:04.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/TizXKDBALNn",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button. With success after submit click is to hide the form and show a message saying thank you and someone will get in touch",
+    "dateAdded": "2023-12-27T17:40:04.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/shXm52sefnH",
+    "label": "Template for prompt: An ai chat app that shows the description on current gpt variation and 4 hints in different section to hint the message and inputs",
+    "dateAdded": "2023-12-27T17:40:04.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/NNBuf3wB2jW",
+    "label": "Template for prompt: create a pop with 3 options to download data",
+    "dateAdded": "2023-12-27T17:40:04.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/yj0ih2qtctV",
+    "label": "Template for prompt: An ai chat app that shows the description on current gpt variation and 4 hints in different section to hint the message and inputs",
+    "dateAdded": "2023-12-27T17:40:04.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/PKSeGSrSgLI",
+    "label": "Template for prompt: write me a beautiful page privacy policy, in french",
+    "dateAdded": "2023-12-27T17:40:04.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/lOdAQjnqvDm",
+    "label": "Template for prompt: a user management dashboard with preline ui",
+    "dateAdded": "2023-12-27T17:40:04.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/kXVz4NRJObg",
+    "label": "Template for prompt: Create a portfolio site for a staff software engineer\n",
+    "dateAdded": "2023-12-27T17:40:04.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/8WjItlW3DkB",
+    "label": "Template for prompt: Create a page where users can manage their account an see an history of their purchases.",
+    "dateAdded": "2023-12-27T17:40:04.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/f4y2slafx1o",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T17:40:04.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/INJ0BijsK06",
+    "label": "Template for prompt: https://hendon.qodeinteractive.com/",
+    "dateAdded": "2023-12-27T17:40:04.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/bolsUpGGO0D",
+    "label": "Template for prompt: url shorten page include a original url and link to access",
+    "dateAdded": "2023-12-27T17:40:04.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/sclQwfbtkJ5",
+    "label": "Template for prompt: url shorten page ",
+    "dateAdded": "2023-12-27T17:40:04.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/kWlh9jlR1Iy",
+    "label": "Template for prompt: A user management panel",
+    "dateAdded": "2023-12-27T17:40:04.501Z"
   }
 ]
