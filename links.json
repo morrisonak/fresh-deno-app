@@ -15203,5 +15203,130 @@
     "url": "https://v0.dev/t/wTzu6KazSZo",
     "label": "Template for prompt: generates a user interface for selecting different infrastructure assets\n",
     "dateAdded": "2023-12-27T20:20:03.885Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yd2Cw1XVvHO",
+    "label": "Template for prompt: recreate this page: https://harpa.ai/",
+    "dateAdded": "2023-12-27T20:25:03.543Z"
+  },
+  {
+    "url": "https://v0.dev/t/Vq9CsptwiZT",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T20:25:03.543Z"
+  },
+  {
+    "url": "https://v0.dev/t/nfueFWNsQnR",
+    "label": "Template for prompt: A document signature page with:\n\n- PDF.js visualization on the left side;\n- Sidebar with signers card with their informations like full name, email and phone.\n- A sign button",
+    "dateAdded": "2023-12-27T20:25:03.543Z"
+  },
+  {
+    "url": "https://v0.dev/t/YWhvIN5MKm3",
+    "label": "Template for prompt: a minimalist landing page for an under construction ios app called TalkThroughIt. Indicate that its under construction. The app is a hands free AI assistant to guide people to think through complex ideas.",
+    "dateAdded": "2023-12-27T20:25:03.543Z"
+  },
+  {
+    "url": "https://v0.dev/t/PDUpgsG9xdN",
+    "label": "Template for prompt: A document signature page with:\n\n- PDF.js visualization on the left side\n- Sidebar with signers card list with their informations like full name, email and phone.\n- A sign button",
+    "dateAdded": "2023-12-27T20:25:03.544Z"
+  },
+  {
+    "url": "https://v0.dev/t/DyT3kXRM05w",
+    "label": "Template for prompt: This website is used for online bookstore website where users can browse and purchase books.\n\na. The logo and menus are required in the header section ( home page, Book Details Page, Shopping Cart page). All of these things should be designed and must be functional.\n\nb. Home page:\n\nDisplay a list of featured books on the homepage.\nInclude images, titles, and small descriptions of each featured book.\n\nc. Book Details Page:\n\nWhen a user clicks on a book, show detailed information about the book.\nInclude options to add the book to the shopping cart.\n\nd. Shopping Cart page:\n\ne. Implement a shopping cart functionality:\n\n1. Allow users to add and remove the books from the cart and display the total price of items in the cart.\nAnd where users can enter their details and complete the purchase.\n\n2. Set up a database to store information about books, users, and orders.\nAnd Implement API endpoints to retrieve a list of featured books, book details,\nand handle shopping cart interactions.\n\nWhen an ",
+    "dateAdded": "2023-12-27T20:25:03.544Z"
+  },
+  {
+    "url": "https://v0.dev/t/QgZTkWn7iOq",
+    "label": "Template for prompt: url shorten page include a original url and access link input",
+    "dateAdded": "2023-12-27T20:25:03.544Z"
+  },
+  {
+    "url": "https://v0.dev/t/TFwZFZtIDS8",
+    "label": "Template for prompt: quiz creation wizard/page to select questions, tags etc",
+    "dateAdded": "2023-12-27T20:25:03.544Z"
+  },
+  {
+    "url": "https://v0.dev/t/jp0U1phyaU6",
+    "label": "Template for prompt: create a view where i can see the documnts that i've upload  with buttons for delete, show, edit and download",
+    "dateAdded": "2023-12-27T20:25:03.544Z"
+  },
+  {
+    "url": "https://v0.dev/t/RCaR1OZAfgo",
+    "label": "Template for prompt: Contraktor home page",
+    "dateAdded": "2023-12-27T20:25:03.545Z"
+  },
+  {
+    "url": "https://v0.dev/t/BoIz7CkNF7p",
+    "label": "Template for prompt: Single page, portfolio for web developer, simple, one page, html and css only",
+    "dateAdded": "2023-12-27T20:25:03.545Z"
+  },
+  {
+    "url": "https://v0.dev/t/UhERHi3KlBn",
+    "label": "Template for prompt: make a switch",
+    "dateAdded": "2023-12-27T20:25:03.545Z"
+  },
+  {
+    "url": "https://v0.dev/t/34MVTc3QYGV",
+    "label": "Template for prompt: A document signature page with:\n\n- PDF.js visualization on the left side;",
+    "dateAdded": "2023-12-27T20:25:03.545Z"
+  },
+  {
+    "url": "https://v0.dev/t/pmRM85uAgmV",
+    "label": "Template for prompt: A dnd dungeon overview dashboard",
+    "dateAdded": "2023-12-27T20:25:03.545Z"
+  },
+  {
+    "url": "https://v0.dev/t/TEdKbKOrcTD",
+    "label": "Template for prompt: can you make me a square css grid with padding and margin with inputs on each each allowing me to change the values",
+    "dateAdded": "2023-12-27T20:25:03.545Z"
+  },
+  {
+    "url": "https://v0.dev/t/mOS2xAnUenm",
+    "label": "Template for prompt: glassamorphic blurred navbar tailwind",
+    "dateAdded": "2023-12-27T20:25:03.545Z"
+  },
+  {
+    "url": "https://v0.dev/t/y3DvdH5ZmV7",
+    "label": "Template for prompt: generates a user interface for selecting different infrastructure assets very similar to selecting seats on an airplane or in a movie theater.",
+    "dateAdded": "2023-12-27T20:25:03.546Z"
+  },
+  {
+    "url": "https://v0.dev/t/2RblHW6fh1B",
+    "label": "Template for prompt: Corporate site landing page",
+    "dateAdded": "2023-12-27T20:25:03.546Z"
+  },
+  {
+    "url": "https://v0.dev/t/GI7aVEietVL",
+    "label": "Template for prompt: A Medical Chart Noteaking dashboard that has an button for audio at the top-right of the page that will integrate with WhisperAI API. On the laft eighth of the page a dropdown menu to either create a new chart note or select a previously generated chart note. The right side of the page will be split in half with the left half being where the audio transcript goes and the right side will have sections that are modifiable text areas. The text areas include \"Chief Complaint\" with a text area, \"Subjective\" with a text area, \"Objective\" with a text area, \"Asessment\" with a text area, and \"Plan\" with a text area. ",
+    "dateAdded": "2023-12-27T20:25:03.546Z"
+  },
+  {
+    "url": "https://v0.dev/t/fZgMHwYJdfw",
+    "label": "Template for prompt: house booking landing page",
+    "dateAdded": "2023-12-27T20:25:03.546Z"
+  },
+  {
+    "url": "https://v0.dev/t/EYpIrgdlpVQ",
+    "label": "Template for prompt: DocuSign home page",
+    "dateAdded": "2023-12-27T20:25:03.546Z"
+  },
+  {
+    "url": "https://v0.dev/t/qtWuv4ifN04",
+    "label": "Template for prompt: can you make me a css grid with inputs",
+    "dateAdded": "2023-12-27T20:25:03.546Z"
+  },
+  {
+    "url": "https://v0.dev/t/rbdEWXYVkEh",
+    "label": "Template for prompt: subtle gradient background light mode",
+    "dateAdded": "2023-12-27T20:25:03.546Z"
+  },
+  {
+    "url": "https://v0.dev/t/DtuLdjIdzGw",
+    "label": "Template for prompt: generates a user interface for selecting different infrastructure assets\n",
+    "dateAdded": "2023-12-27T20:25:03.547Z"
+  },
+  {
+    "url": "https://v0.dev/t/8zLJPLJTAG4",
+    "label": "Template for prompt: This is a music site for listening and downloading music. The name of the site is Musical Fireflies or simply Fireflies",
+    "dateAdded": "2023-12-27T20:25:03.547Z"
   }
 ]
