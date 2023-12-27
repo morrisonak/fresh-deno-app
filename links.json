@@ -10483,5 +10483,130 @@
     "url": "https://v0.dev/t/JDt8IaZ5iEO",
     "label": "Template for prompt: contact form with different fields depending on first field which can be e.g. reservation, career,...",
     "dateAdded": "2023-12-27T17:15:03.559Z"
+  },
+  {
+    "url": "https://v0.dev/t/H1sAkmFS0zM",
+    "label": "Template for prompt: I want you to please help create a heat map of a schedule in react where provided data is an array of object each object with start_date:(date in milliseconds), duration:(hours spent on shift but in millisecond). Given thi data the heatmap like github's one it will have a colums of seven rounded squares , the first one represent sunday the last one saturday. The color fill of each squre will be determined but how great is the duration.\n\nHere is a starter , I'm using tailwindcss for styles:\n {/**Heat Map */}\n      <div\n        className=\"w-full h-full overflow-hidden !text-xxs font-semibold capitalize border\n         border-dashed border-zinc-200 bg-zinc-50 rounded-sm p-3 shadow\"\n      ></div> ",
+    "dateAdded": "2023-12-27T17:20:03.992Z"
+  },
+  {
+    "url": "https://v0.dev/t/WdHfaCJ3hwq",
+    "label": "Template for prompt: vertical form with the following fields 1. image upload, 2 title, 3 subtitle, 4 tag and a submit button",
+    "dateAdded": "2023-12-27T17:20:03.993Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q1Au6Z5rEQS",
+    "label": "Template for prompt: I want you to please help create a heat map of a schedule in react where provided data is an array of object each object with start_date:(date in milliseconds), duration:(hours spent on shift but in millisecond). Given thi data the heatmap like github's one it will have a colums of seven rounded squares , the first one represent sunday the last one saturday. The color fill of each squre will be determined but how great is the duration.\n\nHere is a starter , I'm using tailwindcss for styles:\n {/**Heat Map */}\n      <div\n        className=\"w-full h-full overflow-hidden !text-xxs font-semibold capitalize border\n         border-dashed border-zinc-200 bg-zinc-50 rounded-sm p-3 shadow\"\n      ></div> ",
+    "dateAdded": "2023-12-27T17:20:03.993Z"
+  },
+  {
+    "url": "https://v0.dev/t/NDLFQgjbThX",
+    "label": "Template for prompt: a bottom navigation component with 4 icons that becomes a drawer on desktop screen sizes",
+    "dateAdded": "2023-12-27T17:20:03.993Z"
+  },
+  {
+    "url": "https://v0.dev/t/Td6jJVF1GYM",
+    "label": "Template for prompt: black button white text that triggers a dialog. inside dialog is a form to upload an article with the following fields:\nthumbnail image upload, title, subtitle, tag and a submit button",
+    "dateAdded": "2023-12-27T17:20:03.993Z"
+  },
+  {
+    "url": "https://v0.dev/t/PAMfdWkAvu0",
+    "label": "Template for prompt: product detail page that has main image and detail images also description and chat section",
+    "dateAdded": "2023-12-27T17:20:03.993Z"
+  },
+  {
+    "url": "https://v0.dev/t/gQDRLitjtgL",
+    "label": "Template for prompt: A saas app with a toolbar with hamburger menu with company logo and the customers name on the right side",
+    "dateAdded": "2023-12-27T17:20:03.993Z"
+  },
+  {
+    "url": "https://v0.dev/t/nWGz7tqVWL1",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T17:20:03.993Z"
+  },
+  {
+    "url": "https://v0.dev/t/MRmHtqXScPl",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27T17:20:03.993Z"
+  },
+  {
+    "url": "https://v0.dev/t/WpOUh24fbQZ",
+    "label": "Template for prompt: code in reactnative ",
+    "dateAdded": "2023-12-27T17:20:03.994Z"
+  },
+  {
+    "url": "https://v0.dev/t/UbaNTwfUGSZ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T17:20:03.994Z"
+  },
+  {
+    "url": "https://v0.dev/t/6fRO6RECmhG",
+    "label": "Template for prompt: 포스트잇처럼 온라인 롤링페이퍼 서비스",
+    "dateAdded": "2023-12-27T17:20:03.994Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZKwQtmi8IfV",
+    "label": "Template for prompt: A recipe app chatbot template",
+    "dateAdded": "2023-12-27T17:20:03.994Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZbLkv4Z8Xoo",
+    "label": "Template for prompt: An Video Downloader tool with suggestions",
+    "dateAdded": "2023-12-27T17:20:03.994Z"
+  },
+  {
+    "url": "https://v0.dev/t/kv2viia0oPC",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-27T17:20:03.994Z"
+  },
+  {
+    "url": "https://v0.dev/t/zB4uYBCyTDD",
+    "label": "Template for prompt: admin page with card builder",
+    "dateAdded": "2023-12-27T17:20:03.994Z"
+  },
+  {
+    "url": "https://v0.dev/t/OpZqctB4zbb",
+    "label": "Template for prompt: Make a view for displaying a contact",
+    "dateAdded": "2023-12-27T17:20:03.994Z"
+  },
+  {
+    "url": "https://v0.dev/t/4kQEhHRJbBt",
+    "label": "Template for prompt: image file browser with drag and drop",
+    "dateAdded": "2023-12-27T17:20:03.994Z"
+  },
+  {
+    "url": "https://v0.dev/t/ecbNZVDScdi",
+    "label": "Template for prompt: Make a view for displaying a contact in a CRM",
+    "dateAdded": "2023-12-27T17:20:03.995Z"
+  },
+  {
+    "url": "https://v0.dev/t/XUKK1fRqUXA",
+    "label": "Template for prompt: side navigartion bar fopr haouse service company",
+    "dateAdded": "2023-12-27T17:20:03.995Z"
+  },
+  {
+    "url": "https://v0.dev/t/oQt0PZvkI4e",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27T17:20:03.995Z"
+  },
+  {
+    "url": "https://v0.dev/t/obxPJTB5KNw",
+    "label": "Template for prompt: a clean modern contact form",
+    "dateAdded": "2023-12-27T17:20:03.995Z"
+  },
+  {
+    "url": "https://v0.dev/t/Hfzp2oeXq4P",
+    "label": "Template for prompt: Una lista vertical de categorías, que, al clickear en una categoría, a la derecha se abre la misma lista pero con subcategorias.",
+    "dateAdded": "2023-12-27T17:20:03.995Z"
+  },
+  {
+    "url": "https://v0.dev/t/TpjyI3fshGF",
+    "label": "Template for prompt: a train ticket booking website",
+    "dateAdded": "2023-12-27T17:20:03.995Z"
+  },
+  {
+    "url": "https://v0.dev/t/fsrQbHpQlCf",
+    "label": "Template for prompt: 2. Abas de navegação: Dashboard, Clientes, Pedidos, Venda, Relatórios, Acervo.\n3. Ícone de pesquisa (lupa).\n4. Ícone de perfil do usuário com a opção \"Sua opinião\".\n5. Ícone de carrinho de compras com contador zero.\n6. Identificação de sessão do usuário no canto superior direito.\n7. Barra de ferramentas com campos de busca e seleção.\n8. Campo de texto para busca por \"Cliente\" (código, nome ou CNPJ).\n9. Campo de texto para busca por \"Artigo ou código de barras\".\n10. Seleção para \"Tabela de preços\" com a opção \"001 - TABELA 8P*\" pré-definida.\n11. Menus suspensos para seleção de \"Coleção\", \"Linha\" e \"Grupo\".\n12. Menu suspenso para escolha de \"Data prevista\" com opção de \"Datas pré-definidas\".\n13. Botão de pesquisa azul \"Pesquisar\".\n14. Lista de produtos com códigos numéricos e descrições.\n15. Preços listados em reais (R$) ao lado de cada produto.\n16. Indicação de unidades e tamanhos disponíveis (P, M, G, GG) para cada produto.\n17. Mix de produtos variados, como camisetas estampadas e lisa",
+    "dateAdded": "2023-12-27T17:20:03.995Z"
   }
 ]
