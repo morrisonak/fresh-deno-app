@@ -5508,5 +5508,135 @@
     "url": "https://v0.dev/t/3DQvbfrZbVK",
     "label": "Template for prompt: 实现一个聊天页面，聊天内容为一对情侣的暧昧沟通，男人的昵称为牛郎，女人的昵称为织女，背景为让人愉悦的颜色，标题为小傻瓜，男人的内容在左边，女人的内容在右边，男人用中文沟通，女人用英文回复，页面有时间记录，男人开启话题，他们聊到了旅游和食物，也聊到了中国和新加坡，还聊到了天气和工作，最后聊到了目前工作情况，两人聊了一下午。",
     "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/VGdRjvAiYam",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/yBnTTHgmnUn",
+    "label": "Template for prompt: Table with drag and drop rows",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/vW2uoWcBTMI",
+    "label": "Template for prompt: Hotel Reservation Platform",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/keUyV4434wc",
+    "label": "Template for prompt: Hotel Reservation Platform",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/VBHeXLKwOsM",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/znKhmchlMp9",
+    "label": "Template for prompt: List of cards that are based off of a brawler in Brawl Stars, it has the brawlers Image, name, class and rarity (with color thats readable) and all the cards are in a responsive grid that looks great. At the top should have a hero that is just \"Brawlers\" and some description text.",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/mneb35iZExU",
+    "label": "Template for prompt: A loading skeleton for a data table component",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/Y667t5sxWTw",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/m5QIGtvliiz",
+    "label": "Template for prompt: 生成一个调用相机拍照的应用，并将拍到的图片以列表形式展示",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/3U0EDUpUk0p",
+    "label": "Template for prompt: i wand login and singup page ",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/CihiTtW3uzd",
+    "label": "Template for prompt: List of cards that show some brawlers in Brawl Stars by their rarities",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/sqvVuSrjiGA",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/MzCzuLOU5UR",
+    "label": "Template for prompt: make a typing test UI",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/EsDcm8XZiOW",
+    "label": "Template for prompt: A LoadingPage for a page containing a table",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/bDdqFmTbZ92",
+    "label": "Template for prompt: 一个登录页面",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/5qcQ11gbNwz",
+    "label": "Template for prompt: a minimalist Studio page that has a header of the name of the studio, and then a list of clickable items prefixed by a check box that get crossed off and ticked when completed. make a progress bar to show how many of these are complete.",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/0WyOLRWBYSJ",
+    "label": "Template for prompt: a chat application",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/wQc469GhMII",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/pEHHUkxcL6f",
+    "label": "Template for prompt: a cocktail menu with a grid layout",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/njZaMcQN2my",
+    "label": "Template for prompt: Create a dark mode toggle with a moon and an alien spaceship, minimalistic, state-of-the-art ui ux animation",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/tjP5C7QrjW6",
+    "label": "Template for prompt: Sign in page for a password manager up that allows email and single sign on using gmail and github",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/gvU9bAOWM8e",
+    "label": "Template for prompt: I want to make a dashboard with check balance and invoices.",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/kwFpxTO5Tpx",
+    "label": "Template for prompt: TrueHealthSearch.com is a healthcare app that allows medical professionals to search for medical codes and terminology. When a user searches for a term or description of symptoms, possible matching medical codes are displayed, along with a short definition. Users can click on a code to open a details page with a full definition, notes, usage guidelines, and related codes. The app has an intuitive search box at the top to enter query terms. As the user types, suggestions of potential medical codes and terminology appear in a dropdown menu to facilitate finding the right codes faster. The results page displays the most relevant medical codes in a clear, organized table with codes and short descriptions. Each code links to a separate details page. Code details pages provide complete definitions and notes from manuals. The app design is clean and modern with quick load times, following clinical best practices for usability and accessibility to serve the needs of busy healthcare profesonals",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/edDnRUKIvrZ",
+    "label": "Template for prompt: a dashboard",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/HV22or16UOA",
+    "label": "Template for prompt: an ecommerce for contact lenses",
+    "dateAdded": "2023-12-27"
+  },
+  {
+    "url": "https://v0.dev/t/qKZU6DOKWaO",
+    "label": "Template for prompt: 一个居中的标题",
+    "dateAdded": "2023-12-27"
   }
 ]
