@@ -9058,5 +9058,130 @@
     "url": "https://v0.dev/t/yw4PU7Xg4Tf",
     "label": "Template for prompt: A business to business shopfront",
     "dateAdded": "2023-12-27T16:20:03.285Z"
+  },
+  {
+    "url": "https://v0.dev/t/uodtvpWzdgm",
+    "label": "Template for prompt: A shop side bar including widgets for a budget tracker, shop filters (supplier, brand, price, etc.), and open baskets (including supplier name, basket cut-off time, planned delivery date, line count, item count, minimum order, and order total)",
+    "dateAdded": "2023-12-27T16:25:04.188Z"
+  },
+  {
+    "url": "https://v0.dev/t/Hhp51IEW1Cj",
+    "label": "Template for prompt: breadcrumbs",
+    "dateAdded": "2023-12-27T16:25:04.189Z"
+  },
+  {
+    "url": "https://v0.dev/t/wk5O9jK7bUS",
+    "label": "Template for prompt: Three text areas that fill the screen. Two on the left: one above the other. One on the right. ",
+    "dateAdded": "2023-12-27T16:25:04.189Z"
+  },
+  {
+    "url": "https://v0.dev/t/3NkfAVeD2LR",
+    "label": "Template for prompt: A responsive sidebar with a header, content and footer",
+    "dateAdded": "2023-12-27T16:25:04.189Z"
+  },
+  {
+    "url": "https://v0.dev/t/89ypVwSMSSp",
+    "label": "Template for prompt: A search bar",
+    "dateAdded": "2023-12-27T16:25:04.189Z"
+  },
+  {
+    "url": "https://v0.dev/t/x1JGTah5om1",
+    "label": "Template for prompt: Dashboard for phone verification",
+    "dateAdded": "2023-12-27T16:25:04.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/A6SMpsr6Zwy",
+    "label": "Template for prompt: red font is user interectaion and black font is showing system output. User will assign preference to job offer requirements listed below:\njob responsoibilities(education, experience, skills), preffered candidate(experience, skills, languages) ",
+    "dateAdded": "2023-12-27T16:25:04.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZWaqOto0GBb",
+    "label": "Template for prompt: An SaaS dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-27T16:25:04.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/EzltNyl4gL3",
+    "label": "Template for prompt: table pagination",
+    "dateAdded": "2023-12-27T16:25:04.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/EGvPHkUn2t5",
+    "label": "Template for prompt: a startups name generator",
+    "dateAdded": "2023-12-27T16:25:04.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/yVzJS0VvEF8",
+    "label": "Template for prompt: A paper colored landing page",
+    "dateAdded": "2023-12-27T16:25:04.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/J4HM3YlDJIg",
+    "label": "Template for prompt: a complete website for SEO agency",
+    "dateAdded": "2023-12-27T16:25:04.191Z"
+  },
+  {
+    "url": "https://v0.dev/t/VPs5Ka8iFHr",
+    "label": "Template for prompt: I need a dashboard like the image. Each button is a module. If one is not present is should resize asigning always the full width",
+    "dateAdded": "2023-12-27T16:25:04.191Z"
+  },
+  {
+    "url": "https://v0.dev/t/WJzNiRi1clv",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-27T16:25:04.191Z"
+  },
+  {
+    "url": "https://v0.dev/t/gyjCMadR05v",
+    "label": "Template for prompt: draw me a block of skills that I have, there should be charisma, endurance, strength, stealth, intellect",
+    "dateAdded": "2023-12-27T16:25:04.191Z"
+  },
+  {
+    "url": "https://v0.dev/t/9w3vecEnWMi",
+    "label": "Template for prompt: improve the design of this page",
+    "dateAdded": "2023-12-27T16:25:04.191Z"
+  },
+  {
+    "url": "https://v0.dev/t/KRA1uPrW0X7",
+    "label": "Template for prompt: a rich text editor",
+    "dateAdded": "2023-12-27T16:25:04.192Z"
+  },
+  {
+    "url": "https://v0.dev/t/7Th5uG0QfMg",
+    "label": "Template for prompt: alert component",
+    "dateAdded": "2023-12-27T16:25:04.192Z"
+  },
+  {
+    "url": "https://v0.dev/t/YkiY7uD0tGb",
+    "label": "Template for prompt: Food ordering app",
+    "dateAdded": "2023-12-27T16:25:04.192Z"
+  },
+  {
+    "url": "https://v0.dev/t/k1UhEec13eI",
+    "label": "Template for prompt: hazme el código para una página web cuya interfaz tenga un título de \"Bienvenido\" y tres botones para \"buscar marca\", \"buscar número\" y \"buscar precio\". Cada botón deberá tener un input para poder escribir datos. aplícale estilo boostrap o algo parecido para darle una buena vistosidad",
+    "dateAdded": "2023-12-27T16:25:04.192Z"
+  },
+  {
+    "url": "https://v0.dev/t/wjJiLf9PU7b",
+    "label": "Template for prompt: 3d personal portfolio , use some animations and it should be smooth",
+    "dateAdded": "2023-12-27T16:25:04.192Z"
+  },
+  {
+    "url": "https://v0.dev/t/usMMfqwJZQc",
+    "label": "Template for prompt: How to make a hamburger nav menu for mobile screen size in tailwind css with nextjs",
+    "dateAdded": "2023-12-27T16:25:04.193Z"
+  },
+  {
+    "url": "https://v0.dev/t/KUsznIa866k",
+    "label": "Template for prompt: a time picker",
+    "dateAdded": "2023-12-27T16:25:04.193Z"
+  },
+  {
+    "url": "https://v0.dev/t/pyS53Q0V7zt",
+    "label": "Template for prompt: A paper colored landing page",
+    "dateAdded": "2023-12-27T16:25:04.193Z"
+  },
+  {
+    "url": "https://v0.dev/t/pAkkVRBmMUf",
+    "label": "Template for prompt: draw me a user card.\n\nThere should be only avatar and 2 progress random bars ",
+    "dateAdded": "2023-12-27T16:25:04.193Z"
   }
 ]
