@@ -10738,5 +10738,125 @@
     "url": "https://v0.dev/t/zB4uYBCyTDD",
     "label": "Template for prompt: admin page with card builder",
     "dateAdded": "2023-12-27T17:25:04.051Z"
+  },
+  {
+    "url": "https://v0.dev/t/sFF90iGjGfR",
+    "label": "Template for prompt: 1から10位のチームのランキング結果を表示したいです。1位から3位を強調したいです。backgraund colorは黄色にしてください",
+    "dateAdded": "2023-12-27T17:30:02.820Z"
+  },
+  {
+    "url": "https://v0.dev/t/DkJxWlOzwK4",
+    "label": "Template for prompt: Create an interface where users can create discounts, see created discounts, modify the discounts and apply discounts to users, listings or companies. The discounts contain a name field, a rule type (flat fee discount or % discount), a discount amount, a description and an expiration date. The modify discount experience should be similar to create, but be able to modify. A discount can also be archived - which triggers a warning letting users know the impact of removing such discount. ",
+    "dateAdded": "2023-12-27T17:30:02.821Z"
+  },
+  {
+    "url": "https://v0.dev/t/IwTIXBsG8c8",
+    "label": "Template for prompt: draggable kanban board with visibility toggles",
+    "dateAdded": "2023-12-27T17:30:02.821Z"
+  },
+  {
+    "url": "https://v0.dev/t/YojKEGxzPzs",
+    "label": "Template for prompt: Generate a CV Maker Website",
+    "dateAdded": "2023-12-27T17:30:02.821Z"
+  },
+  {
+    "url": "https://v0.dev/t/PgUgoZoFaHm",
+    "label": "Template for prompt: The flashiest component imaginable",
+    "dateAdded": "2023-12-27T17:30:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/lFpdA3QjKa5",
+    "label": "Template for prompt: A product grid with an image, brand, name and price",
+    "dateAdded": "2023-12-27T17:30:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/11Cm8HBNUkj",
+    "label": "Template for prompt: An Avatar component that allows for placeholder text/initials and size.",
+    "dateAdded": "2023-12-27T17:30:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/AXHxnV8H5P3",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T17:30:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/mOIacbMMVxr",
+    "label": "Template for prompt: customizable drag and drop ui which has tick boxes to toggle visibility of each component",
+    "dateAdded": "2023-12-27T17:30:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/FjGBbncPQv4",
+    "label": "Template for prompt: Change the colors",
+    "dateAdded": "2023-12-27T17:30:02.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/XFH6QypX3G0",
+    "label": "Template for prompt: create a dropdown with title car model opend by default that takes the dropDown items from an array ",
+    "dateAdded": "2023-12-27T17:30:02.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/uruj702sd2u",
+    "label": "Template for prompt: Change the colors",
+    "dateAdded": "2023-12-27T17:30:02.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/2jNuFMB4C8w",
+    "label": "Template for prompt: url shorten website",
+    "dateAdded": "2023-12-27T17:30:02.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/ES8akRlQFXc",
+    "label": "Template for prompt: gray dropdown button",
+    "dateAdded": "2023-12-27T17:30:02.824Z"
+  },
+  {
+    "url": "https://v0.dev/t/93Tm62HR9gx",
+    "label": "Template for prompt: create this Hero Section with themed #111827 & #FFFFFF",
+    "dateAdded": "2023-12-27T17:30:02.824Z"
+  },
+  {
+    "url": "https://v0.dev/t/F6gk9IWktez",
+    "label": "Template for prompt: reproduce this",
+    "dateAdded": "2023-12-27T17:30:02.824Z"
+  },
+  {
+    "url": "https://v0.dev/t/zLeO9xls8MG",
+    "label": "Template for prompt: create web site library",
+    "dateAdded": "2023-12-27T17:30:02.824Z"
+  },
+  {
+    "url": "https://v0.dev/t/lKbhA0h8qlJ",
+    "label": "Template for prompt: Audio tour app for an art musuem",
+    "dateAdded": "2023-12-27T17:30:02.824Z"
+  },
+  {
+    "url": "https://v0.dev/t/qUTJnxOKqtm",
+    "label": "Template for prompt: Tabs component",
+    "dateAdded": "2023-12-27T17:30:02.824Z"
+  },
+  {
+    "url": "https://v0.dev/t/7beKqyFzruJ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T17:30:02.825Z"
+  },
+  {
+    "url": "https://v0.dev/t/i4m9QUP6mmO",
+    "label": "Template for prompt: Give me a template page for recipes with a tab for ingredients, and a tab for instructions and make it so that it all fits in one page",
+    "dateAdded": "2023-12-27T17:30:02.825Z"
+  },
+  {
+    "url": "https://v0.dev/t/rE93Dp2vNuH",
+    "label": "Template for prompt: mosaic image creator wizard, this is the first page",
+    "dateAdded": "2023-12-27T17:30:02.825Z"
+  },
+  {
+    "url": "https://v0.dev/t/j4jrEw9vXAk",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-27T17:30:02.825Z"
+  },
+  {
+    "url": "https://v0.dev/t/oHjJWNkMStM",
+    "label": "Template for prompt: Newspaper website via html and css",
+    "dateAdded": "2023-12-27T17:30:02.826Z"
   }
 ]
