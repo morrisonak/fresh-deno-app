@@ -17,7 +17,7 @@ export default function Home() {
           return (
             <div key={index} class="px-4 py-2 mb-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow duration-200">
               {link.url.includes('/t/') && 
-                <img src={imagePath} alt={link.label || 'Image preview'} class="w-full h-40 object-cover rounded-t-lg" />}
+              {/* <img src={imagePath} alt={link.label || 'Image preview'} class="w-full h-40 object-cover rounded-t-lg" />} */}
               <div class="p-4">
                 <a 
                   href={link.url} 
