@@ -32,7 +32,7 @@ const fetchLinks = async (url: string): Promise<LinkWithLabelAndDate[]> => {
 
       if (url && !ignoredLinks.includes(url)) {
         const fullUrl = url.startsWith('http') ? url : `${domain}${url}`; // Prepend domain if not already present
-        const currentDate = new Date().toISOString().split('T')[0]; // Get current date in YYYY-MM-DD format
+        const currentDate = new Date().toISOString(); // Get current date and time in ISO format
 
         const linkWithLabelAndDate: LinkWithLabelAndDate = { url: fullUrl, label, dateAdded: currentDate };
         links.add(linkWithLabelAndDate);
@@ -45,6 +45,7 @@ const fetchLinks = async (url: string): Promise<LinkWithLabelAndDate[]> => {
     return [];
   }
 };
+
 
 const downloadImage = async (url, filePath) => {
     try {
