@@ -11498,5 +11498,130 @@
     "url": "https://v0.dev/t/FfSZckIkYbn",
     "label": "Template for prompt: Time Tracking input for a kindergarden",
     "dateAdded": "2023-12-27T17:55:03.580Z"
+  },
+  {
+    "url": "https://v0.dev/t/9JQ4OUG3l98",
+    "label": "Template for prompt: A minimalist resume website with multiple sections and sidebar navigation",
+    "dateAdded": "2023-12-27T18:00:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/7nU90IsNd90",
+    "label": "Template for prompt: credit page that tells the user that he have no credit and encourage him to buy from a list of packages",
+    "dateAdded": "2023-12-27T18:00:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/FvmjSeqLjJD",
+    "label": "Template for prompt: a 404 page",
+    "dateAdded": "2023-12-27T18:00:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/x0TMlMLA9o1",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T18:00:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/2mKw4UVfQKG",
+    "label": "Template for prompt: A 5 verticlly drag enabled divs with different colors, drag to reorder",
+    "dateAdded": "2023-12-27T18:00:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/OKHKAFn0Jqp",
+    "label": "Template for prompt: i want to create a chatbot",
+    "dateAdded": "2023-12-27T18:00:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/GMer6SWA35Z",
+    "label": "Template for prompt: a landing page for a guitar amplifier workshop specialized on high-end equipment and restaurations. The name of the company is Bortolotti audio and it's main color is orange",
+    "dateAdded": "2023-12-27T18:00:03.306Z"
+  },
+  {
+    "url": "https://v0.dev/t/TF68hHYg13G",
+    "label": "Template for prompt: full page edit view of a character in a worldbuilding application",
+    "dateAdded": "2023-12-27T18:00:03.306Z"
+  },
+  {
+    "url": "https://v0.dev/t/tQTQ9a5gMpj",
+    "label": "Template for prompt: Design an intuitive and visually appealing user interface for a note-taking application tailored for users who write reviews and shoot videos. The app should provide a seamless experience for creating, organizing, and managing notes with specific predefined checklists. Users should be able to easily switch between different checklists, customize them, and access rich text editing features for detailed reviews. ",
+    "dateAdded": "2023-12-27T18:00:03.306Z"
+  },
+  {
+    "url": "https://v0.dev/t/Gep0it5ZZdI",
+    "label": "Template for prompt: Design an intuitive and visually appealing user interface for a note-taking application tailored for users who write reviews and shoot videos. The app should provide a seamless experience for creating, organizing, and managing notes with specific predefined checklists. Users should be able to easily switch between different checklists, customize them, and access rich text editing features for detailed reviews. ",
+    "dateAdded": "2023-12-27T18:00:03.306Z"
+  },
+  {
+    "url": "https://v0.dev/t/qfgpuF9DzfM",
+    "label": "Template for prompt: section for book reviews with search bar by author and country selector",
+    "dateAdded": "2023-12-27T18:00:03.306Z"
+  },
+  {
+    "url": "https://v0.dev/t/hH8aQj7yGxc",
+    "label": "Template for prompt: Ticket sales form with action to start ticket sales",
+    "dateAdded": "2023-12-27T18:00:03.307Z"
+  },
+  {
+    "url": "https://v0.dev/t/m1Qitq1ldCt",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T18:00:03.307Z"
+  },
+  {
+    "url": "https://v0.dev/t/DDNbhQ2BIXy",
+    "label": "Template for prompt: Make a personal Blog which some Greens ",
+    "dateAdded": "2023-12-27T18:00:03.307Z"
+  },
+  {
+    "url": "https://v0.dev/t/dqxTyjACmlh",
+    "label": "Template for prompt: make a beatiful  sign up form ",
+    "dateAdded": "2023-12-27T18:00:03.307Z"
+  },
+  {
+    "url": "https://v0.dev/t/1BS1PkCoQnU",
+    "label": "Template for prompt: character edit page of a worldbuilding webapp",
+    "dateAdded": "2023-12-27T18:00:03.307Z"
+  },
+  {
+    "url": "https://v0.dev/t/HkTA9f3dwZw",
+    "label": "Template for prompt: I want an integration page where users can input API keys or perform Oauth to connect data sources like PagerDuty, DataDog, and Slack. These should be drag and drop fields, and when placed all connect to a central Lightning Bolt logo.",
+    "dateAdded": "2023-12-27T18:00:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/WTN0TYRYwL1",
+    "label": "Template for prompt: Hero for a personal website with description below it a button for scheduling call and right of that call button all social handle and on the right side of this text, call and social icons a picture",
+    "dateAdded": "2023-12-27T18:00:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/JRydChDrXA1",
+    "label": "Template for prompt: an image carrousel for using with Angular",
+    "dateAdded": "2023-12-27T18:00:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZyQXBupnDaR",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-27T18:00:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/JAlEgRXB7Nf",
+    "label": "Template for prompt: a class componetnt contain a form to enter phoneNumber and location as strings with submit buton",
+    "dateAdded": "2023-12-27T18:00:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/sCHhoIBfhw5",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-27T18:00:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/JpORizu5S9C",
+    "label": "Template for prompt: Make a table for displaying contacts in a crm",
+    "dateAdded": "2023-12-27T18:00:03.309Z"
+  },
+  {
+    "url": "https://v0.dev/t/dWLUSY9KacB",
+    "label": "Template for prompt: write me a page terms of service in french",
+    "dateAdded": "2023-12-27T18:00:03.309Z"
+  },
+  {
+    "url": "https://v0.dev/t/Tu6gtNDwhUN",
+    "label": "Template for prompt: Give me a dark shade dashboard for a music streaming website called Musico",
+    "dateAdded": "2023-12-27T18:00:03.309Z"
   }
 ]
