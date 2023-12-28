@@ -33953,5 +33953,130 @@
     "url": "https://v0.dev/t/sZVNhdBnLPJ",
     "label": "Template for prompt: A personal finance tracking app",
     "dateAdded": "2023-12-28T20:05:03.337Z"
+  },
+  {
+    "url": "https://v0.dev/t/rbZ5ReY3j3Q",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-28T20:10:03.432Z"
+  },
+  {
+    "url": "https://v0.dev/t/7pMrphJ80Ya",
+    "label": "Template for prompt: a checkout payment modal",
+    "dateAdded": "2023-12-28T20:10:03.433Z"
+  },
+  {
+    "url": "https://v0.dev/t/gqa8brv7jhG",
+    "label": "Template for prompt: An Admin interface for an Employees bot solution that looks like a CRM (Customer Relationship Management) interface, with different tabs like Contacts, My Messages, My team, My Documents, and Reports, indicating different activities that can be performed there. \n\nOn the left, there is an inbox section with messages from various contacts, each with a different status label like Important or New. In the main pane, there's an open conversation with a contact named Elena, who has been assigned to a recruiter named Max. Elena is looking for work opportunities in the restauration field. There are also additional details about Elena on the right, such as phone number, email, birthday, and address, but these are not visible. There's also a section for adding notes about the interaction with her. The interface is user-friendly and is designed to help manage contact communications efficiently, in a CRM way.",
+    "dateAdded": "2023-12-28T20:10:03.433Z"
+  },
+  {
+    "url": "https://v0.dev/t/VWsRkqJPCrP",
+    "label": "Template for prompt: a text generation wizard in which i can enter parameters in input fields",
+    "dateAdded": "2023-12-28T20:10:03.433Z"
+  },
+  {
+    "url": "https://v0.dev/t/tx5sw3sSSUN",
+    "label": "Template for prompt: create a code highlighter and display this code in it :curl -fsSL https://pgp.mongodb.com/server-7.0.asc | \\\n   sudo gpg -o /usr/share/keyrings/mongodb-server-7.0.gpg \\\n   --dearmor",
+    "dateAdded": "2023-12-28T20:10:03.433Z"
+  },
+  {
+    "url": "https://v0.dev/t/hBXmRBaigvC",
+    "label": "Template for prompt: resiable image from one corner",
+    "dateAdded": "2023-12-28T20:10:03.433Z"
+  },
+  {
+    "url": "https://v0.dev/t/yN8fH4KB2JK",
+    "label": "Template for prompt: landing page",
+    "dateAdded": "2023-12-28T20:10:03.433Z"
+  },
+  {
+    "url": "https://v0.dev/t/WFX4skGxEaJ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T20:10:03.433Z"
+  },
+  {
+    "url": "https://v0.dev/t/0fpbIbJu7NU",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T20:10:03.434Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zl6P1xlPkFB",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-28T20:10:03.434Z"
+  },
+  {
+    "url": "https://v0.dev/t/xrR6CttJSog",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T20:10:03.434Z"
+  },
+  {
+    "url": "https://v0.dev/t/D5J0EIshiF0",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T20:10:03.434Z"
+  },
+  {
+    "url": "https://v0.dev/t/uxQHct4gj9m",
+    "label": "Template for prompt: two column curriculum, main content on the right side, left column nice purple, readable font style suited to display on screen",
+    "dateAdded": "2023-12-28T20:10:03.434Z"
+  },
+  {
+    "url": "https://v0.dev/t/5q068QxQkQI",
+    "label": "Template for prompt: resizable image ",
+    "dateAdded": "2023-12-28T20:10:03.434Z"
+  },
+  {
+    "url": "https://v0.dev/t/EXHqZvQ3lRP",
+    "label": "Template for prompt: can you help me develop this component like the uploaded images after search result. This component is built in nextjs typescript",
+    "dateAdded": "2023-12-28T20:10:03.434Z"
+  },
+  {
+    "url": "https://v0.dev/t/tlxiKUhmkoG",
+    "label": "Template for prompt: A habit app for powerusers that lets them track daily habits with custom metrics",
+    "dateAdded": "2023-12-28T20:10:03.435Z"
+  },
+  {
+    "url": "https://v0.dev/t/ns52CLhFEM1",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T20:10:03.435Z"
+  },
+  {
+    "url": "https://v0.dev/t/Cfi2niyQiHH",
+    "label": "Template for prompt: Un apartado con un buscador para que los visitantes vean los hoteles con los que trabajamos de una agencia de viajes",
+    "dateAdded": "2023-12-28T20:10:03.435Z"
+  },
+  {
+    "url": "https://v0.dev/t/sUA4PnhTTdW",
+    "label": "Template for prompt: Creates better ordering for the fields and buttons that are present.\nAlso, the idea is that they are on a left side, ideally respecting an order and that when you press one, the link indicated on the right can be displayed in an iframe. They should also have the option to open them in another tab",
+    "dateAdded": "2023-12-28T20:10:03.435Z"
+  },
+  {
+    "url": "https://v0.dev/t/2BpIHsvLBmJ",
+    "label": "Template for prompt: Create a success page to show when a user has signed up for a subscription to a makerspace",
+    "dateAdded": "2023-12-28T20:10:03.435Z"
+  },
+  {
+    "url": "https://v0.dev/t/UcdqH3OIlUX",
+    "label": "Template for prompt:  product card",
+    "dateAdded": "2023-12-28T20:10:03.435Z"
+  },
+  {
+    "url": "https://v0.dev/t/UMhrnZ2NYnB",
+    "label": "Template for prompt: i want to create a pianist website, that containt his works",
+    "dateAdded": "2023-12-28T20:10:03.435Z"
+  },
+  {
+    "url": "https://v0.dev/t/M79Qm9f9xAj",
+    "label": "Template for prompt: i want a header section for a pianist website, that containt image and content of his name and a briev description ",
+    "dateAdded": "2023-12-28T20:10:03.435Z"
+  },
+  {
+    "url": "https://v0.dev/t/as3dtCOS0u3",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T20:10:03.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/n8N5LNzUsil",
+    "label": "Template for prompt: I want to create a habit tracker where I can mark off the habits in a box for everyday of the month. I want for everybox I check a graph also shows my progress percentage compete for the month. I want it to have multiple places I can add habits.",
+    "dateAdded": "2023-12-28T20:10:03.436Z"
   }
 ]
