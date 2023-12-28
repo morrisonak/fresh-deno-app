@@ -37493,5 +37493,135 @@
     "url": "https://v0.dev/t/lDHfYKmzxAp",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2023-12-28T22:25:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/bPThm5R3IMG",
+    "label": "Template for prompt: create a landing page that's 'industry specific' for a lawn care software business",
+    "dateAdded": "2023-12-28T22:30:03.021Z"
+  },
+  {
+    "url": "https://v0.dev/t/g04cmw78TMh",
+    "label": "Template for prompt: an avatar with ring",
+    "dateAdded": "2023-12-28T22:30:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/l6NnuGEuFAF",
+    "label": "Template for prompt: blog list pagenation page ",
+    "dateAdded": "2023-12-28T22:30:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/Pt3PPHS4hyb",
+    "label": "Template for prompt: A SaaS Omnichannel Performance Marketing Dashboard",
+    "dateAdded": "2023-12-28T22:30:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/MzDhlTX6FbE",
+    "label": "Template for prompt: a home page with a list of recipes formated as a card with picture, titile, small description, time and main ingredients",
+    "dateAdded": "2023-12-28T22:30:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/yGy85cg4okP",
+    "label": "Template for prompt: Please Recreate this FAQ section",
+    "dateAdded": "2023-12-28T22:30:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/PYUOc71KW1N",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T22:30:03.023Z"
+  },
+  {
+    "url": "https://v0.dev/t/FM4kBy1oXQN",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T22:30:03.023Z"
+  },
+  {
+    "url": "https://v0.dev/t/3EI0K4BB9wu",
+    "label": "Template for prompt: Fais moi une pagination sur la gauche avec une police sans, elle correspond au défilement sur la page et donne les infos sur le contenu affiché atm",
+    "dateAdded": "2023-12-28T22:30:03.023Z"
+  },
+  {
+    "url": "https://v0.dev/t/B4FjpWtQIns",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-28T22:30:03.023Z"
+  },
+  {
+    "url": "https://v0.dev/t/pW4Pehcbey2",
+    "label": "Template for prompt: a todo list with crud operations and beign able to select colours for the items",
+    "dateAdded": "2023-12-28T22:30:03.023Z"
+  },
+  {
+    "url": "https://v0.dev/t/A6mIZdWlgeb",
+    "label": "Template for prompt: A dashboard for a database administrator. It includes a listing of available databases with the ability to drill down into their tables and columns. ",
+    "dateAdded": "2023-12-28T22:30:03.023Z"
+  },
+  {
+    "url": "https://v0.dev/t/cKawh5NAsw4",
+    "label": "Template for prompt: Build an e-commerce shop to sell my mockup design and also to display my graphics or UI/UX designs portfolio with vue 3 technology",
+    "dateAdded": "2023-12-28T22:30:03.024Z"
+  },
+  {
+    "url": "https://v0.dev/t/f46O4ofuhG6",
+    "label": "Template for prompt: A clean UI, to represent a service map with 30 nodes and 70 edges, with edges connected to each other. Should render like hierarchical layout of vis network, with minimal edge overlap.",
+    "dateAdded": "2023-12-28T22:30:03.024Z"
+  },
+  {
+    "url": "https://v0.dev/t/J0oD5JQ2hsq",
+    "label": "Template for prompt: responosive card with loading skeleton",
+    "dateAdded": "2023-12-28T22:30:03.024Z"
+  },
+  {
+    "url": "https://v0.dev/t/LDWm4SdTSfS",
+    "label": "Template for prompt: Modern shopping list dashboard that displays all lists to the left and the selected list to the right",
+    "dateAdded": "2023-12-28T22:30:03.024Z"
+  },
+  {
+    "url": "https://v0.dev/t/jy3Xm0iG9pi",
+    "label": "Template for prompt: generate coming soon page with tailwind",
+    "dateAdded": "2023-12-28T22:30:03.024Z"
+  },
+  {
+    "url": "https://v0.dev/t/ETDUZYTEOrv",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T22:30:03.024Z"
+  },
+  {
+    "url": "https://v0.dev/t/o6dB68R5DW3",
+    "label": "Template for prompt: Chat UI for inference server API",
+    "dateAdded": "2023-12-28T22:30:03.024Z"
+  },
+  {
+    "url": "https://v0.dev/t/DfPmIWgvTnC",
+    "label": "Template for prompt: responsive card with skeleton using chakra ui",
+    "dateAdded": "2023-12-28T22:30:03.025Z"
+  },
+  {
+    "url": "https://v0.dev/t/j55avTqRv4j",
+    "label": "Template for prompt: a task list with a candy-esque aesthetic",
+    "dateAdded": "2023-12-28T22:30:03.025Z"
+  },
+  {
+    "url": "https://v0.dev/t/MExcZynNaM6",
+    "label": "Template for prompt: Code editor",
+    "dateAdded": "2023-12-28T22:30:03.025Z"
+  },
+  {
+    "url": "https://v0.dev/t/xkbnCCCs800",
+    "label": "Template for prompt: A tool for tracking n-number reservations and renewal dates. Table consisting of card/rows; each with a large label showing the N-Number, and other fields with stats like expiry date; renew-by date, price, registrant name, and how long it has been held. Also, the cards should be color coded by status; normal in black, expired in red, within a month in yellow, and newly registered in green; as well as other status colors as apporpriate. Site should look modern; professional; warm, but should also be highly legible and usable as a tool.",
+    "dateAdded": "2023-12-28T22:30:03.025Z"
+  },
+  {
+    "url": "https://v0.dev/t/gn8I9DwdHKI",
+    "label": "Template for prompt: A tool for tracking n-number reservations and renewal dates. Table consisting of card/rows; each with a large label showing the N-Number, and other fields with stats like expiry date; renew-by date, price, registrant name, and how long it has been held. Also, the cards should be color coded by status; normal in black, expired in red, within a month in yellow, and newly registered in green; as well as other status colors as apporpriate. Site should look modern; professional; warm, but should also be highly legible and usable as a tool.",
+    "dateAdded": "2023-12-28T22:30:03.025Z"
+  },
+  {
+    "url": "https://v0.dev/t/miuNqJW2PbE",
+    "label": "Template for prompt: I need a modern and clean card for an AI model",
+    "dateAdded": "2023-12-28T22:30:03.026Z"
+  },
+  {
+    "url": "https://v0.dev/t/m9My4YTflkB",
+    "label": "Template for prompt: a web application that aggregates and displays lists of news in multiple tabs",
+    "dateAdded": "2023-12-28T22:30:03.026Z"
   }
 ]
