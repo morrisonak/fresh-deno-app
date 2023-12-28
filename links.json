@@ -31578,5 +31578,120 @@
     "url": "https://v0.dev/t/YQyOJQZXlfm",
     "label": "Template for prompt: add to this page the user icon and button to go to user profile",
     "dateAdded": "2023-12-28T18:30:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/T5A4p4ouBED",
+    "label": "Template for prompt: a card where have a title, if you have subscription active or inactive, your next payment the price and title, your name of subscription and the price, your next billing with the date and 3 buttons like a links",
+    "dateAdded": "2023-12-28T18:35:03.306Z"
+  },
+  {
+    "url": "https://v0.dev/t/FhMR7q6UrKE",
+    "label": "Template for prompt: fintech dashboard",
+    "dateAdded": "2023-12-28T18:35:03.306Z"
+  },
+  {
+    "url": "https://v0.dev/t/gdWOZL6Re3X",
+    "label": "Template for prompt: document creation with templates modal component",
+    "dateAdded": "2023-12-28T18:35:03.306Z"
+  },
+  {
+    "url": "https://v0.dev/t/9j5JKukNYvU",
+    "label": "Template for prompt: a dashboard with a sidebar, an info section and a table",
+    "dateAdded": "2023-12-28T18:35:03.306Z"
+  },
+  {
+    "url": "https://v0.dev/t/9fWVTMIhMrr",
+    "label": "Template for prompt: a minimalistic app shell dashboard for a saas app.",
+    "dateAdded": "2023-12-28T18:35:03.306Z"
+  },
+  {
+    "url": "https://v0.dev/t/16M0j0JYoYY",
+    "label": "Template for prompt: A profile page",
+    "dateAdded": "2023-12-28T18:35:03.306Z"
+  },
+  {
+    "url": "https://v0.dev/t/PxvDfVHtB8o",
+    "label": "Template for prompt: create a working calculator",
+    "dateAdded": "2023-12-28T18:35:03.307Z"
+  },
+  {
+    "url": "https://v0.dev/t/30eJXBScjYV",
+    "label": "Template for prompt: rental of boat moorings between individuals app",
+    "dateAdded": "2023-12-28T18:35:03.307Z"
+  },
+  {
+    "url": "https://v0.dev/t/BfBEwBIqXjF",
+    "label": "Template for prompt: rental of boat moorings between individuals app",
+    "dateAdded": "2023-12-28T18:35:03.307Z"
+  },
+  {
+    "url": "https://v0.dev/t/GxxYBc9MRiG",
+    "label": "Template for prompt: A profile page",
+    "dateAdded": "2023-12-28T18:35:03.307Z"
+  },
+  {
+    "url": "https://v0.dev/t/syfIfArki5B",
+    "label": "Template for prompt: create a three representation of projects of an architect's works, for the architekt studio's website. Each project should be place in a square block node and I should have the link between the nodes of the tree",
+    "dateAdded": "2023-12-28T18:35:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/NNffi00k5AI",
+    "label": "Template for prompt: a dashbord with table liste",
+    "dateAdded": "2023-12-28T18:35:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/z5Mur2div5u",
+    "label": "Template for prompt: make a Ecommerce website for providing resources like pdfs and youtube playlists ",
+    "dateAdded": "2023-12-28T18:35:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/ImJ7JZ1iNlH",
+    "label": "Template for prompt: a dashbord with table liste",
+    "dateAdded": "2023-12-28T18:35:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/0gsczw6ejku",
+    "label": "Template for prompt: Beautiful login page",
+    "dateAdded": "2023-12-28T18:35:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/CR9Fz4tPEGi",
+    "label": "Template for prompt: A dashboard where bento style is followed for each component and each component have different height and width based on it's content and should be 2px rounded for every component",
+    "dateAdded": "2023-12-28T18:35:03.309Z"
+  },
+  {
+    "url": "https://v0.dev/t/SOj0DRL8ZAw",
+    "label": "Template for prompt: a login form with email and password",
+    "dateAdded": "2023-12-28T18:35:03.309Z"
+  },
+  {
+    "url": "https://v0.dev/t/99OkwFxNzoI",
+    "label": "Template for prompt: rental of boat moorings between individuals",
+    "dateAdded": "2023-12-28T18:35:03.309Z"
+  },
+  {
+    "url": "https://v0.dev/t/CeM7Uph59EX",
+    "label": "Template for prompt: Section for dicription and steps with vector that will show the steps for online bus reservation web app lets use react ts and mantine component",
+    "dateAdded": "2023-12-28T18:35:03.309Z"
+  },
+  {
+    "url": "https://v0.dev/t/xrnsCwplv83",
+    "label": "Template for prompt: Create something that look like Next.js front page",
+    "dateAdded": "2023-12-28T18:35:03.309Z"
+  },
+  {
+    "url": "https://v0.dev/t/alfQFHPQu4k",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T18:35:03.309Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qup4jlVrlRp",
+    "label": "Template for prompt: A profile page",
+    "dateAdded": "2023-12-28T18:35:03.310Z"
+  },
+  {
+    "url": "https://v0.dev/t/7wTuk4HWncx",
+    "label": "Template for prompt: User\nI want to make a clone app like slack where features like text messaging, file and media sharing, group chat, and notes sharing, voice and video call option. now make reponsive designs for the app, it should be responsive on all devices and be sure the front-end has all the features mentioned.",
+    "dateAdded": "2023-12-28T18:35:03.310Z"
   }
 ]
