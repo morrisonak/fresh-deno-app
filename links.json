@@ -25808,5 +25808,135 @@
     "url": "https://v0.dev/t/MGLWewwt28Z",
     "label": "Template for prompt: not login page with a svg image ",
     "dateAdded": "2023-12-28T03:50:03.514Z"
+  },
+  {
+    "url": "https://v0.dev/t/TY4vbg7enEW",
+    "label": "Template for prompt: admin dashboard for SaaS website builder",
+    "dateAdded": "2023-12-28T03:55:02.937Z"
+  },
+  {
+    "url": "https://v0.dev/t/pGrMf0KxHHe",
+    "label": "Template for prompt: create a nice form for adding resume data, the form should have , firstName, last name, country, email, phone, about. github, portfolio, linkedin. add to that i nedd  experience (this field should have , title, company, location, isCurrentlyWork, start date, end date), \neducation (this field should have : school ,degree, location, fieldStudy, start date, end date), \nskills (this field should be a string). \nfor experience, education, skills and languages field, add a + icon, so that the user know that he can add multiple experience, education,etc...",
+    "dateAdded": "2023-12-28T03:55:02.937Z"
+  },
+  {
+    "url": "https://v0.dev/t/FX8nq48NYwv",
+    "label": "Template for prompt: create a nice form for adding resume data, the form should have , firstName, last name, country, email, phone, about. github, portfolio, linkedin. add to that i nedd  experience (this field should have , title, company, location, isCurrentlyWork, start date, end date), \neducation (this field should have : school ,degree, location, fieldStudy, start date, end date), \nskills (this field should be a string). ",
+    "dateAdded": "2023-12-28T03:55:02.937Z"
+  },
+  {
+    "url": "https://v0.dev/t/LUuQKSsI9Hj",
+    "label": "Template for prompt: interior site",
+    "dateAdded": "2023-12-28T03:55:02.937Z"
+  },
+  {
+    "url": "https://v0.dev/t/QuoCRvR5CVs",
+    "label": "Template for prompt: can you help me build search function with dummy data for this component \"import React from 'react';\nimport '@chatscope/chat-ui-kit-styles/dist/default/styles.min.css';\nimport { Button } from \"@/components/ui/button\";\nimport { Input } from \"@/components/ui/input\";\nimport { MainContainer, ChatContainer, MessageList, Message, MessageInput, TypingIndicator } from '@chatscope/chat-ui-kit-react';\n\n// Icons (You'll need to define these or import from a library)\n// Icons using simple SVGs\nconst ZoomInIcon = () => (\n    <svg\n      xmlns=\"http://www.w3.org/2000/svg\"\n      width=\"24\"\n      height=\"24\"\n      fill=\"none\"\n      viewBox=\"0 0 24 24\"\n      stroke=\"currentColor\"\n    >\n      <circle cx=\"11\" cy=\"11\" r=\"8\" />\n      <line x1=\"21\" x2=\"16.65\" y1=\"21\" y2=\"16.65\" />\n      <line x1=\"11\" x2=\"11\" y1=\"8\" y2=\"14\" />\n      <line x1=\"8\" x2=\"14\" y1=\"11\" y2=\"11\" />\n    </svg>\n  );\n  \n  const SpaIcon = () => (\n    <svg\n      xmlns=\"http://www.w3.org/2000/svg\"\n      width=\"24\"\n      height=\"24\"\n      fi\"",
+    "dateAdded": "2023-12-28T03:55:02.937Z"
+  },
+  {
+    "url": "https://v0.dev/t/varPXgesGNn",
+    "label": "Template for prompt: can you help me build search function with dummy data for this component \"import React from 'react';\nimport '@chatscope/chat-ui-kit-styles/dist/default/styles.min.css';\nimport { Button } from \"@/components/ui/button\";\nimport { Input } from \"@/components/ui/input\";\nimport { MainContainer, ChatContainer, MessageList, Message, MessageInput, TypingIndicator } from '@chatscope/chat-ui-kit-react';\n\n// Icons (You'll need to define these or import from a library)\n// Icons using simple SVGs\nconst ZoomInIcon = () => (\n    <svg\n      xmlns=\"http://www.w3.org/2000/svg\"\n      width=\"24\"\n      height=\"24\"\n      fill=\"none\"\n      viewBox=\"0 0 24 24\"\n      stroke=\"currentColor\"\n    >\n      <circle cx=\"11\" cy=\"11\" r=\"8\" />\n      <line x1=\"21\" x2=\"16.65\" y1=\"21\" y2=\"16.65\" />\n      <line x1=\"11\" x2=\"11\" y1=\"8\" y2=\"14\" />\n      <line x1=\"8\" x2=\"14\" y1=\"11\" y2=\"11\" />\n    </svg>\n  );\n  \n  const SpaIcon = () => (\n    <svg\n      xmlns=\"http://www.w3.org/2000/svg\"\n      width=\"24\"\n      height=\"24\"\n      fi\"",
+    "dateAdded": "2023-12-28T03:55:02.937Z"
+  },
+  {
+    "url": "https://v0.dev/t/tYsu1o39fTL",
+    "label": "Template for prompt: portfolio",
+    "dateAdded": "2023-12-28T03:55:02.937Z"
+  },
+  {
+    "url": "https://v0.dev/t/1RPVbOa0NND",
+    "label": "Template for prompt: 一个卡片，并且可以展开折叠",
+    "dateAdded": "2023-12-28T03:55:02.937Z"
+  },
+  {
+    "url": "https://v0.dev/t/jX9cAQDkWN8",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-28T03:55:02.938Z"
+  },
+  {
+    "url": "https://v0.dev/t/CFHFTgDcTYy",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-28T03:55:02.938Z"
+  },
+  {
+    "url": "https://v0.dev/t/K6PEj5wm3Fc",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T03:55:02.938Z"
+  },
+  {
+    "url": "https://v0.dev/t/iqkrBp0pS7n",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T03:55:02.938Z"
+  },
+  {
+    "url": "https://v0.dev/t/4o6wRPoJUug",
+    "label": "Template for prompt: learning management system",
+    "dateAdded": "2023-12-28T03:55:02.938Z"
+  },
+  {
+    "url": "https://v0.dev/t/epDv2pccRkm",
+    "label": "Template for prompt: design blog which is use for frontend code study and profile",
+    "dateAdded": "2023-12-28T03:55:02.938Z"
+  },
+  {
+    "url": "https://v0.dev/t/xCUNX1pWPSQ",
+    "label": "Template for prompt: basic counter app with flutter and material 3. I just wanna practice while doing my first flutter app. It must include a counter, and 4 buttons: increment, decrement, reset, and show a I did it!! message.",
+    "dateAdded": "2023-12-28T03:55:02.938Z"
+  },
+  {
+    "url": "https://v0.dev/t/hipkVY4F2fz",
+    "label": "Template for prompt: A minimalist blog post template",
+    "dateAdded": "2023-12-28T03:55:02.938Z"
+  },
+  {
+    "url": "https://v0.dev/t/UHhVYxDM5Se",
+    "label": "Template for prompt: bible mobile application, modern, futuristuic and dark layout with blue color",
+    "dateAdded": "2023-12-28T03:55:02.939Z"
+  },
+  {
+    "url": "https://v0.dev/t/iowwvRRJOJY",
+    "label": "Template for prompt: a website with dancing cats",
+    "dateAdded": "2023-12-28T03:55:02.939Z"
+  },
+  {
+    "url": "https://v0.dev/t/AflDoMx6e3b",
+    "label": "Template for prompt: a landing page for holy guide app, application that allows people to talk to the Bible",
+    "dateAdded": "2023-12-28T03:55:02.939Z"
+  },
+  {
+    "url": "https://v0.dev/t/LwISzEoKUUm",
+    "label": "Template for prompt: I want you to base the design on the photo I sent you.\nIt's a UI for first responders, so please make it a concept that suits first aid and hospitals. \n\nThe left and right sides have different roles, so the right side will be used for the map API screen, so just do the left side.\nDon't add a graph type. \nAt the top, the menu concept should be organized like this: chart / hospital List / Hospital Info/ message in tabbed format,\nGender - Dropbox: Male Female \nAGE - Dropbox: 0~100\nSeverity - Dropbox : Minor/ Major/ Emergency\nAccident - Dropbox : Venhiele /Industrial/Disaster\nTransfer Type - Dropbox : Surgery/Hospitalization/Clinic\nFirst Aid : inputBox\n\nTranslated with www.DeepL.com/Translator (free version)",
+    "dateAdded": "2023-12-28T03:55:02.939Z"
+  },
+  {
+    "url": "https://v0.dev/t/9vfcMiDdQcq",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T03:55:02.939Z"
+  },
+  {
+    "url": "https://v0.dev/t/aN23VZ4q5Rw",
+    "label": "Template for prompt: a chat application",
+    "dateAdded": "2023-12-28T03:55:02.939Z"
+  },
+  {
+    "url": "https://v0.dev/t/421xE1tq2mm",
+    "label": "Template for prompt: Business website showing just a crypto token portfolio, presented as elements containing the icon of the crypto token, the name and description of what it does, and current market cap.",
+    "dateAdded": "2023-12-28T03:55:02.939Z"
+  },
+  {
+    "url": "https://v0.dev/t/sT3QNSrfIMN",
+    "label": "Template for prompt: 实现页面",
+    "dateAdded": "2023-12-28T03:55:02.939Z"
+  },
+  {
+    "url": "https://v0.dev/t/3Zqm4wv6nXN",
+    "label": "Template for prompt: A Dashboard to see list of recent URL with details:\n- Title\n- Few lines of content\n- Content length\n- Screenshot\n- Technologies",
+    "dateAdded": "2023-12-28T03:55:02.939Z"
+  },
+  {
+    "url": "https://v0.dev/t/dkFrm0RY7Gc",
+    "label": "Template for prompt: a util page, where the left is an input area, the right is the output of summary, or any text formatted strings.",
+    "dateAdded": "2023-12-28T03:55:02.940Z"
   }
 ]
