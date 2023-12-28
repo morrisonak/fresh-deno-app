@@ -34583,5 +34583,135 @@
     "url": "https://v0.dev/t/Qa4Za5dRjyd",
     "label": "Template for prompt: Create a generic error scren component. Use the following props: title, description, primaryCta, secondaryCta. the component should also have a illustrations/icon",
     "dateAdded": "2023-12-28T20:30:02.903Z"
+  },
+  {
+    "url": "https://v0.dev/t/jVqdSkVYvvT",
+    "label": "Template for prompt: i need a card where have a title, two buttons where say remove and add in the middle a text, another two buttons same like first and the text same, need a text and a button where say add module three times, last one need a text where say the total in big",
+    "dateAdded": "2023-12-28T20:35:03.733Z"
+  },
+  {
+    "url": "https://v0.dev/t/cxmYhqlruXS",
+    "label": "Template for prompt: make portfolio of frontend react developer",
+    "dateAdded": "2023-12-28T20:35:03.734Z"
+  },
+  {
+    "url": "https://v0.dev/t/fECd8Bb6ed3",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-28T20:35:03.734Z"
+  },
+  {
+    "url": "https://v0.dev/t/f4kmMCgv5aZ",
+    "label": "Template for prompt: beautiful checkbox",
+    "dateAdded": "2023-12-28T20:35:03.734Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZZNKfmxeCEX",
+    "label": "Template for prompt: form taking in medical data: blood presure, height, weight, cholesterol level and so on",
+    "dateAdded": "2023-12-28T20:35:03.734Z"
+  },
+  {
+    "url": "https://v0.dev/t/Lc2VEPhS4Vn",
+    "label": "Template for prompt: A translator named \"Barare Translator\" that translates فارسی to برره ای\n\nit has to fields that ae centered, first is for puting the فارسی text and its rightable but the second is the translation and its not writable and the second field has a copy button",
+    "dateAdded": "2023-12-28T20:35:03.734Z"
+  },
+  {
+    "url": "https://v0.dev/t/nDnW3z2Z0pl",
+    "label": "Template for prompt: make a blog template",
+    "dateAdded": "2023-12-28T20:35:03.734Z"
+  },
+  {
+    "url": "https://v0.dev/t/ztA1rbwJDB0",
+    "label": "Template for prompt: create a hero section for a bubmble clon ",
+    "dateAdded": "2023-12-28T20:35:03.735Z"
+  },
+  {
+    "url": "https://v0.dev/t/4SIYKE9tbgu",
+    "label": "Template for prompt: For the UI (User Interface) of a SaaS Service Status Page app, the design should be clean, intuitive, and informative, allowing users to quickly understand the current status of services and view details about incidents, maintenance, and notifications. Here's a semantic outline of the UI components and their functionalities:\n\n1. Dashboard/Overview Page\nService Status Summary: Visual indicators (like green checks, red crosses, or yellow warnings) representing the current status of all services.\nActive Incidents: A list or feed of ongoing issues with severity indicators.\nScheduled Maintenance: Upcoming maintenance windows with times and expected impacts.",
+    "dateAdded": "2023-12-28T20:35:03.735Z"
+  },
+  {
+    "url": "https://v0.dev/t/8dmcuIocW3c",
+    "label": "Template for prompt: recreate this hero section",
+    "dateAdded": "2023-12-28T20:35:03.735Z"
+  },
+  {
+    "url": "https://v0.dev/t/UYztR9aRShL",
+    "label": "Template for prompt: A resizable picture in picture",
+    "dateAdded": "2023-12-28T20:35:03.735Z"
+  },
+  {
+    "url": "https://v0.dev/t/TDgvgIsX3fb",
+    "label": "Template for prompt: app mobile de music estilo spotify",
+    "dateAdded": "2023-12-28T20:35:03.735Z"
+  },
+  {
+    "url": "https://v0.dev/t/aOg1N8PH2VA",
+    "label": "Template for prompt: app mobile de music estilo spotify",
+    "dateAdded": "2023-12-28T20:35:03.735Z"
+  },
+  {
+    "url": "https://v0.dev/t/dpubLNsLHg6",
+    "label": "Template for prompt: email templates",
+    "dateAdded": "2023-12-28T20:35:03.736Z"
+  },
+  {
+    "url": "https://v0.dev/t/g7qcs2oe8sk",
+    "label": "Template for prompt: give a slider of a cards of our teem with a photoes and information ",
+    "dateAdded": "2023-12-28T20:35:03.736Z"
+  },
+  {
+    "url": "https://v0.dev/t/My6qEAwHqFF",
+    "label": "Template for prompt: homepage and product catalog page",
+    "dateAdded": "2023-12-28T20:35:03.736Z"
+  },
+  {
+    "url": "https://v0.dev/t/uEs3xrrjqRQ",
+    "label": "Template for prompt: my work showcase",
+    "dateAdded": "2023-12-28T20:35:03.736Z"
+  },
+  {
+    "url": "https://v0.dev/t/bitwwbFBeGT",
+    "label": "Template for prompt: a animated checkbox",
+    "dateAdded": "2023-12-28T20:35:03.736Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ns32SKxeXnE",
+    "label": "Template for prompt: A journaling web app with inspirational quotes and daily prompts",
+    "dateAdded": "2023-12-28T20:35:03.736Z"
+  },
+  {
+    "url": "https://v0.dev/t/LxT7TVeOhyX",
+    "label": "Template for prompt: create a select input component that looks the same on all browsers",
+    "dateAdded": "2023-12-28T20:35:03.737Z"
+  },
+  {
+    "url": "https://v0.dev/t/lpM1uhCRwgX",
+    "label": "Template for prompt: An integrations catalogue page to highlight our community integrations",
+    "dateAdded": "2023-12-28T20:35:03.737Z"
+  },
+  {
+    "url": "https://v0.dev/t/gFoqO04ILp4",
+    "label": "Template for prompt: developer blog homepage",
+    "dateAdded": "2023-12-28T20:35:03.737Z"
+  },
+  {
+    "url": "https://v0.dev/t/dzdKqSAk44J",
+    "label": "Template for prompt: black and white profile main card similar to linked in image",
+    "dateAdded": "2023-12-28T20:35:03.737Z"
+  },
+  {
+    "url": "https://v0.dev/t/qdtIn5ODxLQ",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-28T20:35:03.737Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ei8rfbNfXvq",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T20:35:03.738Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZebN5LeP6aN",
+    "label": "Template for prompt: pest control landing page",
+    "dateAdded": "2023-12-28T20:35:03.738Z"
   }
 ]
