@@ -25028,5 +25028,135 @@
     "url": "https://v0.dev/t/JSox1w2Kpvd",
     "label": "Template for prompt: mobile for crm",
     "dateAdded": "2023-12-28T03:20:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/qXkEudHtfSv",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T03:25:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/gnRIGVB0kQr",
+    "label": "Template for prompt: Provide the code needed to create the uploaded UI.",
+    "dateAdded": "2023-12-28T03:25:02.983Z"
+  },
+  {
+    "url": "https://v0.dev/t/LOtQPg4DmTD",
+    "label": "Template for prompt: a user friendly, premium mobile app called Pool Party: an intuitive, secure, and efficient platform for pooling and automatically distributing funds based on preset conditions. User Account Creation and Management\n\nEasy sign-up process with email/social media integration.\nSecure user authentication (2FA).\nFund Pool Creation\n\nAbility to create a fund pool with a clear description and purpose.\nOptions to set minimum and maximum contribution limits.\nMulti-Currency Support\n\nSupport for major fiat currencies and cryptocurrencies.\nReal-time currency conversion rates.\nAutomated Fund Distribution\n\nSmart contract implementation for setting and executing distribution conditions.\nAutomated distribution upon meeting predefined conditions.\nTransaction Tracking and Reporting\n\nReal-time tracking of contributions and distributions.\nDetailed transaction history and downloadable reports.\nUser Interface (UI)\nClean, intuitive, and responsive design.",
+    "dateAdded": "2023-12-28T03:25:02.983Z"
+  },
+  {
+    "url": "https://v0.dev/t/LY1QaBKsSdE",
+    "label": "Template for prompt: convert this into simple react/html/tailwind: clone this page with Tailwindcss: https://www.dice.com/employer/webstore/purchase?jobPostings=1",
+    "dateAdded": "2023-12-28T03:25:02.983Z"
+  },
+  {
+    "url": "https://v0.dev/t/LMNn7rEjay7",
+    "label": "Template for prompt: create a login and register page for a mobile app ",
+    "dateAdded": "2023-12-28T03:25:02.983Z"
+  },
+  {
+    "url": "https://v0.dev/t/s3Y3qSbbSXQ",
+    "label": "Template for prompt: create a hero section where you can send SOL token. You can input the receipient adress, the amount you want to send in USD and a send button. The program lets you spedific the usd amount, converts it in SOL and sends sol so the users doesnt need to swap in USDC and send for example",
+    "dateAdded": "2023-12-28T03:25:02.983Z"
+  },
+  {
+    "url": "https://v0.dev/t/t1HPuAP0jwJ",
+    "label": "Template for prompt: a landing page for sunset cruise",
+    "dateAdded": "2023-12-28T03:25:02.984Z"
+  },
+  {
+    "url": "https://v0.dev/t/0Oo3Ezw6JFg",
+    "label": "Template for prompt: a landing page for sunset cruise",
+    "dateAdded": "2023-12-28T03:25:02.984Z"
+  },
+  {
+    "url": "https://v0.dev/t/qX3tM71xnQI",
+    "label": "Template for prompt: awsみたいなuiを生成するコードを書いて",
+    "dateAdded": "2023-12-28T03:25:02.984Z"
+  },
+  {
+    "url": "https://v0.dev/t/aeuXpTj0p1o",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T03:25:02.984Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qica9hgHZAW",
+    "label": "Template for prompt: 안녕디지몬 페이지 만들어줘\n애니메이션 화려하게 넣어줘 ",
+    "dateAdded": "2023-12-28T03:25:02.984Z"
+  },
+  {
+    "url": "https://v0.dev/t/mLn4H2Cz5NS",
+    "label": "Template for prompt: a question editor with sidebar that has preview of diffrent question type on the sidebar",
+    "dateAdded": "2023-12-28T03:25:02.984Z"
+  },
+  {
+    "url": "https://v0.dev/t/4AbithtQpcH",
+    "label": "Template for prompt: render this dashboard",
+    "dateAdded": "2023-12-28T03:25:02.984Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y7pPZ23I60I",
+    "label": "Template for prompt: design a web app for e-learning with a login page for student and teacher",
+    "dateAdded": "2023-12-28T03:25:02.985Z"
+  },
+  {
+    "url": "https://v0.dev/t/nWP043YaPrV",
+    "label": "Template for prompt: a dialog for user to select a workspace and submit",
+    "dateAdded": "2023-12-28T03:25:02.985Z"
+  },
+  {
+    "url": "https://v0.dev/t/jj5nnt8k5nz",
+    "label": "Template for prompt: a user friendly, premium mobile app called Pool Party: an intuitive, secure, and efficient platform for pooling and automatically distributing funds based on preset conditions.",
+    "dateAdded": "2023-12-28T03:25:02.985Z"
+  },
+  {
+    "url": "https://v0.dev/t/HbYRhamNG7E",
+    "label": "Template for prompt: I need this UI. it should be responsive for every size of screens",
+    "dateAdded": "2023-12-28T03:25:02.985Z"
+  },
+  {
+    "url": "https://v0.dev/t/wYVBq1UUyg2",
+    "label": "Template for prompt: making admin page with search imput on center which gets uid of user",
+    "dateAdded": "2023-12-28T03:25:02.985Z"
+  },
+  {
+    "url": "https://v0.dev/t/PIRJBjD0jEz",
+    "label": "Template for prompt: dragable left and right side bars ",
+    "dateAdded": "2023-12-28T03:25:02.985Z"
+  },
+  {
+    "url": "https://v0.dev/t/2VriyFtd5dK",
+    "label": "Template for prompt: 帮我生成一个 Twitter 的推文元件",
+    "dateAdded": "2023-12-28T03:25:02.985Z"
+  },
+  {
+    "url": "https://v0.dev/t/dV8GwXFMPB0",
+    "label": "Template for prompt: a landing page about trending data",
+    "dateAdded": "2023-12-28T03:25:02.985Z"
+  },
+  {
+    "url": "https://v0.dev/t/Bn886Qn0LvK",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T03:25:02.985Z"
+  },
+  {
+    "url": "https://v0.dev/t/zI5HMUhJV6w",
+    "label": "Template for prompt: render this dashboard by html and boostrap5",
+    "dateAdded": "2023-12-28T03:25:02.986Z"
+  },
+  {
+    "url": "https://v0.dev/t/VyJ7se6rj7U",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-28T03:25:02.986Z"
+  },
+  {
+    "url": "https://v0.dev/t/X3YwkOdA1AL",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-28T03:25:02.986Z"
+  },
+  {
+    "url": "https://v0.dev/t/TgMeCvPfn9L",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-28T03:25:02.986Z"
   }
 ]
