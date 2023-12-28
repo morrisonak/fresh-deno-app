@@ -33578,5 +33578,135 @@
     "url": "https://v0.dev/t/3hIFfk2142J",
     "label": "Template for prompt: a flashcard for vocabulary training",
     "dateAdded": "2023-12-28T19:50:03.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZbJBVTaq8kF",
+    "label": "Template for prompt: a blackjack card",
+    "dateAdded": "2023-12-28T19:55:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/mZJbVoTCY8F",
+    "label": "Template for prompt: follower sales site",
+    "dateAdded": "2023-12-28T19:55:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/xi6NjaBiwOt",
+    "label": "Template for prompt: Chcę stworzyć za pomocą Reacta system Zarządzania Nieruchomościami Komercyjnymi \nTeraz potrzebuję stworzyć w swoim panelu ładny widok podstrony do dodawania mojej nowej nieruchomości do mojego profilu, który jest dostępny za tylko dla osoby zalogowanej. System powinien mieć proste formę. Najpierw system powinien zapytać: Dodaj Twoją nieruchomość i dać możliwość użytkownikowi wyboru między wyborem : komercyjny czy mieszkaniowy. Następnie pyta użytkownika Który typ najlepiej opisuje twoją nieruchomość (do wyboru): Jeśli wybrał komercyjny to ma do wyboru: przemysłowy, biuro, sprzedaż detaliczna, centrum handlowe, magazynowy, parking, inne, a jeśli wcześniej wybrał mieszkaniowy to ma do wyboru: domy, kwatery pracownicze, kawalerki, mieszkanie na pokoje. Dopiero po wybraniu odpowiedniej opcji mam możliwość dodania adresu nieruchomości, ulica, nr ulicy, nr mieszkania, miejscowość, kod pocztowy i miasto. Tylko pod warunkiem dodania tych informacji można przejść do kolejnej sekcji. ",
+    "dateAdded": "2023-12-28T19:55:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/iLsGCb0W1EB",
+    "label": "Template for prompt: parfume web site",
+    "dateAdded": "2023-12-28T19:55:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/mHAIfQ8dA70",
+    "label": "Template for prompt: generate a triathlon blog page",
+    "dateAdded": "2023-12-28T19:55:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/sAWyknfNBKK",
+    "label": "Template for prompt: A form that add missions . job title, how many people needs, time period(date picker), Hours, adress",
+    "dateAdded": "2023-12-28T19:55:03.289Z"
+  },
+  {
+    "url": "https://v0.dev/t/A1becrE1kEu",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T19:55:03.289Z"
+  },
+  {
+    "url": "https://v0.dev/t/P7Iu9aginID",
+    "label": "Template for prompt: A simple login page for an admin portal",
+    "dateAdded": "2023-12-28T19:55:03.289Z"
+  },
+  {
+    "url": "https://v0.dev/t/iOsqXGQaqE5",
+    "label": "Template for prompt: light, glassmorphism themed hero and features section.",
+    "dateAdded": "2023-12-28T19:55:03.289Z"
+  },
+  {
+    "url": "https://v0.dev/t/3zbwzeQQjhb",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T19:55:03.289Z"
+  },
+  {
+    "url": "https://v0.dev/t/voRVPDWYyi9",
+    "label": "Template for prompt: an aparment preview in a dark theme",
+    "dateAdded": "2023-12-28T19:55:03.289Z"
+  },
+  {
+    "url": "https://v0.dev/t/EwQzvzIdOqT",
+    "label": "Template for prompt: an editable table with column headers - clinic, address, surcharge (boolean). ",
+    "dateAdded": "2023-12-28T19:55:03.289Z"
+  },
+  {
+    "url": "https://v0.dev/t/iuPNIXemGTz",
+    "label": "Template for prompt: Create a dynamic template for managing payment options within a financial application. The template should be structured to allow each payment option to link to multiple payment providers. For every provider linked to a payment option, the template must facilitate the configuration of multiple fee settings based on different transaction amount ranges. For instance, there should be an option to set a fixed fee of 1 USD for transactions ranging between 0 and 200 KES, and a variable fee, say 5%, for transactions between 201 and 1000 KES. The template should be user-friendly, enabling the easy addition or removal of payment providers and fee settings. Additionally, the template should have a clear visual indication (like color coding or icons) to distinguish between different fee structures and providers. It should also include a warning mechanism that alerts users when multiple providers are enabled for the same payment option, to prevent any operational conflicts.",
+    "dateAdded": "2023-12-28T19:55:03.289Z"
+  },
+  {
+    "url": "https://v0.dev/t/ipbsdl2oB27",
+    "label": "Template for prompt: A minimalist commercial real estate dashboard",
+    "dateAdded": "2023-12-28T19:55:03.290Z"
+  },
+  {
+    "url": "https://v0.dev/t/kdBwoVLemgk",
+    "label": "Template for prompt: Stunning FAQ",
+    "dateAdded": "2023-12-28T19:55:03.290Z"
+  },
+  {
+    "url": "https://v0.dev/t/p6ABKdSVDus",
+    "label": "Template for prompt: a form with the following fields and validation : name (string, required), identification (number, required)",
+    "dateAdded": "2023-12-28T19:55:03.290Z"
+  },
+  {
+    "url": "https://v0.dev/t/EYFHvMQUGpt",
+    "label": "Template for prompt: Chcę stworzyć za pomocą Reacta system Zarządzania Nieruchomościami Komercyjnymi \nTeraz potrzebuję stworzyć w swoim panelu ładny widok podstrony do dodawania mojej nowej nieruchomości do mojego profilu, który jest dostępny za tylko dla osoby zalogowanej. System powinien mieć proste formę. Najpierw system powinien zapytać: Dodaj Twoją nieruchomość i dać możliwość użytkownikowi wyboru między wyborem : komercyjny czy mieszkaniowy. Następnie pyta użytkownika Który typ najlepiej opisuje twoją nieruchomość (do wyboru): Jeśli wybrał komercyjny to ma do wyboru: przemysłowy, biuro, sprzedaż detaliczna, centrum handlowe, magazynowy, parking, inne, a jeśli wcześniej wybrał mieszkaniowy to ma do wyboru: domy, kwatery pracownicze, kawalerki, mieszkanie na pokoje. Dopiero po wybraniu odpowiedniej opcji mam możliwość dodania adresu nieruchomości, ulica, nr ulicy, nr mieszkania, miejscowość, kod pocztowy i miasto. Tylko pod warunkiem dodania tych informacji można przejść do kolejnej sekcji. ",
+    "dateAdded": "2023-12-28T19:55:03.290Z"
+  },
+  {
+    "url": "https://v0.dev/t/ebju2brttun",
+    "label": "Template for prompt: a nextjs button with a loading spinner",
+    "dateAdded": "2023-12-28T19:55:03.290Z"
+  },
+  {
+    "url": "https://v0.dev/t/qWTmZRUey6P",
+    "label": "Template for prompt: A responsive task manager single page application to support CRUD actions about the tasks. Use the  Design sistem: MATERIAL DESIGN 3.\n",
+    "dateAdded": "2023-12-28T19:55:03.290Z"
+  },
+  {
+    "url": "https://v0.dev/t/YWN0BL3TeCZ",
+    "label": "Template for prompt: Listings page with a grid of listings",
+    "dateAdded": "2023-12-28T19:55:03.290Z"
+  },
+  {
+    "url": "https://v0.dev/t/dcGaioEYbTJ",
+    "label": "Template for prompt: A responsive task manager single page application to support CRUD actions about the tasks. Use the  Design sistem: MATERIAL DESIGN 3 of https://m3.material.io.",
+    "dateAdded": "2023-12-28T19:55:03.290Z"
+  },
+  {
+    "url": "https://v0.dev/t/gd7QAQSr3fk",
+    "label": "Template for prompt: quiero que me crees un formulario con una barra de nav similar a la de la foto, que se pueda mover de formulario login a formulrio registrar ",
+    "dateAdded": "2023-12-28T19:55:03.291Z"
+  },
+  {
+    "url": "https://v0.dev/t/Jk8fIWbqU2z",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T19:55:03.291Z"
+  },
+  {
+    "url": "https://v0.dev/t/9Cwx8TKjrFw",
+    "label": "Template for prompt: A payment success and failure page",
+    "dateAdded": "2023-12-28T19:55:03.291Z"
+  },
+  {
+    "url": "https://v0.dev/t/QYZSCOdP5N2",
+    "label": "Template for prompt: calendar sync service that connects with islamic prayer times to block my calendar",
+    "dateAdded": "2023-12-28T19:55:03.291Z"
+  },
+  {
+    "url": "https://v0.dev/t/ApVnjh73PZj",
+    "label": "Template for prompt: a side by side panel, one side showing a PDF and the other side with a form with 5 fields - name, address, phone, website and github URL.",
+    "dateAdded": "2023-12-28T19:55:03.291Z"
   }
 ]
