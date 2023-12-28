@@ -37368,5 +37368,130 @@
     "url": "https://v0.dev/t/ZbTY2RC8kGk",
     "label": "Template for prompt: A dashboard with the best ux/ui for personal use including tasks notifications and new messages (can connect to slack, telegram, whatsapp)",
     "dateAdded": "2023-12-28T22:20:03.788Z"
+  },
+  {
+    "url": "https://v0.dev/t/ETDUZYTEOrv",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T22:25:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/jy3Xm0iG9pi",
+    "label": "Template for prompt: generate coming soon page with tailwind",
+    "dateAdded": "2023-12-28T22:25:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/LDWm4SdTSfS",
+    "label": "Template for prompt: Modern shopping list dashboard that displays all lists to the left and the selected list to the right",
+    "dateAdded": "2023-12-28T22:25:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/B4FjpWtQIns",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-28T22:25:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/J0oD5JQ2hsq",
+    "label": "Template for prompt: responosive card with loading skeleton",
+    "dateAdded": "2023-12-28T22:25:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/DfPmIWgvTnC",
+    "label": "Template for prompt: responsive card with skeleton using chakra ui",
+    "dateAdded": "2023-12-28T22:25:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/j55avTqRv4j",
+    "label": "Template for prompt: a task list with a candy-esque aesthetic",
+    "dateAdded": "2023-12-28T22:25:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/gn8I9DwdHKI",
+    "label": "Template for prompt: A tool for tracking n-number reservations and renewal dates. Table consisting of card/rows; each with a large label showing the N-Number, and other fields with stats like expiry date; renew-by date, price, registrant name, and how long it has been held. Also, the cards should be color coded by status; normal in black, expired in red, within a month in yellow, and newly registered in green; as well as other status colors as apporpriate. Site should look modern; professional; warm, but should also be highly legible and usable as a tool.",
+    "dateAdded": "2023-12-28T22:25:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/o6dB68R5DW3",
+    "label": "Template for prompt: Chat UI for inference server API",
+    "dateAdded": "2023-12-28T22:25:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/xkbnCCCs800",
+    "label": "Template for prompt: A tool for tracking n-number reservations and renewal dates. Table consisting of card/rows; each with a large label showing the N-Number, and other fields with stats like expiry date; renew-by date, price, registrant name, and how long it has been held. Also, the cards should be color coded by status; normal in black, expired in red, within a month in yellow, and newly registered in green; as well as other status colors as apporpriate. Site should look modern; professional; warm, but should also be highly legible and usable as a tool.",
+    "dateAdded": "2023-12-28T22:25:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/miuNqJW2PbE",
+    "label": "Template for prompt: I need a modern and clean card for an AI model",
+    "dateAdded": "2023-12-28T22:25:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/m9My4YTflkB",
+    "label": "Template for prompt: a web application that aggregates and displays lists of news in multiple tabs",
+    "dateAdded": "2023-12-28T22:25:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/MExcZynNaM6",
+    "label": "Template for prompt: Code editor",
+    "dateAdded": "2023-12-28T22:25:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/pW4Pehcbey2",
+    "label": "Template for prompt: a todo list with crud operations and beign able to select colours for the items",
+    "dateAdded": "2023-12-28T22:25:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/tBjfm1tpddg",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form with a carousel",
+    "dateAdded": "2023-12-28T22:25:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/IaahV8lKMUi",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-28T22:25:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/7LPG7IhBqZT",
+    "label": "Template for prompt: Design a website UI for an AI image generation platform. The interface should include a large central panel for entering descriptive prompts, with examples of generated images displayed around it. There should be options to choose the art style such as photorealism, anime, or artistic. Include a settings area for resolution, with options like 1024x1024px, and a section for specifying the number of images to generate. Add sliders for adjusting the similarity to the provided sample image. The color scheme should be modern and sleek, with high contrast to make the interface elements stand out. Include a prominent 'Generate' button that draws the user's attention.",
+    "dateAdded": "2023-12-28T22:25:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/K9lNnBnjzec",
+    "label": "Template for prompt: a home screen like nyt games",
+    "dateAdded": "2023-12-28T22:25:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/TbdguVfRXTq",
+    "label": "Template for prompt: A landing page for news/blog",
+    "dateAdded": "2023-12-28T22:25:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/FpGTy1xTodC",
+    "label": "Template for prompt: An entire ecommerce for a bakery with animations",
+    "dateAdded": "2023-12-28T22:25:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/nwLULJF1DrJ",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T22:25:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/9YJJb5HrYFt",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T22:25:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/blIBVxLoXP9",
+    "label": "Template for prompt: create a button for a website with no fill just a border with no radius",
+    "dateAdded": "2023-12-28T22:25:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/YX8oyPKL84k",
+    "label": "Template for prompt: fancy childish nav bar ",
+    "dateAdded": "2023-12-28T22:25:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/lDHfYKmzxAp",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T22:25:02.954Z"
   }
 ]
