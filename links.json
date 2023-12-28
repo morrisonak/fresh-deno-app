@@ -26458,5 +26458,135 @@
     "url": "https://v0.dev/t/qDFIaxaBJIE",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2023-12-28T15:10:02.994Z"
+  },
+  {
+    "url": "https://v0.dev/t/SgjTTZAzIxe",
+    "label": "Template for prompt: A website for a software quality assurance engineer, highlighting work experience",
+    "dateAdded": "2023-12-28T15:15:03.941Z"
+  },
+  {
+    "url": "https://v0.dev/t/7sNgheEEkqK",
+    "label": "Template for prompt: Create a how to page ?  in this page there are screenshots of app in one col and in the other the text. for Ex : col1 has img1 and col2 has step1 : text. ",
+    "dateAdded": "2023-12-28T15:15:03.941Z"
+  },
+  {
+    "url": "https://v0.dev/t/xTVQabumz35",
+    "label": "Template for prompt: A code-block viewer",
+    "dateAdded": "2023-12-28T15:15:03.941Z"
+  },
+  {
+    "url": "https://v0.dev/t/Kw9ZcGvY3tR",
+    "label": "Template for prompt: reproduce this with tailwindcss shadcn ui",
+    "dateAdded": "2023-12-28T15:15:03.941Z"
+  },
+  {
+    "url": "https://v0.dev/t/VrWG7Iq4deK",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T15:15:03.942Z"
+  },
+  {
+    "url": "https://v0.dev/t/nTPQQ9P4PWe",
+    "label": "Template for prompt: Create an email marketing app ui using Flowbite",
+    "dateAdded": "2023-12-28T15:15:03.942Z"
+  },
+  {
+    "url": "https://v0.dev/t/6DhGwhFdrSX",
+    "label": "Template for prompt: You have to develop a demo react app (for mobile and web). Set up a React project using CRA and if you know TypeScript and SASS, use them - you’ll earn bonus points \nThe app is a simplified search app with following requirements: \nClick on the search tab latest trend suggestion box open \nImplement faker api for showing data. \nAccording to the filter data should update. \nClick on the Wishlist colour should change to red \nOn hovering to the product view product button should be visible.\n",
+    "dateAdded": "2023-12-28T15:15:03.942Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wynq9sIVNqb",
+    "label": "Template for prompt: a dashboard that can upload items for sale on a site",
+    "dateAdded": "2023-12-28T15:15:03.942Z"
+  },
+  {
+    "url": "https://v0.dev/t/F2VqafLfK9M",
+    "label": "Template for prompt: a simple interface for people in their 60s and 70s to ask questions about tech devices and get their answers",
+    "dateAdded": "2023-12-28T15:15:03.942Z"
+  },
+  {
+    "url": "https://v0.dev/t/Iluwe1VddLS",
+    "label": "Template for prompt: Make it for me",
+    "dateAdded": "2023-12-28T15:15:03.943Z"
+  },
+  {
+    "url": "https://v0.dev/t/5dHArXYxfP7",
+    "label": "Template for prompt: admin dashboard for carwashing website",
+    "dateAdded": "2023-12-28T15:15:03.943Z"
+  },
+  {
+    "url": "https://v0.dev/t/lvww0VoONAI",
+    "label": "Template for prompt: replicate this",
+    "dateAdded": "2023-12-28T15:15:03.943Z"
+  },
+  {
+    "url": "https://v0.dev/t/AfmJkqdTB28",
+    "label": "Template for prompt: create me with state and button and delete button and tailwindcss and nextjs",
+    "dateAdded": "2023-12-28T15:15:03.943Z"
+  },
+  {
+    "url": "https://v0.dev/t/JIxqTAE7BLe",
+    "label": "Template for prompt: create me with state and button and delete button and tailwindcss and nextjs",
+    "dateAdded": "2023-12-28T15:15:03.944Z"
+  },
+  {
+    "url": "https://v0.dev/t/quCCuGVFMgi",
+    "label": "Template for prompt: a landing page with a hero text and a login",
+    "dateAdded": "2023-12-28T15:15:03.944Z"
+  },
+  {
+    "url": "https://v0.dev/t/FvYXZvtLvKi",
+    "label": "Template for prompt: Create an email marketing app ui similar to Mailerlite",
+    "dateAdded": "2023-12-28T15:15:03.944Z"
+  },
+  {
+    "url": "https://v0.dev/t/F8kGlTaj220",
+    "label": "Template for prompt: Generate the homepage content for Fact Hub, a fact-checking organization committed to providing trustworthy information. Craft a welcoming introduction that encapsulates the organization's mission to separate fact from fiction in today's fast-paced digital landscape. Emphasize the importance of reliable sources and the challenges of discerning truth in the current age. Showcase the dedication to accuracy, transparency, and ongoing updates. Highlight the expertise of Fact Hub's fact-checkers and their rigorous research methodologies. Express the commitment to evolving facts and fostering intellectual humility. Describe the power of knowledge in shaping a better world and empowering informed decision-making. Illustrate the website's purpose in promoting critical thinking, media literacy, and truth-seeking. Encourage visitors to explore fact-checks, articles, and engage with the community. Convey a sense of trust and reliability in the information provided by Fact Hub.",
+    "dateAdded": "2023-12-28T15:15:03.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/E4oPY23RCcX",
+    "label": "Template for prompt: creame una pagina web de viajes",
+    "dateAdded": "2023-12-28T15:15:03.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/KgZ5gEAspur",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-28T15:15:03.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/dI3KsvyYrop",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T15:15:03.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/pGR912yk5L4",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T15:15:03.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/02EvOZUn4la",
+    "label": "Template for prompt: can You just make this more reliable , and UX friendly",
+    "dateAdded": "2023-12-28T15:15:03.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/rewuy3027v0",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-28T15:15:03.947Z"
+  },
+  {
+    "url": "https://v0.dev/t/Pc0RnE87rUi",
+    "label": "Template for prompt: login page",
+    "dateAdded": "2023-12-28T15:15:03.947Z"
+  },
+  {
+    "url": "https://v0.dev/t/0GqF7FBnnqv",
+    "label": "Template for prompt: Developer's blog, dark mode, navbar, hero section, posts section",
+    "dateAdded": "2023-12-28T15:15:03.947Z"
+  },
+  {
+    "url": "https://v0.dev/t/8fI42HrHOIr",
+    "label": "Template for prompt: An app to track my employees time of arrival at work",
+    "dateAdded": "2023-12-28T15:15:03.948Z"
   }
 ]
