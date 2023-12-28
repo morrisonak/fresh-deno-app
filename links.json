@@ -39003,5 +39003,135 @@
     "url": "https://v0.dev/t/SYnlXj1enKB",
     "label": "Template for prompt: movie recommendation website",
     "dateAdded": "2023-12-28T23:25:03.601Z"
+  },
+  {
+    "url": "https://v0.dev/t/zXUXFpEmzT3",
+    "label": "Template for prompt: A list of NFT sales, each record has a picture, price, time and platform (like magic eden)",
+    "dateAdded": "2023-12-28T23:30:03.324Z"
+  },
+  {
+    "url": "https://v0.dev/t/PJsf6kd6tgi",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T23:30:03.324Z"
+  },
+  {
+    "url": "https://v0.dev/t/BpzKUvqMzEi",
+    "label": "Template for prompt: create an an online platform that look like a  village, connecting you with neighbours to buy, sell and find apartments, jobs and services on a local level.",
+    "dateAdded": "2023-12-28T23:30:03.324Z"
+  },
+  {
+    "url": "https://v0.dev/t/JRwDUVOE636",
+    "label": "Template for prompt: pricing page usin this info Free\n$0 /month\n\nWHAT'S INCLUDED\n20 messages/month\n2 chatbot generations\n20,000 characters/chatbot\nChatbot gets deleted after 5 days of inactivity\nHobby\n$19 /month\n\nSubscribe\nWHAT'S INCLUDED\n500 messages/month\n10 chatbot generations\n500,000 characters/chatbot\nEmbed chatbot on any website\nStandard\nMOST POPULAR\n\n$48 /month\n\nSubscribe\nWHAT'S INCLUDED\n4000 messages/month\n25 chatbot generations\n5,000,000 characters/chatbot\nEmbed chatbot on any website\nPro\n$398 /month\n\nSubscribe\nWHAT'S INCLUDED\n30,000 messages/month\n50 chatbot generations\n10,000,000 characters/chatbot\nEmbed chatbot on any website\nRemove 'Powered by ChatShape'\nPriority Support",
+    "dateAdded": "2023-12-28T23:30:03.325Z"
+  },
+  {
+    "url": "https://v0.dev/t/0XbR2rg9FyA",
+    "label": "Template for prompt: un composant react qui affiche une table de prix avec un selecteur pour choisir le prix par mois ou par an",
+    "dateAdded": "2023-12-28T23:30:03.325Z"
+  },
+  {
+    "url": "https://v0.dev/t/8M0uJPsj5wi",
+    "label": "Template for prompt: A mario themed personal website",
+    "dateAdded": "2023-12-28T23:30:03.325Z"
+  },
+  {
+    "url": "https://v0.dev/t/r8evqqcuoas",
+    "label": "Template for prompt: a login page (to connect username and password) with a register page (to create an account) that take username password, email, phone number (optional) in vue",
+    "dateAdded": "2023-12-28T23:30:03.325Z"
+  },
+  {
+    "url": "https://v0.dev/t/etTQdi6Yhhs",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-28T23:30:03.325Z"
+  },
+  {
+    "url": "https://v0.dev/t/ceaURSVWw65",
+    "label": "Template for prompt: we have a web ui lib called vega, could you help me create a figma plugin to select a vega component (e.g. vega-input, vega-button, vega-box) and assign the property to it (e.g. label of the vega-input) and then click render to render into the figma screen.\n\nThe plugin should also support list the hierarchy of the generated vega component figma nodes in a tree view in a separate tab",
+    "dateAdded": "2023-12-28T23:30:03.326Z"
+  },
+  {
+    "url": "https://v0.dev/t/OvY2A6WSuvV",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T23:30:03.328Z"
+  },
+  {
+    "url": "https://v0.dev/t/WIbVeC06i2F",
+    "label": "Template for prompt: a Para dash board with a widget for notes, tasks, projects, areas",
+    "dateAdded": "2023-12-28T23:30:03.328Z"
+  },
+  {
+    "url": "https://v0.dev/t/kR3vFZVF6Ky",
+    "label": "Template for prompt: a landing page for my company",
+    "dateAdded": "2023-12-28T23:30:03.328Z"
+  },
+  {
+    "url": "https://v0.dev/t/cnlBP4uaY91",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T23:30:03.328Z"
+  },
+  {
+    "url": "https://v0.dev/t/XGhPbV0227U",
+    "label": "Template for prompt: pricing card",
+    "dateAdded": "2023-12-28T23:30:03.329Z"
+  },
+  {
+    "url": "https://v0.dev/t/issclv94LNm",
+    "label": "Template for prompt: Build me a carousel of call to action cards. 6 cards total but displays only 3 cards at a time. When the carousel arrow is clicked, the slide moves one card at a time.",
+    "dateAdded": "2023-12-28T23:30:03.329Z"
+  },
+  {
+    "url": "https://v0.dev/t/omiFfYv8ctH",
+    "label": "Template for prompt: create pricing page for saas for business to enter their website link then we crawl  the data of their website then we create chatbot  based on the data",
+    "dateAdded": "2023-12-28T23:30:03.329Z"
+  },
+  {
+    "url": "https://v0.dev/t/vJcTXLY4g3q",
+    "label": "Template for prompt: welcome page  of a simple NFT management website with a button \"Connet wallet\" in the middle of the screen\n\nHome page for ceators to view their NFTs with 3 tabs on the left \"Profile\", \"Sales\", \"Analytics\". The Profile page is the defaul with their profile picture, wallet address and a \"disconnet\" button on the top, and with a grid view of NFTs. The cells of the grid should have a picture, a status (like \"listed\"), platform (like magic eden) and price.",
+    "dateAdded": "2023-12-28T23:30:03.329Z"
+  },
+  {
+    "url": "https://v0.dev/t/XTPsr9iSJkx",
+    "label": "Template for prompt: This is my pricing card:\n    <div\n      className=\"flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white\">\n      <h3 className=\"mb-4 text-2xl font-semibold\">{card.heading}</h3>\n      <p className=\"font-light text-gray-500 sm:text-lg dark:text-gray-400\">{card.subheading}</p>\n      <div className=\"flex justify-center items-baseline my-8\">\n        <span className=\"mr-2 text-3xl font-extrabold\">{card.priceAmount}</span>\n        <span className=\"text-gray-500 dark:text-gray-400\">{card.priceInterval}</span>\n      </div>\n      <ul role=\"list\" className=\"mb-8 space-y-4 text-left\">\n        {card.features.map((feature, i) => {\n          return (\n            <li className=\"flex items-center space-x-3\" key={i}>\n              <GreenCheck />\n              <span>{feature}</span>\n            </li>\n          );\n        })}\n      </ul>\n</div>\n\nadd a \"Recommended\" banner at the top right",
+    "dateAdded": "2023-12-28T23:30:03.329Z"
+  },
+  {
+    "url": "https://v0.dev/t/lSZLojzGS7q",
+    "label": "Template for prompt: Home page for ceators to view their NFTs with 3 tabs on the left \"Profile\", \"Sales\", \"Analytics\". The Profile page is the defaul with their profile picture, wallet address and a \"disconnet\" button on the top, and with a grid view of NFTs. The cells of the grid should have a picture, a status (like \"listed\"), platform (like magic eden) and price.",
+    "dateAdded": "2023-12-28T23:30:03.329Z"
+  },
+  {
+    "url": "https://v0.dev/t/PRcmwY4DNi6",
+    "label": "Template for prompt: An overview page of all courses for an university web application sorted by semester",
+    "dateAdded": "2023-12-28T23:30:03.330Z"
+  },
+  {
+    "url": "https://v0.dev/t/NwUZnDjW1Dl",
+    "label": "Template for prompt: a input form for vcard",
+    "dateAdded": "2023-12-28T23:30:03.330Z"
+  },
+  {
+    "url": "https://v0.dev/t/pwPvq5pHWYa",
+    "label": "Template for prompt: Create a image slider with lightbox",
+    "dateAdded": "2023-12-28T23:30:03.330Z"
+  },
+  {
+    "url": "https://v0.dev/t/KziykyqHaKr",
+    "label": "Template for prompt: Reproduce This exactly with same Colors ",
+    "dateAdded": "2023-12-28T23:30:03.330Z"
+  },
+  {
+    "url": "https://v0.dev/t/wH68aGaqPwl",
+    "label": "Template for prompt: movie rating recommendation website",
+    "dateAdded": "2023-12-28T23:30:03.330Z"
+  },
+  {
+    "url": "https://v0.dev/t/6Yw9bmWf3j3",
+    "label": "Template for prompt: create a figma plugin to display the select frame node in a tree view ",
+    "dateAdded": "2023-12-28T23:30:03.330Z"
+  },
+  {
+    "url": "https://v0.dev/t/RORFnikjsh7",
+    "label": "Template for prompt: Ecommerce dashboard with orders customers analytics ",
+    "dateAdded": "2023-12-28T23:30:03.331Z"
   }
 ]
