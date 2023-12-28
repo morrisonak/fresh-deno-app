@@ -27358,5 +27358,130 @@
     "url": "https://v0.dev/t/1dC3mAObf2K",
     "label": "Template for prompt: create a maintenance page",
     "dateAdded": "2023-12-28T15:45:03.458Z"
+  },
+  {
+    "url": "https://v0.dev/t/ifJ7zKE2Jzc",
+    "label": "Template for prompt: create a mui react component that will show a list of categories\n\nthe heading should be the overall name - such as All Categories\n\nthen display each as a item below. each item should be clickable",
+    "dateAdded": "2023-12-28T15:50:03.316Z"
+  },
+  {
+    "url": "https://v0.dev/t/NW8Rfz7Irje",
+    "label": "Template for prompt: cool and responsive contact us page",
+    "dateAdded": "2023-12-28T15:50:03.316Z"
+  },
+  {
+    "url": "https://v0.dev/t/d87yNRWbiIN",
+    "label": "Template for prompt: create a login landing page for a users managment site",
+    "dateAdded": "2023-12-28T15:50:03.316Z"
+  },
+  {
+    "url": "https://v0.dev/t/EfcgrajE0vw",
+    "label": "Template for prompt: I need to design a sketch of a new user interface for one of our features. We extract data from several legal documents. The name, IDNO, and tax code. Since the extraction can fail, we allow the user to choose which value to use. For this we need something that looks like a table but has fields on the right side of the table. The table, on the top should contain the name of the document. On the left of extracted data. And on the right, the fields that can be edited by the users. The cells inside the table are clickable and can have colors for success or warning depending if the values are thet same between documents.",
+    "dateAdded": "2023-12-28T15:50:03.316Z"
+  },
+  {
+    "url": "https://v0.dev/t/OSxaj4V7uH5",
+    "label": "Template for prompt: a mobile responsive section with a background image, header, paragraph and a cta button",
+    "dateAdded": "2023-12-28T15:50:03.317Z"
+  },
+  {
+    "url": "https://v0.dev/t/c1QQG8x59Ty",
+    "label": "Template for prompt: For landing page. Make a section with 3 cards under a top heading. The background of the card should have a picture and the text should be readable in white.",
+    "dateAdded": "2023-12-28T15:50:03.317Z"
+  },
+  {
+    "url": "https://v0.dev/t/7Xsw4XfxUsJ",
+    "label": "Template for prompt: two inputs, two buttons.",
+    "dateAdded": "2023-12-28T15:50:03.317Z"
+  },
+  {
+    "url": "https://v0.dev/t/kuYcMz0uYEc",
+    "label": "Template for prompt: \n### **Homepage Design for Win-Me**\n\n---\n\n#### **Section 1: Hero Banner**\n- **Background**: Engaging 3D rendering or animation showcasing the vibrant metaverse environment of Win-Me.\n- **Title**: \"Welcome to Win-Me: Explore, Engage, and Earn in the Ultimate Metaverse Experience!\"\n- **Subtitle**: \"Dive into a dynamic world of gaming, challenges, and rewards.\"\n- **Call to Action (CTA) Button**: \"Join Now\" or \"Explore Win-Me\"\n\n---\n\n#### **Section 2: What is Win-Me?**\n- **Title**: \"Discover Win-Me: Your Gateway to the Metaverse\"\n- **Description**:\n  - \"Win-Me is an innovative NFT Racing Challenge 3D Game and immersive metaverse.\"\n  - \"Engage in daily tournaments, navigate unique tracks, and compete for exclusive NFTs and rewards.\"\n  - Experience multiplayer interactions, dynamic events, and collaborative partnerships within a vibrant virtual world.\"\n\n",
+    "dateAdded": "2023-12-28T15:50:03.317Z"
+  },
+  {
+    "url": "https://v0.dev/t/6t6kNn1RMuU",
+    "label": "Template for prompt: modal to submit login",
+    "dateAdded": "2023-12-28T15:50:03.317Z"
+  },
+  {
+    "url": "https://v0.dev/t/gqtzFwCwwxc",
+    "label": "Template for prompt: faq section with image on the left, list of 6 questions with accordion to open the answers, #00A3DA as primary color, white background",
+    "dateAdded": "2023-12-28T15:50:03.318Z"
+  },
+  {
+    "url": "https://v0.dev/t/VuSf3kTRgFo",
+    "label": "Template for prompt: a paypal donate button",
+    "dateAdded": "2023-12-28T15:50:03.318Z"
+  },
+  {
+    "url": "https://v0.dev/t/lSU0BGp66tp",
+    "label": "Template for prompt: a langing page for a meme cryptocurrency BunnyGod with bright pink colors, a cosmos multiverse background, top navigation section for about and home, bottom minimal contact section, two hero sections for details and a buy now button at top. The landing page should be modern style with multiverse cosmos pink theme",
+    "dateAdded": "2023-12-28T15:50:03.318Z"
+  },
+  {
+    "url": "https://v0.dev/t/0wq2zv5TeUj",
+    "label": "Template for prompt: Improve this about me section",
+    "dateAdded": "2023-12-28T15:50:03.318Z"
+  },
+  {
+    "url": "https://v0.dev/t/EWab53kNQKo",
+    "label": "Template for prompt: App for tracking new habits and monitor how well you are doing",
+    "dateAdded": "2023-12-28T15:50:03.319Z"
+  },
+  {
+    "url": "https://v0.dev/t/bLe1h2H22Gg",
+    "label": "Template for prompt: App for tracking new habits and monitor how well you are doing",
+    "dateAdded": "2023-12-28T15:50:03.319Z"
+  },
+  {
+    "url": "https://v0.dev/t/KLibHkXgLOt",
+    "label": "Template for prompt: An Table for products",
+    "dateAdded": "2023-12-28T15:50:03.319Z"
+  },
+  {
+    "url": "https://v0.dev/t/mOoGJlEhj7Z",
+    "label": "Template for prompt: Create a centered contained section. Two small columns.",
+    "dateAdded": "2023-12-28T15:50:03.319Z"
+  },
+  {
+    "url": "https://v0.dev/t/1z4VYZfL4UO",
+    "label": "Template for prompt: Search site for movies",
+    "dateAdded": "2023-12-28T15:50:03.319Z"
+  },
+  {
+    "url": "https://v0.dev/t/Dpfyz01kWET",
+    "label": "Template for prompt: cosa mi consigli da migliorare?",
+    "dateAdded": "2023-12-28T15:50:03.320Z"
+  },
+  {
+    "url": "https://v0.dev/t/WIfGq4Elxys",
+    "label": "Template for prompt: Dark themed wiki-style front end",
+    "dateAdded": "2023-12-28T15:50:03.320Z"
+  },
+  {
+    "url": "https://v0.dev/t/GtmScUnisVb",
+    "label": "Template for prompt: A landing page for an API library which provides utility APIs for developers",
+    "dateAdded": "2023-12-28T15:50:03.320Z"
+  },
+  {
+    "url": "https://v0.dev/t/yrxyAd5voAQ",
+    "label": "Template for prompt: create a table containing Users, with CRUD operations for each row",
+    "dateAdded": "2023-12-28T15:50:03.320Z"
+  },
+  {
+    "url": "https://v0.dev/t/yPHmUH7CkxL",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T15:50:03.320Z"
+  },
+  {
+    "url": "https://v0.dev/t/5fFi0WHeto5",
+    "label": "Template for prompt: very modern designed paste webservice for quick paste and save text or image ",
+    "dateAdded": "2023-12-28T15:50:03.321Z"
+  },
+  {
+    "url": "https://v0.dev/t/goMI3Oc9vCj",
+    "label": "Template for prompt: faq section with image on the left and drawer to open the questions",
+    "dateAdded": "2023-12-28T15:50:03.321Z"
   }
 ]
