@@ -26328,5 +26328,135 @@
     "url": "https://v0.dev/t/K0aUujrAWfV",
     "label": "Template for prompt: 给我一个个人主页",
     "dateAdded": "2023-12-28T15:05:03.173Z"
+  },
+  {
+    "url": "https://v0.dev/t/0GqF7FBnnqv",
+    "label": "Template for prompt: Developer's blog, dark mode, navbar, hero section, posts section",
+    "dateAdded": "2023-12-28T15:10:02.989Z"
+  },
+  {
+    "url": "https://v0.dev/t/dI3KsvyYrop",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T15:10:02.989Z"
+  },
+  {
+    "url": "https://v0.dev/t/pGR912yk5L4",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T15:10:02.989Z"
+  },
+  {
+    "url": "https://v0.dev/t/8ujH9q1Eb7g",
+    "label": "Template for prompt: `<td>deCrs9eESMGWKQy5DVApyI:APA91bGvtQ0q9wsF4r3l8OriIY_SL1fRc0t2gDrjWA4oP5ZlgqlXmq8n0fIowmvhIDhvZfRCr0b5NaPo9rtr0v6GO9egWz6l8B1_TgXYdTC2tNB70Smui 6Qv2tuYoogEYxGIigMqTaGu</td>` There is an element like this, but if it exceeds 30 characters, I want to change it to ..., and when I click on it, I want to display a speech bubble under the td so that I can display all the text.",
+    "dateAdded": "2023-12-28T15:10:02.990Z"
+  },
+  {
+    "url": "https://v0.dev/t/OAVeNiXm7YB",
+    "label": "Template for prompt: designer protfolio",
+    "dateAdded": "2023-12-28T15:10:02.990Z"
+  },
+  {
+    "url": "https://v0.dev/t/cCKcXwdRXMy",
+    "label": "Template for prompt: designer protfolio",
+    "dateAdded": "2023-12-28T15:10:02.990Z"
+  },
+  {
+    "url": "https://v0.dev/t/EHVeU81xPOw",
+    "label": "Template for prompt: create chat dialog box similar to chat gpt",
+    "dateAdded": "2023-12-28T15:10:02.990Z"
+  },
+  {
+    "url": "https://v0.dev/t/vcjcAFTYHtc",
+    "label": "Template for prompt: A list of products that can be sorted, that is, change a product's position in the list",
+    "dateAdded": "2023-12-28T15:10:02.990Z"
+  },
+  {
+    "url": "https://v0.dev/t/OmF10LB55si",
+    "label": "Template for prompt: Make it for me",
+    "dateAdded": "2023-12-28T15:10:02.991Z"
+  },
+  {
+    "url": "https://v0.dev/t/Rx0ft9QkfaL",
+    "label": "Template for prompt: Create an email marketing app ui similar to Mailerlite",
+    "dateAdded": "2023-12-28T15:10:02.991Z"
+  },
+  {
+    "url": "https://v0.dev/t/vXBlOR8UhwH",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T15:10:02.991Z"
+  },
+  {
+    "url": "https://v0.dev/t/BgX4CGFxY3C",
+    "label": "Template for prompt: make please",
+    "dateAdded": "2023-12-28T15:10:02.991Z"
+  },
+  {
+    "url": "https://v0.dev/t/dxJvq2sjzd5",
+    "label": "Template for prompt: Generate sample static website which will be about becycle and possibility to repairt becycle everyhwere",
+    "dateAdded": "2023-12-28T15:10:02.992Z"
+  },
+  {
+    "url": "https://v0.dev/t/PDmA5AqIq7l",
+    "label": "Template for prompt: create a form to add text  and select user and  selector with subjects",
+    "dateAdded": "2023-12-28T15:10:02.992Z"
+  },
+  {
+    "url": "https://v0.dev/t/wnxYSUeJHxx",
+    "label": "Template for prompt: messenger like chat ui with theme",
+    "dateAdded": "2023-12-28T15:10:02.992Z"
+  },
+  {
+    "url": "https://v0.dev/t/hCeo4vOxpEx",
+    "label": "Template for prompt: A landing page for my tutoring school",
+    "dateAdded": "2023-12-28T15:10:02.992Z"
+  },
+  {
+    "url": "https://v0.dev/t/p6EsdLVTFPO",
+    "label": "Template for prompt: this is the parkafee reberghe, a place for the community to gather like a centro cultural from buenos aires, with events, gatherings and also a caffe",
+    "dateAdded": "2023-12-28T15:10:02.992Z"
+  },
+  {
+    "url": "https://v0.dev/t/i6X7iAlk7KK",
+    "label": "Template for prompt: this is the parkafee reberghe, a place for the community to gather like a centro cultural from buenos aires, with events, gatherings and also a caffe",
+    "dateAdded": "2023-12-28T15:10:02.992Z"
+  },
+  {
+    "url": "https://v0.dev/t/x91ZfNPJ9LY",
+    "label": "Template for prompt: story list after search with like comment and image",
+    "dateAdded": "2023-12-28T15:10:02.993Z"
+  },
+  {
+    "url": "https://v0.dev/t/1pBAgH6WcE0",
+    "label": "Template for prompt: a section that shows the costs and income of the website, looking financial",
+    "dateAdded": "2023-12-28T15:10:02.993Z"
+  },
+  {
+    "url": "https://v0.dev/t/fDYUlTnJ5zc",
+    "label": "Template for prompt: Homepage website design for a web3 car racing game ",
+    "dateAdded": "2023-12-28T15:10:02.993Z"
+  },
+  {
+    "url": "https://v0.dev/t/8q0EuYg8Cuf",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T15:10:02.993Z"
+  },
+  {
+    "url": "https://v0.dev/t/Bp0SAnWjfdc",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T15:10:02.993Z"
+  },
+  {
+    "url": "https://v0.dev/t/oPSQJ2QGJVi",
+    "label": "Template for prompt: ecommerce site for iptv",
+    "dateAdded": "2023-12-28T15:10:02.994Z"
+  },
+  {
+    "url": "https://v0.dev/t/Om57No8esMI",
+    "label": "Template for prompt:  hey, build a form builder that contains ways to add inputs, text areas, numbers, and other form elements. come up with creative approach. i dont want it to be like drag and drop builder",
+    "dateAdded": "2023-12-28T15:10:02.994Z"
+  },
+  {
+    "url": "https://v0.dev/t/qDFIaxaBJIE",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T15:10:02.994Z"
   }
 ]
