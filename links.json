@@ -32193,5 +32193,120 @@
     "url": "https://v0.dev/t/7LawnvQQf6f",
     "label": "Template for prompt: A NEXTStep clone with floating windows and the iconic dock in the bottom right",
     "dateAdded": "2023-12-28T18:55:03.232Z"
+  },
+  {
+    "url": "https://v0.dev/t/B2zPjLbiLP4",
+    "label": "Template for prompt: login page responsive with login form at right and image at left. No full-width. With boxshadow.",
+    "dateAdded": "2023-12-28T19:01:35.000Z"
+  },
+  {
+    "url": "https://v0.dev/t/aCqirRlbv62",
+    "label": "Template for prompt: A chat application",
+    "dateAdded": "2023-12-28T19:01:35.000Z"
+  },
+  {
+    "url": "https://v0.dev/t/VJKblBzfrcx",
+    "label": "Template for prompt: \nDesign a small widget that displays Jira tasks/stories/epics as cards. Make it as similar to the original UI as possible. Make It dark mode. The widget should only fit 3 cards in view and be scrollable. It should also have a search at the top. Basically make the cards look like they are in the given image.",
+    "dateAdded": "2023-12-28T19:01:35.001Z"
+  },
+  {
+    "url": "https://v0.dev/t/vahTM1gVFmh",
+    "label": "Template for prompt: generate a hamburger menu component that contains Links to dashboard , docs , about and contact",
+    "dateAdded": "2023-12-28T19:01:35.001Z"
+  },
+  {
+    "url": "https://v0.dev/t/i3UCm46zMIE",
+    "label": "Template for prompt: clone this website",
+    "dateAdded": "2023-12-28T19:01:35.001Z"
+  },
+  {
+    "url": "https://v0.dev/t/TEYAcd6V8uz",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T19:01:35.001Z"
+  },
+  {
+    "url": "https://v0.dev/t/dHkF8Rae3YY",
+    "label": "Template for prompt: A checkout modal",
+    "dateAdded": "2023-12-28T19:01:35.001Z"
+  },
+  {
+    "url": "https://v0.dev/t/09K4sodn32Z",
+    "label": "Template for prompt: a landing page for a software development company",
+    "dateAdded": "2023-12-28T19:01:35.002Z"
+  },
+  {
+    "url": "https://v0.dev/t/TTBjVAQjmgr",
+    "label": "Template for prompt: \nDesign a small widget that displays Jira tasks/stories/epics as cards. Make it as similar to the original UI as possible. Make It dark mode. The widget should only fit 3 cards in view and be scrollable. It should also have a search at the top",
+    "dateAdded": "2023-12-28T19:01:35.002Z"
+  },
+  {
+    "url": "https://v0.dev/t/KNLeZunOt2W",
+    "label": "Template for prompt: Необходимо разработать Личный кабинет, с помощью которого пользователь сможет сформировать и отправить заявление на оказание услуги.\n\nОпишите требования к UI и к взаимодействию frontend и backend с использованием REST-сервисов. (т.е. требования к frontend и backend должны включать: минимум 1 макет  экранных форм, ER-модель, структуры обмена данными JSON, API методы бэкенда (можно без требований к реализации но с входными и выходными данными)   по аналогии с ТЗ по магазину украшений)\n\n \n\n2.1.   Требуется разработать функционал для просмотра списка всех отправленных ранее заявлений. У пользователя должна быть возможность просмотреть подробную информацию по каждому заявлению.\n\n2.2.   Требуется разработать функционал для создания заявления на оказание услуги.\n\nВ заявлении пользователь должен заполнить свои личные данные, указать информацию о запрашиваемой услуге, приложить дополнительные документы к заявлению и подписать их.",
+    "dateAdded": "2023-12-28T19:01:35.002Z"
+  },
+  {
+    "url": "https://v0.dev/t/TeJYKtnZnbo",
+    "label": "Template for prompt: stepper ",
+    "dateAdded": "2023-12-28T19:01:35.002Z"
+  },
+  {
+    "url": "https://v0.dev/t/heihawbWlkJ",
+    "label": "Template for prompt: a dASHboard that has cards under it for their missions and they can add missions",
+    "dateAdded": "2023-12-28T19:01:35.002Z"
+  },
+  {
+    "url": "https://v0.dev/t/nxvmCVpKC82",
+    "label": "Template for prompt: chat tipo instagram con muchos detalles android",
+    "dateAdded": "2023-12-28T19:01:35.003Z"
+  },
+  {
+    "url": "https://v0.dev/t/s0PzitDW3uj",
+    "label": "Template for prompt: make a multu tenant admin template. use tailwind, heroicons from (heroicons.com) top right select tenant ",
+    "dateAdded": "2023-12-28T19:01:35.003Z"
+  },
+  {
+    "url": "https://v0.dev/t/BZFmyY8BgPq",
+    "label": "Template for prompt: Can you give me a design for e-coggarets landing page design which is in the Yerevan Armenia and has name \"Cyber Smoke\"",
+    "dateAdded": "2023-12-28T19:01:35.003Z"
+  },
+  {
+    "url": "https://v0.dev/t/2pYyPmRj8VJ",
+    "label": "Template for prompt: A section  with cards in netflix style",
+    "dateAdded": "2023-12-28T19:01:35.003Z"
+  },
+  {
+    "url": "https://v0.dev/t/tZ0u4RvHBxN",
+    "label": "Template for prompt: a modal with 2 cta button, cancel and next with a sucess icon and a close button on top corner",
+    "dateAdded": "2023-12-28T19:01:35.003Z"
+  },
+  {
+    "url": "https://v0.dev/t/gDcRPaCW1rv",
+    "label": "Template for prompt: a checkout page of a booking website",
+    "dateAdded": "2023-12-28T19:01:35.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/rSrrafMNfX8",
+    "label": "Template for prompt: Make this a dark mode only, modern AI-focused SaaS style design",
+    "dateAdded": "2023-12-28T19:01:35.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/LcoCsUXZE5O",
+    "label": "Template for prompt: form",
+    "dateAdded": "2023-12-28T19:01:35.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/RPwuRmIP7Af",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-28T19:01:35.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/75MxUYtWGL3",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T19:01:35.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/PDMRbeV6m49",
+    "label": "Template for prompt: make a admin template ",
+    "dateAdded": "2023-12-28T19:01:35.004Z"
   }
 ]
