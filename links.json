@@ -28373,5 +28373,135 @@
     "url": "https://v0.dev/t/yubfcXGi9wd",
     "label": "Template for prompt: blog",
     "dateAdded": "2023-12-28T16:25:03.530Z"
+  },
+  {
+    "url": "https://v0.dev/t/tLKzE5nkI50",
+    "label": "Template for prompt: drop zone file upload",
+    "dateAdded": "2023-12-28T16:30:03.250Z"
+  },
+  {
+    "url": "https://v0.dev/t/hKMNlv0AXV7",
+    "label": "Template for prompt: patient form edit in hiccup",
+    "dateAdded": "2023-12-28T16:30:03.250Z"
+  },
+  {
+    "url": "https://v0.dev/t/2mwqUjzFGbK",
+    "label": "Template for prompt: I need a image galery with a white border and a dark background. the images should be vertical aligned and a little bit rotated.",
+    "dateAdded": "2023-12-28T16:30:03.250Z"
+  },
+  {
+    "url": "https://v0.dev/t/lieXYtdnDE9",
+    "label": "Template for prompt: hosoital mangment system",
+    "dateAdded": "2023-12-28T16:30:03.250Z"
+  },
+  {
+    "url": "https://v0.dev/t/vBJBW7O13gg",
+    "label": "Template for prompt: Create a user profile page for a web app focused on quests (activities).\nInclude a profile avatar, full name, and location. Add a follow button.\nAbout: Display a short text description with an 'expand' option for longer texts. Include up to three interests with icons and a list of top three skills. Add a 'view all' button that opens a modal with extended information about the user, interests, and skills.\nStatistics: Show the user's points with a small graph representation and badges earned. Include a 'view all' button leading to a modal with detailed statistics, including a point history graph and a complete list of badges.\nBuddies: Display a few buddies with a button to 'view all'. This modal should show the people the user is following and their followers.\nQuests: List the latest quests with pictures, title, location, date, and a label (creator, draft...). Add a 'view all' button that opens a modal with all quests, categorized into active and finished quests.",
+    "dateAdded": "2023-12-28T16:30:03.251Z"
+  },
+  {
+    "url": "https://v0.dev/t/5KJV1EKpOkj",
+    "label": "Template for prompt: A dashboard for a database",
+    "dateAdded": "2023-12-28T16:30:03.251Z"
+  },
+  {
+    "url": "https://v0.dev/t/NJULldBzdgu",
+    "label": "Template for prompt: A creative one page website for a youth organization",
+    "dateAdded": "2023-12-28T16:30:03.251Z"
+  },
+  {
+    "url": "https://v0.dev/t/U91QY1WgGlX",
+    "label": "Template for prompt: search and filter ui for different categories, sizes, colours and prices of products",
+    "dateAdded": "2023-12-28T16:30:03.251Z"
+  },
+  {
+    "url": "https://v0.dev/t/9CjDEMpLVXp",
+    "label": "Template for prompt: a sign in page",
+    "dateAdded": "2023-12-28T16:30:03.251Z"
+  },
+  {
+    "url": "https://v0.dev/t/nV9gHavb2IR",
+    "label": "Template for prompt: A ticket system page like a chat where users can create tickets and answer messages.",
+    "dateAdded": "2023-12-28T16:30:03.251Z"
+  },
+  {
+    "url": "https://v0.dev/t/5SEOTJzSrGD",
+    "label": "Template for prompt: A minecraft server list web page that show the status of the server including the player avatars online",
+    "dateAdded": "2023-12-28T16:30:03.252Z"
+  },
+  {
+    "url": "https://v0.dev/t/a9wrdyu6XJS",
+    "label": "Template for prompt: I want this Schema diagram nice and clean",
+    "dateAdded": "2023-12-28T16:30:03.252Z"
+  },
+  {
+    "url": "https://v0.dev/t/YHwFOjAufR0",
+    "label": "Template for prompt: A minecraft server list web page that show the status of the server including the player avatars online",
+    "dateAdded": "2023-12-28T16:30:03.252Z"
+  },
+  {
+    "url": "https://v0.dev/t/r6DdmSeYnLo",
+    "label": "Template for prompt: crea un dashboard para el siguiente JSON:\n{\n  \"top_levels\": [\n    {\n      \"name\": \"string\",\n      \"level\": 9\n    },\n    {\n      \"name\": \"tsukiro\",\n      \"level\": 5\n    },\n    {\n      \"name\": \"Usuario de prueba\",\n      \"level\": 1\n    }\n  ],\n  \"top_created\": [\n    {\n      \"name\": \"tsukiro\",\n      \"qty\": 11\n    }\n  ],\n  \"top_closed\": [\n    {\n      \"name\": \"tsukiro\",\n      \"qty\": 10\n    }\n  ]\n}",
+    "dateAdded": "2023-12-28T16:30:03.252Z"
+  },
+  {
+    "url": "https://v0.dev/t/Tm3IjsTt1SS",
+    "label": "Template for prompt: Component for creating and seeing previously created games",
+    "dateAdded": "2023-12-28T16:30:03.252Z"
+  },
+  {
+    "url": "https://v0.dev/t/uUFKyEwP0Lz",
+    "label": "Template for prompt: A creative, minimalist, professional, about us section for a one page website of a youth organization.",
+    "dateAdded": "2023-12-28T16:30:03.253Z"
+  },
+  {
+    "url": "https://v0.dev/t/SLmaoASNDYw",
+    "label": "Template for prompt: character customisation screen for a card game",
+    "dateAdded": "2023-12-28T16:30:03.253Z"
+  },
+  {
+    "url": "https://v0.dev/t/potDMijCJID",
+    "label": "Template for prompt: saas landing page",
+    "dateAdded": "2023-12-28T16:30:03.253Z"
+  },
+  {
+    "url": "https://v0.dev/t/iXKbiTFqOdI",
+    "label": "Template for prompt: character customisation screen for a card game",
+    "dateAdded": "2023-12-28T16:30:03.253Z"
+  },
+  {
+    "url": "https://v0.dev/t/TO2uwhsN8IR",
+    "label": "Template for prompt: an organization management form with zod and read-hook-form validation",
+    "dateAdded": "2023-12-28T16:30:03.253Z"
+  },
+  {
+    "url": "https://v0.dev/t/XoPpspHzCSc",
+    "label": "Template for prompt: a placeholder for a pdf document selected\ninclude a button to remove it",
+    "dateAdded": "2023-12-28T16:30:03.254Z"
+  },
+  {
+    "url": "https://v0.dev/t/C7ec6YMde3f",
+    "label": "Template for prompt: This is the landing page for a website where you can submit proposals to create projects, improve this landing page maintaining the colors, logo and style but add a banner, introduction or tagline to let users know what the website is about",
+    "dateAdded": "2023-12-28T16:30:03.254Z"
+  },
+  {
+    "url": "https://v0.dev/t/OfUysd2Lv02",
+    "label": "Template for prompt: a box which shows username,plan,token",
+    "dateAdded": "2023-12-28T16:30:03.254Z"
+  },
+  {
+    "url": "https://v0.dev/t/J1mvEA6jI1U",
+    "label": "Template for prompt: admin dashboard",
+    "dateAdded": "2023-12-28T16:30:03.254Z"
+  },
+  {
+    "url": "https://v0.dev/t/YgceUtuKahg",
+    "label": "Template for prompt: Here are some additional elements you might consider:\n\nActivity Details with In-App Editing:\nIntegrated Details View:\nEditing Mode:\n\nWhen clicking on an event, switch to an editing mode directly within the main interface instead of opening a pop-up window.\nEditable Fields:\n\nMake title, description, date, time, and priority fields directly editable by clicking on them.\nSave Changes Button:\n\nInclude a \"Save\" button to confirm the changes made to the activity.\nCancel Editing Button:\n\nProvide a \"Cancel\" button to revert changes and exit editing mode without applying modifications.\nDirect Deletion:\n\nIntegrate a deletion button next to the activity in editing mode to allow direct removal.\nClear Visualization with In-App Editing:\nDynamic Interface:\nVisual Highlight in Editing Mode:\n\nChange the background color or somehow highlight the activity in editing mode to clearly indicate that it is being modified.\nReal-time Indicators:\n\nUpdate in real-time the changes made to the activity so users ins",
+    "dateAdded": "2023-12-28T16:30:03.254Z"
+  },
+  {
+    "url": "https://v0.dev/t/xcfLr46psoN",
+    "label": "Template for prompt: Create a section with a #f9f9f9 background. max-w-6xl",
+    "dateAdded": "2023-12-28T16:30:03.255Z"
   }
 ]
