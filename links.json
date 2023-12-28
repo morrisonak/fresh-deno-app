@@ -37743,5 +37743,130 @@
     "url": "https://v0.dev/t/3EI0K4BB9wu",
     "label": "Template for prompt: Fais moi une pagination sur la gauche avec une police sans, elle correspond au défilement sur la page et donne les infos sur le contenu affiché atm",
     "dateAdded": "2023-12-28T22:35:04.020Z"
+  },
+  {
+    "url": "https://v0.dev/t/qR56J9sygyF",
+    "label": "Template for prompt: Design a page where users can create lengthy content using markdown features and can add images.\n",
+    "dateAdded": "2023-12-28T22:40:04.496Z"
+  },
+  {
+    "url": "https://v0.dev/t/tCiYfD35Q1u",
+    "label": "Template for prompt: Dashboard (Réaction/Marius):\nThe main header reads \"Rédaction / Marius\", which suggests this is a content creation or editorial dashboard personalized for someone.\nThere is a section labeled \"Mes idées\" (My ideas) with a checklist format, suggesting this is a space for Marius to list content ideas.\nAnother section labeled \"Pattern rédaction\" (Content pattern) is divided into different statuses for content pieces:\n\"À rédiger\" (To write), \"En cours\"  and \"Rédigé\" ",
+    "dateAdded": "2023-12-28T22:40:04.496Z"
+  },
+  {
+    "url": "https://v0.dev/t/nSkURJ5VHJ6",
+    "label": "Template for prompt: a list of icon buttons to control mic, camera and screen options for a recording web app",
+    "dateAdded": "2023-12-28T22:40:04.496Z"
+  },
+  {
+    "url": "https://v0.dev/t/ng7mouTJi0s",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T22:40:04.496Z"
+  },
+  {
+    "url": "https://v0.dev/t/UxcceIvIZbU",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T22:40:04.497Z"
+  },
+  {
+    "url": "https://v0.dev/t/G7gxk4xjvSY",
+    "label": "Template for prompt: create llama website",
+    "dateAdded": "2023-12-28T22:40:04.497Z"
+  },
+  {
+    "url": "https://v0.dev/t/58NC8AWKy4v",
+    "label": "Template for prompt: quiero un sistema de arriendo de vehiculos ",
+    "dateAdded": "2023-12-28T22:40:04.497Z"
+  },
+  {
+    "url": "https://v0.dev/t/zSCjSTd61MK",
+    "label": "Template for prompt: generate a 3 step onboarding screen for my web app",
+    "dateAdded": "2023-12-28T22:40:04.497Z"
+  },
+  {
+    "url": "https://v0.dev/t/0LQuHf6tn8V",
+    "label": "Template for prompt: Create a modern card for a countdown, which contains: a title, a date, the status (upcoming, expired), and an action button",
+    "dateAdded": "2023-12-28T22:40:04.497Z"
+  },
+  {
+    "url": "https://v0.dev/t/ELAIPWk5zih",
+    "label": "Template for prompt: A dashboard using tailwind ",
+    "dateAdded": "2023-12-28T22:40:04.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/5KwXe6zmaOp",
+    "label": "Template for prompt: Страница урока по анатомии и физиологии, тектсовые материалы и изображения, тесты и задания",
+    "dateAdded": "2023-12-28T22:40:04.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/exGOj9HtIFC",
+    "label": "Template for prompt: Company Name:\nContact Person:\nEmail Address:\nPhone Number:\nProject Overview\n5. Briefly describe the purpose of your website/software.\n\nWhat are the primary goals of your website/software (e.g., sales, marketing, informational)?\nDo you have a deadline for this project? If so, please specify.\nDesign Preferences\n8. Do you have an existing website? If so, what is the URL?\n\nWhat do you like and dislike about your current website?\nDo you have a logo and branding materials (e.g., color schemes, fonts)?\nPlease provide examples of websites or designs you like.\nAre there any specific design elements or features you want to include?\n\na form using shadcn ui witht he following questions and headings",
+    "dateAdded": "2023-12-28T22:40:04.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/qiOBm4jO64O",
+    "label": "Template for prompt: Chat design pop up system",
+    "dateAdded": "2023-12-28T22:40:04.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZcvOQAA9oiK",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T22:40:04.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/d9jtrL5Q4XU",
+    "label": "Template for prompt: popup server status",
+    "dateAdded": "2023-12-28T22:40:04.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/W3XYaE6BkNv",
+    "label": "Template for prompt: Improve this page , make it look modern and simple",
+    "dateAdded": "2023-12-28T22:40:04.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/dIDsWvcb0jO",
+    "label": "Template for prompt: list of buttons to control a recoding web app",
+    "dateAdded": "2023-12-28T22:40:04.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/P07L4EZA4PF",
+    "label": "Template for prompt: create a classic pricing page with 3 tiers.\nTiers are displayed side-by-side, include responsive design for vertical mobile view.\nOne tier is recommended.\nThe indidivual features inside the tier boxes are loaded from JSON.",
+    "dateAdded": "2023-12-28T22:40:04.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/tfbeAa5e3fv",
+    "label": "Template for prompt: С траница с модулями тренингов, современый дизайн, прогресс-бар, удобный и абсолютно адаптивный интерфейс",
+    "dateAdded": "2023-12-28T22:40:04.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/HPQJPjDZzpc",
+    "label": "Template for prompt: \n\n",
+    "dateAdded": "2023-12-28T22:40:04.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/pzKwqoOHzQF",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-28T22:40:04.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/Cu8HtJTnhch",
+    "label": "Template for prompt: input matrix",
+    "dateAdded": "2023-12-28T22:40:04.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/97uixupjIcb",
+    "label": "Template for prompt: a landing page with hero divided into 2 columns: on the left a header with subtext and cta button and on the right an image of ui",
+    "dateAdded": "2023-12-28T22:40:04.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZFclrlwBRgX",
+    "label": "Template for prompt: redo in html and css",
+    "dateAdded": "2023-12-28T22:40:04.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/IhtQFx4CuJt",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-28T22:40:04.500Z"
   }
 ]
