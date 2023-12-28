@@ -21738,5 +21738,120 @@
     "url": "https://v0.dev/t/VAh0RfDV1LI",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2023-12-28T00:40:03.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/79VyB8sAjAR",
+    "label": "Template for prompt: A timesheet component",
+    "dateAdded": "2023-12-28T00:45:03.083Z"
+  },
+  {
+    "url": "https://v0.dev/t/ixH8qfSSNmw",
+    "label": "Template for prompt: List of conversations for a admin website chat app like intercom or tawk.t",
+    "dateAdded": "2023-12-28T00:45:03.084Z"
+  },
+  {
+    "url": "https://v0.dev/t/oSSKNyUG1pZ",
+    "label": "Template for prompt: 帮我生成一个ios风格的天气预报页面",
+    "dateAdded": "2023-12-28T00:45:03.084Z"
+  },
+  {
+    "url": "https://v0.dev/t/lvKZPbkUCh7",
+    "label": "Template for prompt: Sidebar for a chat application",
+    "dateAdded": "2023-12-28T00:45:03.084Z"
+  },
+  {
+    "url": "https://v0.dev/t/uo8YMcm1zud",
+    "label": "Template for prompt: signin page, on the left side a full size image, on the left side the signin form",
+    "dateAdded": "2023-12-28T00:45:03.084Z"
+  },
+  {
+    "url": "https://v0.dev/t/v8hc7JTaQ5d",
+    "label": "Template for prompt: a dashboard with sidenav in a drawer",
+    "dateAdded": "2023-12-28T00:45:03.084Z"
+  },
+  {
+    "url": "https://v0.dev/t/BSVhLzeu6Kw",
+    "label": "Template for prompt: Chat application with fact sheet on the right",
+    "dateAdded": "2023-12-28T00:45:03.084Z"
+  },
+  {
+    "url": "https://v0.dev/t/lRE9nu1TcmR",
+    "label": "Template for prompt: me faire le meme site web",
+    "dateAdded": "2023-12-28T00:45:03.084Z"
+  },
+  {
+    "url": "https://v0.dev/t/5CYt4yTUqXU",
+    "label": "Template for prompt: A webapp that helps the user crop videos by moving the yellow crop mask. Fix its color scheme, and try to make it like Toko from Danganronpa color scheme.",
+    "dateAdded": "2023-12-28T00:45:03.084Z"
+  },
+  {
+    "url": "https://v0.dev/t/wBhceeHcjS5",
+    "label": "Template for prompt: can you help me develop the search component on Nextjs component with typescript like the uploaded image",
+    "dateAdded": "2023-12-28T00:45:03.085Z"
+  },
+  {
+    "url": "https://v0.dev/t/vddHqc9wEPH",
+    "label": "Template for prompt: can you help me develop the search component on Nextjs component with typescript like the uploaded image",
+    "dateAdded": "2023-12-28T00:45:03.085Z"
+  },
+  {
+    "url": "https://v0.dev/t/wKY9APkgTIj",
+    "label": "Template for prompt: a main page of portfolio website and in the right side, there should have a circle and many square which can drag and rotate",
+    "dateAdded": "2023-12-28T00:45:03.085Z"
+  },
+  {
+    "url": "https://v0.dev/t/pgsNIJCLjCN",
+    "label": "Template for prompt: a WYSIWYG blog post editor",
+    "dateAdded": "2023-12-28T00:45:03.085Z"
+  },
+  {
+    "url": "https://v0.dev/t/V4FfMupyeOE",
+    "label": "Template for prompt: 影视网站",
+    "dateAdded": "2023-12-28T00:45:03.085Z"
+  },
+  {
+    "url": "https://v0.dev/t/xMOb188QDj8",
+    "label": "Template for prompt: a profile card ui with cirlce big picture and bottom a name with background color",
+    "dateAdded": "2023-12-28T00:45:03.085Z"
+  },
+  {
+    "url": "https://v0.dev/t/xhyjlFRYYka",
+    "label": "Template for prompt: build a nextjs code with a login and a authenticated area that only can be accessed after the successful login",
+    "dateAdded": "2023-12-28T00:45:03.085Z"
+  },
+  {
+    "url": "https://v0.dev/t/VAh0RfDV1LI",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T00:45:03.085Z"
+  },
+  {
+    "url": "https://v0.dev/t/aXWg9wtBZ41",
+    "label": "Template for prompt: write me a component to showcase the average rating and the total amount of reviews ",
+    "dateAdded": "2023-12-28T00:45:03.086Z"
+  },
+  {
+    "url": "https://v0.dev/t/veR5cykgLEo",
+    "label": "Template for prompt: \nA carousel component interface is a user interface element designed to showcase a rotating set of content, typically images or other media, in a visually appealing and interactive manner. Here's a description of the carousel component interface without providing actual code:\n\nContainer:\n\nThe carousel is enclosed within a container, providing a defined space for the entire component.\nNavigation Arrows:\n\nTwo arrow icons (commonly left and right) allow users to navigate between different items in the carousel.\nIndicators:\n\nA set of small dots or other indicators below the carousel to show the total number of items and the current position within the carousel.\nContent Items:\n\nEach content item represents an individual slide within the carousel. These items can contain images, text, or multimedia elements.\nCaption/Description:\n\nOptional caption or description for each content item, providing context or additional information about the displayed content.\nAuto-play Controls:\n\nOptional play/p",
+    "dateAdded": "2023-12-28T00:45:03.086Z"
+  },
+  {
+    "url": "https://v0.dev/t/htm3e1xDWJp",
+    "label": "Template for prompt: a landing hero for cloud resources dependency and lifecycle management platform",
+    "dateAdded": "2023-12-28T00:45:03.086Z"
+  },
+  {
+    "url": "https://v0.dev/t/0anuuNCrEvc",
+    "label": "Template for prompt: A simple form to instruct an AI to generate content",
+    "dateAdded": "2023-12-28T00:45:03.086Z"
+  },
+  {
+    "url": "https://v0.dev/t/qJ6kkWfhGcG",
+    "label": "Template for prompt: Stock Market Dashboard",
+    "dateAdded": "2023-12-28T00:45:03.086Z"
+  },
+  {
+    "url": "https://v0.dev/t/l2jHsZwSrOE",
+    "label": "Template for prompt: a complete footer with address and social media informations",
+    "dateAdded": "2023-12-28T00:45:03.086Z"
   }
 ]
