@@ -25418,5 +25418,135 @@
     "url": "https://v0.dev/t/s3Y3qSbbSXQ",
     "label": "Template for prompt: create a hero section where you can send SOL token. You can input the receipient adress, the amount you want to send in USD and a send button. The program lets you spedific the usd amount, converts it in SOL and sends sol so the users doesnt need to swap in USDC and send for example",
     "dateAdded": "2023-12-28T03:35:03.426Z"
+  },
+  {
+    "url": "https://v0.dev/t/c3LwxcMGkUP",
+    "label": "Template for prompt: cryptocurrency token wallet dashboard",
+    "dateAdded": "2023-12-28T03:40:03.515Z"
+  },
+  {
+    "url": "https://v0.dev/t/5rJqj6yBHuv",
+    "label": "Template for prompt: twitter",
+    "dateAdded": "2023-12-28T03:40:03.515Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y4dX2CvS8Nf",
+    "label": "Template for prompt: 受託開発のサービスメニュー",
+    "dateAdded": "2023-12-28T03:40:03.515Z"
+  },
+  {
+    "url": "https://v0.dev/t/v5qzUhS9Naq",
+    "label": "Template for prompt: can you make custorm sales landing page for using marekting, sales",
+    "dateAdded": "2023-12-28T03:40:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/pn4Ebl2s08g",
+    "label": "Template for prompt: A page to present a project for a portfolio, with a title, image gallery where images are all the same size and a little description",
+    "dateAdded": "2023-12-28T03:40:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/NtrvI7enV4M",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-28T03:40:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/eWGe64lX547",
+    "label": "Template for prompt: a table component with data analytics for a loan application",
+    "dateAdded": "2023-12-28T03:40:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/ns4mOEY9qAt",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T03:40:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/uC6RFUqNSA0",
+    "label": "Template for prompt: iot-app-kitというライブラリを使ってtwinmaker上のシーンを取り込み3Dモデルとして表示し、dynamoDBから取得したデータをグラフ表示するようなUIを生成して",
+    "dateAdded": "2023-12-28T03:40:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/vScEWqPF9oh",
+    "label": "Template for prompt: show me tailwind code",
+    "dateAdded": "2023-12-28T03:40:03.517Z"
+  },
+  {
+    "url": "https://v0.dev/t/lxo1Rd99t2a",
+    "label": "Template for prompt: Please create an NFT minting website as shown in the picture above.",
+    "dateAdded": "2023-12-28T03:40:03.517Z"
+  },
+  {
+    "url": "https://v0.dev/t/zXuGjBFtbOb",
+    "label": "Template for prompt: admin portal",
+    "dateAdded": "2023-12-28T03:40:03.517Z"
+  },
+  {
+    "url": "https://v0.dev/t/EluY3V52G4C",
+    "label": "Template for prompt: rubik cube website",
+    "dateAdded": "2023-12-28T03:40:03.517Z"
+  },
+  {
+    "url": "https://v0.dev/t/3N8Kr3LUWzJ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T03:40:03.517Z"
+  },
+  {
+    "url": "https://v0.dev/t/2PVJzmqefCK",
+    "label": "Template for prompt: a landing page about trending data make insights",
+    "dateAdded": "2023-12-28T03:40:03.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/VMn5jFnDeuw",
+    "label": "Template for prompt: build a fully functional whatsapp clone",
+    "dateAdded": "2023-12-28T03:40:03.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/JwD6I7mx1UC",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T03:40:03.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y1dgR4o5EJK",
+    "label": "Template for prompt: how to make component async in next js 13",
+    "dateAdded": "2023-12-28T03:40:03.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/u8B6ZtR2H3T",
+    "label": "Template for prompt: very attractive for delete account with password confirmation and button, should be large width panel",
+    "dateAdded": "2023-12-28T03:40:03.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/sxE1ElH5DBB",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T03:40:03.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/sfB794ssB0w",
+    "label": "Template for prompt: JIRA 스러운 KanbanBoard",
+    "dateAdded": "2023-12-28T03:40:03.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/rxpNzLhGUqG",
+    "label": "Template for prompt: improve  <CardContent>\n        <div className=\"space-y-4\">\n          <div className=\"grid grid-cols-2 gap-4\">\n            <div className=\"space-y-2\">\n              <Label htmlFor=\"first-name\">First name</Label>\n              <Input className=\"w-full\" id=\"first-name\" placeholder=\"Enter your first name\" />\n            </div>\n            <div className=\"space-y-2\">\n              <Label htmlFor=\"last-name\">Last name</Label>\n              <Input className=\"w-full\" id=\"last-name\" placeholder=\"Enter your last name\" />\n            </div>\n          </div>\n          <div className=\"space-y-2\">\n            <Label htmlFor=\"email\">Email</Label>\n            <Input className=\"w-full\" id=\"email\" placeholder=\"Enter your email\" type=\"email\" />\n          </div>\n          <div className=\"space-y-2\">\n            <Label htmlFor=\"message\">Message</Label>\n            <Textarea className=\"min-h-[100px] w-full\" id=\"message\" placeholder=\"Enter your message\" />\n          </div>\n        </div>\n      </CardContent>",
+    "dateAdded": "2023-12-28T03:40:03.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/qgNRpn2u8wf",
+    "label": "Template for prompt: 내가보낸 사진에 있는 체크모양은 체크박스를 의미하는거고 전체적인 색감은 파스텔톤으로 다시만들어줘\n그리고 왼쪽,오른쪽은 역할이 다름으로\n오른쪽은 map API 화면으로 사용할꺼야\n왼쪽만 해주면되",
+    "dateAdded": "2023-12-28T03:40:03.519Z"
+  },
+  {
+    "url": "https://v0.dev/t/ndfiACZPZQN",
+    "label": "Template for prompt: I want to create a place where I can see the stories I created. I want the story name, story image, description up to 20 characters terminated with ..., and when I click each element go to another component with its info.",
+    "dateAdded": "2023-12-28T03:40:03.519Z"
+  },
+  {
+    "url": "https://v0.dev/t/J98F0oULtNe",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T03:40:03.519Z"
+  },
+  {
+    "url": "https://v0.dev/t/bjTsmrPKDZd",
+    "label": "Template for prompt: Table with movies",
+    "dateAdded": "2023-12-28T03:40:03.519Z"
   }
 ]
