@@ -28503,5 +28503,135 @@
     "url": "https://v0.dev/t/xcfLr46psoN",
     "label": "Template for prompt: Create a section with a #f9f9f9 background. max-w-6xl",
     "dateAdded": "2023-12-28T16:30:03.255Z"
+  },
+  {
+    "url": "https://v0.dev/t/0Xwl6RJZssS",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-28T16:35:03.573Z"
+  },
+  {
+    "url": "https://v0.dev/t/5zrS1jNk26y",
+    "label": "Template for prompt: Create slick and modern looking Service item that show below fields\n\n\"id\",\"name\",\"description\",\"active\",\"available_for\",\"industry\"",
+    "dateAdded": "2023-12-28T16:35:03.573Z"
+  },
+  {
+    "url": "https://v0.dev/t/6SS11Mpdd7Q",
+    "label": "Template for prompt: Give me code for the in Google when we login a Gmail it will open that give me code for that",
+    "dateAdded": "2023-12-28T16:35:03.574Z"
+  },
+  {
+    "url": "https://v0.dev/t/zZ4efw6rSmR",
+    "label": "Template for prompt: a humburger dropdown menu for a the mobile sized view in a browser that contain the folowinf items : entrepreneurs page , ivestors page , login, signup , contact page ",
+    "dateAdded": "2023-12-28T16:35:03.574Z"
+  },
+  {
+    "url": "https://v0.dev/t/XzU1KrG6q8E",
+    "label": "Template for prompt: a user profile page like github",
+    "dateAdded": "2023-12-28T16:35:03.574Z"
+  },
+  {
+    "url": "https://v0.dev/t/rijFQms1LGg",
+    "label": "Template for prompt: criar uma tela com varios cards que representão categorias  para um portal de transparencia e informações",
+    "dateAdded": "2023-12-28T16:35:03.574Z"
+  },
+  {
+    "url": "https://v0.dev/t/jCuWCwtsZqD",
+    "label": "Template for prompt: a tv screen dashboard for quiz games to show the scores of all players, and the player's answers to the current round",
+    "dateAdded": "2023-12-28T16:35:03.575Z"
+  },
+  {
+    "url": "https://v0.dev/t/LKS5WNOiWFw",
+    "label": "Template for prompt: a chatbot where you can uplaoad images an messages",
+    "dateAdded": "2023-12-28T16:35:03.575Z"
+  },
+  {
+    "url": "https://v0.dev/t/MetdGXI4dA7",
+    "label": "Template for prompt: Ecommerce Dashboard",
+    "dateAdded": "2023-12-28T16:35:03.575Z"
+  },
+  {
+    "url": "https://v0.dev/t/9hMg4QHm4Pq",
+    "label": "Template for prompt: user can click on button on right top top create session on click a popup will appear to ask the info after that grid like card will appear",
+    "dateAdded": "2023-12-28T16:35:03.575Z"
+  },
+  {
+    "url": "https://v0.dev/t/A17bOYAheZG",
+    "label": "Template for prompt: A priority widget, the head is a selector and the content is the level ",
+    "dateAdded": "2023-12-28T16:35:03.576Z"
+  },
+  {
+    "url": "https://v0.dev/t/sV5Dl8Zcyij",
+    "label": "Template for prompt: Sleek, minimalist, futuristic, unique landing page for a deep tech venture capital fund. It should be a single page with no scrolling required: dense and minimalistic. A simple header with a couple of paragraphs in description.",
+    "dateAdded": "2023-12-28T16:35:03.576Z"
+  },
+  {
+    "url": "https://v0.dev/t/cOJmNAeOlmy",
+    "label": "Template for prompt: learning to type fast web application",
+    "dateAdded": "2023-12-28T16:35:03.576Z"
+  },
+  {
+    "url": "https://v0.dev/t/4Iv3eyFC0Xf",
+    "label": "Template for prompt: interface for an ecommerce of phones",
+    "dateAdded": "2023-12-28T16:35:03.576Z"
+  },
+  {
+    "url": "https://v0.dev/t/j1gAj1T8dM2",
+    "label": "Template for prompt: winsock",
+    "dateAdded": "2023-12-28T16:35:03.576Z"
+  },
+  {
+    "url": "https://v0.dev/t/IbuaZdlFLST",
+    "label": "Template for prompt: Dynamic In-App Editing:\nIntuitive Interface:\nDrag and Drop to Change Time or Date:\n\nAllow users to drag and drop an activity to a new time or date directly in the daily or weekly view.\nDuration Change with Click and Drag:\n\nFacilitate modifying the duration of an activity by clicking on its edges and visually adjusting its extension.\nDouble Click for Quick Editing:\n\nDouble-clicking on an activity activates a quick editing mode where essential fields (title, description, priority) become editable inline.\nContextual Menus for Detailed Editing:\n\nRight-clicking on an activity displays a contextual menu allowing more detailed edits, such as changing the date, time, or priority.\nIn-Line Editing:\n\nDisplay editing controls (such as text boxes) directly in the interface to modify specific activity information without changing views.\nHighlighting in Editing Mode:\n\nVisually highlight the activity in editing mode to clearly indicate which activity is being modified.\nClear Visualization with Dynamic",
+    "dateAdded": "2023-12-28T16:35:03.576Z"
+  },
+  {
+    "url": "https://v0.dev/t/COOiyhI3hSF",
+    "label": "Template for prompt: I want to make sure that this ER diagram is fitted in an A4 paper. Recreate the image  to accomodate it in a A4 paper. try to maintain the aspect ratio. Do not change the contents of original picture",
+    "dateAdded": "2023-12-28T16:35:03.576Z"
+  },
+  {
+    "url": "https://v0.dev/t/G87nEsAga8S",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T16:35:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/D4HqTb1orI9",
+    "label": "Template for prompt: A list of product categories with image, name and description.An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-28T16:35:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/t6HCVImJWi1",
+    "label": "Template for prompt: crypto coins calculator interface, include supply, marketcap, volume, buy price and current price",
+    "dateAdded": "2023-12-28T16:35:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/PO8w1RuzVei",
+    "label": "Template for prompt: a page with list of items, a header with page name and a button to add new item on top",
+    "dateAdded": "2023-12-28T16:35:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/R8Ve7vuJ0lF",
+    "label": "Template for prompt: Create a landing page for a non-profit organization using Tailwind CSS and React. The page should feature a responsive design with a navbar that includes 'Home', 'About Us', 'Work', and 'Contact Us' sections. Implement a hamburger menu for the navbar to maintain functionality on smaller screens.\n\nIncorporate carousels to showcase the NGO's impactful work, highlighting different categories such as 'Education', 'Healthcare', 'Environmental Initiatives', and 'Community Development'. Ensure these carousels are interactive and visually appealing to engage visitors.\n\nUtilize React components to build a dynamic landing page that not only displays the mission and vision of the NGO but also integrates multimedia elements, including images and videos, to effectively communicate the organization's initiatives and success stories.\n\nRemember to focus on user experience by making the website easy to navigate and visually compelling across various devices, ensuring seamless functionality and a clear ",
+    "dateAdded": "2023-12-28T16:35:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/a9wrdyu6XJS",
+    "label": "Template for prompt: I want this Schema diagram nice and clean",
+    "dateAdded": "2023-12-28T16:35:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/KnqIIjpwekI",
+    "label": "Template for prompt: a search bar with a dropdown of different categories to search by with a grid of results below. The user can select a category, enter search criteria in the box, and a tag for that filter will be aded between the search bar and the result grid",
+    "dateAdded": "2023-12-28T16:35:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/tLKzE5nkI50",
+    "label": "Template for prompt: drop zone file upload",
+    "dateAdded": "2023-12-28T16:35:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/2mwqUjzFGbK",
+    "label": "Template for prompt: I need a image galery with a white border and a dark background. the images should be vertical aligned and a little bit rotated.",
+    "dateAdded": "2023-12-28T16:35:03.578Z"
   }
 ]
