@@ -36343,5 +36343,135 @@
     "url": "https://v0.dev/t/A58Ne6i3rWb",
     "label": "Template for prompt: wordle",
     "dateAdded": "2023-12-28T21:40:03.062Z"
+  },
+  {
+    "url": "https://v0.dev/t/bqoRIgqWm3Q",
+    "label": "Template for prompt: a minimalist weather app template  ",
+    "dateAdded": "2023-12-28T21:45:03.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/STVqNj7nvf6",
+    "label": "Template for prompt: I will create a frontend that I will send an image to the frontend and will return another image, that must have a place\nto upload an image in jpg, tiff or png, and will return a jpg with marked values on it.\nThe api is already running in fastapi in this backend and is being processed like this:\n\n#### testing Fastapi\n\nimport requests\n\nurl = \"http://localhost:8000/process-image/\"  # URL of your FastAPI endpoint\nfile_path = '/treetoptracker/backend/uvicorn/notebooks/modelo_paragominas.tif'  # Path to your test image\n\nfiles = {'file': open(file_path, 'rb')}  # Open the file in binary read mode\n\nresponse = requests.post(url, files=files)  # Send the POST request\n\nif response.status_code == 200:\n    with open(\"output_image.jpg\", \"wb\") as f:\n        f.write(response.content)  # Write the content to a new file\n    print(\"Image processed and saved as output_image.jpg\")\nelse:\n    print(f\"Error: {response.status_code}\")  # Print any errors\n\n\nCan you do the frontend to that?",
+    "dateAdded": "2023-12-28T21:45:03.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/Avq61jiGCAg",
+    "label": "Template for prompt: a toast",
+    "dateAdded": "2023-12-28T21:45:03.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/tHkqItZbrCC",
+    "label": "Template for prompt: make a date picker like this",
+    "dateAdded": "2023-12-28T21:45:03.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/eBHGVuhdcQZ",
+    "label": "Template for prompt: very lofi but stylish hacker-ish chat application",
+    "dateAdded": "2023-12-28T21:45:03.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/A8NsaV18lkV",
+    "label": "Template for prompt: a \"trused by\" section",
+    "dateAdded": "2023-12-28T21:45:03.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/VeHgnJq4nEv",
+    "label": "Template for prompt: a note component ",
+    "dateAdded": "2023-12-28T21:45:03.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/NU52QRyK8et",
+    "label": "Template for prompt: Starting page for a blackjack game",
+    "dateAdded": "2023-12-28T21:45:03.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/4i5r7cweCx8",
+    "label": "Template for prompt: A simple voice recorder UI",
+    "dateAdded": "2023-12-28T21:45:03.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/z4HBweUt1MV",
+    "label": "Template for prompt: build a funiture store called WooWork it is an online store that sells wooden funiture like Chairs, tables, Tv stands, morden bedroom suits and small accecories. Also include a demo payment methods and address",
+    "dateAdded": "2023-12-28T21:45:03.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/ed5Cx2UcZJn",
+    "label": "Template for prompt: Search for or add an existing domain name. Free if you upgrade to an annual plan",
+    "dateAdded": "2023-12-28T21:45:03.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/zOasQxHa4hq",
+    "label": "Template for prompt: a feature discovery page, header with logo and company name left=aligned on the top of the page, dark mode",
+    "dateAdded": "2023-12-28T21:45:03.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/KAxXiovNfNh",
+    "label": "Template for prompt: improve the design and make it slicker",
+    "dateAdded": "2023-12-28T21:45:03.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/1zreC1Fj83W",
+    "label": "Template for prompt: A landing page for a website called exchanger that let users exchange web traffic.",
+    "dateAdded": "2023-12-28T21:45:03.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/epSNjveUg7T",
+    "label": "Template for prompt: just a button",
+    "dateAdded": "2023-12-28T21:45:03.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/HbcCDZK4FAf",
+    "label": "Template for prompt: Make it the same as the image I gave you",
+    "dateAdded": "2023-12-28T21:45:03.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/cSQcOLmzySn",
+    "label": "Template for prompt: a simple game selection screen, that is mobile friendly, and uses shacdn",
+    "dateAdded": "2023-12-28T21:45:03.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/l6HtZEVuHUm",
+    "label": "Template for prompt: something like this",
+    "dateAdded": "2023-12-28T21:45:03.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/7ZOSFJq671u",
+    "label": "Template for prompt: chart like this but for stock transactions. include details in columns like description, symbol, transaction date, quantity and price",
+    "dateAdded": "2023-12-28T21:45:03.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/wYhaHvTubgA",
+    "label": "Template for prompt: a minimalist product page template",
+    "dateAdded": "2023-12-28T21:45:03.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/cBC1tMjxNLY",
+    "label": "Template for prompt: a livechat widget that popup in the corner of a webpage",
+    "dateAdded": "2023-12-28T21:45:03.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/9POMhiDneVg",
+    "label": "Template for prompt: creat a store for app ,game and books",
+    "dateAdded": "2023-12-28T21:45:03.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/rFPlLFkz0P0",
+    "label": "Template for prompt: Please recreate this booking section of a Car Rental Site. Please include multiple mock reviews in the bottom section",
+    "dateAdded": "2023-12-28T21:45:03.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/OlHYiXo0yUg",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T21:45:03.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/otqYFKUTi9H",
+    "label": "Template for prompt: create clone  of the website in the picture.and use black and white theme,and use mrdern desin.it does not have to be the same as the one at the pic.just take somethins there",
+    "dateAdded": "2023-12-28T21:45:03.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/vNKbcdYM3aK",
+    "label": "Template for prompt: a paginated table with song details in the rows",
+    "dateAdded": "2023-12-28T21:45:03.501Z"
   }
 ]
