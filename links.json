@@ -35838,5 +35838,135 @@
     "url": "https://v0.dev/t/aqoSEkGtn9g",
     "label": "Template for prompt: formulario de registro con correo gmail o otras opciones",
     "dateAdded": "2023-12-28T21:20:03.003Z"
+  },
+  {
+    "url": "https://v0.dev/t/vvUgPsfGSLw",
+    "label": "Template for prompt: i need a subscribe confirmation screen ",
+    "dateAdded": "2023-12-28T21:25:03.334Z"
+  },
+  {
+    "url": "https://v0.dev/t/JmwuCbmO3Mc",
+    "label": "Template for prompt: make a otter logo",
+    "dateAdded": "2023-12-28T21:25:03.334Z"
+  },
+  {
+    "url": "https://v0.dev/t/NHCjtJtYKdk",
+    "label": "Template for prompt: Make the line system better ui/ux",
+    "dateAdded": "2023-12-28T21:25:03.335Z"
+  },
+  {
+    "url": "https://v0.dev/t/N5m7LX9WNt8",
+    "label": "Template for prompt: A security page for a banking application that includes sections for managing passwords, activity history, two factor authentication, remembered devices, and other relevant settings.",
+    "dateAdded": "2023-12-28T21:25:03.335Z"
+  },
+  {
+    "url": "https://v0.dev/t/6ycY2QFwgVE",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T21:25:03.335Z"
+  },
+  {
+    "url": "https://v0.dev/t/uuWApfRPnts",
+    "label": "Template for prompt: Make the exact same background with orange color.",
+    "dateAdded": "2023-12-28T21:25:03.335Z"
+  },
+  {
+    "url": "https://v0.dev/t/TEpGECCDNSM",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T21:25:03.335Z"
+  },
+  {
+    "url": "https://v0.dev/t/DMXgzzgvaYB",
+    "label": "Template for prompt: a timeline of events you have contacted with a person in a personal relationship manager",
+    "dateAdded": "2023-12-28T21:25:03.336Z"
+  },
+  {
+    "url": "https://v0.dev/t/QLIOXDDQ25L",
+    "label": "Template for prompt: build a contact menu using next js and tailwind",
+    "dateAdded": "2023-12-28T21:25:03.336Z"
+  },
+  {
+    "url": "https://v0.dev/t/Rh4W1HLVYRn",
+    "label": "Template for prompt: create a spinner loading state after a button is clicked",
+    "dateAdded": "2023-12-28T21:25:03.336Z"
+  },
+  {
+    "url": "https://v0.dev/t/P7DrKNVIwXD",
+    "label": "Template for prompt: a photographer portfolio fresh, colorful and modern",
+    "dateAdded": "2023-12-28T21:25:03.336Z"
+  },
+  {
+    "url": "https://v0.dev/t/dRX0uQQklVI",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-28T21:25:03.336Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZXziCa1trXl",
+    "label": "Template for prompt: A game selection screen",
+    "dateAdded": "2023-12-28T21:25:03.337Z"
+  },
+  {
+    "url": "https://v0.dev/t/X5XpDq9lbWY",
+    "label": "Template for prompt: A login/register modal that appears on button click from the navbar. Please tab the login and register forms ",
+    "dateAdded": "2023-12-28T21:25:03.337Z"
+  },
+  {
+    "url": "https://v0.dev/t/w4xdjP8TVB0",
+    "label": "Template for prompt: create a hero section for a medical app that will gather data and using ai evaluate users health",
+    "dateAdded": "2023-12-28T21:25:03.337Z"
+  },
+  {
+    "url": "https://v0.dev/t/Poylh7nF03r",
+    "label": "Template for prompt: A sleek react-dropzone import page with a drag-and-drop input and a import button and an progress/loading indicator",
+    "dateAdded": "2023-12-28T21:25:03.337Z"
+  },
+  {
+    "url": "https://v0.dev/t/HhqtJ0ialoE",
+    "label": "Template for prompt: a landing page",
+    "dateAdded": "2023-12-28T21:25:03.337Z"
+  },
+  {
+    "url": "https://v0.dev/t/FP8zDCzybPY",
+    "label": "Template for prompt: A gallery display of local events showing the title, date and time, and city. It should respond to different screen sizes.",
+    "dateAdded": "2023-12-28T21:25:03.338Z"
+  },
+  {
+    "url": "https://v0.dev/t/NZfZRvOpCL2",
+    "label": "Template for prompt: an animated checkbox",
+    "dateAdded": "2023-12-28T21:25:03.338Z"
+  },
+  {
+    "url": "https://v0.dev/t/ye0df2vafdK",
+    "label": "Template for prompt: medusajs like sidemenu",
+    "dateAdded": "2023-12-28T21:25:03.338Z"
+  },
+  {
+    "url": "https://v0.dev/t/OpJvkIyXoyn",
+    "label": "Template for prompt: Create an iOS-style store locator interface with a full-screen map display. Include a bottom sheet overlay with two buttons: a prominent one for enabling geolocation labeled \"Share location\" and a secondary for initiating a search, labeled \"Search\". At the bottom, incorporate a tab bar with four generic icons and label them: \"Home\", \"Discover\", \"Shopping Bag\", and \"More\" options, where the last tab has active state indication.",
+    "dateAdded": "2023-12-28T21:25:03.338Z"
+  },
+  {
+    "url": "https://v0.dev/t/BL3ajqq096L",
+    "label": "Template for prompt: A landing page",
+    "dateAdded": "2023-12-28T21:25:03.338Z"
+  },
+  {
+    "url": "https://v0.dev/t/bMoZsQek1KO",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-28T21:25:03.338Z"
+  },
+  {
+    "url": "https://v0.dev/t/dnSYz8DAq10",
+    "label": "Template for prompt: a toast notification",
+    "dateAdded": "2023-12-28T21:25:03.339Z"
+  },
+  {
+    "url": "https://v0.dev/t/y5tzm3CXFBW",
+    "label": "Template for prompt: a modal to confirm age",
+    "dateAdded": "2023-12-28T21:25:03.339Z"
+  },
+  {
+    "url": "https://v0.dev/t/WADJv7QmtiG",
+    "label": "Template for prompt: black and white timeline event cards for stock purchase alerts, challenge completed by a user, stock trade performed (with a gain/loss on sell transactions).\n\nno charts",
+    "dateAdded": "2023-12-28T21:25:03.339Z"
   }
 ]
