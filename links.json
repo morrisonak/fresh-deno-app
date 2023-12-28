@@ -35078,5 +35078,130 @@
     "url": "https://v0.dev/t/0hHmVXmpoXY",
     "label": "Template for prompt: spotify App UI clone",
     "dateAdded": "2023-12-28T20:50:03.146Z"
+  },
+  {
+    "url": "https://v0.dev/t/ndxuYa09PLV",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T20:55:03.053Z"
+  },
+  {
+    "url": "https://v0.dev/t/OBAPjGHFlbI",
+    "label": "Template for prompt: build me an alert component that shows in case of an error.",
+    "dateAdded": "2023-12-28T20:55:03.053Z"
+  },
+  {
+    "url": "https://v0.dev/t/510jbMwO1ra",
+    "label": "Template for prompt: fullpage card with title",
+    "dateAdded": "2023-12-28T20:55:03.053Z"
+  },
+  {
+    "url": "https://v0.dev/t/udg1riMljHd",
+    "label": "Template for prompt: Feature Specifications:\nAuthentication:User login and registration.\nIntegration with Supabase authentication.\nOrganization Creation:Interface for creating and managing organizations.\nPermission management for different roles.\nService Creation: Ability to create and define various survey types.\nCustomization options for surveys.\nSurvey Management: Creation of survey cycles, setting start and expiration dates.\nGeneration of unique survey URLs.\nTagging system for survey categorization.\nRespondent Management: Interface for adding and managing survey respondents.\nTracking respondent participation and responses.\nTeam Collaboration: Feature for adding and managing team members.\nRole-based access control.\nNavigation/Menu Bar: User-friendly navigation throughout the application.\nClearly labeled sections and features.\nUI Components: Implementation of tooltips for guidance.\nData tables for displaying information.\nUsage of a “Sonner” component for loading states.\n",
+    "dateAdded": "2023-12-28T20:55:03.053Z"
+  },
+  {
+    "url": "https://v0.dev/t/55DtuA61NWa",
+    "label": "Template for prompt: Coffee tracker app",
+    "dateAdded": "2023-12-28T20:55:03.053Z"
+  },
+  {
+    "url": "https://v0.dev/t/emtHXurKL6S",
+    "label": "Template for prompt: fullwidth card",
+    "dateAdded": "2023-12-28T20:55:03.054Z"
+  },
+  {
+    "url": "https://v0.dev/t/d4RXuFFrzso",
+    "label": "Template for prompt: •\tUn jeune chanteur herbe souhaite mettre en œuvre une plateforme digitale d’E-commerce. L’artiste SAKE DINA souhaite vendre diverses chansons à travers une application web ainsi que via une application mobile ;\n•\tL’application web sera utilisé pour enregistrer, modifier, supprimer une chanson de l’artiste. Une chanson est représenté par : titre de la chanson, le nom de l’artiste, la date ou l’année de sortie, lyrics, l’url de la chanson (Ex. http://127.0.0.1/assets/medias/songs.mp3) ;\n•\tLa plateforme devra également fourni des services web (APIs) permettant de gérer les chansons de l’artiste SAKE ;\n•\tL’application mobile quant à elle pourra consulter la liste des chansons et rechercher une chanson à partir du titre. Elle permettra à l’utilisateur de consulter le lyrics d’une chanson et jouer un extrait d’une chanson. Chaque élément de la liste devra contenir une pochette de l’album, le titre de la chanson, le nom de l’artiste ainsi qu’un bouton « Play » afin d’écouter l’extrait de la ",
+    "dateAdded": "2023-12-28T20:55:03.054Z"
+  },
+  {
+    "url": "https://v0.dev/t/wCxsg2IcH27",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T20:55:03.054Z"
+  },
+  {
+    "url": "https://v0.dev/t/XWRVyRsqVcK",
+    "label": "Template for prompt: like this emage but with this command instead :sudo apt-get install -y mongodb-org\n",
+    "dateAdded": "2023-12-28T20:55:03.054Z"
+  },
+  {
+    "url": "https://v0.dev/t/VgKTnjk8nHq",
+    "label": "Template for prompt: login page",
+    "dateAdded": "2023-12-28T20:55:03.054Z"
+  },
+  {
+    "url": "https://v0.dev/t/WBVKHqG5QKh",
+    "label": "Template for prompt: like this emage but with this command instead :sudo apt-get install -y mongodb-org\n",
+    "dateAdded": "2023-12-28T20:55:03.054Z"
+  },
+  {
+    "url": "https://v0.dev/t/SqU8H5cYZAe",
+    "label": "Template for prompt: create a interface for getting general contractor estimates. The estimate will have some question on the left side. The right side will have the contractor information and the estitmate.",
+    "dateAdded": "2023-12-28T20:55:03.054Z"
+  },
+  {
+    "url": "https://v0.dev/t/bb5cXNnrijS",
+    "label": "Template for prompt: user navbar with two pages, medical input and user profile",
+    "dateAdded": "2023-12-28T20:55:03.055Z"
+  },
+  {
+    "url": "https://v0.dev/t/8qMwHCKKp0v",
+    "label": "Template for prompt: replicate this with a green background",
+    "dateAdded": "2023-12-28T20:55:03.055Z"
+  },
+  {
+    "url": "https://v0.dev/t/OSDk147Wtve",
+    "label": "Template for prompt: make a hacking themed website for a student chapter of OWASP. Make sure to include a section for the team members in hierarchy.",
+    "dateAdded": "2023-12-28T20:55:03.055Z"
+  },
+  {
+    "url": "https://v0.dev/t/HQccmI4Jdei",
+    "label": "Template for prompt: make a hacking themed website for a student chapter of OWASP. Make sure to include a section for the team members in hierarchy.",
+    "dateAdded": "2023-12-28T20:55:03.055Z"
+  },
+  {
+    "url": "https://v0.dev/t/I1TMGnGv87c",
+    "label": "Template for prompt: make a success website for a successfull transaction",
+    "dateAdded": "2023-12-28T20:55:03.055Z"
+  },
+  {
+    "url": "https://v0.dev/t/3N9V9IkKoBx",
+    "label": "Template for prompt: merchant onboarding wizard",
+    "dateAdded": "2023-12-28T20:55:03.055Z"
+  },
+  {
+    "url": "https://v0.dev/t/2ExYJxu4xbk",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T20:55:03.055Z"
+  },
+  {
+    "url": "https://v0.dev/t/r8GEDNuNir7",
+    "label": "Template for prompt: A demo of forex trading website like stockity",
+    "dateAdded": "2023-12-28T20:55:03.055Z"
+  },
+  {
+    "url": "https://v0.dev/t/72j29wmIrrS",
+    "label": "Template for prompt: Landing page for a web app that generates descriptive captions for images",
+    "dateAdded": "2023-12-28T20:55:03.055Z"
+  },
+  {
+    "url": "https://v0.dev/t/EGwfS74Rgqk",
+    "label": "Template for prompt: I want these options to be multiple selected options. The options should be turned to black color when clicked and initially it will be text-light. It should be toggled on click",
+    "dateAdded": "2023-12-28T20:55:03.056Z"
+  },
+  {
+    "url": "https://v0.dev/t/t55IsrlMT9m",
+    "label": "Template for prompt: Generate an schedule component which shows how many days/hours of the week someone is available and mark red the days they aren't available.",
+    "dateAdded": "2023-12-28T20:55:03.056Z"
+  },
+  {
+    "url": "https://v0.dev/t/UzKlYVlAbA0",
+    "label": "Template for prompt: accordion that opens/closes with icon up and down",
+    "dateAdded": "2023-12-28T20:55:03.056Z"
+  },
+  {
+    "url": "https://v0.dev/t/H64BRofP3CY",
+    "label": "Template for prompt: orders",
+    "dateAdded": "2023-12-28T20:55:03.056Z"
   }
 ]
