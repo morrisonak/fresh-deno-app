@@ -28248,5 +28248,130 @@
     "url": "https://v0.dev/t/tMYWLdRvyrc",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2023-12-28T16:20:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/iXKbiTFqOdI",
+    "label": "Template for prompt: character customisation screen for a card game",
+    "dateAdded": "2023-12-28T16:25:03.527Z"
+  },
+  {
+    "url": "https://v0.dev/t/J1mvEA6jI1U",
+    "label": "Template for prompt: admin dashboard",
+    "dateAdded": "2023-12-28T16:25:03.527Z"
+  },
+  {
+    "url": "https://v0.dev/t/5SEOTJzSrGD",
+    "label": "Template for prompt: A minecraft server list web page that show the status of the server including the player avatars online",
+    "dateAdded": "2023-12-28T16:25:03.527Z"
+  },
+  {
+    "url": "https://v0.dev/t/C7ec6YMde3f",
+    "label": "Template for prompt: This is the landing page for a website where you can submit proposals to create projects, improve this landing page maintaining the colors, logo and style but add a banner, introduction or tagline to let users know what the website is about",
+    "dateAdded": "2023-12-28T16:25:03.527Z"
+  },
+  {
+    "url": "https://v0.dev/t/OfUysd2Lv02",
+    "label": "Template for prompt: a box which shows username,plan,token",
+    "dateAdded": "2023-12-28T16:25:03.527Z"
+  },
+  {
+    "url": "https://v0.dev/t/xcfLr46psoN",
+    "label": "Template for prompt: Create a section with a #f9f9f9 background. max-w-6xl",
+    "dateAdded": "2023-12-28T16:25:03.527Z"
+  },
+  {
+    "url": "https://v0.dev/t/YgceUtuKahg",
+    "label": "Template for prompt: Here are some additional elements you might consider:\n\nActivity Details with In-App Editing:\nIntegrated Details View:\nEditing Mode:\n\nWhen clicking on an event, switch to an editing mode directly within the main interface instead of opening a pop-up window.\nEditable Fields:\n\nMake title, description, date, time, and priority fields directly editable by clicking on them.\nSave Changes Button:\n\nInclude a \"Save\" button to confirm the changes made to the activity.\nCancel Editing Button:\n\nProvide a \"Cancel\" button to revert changes and exit editing mode without applying modifications.\nDirect Deletion:\n\nIntegrate a deletion button next to the activity in editing mode to allow direct removal.\nClear Visualization with In-App Editing:\nDynamic Interface:\nVisual Highlight in Editing Mode:\n\nChange the background color or somehow highlight the activity in editing mode to clearly indicate that it is being modified.\nReal-time Indicators:\n\nUpdate in real-time the changes made to the activity so users ins",
+    "dateAdded": "2023-12-28T16:25:03.528Z"
+  },
+  {
+    "url": "https://v0.dev/t/VZxN0B2nVtp",
+    "label": "Template for prompt: A calendar with weekly view of 8 columns 1st representing the \"time\" and other 7 the days of the week and 24 rows each representing the hours of the day.",
+    "dateAdded": "2023-12-28T16:25:03.528Z"
+  },
+  {
+    "url": "https://v0.dev/t/XoPpspHzCSc",
+    "label": "Template for prompt: a placeholder for a pdf document selected\ninclude a button to remove it",
+    "dateAdded": "2023-12-28T16:25:03.528Z"
+  },
+  {
+    "url": "https://v0.dev/t/f7CkDvHmlQE",
+    "label": "Template for prompt: A searchable autocompmlete component where the options come from an API call",
+    "dateAdded": "2023-12-28T16:25:03.528Z"
+  },
+  {
+    "url": "https://v0.dev/t/5eCkvEhrN8X",
+    "label": "Template for prompt: movie book evaluate application modern UI Design",
+    "dateAdded": "2023-12-28T16:25:03.528Z"
+  },
+  {
+    "url": "https://v0.dev/t/511uZIk1Irr",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T16:25:03.528Z"
+  },
+  {
+    "url": "https://v0.dev/t/u4na7BmJsRG",
+    "label": "Template for prompt: a saas admin dashboard",
+    "dateAdded": "2023-12-28T16:25:03.528Z"
+  },
+  {
+    "url": "https://v0.dev/t/wLVUGvD0TOk",
+    "label": "Template for prompt: A form with numeric, email, price, image, textarea, combobox, select, radio, fields",
+    "dateAdded": "2023-12-28T16:25:03.528Z"
+  },
+  {
+    "url": "https://v0.dev/t/tSWvwxSh4Dg",
+    "label": "Template for prompt: A game user profile.",
+    "dateAdded": "2023-12-28T16:25:03.529Z"
+  },
+  {
+    "url": "https://v0.dev/t/3EVaJIZxYVp",
+    "label": "Template for prompt:  Improve the devtools section and cards",
+    "dateAdded": "2023-12-28T16:25:03.529Z"
+  },
+  {
+    "url": "https://v0.dev/t/o8NiAJDeHXu",
+    "label": "Template for prompt: create a landing page for a cuban coffee restaurant. Feel free to create your own SVG image to utilize. ",
+    "dateAdded": "2023-12-28T16:25:03.529Z"
+  },
+  {
+    "url": "https://v0.dev/t/I8P4znjvWqj",
+    "label": "Template for prompt: A chat application",
+    "dateAdded": "2023-12-28T16:25:03.529Z"
+  },
+  {
+    "url": "https://v0.dev/t/c2Tn11GU06i",
+    "label": "Template for prompt: A login form with Zod and React Hook Form, the form should be username and password input",
+    "dateAdded": "2023-12-28T16:25:03.529Z"
+  },
+  {
+    "url": "https://v0.dev/t/YCGB190xVRo",
+    "label": "Template for prompt: A search bar",
+    "dateAdded": "2023-12-28T16:25:03.529Z"
+  },
+  {
+    "url": "https://v0.dev/t/TqUSYIkX4ED",
+    "label": "Template for prompt: A table where if I click a row a div appears right below it",
+    "dateAdded": "2023-12-28T16:25:03.529Z"
+  },
+  {
+    "url": "https://v0.dev/t/xRkRcK0MtS3",
+    "label": "Template for prompt: A table where if I click a row a div appears right below it",
+    "dateAdded": "2023-12-28T16:25:03.530Z"
+  },
+  {
+    "url": "https://v0.dev/t/NFigDkvKFMu",
+    "label": "Template for prompt: A Carousel page to display movies, the carasoul should look eyes pleasing and cover the whole page width-wise also add buttons and texts inside the Carousel ",
+    "dateAdded": "2023-12-28T16:25:03.530Z"
+  },
+  {
+    "url": "https://v0.dev/t/fvvrvUFFHDm",
+    "label": "Template for prompt: A landing page for a dating app for dogs",
+    "dateAdded": "2023-12-28T16:25:03.530Z"
+  },
+  {
+    "url": "https://v0.dev/t/yubfcXGi9wd",
+    "label": "Template for prompt: blog",
+    "dateAdded": "2023-12-28T16:25:03.530Z"
   }
 ]
