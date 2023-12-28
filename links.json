@@ -34333,5 +34333,125 @@
     "url": "https://v0.dev/t/QN9CUV7W2jf",
     "label": "Template for prompt: file upload dropzone",
     "dateAdded": "2023-12-28T20:20:08.001Z"
+  },
+  {
+    "url": "https://v0.dev/t/9vSlClDHP6u",
+    "label": "Template for prompt: a dao dapp with staking",
+    "dateAdded": "2023-12-28T20:25:03.336Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qa4Za5dRjyd",
+    "label": "Template for prompt: Create a generic error scren component. Use the following props: title, description, primaryCta, secondaryCta. the component should also have a illustrations/icon",
+    "dateAdded": "2023-12-28T20:25:03.336Z"
+  },
+  {
+    "url": "https://v0.dev/t/f3cmsVnAAGb",
+    "label": "Template for prompt: 404 screen",
+    "dateAdded": "2023-12-28T20:25:03.336Z"
+  },
+  {
+    "url": "https://v0.dev/t/z7o6uXYMWTx",
+    "label": "Template for prompt: I'm using the react-flow library, but you can implement your own approach for the visual workflow editor. I'd like to add, edit steps. Each step should have some representations usefull for users, so maybe type of the step, it's name and description. Clicking on the step should reveal it's details.",
+    "dateAdded": "2023-12-28T20:25:03.337Z"
+  },
+  {
+    "url": "https://v0.dev/t/YxFLAiJjop1",
+    "label": "Template for prompt: In Laravel and using Vue, I want to have a col-md-8 box that contains a component and displays products horizontally from left to right and moves in this rectangular box like an html marquee.\nCreate the product-slider component in such a way that it receives product information from the database through API, then write an api system and create tables and models as well.",
+    "dateAdded": "2023-12-28T20:25:03.337Z"
+  },
+  {
+    "url": "https://v0.dev/t/KyoxVArsvOS",
+    "label": "Template for prompt:  hero section of an ai tool extension for clipping videos named matica",
+    "dateAdded": "2023-12-28T20:25:03.337Z"
+  },
+  {
+    "url": "https://v0.dev/t/ju44ppzjK4p",
+    "label": "Template for prompt: Form to submit information about animals. ",
+    "dateAdded": "2023-12-28T20:25:03.337Z"
+  },
+  {
+    "url": "https://v0.dev/t/zaWYNURgTi2",
+    "label": "Template for prompt: The menu of an community website named Creators Space. ",
+    "dateAdded": "2023-12-28T20:25:03.338Z"
+  },
+  {
+    "url": "https://v0.dev/t/1DecATwehuE",
+    "label": "Template for prompt: A landing page hero section for an organic salon",
+    "dateAdded": "2023-12-28T20:25:03.338Z"
+  },
+  {
+    "url": "https://v0.dev/t/TzncdVeXkAf",
+    "label": "Template for prompt: i need a design where have a title, two buttons where say remove and add in the middle a text, another two buttons same like first and the text same, need a text and a button where say add module three times, last one need a text where say the total in big",
+    "dateAdded": "2023-12-28T20:25:03.338Z"
+  },
+  {
+    "url": "https://v0.dev/t/lyai1JGr0mY",
+    "label": "Template for prompt: generic error component",
+    "dateAdded": "2023-12-28T20:25:03.338Z"
+  },
+  {
+    "url": "https://v0.dev/t/A5gehvs6wj5",
+    "label": "Template for prompt: product list on grid with bootstrap",
+    "dateAdded": "2023-12-28T20:25:03.338Z"
+  },
+  {
+    "url": "https://v0.dev/t/nM1rOmOXaho",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T20:25:03.339Z"
+  },
+  {
+    "url": "https://v0.dev/t/xCJ1IoEqQF3",
+    "label": "Template for prompt: Improve it",
+    "dateAdded": "2023-12-28T20:25:03.339Z"
+  },
+  {
+    "url": "https://v0.dev/t/FRjEe5L9fz8",
+    "label": "Template for prompt: I need a form component to be used for object creation. It should have an ADD PROPERTY button, when user clicks on it two text fields should appear name and value. In name property user can enter property in object path format e.g. user.name or database.password and in value he can enter any string. So later based on this form we will create/update an object using lodash get,set,unset methods. I want to validate that the property name has the appropriate format.",
+    "dateAdded": "2023-12-28T20:25:03.339Z"
+  },
+  {
+    "url": "https://v0.dev/t/2qLrAJq5tnG",
+    "label": "Template for prompt: Login form with email and password, Google and apple sign in options",
+    "dateAdded": "2023-12-28T20:25:03.339Z"
+  },
+  {
+    "url": "https://v0.dev/t/4CkGD3rVehs",
+    "label": "Template for prompt: Home page hero section",
+    "dateAdded": "2023-12-28T20:25:03.339Z"
+  },
+  {
+    "url": "https://v0.dev/t/gt91ZlsjrN9",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T20:25:03.340Z"
+  },
+  {
+    "url": "https://v0.dev/t/IulVrQhpVBB",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-28T20:25:03.340Z"
+  },
+  {
+    "url": "https://v0.dev/t/t9l1x62h06o",
+    "label": "Template for prompt: header",
+    "dateAdded": "2023-12-28T20:25:03.340Z"
+  },
+  {
+    "url": "https://v0.dev/t/gdE3j2HjnFw",
+    "label": "Template for prompt: Dashboard transporter shipping box",
+    "dateAdded": "2023-12-28T20:25:03.340Z"
+  },
+  {
+    "url": "https://v0.dev/t/9n1UUKML7vj",
+    "label": "Template for prompt: A products page for an inventory system",
+    "dateAdded": "2023-12-28T20:25:03.340Z"
+  },
+  {
+    "url": "https://v0.dev/t/xsJCKku6GXd",
+    "label": "Template for prompt: a website which has top section for logo and menu buttons, blue and white gradient webpage with second section is carosel and 3rd section is about us, 4th is services, 5th is subscription",
+    "dateAdded": "2023-12-28T20:25:03.341Z"
+  },
+  {
+    "url": "https://v0.dev/t/6YOMtgShUUt",
+    "label": "Template for prompt: social media tracker",
+    "dateAdded": "2023-12-28T20:25:03.341Z"
   }
 ]
