@@ -38743,5 +38743,135 @@
     "url": "https://v0.dev/t/DN9qdIL7LCt",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2023-12-28T23:15:03.875Z"
+  },
+  {
+    "url": "https://v0.dev/t/vJcTXLY4g3q",
+    "label": "Template for prompt: welcome page  of a simple NFT management website with a button \"Connet wallet\" in the middle of the screen\n\nHome page for ceators to view their NFTs with 3 tabs on the left \"Profile\", \"Sales\", \"Analytics\". The Profile page is the defaul with their profile picture, wallet address and a \"disconnet\" button on the top, and with a grid view of NFTs. The cells of the grid should have a picture, a status (like \"listed\"), platform (like magic eden) and price.",
+    "dateAdded": "2023-12-28T23:20:02.540Z"
+  },
+  {
+    "url": "https://v0.dev/t/pwPvq5pHWYa",
+    "label": "Template for prompt: Create a image slider with lightbox",
+    "dateAdded": "2023-12-28T23:20:02.540Z"
+  },
+  {
+    "url": "https://v0.dev/t/6Yw9bmWf3j3",
+    "label": "Template for prompt: create a figma plugin to display the select frame node in a tree view ",
+    "dateAdded": "2023-12-28T23:20:02.540Z"
+  },
+  {
+    "url": "https://v0.dev/t/wH68aGaqPwl",
+    "label": "Template for prompt: movie rating recommendation website",
+    "dateAdded": "2023-12-28T23:20:02.541Z"
+  },
+  {
+    "url": "https://v0.dev/t/vijcdMzYNHK",
+    "label": "Template for prompt: movie rating recommendation website",
+    "dateAdded": "2023-12-28T23:20:02.541Z"
+  },
+  {
+    "url": "https://v0.dev/t/RORFnikjsh7",
+    "label": "Template for prompt: Ecommerce dashboard with orders customers analytics ",
+    "dateAdded": "2023-12-28T23:20:02.541Z"
+  },
+  {
+    "url": "https://v0.dev/t/KziykyqHaKr",
+    "label": "Template for prompt: Reproduce This exactly with same Colors ",
+    "dateAdded": "2023-12-28T23:20:02.541Z"
+  },
+  {
+    "url": "https://v0.dev/t/SYnlXj1enKB",
+    "label": "Template for prompt: movie recommendation website",
+    "dateAdded": "2023-12-28T23:20:02.541Z"
+  },
+  {
+    "url": "https://v0.dev/t/ghtygWVknnv",
+    "label": "Template for prompt: A simple dropdown menu with options, no icons, and no shortcuts.",
+    "dateAdded": "2023-12-28T23:20:02.541Z"
+  },
+  {
+    "url": "https://v0.dev/t/Nh72CsJQCft",
+    "label": "Template for prompt: Generate e-mail marketing template to sell new travel package",
+    "dateAdded": "2023-12-28T23:20:02.541Z"
+  },
+  {
+    "url": "https://v0.dev/t/gmLcJl6kpXI",
+    "label": "Template for prompt: A stick nav bar",
+    "dateAdded": "2023-12-28T23:20:02.542Z"
+  },
+  {
+    "url": "https://v0.dev/t/hp73cixoX3W",
+    "label": "Template for prompt: a page section title",
+    "dateAdded": "2023-12-28T23:20:02.542Z"
+  },
+  {
+    "url": "https://v0.dev/t/VRQ38coZsEi",
+    "label": "Template for prompt: a qr code generator",
+    "dateAdded": "2023-12-28T23:20:02.542Z"
+  },
+  {
+    "url": "https://v0.dev/t/BuUxlW68pkk",
+    "label": "Template for prompt: a clickable, standard grid for texas holdem hands, show combo counts, suit, and cards",
+    "dateAdded": "2023-12-28T23:20:02.542Z"
+  },
+  {
+    "url": "https://v0.dev/t/BJjlQ5Itqj6",
+    "label": "Template for prompt: I want you to help me with some of the logic this picture uses. make an interface really similar to this one. but as you continue to scroll down the naviagtion on the left changes. as you scroll into different section of the page, the style becomes different for those sections",
+    "dateAdded": "2023-12-28T23:20:02.542Z"
+  },
+  {
+    "url": "https://v0.dev/t/9kcEMqba8Re",
+    "label": "Template for prompt: Create a dashboard to analyze a client's credit risk, it should present at least the client average income and score",
+    "dateAdded": "2023-12-28T23:20:02.542Z"
+  },
+  {
+    "url": "https://v0.dev/t/3xC8ExZLE4m",
+    "label": "Template for prompt: make a modern and aesthetic webpage with nice color them of this webpage image I drew of a qr code generator",
+    "dateAdded": "2023-12-28T23:20:02.542Z"
+  },
+  {
+    "url": "https://v0.dev/t/LXSi9LLIg7t",
+    "label": "Template for prompt: Dashboard page all transporter table admin show ",
+    "dateAdded": "2023-12-28T23:20:02.542Z"
+  },
+  {
+    "url": "https://v0.dev/t/k4uULcOQ5k9",
+    "label": "Template for prompt: a figma plugin to display the figma frame node tree ",
+    "dateAdded": "2023-12-28T23:20:02.542Z"
+  },
+  {
+    "url": "https://v0.dev/t/eVYMzmVkRUh",
+    "label": "Template for prompt: a minimal blog layout use shadcn",
+    "dateAdded": "2023-12-28T23:20:02.543Z"
+  },
+  {
+    "url": "https://v0.dev/t/OISaV3pYMOz",
+    "label": "Template for prompt: welcome page  of a simple NFT management website with a button \"Connet wallet\" in the middle of the screen",
+    "dateAdded": "2023-12-28T23:20:02.543Z"
+  },
+  {
+    "url": "https://v0.dev/t/SpmTzEk38V8",
+    "label": "Template for prompt: I need a marketplace card for an AI API. This card should include an image, a title, a description, and a price",
+    "dateAdded": "2023-12-28T23:20:02.543Z"
+  },
+  {
+    "url": "https://v0.dev/t/Kc1TXTCKs0l",
+    "label": "Template for prompt: recrie essa imagem como uma sidebar do lado esquerdo",
+    "dateAdded": "2023-12-28T23:20:02.543Z"
+  },
+  {
+    "url": "https://v0.dev/t/9KPEHBFjrMA",
+    "label": "Template for prompt: section div drag and drop",
+    "dateAdded": "2023-12-28T23:20:02.543Z"
+  },
+  {
+    "url": "https://v0.dev/t/sPSnwXlQE9R",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-28T23:20:02.543Z"
+  },
+  {
+    "url": "https://v0.dev/t/HcyMHjhTFiU",
+    "label": "Template for prompt: Construct a full-screen checkout modal featuring expandable sections: 'Summary', 'Services', 'Vehicle Info', 'Pricing Details', 'Billing Info', and 'Payment Method', each with a tab that slides out from the bottom to show/hide options. Style tabs with a shadow and light grey background (shadow-md bg-gray-100) and use a blue button for slide-out interaction (bg-blue-500 text-white hover:bg-blue-700).",
+    "dateAdded": "2023-12-28T23:20:02.543Z"
   }
 ]
