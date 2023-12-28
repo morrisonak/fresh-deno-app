@@ -26588,5 +26588,135 @@
     "url": "https://v0.dev/t/8fI42HrHOIr",
     "label": "Template for prompt: An app to track my employees time of arrival at work",
     "dateAdded": "2023-12-28T15:15:03.948Z"
+  },
+  {
+    "url": "https://v0.dev/t/JG2yoYtgYfP",
+    "label": "Template for prompt: redesign notion.so page",
+    "dateAdded": "2023-12-28T15:20:03.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/FKQPuShnvlu",
+    "label": "Template for prompt: You have to develop a demo react app (for mobile and web). Set up a React project using CRA and if you know TypeScript and SASS, use them - you’ll earn bonus points \nThe app is a simplified search app with following requirements: \nClick on the search tab latest trend suggestion box open \nImplement faker api for showing data. \nAccording to the filter data should update. \nClick on the Wishlist colour should change to red \nOn hovering to the product view product button should be visible.\n",
+    "dateAdded": "2023-12-28T15:20:03.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/mt6QfFJaQvR",
+    "label": "Template for prompt: A header that runs vertically down the page.",
+    "dateAdded": "2023-12-28T15:20:03.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/KEiaaCjcdvx",
+    "label": "Template for prompt: You have to develop a demo react app (for mobile and web). Set up a React project using CRA and if you know TypeScript and SASS, use them - you’ll earn bonus points \nThe app is a simplified search app with following requirements: \nClick on the search tab latest trend suggestion box open \nImplement faker api for showing data. \nAccording to the filter data should update. \nClick on the Wishlist colour should change to red \nOn hovering to the product view product button should be visible.\n",
+    "dateAdded": "2023-12-28T15:20:03.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/t3poWUQBGil",
+    "label": "Template for prompt: bug tracker dashboard",
+    "dateAdded": "2023-12-28T15:20:03.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/GNPc3LCs6kI",
+    "label": "Template for prompt: Try to make the general info on the Manage Access popup more visible for the user (use a green color for the text or so)",
+    "dateAdded": "2023-12-28T15:20:03.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/cWJNpBgSEOm",
+    "label": "Template for prompt: a home page for the blog with the list of blog cards",
+    "dateAdded": "2023-12-28T15:20:03.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/3unlUGuFpJd",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-28T15:20:03.438Z"
+  },
+  {
+    "url": "https://v0.dev/t/VHIGWsHUGzD",
+    "label": "Template for prompt: create this for dashboard nextjs react tailindcss",
+    "dateAdded": "2023-12-28T15:20:03.438Z"
+  },
+  {
+    "url": "https://v0.dev/t/Vq3u7Xokxb8",
+    "label": "Template for prompt: make ui for skills section for a web developer portfolio",
+    "dateAdded": "2023-12-28T15:20:03.438Z"
+  },
+  {
+    "url": "https://v0.dev/t/apWtjBYQ7iC",
+    "label": "Template for prompt: a component with multiple time points as a slider",
+    "dateAdded": "2023-12-28T15:20:03.438Z"
+  },
+  {
+    "url": "https://v0.dev/t/QlE5pS0VBqc",
+    "label": "Template for prompt: A login page for a platform focused on sustanability actions in the amazonas",
+    "dateAdded": "2023-12-28T15:20:03.438Z"
+  },
+  {
+    "url": "https://v0.dev/t/Gcod8b5qM67",
+    "label": "Template for prompt: create a single page where people can add resolutions and edit, create also, the resolutions posted looks like something pinterest boards",
+    "dateAdded": "2023-12-28T15:20:03.438Z"
+  },
+  {
+    "url": "https://v0.dev/t/LWtVeKahDfG",
+    "label": "Template for prompt: Make it more beatiful ",
+    "dateAdded": "2023-12-28T15:20:03.439Z"
+  },
+  {
+    "url": "https://v0.dev/t/jFi30oLzaR2",
+    "label": "Template for prompt: make a unscramble activity ",
+    "dateAdded": "2023-12-28T15:20:03.439Z"
+  },
+  {
+    "url": "https://v0.dev/t/xTVQabumz35",
+    "label": "Template for prompt: A code-block viewer",
+    "dateAdded": "2023-12-28T15:20:03.439Z"
+  },
+  {
+    "url": "https://v0.dev/t/VrWG7Iq4deK",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T15:20:03.439Z"
+  },
+  {
+    "url": "https://v0.dev/t/Iluwe1VddLS",
+    "label": "Template for prompt: Make it for me",
+    "dateAdded": "2023-12-28T15:20:03.439Z"
+  },
+  {
+    "url": "https://v0.dev/t/Kw9ZcGvY3tR",
+    "label": "Template for prompt: reproduce this with tailwindcss shadcn ui",
+    "dateAdded": "2023-12-28T15:20:03.439Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wynq9sIVNqb",
+    "label": "Template for prompt: a dashboard that can upload items for sale on a site",
+    "dateAdded": "2023-12-28T15:20:03.439Z"
+  },
+  {
+    "url": "https://v0.dev/t/7sNgheEEkqK",
+    "label": "Template for prompt: Create a how to page ?  in this page there are screenshots of app in one col and in the other the text. for Ex : col1 has img1 and col2 has step1 : text. ",
+    "dateAdded": "2023-12-28T15:20:03.440Z"
+  },
+  {
+    "url": "https://v0.dev/t/nTPQQ9P4PWe",
+    "label": "Template for prompt: Create an email marketing app ui using Flowbite",
+    "dateAdded": "2023-12-28T15:20:03.440Z"
+  },
+  {
+    "url": "https://v0.dev/t/SgjTTZAzIxe",
+    "label": "Template for prompt: A website for a software quality assurance engineer, highlighting work experience",
+    "dateAdded": "2023-12-28T15:20:03.440Z"
+  },
+  {
+    "url": "https://v0.dev/t/5dHArXYxfP7",
+    "label": "Template for prompt: admin dashboard for carwashing website",
+    "dateAdded": "2023-12-28T15:20:03.440Z"
+  },
+  {
+    "url": "https://v0.dev/t/oicKdJmNB70",
+    "label": "Template for prompt: an ecommerce landing page ",
+    "dateAdded": "2023-12-28T15:20:03.440Z"
+  },
+  {
+    "url": "https://v0.dev/t/6DhGwhFdrSX",
+    "label": "Template for prompt: You have to develop a demo react app (for mobile and web). Set up a React project using CRA and if you know TypeScript and SASS, use them - you’ll earn bonus points \nThe app is a simplified search app with following requirements: \nClick on the search tab latest trend suggestion box open \nImplement faker api for showing data. \nAccording to the filter data should update. \nClick on the Wishlist colour should change to red \nOn hovering to the product view product button should be visible.\n",
+    "dateAdded": "2023-12-28T15:20:03.440Z"
   }
 ]
