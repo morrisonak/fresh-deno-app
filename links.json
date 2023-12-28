@@ -25548,5 +25548,135 @@
     "url": "https://v0.dev/t/bjTsmrPKDZd",
     "label": "Template for prompt: Table with movies",
     "dateAdded": "2023-12-28T03:40:03.519Z"
+  },
+  {
+    "url": "https://v0.dev/t/gZyOPfX4peR",
+    "label": "Template for prompt: \nBased on the design in the photo I sent you, I need you to recreate the entire color scheme in pastel tones, and the left and right sides have different roles, so the right side will be used for the map API screen, but only the left side needs to be done.\nDon't add a graph type. \nAt the top, the menu concept should be organized like this: chart / hospital List / Hospital Info/ message in tabbed format,\nGender - Dropbox: Male Female \nAGE - Dropbox: 0~100\nSeverity - Dropbox : Minor/ Major/ Emergency\nAccident - Dropbox : Venhiele /Industrial/Disaster\nTransfer Type - Dropbox : Surgery/Hospitalization/Clinic\nFirst Aid : inputBox\n\nTranslated with www.DeepL.com/Translator (free version)",
+    "dateAdded": "2023-12-28T03:45:03.267Z"
+  },
+  {
+    "url": "https://v0.dev/t/cSB76OsI0Cz",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T03:45:03.267Z"
+  },
+  {
+    "url": "https://v0.dev/t/BKUJeOEB12Y",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T03:45:03.267Z"
+  },
+  {
+    "url": "https://v0.dev/t/q575lVcA8sR",
+    "label": "Template for prompt: a online course sales page",
+    "dateAdded": "2023-12-28T03:45:03.267Z"
+  },
+  {
+    "url": "https://v0.dev/t/MGLWewwt28Z",
+    "label": "Template for prompt: not login page with a svg image ",
+    "dateAdded": "2023-12-28T03:45:03.267Z"
+  },
+  {
+    "url": "https://v0.dev/t/gJbF3kFe2ZE",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T03:45:03.267Z"
+  },
+  {
+    "url": "https://v0.dev/t/heuxM3sRz8j",
+    "label": "Template for prompt: I need a section that shows off our tech platforms. The section should focus on our 3 tech platforms have 3 images and a text to accompy each one of them. Be creative with the layout.",
+    "dateAdded": "2023-12-28T03:45:03.267Z"
+  },
+  {
+    "url": "https://v0.dev/t/VVzPhveyB0c",
+    "label": "Template for prompt: My personal website showing my crypto investments",
+    "dateAdded": "2023-12-28T03:45:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/aI4G1lbBZbB",
+    "label": "Template for prompt: Portfolio to developer ",
+    "dateAdded": "2023-12-28T03:45:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/vCiyGmSHtvX",
+    "label": "Template for prompt: a login form",
+    "dateAdded": "2023-12-28T03:45:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/d2Ewq0VNGON",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T03:45:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/IEjZEUBfq7B",
+    "label": "Template for prompt: file brower footer like in a game engine ",
+    "dateAdded": "2023-12-28T03:45:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/GdMs3RBNBRV",
+    "label": "Template for prompt: Create a QQ-like page",
+    "dateAdded": "2023-12-28T03:45:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/W2AKPq60OfW",
+    "label": "Template for prompt: portfolio",
+    "dateAdded": "2023-12-28T03:45:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/cmCHbZatfHH",
+    "label": "Template for prompt: A landing page for a crypto and tech investing company",
+    "dateAdded": "2023-12-28T03:45:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/cgHHRpcbp6p",
+    "label": "Template for prompt: service menu in software development company",
+    "dateAdded": "2023-12-28T03:45:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/wIfdmMsU4Jj",
+    "label": "Template for prompt: A reservation system for diners booking tables at a restaurant ",
+    "dateAdded": "2023-12-28T03:45:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/W30PGqm97se",
+    "label": "Template for prompt: An business dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-28T03:45:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/VYGDHYAnGcV",
+    "label": "Template for prompt: create a nice form for adding resume data, the form should have , firstName, last name, country, email, phone, about. github, portfolio, linkedin. add to that i nedd  experience (this field should have , title, company, location, isCurrentlyWork, start date, end date), \neducation (this field should have : school ,degree, location, fieldStudy, start date, end date), \nskills (this field should be a string). ",
+    "dateAdded": "2023-12-28T03:45:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/8jwo73M2gmb",
+    "label": "Template for prompt: 生成一个后台管理界面",
+    "dateAdded": "2023-12-28T03:45:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wa66uzNk503",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T03:45:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/LPNOi1jqikQ",
+    "label": "Template for prompt: - [ ]  traducir `LoanUtils` a typescript\n- [ ]  Campo de validación de políticas de crédito (input)\n- [ ]  Campo de validación de “Integrante consolidado” (que han trabajado juntos antes en un crédito grupal) (input)\n- [ ]  Monto otorgado (input)\n- [ ]  Tasa de interés (input)\n- [ ]  Pago semanal (cálculo - visualizar)\n- [ ]  Pago por cada mil (cálculo - visualizar)\n\na ui for this",
+    "dateAdded": "2023-12-28T03:45:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/5rJqj6yBHuv",
+    "label": "Template for prompt: twitter",
+    "dateAdded": "2023-12-28T03:45:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/c3LwxcMGkUP",
+    "label": "Template for prompt: cryptocurrency token wallet dashboard",
+    "dateAdded": "2023-12-28T03:45:03.270Z"
+  },
+  {
+    "url": "https://v0.dev/t/UqvB7KdLXTn",
+    "label": "Template for prompt: cryptocurrency token wallet dashboard",
+    "dateAdded": "2023-12-28T03:45:03.270Z"
+  },
+  {
+    "url": "https://v0.dev/t/Oy4W2YZcpQD",
+    "label": "Template for prompt: cryptocurrency token wallet dashboard",
+    "dateAdded": "2023-12-28T03:45:03.270Z"
   }
 ]
