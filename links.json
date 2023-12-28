@@ -37623,5 +37623,125 @@
     "url": "https://v0.dev/t/m9My4YTflkB",
     "label": "Template for prompt: a web application that aggregates and displays lists of news in multiple tabs",
     "dateAdded": "2023-12-28T22:30:03.026Z"
+  },
+  {
+    "url": "https://v0.dev/t/97uixupjIcb",
+    "label": "Template for prompt: a landing page with hero divided into 2 columns: on the left a header with subtext and cta button and on the right an image of ui",
+    "dateAdded": "2023-12-28T22:35:04.015Z"
+  },
+  {
+    "url": "https://v0.dev/t/IhtQFx4CuJt",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-28T22:35:04.015Z"
+  },
+  {
+    "url": "https://v0.dev/t/pzKwqoOHzQF",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-28T22:35:04.016Z"
+  },
+  {
+    "url": "https://v0.dev/t/Cu8HtJTnhch",
+    "label": "Template for prompt: input matrix",
+    "dateAdded": "2023-12-28T22:35:04.016Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y0uApmZQE83",
+    "label": "Template for prompt: input matrix",
+    "dateAdded": "2023-12-28T22:35:04.016Z"
+  },
+  {
+    "url": "https://v0.dev/t/HPQJPjDZzpc",
+    "label": "Template for prompt: \n\n",
+    "dateAdded": "2023-12-28T22:35:04.016Z"
+  },
+  {
+    "url": "https://v0.dev/t/P07L4EZA4PF",
+    "label": "Template for prompt: create a classic pricing page with 3 tiers.\nTiers are displayed side-by-side, include responsive design for vertical mobile view.\nOne tier is recommended.\nThe indidivual features inside the tier boxes are loaded from JSON.",
+    "dateAdded": "2023-12-28T22:35:04.016Z"
+  },
+  {
+    "url": "https://v0.dev/t/tfbeAa5e3fv",
+    "label": "Template for prompt: С траница с модулями тренингов, современый дизайн, прогресс-бар, удобный и абсолютно адаптивный интерфейс",
+    "dateAdded": "2023-12-28T22:35:04.017Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZcvOQAA9oiK",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T22:35:04.017Z"
+  },
+  {
+    "url": "https://v0.dev/t/1w9D5qmdLZO",
+    "label": "Template for prompt: graficas",
+    "dateAdded": "2023-12-28T22:35:04.017Z"
+  },
+  {
+    "url": "https://v0.dev/t/4aWjO9PZLHB",
+    "label": "Template for prompt: In html and css",
+    "dateAdded": "2023-12-28T22:35:04.017Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZFclrlwBRgX",
+    "label": "Template for prompt: redo in html and css",
+    "dateAdded": "2023-12-28T22:35:04.018Z"
+  },
+  {
+    "url": "https://v0.dev/t/R3HwqJ8B49j",
+    "label": "Template for prompt: A list of products that includes a product name, image, and very short product description. The page also includes an ever-present chat window that doesn't distract from the product listings.",
+    "dateAdded": "2023-12-28T22:35:04.018Z"
+  },
+  {
+    "url": "https://v0.dev/t/l6NnuGEuFAF",
+    "label": "Template for prompt: blog list pagenation page ",
+    "dateAdded": "2023-12-28T22:35:04.018Z"
+  },
+  {
+    "url": "https://v0.dev/t/g04cmw78TMh",
+    "label": "Template for prompt: an avatar with ring",
+    "dateAdded": "2023-12-28T22:35:04.018Z"
+  },
+  {
+    "url": "https://v0.dev/t/SQYjUKD2iru",
+    "label": "Template for prompt: glassmorphysm modern dark themed tooltip component",
+    "dateAdded": "2023-12-28T22:35:04.018Z"
+  },
+  {
+    "url": "https://v0.dev/t/Pt3PPHS4hyb",
+    "label": "Template for prompt: A SaaS Omnichannel Performance Marketing Dashboard",
+    "dateAdded": "2023-12-28T22:35:04.019Z"
+  },
+  {
+    "url": "https://v0.dev/t/MzDhlTX6FbE",
+    "label": "Template for prompt: a home page with a list of recipes formated as a card with picture, titile, small description, time and main ingredients",
+    "dateAdded": "2023-12-28T22:35:04.019Z"
+  },
+  {
+    "url": "https://v0.dev/t/cKawh5NAsw4",
+    "label": "Template for prompt: Build an e-commerce shop to sell my mockup design and also to display my graphics or UI/UX designs portfolio with vue 3 technology",
+    "dateAdded": "2023-12-28T22:35:04.019Z"
+  },
+  {
+    "url": "https://v0.dev/t/A6mIZdWlgeb",
+    "label": "Template for prompt: A dashboard for a database administrator. It includes a listing of available databases with the ability to drill down into their tables and columns. ",
+    "dateAdded": "2023-12-28T22:35:04.019Z"
+  },
+  {
+    "url": "https://v0.dev/t/yGy85cg4okP",
+    "label": "Template for prompt: Please Recreate this FAQ section",
+    "dateAdded": "2023-12-28T22:35:04.019Z"
+  },
+  {
+    "url": "https://v0.dev/t/bPThm5R3IMG",
+    "label": "Template for prompt: create a landing page that's 'industry specific' for a lawn care software business",
+    "dateAdded": "2023-12-28T22:35:04.020Z"
+  },
+  {
+    "url": "https://v0.dev/t/PYUOc71KW1N",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T22:35:04.020Z"
+  },
+  {
+    "url": "https://v0.dev/t/3EI0K4BB9wu",
+    "label": "Template for prompt: Fais moi une pagination sur la gauche avec une police sans, elle correspond au défilement sur la page et donne les infos sur le contenu affiché atm",
+    "dateAdded": "2023-12-28T22:35:04.020Z"
   }
 ]
