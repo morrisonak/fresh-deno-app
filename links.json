@@ -21623,5 +21623,120 @@
     "url": "https://v0.dev/t/Ga7022sOEX4",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2023-12-28T00:35:03.048Z"
+  },
+  {
+    "url": "https://v0.dev/t/5CYt4yTUqXU",
+    "label": "Template for prompt: A webapp that helps the user crop videos by moving the yellow crop mask. Fix its color scheme, and try to make it like Toko from Danganronpa color scheme.",
+    "dateAdded": "2023-12-28T00:40:03.581Z"
+  },
+  {
+    "url": "https://v0.dev/t/V4FfMupyeOE",
+    "label": "Template for prompt: 影视网站",
+    "dateAdded": "2023-12-28T00:40:03.581Z"
+  },
+  {
+    "url": "https://v0.dev/t/xhyjlFRYYka",
+    "label": "Template for prompt: build a nextjs code with a login and a authenticated area that only can be accessed after the successful login",
+    "dateAdded": "2023-12-28T00:40:03.581Z"
+  },
+  {
+    "url": "https://v0.dev/t/xMOb188QDj8",
+    "label": "Template for prompt: a profile card ui with cirlce big picture and bottom a name with background color",
+    "dateAdded": "2023-12-28T00:40:03.581Z"
+  },
+  {
+    "url": "https://v0.dev/t/veR5cykgLEo",
+    "label": "Template for prompt: \nA carousel component interface is a user interface element designed to showcase a rotating set of content, typically images or other media, in a visually appealing and interactive manner. Here's a description of the carousel component interface without providing actual code:\n\nContainer:\n\nThe carousel is enclosed within a container, providing a defined space for the entire component.\nNavigation Arrows:\n\nTwo arrow icons (commonly left and right) allow users to navigate between different items in the carousel.\nIndicators:\n\nA set of small dots or other indicators below the carousel to show the total number of items and the current position within the carousel.\nContent Items:\n\nEach content item represents an individual slide within the carousel. These items can contain images, text, or multimedia elements.\nCaption/Description:\n\nOptional caption or description for each content item, providing context or additional information about the displayed content.\nAuto-play Controls:\n\nOptional play/p",
+    "dateAdded": "2023-12-28T00:40:03.581Z"
+  },
+  {
+    "url": "https://v0.dev/t/vddHqc9wEPH",
+    "label": "Template for prompt: can you help me develop the search component on Nextjs component with typescript like the uploaded image",
+    "dateAdded": "2023-12-28T00:40:03.581Z"
+  },
+  {
+    "url": "https://v0.dev/t/aXWg9wtBZ41",
+    "label": "Template for prompt: write me a component to showcase the average rating and the total amount of reviews ",
+    "dateAdded": "2023-12-28T00:40:03.582Z"
+  },
+  {
+    "url": "https://v0.dev/t/pgsNIJCLjCN",
+    "label": "Template for prompt: a WYSIWYG blog post editor",
+    "dateAdded": "2023-12-28T00:40:03.582Z"
+  },
+  {
+    "url": "https://v0.dev/t/0anuuNCrEvc",
+    "label": "Template for prompt: A simple form to instruct an AI to generate content",
+    "dateAdded": "2023-12-28T00:40:03.582Z"
+  },
+  {
+    "url": "https://v0.dev/t/htm3e1xDWJp",
+    "label": "Template for prompt: a landing hero for cloud resources dependency and lifecycle management platform",
+    "dateAdded": "2023-12-28T00:40:03.582Z"
+  },
+  {
+    "url": "https://v0.dev/t/l2jHsZwSrOE",
+    "label": "Template for prompt: a complete footer with address and social media informations",
+    "dateAdded": "2023-12-28T00:40:03.582Z"
+  },
+  {
+    "url": "https://v0.dev/t/qJ6kkWfhGcG",
+    "label": "Template for prompt: Stock Market Dashboard",
+    "dateAdded": "2023-12-28T00:40:03.582Z"
+  },
+  {
+    "url": "https://v0.dev/t/FZPTOkOhEgU",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T00:40:03.582Z"
+  },
+  {
+    "url": "https://v0.dev/t/9nJwxJSyx84",
+    "label": "Template for prompt: a minimalist blog",
+    "dateAdded": "2023-12-28T00:40:03.582Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z03NaCfGBNU",
+    "label": "Template for prompt: Improve this welcome page, specially the banner",
+    "dateAdded": "2023-12-28T00:40:03.583Z"
+  },
+  {
+    "url": "https://v0.dev/t/CUNYAYUFf0i",
+    "label": "Template for prompt: modern tic tac toe web game",
+    "dateAdded": "2023-12-28T00:40:03.583Z"
+  },
+  {
+    "url": "https://v0.dev/t/XUOpXVNqEME",
+    "label": "Template for prompt: Genera un dashboard de industria",
+    "dateAdded": "2023-12-28T00:40:03.583Z"
+  },
+  {
+    "url": "https://v0.dev/t/rqAUBiK5DWz",
+    "label": "Template for prompt: 4 columns. 20 rows. ",
+    "dateAdded": "2023-12-28T00:40:03.583Z"
+  },
+  {
+    "url": "https://v0.dev/t/4lqYyuO8VyP",
+    "label": "Template for prompt: modern dashboard with side panel",
+    "dateAdded": "2023-12-28T00:40:03.583Z"
+  },
+  {
+    "url": "https://v0.dev/t/x0Wfywi2wAC",
+    "label": "Template for prompt: A simple row selectable data table where the selected row stays highlighted. ",
+    "dateAdded": "2023-12-28T00:40:03.583Z"
+  },
+  {
+    "url": "https://v0.dev/t/rz3BU9MVjQy",
+    "label": "Template for prompt: a row containing two divs split down the middle at 45 degrees. The divs become rectangular on hover and have 20px of padding between them. The row and divs should be responsive",
+    "dateAdded": "2023-12-28T00:40:03.583Z"
+  },
+  {
+    "url": "https://v0.dev/t/DvgtdmEslvv",
+    "label": "Template for prompt: a minimalist grid blog",
+    "dateAdded": "2023-12-28T00:40:03.583Z"
+  },
+  {
+    "url": "https://v0.dev/t/VAh0RfDV1LI",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T00:40:03.585Z"
   }
 ]
