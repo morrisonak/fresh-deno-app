@@ -35323,5 +35323,135 @@
     "url": "https://v0.dev/t/55DtuA61NWa",
     "label": "Template for prompt: Coffee tracker app",
     "dateAdded": "2023-12-28T21:00:03.491Z"
+  },
+  {
+    "url": "https://v0.dev/t/mc3tbYt8P3l",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T21:05:04.137Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZOt3qXnRDSH",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T21:05:04.138Z"
+  },
+  {
+    "url": "https://v0.dev/t/YhyUiAvBauB",
+    "label": "Template for prompt: My project named IPO_Alert , it tracks the IPOs based on some data. Can you make a card component for IPOs data. This is the data that all should be on the card .   {\n    IPO_Name: 'Gandhar Oil Refinery IPO[email protected] (74.79%)',\n    Price: '169',\n    GMP: '73',\n    Est_Listing: '242 (43.20%)',\n    Sub2: '4900/68600',\n    Rating: 'Rating 4/5',\n    IPO_Size: '₹500.69 Cr',\n    Open: '22-Nov',\n    Close: '24-Nov',\n    BoA_Date: '28-Nov',\n    Listing: '30-Nov',\n    GMP_Updated_Time: '30-Nov 9:24'\n  }",
+    "dateAdded": "2023-12-28T21:05:04.138Z"
+  },
+  {
+    "url": "https://v0.dev/t/cN7KbLI3vXp",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and a climate-related animation",
+    "dateAdded": "2023-12-28T21:05:04.138Z"
+  },
+  {
+    "url": "https://v0.dev/t/bdJLt2ZEZTP",
+    "label": "Template for prompt: Generate a photo galery page for viewing a timeline of photos",
+    "dateAdded": "2023-12-28T21:05:04.138Z"
+  },
+  {
+    "url": "https://v0.dev/t/0pqBCJwtIBs",
+    "label": "Template for prompt: a landing page for my web dev portfolio",
+    "dateAdded": "2023-12-28T21:05:04.138Z"
+  },
+  {
+    "url": "https://v0.dev/t/5cHdx8aHmS5",
+    "label": "Template for prompt: A chatbot that stores the user's prompts in optional folders in the left side bar. When a user selects an existing prompt OR starts a new chat, they should be offered an option to choose from one or more GPT models and see the streaming response in a side-by-side or tiled view - along with performance characteristics (token count, response time, etc) for each model",
+    "dateAdded": "2023-12-28T21:05:04.138Z"
+  },
+  {
+    "url": "https://v0.dev/t/aiebqVOSRuJ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T21:05:04.138Z"
+  },
+  {
+    "url": "https://v0.dev/t/5Au8ut6fRLZ",
+    "label": "Template for prompt: a spreadsheet interface",
+    "dateAdded": "2023-12-28T21:05:04.139Z"
+  },
+  {
+    "url": "https://v0.dev/t/k6huyBEQny9",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T21:05:04.139Z"
+  },
+  {
+    "url": "https://v0.dev/t/QyyQsrW62hJ",
+    "label": "Template for prompt: An  dashboard with a sidebar navigation and a profile window on teh right along with document uploaded history ",
+    "dateAdded": "2023-12-28T21:05:04.139Z"
+  },
+  {
+    "url": "https://v0.dev/t/ObD0Qs6T9uG",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-28T21:05:04.139Z"
+  },
+  {
+    "url": "https://v0.dev/t/CKoPgZvR8MC",
+    "label": "Template for prompt: instagram like post view when on profile ",
+    "dateAdded": "2023-12-28T21:05:04.139Z"
+  },
+  {
+    "url": "https://v0.dev/t/UZGIb6O1ZFz",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T21:05:04.139Z"
+  },
+  {
+    "url": "https://v0.dev/t/4jGf1Mm4fAl",
+    "label": "Template for prompt: exactly the same ",
+    "dateAdded": "2023-12-28T21:05:04.139Z"
+  },
+  {
+    "url": "https://v0.dev/t/oe8sP903Vi9",
+    "label": "Template for prompt: A personal developer portfolio website. The site should have a hero section at the very start with a picture, underneath should say\nHi, I'm\nJoe Mama\nI'm a [Developer, Euntrepeneur, Leader]\nFor the list ([Developer, Euntrepeneur, Leader]) each word should have a typewriter animation.\nThen there should be an about section, with a picture on the left and text on the right.\nThen there should be a project section where different projects and the technologies used to create them are listed.\nFinally, there should be a contact form and a footer with links to github and linkedin",
+    "dateAdded": "2023-12-28T21:05:04.140Z"
+  },
+  {
+    "url": "https://v0.dev/t/4P8VocFsSVk",
+    "label": "Template for prompt: Tech company products list page (2 products rignt now and waiting for more), block, dark mode, apple style",
+    "dateAdded": "2023-12-28T21:05:04.140Z"
+  },
+  {
+    "url": "https://v0.dev/t/EayaIY5EIBJ",
+    "label": "Template for prompt: a form for paying ",
+    "dateAdded": "2023-12-28T21:05:04.140Z"
+  },
+  {
+    "url": "https://v0.dev/t/KXUss89i7vr",
+    "label": "Template for prompt: create an e-commerce to sell products made in 3d printer for airsoft with products such as graphene masks design for customization parts for maintenance that have a control panel have filters to measure the customer's face by web cam",
+    "dateAdded": "2023-12-28T21:05:04.140Z"
+  },
+  {
+    "url": "https://v0.dev/t/pyNtsQgZGq3",
+    "label": "Template for prompt: A chatbot that saves prompts within optional folders on the left sidebar with the ability to execute one prompt across one or multiple GPT models",
+    "dateAdded": "2023-12-28T21:05:04.140Z"
+  },
+  {
+    "url": "https://v0.dev/t/LZnood21sxb",
+    "label": "Template for prompt: generate an icon for a casino",
+    "dateAdded": "2023-12-28T21:05:04.140Z"
+  },
+  {
+    "url": "https://v0.dev/t/5P6UuriKxWq",
+    "label": "Template for prompt: vector editor ui",
+    "dateAdded": "2023-12-28T21:05:04.140Z"
+  },
+  {
+    "url": "https://v0.dev/t/00NJLLNJDMr",
+    "label": "Template for prompt: Input form to download itinerary travel agency website",
+    "dateAdded": "2023-12-28T21:05:04.140Z"
+  },
+  {
+    "url": "https://v0.dev/t/u6yyGdkwRRe",
+    "label": "Template for prompt: a saas support page with a contact us email block + other social media details to contact",
+    "dateAdded": "2023-12-28T21:05:04.140Z"
+  },
+  {
+    "url": "https://v0.dev/t/MMSPdIvrZBR",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-28T21:05:04.141Z"
+  },
+  {
+    "url": "https://v0.dev/t/bcwZqdgxLh8",
+    "label": "Template for prompt: I want this",
+    "dateAdded": "2023-12-28T21:05:04.141Z"
   }
 ]
