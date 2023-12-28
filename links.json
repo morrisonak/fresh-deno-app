@@ -22618,5 +22618,130 @@
     "url": "https://v0.dev/t/ehvXcHicfGr",
     "label": "Template for prompt: saas quiz dashboard",
     "dateAdded": "2023-12-28T01:15:03.237Z"
+  },
+  {
+    "url": "https://v0.dev/t/jU4gOBrJbqW",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T01:50:39.961Z"
+  },
+  {
+    "url": "https://v0.dev/t/sgxS7t2DiFj",
+    "label": "Template for prompt: design a very minimalist but very beautiful ai voice assistant land page",
+    "dateAdded": "2023-12-28T01:50:39.961Z"
+  },
+  {
+    "url": "https://v0.dev/t/apJhJaSgX4P",
+    "label": "Template for prompt: gime a list to list the todos in adition to actions",
+    "dateAdded": "2023-12-28T01:50:39.961Z"
+  },
+  {
+    "url": "https://v0.dev/t/GQrE7X4h8vf",
+    "label": "Template for prompt: make table html by using following example code\n\n<tr>\n                        <td style=\"color:black\" id=\"mento_name${mento.id}\" width=\"70px\">${temp_name}</td>\n                        <td width=\"100px\">${mento.univ}</td>\n                        <td width=\"100px\">${mento.major}</td>\n                        <td width=\"130px\">${mento.phoneNo}</td>\n                        <td width=\"150px\">${mento.socialNo}</td>\n                        <td width=\"180px\">${mento.address}</td>\n                        <td width=\"200px\">${mento.email}</td>\n                        <td width=\"60px\">${mento.bank_name}</td>\n                        <td width=\"120px\">${mento.bank_account}</td>\n                        <td width=\"350px\"><a href=\"/images/${mento.id}\">${mento.signature}</a></td>\n                        <td width=\"80px\">${mento.contract_date}</td>\n                        <td width=\"150px\">${mento.input_date.toLocaleString()}</td>\n                        <td width=\"50px\">\n                            <form",
+    "dateAdded": "2023-12-28T01:50:39.961Z"
+  },
+  {
+    "url": "https://v0.dev/t/VD5fhU0YaC5",
+    "label": "Template for prompt: product card with title description, a button to go to the product page, image, and the brand in a badge",
+    "dateAdded": "2023-12-28T01:50:39.961Z"
+  },
+  {
+    "url": "https://v0.dev/t/vztVnfuVzbG",
+    "label": "Template for prompt: a manager syate",
+    "dateAdded": "2023-12-28T01:50:39.961Z"
+  },
+  {
+    "url": "https://v0.dev/t/9nOhALWnTsl",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T01:50:39.962Z"
+  },
+  {
+    "url": "https://v0.dev/t/D3bF6ognCJp",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-28T01:50:39.962Z"
+  },
+  {
+    "url": "https://v0.dev/t/wSkkoX3eENM",
+    "label": "Template for prompt: design a minimalist but very beutiful landing page for a mood journal app. An app where you can document how you can doscument how you feel and measure your mood over time with analytics and AI",
+    "dateAdded": "2023-12-28T01:50:39.962Z"
+  },
+  {
+    "url": "https://v0.dev/t/ODmITBKBCSF",
+    "label": "Template for prompt: An artificial intelligence voice app main menu",
+    "dateAdded": "2023-12-28T01:50:39.962Z"
+  },
+  {
+    "url": "https://v0.dev/t/GWXidxORpoh",
+    "label": "Template for prompt: create a subscription page with two options \"simple plan\" and \"premiun plan\"",
+    "dateAdded": "2023-12-28T01:50:39.962Z"
+  },
+  {
+    "url": "https://v0.dev/t/R4JtWYAeXmf",
+    "label": "Template for prompt: I need a website for IECN India Empowered Citizen Network, the objective of this group is to develop a powerful network of action-oriented people across various industries and verticals towards forming a Citizen Governance Body that will help enforce Good Governance in India.  The initial focus of this body will be on Collecting Tax Money Effectively and Spending Tax Money Productively and create a logo for that and slogan which should be at it's peak",
+    "dateAdded": "2023-12-28T01:50:39.962Z"
+  },
+  {
+    "url": "https://v0.dev/t/rqb19ltpEXw",
+    "label": "Template for prompt: a digital agency website",
+    "dateAdded": "2023-12-28T01:50:39.962Z"
+  },
+  {
+    "url": "https://v0.dev/t/SWsn7ZFVKdy",
+    "label": "Template for prompt: a dialog that renders credentials username and password to be copy",
+    "dateAdded": "2023-12-28T01:50:39.962Z"
+  },
+  {
+    "url": "https://v0.dev/t/KsNNNXskqLm",
+    "label": "Template for prompt: loading page with logo in middle ",
+    "dateAdded": "2023-12-28T01:50:39.963Z"
+  },
+  {
+    "url": "https://v0.dev/t/sEep6GWFzk4",
+    "label": "Template for prompt: a desktop reddit comment thread clone",
+    "dateAdded": "2023-12-28T01:50:39.963Z"
+  },
+  {
+    "url": "https://v0.dev/t/3A0hP8Rnru1",
+    "label": "Template for prompt: simple cv landing page with avatar, contact details, past work, and proficiencies",
+    "dateAdded": "2023-12-28T01:50:39.963Z"
+  },
+  {
+    "url": "https://v0.dev/t/DHRYYHj6aMd",
+    "label": "Template for prompt: navigation bar with logo and name that spans the full width of the page and disappears when scrolling",
+    "dateAdded": "2023-12-28T01:50:39.963Z"
+  },
+  {
+    "url": "https://v0.dev/t/WUvdbUVu8bI",
+    "label": "Template for prompt: make it as a lwyer profile page ",
+    "dateAdded": "2023-12-28T01:50:39.963Z"
+  },
+  {
+    "url": "https://v0.dev/t/baQuXsy10lO",
+    "label": "Template for prompt: Can you build me an academic website I can just upload to GitHub?",
+    "dateAdded": "2023-12-28T01:50:39.963Z"
+  },
+  {
+    "url": "https://v0.dev/t/jRsEeTdKj27",
+    "label": "Template for prompt: dashboard for iot monitoring",
+    "dateAdded": "2023-12-28T01:50:39.963Z"
+  },
+  {
+    "url": "https://v0.dev/t/YKGdD1hEedm",
+    "label": "Template for prompt: generate a dealatied pase for the a lawyer , where we have it's pictures , details about him , his geolocation and a table of apoitment that he has , whrer the table has dates on the first line and hours in the second line , add also another section , of contact , wher the user can contact the lawyer ",
+    "dateAdded": "2023-12-28T01:50:39.963Z"
+  },
+  {
+    "url": "https://v0.dev/t/dLYHouoH7om",
+    "label": "Template for prompt: a complex image upload ui that takes a title and description",
+    "dateAdded": "2023-12-28T01:50:39.964Z"
+  },
+  {
+    "url": "https://v0.dev/t/YbPugqSIkOZ",
+    "label": "Template for prompt: make me a user login page ",
+    "dateAdded": "2023-12-28T01:50:39.964Z"
+  },
+  {
+    "url": "https://v0.dev/t/EYLXyTYgVun",
+    "label": "Template for prompt: an information page with the following content:\n\nHeading\n\"Experience Nurse Booker in Action with Our Free, Hands-On Demo!\"\n\nIntroduction\n\"Discover how Nurse Booker revolutionizes scheduling for healthcare professionals. Our free demo offers a unique, real-time glimpse into the future of efficient and streamlined shift management.\"\n\nHow It Works\nStep 1: Personalized Access\n\"Begin your journey with Nurse Booker by receiving a personalized login. Experience our software's intuitive interface and user-friendly features firsthand.\"\n\nStep 2: Real-Time Data Integration\n\"Optionally, connect your scheduling email for a real-life scenario or explore using our pre-loaded test account. Witness how Nurse Booker effortlessly transforms your existing data into actionable insights.\"\n\nStep 3: Interactive GroupMe Integration\n\"Engage with our test GroupMe account to see how Nurse Booker seamlessly posts shifts in a chat environment. Experience real-time communication like never before.\"\n\nKey Features You",
+    "dateAdded": "2023-12-28T01:50:39.964Z"
   }
 ]
