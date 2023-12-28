@@ -35203,5 +35203,125 @@
     "url": "https://v0.dev/t/H64BRofP3CY",
     "label": "Template for prompt: orders",
     "dateAdded": "2023-12-28T20:55:03.056Z"
+  },
+  {
+    "url": "https://v0.dev/t/fewGiwgCe8U",
+    "label": "Template for prompt: Key and Translation Management web app\nKey Management:\n\nCreate New Keys:\nInterface to add new keys with a user-friendly form.\nOption to assign a context or category to each key for organization.\nEdit and Delete Keys:\nFunctionality to modify existing keys.\nAbility to delete keys that are no longer needed.\nView Key Details:\nDisplay key details, including context, creation date, and modification history.",
+    "dateAdded": "2023-12-28T21:00:03.486Z"
+  },
+  {
+    "url": "https://v0.dev/t/vWW6BupW3Sl",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T21:00:03.487Z"
+  },
+  {
+    "url": "https://v0.dev/t/00NJLLNJDMr",
+    "label": "Template for prompt: Input form to download itinerary travel agency website",
+    "dateAdded": "2023-12-28T21:00:03.487Z"
+  },
+  {
+    "url": "https://v0.dev/t/5P6UuriKxWq",
+    "label": "Template for prompt: vector editor ui",
+    "dateAdded": "2023-12-28T21:00:03.487Z"
+  },
+  {
+    "url": "https://v0.dev/t/TbY2EbtqG0b",
+    "label": "Template for prompt: Il vous est demandé de programmé un jeu simple que nous appellerons le Madj. Le\nMadj est un jeu qui se joue à 2, sur un plateau carré de n \u0002 n cases. Un des joueurs\npossède des pions noirs et l’autre des pions blancs.\nAu début du jeu, les pions 2 pions de chaque couleur sont placés au centre du jeu\n(voir figure ci-dessous).\n2\nRègles du Madj :\n— On tire au sort celui qui commence\n— Tout pion posé doit obligatoirement toucher (suivant une ligne, une colonne\nou une diagonale) un pion déjà sur le tableau\n— Le jeu s’arrête lorsque la situation ne peut plus évoluer (joueur vainqueur, match\nnul inévitable, tableau plein, etc.)\n— Le vainqueur est le joueur ayant le plus grand nombre de pions consécutifs\n(suivant une ligne, une colonne ou une diagonale)\nDe sorte que les joueurs jouent en toute connaissance de cause, il vous est demandé\nd’afficher le score de chaque joueur (i.e son plus grand nombre de pions consécutifs)\naprès chaque coup.\n",
+    "dateAdded": "2023-12-28T21:00:03.487Z"
+  },
+  {
+    "url": "https://v0.dev/t/MIKIOBgS6fi",
+    "label": "Template for prompt: A \"Report an issue\" Modal",
+    "dateAdded": "2023-12-28T21:00:03.487Z"
+  },
+  {
+    "url": "https://v0.dev/t/u6yyGdkwRRe",
+    "label": "Template for prompt: a saas support page with a contact us email block + other social media details to contact",
+    "dateAdded": "2023-12-28T21:00:03.487Z"
+  },
+  {
+    "url": "https://v0.dev/t/prvuDEFIuBg",
+    "label": "Template for prompt: create a right side sidebar that pops up when a user clicks a button. should have animations for sliding out and take half the page",
+    "dateAdded": "2023-12-28T21:00:03.488Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZoRflWSfZnB",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-28T21:00:03.488Z"
+  },
+  {
+    "url": "https://v0.dev/t/17vRqABGaoo",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T21:00:03.488Z"
+  },
+  {
+    "url": "https://v0.dev/t/QWaKrebCb6C",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-28T21:00:03.488Z"
+  },
+  {
+    "url": "https://v0.dev/t/ndxuYa09PLV",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T21:00:03.488Z"
+  },
+  {
+    "url": "https://v0.dev/t/ckvylVxSIQ3",
+    "label": "Template for prompt: show 3 pictures",
+    "dateAdded": "2023-12-28T21:00:03.488Z"
+  },
+  {
+    "url": "https://v0.dev/t/kI1vvmuptkf",
+    "label": "Template for prompt: Spotify now playing widget for personal website",
+    "dateAdded": "2023-12-28T21:00:03.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/obXND6KCCo7",
+    "label": "Template for prompt: A SaaS admin dashboard",
+    "dateAdded": "2023-12-28T21:00:03.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/2WX4rk5Rl4q",
+    "label": "Template for prompt: Finite element code in python for simply supported beam",
+    "dateAdded": "2023-12-28T21:00:03.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/udg1riMljHd",
+    "label": "Template for prompt: Feature Specifications:\nAuthentication:User login and registration.\nIntegration with Supabase authentication.\nOrganization Creation:Interface for creating and managing organizations.\nPermission management for different roles.\nService Creation: Ability to create and define various survey types.\nCustomization options for surveys.\nSurvey Management: Creation of survey cycles, setting start and expiration dates.\nGeneration of unique survey URLs.\nTagging system for survey categorization.\nRespondent Management: Interface for adding and managing survey respondents.\nTracking respondent participation and responses.\nTeam Collaboration: Feature for adding and managing team members.\nRole-based access control.\nNavigation/Menu Bar: User-friendly navigation throughout the application.\nClearly labeled sections and features.\nUI Components: Implementation of tooltips for guidance.\nData tables for displaying information.\nUsage of a “Sonner” component for loading states.\n",
+    "dateAdded": "2023-12-28T21:00:03.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/d4RXuFFrzso",
+    "label": "Template for prompt: •\tUn jeune chanteur herbe souhaite mettre en œuvre une plateforme digitale d’E-commerce. L’artiste SAKE DINA souhaite vendre diverses chansons à travers une application web ainsi que via une application mobile ;\n•\tL’application web sera utilisé pour enregistrer, modifier, supprimer une chanson de l’artiste. Une chanson est représenté par : titre de la chanson, le nom de l’artiste, la date ou l’année de sortie, lyrics, l’url de la chanson (Ex. http://127.0.0.1/assets/medias/songs.mp3) ;\n•\tLa plateforme devra également fourni des services web (APIs) permettant de gérer les chansons de l’artiste SAKE ;\n•\tL’application mobile quant à elle pourra consulter la liste des chansons et rechercher une chanson à partir du titre. Elle permettra à l’utilisateur de consulter le lyrics d’une chanson et jouer un extrait d’une chanson. Chaque élément de la liste devra contenir une pochette de l’album, le titre de la chanson, le nom de l’artiste ainsi qu’un bouton « Play » afin d’écouter l’extrait de la ",
+    "dateAdded": "2023-12-28T21:00:03.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/VgKTnjk8nHq",
+    "label": "Template for prompt: login page",
+    "dateAdded": "2023-12-28T21:00:03.490Z"
+  },
+  {
+    "url": "https://v0.dev/t/510jbMwO1ra",
+    "label": "Template for prompt: fullpage card with title",
+    "dateAdded": "2023-12-28T21:00:03.490Z"
+  },
+  {
+    "url": "https://v0.dev/t/OBAPjGHFlbI",
+    "label": "Template for prompt: build me an alert component that shows in case of an error.",
+    "dateAdded": "2023-12-28T21:00:03.490Z"
+  },
+  {
+    "url": "https://v0.dev/t/URa7tbDfvAe",
+    "label": "Template for prompt: give me like this intrerface but with this command :sudo apt-get install -y mongodb-org\n",
+    "dateAdded": "2023-12-28T21:00:03.490Z"
+  },
+  {
+    "url": "https://v0.dev/t/emtHXurKL6S",
+    "label": "Template for prompt: fullwidth card",
+    "dateAdded": "2023-12-28T21:00:03.490Z"
+  },
+  {
+    "url": "https://v0.dev/t/55DtuA61NWa",
+    "label": "Template for prompt: Coffee tracker app",
+    "dateAdded": "2023-12-28T21:00:03.491Z"
   }
 ]
