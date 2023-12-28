@@ -30033,5 +30033,135 @@
     "url": "https://v0.dev/t/tEd0CF129XZ",
     "label": "Template for prompt: Create a website for consultant company",
     "dateAdded": "2023-12-28T17:30:03.195Z"
+  },
+  {
+    "url": "https://v0.dev/t/Lh0cbAy77qX",
+    "label": "Template for prompt: job board with 2 columns and search bar at top",
+    "dateAdded": "2023-12-28T17:35:03.385Z"
+  },
+  {
+    "url": "https://v0.dev/t/Lbpc1aKnkqv",
+    "label": "Template for prompt: a blog post with a medium image and a comment section with rails",
+    "dateAdded": "2023-12-28T17:35:03.385Z"
+  },
+  {
+    "url": "https://v0.dev/t/OrvaqB2kgmq",
+    "label": "Template for prompt: a web3 token airdrop/claim website. The site should be mobile-first but desktop friendly. claim should be tabular, modern such that there is a unique \"row\" for each claimable air drop, with a claim button, shorted pub key of drop (e.g., xyz...123), and drop size/detail \npreference towards dark mode",
+    "dateAdded": "2023-12-28T17:35:03.385Z"
+  },
+  {
+    "url": "https://v0.dev/t/OWVTKvWgITK",
+    "label": "Template for prompt: Screenshot 2023-12-28 at 15.01.32 use bootstrap and react",
+    "dateAdded": "2023-12-28T17:35:03.385Z"
+  },
+  {
+    "url": "https://v0.dev/t/zW63W7Qp2zG",
+    "label": "Template for prompt: Our website proudly boasts three vibrant sections, each showcasing how we empower retailers: Seed the Success: Elevate your shelves with our diverse selection of fresh, high-quality corn and vegetables sourced from trusted regional farms. Bloom with Abundance: Fuel the growth of your business with our expertly curated lineup of fertilizers from industry-leading manufacturers. One-Stop Shop, Limitless Possibilities: Browse, compare, and conveniently order both produce and fertilizers from a single platform, streamlining your purchasing process and allowing you to focus on what matters most - serving your customers with the best. Come and explore, let your business flourish!",
+    "dateAdded": "2023-12-28T17:35:03.385Z"
+  },
+  {
+    "url": "https://v0.dev/t/9wR15bDyKvK",
+    "label": "Template for prompt: design a mobile ui for an app that will be tracking the work hours of a person. The app should give an option to start a timer for work and add small breaks in between. There should also be an option to add the starting and ending times manually.",
+    "dateAdded": "2023-12-28T17:35:03.386Z"
+  },
+  {
+    "url": "https://v0.dev/t/UZ7aWkvGHPq",
+    "label": "Template for prompt: give me this code with dropdown code and input code dont use any components give me code in react",
+    "dateAdded": "2023-12-28T17:35:03.386Z"
+  },
+  {
+    "url": "https://v0.dev/t/d2cc1GjvRIp",
+    "label": "Template for prompt: a tailwindcss instagram card with multi image support",
+    "dateAdded": "2023-12-28T17:35:03.386Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ovxz7R4y3L1",
+    "label": "Template for prompt: form react native",
+    "dateAdded": "2023-12-28T17:35:03.386Z"
+  },
+  {
+    "url": "https://v0.dev/t/6td4C1yK7fw",
+    "label": "Template for prompt: a list of all my blogs, but also a button to add a new blog",
+    "dateAdded": "2023-12-28T17:35:03.386Z"
+  },
+  {
+    "url": "https://v0.dev/t/pXHjmEYMq3Q",
+    "label": "Template for prompt: dashboard with just a sidebar in the left, in the top of sidebar the user can chose the level of access",
+    "dateAdded": "2023-12-28T17:35:03.386Z"
+  },
+  {
+    "url": "https://v0.dev/t/KWHVF01kIMr",
+    "label": "Template for prompt: review section",
+    "dateAdded": "2023-12-28T17:35:03.386Z"
+  },
+  {
+    "url": "https://v0.dev/t/YDb15OARST6",
+    "label": "Template for prompt: shopping cart popover display",
+    "dateAdded": "2023-12-28T17:35:03.386Z"
+  },
+  {
+    "url": "https://v0.dev/t/oET3rZflMS2",
+    "label": "Template for prompt: Screenshot 2023-12-28 at 15.01.32",
+    "dateAdded": "2023-12-28T17:35:03.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/KEy4DjEIKWl",
+    "label": "Template for prompt: shopping cart component",
+    "dateAdded": "2023-12-28T17:35:03.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/QCg7iJUWOur",
+    "label": "Template for prompt: shopping cart popup",
+    "dateAdded": "2023-12-28T17:35:03.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/BShSnnVvC35",
+    "label": "Template for prompt: A bento desing component",
+    "dateAdded": "2023-12-28T17:35:03.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/vXYAjGwj9Ah",
+    "label": "Template for prompt: A landing page for my dev portfolio",
+    "dateAdded": "2023-12-28T17:35:03.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/brC1OZM8yyg",
+    "label": "Template for prompt: I want to have an area on a webapp that displays Keys and values extracted from different documents using OCR\nExample: I can see all the different documents\nWhen I click on one, I can see the keys with their respective values that were extracted",
+    "dateAdded": "2023-12-28T17:35:03.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/sAJjlCdGsKY",
+    "label": "Template for prompt: i want to this",
+    "dateAdded": "2023-12-28T17:35:03.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/RqPtwzqPePI",
+    "label": "Template for prompt: A chatgpt like chat ui page",
+    "dateAdded": "2023-12-28T17:35:03.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/tPJRZLwGVV4",
+    "label": "Template for prompt: a white music player that floats in the corner of the screen.",
+    "dateAdded": "2023-12-28T17:35:03.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/A9piSYpLprw",
+    "label": "Template for prompt: A React app which enables vintage car owners to post maintenance jobs for their cars for repair contractors to bid on",
+    "dateAdded": "2023-12-28T17:35:03.388Z"
+  },
+  {
+    "url": "https://v0.dev/t/J0hIiTq0clM",
+    "label": "Template for prompt: Show an example design of disabled dates in a calendar component, provide at least three examples",
+    "dateAdded": "2023-12-28T17:35:03.388Z"
+  },
+  {
+    "url": "https://v0.dev/t/zSQIRfh6mVZ",
+    "label": "Template for prompt: a white music player that floats in the corner of the screen.",
+    "dateAdded": "2023-12-28T17:35:03.388Z"
+  },
+  {
+    "url": "https://v0.dev/t/YaMrltbCpuI",
+    "label": "Template for prompt: A pricing component to access my app only monthly or yearly plan",
+    "dateAdded": "2023-12-28T17:35:03.388Z"
   }
 ]
