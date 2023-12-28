@@ -31188,5 +31188,135 @@
     "url": "https://v0.dev/t/oS2VuKY18SK",
     "label": "Template for prompt: anime site with animes",
     "dateAdded": "2023-12-28T18:15:03.321Z"
+  },
+  {
+    "url": "https://v0.dev/t/pOUjznFjEDB",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T18:20:03.480Z"
+  },
+  {
+    "url": "https://v0.dev/t/xupcmJekReM",
+    "label": "Template for prompt: image grid headshots",
+    "dateAdded": "2023-12-28T18:20:03.480Z"
+  },
+  {
+    "url": "https://v0.dev/t/P7RUYuJ95yS",
+    "label": "Template for prompt: side bard twitter",
+    "dateAdded": "2023-12-28T18:20:03.481Z"
+  },
+  {
+    "url": "https://v0.dev/t/YQyOJQZXlfm",
+    "label": "Template for prompt: add to this page the user icon and button to go to user profile",
+    "dateAdded": "2023-12-28T18:20:03.481Z"
+  },
+  {
+    "url": "https://v0.dev/t/oykgC37ueGP",
+    "label": "Template for prompt: a responsive dashboard with just a sidebar in the left, in the top of sidebar the user can chose the level of access",
+    "dateAdded": "2023-12-28T18:20:03.481Z"
+  },
+  {
+    "url": "https://v0.dev/t/jA0VpmiIg3A",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T18:20:03.481Z"
+  },
+  {
+    "url": "https://v0.dev/t/8Jn83H9TK3y",
+    "label": "Template for prompt: landing page, rapid sale, SAAS",
+    "dateAdded": "2023-12-28T18:20:03.482Z"
+  },
+  {
+    "url": "https://v0.dev/t/tQDCEcEumCJ",
+    "label": "Template for prompt: A main content layout, which has a mobile button on the bottom center of the screen, the button floats above the main content ",
+    "dateAdded": "2023-12-28T18:20:03.482Z"
+  },
+  {
+    "url": "https://v0.dev/t/yemkV2JIrpA",
+    "label": "Template for prompt: a mobile web page with qr code scanner",
+    "dateAdded": "2023-12-28T18:20:03.482Z"
+  },
+  {
+    "url": "https://v0.dev/t/DjgwHEibaqo",
+    "label": "Template for prompt: Create a page to crate a e-mail",
+    "dateAdded": "2023-12-28T18:20:03.482Z"
+  },
+  {
+    "url": "https://v0.dev/t/GcF6xKC71YP",
+    "label": "Template for prompt: make this with shadcn ",
+    "dateAdded": "2023-12-28T18:20:03.482Z"
+  },
+  {
+    "url": "https://v0.dev/t/7Tqsfu1P1Tr",
+    "label": "Template for prompt: a container scrollable with a border, it must to show a list of lements, if there is few elements the border container must to have the same height of the total, only apply the scroll when the contasiner doesn have more space to fit in the viewport",
+    "dateAdded": "2023-12-28T18:20:03.483Z"
+  },
+  {
+    "url": "https://v0.dev/t/toYrjqi5k7G",
+    "label": "Template for prompt: create a feedback form with clickable stars, a box for feedback, and a clickable submit button",
+    "dateAdded": "2023-12-28T18:20:03.483Z"
+  },
+  {
+    "url": "https://v0.dev/t/vQ8RD5wse00",
+    "label": "Template for prompt: profile picture\ncreate a menu component to allow user to block or channel block or invite to other users to play ping pong game\nusing icons images",
+    "dateAdded": "2023-12-28T18:20:03.483Z"
+  },
+  {
+    "url": "https://v0.dev/t/h2CACHb65aj",
+    "label": "Template for prompt: Hero section for cross city bus ticketing system ",
+    "dateAdded": "2023-12-28T18:20:03.483Z"
+  },
+  {
+    "url": "https://v0.dev/t/VAnVndW61YX",
+    "label": "Template for prompt: A minimalist modular dashboard template",
+    "dateAdded": "2023-12-28T18:20:03.484Z"
+  },
+  {
+    "url": "https://v0.dev/t/rXZFnjI4VPf",
+    "label": "Template for prompt: a 3-item countdown component, to show the number of employees in 3 different countries displaying their flags.",
+    "dateAdded": "2023-12-28T18:20:03.484Z"
+  },
+  {
+    "url": "https://v0.dev/t/t7VPtN7x2qR",
+    "label": "Template for prompt: a minimalist home page",
+    "dateAdded": "2023-12-28T18:20:03.484Z"
+  },
+  {
+    "url": "https://v0.dev/t/ih6tADy6TZg",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T18:20:03.484Z"
+  },
+  {
+    "url": "https://v0.dev/t/Xy5TMazmdSz",
+    "label": "Template for prompt: a component that shows 3 counters, to show the number of employees in 3 different countries showing their flags.",
+    "dateAdded": "2023-12-28T18:20:03.484Z"
+  },
+  {
+    "url": "https://v0.dev/t/BrG4qiR60xW",
+    "label": "Template for prompt: Create a app from WMS",
+    "dateAdded": "2023-12-28T18:20:03.485Z"
+  },
+  {
+    "url": "https://v0.dev/t/KMq7jAEdpnP",
+    "label": "Template for prompt: can you help me develop this component like the uploaded images after search result. This component is built in nextjs typescript",
+    "dateAdded": "2023-12-28T18:20:03.485Z"
+  },
+  {
+    "url": "https://v0.dev/t/hgr2wQqe5yI",
+    "label": "Template for prompt: a landing page for a volleyball club",
+    "dateAdded": "2023-12-28T18:20:03.485Z"
+  },
+  {
+    "url": "https://v0.dev/t/croUk6uMqog",
+    "label": "Template for prompt: a landing page for a skill validation site using AI",
+    "dateAdded": "2023-12-28T18:20:03.486Z"
+  },
+  {
+    "url": "https://v0.dev/t/G1zYg6rEIcG",
+    "label": "Template for prompt: An html/css only, no-scroll landing page that looks minimalistic yet unique and includes a brand message section, contact options, and social media",
+    "dateAdded": "2023-12-28T18:20:03.486Z"
+  },
+  {
+    "url": "https://v0.dev/t/7ZULI446Ci6",
+    "label": "Template for prompt: Private panel with app and launch button",
+    "dateAdded": "2023-12-28T18:20:03.486Z"
   }
 ]
