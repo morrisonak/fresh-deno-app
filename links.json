@@ -36473,5 +36473,135 @@
     "url": "https://v0.dev/t/vNKbcdYM3aK",
     "label": "Template for prompt: a paginated table with song details in the rows",
     "dateAdded": "2023-12-28T21:45:03.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/AQDqCe8OQ2l",
+    "label": "Template for prompt: 1. **Header Section:**\n   - A centered logo at the top, consisting of four interlocking rings, indicative of the Audi brand.\n   - Below the logo, the text \"Audi North OC\" is centrally aligned.\n\n2. **Information Section:**\n   - A table-like structure is presented with the following fields:\n     - Auto ID #: A number field, with the example being '1'.\n     - Name: A text field, with the placeholder example 'Jake Haslemann'.\n     - Direct Phone: A phone number field, with the placeholder example '651-315-4491'.\n     - Email: An email address field, with the placeholder example 'jhaslemann@penskeautomotive.com'.\n     - Main Phone: Another phone number field, with the placeholder example '657-315-4400'.\n     - Main Fax: A fax number field, with the placeholder example '657-315-4405'.\n   - Each field label is bold, followed by a colon, and the example input is in a lighter fon",
+    "dateAdded": "2023-12-28T21:50:03.085Z"
+  },
+  {
+    "url": "https://v0.dev/t/PalV2gBGLQf",
+    "label": "Template for prompt: resume builder",
+    "dateAdded": "2023-12-28T21:50:03.086Z"
+  },
+  {
+    "url": "https://v0.dev/t/UsNgoPY0MvM",
+    "label": "Template for prompt: a minimalist, responsive game selection screen, using shacdn, that only displays a small icon for each game, and title / description for each game",
+    "dateAdded": "2023-12-28T21:50:03.086Z"
+  },
+  {
+    "url": "https://v0.dev/t/xjpC5R8CVUW",
+    "label": "Template for prompt: A simple voice recorder UI",
+    "dateAdded": "2023-12-28T21:50:03.086Z"
+  },
+  {
+    "url": "https://v0.dev/t/4i5r7cweCx8",
+    "label": "Template for prompt: A simple voice recorder UI",
+    "dateAdded": "2023-12-28T21:50:03.086Z"
+  },
+  {
+    "url": "https://v0.dev/t/sb76wwxwZJp",
+    "label": "Template for prompt: nice landing page for a car dealer the company name is OneWay Leasing ",
+    "dateAdded": "2023-12-28T21:50:03.086Z"
+  },
+  {
+    "url": "https://v0.dev/t/woecuk2UCxQ",
+    "label": "Template for prompt: criar uma página de criação de projetos",
+    "dateAdded": "2023-12-28T21:50:03.086Z"
+  },
+  {
+    "url": "https://v0.dev/t/ggT4XMfDwNL",
+    "label": "Template for prompt: A pricing table",
+    "dateAdded": "2023-12-28T21:50:03.086Z"
+  },
+  {
+    "url": "https://v0.dev/t/mK5dq72V5PX",
+    "label": "Template for prompt: create an autoplaying infinite loop logo carousel ",
+    "dateAdded": "2023-12-28T21:50:03.086Z"
+  },
+  {
+    "url": "https://v0.dev/t/tYWAf6s4BmL",
+    "label": "Template for prompt: a warning like this with gradient",
+    "dateAdded": "2023-12-28T21:50:03.087Z"
+  },
+  {
+    "url": "https://v0.dev/t/34h6nuHqE3q",
+    "label": "Template for prompt: Web developer portfolio page. With subpages for projects, about me, contact etc. \nHave a dark mode and multiple languages",
+    "dateAdded": "2023-12-28T21:50:03.087Z"
+  },
+  {
+    "url": "https://v0.dev/t/WXU4PBZnatT",
+    "label": "Template for prompt: build me a login form with providers",
+    "dateAdded": "2023-12-28T21:50:03.087Z"
+  },
+  {
+    "url": "https://v0.dev/t/GGKW7NtxFbd",
+    "label": "Template for prompt: Navbar for a portfolio website",
+    "dateAdded": "2023-12-28T21:50:03.087Z"
+  },
+  {
+    "url": "https://v0.dev/t/Asi2KZldjhD",
+    "label": "Template for prompt: A fleet manager dashboard",
+    "dateAdded": "2023-12-28T21:50:03.087Z"
+  },
+  {
+    "url": "https://v0.dev/t/FMLicHfJIPC",
+    "label": "Template for prompt: A landing page for a disruptive and vaguely illegal chat application",
+    "dateAdded": "2023-12-28T21:50:03.087Z"
+  },
+  {
+    "url": "https://v0.dev/t/eBoKHHDzvjn",
+    "label": "Template for prompt: a minimalist, responsive layout game selection screen",
+    "dateAdded": "2023-12-28T21:50:03.087Z"
+  },
+  {
+    "url": "https://v0.dev/t/xHR1Hv0C9PD",
+    "label": "Template for prompt: A responsive CRM for really big companies that want to consolidate communications with candidates that are applying to open positions managed by recruiters, employee requests like vacations, support tickets, or general information about the company and internal procedures, as well as sending broadcast messages by a shared services internal team; also this tool is able to handle consumer facing queries managed by a comunity manager. This allows also transfer and escalate tickets within the different teams, and allows also the management of the content used to feed GEN AI assistants, allowing document upload (including validity period, that can be defined by two dates, both optional, or by predetermined periods, like a month, a quarter or a year)",
+    "dateAdded": "2023-12-28T21:50:03.088Z"
+  },
+  {
+    "url": "https://v0.dev/t/PmwEiftBXM4",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-28T21:50:03.088Z"
+  },
+  {
+    "url": "https://v0.dev/t/VRCiF63vFvl",
+    "label": "Template for prompt: a profile info for user betting history with charts and lifetime values",
+    "dateAdded": "2023-12-28T21:50:03.088Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ay38UfnGF3J",
+    "label": "Template for prompt: pagina de blog completa con blog separados por categorias, buscador por categoria y buscador general.\nArmado con taildwind ",
+    "dateAdded": "2023-12-28T21:50:03.088Z"
+  },
+  {
+    "url": "https://v0.dev/t/bqoRIgqWm3Q",
+    "label": "Template for prompt: a minimalist weather app template  ",
+    "dateAdded": "2023-12-28T21:50:03.088Z"
+  },
+  {
+    "url": "https://v0.dev/t/9ygo4gqYPEL",
+    "label": "Template for prompt: a minimalist, responsive game selection screen, using shacdn",
+    "dateAdded": "2023-12-28T21:50:03.088Z"
+  },
+  {
+    "url": "https://v0.dev/t/Avq61jiGCAg",
+    "label": "Template for prompt: a toast",
+    "dateAdded": "2023-12-28T21:50:03.088Z"
+  },
+  {
+    "url": "https://v0.dev/t/z4HBweUt1MV",
+    "label": "Template for prompt: build a funiture store called WooWork it is an online store that sells wooden funiture like Chairs, tables, Tv stands, morden bedroom suits and small accecories. Also include a demo payment methods and address",
+    "dateAdded": "2023-12-28T21:50:03.088Z"
+  },
+  {
+    "url": "https://v0.dev/t/tHkqItZbrCC",
+    "label": "Template for prompt: make a date picker like this",
+    "dateAdded": "2023-12-28T21:50:03.088Z"
+  },
+  {
+    "url": "https://v0.dev/t/STVqNj7nvf6",
+    "label": "Template for prompt: I will create a frontend that I will send an image to the frontend and will return another image, that must have a place\nto upload an image in jpg, tiff or png, and will return a jpg with marked values on it.\nThe api is already running in fastapi in this backend and is being processed like this:\n\n#### testing Fastapi\n\nimport requests\n\nurl = \"http://localhost:8000/process-image/\"  # URL of your FastAPI endpoint\nfile_path = '/treetoptracker/backend/uvicorn/notebooks/modelo_paragominas.tif'  # Path to your test image\n\nfiles = {'file': open(file_path, 'rb')}  # Open the file in binary read mode\n\nresponse = requests.post(url, files=files)  # Send the POST request\n\nif response.status_code == 200:\n    with open(\"output_image.jpg\", \"wb\") as f:\n        f.write(response.content)  # Write the content to a new file\n    print(\"Image processed and saved as output_image.jpg\")\nelse:\n    print(f\"Error: {response.status_code}\")  # Print any errors\n\n\nCan you do the frontend to that?",
+    "dateAdded": "2023-12-28T21:50:03.089Z"
   }
 ]
