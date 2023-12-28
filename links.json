@@ -25158,5 +25158,135 @@
     "url": "https://v0.dev/t/TgMeCvPfn9L",
     "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
     "dateAdded": "2023-12-28T03:25:02.986Z"
+  },
+  {
+    "url": "https://v0.dev/t/J98F0oULtNe",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T03:30:04.113Z"
+  },
+  {
+    "url": "https://v0.dev/t/PmUcLmbqvj0",
+    "label": "Template for prompt: click link for full page text blurb that shows commission info and terms of service.",
+    "dateAdded": "2023-12-28T03:30:04.113Z"
+  },
+  {
+    "url": "https://v0.dev/t/bjTsmrPKDZd",
+    "label": "Template for prompt: Table with movies",
+    "dateAdded": "2023-12-28T03:30:04.113Z"
+  },
+  {
+    "url": "https://v0.dev/t/eTP36siCPZj",
+    "label": "Template for prompt: show me html/tailwindcss of this picture",
+    "dateAdded": "2023-12-28T03:30:04.114Z"
+  },
+  {
+    "url": "https://v0.dev/t/rxpNzLhGUqG",
+    "label": "Template for prompt: improve  <CardContent>\n        <div className=\"space-y-4\">\n          <div className=\"grid grid-cols-2 gap-4\">\n            <div className=\"space-y-2\">\n              <Label htmlFor=\"first-name\">First name</Label>\n              <Input className=\"w-full\" id=\"first-name\" placeholder=\"Enter your first name\" />\n            </div>\n            <div className=\"space-y-2\">\n              <Label htmlFor=\"last-name\">Last name</Label>\n              <Input className=\"w-full\" id=\"last-name\" placeholder=\"Enter your last name\" />\n            </div>\n          </div>\n          <div className=\"space-y-2\">\n            <Label htmlFor=\"email\">Email</Label>\n            <Input className=\"w-full\" id=\"email\" placeholder=\"Enter your email\" type=\"email\" />\n          </div>\n          <div className=\"space-y-2\">\n            <Label htmlFor=\"message\">Message</Label>\n            <Textarea className=\"min-h-[100px] w-full\" id=\"message\" placeholder=\"Enter your message\" />\n          </div>\n        </div>\n      </CardContent>",
+    "dateAdded": "2023-12-28T03:30:04.114Z"
+  },
+  {
+    "url": "https://v0.dev/t/tkXSoiKMgd2",
+    "label": "Template for prompt: Create a multistep wizard with three steps where the next step is available to access only when you click the next button in the content of current step. And if current step count is greater than 1, give a back button in the step content, to go to previous step. The titles of the three steps should be\n\n1. Select Permit Type\n2. Enter Consignment Details\n3. Submit\n\nAs each step is completed and user proceeds to next step, an SVG animation of checkbox should appear beside the title of the completed step and if user comes back to that step, the svg should disappear again",
+    "dateAdded": "2023-12-28T03:30:04.114Z"
+  },
+  {
+    "url": "https://v0.dev/t/gIKb1j3rl0f",
+    "label": "Template for prompt: drag and drop",
+    "dateAdded": "2023-12-28T03:30:04.114Z"
+  },
+  {
+    "url": "https://v0.dev/t/LOtQPg4DmTD",
+    "label": "Template for prompt: a user friendly, premium mobile app called Pool Party: an intuitive, secure, and efficient platform for pooling and automatically distributing funds based on preset conditions. User Account Creation and Management\n\nEasy sign-up process with email/social media integration.\nSecure user authentication (2FA).\nFund Pool Creation\n\nAbility to create a fund pool with a clear description and purpose.\nOptions to set minimum and maximum contribution limits.\nMulti-Currency Support\n\nSupport for major fiat currencies and cryptocurrencies.\nReal-time currency conversion rates.\nAutomated Fund Distribution\n\nSmart contract implementation for setting and executing distribution conditions.\nAutomated distribution upon meeting predefined conditions.\nTransaction Tracking and Reporting\n\nReal-time tracking of contributions and distributions.\nDetailed transaction history and downloadable reports.\nUser Interface (UI)\nClean, intuitive, and responsive design.",
+    "dateAdded": "2023-12-28T03:30:04.115Z"
+  },
+  {
+    "url": "https://v0.dev/t/qXkEudHtfSv",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T03:30:04.115Z"
+  },
+  {
+    "url": "https://v0.dev/t/knegqsOtnWT",
+    "label": "Template for prompt: design a simple landing page for a sunset cruise",
+    "dateAdded": "2023-12-28T03:30:04.115Z"
+  },
+  {
+    "url": "https://v0.dev/t/FZe1gtF1kvR",
+    "label": "Template for prompt: A page with a menu on the left with multiple pieces of equipment used in engineering monitoring. the current selection displays TILTMETER readings in graphics",
+    "dateAdded": "2023-12-28T03:30:04.116Z"
+  },
+  {
+    "url": "https://v0.dev/t/8eACRYZiEyK",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T03:30:04.116Z"
+  },
+  {
+    "url": "https://v0.dev/t/LY1QaBKsSdE",
+    "label": "Template for prompt: convert this into simple react/html/tailwind: clone this page with Tailwindcss: https://www.dice.com/employer/webstore/purchase?jobPostings=1",
+    "dateAdded": "2023-12-28T03:30:04.116Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y7pPZ23I60I",
+    "label": "Template for prompt: design a web app for e-learning with a login page for student and teacher",
+    "dateAdded": "2023-12-28T03:30:04.116Z"
+  },
+  {
+    "url": "https://v0.dev/t/gnRIGVB0kQr",
+    "label": "Template for prompt: Provide the code needed to create the uploaded UI.",
+    "dateAdded": "2023-12-28T03:30:04.116Z"
+  },
+  {
+    "url": "https://v0.dev/t/0Oo3Ezw6JFg",
+    "label": "Template for prompt: a landing page for sunset cruise",
+    "dateAdded": "2023-12-28T03:30:04.117Z"
+  },
+  {
+    "url": "https://v0.dev/t/aeuXpTj0p1o",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T03:30:04.117Z"
+  },
+  {
+    "url": "https://v0.dev/t/t1HPuAP0jwJ",
+    "label": "Template for prompt: a landing page for sunset cruise",
+    "dateAdded": "2023-12-28T03:30:04.118Z"
+  },
+  {
+    "url": "https://v0.dev/t/jj5nnt8k5nz",
+    "label": "Template for prompt: a user friendly, premium mobile app called Pool Party: an intuitive, secure, and efficient platform for pooling and automatically distributing funds based on preset conditions.",
+    "dateAdded": "2023-12-28T03:30:04.118Z"
+  },
+  {
+    "url": "https://v0.dev/t/mLn4H2Cz5NS",
+    "label": "Template for prompt: a question editor with sidebar that has preview of diffrent question type on the sidebar",
+    "dateAdded": "2023-12-28T03:30:04.118Z"
+  },
+  {
+    "url": "https://v0.dev/t/s3Y3qSbbSXQ",
+    "label": "Template for prompt: create a hero section where you can send SOL token. You can input the receipient adress, the amount you want to send in USD and a send button. The program lets you spedific the usd amount, converts it in SOL and sends sol so the users doesnt need to swap in USDC and send for example",
+    "dateAdded": "2023-12-28T03:30:04.118Z"
+  },
+  {
+    "url": "https://v0.dev/t/wYVBq1UUyg2",
+    "label": "Template for prompt: making admin page with search imput on center which gets uid of user",
+    "dateAdded": "2023-12-28T03:30:04.118Z"
+  },
+  {
+    "url": "https://v0.dev/t/LMNn7rEjay7",
+    "label": "Template for prompt: create a login and register page for a mobile app ",
+    "dateAdded": "2023-12-28T03:30:04.119Z"
+  },
+  {
+    "url": "https://v0.dev/t/qX3tM71xnQI",
+    "label": "Template for prompt: awsみたいなuiを生成するコードを書いて",
+    "dateAdded": "2023-12-28T03:30:04.119Z"
+  },
+  {
+    "url": "https://v0.dev/t/HbYRhamNG7E",
+    "label": "Template for prompt: I need this UI. it should be responsive for every size of screens",
+    "dateAdded": "2023-12-28T03:30:04.119Z"
+  },
+  {
+    "url": "https://v0.dev/t/4AbithtQpcH",
+    "label": "Template for prompt: render this dashboard",
+    "dateAdded": "2023-12-28T03:30:04.120Z"
   }
 ]
