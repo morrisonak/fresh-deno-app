@@ -32933,5 +32933,135 @@
     "url": "https://v0.dev/t/mdm3xRyMM7l",
     "label": "Template for prompt: A bento grid to show projects in a web portfolio",
     "dateAdded": "2023-12-28T19:25:03.616Z"
+  },
+  {
+    "url": "https://v0.dev/t/2ignrt9U2fA",
+    "label": "Template for prompt: Chcę stworzyć za pomocą Reacta system Zarządzania Nieruchomościami Komercyjnymi ma na celu uproszczenie i usprawnienie procesów związanych z wynajmem, utrzymaniem oraz raportowaniem nieruchomości komercyjnych. Celem jest stworzenie kompleksowego, łatwego w obsłudze narzędzia, które zintegruje wszystkie aspekty zarządzania nieruchomościami w jednym miejscu. \n\nTeraz potrzebuję stworzyć w swoim panelu ładny widok podstrony do dodawania mojej nowej nieruchomości do mojego profilu, który jest dostępny za tylko dla osoby zalogowanej. System powinien mieć proste formę. Najpierw system powinien zapytać: Dodaj Twoją nieruchomość i dać możliwość użytkownikowi wyboru między wyborem : komercyjny czy mieszkaniowy. Następnie pyta użytkownika Który typ najlepiej opisuje twoją nieruchomość (do wyboru): Jeśli wybrał komercyjny to ma do wyboru: przemysłowy, biuro, sprzedaż detaliczna, centrum handlowe, magazynowy, parking, inne, a jeśli wcześniej wybrał mieszkaniowy to ma do wyboru: domy, kwatery pracow",
+    "dateAdded": "2023-12-28T19:30:03.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/vtN511aw472",
+    "label": "Template for prompt: replicate this site",
+    "dateAdded": "2023-12-28T19:30:03.884Z"
+  },
+  {
+    "url": "https://v0.dev/t/oOHnMCcXHsD",
+    "label": "Template for prompt: An React Native (nativewind/tailwind) sign up form with Apple sign up and Google sign up",
+    "dateAdded": "2023-12-28T19:30:03.884Z"
+  },
+  {
+    "url": "https://v0.dev/t/lkHrG89Y6Q4",
+    "label": "Template for prompt: A landing page for a new single family home community with a form fill page asking name, email, where they heard of us with a drop down box, where they live now with a drop down box. ",
+    "dateAdded": "2023-12-28T19:30:03.886Z"
+  },
+  {
+    "url": "https://v0.dev/t/4QojWN0vpA1",
+    "label": "Template for prompt: a page similar to a google meet call",
+    "dateAdded": "2023-12-28T19:30:03.887Z"
+  },
+  {
+    "url": "https://v0.dev/t/HO93bncBC2n",
+    "label": "Template for prompt: I want such types of buttons in which the current state of button determines how many elements are highlighted. Also provide the lines extending from left to the button when it is clicked",
+    "dateAdded": "2023-12-28T19:30:03.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/rDzgkBgHZX3",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-28T19:30:03.890Z"
+  },
+  {
+    "url": "https://v0.dev/t/vfNJWa4NkvL",
+    "label": "Template for prompt: landing page for a b2b saas comparison site",
+    "dateAdded": "2023-12-28T19:30:03.891Z"
+  },
+  {
+    "url": "https://v0.dev/t/B12KpjEeyvk",
+    "label": "Template for prompt: navbar under a header with dropdowns",
+    "dateAdded": "2023-12-28T19:30:03.891Z"
+  },
+  {
+    "url": "https://v0.dev/t/twvsSNqTAmi",
+    "label": "Template for prompt: Dark mode landing page that has a hyper sylized header with the word \"Bizness\" and underneath it is a combobox input like google",
+    "dateAdded": "2023-12-28T19:30:03.892Z"
+  },
+  {
+    "url": "https://v0.dev/t/julIg5szaau",
+    "label": "Template for prompt: generate admin dashboard ui with sidebar",
+    "dateAdded": "2023-12-28T19:30:03.893Z"
+  },
+  {
+    "url": "https://v0.dev/t/qaQFbsIexnp",
+    "label": "Template for prompt: create in tailwind nextjs and use react-icon",
+    "dateAdded": "2023-12-28T19:30:03.894Z"
+  },
+  {
+    "url": "https://v0.dev/t/mIn6U5ViyGs",
+    "label": "Template for prompt: A product page on a crowdfunding site. Include perks, stretch goals, etc.",
+    "dateAdded": "2023-12-28T19:30:03.894Z"
+  },
+  {
+    "url": "https://v0.dev/t/nC93ECQSHKb",
+    "label": "Template for prompt: give me html code",
+    "dateAdded": "2023-12-28T19:30:03.894Z"
+  },
+  {
+    "url": "https://v0.dev/t/qA5qlNqA2PZ",
+    "label": "Template for prompt: Create for me a good youtube thumbnail for me \nThe topic is on \"Python Techniques Every developer should know\"",
+    "dateAdded": "2023-12-28T19:30:03.894Z"
+  },
+  {
+    "url": "https://v0.dev/t/7RMUxO4htlG",
+    "label": "Template for prompt: Create a web page design with code for a Quest page in a web app, focusing on user interaction and clarity. Layout specifics:\n\n\t1.\tTop Section: Map with quest location pin, quest creator’s avatar, and name.\n\t2.\tCentral Section: Quest title, address, and row of participant avatars.\n\t3.\tMain Action Area: Distinct section for quest type (free, paid by participants, or creator-paid) and price. Include a large ‘Participate’ button as the primary call-to-action.\n\t4.\tDescription and Photos: Section for a detailed quest description and separate photo gallery.\n\t5.\tAdditional Information: List ‘Things to Know’ clearly, possibly in bullet points.\n\t6.\tSecondary Actions: ‘Add to Favorites’ and ‘Share’ buttons, less prominently placed.\n\nThe HTML and CSS should reflect this layout with clean, modern aesthetics. Use JavaScript for interactive elements like the map and buttons. The design emphasizes the main action area to draw user attention and encourage participation.",
+    "dateAdded": "2023-12-28T19:30:03.895Z"
+  },
+  {
+    "url": "https://v0.dev/t/wxs69El5uJ6",
+    "label": "Template for prompt: Create a web page design with code for a Quest page in a web app, focusing on user interaction and clarity. Layout specifics:\n\n\t1.\tTop Section: Map with quest location pin, quest creator’s avatar, and name.\n\t2.\tCentral Section: Quest title, address, and row of participant avatars.\n\t3.\tMain Action Area: Distinct section for quest type (free, paid by participants, or creator-paid) and price. Include a large ‘Participate’ button as the primary call-to-action.\n\t4.\tDescription and Photos: Section for a detailed quest description and separate photo gallery.\n\t5.\tAdditional Information: List ‘Things to Know’ clearly, possibly in bullet points.\n\t6.\tSecondary Actions: ‘Add to Favorites’ and ‘Share’ buttons, less prominently placed.\n\nThe HTML and CSS should reflect this layout with clean, modern aesthetics. Use JavaScript for interactive elements like the map and buttons. The design emphasizes the main action area to draw user attention and encourage participation.",
+    "dateAdded": "2023-12-28T19:30:03.895Z"
+  },
+  {
+    "url": "https://v0.dev/t/wMCUNg9h3m8",
+    "label": "Template for prompt: A SaaS admin dashboard",
+    "dateAdded": "2023-12-28T19:30:03.895Z"
+  },
+  {
+    "url": "https://v0.dev/t/JaG5IZrnFmu",
+    "label": "Template for prompt: E-commerce cart examples",
+    "dateAdded": "2023-12-28T19:30:03.895Z"
+  },
+  {
+    "url": "https://v0.dev/t/fCc6fsk6WxX",
+    "label": "Template for prompt: a calendar like this",
+    "dateAdded": "2023-12-28T19:30:03.895Z"
+  },
+  {
+    "url": "https://v0.dev/t/C0kzkMROZtF",
+    "label": "Template for prompt: the landing website with moving dynamic particles",
+    "dateAdded": "2023-12-28T19:30:03.896Z"
+  },
+  {
+    "url": "https://v0.dev/t/81mbgo1M41N",
+    "label": "Template for prompt: hero section with particles background in a dark gold color",
+    "dateAdded": "2023-12-28T19:30:03.896Z"
+  },
+  {
+    "url": "https://v0.dev/t/JhW6476axWQ",
+    "label": "Template for prompt: dropdown menu under a header",
+    "dateAdded": "2023-12-28T19:30:03.896Z"
+  },
+  {
+    "url": "https://v0.dev/t/o2UgpzwBPrI",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T19:30:03.897Z"
+  },
+  {
+    "url": "https://v0.dev/t/CSONBaXpJU6",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-28T19:30:03.897Z"
+  },
+  {
+    "url": "https://v0.dev/t/lqM3OvG6SHj",
+    "label": "Template for prompt: login page",
+    "dateAdded": "2023-12-28T19:30:03.897Z"
   }
 ]
