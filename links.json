@@ -29408,5 +29408,125 @@
     "url": "https://v0.dev/t/BvIcRUmuW20",
     "label": "Template for prompt: a user settings page in github style",
     "dateAdded": "2023-12-28T17:05:03.344Z"
+  },
+  {
+    "url": "https://v0.dev/t/GrAFobSESG5",
+    "label": "Template for prompt: desktop:\nnon scrollable grid layout with 2 rows. upper row is half/half, paragraph on left, video on right, second row is a full width single-row gallery with fixed width items, it scrolls on x overflow\n\nmobile: \nthe layout needs to stack with the prompt/video visibility split between tabs. it should be scrollable, the gallery should be 1 column wide on mobile and scroll in the y direction instead of x",
+    "dateAdded": "2023-12-28T17:10:02.880Z"
+  },
+  {
+    "url": "https://v0.dev/t/x4VnSsI77zy",
+    "label": "Template for prompt: Create a ChatGPT Clone Frontend ",
+    "dateAdded": "2023-12-28T17:10:02.880Z"
+  },
+  {
+    "url": "https://v0.dev/t/pjrtqz9YmxR",
+    "label": "Template for prompt: create a layout of an website with various events and a filter for data, type and price",
+    "dateAdded": "2023-12-28T17:10:02.880Z"
+  },
+  {
+    "url": "https://v0.dev/t/FnspxD6B8Am",
+    "label": "Template for prompt: A landing page for my portfolio website. I'm a Senior Software Engineer and I want to showcase my resume in a beautiful maner, showcase my skills, career achievements, highlight projects, and etc.",
+    "dateAdded": "2023-12-28T17:10:02.880Z"
+  },
+  {
+    "url": "https://v0.dev/t/Jwr81P0VTZ8",
+    "label": "Template for prompt: black and white screen to showcase a stock ticker it's financials and details about the stock",
+    "dateAdded": "2023-12-28T17:10:02.880Z"
+  },
+  {
+    "url": "https://v0.dev/t/tdVykDDvu06",
+    "label": "Template for prompt: give me this code in react with reusable components and clearly",
+    "dateAdded": "2023-12-28T17:10:02.881Z"
+  },
+  {
+    "url": "https://v0.dev/t/lHfaFCjGEFv",
+    "label": "Template for prompt: this component",
+    "dateAdded": "2023-12-28T17:10:02.881Z"
+  },
+  {
+    "url": "https://v0.dev/t/vjXZTBdBpdD",
+    "label": "Template for prompt: A showcase website where they talk about craft activities",
+    "dateAdded": "2023-12-28T17:10:02.881Z"
+  },
+  {
+    "url": "https://v0.dev/t/nLgFvFDTdbD",
+    "label": "Template for prompt: desktop:\nnon scrollable grid layout with 2 rows. upper row is half/half, paragraph on left, video on right, second row is a full width gallery. \n\nmobile: \nthe layout needs to stack with the prompt/video visibility split between tabs. it should be scrollable, the gallery should be 1 column wide on mobile",
+    "dateAdded": "2023-12-28T17:10:02.881Z"
+  },
+  {
+    "url": "https://v0.dev/t/UP58kJnSMQN",
+    "label": "Template for prompt: a portofolio index page with image if hover project and description",
+    "dateAdded": "2023-12-28T17:10:02.881Z"
+  },
+  {
+    "url": "https://v0.dev/t/D2eaibDr7Ay",
+    "label": "Template for prompt: Please design a top Page of selling digital products site ",
+    "dateAdded": "2023-12-28T17:10:02.881Z"
+  },
+  {
+    "url": "https://v0.dev/t/RXDt86CjiAO",
+    "label": "Template for prompt: Generates this component",
+    "dateAdded": "2023-12-28T17:10:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/OySj6zkMdw6",
+    "label": "Template for prompt: A grid of video calls that attempts to maintain a 16:9 aspect ratio for each call.",
+    "dateAdded": "2023-12-28T17:10:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/W5oE8nRXDGX",
+    "label": "Template for prompt: The texts 1,2,3,4,5 are buttons. When I press continue button, A line should move from 1 to 2 button and set its state, When I complete page 1,2, and move to 3, the line should move accordinhly setting the active state. This is the landing page design",
+    "dateAdded": "2023-12-28T17:10:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/B8a0Go1oOji",
+    "label": "Template for prompt: je veux que tu me cree une interface de chatbot avec tout les element et fonction ",
+    "dateAdded": "2023-12-28T17:10:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/4qebKZk0XuG",
+    "label": "Template for prompt: a make word app minimalist",
+    "dateAdded": "2023-12-28T17:10:02.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/PJkWGbIzNIA",
+    "label": "Template for prompt: something like spotify",
+    "dateAdded": "2023-12-28T17:10:02.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/S6iz6XmewCO",
+    "label": "Template for prompt: a pricing table with toggle switch yearly monthly with 3 plans",
+    "dateAdded": "2023-12-28T17:10:02.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/XAUTgyhV62F",
+    "label": "Template for prompt: a chatgpt based assistant for the hotel website. The chat should be helping potential customers to arrange their trip by answering their questions about the hotel, its surroundings, the amenities included, trip advises, etc.",
+    "dateAdded": "2023-12-28T17:10:02.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/lflMFz8GUXR",
+    "label": "Template for prompt: There are 'leave a note' component which allows adding comment. Make it better in UX point of view. Should it be in center, or should it be from the left, or other option you would suggest.",
+    "dateAdded": "2023-12-28T17:10:02.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/CRGvEhbaLtt",
+    "label": "Template for prompt: A grid 20 by 20, and a square blocks that can be placed on the grid using drag and drop",
+    "dateAdded": "2023-12-28T17:10:02.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/XsDzMkU6yH6",
+    "label": "Template for prompt: List of competition entries with information: name, age, school. On the right hand side you will find the grade of each entry in a circle.",
+    "dateAdded": "2023-12-28T17:10:02.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/wscZt0egFPy",
+    "label": "Template for prompt: something like this:",
+    "dateAdded": "2023-12-28T17:10:02.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/iTUhoH0QOgT",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-28T17:10:02.884Z"
   }
 ]
