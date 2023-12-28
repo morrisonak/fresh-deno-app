@@ -23363,5 +23363,135 @@
     "url": "https://v0.dev/t/BH7Lz8sdwWD",
     "label": "Template for prompt: A list of product categories with image, name and description.",
     "dateAdded": "2023-12-28T02:15:03.537Z"
+  },
+  {
+    "url": "https://v0.dev/t/0Ql7Fm8w41W",
+    "label": "Template for prompt: a page nav，\nThere are four menu item navigation items of 'truck', 'high-end car', 'online car-hailing', and 'new energy family vehicle'. The first navigation item of 'truck' is currently displayed, and the 'truck' item， 'truck' have many form items",
+    "dateAdded": "2023-12-28T02:20:02.833Z"
+  },
+  {
+    "url": "https://v0.dev/t/RDaaB6ULYs2",
+    "label": "Template for prompt: profile list view ",
+    "dateAdded": "2023-12-28T02:20:02.833Z"
+  },
+  {
+    "url": "https://v0.dev/t/653noCfz5Nq",
+    "label": "Template for prompt: a ios vpn app logo",
+    "dateAdded": "2023-12-28T02:20:02.833Z"
+  },
+  {
+    "url": "https://v0.dev/t/iJUgDOmsLzd",
+    "label": "Template for prompt: a ios vpn app logo",
+    "dateAdded": "2023-12-28T02:20:02.833Z"
+  },
+  {
+    "url": "https://v0.dev/t/1j9CFcN5Zh2",
+    "label": "Template for prompt: a beautifully designed article summary component on a chrome extension",
+    "dateAdded": "2023-12-28T02:20:02.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/73L2ml3HNRE",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T02:20:02.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/mSAHBaJzw62",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T02:20:02.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/urG3GFrFmfN",
+    "label": "Template for prompt: a main page with a navigation header that becomes a drop-down at mobile sizes. Navigation has three links: Home, About and Contact. Navigation header also has a dark/light mode toggle button. Navigation header also has a spot for logo on left.  Main section is blank for now.  Accent color throughout is purple in both light and dark modes.",
+    "dateAdded": "2023-12-28T02:20:02.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/NK3ND5Nfefu",
+    "label": "Template for prompt: A feed page with the cards for each feed post having an image and without an image, a title, summary, date posted, name, username and avatar of the author and the reading time for the post in minutes. Also, ensure that is cards spaced out across the screen with a section above for the username, name, avatar (enlargened), number of posts, join date, social media links, number of followers and following, summary, skills and who to follow.",
+    "dateAdded": "2023-12-28T02:20:02.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/kEkEcNjSEuk",
+    "label": "Template for prompt: card list page for mobile",
+    "dateAdded": "2023-12-28T02:20:02.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y0GkcA8ZgIR",
+    "label": "Template for prompt: A baseball card element that is flippable when clicked.",
+    "dateAdded": "2023-12-28T02:20:02.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ssw5cNr6QCm",
+    "label": "Template for prompt: a beautifully designed article summary component powered by GPT4 ",
+    "dateAdded": "2023-12-28T02:20:02.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/MZRe7t14GpQ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T02:20:02.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/oBgFIoznPVr",
+    "label": "Template for prompt: a beautifully designed AI news summary component on a chrome extension",
+    "dateAdded": "2023-12-28T02:20:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/HsPeGwsgA9m",
+    "label": "Template for prompt: A detailed lawyers page for the user like a dashboard",
+    "dateAdded": "2023-12-28T02:20:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/K6UrTd9Z8W9",
+    "label": "Template for prompt: landing page with bootstrap",
+    "dateAdded": "2023-12-28T02:20:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/jLHW1Ox0sya",
+    "label": "Template for prompt: modal confirmation",
+    "dateAdded": "2023-12-28T02:20:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/BG9cEvZcmIE",
+    "label": "Template for prompt: 401ページデザイン",
+    "dateAdded": "2023-12-28T02:20:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/jCQw0h9AiHy",
+    "label": "Template for prompt: A landing page for a farm with section for \"About us\", \"Animal Lineup\". \"Contact\", and \"store\" ",
+    "dateAdded": "2023-12-28T02:20:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/ifDxhn0KDZ1",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T02:20:02.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/fhg2WS4GQC2",
+    "label": "Template for prompt: subway route map ui with horizontal stations arrangement",
+    "dateAdded": "2023-12-28T02:20:02.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/XKQBBsStA3f",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-28T02:20:02.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/4H03I4wqHfZ",
+    "label": "Template for prompt: landing page for a portfolio web",
+    "dateAdded": "2023-12-28T02:20:02.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZsBaKuvlfew",
+    "label": "Template for prompt: Create a landing page with simple top nav bar with a logo on the left corner, menu with 3 items in the center, and another menu with 2 items on the right corner. It has a full screen hero page with covering image, and a \"scroll\" text and an arrow icon in the bottom.",
+    "dateAdded": "2023-12-28T02:20:02.838Z"
+  },
+  {
+    "url": "https://v0.dev/t/6odDj9sVly6",
+    "label": "Template for prompt: 两个大输入框，左右显示，中间有一个按钮",
+    "dateAdded": "2023-12-28T02:20:02.838Z"
+  },
+  {
+    "url": "https://v0.dev/t/n9sNJKogCSD",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-28T02:20:02.838Z"
   }
 ]
