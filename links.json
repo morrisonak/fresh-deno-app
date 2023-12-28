@@ -30538,5 +30538,135 @@
     "url": "https://v0.dev/t/4ydxbujC4Yr",
     "label": "Template for prompt: For landing page. There will be 2 sections on the left; title address icon, content and phone icon content. Right; google maps",
     "dateAdded": "2023-12-28T17:50:03.405Z"
+  },
+  {
+    "url": "https://v0.dev/t/HCLbzZjiHS2",
+    "label": "Template for prompt: A simple mobile ui for a recipe creation and sharing application",
+    "dateAdded": "2023-12-28T17:55:04.156Z"
+  },
+  {
+    "url": "https://v0.dev/t/SEK22C3NwtY",
+    "label": "Template for prompt: a comment section with comments cards that include sender name and sender message",
+    "dateAdded": "2023-12-28T17:55:04.156Z"
+  },
+  {
+    "url": "https://v0.dev/t/x7HsL8TCpKH",
+    "label": "Template for prompt: a pagination component that can take into account that it can be from 1 page to 100 and it needs a good way to show.",
+    "dateAdded": "2023-12-28T17:55:04.157Z"
+  },
+  {
+    "url": "https://v0.dev/t/7qfBBBVLWB2",
+    "label": "Template for prompt: A chatGPT interface with sidebard to explore file togglabe to chat with and rigbard to see citations",
+    "dateAdded": "2023-12-28T17:55:04.157Z"
+  },
+  {
+    "url": "https://v0.dev/t/doggLpRp9ww",
+    "label": "Template for prompt: bitte erstelle mir einen kompletten funktionsfähigen ChatGPT Clone mit Historie funktion",
+    "dateAdded": "2023-12-28T17:55:04.157Z"
+  },
+  {
+    "url": "https://v0.dev/t/9XEfFHMplkv",
+    "label": "Template for prompt: A simple mobile ui for a recipe creation and sharing application",
+    "dateAdded": "2023-12-28T17:55:04.158Z"
+  },
+  {
+    "url": "https://v0.dev/t/MEjLLTCnmss",
+    "label": "Template for prompt: a dashbord with top menu",
+    "dateAdded": "2023-12-28T17:55:04.158Z"
+  },
+  {
+    "url": "https://v0.dev/t/n6CXtVdnH1P",
+    "label": "Template for prompt: A product listing page with heading Select Your Choice in capital letters. ",
+    "dateAdded": "2023-12-28T17:55:04.158Z"
+  },
+  {
+    "url": "https://v0.dev/t/VeIyMpmfhbt",
+    "label": "Template for prompt: Can you show me a simplified landing page for a cocktail recipe web app? The name of the app is Tails",
+    "dateAdded": "2023-12-28T17:55:04.158Z"
+  },
+  {
+    "url": "https://v0.dev/t/U9O2bxi678s",
+    "label": "Template for prompt: A 404 page with a animated border",
+    "dateAdded": "2023-12-28T17:55:04.159Z"
+  },
+  {
+    "url": "https://v0.dev/t/IU62gM0vf7r",
+    "label": "Template for prompt: A dashboard for a marketing automation app with a multilevel top menu",
+    "dateAdded": "2023-12-28T17:55:04.159Z"
+  },
+  {
+    "url": "https://v0.dev/t/2wle7SDSPoS",
+    "label": "Template for prompt: mobile app for delivery",
+    "dateAdded": "2023-12-28T17:55:04.159Z"
+  },
+  {
+    "url": "https://v0.dev/t/LSn49TgstfV",
+    "label": "Template for prompt: upload form, 3 drop downs, an upload dropzone, and a submit button. An image preview of the upload to the left. ",
+    "dateAdded": "2023-12-28T17:55:04.159Z"
+  },
+  {
+    "url": "https://v0.dev/t/gOqYYrSvfDe",
+    "label": "Template for prompt: A dashboard for a marketing automation app with a multilevel top menu",
+    "dateAdded": "2023-12-28T17:55:04.159Z"
+  },
+  {
+    "url": "https://v0.dev/t/5xXsR5LrvBT",
+    "label": "Template for prompt: component with personal information  and picture of the user and a button to play one audioo ",
+    "dateAdded": "2023-12-28T17:55:04.159Z"
+  },
+  {
+    "url": "https://v0.dev/t/CDJvGIQiHmQ",
+    "label": "Template for prompt: quiero una barra de navegacion responsiva moderna con tailwind cs. Similar a la de la foto",
+    "dateAdded": "2023-12-28T17:55:04.160Z"
+  },
+  {
+    "url": "https://v0.dev/t/M9O2loNgmWH",
+    "label": "Template for prompt: A calendar schedule with a month, week, and agenda view. The month and week views list the events on that date, without listing the times",
+    "dateAdded": "2023-12-28T17:55:04.160Z"
+  },
+  {
+    "url": "https://v0.dev/t/lDqwbWVJKY6",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders. Each table entry opens a detail page to the right of the table.",
+    "dateAdded": "2023-12-28T17:55:04.160Z"
+  },
+  {
+    "url": "https://v0.dev/t/03JOQcwc26s",
+    "label": "Template for prompt: portfolio website of a graphic designer",
+    "dateAdded": "2023-12-28T17:55:04.160Z"
+  },
+  {
+    "url": "https://v0.dev/t/rmsCvDERb5G",
+    "label": "Template for prompt: Immerse yourself in a vibrant canvas of abundance! Our homepage bursts with life, showcasing the freshest produce and most potent fertilizers, ready to empower your retail haven. Forget sterile product lists – bask in a photorealistic panorama where plump, glistening corncobs whisper promises of bountiful harvests, and crisp vegetable rainbows ignite your senses. Each section, a meticulously curated still life: plump cherry tomatoes nestled in wicker baskets, emerald spinach leaves glistening with morning dew, and sturdy fertilizer bags stacked like vibrant building blocks. Fancy script announces each category in bold, playful hues, inviting you to explore. Hover over an image, and watch it transform – a playful animation reveals the product's details, origin story, and enticing benefits, whispered in a font that dances between elegant and rustic. Click to delve deeper, where interactive infographics showcase the meticulous sourcing process, highlighting partnerships with top manufactu",
+    "dateAdded": "2023-12-28T17:55:04.160Z"
+  },
+  {
+    "url": "https://v0.dev/t/lnts4OcY7pp",
+    "label": "Template for prompt: card with picture a and name os the user ",
+    "dateAdded": "2023-12-28T17:55:04.161Z"
+  },
+  {
+    "url": "https://v0.dev/t/gLW2loGf7zN",
+    "label": "Template for prompt: Bathe the screen in a warm, earthy terracotta, evoking the rich tones of freshly turned soil. Let a vibrant splash of emerald green dance across the top, representing the verdant bounty you offer. In bold, sans-serif text, proclaim your dedication to \"Empowering Retailers, Cultivating Growth.\" Below, let three elegant cards blossom, each showcasing a key service. The first, titled \"Cornucopia of Corn,\" overflows with golden kernels, promising the finest varieties from trusted names. Next, \"Vegetable Vibrantcy\" brims with an explosion of colors – crisp lettuces, blushing tomatoes, and vibrant eggplants – a testament to your commitment to farm-fresh quality. Finally, \"Fertile Foundations\" presents a sturdy sack of fertilizer, symbolizing the strength and stability you bring to retailers' businesses. Intersperse these cards with concise yet evocative descriptions, highlighting the convenience of your product aggregation and the reliability of your partnerships. Sprinkle in high-quality pr",
+    "dateAdded": "2023-12-28T17:55:04.161Z"
+  },
+  {
+    "url": "https://v0.dev/t/JNHw7qDDFOQ",
+    "label": "Template for prompt: a card with a radar chart and slide controls for each entry of the radar",
+    "dateAdded": "2023-12-28T17:55:04.161Z"
+  },
+  {
+    "url": "https://v0.dev/t/4OMx3DgQB08",
+    "label": "Template for prompt: a sidebar menu with category icons and subsection of links",
+    "dateAdded": "2023-12-28T17:55:04.161Z"
+  },
+  {
+    "url": "https://v0.dev/t/1EUTwYkLFj5",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T17:55:04.161Z"
+  },
+  {
+    "url": "https://v0.dev/t/3djSLwOSDew",
+    "label": "Template for prompt: a dashbord with side bar",
+    "dateAdded": "2023-12-28T17:55:04.162Z"
   }
 ]
