@@ -26718,5 +26718,135 @@
     "url": "https://v0.dev/t/6DhGwhFdrSX",
     "label": "Template for prompt: You have to develop a demo react app (for mobile and web). Set up a React project using CRA and if you know TypeScript and SASS, use them - you’ll earn bonus points \nThe app is a simplified search app with following requirements: \nClick on the search tab latest trend suggestion box open \nImplement faker api for showing data. \nAccording to the filter data should update. \nClick on the Wishlist colour should change to red \nOn hovering to the product view product button should be visible.\n",
     "dateAdded": "2023-12-28T15:20:03.440Z"
+  },
+  {
+    "url": "https://v0.dev/t/OelcW79aMRv",
+    "label": "Template for prompt: A subscription management app. It is flat design, has a title that says \"Hey Ben,\" and then a subtitle \"This month you have spent:\". This is followed by a big card that outlines amount spent. Bellow it, there's a subtitle \"Upcoming payments\" with a card list of 3 upcoming subscription renewals. This list should feature an icon, name, price and a date on the right hand side. The date should be designed as a play on calendar icon",
+    "dateAdded": "2023-12-28T15:25:03.175Z"
+  },
+  {
+    "url": "https://v0.dev/t/YNGU11OEdyv",
+    "label": "Template for prompt: the landing page for a rural hotel, showcasing its several rooms",
+    "dateAdded": "2023-12-28T15:25:03.176Z"
+  },
+  {
+    "url": "https://v0.dev/t/RCTPLYOULkG",
+    "label": "Template for prompt: create a beautiful gradient navbar for my restaurant.  ",
+    "dateAdded": "2023-12-28T15:25:03.176Z"
+  },
+  {
+    "url": "https://v0.dev/t/F2g2v0NLWmI",
+    "label": "Template for prompt: landing page with a simple form on the right",
+    "dateAdded": "2023-12-28T15:25:03.176Z"
+  },
+  {
+    "url": "https://v0.dev/t/9Y51pTYmuhe",
+    "label": "Template for prompt: a landing page for my development enterprise call it riverin tech solutions",
+    "dateAdded": "2023-12-28T15:25:03.176Z"
+  },
+  {
+    "url": "https://v0.dev/t/dV5h1vCb7JP",
+    "label": "Template for prompt: an ecommerce lading page, with a flsah sale section, new arrival section",
+    "dateAdded": "2023-12-28T15:25:03.176Z"
+  },
+  {
+    "url": "https://v0.dev/t/jheQU8U8CWV",
+    "label": "Template for prompt: build me a similar dashbard but do add animations and change the color according to you and insert the real images",
+    "dateAdded": "2023-12-28T15:25:03.176Z"
+  },
+  {
+    "url": "https://v0.dev/t/6Y7ZGS33D1R",
+    "label": "Template for prompt: causal game dev home page",
+    "dateAdded": "2023-12-28T15:25:03.177Z"
+  },
+  {
+    "url": "https://v0.dev/t/de6cXpaeWnc",
+    "label": "Template for prompt: Create a Users admin panel with shadcn. It should be laid out like wordpress users panel",
+    "dateAdded": "2023-12-28T15:25:03.177Z"
+  },
+  {
+    "url": "https://v0.dev/t/thvgoezqyaq",
+    "label": "Template for prompt: create a grid that lists all these numbers in individual rows. more columns will be added later",
+    "dateAdded": "2023-12-28T15:25:03.177Z"
+  },
+  {
+    "url": "https://v0.dev/t/otTVF5smcRT",
+    "label": "Template for prompt: Make it for me",
+    "dateAdded": "2023-12-28T15:25:03.177Z"
+  },
+  {
+    "url": "https://v0.dev/t/ABb3gl7W4dB",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T15:25:03.177Z"
+  },
+  {
+    "url": "https://v0.dev/t/mt6QfFJaQvR",
+    "label": "Template for prompt: A header that runs vertically down the page.",
+    "dateAdded": "2023-12-28T15:25:03.177Z"
+  },
+  {
+    "url": "https://v0.dev/t/cWJNpBgSEOm",
+    "label": "Template for prompt: a home page for the blog with the list of blog cards",
+    "dateAdded": "2023-12-28T15:25:03.177Z"
+  },
+  {
+    "url": "https://v0.dev/t/Vq3u7Xokxb8",
+    "label": "Template for prompt: make ui for skills section for a web developer portfolio",
+    "dateAdded": "2023-12-28T15:25:03.177Z"
+  },
+  {
+    "url": "https://v0.dev/t/YAexWwr4S4V",
+    "label": "Template for prompt: make ui for skills section for a web developer portfolio",
+    "dateAdded": "2023-12-28T15:25:03.178Z"
+  },
+  {
+    "url": "https://v0.dev/t/t3poWUQBGil",
+    "label": "Template for prompt: bug tracker dashboard",
+    "dateAdded": "2023-12-28T15:25:03.178Z"
+  },
+  {
+    "url": "https://v0.dev/t/FKQPuShnvlu",
+    "label": "Template for prompt: You have to develop a demo react app (for mobile and web). Set up a React project using CRA and if you know TypeScript and SASS, use them - you’ll earn bonus points \nThe app is a simplified search app with following requirements: \nClick on the search tab latest trend suggestion box open \nImplement faker api for showing data. \nAccording to the filter data should update. \nClick on the Wishlist colour should change to red \nOn hovering to the product view product button should be visible.\n",
+    "dateAdded": "2023-12-28T15:25:03.178Z"
+  },
+  {
+    "url": "https://v0.dev/t/KEiaaCjcdvx",
+    "label": "Template for prompt: You have to develop a demo react app (for mobile and web). Set up a React project using CRA and if you know TypeScript and SASS, use them - you’ll earn bonus points \nThe app is a simplified search app with following requirements: \nClick on the search tab latest trend suggestion box open \nImplement faker api for showing data. \nAccording to the filter data should update. \nClick on the Wishlist colour should change to red \nOn hovering to the product view product button should be visible.\n",
+    "dateAdded": "2023-12-28T15:25:03.178Z"
+  },
+  {
+    "url": "https://v0.dev/t/GNPc3LCs6kI",
+    "label": "Template for prompt: Try to make the general info on the Manage Access popup more visible for the user (use a green color for the text or so)",
+    "dateAdded": "2023-12-28T15:25:03.178Z"
+  },
+  {
+    "url": "https://v0.dev/t/JG2yoYtgYfP",
+    "label": "Template for prompt: redesign notion.so page",
+    "dateAdded": "2023-12-28T15:25:03.178Z"
+  },
+  {
+    "url": "https://v0.dev/t/QlE5pS0VBqc",
+    "label": "Template for prompt: A login page for a platform focused on sustanability actions in the amazonas",
+    "dateAdded": "2023-12-28T15:25:03.178Z"
+  },
+  {
+    "url": "https://v0.dev/t/Gcod8b5qM67",
+    "label": "Template for prompt: create a single page where people can add resolutions and edit, create also, the resolutions posted looks like something pinterest boards",
+    "dateAdded": "2023-12-28T15:25:03.179Z"
+  },
+  {
+    "url": "https://v0.dev/t/LWtVeKahDfG",
+    "label": "Template for prompt: Make it more beatiful ",
+    "dateAdded": "2023-12-28T15:25:03.179Z"
+  },
+  {
+    "url": "https://v0.dev/t/3unlUGuFpJd",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-28T15:25:03.179Z"
+  },
+  {
+    "url": "https://v0.dev/t/VHIGWsHUGzD",
+    "label": "Template for prompt: create this for dashboard nextjs react tailindcss",
+    "dateAdded": "2023-12-28T15:25:03.179Z"
   }
 ]
