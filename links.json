@@ -29658,5 +29658,130 @@
     "url": "https://v0.dev/t/lHfaFCjGEFv",
     "label": "Template for prompt: this component",
     "dateAdded": "2023-12-28T17:15:03.203Z"
+  },
+  {
+    "url": "https://v0.dev/t/USZSmcKypsd",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T17:20:03.227Z"
+  },
+  {
+    "url": "https://v0.dev/t/vetqfVaw926",
+    "label": "Template for prompt: create a single page where people can add resolutions and edit, create also, the resolutions posted looks like something pinterest boards",
+    "dateAdded": "2023-12-28T17:20:03.227Z"
+  },
+  {
+    "url": "https://v0.dev/t/BOJtfc0uFvc",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T17:20:03.227Z"
+  },
+  {
+    "url": "https://v0.dev/t/r1MjhTaIcKI",
+    "label": "Template for prompt: Screenshot 2023-12-28 at 15.01.32 ",
+    "dateAdded": "2023-12-28T17:20:03.227Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z5ckesqZZhU",
+    "label": "Template for prompt: dashboard with side menu, logo in menu",
+    "dateAdded": "2023-12-28T17:20:03.227Z"
+  },
+  {
+    "url": "https://v0.dev/t/zqVRHGVia3v",
+    "label": "Template for prompt: cookie banner with shadcn ui",
+    "dateAdded": "2023-12-28T17:20:03.227Z"
+  },
+  {
+    "url": "https://v0.dev/t/k9jRQ0Tjexy",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T17:20:03.228Z"
+  },
+  {
+    "url": "https://v0.dev/t/9MoQXjQsnjc",
+    "label": "Template for prompt: dropdown list using    hover effect",
+    "dateAdded": "2023-12-28T17:20:03.228Z"
+  },
+  {
+    "url": "https://v0.dev/t/zyg7Iv7GLec",
+    "label": "Template for prompt: review section",
+    "dateAdded": "2023-12-28T17:20:03.228Z"
+  },
+  {
+    "url": "https://v0.dev/t/1RrIPnlasBG",
+    "label": "Template for prompt: create a fully responsive login page",
+    "dateAdded": "2023-12-28T17:20:03.228Z"
+  },
+  {
+    "url": "https://v0.dev/t/7sOOZk4JFGh",
+    "label": "Template for prompt: some thing like this:",
+    "dateAdded": "2023-12-28T17:20:03.229Z"
+  },
+  {
+    "url": "https://v0.dev/t/S74EcKy9Fne",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-28T17:20:03.229Z"
+  },
+  {
+    "url": "https://v0.dev/t/lYGnL85PHMz",
+    "label": "Template for prompt: database table, dark mode",
+    "dateAdded": "2023-12-28T17:20:03.229Z"
+  },
+  {
+    "url": "https://v0.dev/t/GdTUzo9xfk3",
+    "label": "Template for prompt: a page with a ask: are you a dev? and two buttons (yes and not, but with cooler ways to say that)",
+    "dateAdded": "2023-12-28T17:20:03.229Z"
+  },
+  {
+    "url": "https://v0.dev/t/lgtM8949U5c",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-28T17:20:03.230Z"
+  },
+  {
+    "url": "https://v0.dev/t/9ZLfZgzUaiw",
+    "label": "Template for prompt: something like this:",
+    "dateAdded": "2023-12-28T17:20:03.230Z"
+  },
+  {
+    "url": "https://v0.dev/t/sdWHLS7f7Ka",
+    "label": "Template for prompt: Layout:\n\nMain Content Area: Occupies around 80% of the screen width on the left.\nSidebar: Takes up the remaining 20% on the right.\nSidebar:\n\nWidth: 20% of total screen width, with a minimum width of 250px.\nBackground Color: A slightly lighter shade than the main content area for contrast.\nPadding: 20px on all sides.\nScrollable: Independently scrollable from the main content.\nIcons and Text: Medium-sized icons with text labels, vertically aligned.\nHover Effect: Slight increase in icon size and text boldness on hover.\nActive State: Highlighted background for the active section.\nMain Content Area:\n\nPadding: 30px on all sides.\nCentralized Layout: Key information or widgets centered for easy focus.\nCard Design: Use cards for different sections/widgets.\nCard Padding: 15px inside each card.\nShadow: Subtle box-shadow for a 3D effect.\nMargin: 20px between cards.\nNavigation Bar:\n\nPosition: At the top of the main content area.\nHeight: 60px.\nElements: Logo on the left, user profile, and notificati",
+    "dateAdded": "2023-12-28T17:20:03.230Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZuYjI3Nh8OJ",
+    "label": "Template for prompt: copy the code that is in the picture",
+    "dateAdded": "2023-12-28T17:20:03.230Z"
+  },
+  {
+    "url": "https://v0.dev/t/tJazH88H20t",
+    "label": "Template for prompt: copy the code that is in the picture",
+    "dateAdded": "2023-12-28T17:20:03.230Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y3vixbnX48p",
+    "label": "Template for prompt: responsive landing page header",
+    "dateAdded": "2023-12-28T17:20:03.230Z"
+  },
+  {
+    "url": "https://v0.dev/t/egphZKqty2F",
+    "label": "Template for prompt: Make a page for third-party login",
+    "dateAdded": "2023-12-28T17:20:03.231Z"
+  },
+  {
+    "url": "https://v0.dev/t/gk0RT9XgDpx",
+    "label": "Template for prompt: github clone",
+    "dateAdded": "2023-12-28T17:20:03.231Z"
+  },
+  {
+    "url": "https://v0.dev/t/OdHKrlOkl7m",
+    "label": "Template for prompt: a mosaic gallery of images",
+    "dateAdded": "2023-12-28T17:20:03.231Z"
+  },
+  {
+    "url": "https://v0.dev/t/jAvGVygoK91",
+    "label": "Template for prompt: A stylish landing page for my software development company called \"help develop\" with a dark background (slate-950). The company offers development of bots for WhatsApp, Telegram and Discord, websites and mobile applications with the following technologies: PHP, NodeJs, Python, React and React Native.",
+    "dateAdded": "2023-12-28T17:20:03.231Z"
+  },
+  {
+    "url": "https://v0.dev/t/eDWOUFNr1SR",
+    "label": "Template for prompt: a contact form for a web developer portfolio website",
+    "dateAdded": "2023-12-28T17:20:03.232Z"
   }
 ]
