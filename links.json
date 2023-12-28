@@ -33708,5 +33708,125 @@
     "url": "https://v0.dev/t/ApVnjh73PZj",
     "label": "Template for prompt: a side by side panel, one side showing a PDF and the other side with a form with 5 fields - name, address, phone, website and github URL.",
     "dateAdded": "2023-12-28T19:55:03.291Z"
+  },
+  {
+    "url": "https://v0.dev/t/hZDf4zfaciV",
+    "label": "Template for prompt: Generate for me static web about becycle and the info about option to repair becycle on special points. ",
+    "dateAdded": "2023-12-28T20:00:04.895Z"
+  },
+  {
+    "url": "https://v0.dev/t/sZVNhdBnLPJ",
+    "label": "Template for prompt: A personal finance tracking app",
+    "dateAdded": "2023-12-28T20:00:04.895Z"
+  },
+  {
+    "url": "https://v0.dev/t/TJ5kAmOpfIk",
+    "label": "Template for prompt: can you help me develop this component like the uploaded images after search result. This component is built in nextjs typescript",
+    "dateAdded": "2023-12-28T20:00:04.896Z"
+  },
+  {
+    "url": "https://v0.dev/t/gtKmFGz6fai",
+    "label": "Template for prompt: кредитная организация",
+    "dateAdded": "2023-12-28T20:00:04.896Z"
+  },
+  {
+    "url": "https://v0.dev/t/3tFhEApH42q",
+    "label": "Template for prompt: Chcę stworzyć za pomocą Reacta system Zarządzania Nieruchomościami Komercyjnymi Teraz potrzebuję stworzyć w swoim panelu ładny widok podstrony do dodawania mojej nowej nieruchomości do mojego profilu, który jest dostępny za tylko dla osoby zalogowanej. System powinien mieć proste formę. Najpierw system powinien zapytać: Dodaj Twoją nieruchomość i dać możliwość użytkownikowi wyboru między wyborem : komercyjny czy mieszkaniowy. ",
+    "dateAdded": "2023-12-28T20:00:04.896Z"
+  },
+  {
+    "url": "https://v0.dev/t/s7RtqjQhkCo",
+    "label": "Template for prompt: Un apartado con un buscador para que los visitantes vean los hoteles con los que trabajamos de una agencia de viajes",
+    "dateAdded": "2023-12-28T20:00:04.896Z"
+  },
+  {
+    "url": "https://v0.dev/t/skRFn32weY9",
+    "label": "Template for prompt: i have there domains and various sitemaps in them. Create me a dashboard for google indexing with some graphs",
+    "dateAdded": "2023-12-28T20:00:04.896Z"
+  },
+  {
+    "url": "https://v0.dev/t/sYWdbm2Qr7e",
+    "label": "Template for prompt: Login Form",
+    "dateAdded": "2023-12-28T20:00:04.897Z"
+  },
+  {
+    "url": "https://v0.dev/t/T1e5UBloA2P",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T20:00:04.897Z"
+  },
+  {
+    "url": "https://v0.dev/t/QjM8ur3tEaP",
+    "label": "Template for prompt: Could you create mobile-first app where main screen would be similar to screenshot attached (chatgpt ios app): there should be animation bubble/circle on center that moves according to voice input (from mic), red button that stops recodring, and supportive text with animation similar to that that is on screenshot (sound wave or something similar). After recording is stopped (using button and/or automatically if there is silence during 5 seconds) animations should stop, notification message  should appear",
+    "dateAdded": "2023-12-28T20:00:04.897Z"
+  },
+  {
+    "url": "https://v0.dev/t/J9lTrECH0jg",
+    "label": "Template for prompt: can you produce a php feedback page that allow uses to enter their email and a text field for a comment/feedback.. I want the results saved to a mysql database.",
+    "dateAdded": "2023-12-28T20:00:04.897Z"
+  },
+  {
+    "url": "https://v0.dev/t/kv2FbTLwidU",
+    "label": "Template for prompt: UX design for a habit tracker that look similar to this",
+    "dateAdded": "2023-12-28T20:00:04.897Z"
+  },
+  {
+    "url": "https://v0.dev/t/BXAsrTvAo5x",
+    "label": "Template for prompt: A pop up drawer that allows user to search for a product",
+    "dateAdded": "2023-12-28T20:00:04.898Z"
+  },
+  {
+    "url": "https://v0.dev/t/h53By3i9ACb",
+    "label": "Template for prompt: 3 verschiedene Abomodelle die auswählbar sind",
+    "dateAdded": "2023-12-28T20:00:04.898Z"
+  },
+  {
+    "url": "https://v0.dev/t/KyRrvMJrCOA",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T20:00:04.898Z"
+  },
+  {
+    "url": "https://v0.dev/t/uxmgKDeG08F",
+    "label": "Template for prompt: a bookmark manager",
+    "dateAdded": "2023-12-28T20:00:04.898Z"
+  },
+  {
+    "url": "https://v0.dev/t/ene9Ho3m5uf",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T20:00:04.898Z"
+  },
+  {
+    "url": "https://v0.dev/t/1EP62aQxD8Z",
+    "label": "Template for prompt: a landing page for a blackjack game",
+    "dateAdded": "2023-12-28T20:00:04.899Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZbJBVTaq8kF",
+    "label": "Template for prompt: a blackjack card",
+    "dateAdded": "2023-12-28T20:00:04.899Z"
+  },
+  {
+    "url": "https://v0.dev/t/mZJbVoTCY8F",
+    "label": "Template for prompt: follower sales site",
+    "dateAdded": "2023-12-28T20:00:04.899Z"
+  },
+  {
+    "url": "https://v0.dev/t/A1becrE1kEu",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T20:00:04.899Z"
+  },
+  {
+    "url": "https://v0.dev/t/P7Iu9aginID",
+    "label": "Template for prompt: A simple login page for an admin portal",
+    "dateAdded": "2023-12-28T20:00:04.899Z"
+  },
+  {
+    "url": "https://v0.dev/t/mHAIfQ8dA70",
+    "label": "Template for prompt: generate a triathlon blog page",
+    "dateAdded": "2023-12-28T20:00:04.899Z"
+  },
+  {
+    "url": "https://v0.dev/t/6pFN5XpDg8Y",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T20:00:04.900Z"
   }
 ]
