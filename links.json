@@ -33828,5 +33828,130 @@
     "url": "https://v0.dev/t/6pFN5XpDg8Y",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2023-12-28T20:00:04.900Z"
+  },
+  {
+    "url": "https://v0.dev/t/D7CK0cZAHAV",
+    "label": "Template for prompt: landing page with search table for: countr(ies), Gb amount, Pricing",
+    "dateAdded": "2023-12-28T20:05:03.334Z"
+  },
+  {
+    "url": "https://v0.dev/t/UcdqH3OIlUX",
+    "label": "Template for prompt:  product card",
+    "dateAdded": "2023-12-28T20:05:03.334Z"
+  },
+  {
+    "url": "https://v0.dev/t/EXHqZvQ3lRP",
+    "label": "Template for prompt: can you help me develop this component like the uploaded images after search result. This component is built in nextjs typescript",
+    "dateAdded": "2023-12-28T20:05:03.334Z"
+  },
+  {
+    "url": "https://v0.dev/t/M79Qm9f9xAj",
+    "label": "Template for prompt: i want a header section for a pianist website, that containt image and content of his name and a briev description ",
+    "dateAdded": "2023-12-28T20:05:03.334Z"
+  },
+  {
+    "url": "https://v0.dev/t/ns52CLhFEM1",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T20:05:03.334Z"
+  },
+  {
+    "url": "https://v0.dev/t/s7RtqjQhkCo",
+    "label": "Template for prompt: Un apartado con un buscador para que los visitantes vean los hoteles con los que trabajamos de una agencia de viajes",
+    "dateAdded": "2023-12-28T20:05:03.335Z"
+  },
+  {
+    "url": "https://v0.dev/t/n8N5LNzUsil",
+    "label": "Template for prompt: I want to create a habit tracker where I can mark off the habits in a box for everyday of the month. I want for everybox I check a graph also shows my progress percentage compete for the month. I want it to have multiple places I can add habits.",
+    "dateAdded": "2023-12-28T20:05:03.335Z"
+  },
+  {
+    "url": "https://v0.dev/t/2BpIHsvLBmJ",
+    "label": "Template for prompt: Create a success page to show when a user has signed up for a subscription to a makerspace",
+    "dateAdded": "2023-12-28T20:05:03.335Z"
+  },
+  {
+    "url": "https://v0.dev/t/Cfi2niyQiHH",
+    "label": "Template for prompt: Un apartado con un buscador para que los visitantes vean los hoteles con los que trabajamos de una agencia de viajes",
+    "dateAdded": "2023-12-28T20:05:03.335Z"
+  },
+  {
+    "url": "https://v0.dev/t/as3dtCOS0u3",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T20:05:03.335Z"
+  },
+  {
+    "url": "https://v0.dev/t/sUA4PnhTTdW",
+    "label": "Template for prompt: Creates better ordering for the fields and buttons that are present.\nAlso, the idea is that they are on a left side, ideally respecting an order and that when you press one, the link indicated on the right can be displayed in an iframe. They should also have the option to open them in another tab",
+    "dateAdded": "2023-12-28T20:05:03.335Z"
+  },
+  {
+    "url": "https://v0.dev/t/jtkNTIvbxCj",
+    "label": "Template for prompt: Make a dashboard where users can manage their servers they have deployed for different video games",
+    "dateAdded": "2023-12-28T20:05:03.335Z"
+  },
+  {
+    "url": "https://v0.dev/t/b53p9FALGzz",
+    "label": "Template for prompt: a language switcher",
+    "dateAdded": "2023-12-28T20:05:03.336Z"
+  },
+  {
+    "url": "https://v0.dev/t/UMhrnZ2NYnB",
+    "label": "Template for prompt: i want to create a pianist website, that containt his works",
+    "dateAdded": "2023-12-28T20:05:03.336Z"
+  },
+  {
+    "url": "https://v0.dev/t/gtKmFGz6fai",
+    "label": "Template for prompt: кредитная организация",
+    "dateAdded": "2023-12-28T20:05:03.336Z"
+  },
+  {
+    "url": "https://v0.dev/t/BQtp6avgUsf",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-28T20:05:03.336Z"
+  },
+  {
+    "url": "https://v0.dev/t/Nw1lFw2iUp8",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T20:05:03.336Z"
+  },
+  {
+    "url": "https://v0.dev/t/3tFhEApH42q",
+    "label": "Template for prompt: Chcę stworzyć za pomocą Reacta system Zarządzania Nieruchomościami Komercyjnymi Teraz potrzebuję stworzyć w swoim panelu ładny widok podstrony do dodawania mojej nowej nieruchomości do mojego profilu, który jest dostępny za tylko dla osoby zalogowanej. System powinien mieć proste formę. Najpierw system powinien zapytać: Dodaj Twoją nieruchomość i dać możliwość użytkownikowi wyboru między wyborem : komercyjny czy mieszkaniowy. ",
+    "dateAdded": "2023-12-28T20:05:03.336Z"
+  },
+  {
+    "url": "https://v0.dev/t/PFt7YqezgXx",
+    "label": "Template for prompt: Collections",
+    "dateAdded": "2023-12-28T20:05:03.336Z"
+  },
+  {
+    "url": "https://v0.dev/t/QjM8ur3tEaP",
+    "label": "Template for prompt: Could you create mobile-first app where main screen would be similar to screenshot attached (chatgpt ios app): there should be animation bubble/circle on center that moves according to voice input (from mic), red button that stops recodring, and supportive text with animation similar to that that is on screenshot (sound wave or something similar). After recording is stopped (using button and/or automatically if there is silence during 5 seconds) animations should stop, notification message  should appear",
+    "dateAdded": "2023-12-28T20:05:03.336Z"
+  },
+  {
+    "url": "https://v0.dev/t/hZDf4zfaciV",
+    "label": "Template for prompt: Generate for me static web about becycle and the info about option to repair becycle on special points. ",
+    "dateAdded": "2023-12-28T20:05:03.336Z"
+  },
+  {
+    "url": "https://v0.dev/t/tlxiKUhmkoG",
+    "label": "Template for prompt: A habit app for powerusers that lets them track daily habits with custom metrics",
+    "dateAdded": "2023-12-28T20:05:03.337Z"
+  },
+  {
+    "url": "https://v0.dev/t/sYWdbm2Qr7e",
+    "label": "Template for prompt: Login Form",
+    "dateAdded": "2023-12-28T20:05:03.337Z"
+  },
+  {
+    "url": "https://v0.dev/t/TJ5kAmOpfIk",
+    "label": "Template for prompt: can you help me develop this component like the uploaded images after search result. This component is built in nextjs typescript",
+    "dateAdded": "2023-12-28T20:05:03.337Z"
+  },
+  {
+    "url": "https://v0.dev/t/sZVNhdBnLPJ",
+    "label": "Template for prompt: A personal finance tracking app",
+    "dateAdded": "2023-12-28T20:05:03.337Z"
   }
 ]
