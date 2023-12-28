@@ -26848,5 +26848,135 @@
     "url": "https://v0.dev/t/VHIGWsHUGzD",
     "label": "Template for prompt: create this for dashboard nextjs react tailindcss",
     "dateAdded": "2023-12-28T15:25:03.179Z"
+  },
+  {
+    "url": "https://v0.dev/t/VQyPmlKdOsd",
+    "label": "Template for prompt: a portfolio for a frontend developer",
+    "dateAdded": "2023-12-28T15:30:03.863Z"
+  },
+  {
+    "url": "https://v0.dev/t/6hoLmhjyjeL",
+    "label": "Template for prompt: A dashboard with a side bar nav and table",
+    "dateAdded": "2023-12-28T15:30:03.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/xndN2EL0YIS",
+    "label": "Template for prompt: a table that represents a participants list with columns: name/email, role and remove button, i also want a footer that contains an add participant button and a field for email",
+    "dateAdded": "2023-12-28T15:30:03.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/N8zWbDBXMhb",
+    "label": "Template for prompt: make a file explorer dark mode, like a daisyui and tailwind",
+    "dateAdded": "2023-12-28T15:30:03.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/G70Jlx1jJmq",
+    "label": "Template for prompt: I have a project called Queer Pulse, its a icubator for lgbt entrepeneurs, where we provide mentorship and funding to support peoples ideas. we are mostly a creative tech company, help me create the landing page for it",
+    "dateAdded": "2023-12-28T15:30:03.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/8nJpBTQrW8S",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-28T15:30:03.865Z"
+  },
+  {
+    "url": "https://v0.dev/t/4Asf3vpfnXJ",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-28T15:30:03.865Z"
+  },
+  {
+    "url": "https://v0.dev/t/SfMpRsQMLis",
+    "label": "Template for prompt: A user profile with round user avatar and name under it on the leftand user info in the right. User info section containing multple rows for each data piece. Info that right section will contain:  Age, location, hometown, education and bio",
+    "dateAdded": "2023-12-28T15:30:03.865Z"
+  },
+  {
+    "url": "https://v0.dev/t/ydCIequqnvd",
+    "label": "Template for prompt: A blog article with a table of contents and a CTA on the left and the content on the right",
+    "dateAdded": "2023-12-28T15:30:03.865Z"
+  },
+  {
+    "url": "https://v0.dev/t/MeDGbK6TSZK",
+    "label": "Template for prompt: Generate static website with information map and sample points where the becycle can be repaired.  The picture as background",
+    "dateAdded": "2023-12-28T15:30:03.865Z"
+  },
+  {
+    "url": "https://v0.dev/t/6qkuy42uJdk",
+    "label": "Template for prompt: Create an invoice advance calculator to put in a Wordpress website. The calculator will have 2 input fields: “invoice amount” and “invoice term”. The fields are displayed as horizontal sliders, which the user can interact with in order to change their values. The “invoice amount” slider minimum value is £1,000 and the maximum is £100,000. This slider changes in intervals of £500. The “invoice term” slider minimum value is 10 days and the maximum is 120 days, and it can be changed in intervals of 1 day.\n\nBelow the sliders, 3 calculated output values are displayed to the user, based on the values selected in the “invoice amount” and “invoice term” fields, and a daily rate of 0.06% and a minimum term of 10 days):\n\n1. Advance amount = invoice amount - (invoice amount * daily rate * minimum term)\n2. Repayment amount = invoice amount + (invoice amount * daily rate * (invoice term - minimum term))\n3. Total fees = (invoice amount * daily rate * minimum term) + (invoice amount * daily rate * (i",
+    "dateAdded": "2023-12-28T15:30:03.866Z"
+  },
+  {
+    "url": "https://v0.dev/t/ubmqVpDSQoe",
+    "label": "Template for prompt: cart shop",
+    "dateAdded": "2023-12-28T15:30:03.866Z"
+  },
+  {
+    "url": "https://v0.dev/t/vaAbb6KZWwx",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-28T15:30:03.866Z"
+  },
+  {
+    "url": "https://v0.dev/t/eB7YtaAz5Pc",
+    "label": "Template for prompt: create an expense and reimbursement app",
+    "dateAdded": "2023-12-28T15:30:03.866Z"
+  },
+  {
+    "url": "https://v0.dev/t/MnHuYszILzI",
+    "label": "Template for prompt: an app for managing car sales offers",
+    "dateAdded": "2023-12-28T15:30:03.866Z"
+  },
+  {
+    "url": "https://v0.dev/t/pNZoiGuws5Q",
+    "label": "Template for prompt: create an expense and reimbursement app",
+    "dateAdded": "2023-12-28T15:30:03.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/udpU0x3UR3J",
+    "label": "Template for prompt: a social media website with navigation at the left posts in the remaining area",
+    "dateAdded": "2023-12-28T15:30:03.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/q5d4CcGin85",
+    "label": "Template for prompt: create a SaaS rule creation pane",
+    "dateAdded": "2023-12-28T15:30:03.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/aE8KUaRrLAJ",
+    "label": "Template for prompt: profile page for student",
+    "dateAdded": "2023-12-28T15:30:03.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/C4h82ztGuE5",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-28T15:30:03.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/WjrX8xkZsxC",
+    "label": "Template for prompt: create this layout",
+    "dateAdded": "2023-12-28T15:30:03.868Z"
+  },
+  {
+    "url": "https://v0.dev/t/BKHf20I9nci",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T15:30:03.868Z"
+  },
+  {
+    "url": "https://v0.dev/t/pMDP9pw4DQt",
+    "label": "Template for prompt: a place with an image and a title in the image foreground. ",
+    "dateAdded": "2023-12-28T15:30:03.868Z"
+  },
+  {
+    "url": "https://v0.dev/t/X8EbhVsp5kF",
+    "label": "Template for prompt: the landing page for a rural hotel, showcasing its several rooms",
+    "dateAdded": "2023-12-28T15:30:03.868Z"
+  },
+  {
+    "url": "https://v0.dev/t/0j2Xkawd4Ko",
+    "label": "Template for prompt: A mobile page similar to ChatGPT, capable of uploading attachments, with a huge oscilloscope in the middle that plays sound and a button for holding down conversations\n\n",
+    "dateAdded": "2023-12-28T15:30:03.868Z"
+  },
+  {
+    "url": "https://v0.dev/t/E5Do9uNpSj9",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T15:30:03.869Z"
   }
 ]
