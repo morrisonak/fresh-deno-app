@@ -27103,5 +27103,135 @@
     "url": "https://v0.dev/t/bk6IckPUA3w",
     "label": "Template for prompt: A simple home screen with the parts Callout, explanation and footer",
     "dateAdded": "2023-12-28T15:35:03.819Z"
+  },
+  {
+    "url": "https://v0.dev/t/BXlM1MqNcMc",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T15:40:03.502Z"
+  },
+  {
+    "url": "https://v0.dev/t/f1iMZuRwgzP",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-28T15:40:03.502Z"
+  },
+  {
+    "url": "https://v0.dev/t/XoXFJF3uEuT",
+    "label": "Template for prompt: A landing page for an API library which provides APIs for things such as text extraction, file conversion, SEO, AI and realtime data ",
+    "dateAdded": "2023-12-28T15:40:03.502Z"
+  },
+  {
+    "url": "https://v0.dev/t/AUjRbSAZZTY",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T15:40:03.502Z"
+  },
+  {
+    "url": "https://v0.dev/t/5dOTpkyXRGH",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T15:40:03.503Z"
+  },
+  {
+    "url": "https://v0.dev/t/XuPUTH44Zn1",
+    "label": "Template for prompt: react component to render a batter icon. the component should take a number from 0 to 1 which represents the battery charge level. the component should render a battery icon which is filled according to the charge level. the charge indicator should be skewed on one side (say, by 60 degrees) and completely fill the box on the other size. minimize the use of js, prefer css variables if needed. animation is not required",
+    "dateAdded": "2023-12-28T15:40:03.503Z"
+  },
+  {
+    "url": "https://v0.dev/t/SXRCjMH5ObH",
+    "label": "Template for prompt: I want to develop a table where each column has a filter ",
+    "dateAdded": "2023-12-28T15:40:03.503Z"
+  },
+  {
+    "url": "https://v0.dev/t/S9hhPhRNmmX",
+    "label": "Template for prompt: multi used button component (icon,style,name,component)",
+    "dateAdded": "2023-12-28T15:40:03.503Z"
+  },
+  {
+    "url": "https://v0.dev/t/KIKOSQLTqS7",
+    "label": "Template for prompt: An cloud service like a online, admindashboard with a sidebar navigation, users files graphs, servers info in a navbr",
+    "dateAdded": "2023-12-28T15:40:03.504Z"
+  },
+  {
+    "url": "https://v0.dev/t/yM8yydiayLX",
+    "label": "Template for prompt: create a responsive version of the New York Times website",
+    "dateAdded": "2023-12-28T15:40:03.504Z"
+  },
+  {
+    "url": "https://v0.dev/t/vt9k8VMwtze",
+    "label": "Template for prompt: a place with an image and only a title in the image foreground. ",
+    "dateAdded": "2023-12-28T15:40:03.504Z"
+  },
+  {
+    "url": "https://v0.dev/t/zyCZoncWj2z",
+    "label": "Template for prompt: A create job form with fields for customer, job type (drop down with 3 options), product type (dropdown with 3 options),",
+    "dateAdded": "2023-12-28T15:40:03.504Z"
+  },
+  {
+    "url": "https://v0.dev/t/H5RZRcl0A8e",
+    "label": "Template for prompt: our work card, with title url description, technologies and button",
+    "dateAdded": "2023-12-28T15:40:03.504Z"
+  },
+  {
+    "url": "https://v0.dev/t/1dC3mAObf2K",
+    "label": "Template for prompt: create a maintenance page",
+    "dateAdded": "2023-12-28T15:40:03.505Z"
+  },
+  {
+    "url": "https://v0.dev/t/EC8eHYEWfPv",
+    "label": "Template for prompt: create a maintenance page",
+    "dateAdded": "2023-12-28T15:40:03.505Z"
+  },
+  {
+    "url": "https://v0.dev/t/rXv7or8DmIw",
+    "label": "Template for prompt: An cloud service like a online, dashboard with a sidebar navigation, users files, servers info",
+    "dateAdded": "2023-12-28T15:40:03.505Z"
+  },
+  {
+    "url": "https://v0.dev/t/kexBWEoSkrG",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T15:40:03.505Z"
+  },
+  {
+    "url": "https://v0.dev/t/gcWVeuZDZkL",
+    "label": "Template for prompt: searchbar with autocomplt and ",
+    "dateAdded": "2023-12-28T15:40:03.505Z"
+  },
+  {
+    "url": "https://v0.dev/t/9AmDYGcvF2i",
+    "label": "Template for prompt: blog post page with the title, content and comments section",
+    "dateAdded": "2023-12-28T15:40:03.506Z"
+  },
+  {
+    "url": "https://v0.dev/t/MfP9lIohLA1",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T15:40:03.506Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wf3zdTWouME",
+    "label": "Template for prompt: A user profile with round user avatar and name under it on the leftand user info in the right. User info section containing multple rows for each data piece. Info that right section will contain:  Age, location, hometown, education and bio. On the screenshot there is nothing here, but it should be there",
+    "dateAdded": "2023-12-28T15:40:03.506Z"
+  },
+  {
+    "url": "https://v0.dev/t/0Dzz6kCd94k",
+    "label": "Template for prompt: cosmic-omnidimensional-health-goth-noir aesthetic sidebar",
+    "dateAdded": "2023-12-28T15:40:03.506Z"
+  },
+  {
+    "url": "https://v0.dev/t/8zxQJnUTEg4",
+    "label": "Template for prompt: create a card like above",
+    "dateAdded": "2023-12-28T15:40:03.507Z"
+  },
+  {
+    "url": "https://v0.dev/t/KSpq7uJZBfY",
+    "label": "Template for prompt: omnidimensional health goth aesthetic searchbar",
+    "dateAdded": "2023-12-28T15:40:03.507Z"
+  },
+  {
+    "url": "https://v0.dev/t/B5TaOAOKVya",
+    "label": "Template for prompt: <form (ngSubmit)=\"onSubmit()\">\n  <input [(ngModel)]=\"pseudo\" name=\"pseudo\" required>\n  <button type=\"submit\">Se connecter</button>\n</form>\n",
+    "dateAdded": "2023-12-28T15:40:03.507Z"
+  },
+  {
+    "url": "https://v0.dev/t/yf5TGOSmkCE",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T15:40:03.508Z"
   }
 ]
