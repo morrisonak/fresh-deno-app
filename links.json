@@ -24913,5 +24913,120 @@
     "url": "https://v0.dev/t/ZDToYptBspw",
     "label": "Template for prompt: web developer profile for potential hiring",
     "dateAdded": "2023-12-28T03:15:03.256Z"
+  },
+  {
+    "url": "https://v0.dev/t/t1HPuAP0jwJ",
+    "label": "Template for prompt: a landing page for sunset cruise",
+    "dateAdded": "2023-12-28T03:20:03.449Z"
+  },
+  {
+    "url": "https://v0.dev/t/4AbithtQpcH",
+    "label": "Template for prompt: render this dashboard",
+    "dateAdded": "2023-12-28T03:20:03.449Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qica9hgHZAW",
+    "label": "Template for prompt: 안녕디지몬 페이지 만들어줘\n애니메이션 화려하게 넣어줘 ",
+    "dateAdded": "2023-12-28T03:20:03.449Z"
+  },
+  {
+    "url": "https://v0.dev/t/HbYRhamNG7E",
+    "label": "Template for prompt: I need this UI. it should be responsive for every size of screens",
+    "dateAdded": "2023-12-28T03:20:03.449Z"
+  },
+  {
+    "url": "https://v0.dev/t/qX3tM71xnQI",
+    "label": "Template for prompt: awsみたいなuiを生成するコードを書いて",
+    "dateAdded": "2023-12-28T03:20:03.449Z"
+  },
+  {
+    "url": "https://v0.dev/t/2VriyFtd5dK",
+    "label": "Template for prompt: 帮我生成一个 Twitter 的推文元件",
+    "dateAdded": "2023-12-28T03:20:03.450Z"
+  },
+  {
+    "url": "https://v0.dev/t/Bn886Qn0LvK",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T03:20:03.450Z"
+  },
+  {
+    "url": "https://v0.dev/t/VyJ7se6rj7U",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-28T03:20:03.450Z"
+  },
+  {
+    "url": "https://v0.dev/t/nWP043YaPrV",
+    "label": "Template for prompt: a dialog for user to select a workspace and submit",
+    "dateAdded": "2023-12-28T03:20:03.450Z"
+  },
+  {
+    "url": "https://v0.dev/t/dV8GwXFMPB0",
+    "label": "Template for prompt: a landing page about trending data",
+    "dateAdded": "2023-12-28T03:20:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/X3YwkOdA1AL",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-28T03:20:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/zI5HMUhJV6w",
+    "label": "Template for prompt: render this dashboard by html and boostrap5",
+    "dateAdded": "2023-12-28T03:20:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/DCoGHvcOrrY",
+    "label": "Template for prompt: a beautiful blog home page,",
+    "dateAdded": "2023-12-28T03:20:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/ApjyJsDbMqV",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T03:20:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/PIRJBjD0jEz",
+    "label": "Template for prompt: dragable left and right side bars ",
+    "dateAdded": "2023-12-28T03:20:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/TgMeCvPfn9L",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-28T03:20:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/5oUJ5thN8zR",
+    "label": "Template for prompt: give me heading style for a form section",
+    "dateAdded": "2023-12-28T03:20:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/fS8z74VBPiU",
+    "label": "Template for prompt: build a hero page based on the following profile : \n\nHighly skilled Technical Lead with a proven track record in both development and quality assurance management. With extensive experience in leading cross-functional teams, I have successfully delivered complex software projects while ensuring the highest standards of quality and performance.",
+    "dateAdded": "2023-12-28T03:20:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/e3EwTT1WrzG",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-28T03:20:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/FMmOpodTL5U",
+    "label": "Template for prompt: calculator",
+    "dateAdded": "2023-12-28T03:20:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/TsmeqRe93IQ",
+    "label": "Template for prompt: A pricing tier page with Free, Paid and Ultra tiers, with some lorem ipsum information",
+    "dateAdded": "2023-12-28T03:20:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/5bF7QVyi8EN",
+    "label": "Template for prompt: web admin panel",
+    "dateAdded": "2023-12-28T03:20:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/JSox1w2Kpvd",
+    "label": "Template for prompt: mobile for crm",
+    "dateAdded": "2023-12-28T03:20:03.453Z"
   }
 ]
