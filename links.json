@@ -34958,5 +34958,125 @@
     "url": "https://v0.dev/t/5n2jas8Ou5X",
     "label": "Template for prompt: recreate this as closesly as possible and make it mobile optiized as well",
     "dateAdded": "2023-12-28T20:45:03.388Z"
+  },
+  {
+    "url": "https://v0.dev/t/OSDk147Wtve",
+    "label": "Template for prompt: make a hacking themed website for a student chapter of OWASP. Make sure to include a section for the team members in hierarchy.",
+    "dateAdded": "2023-12-28T20:50:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/EGwfS74Rgqk",
+    "label": "Template for prompt: I want these options to be multiple selected options. The options should be turned to black color when clicked and initially it will be text-light. It should be toggled on click",
+    "dateAdded": "2023-12-28T20:50:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/72j29wmIrrS",
+    "label": "Template for prompt: Landing page for a web app that generates descriptive captions for images",
+    "dateAdded": "2023-12-28T20:50:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/t55IsrlMT9m",
+    "label": "Template for prompt: Generate an schedule component which shows how many days/hours of the week someone is available and mark red the days they aren't available.",
+    "dateAdded": "2023-12-28T20:50:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/UzKlYVlAbA0",
+    "label": "Template for prompt: accordion that opens/closes with icon up and down",
+    "dateAdded": "2023-12-28T20:50:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/XChuqWMY264",
+    "label": "Template for prompt: an enrollment screen that has a form centered in the page to input an email and a code and then click \"go\"",
+    "dateAdded": "2023-12-28T20:50:03.144Z"
+  },
+  {
+    "url": "https://v0.dev/t/QDlig0qk1wb",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T20:50:03.144Z"
+  },
+  {
+    "url": "https://v0.dev/t/r8GEDNuNir7",
+    "label": "Template for prompt: A demo of forex trading website like stockity",
+    "dateAdded": "2023-12-28T20:50:03.144Z"
+  },
+  {
+    "url": "https://v0.dev/t/YRyMsyT86Kd",
+    "label": "Template for prompt: a saas admin dashboard",
+    "dateAdded": "2023-12-28T20:50:03.144Z"
+  },
+  {
+    "url": "https://v0.dev/t/H64BRofP3CY",
+    "label": "Template for prompt: orders",
+    "dateAdded": "2023-12-28T20:50:03.144Z"
+  },
+  {
+    "url": "https://v0.dev/t/UuaNWW40x2x",
+    "label": "Template for prompt: A dashboard showing downloads, giving, and usage  metrics",
+    "dateAdded": "2023-12-28T20:50:03.144Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yye2u268IWA",
+    "label": "Template for prompt: Create a card for \"Secure Sync\" explaining that all invoices & integrations (excluding credentials) gets synced securly, and end 2 end encrypted.",
+    "dateAdded": "2023-12-28T20:50:03.144Z"
+  },
+  {
+    "url": "https://v0.dev/t/wrTIRfguZSW",
+    "label": "Template for prompt: make exectly like the picture",
+    "dateAdded": "2023-12-28T20:50:03.144Z"
+  },
+  {
+    "url": "https://v0.dev/t/H7bgNNI4TAZ",
+    "label": "Template for prompt: This will come as a model when you press the create button in the background\n",
+    "dateAdded": "2023-12-28T20:50:03.145Z"
+  },
+  {
+    "url": "https://v0.dev/t/RNmdBdUmghQ",
+    "label": "Template for prompt: replicate this for llama coin",
+    "dateAdded": "2023-12-28T20:50:03.145Z"
+  },
+  {
+    "url": "https://v0.dev/t/kDUjERzkAVK",
+    "label": "Template for prompt: imrpove this please",
+    "dateAdded": "2023-12-28T20:50:03.145Z"
+  },
+  {
+    "url": "https://v0.dev/t/UvOIZrU4A0R",
+    "label": "Template for prompt: black wide navigation bar",
+    "dateAdded": "2023-12-28T20:50:03.145Z"
+  },
+  {
+    "url": "https://v0.dev/t/GBrTSUKNVEs",
+    "label": "Template for prompt: replicate this as closely as possible with a eco theme",
+    "dateAdded": "2023-12-28T20:50:03.145Z"
+  },
+  {
+    "url": "https://v0.dev/t/zydeS6p2mFj",
+    "label": "Template for prompt: a bento box layout portfolio page",
+    "dateAdded": "2023-12-28T20:50:03.145Z"
+  },
+  {
+    "url": "https://v0.dev/t/2ETgvQyY7oc",
+    "label": "Template for prompt: replicate this for llama coin",
+    "dateAdded": "2023-12-28T20:50:03.145Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zl5v4ehySqQ",
+    "label": "Template for prompt: build this footer, with an A to Z section and make sure you add the cards just like the image.",
+    "dateAdded": "2023-12-28T20:50:03.145Z"
+  },
+  {
+    "url": "https://v0.dev/t/LV2QwoZKqIE",
+    "label": "Template for prompt: a journaling web app that displays a collection of entry and has  a button for \"+new entry\"",
+    "dateAdded": "2023-12-28T20:50:03.146Z"
+  },
+  {
+    "url": "https://v0.dev/t/UyLiNcGQXBN",
+    "label": "Template for prompt: pagination",
+    "dateAdded": "2023-12-28T20:50:03.146Z"
+  },
+  {
+    "url": "https://v0.dev/t/0hHmVXmpoXY",
+    "label": "Template for prompt: spotify App UI clone",
+    "dateAdded": "2023-12-28T20:50:03.146Z"
   }
 ]
