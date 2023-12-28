@@ -38488,5 +38488,135 @@
     "url": "https://v0.dev/t/STW3UYIChJT",
     "label": "Template for prompt: poker range selector",
     "dateAdded": "2023-12-28T23:07:31.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/m0UirJflQO9",
+    "label": "Template for prompt: Créez un ensemble de règles CSS pour styliser un menu radial. Le menu doit avoir un bouton circulaire avec une couleur de fond rouge (#cd3e3d). Positionnez le menu sur le coin droit de l'écran. Lorsque le bouton est survolé, plusieurs éléments de menu doivent apparaître de manière radiale autour du bouton. Chaque élément de menu doit être positionné à un angle spécifique et comporter des effets de transition lors du survol. Assurez-vous d'inclure des commentaires expliquant chaque partie du code.\n",
+    "dateAdded": "2023-12-28T23:10:03.211Z"
+  },
+  {
+    "url": "https://v0.dev/t/aVdjcWp5V4I",
+    "label": "Template for prompt: Landing page for a collaborative text editor",
+    "dateAdded": "2023-12-28T23:10:03.211Z"
+  },
+  {
+    "url": "https://v0.dev/t/T2aAofDr5Dx",
+    "label": "Template for prompt: I want a stamp card component where users can see their current stamps, how many more they need and also a way to add more stamps",
+    "dateAdded": "2023-12-28T23:10:03.212Z"
+  },
+  {
+    "url": "https://v0.dev/t/omo4nAbA7Bt",
+    "label": "Template for prompt: Landing page for a collaborative text editor",
+    "dateAdded": "2023-12-28T23:10:03.212Z"
+  },
+  {
+    "url": "https://v0.dev/t/UKUI7wrKkdT",
+    "label": "Template for prompt: recrie",
+    "dateAdded": "2023-12-28T23:10:03.212Z"
+  },
+  {
+    "url": "https://v0.dev/t/AzKQe38pIBG",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T23:10:03.212Z"
+  },
+  {
+    "url": "https://v0.dev/t/p8e7aWeQfcP",
+    "label": "Template for prompt: Create a full-screen checkout modal with a Summary Section\"\n\n    className=\"p-4 bg-white rounded-lg shadow-md\"\n    Elements:\n        Order Summary\n        Total Price: className=\"text-lg font-semibold\"\n        Dates: className=\"text-sm\"\n\n\"Services Section\"\n\n    className=\"p-4 bg-gray-100 rounded-lg shadow-sm\"\n    Elements:\n        Service Options (e.g., Valet, Shuttle): className=\"form-checkbox rounded text-blue-600\"\n        Time Selectors: className=\"form-input rounded border-gray-300\"\n\n\"Vehicle Information Section\"\n\n    className=\"p-4 bg-white rounded-lg shadow-md\"\n    Elements:\n        Vehicle Details Input: className=\"form-input rounded border-gray-300\"\n\n\"Pricing Details Section\"\n\n    className=\"p-4 bg-gray-100 rounded-lg shadow-sm\"\n    Elements:\n        Pricing Breakdown\n        Per Day Rate: className=\"text-sm\"\n        Discounts: className=\"text-sm font-medium\"\n\n\"Billing Information Section\"\n\n    className=\"p-4 bg-white rounded-lg shadow-md\"\n    Elements:\n        Address Fields: ",
+    "dateAdded": "2023-12-28T23:10:03.212Z"
+  },
+  {
+    "url": "https://v0.dev/t/L8TLgnorpuI",
+    "label": "Template for prompt: I want to create a web app to find compatible hla donors for my receivers",
+    "dateAdded": "2023-12-28T23:10:03.213Z"
+  },
+  {
+    "url": "https://v0.dev/t/p5amQpuQh7e",
+    "label": "Template for prompt: I want a stamp card component where users can see their current stamps, how many more they need and also a way to add more stamps",
+    "dateAdded": "2023-12-28T23:10:03.213Z"
+  },
+  {
+    "url": "https://v0.dev/t/cgfb0COYeSJ",
+    "label": "Template for prompt: tatto artist single-page website: dark theme, artist photo, photo gallery for portfolio, social network links",
+    "dateAdded": "2023-12-28T23:10:03.213Z"
+  },
+  {
+    "url": "https://v0.dev/t/UffwSUQJrnc",
+    "label": "Template for prompt: Landing page for a marketing website of a software house",
+    "dateAdded": "2023-12-28T23:10:03.213Z"
+  },
+  {
+    "url": "https://v0.dev/t/KBknbbDcK2x",
+    "label": "Template for prompt: tatto artist single-page website: dark theme, artist photo, photo gallery for portfolio, social network links",
+    "dateAdded": "2023-12-28T23:10:03.214Z"
+  },
+  {
+    "url": "https://v0.dev/t/5X2G5OW02PO",
+    "label": "Template for prompt: Create me a form where I can add media links",
+    "dateAdded": "2023-12-28T23:10:03.214Z"
+  },
+  {
+    "url": "https://v0.dev/t/Mp9lzEcvq0b",
+    "label": "Template for prompt: A configurator of a service",
+    "dateAdded": "2023-12-28T23:10:03.214Z"
+  },
+  {
+    "url": "https://v0.dev/t/DN9qdIL7LCt",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T23:10:03.214Z"
+  },
+  {
+    "url": "https://v0.dev/t/bi0CqOIs6Dl",
+    "label": "Template for prompt: Create a timeline showing the process of working with me",
+    "dateAdded": "2023-12-28T23:10:03.214Z"
+  },
+  {
+    "url": "https://v0.dev/t/5tQJRCCpLVa",
+    "label": "Template for prompt: creer moi une navbar avec un style elegant comme exemple je te donne ceci : un cercle sur le coin droit de l'ecran quand celle ci est survolée cela affiche les menus mais cela doit suivre la courbure du cercle et quand on est pas dessus le cercle reviens normalement",
+    "dateAdded": "2023-12-28T23:10:03.215Z"
+  },
+  {
+    "url": "https://v0.dev/t/UTJ3FKuTmsM",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T23:10:03.215Z"
+  },
+  {
+    "url": "https://v0.dev/t/f2WOwIBBFih",
+    "label": "Template for prompt: a responsive header",
+    "dateAdded": "2023-12-28T23:10:03.215Z"
+  },
+  {
+    "url": "https://v0.dev/t/tXZvGJ8HAac",
+    "label": "Template for prompt: i want to re create this card style",
+    "dateAdded": "2023-12-28T23:10:03.215Z"
+  },
+  {
+    "url": "https://v0.dev/t/ghdVmF6XDU0",
+    "label": "Template for prompt: Give me a modern 500 page that is responsive and has a button for \"Reload\".  The 500 page is for an AI YouTube analytics site",
+    "dateAdded": "2023-12-28T23:10:03.215Z"
+  },
+  {
+    "url": "https://v0.dev/t/04kNkvWsQqQ",
+    "label": "Template for prompt: There are 3 prizes: highest score for the week, second highest score for the week, and lowest score for the week. A season has many weeks. Create a leaderboard showing players who won each prize and in which week.",
+    "dateAdded": "2023-12-28T23:10:03.215Z"
+  },
+  {
+    "url": "https://v0.dev/t/euYYmc0nZXK",
+    "label": "Template for prompt: a grid of texas holdem hands",
+    "dateAdded": "2023-12-28T23:10:03.216Z"
+  },
+  {
+    "url": "https://v0.dev/t/DhzGHajhyCy",
+    "label": "Template for prompt: landing page for a touch typing web app",
+    "dateAdded": "2023-12-28T23:10:03.216Z"
+  },
+  {
+    "url": "https://v0.dev/t/gBmkCsAzoLU",
+    "label": "Template for prompt: Generate a loyalty card component that can be used in a mobile app",
+    "dateAdded": "2023-12-28T23:10:03.216Z"
+  },
+  {
+    "url": "https://v0.dev/t/ibLWIwT6UqK",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T23:10:03.216Z"
   }
 ]
