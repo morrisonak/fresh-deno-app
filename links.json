@@ -35583,5 +35583,130 @@
     "url": "https://v0.dev/t/4P8VocFsSVk",
     "label": "Template for prompt: Tech company products list page (2 products rignt now and waiting for more), block, dark mode, apple style",
     "dateAdded": "2023-12-28T21:10:03.674Z"
+  },
+  {
+    "url": "https://v0.dev/t/dnSYz8DAq10",
+    "label": "Template for prompt: a toast notification",
+    "dateAdded": "2023-12-28T21:15:03.922Z"
+  },
+  {
+    "url": "https://v0.dev/t/pC9Hqwghm1w",
+    "label": "Template for prompt: a contest lobby. details at the top. a small leaderboard. a button to join and/or submit your guess",
+    "dateAdded": "2023-12-28T21:15:03.922Z"
+  },
+  {
+    "url": "https://v0.dev/t/HAxzrQel61g",
+    "label": "Template for prompt: A navigation menu for an online travel agency and vacation rental platform. The navigation menu should include the following links situated beside the logo: \"Home\", \"Accommodation\", \"Glampings\", \"Policies\", and \"Contact Us\".",
+    "dateAdded": "2023-12-28T21:15:03.922Z"
+  },
+  {
+    "url": "https://v0.dev/t/OpJvkIyXoyn",
+    "label": "Template for prompt: Create an iOS-style store locator interface with a full-screen map display. Include a bottom sheet overlay with two buttons: a prominent one for enabling geolocation labeled \"Share location\" and a secondary for initiating a search, labeled \"Search\". At the bottom, incorporate a tab bar with four generic icons and label them: \"Home\", \"Discover\", \"Shopping Bag\", and \"More\" options, where the last tab has active state indication.",
+    "dateAdded": "2023-12-28T21:15:03.922Z"
+  },
+  {
+    "url": "https://v0.dev/t/bMoZsQek1KO",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-28T21:15:03.922Z"
+  },
+  {
+    "url": "https://v0.dev/t/BL3ajqq096L",
+    "label": "Template for prompt: A landing page",
+    "dateAdded": "2023-12-28T21:15:03.922Z"
+  },
+  {
+    "url": "https://v0.dev/t/y5tzm3CXFBW",
+    "label": "Template for prompt: a modal to confirm age",
+    "dateAdded": "2023-12-28T21:15:03.923Z"
+  },
+  {
+    "url": "https://v0.dev/t/WADJv7QmtiG",
+    "label": "Template for prompt: black and white timeline event cards for stock purchase alerts, challenge completed by a user, stock trade performed (with a gain/loss on sell transactions).\n\nno charts",
+    "dateAdded": "2023-12-28T21:15:03.923Z"
+  },
+  {
+    "url": "https://v0.dev/t/onJtQMFlHsA",
+    "label": "Template for prompt: a ticket order confirmation page",
+    "dateAdded": "2023-12-28T21:15:03.923Z"
+  },
+  {
+    "url": "https://v0.dev/t/1ktwjDDYhkv",
+    "label": "Template for prompt: nested side menu for lms like medusajs",
+    "dateAdded": "2023-12-28T21:15:03.923Z"
+  },
+  {
+    "url": "https://v0.dev/t/WwupeQmxmfj",
+    "label": "Template for prompt: notes app where each note can be edited on the same page",
+    "dateAdded": "2023-12-28T21:15:03.923Z"
+  },
+  {
+    "url": "https://v0.dev/t/C9CNEjRqjeA",
+    "label": "Template for prompt: A confirmation screen showing that a deposit has been taken. It includes information about the deposit payment and the order that the deposit is on",
+    "dateAdded": "2023-12-28T21:15:03.923Z"
+  },
+  {
+    "url": "https://v0.dev/t/ihwGeMAeoYe",
+    "label": "Template for prompt: A dialog for photos asking how many copies a user wants to print",
+    "dateAdded": "2023-12-28T21:15:03.924Z"
+  },
+  {
+    "url": "https://v0.dev/t/aEZ53rVmZwB",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T21:15:03.924Z"
+  },
+  {
+    "url": "https://v0.dev/t/BNF3isi3UlR",
+    "label": "Template for prompt: formulario inicio de seccion y de registro con correo gmail o otras opciones",
+    "dateAdded": "2023-12-28T21:15:03.924Z"
+  },
+  {
+    "url": "https://v0.dev/t/aqoSEkGtn9g",
+    "label": "Template for prompt: formulario de registro con correo gmail o otras opciones",
+    "dateAdded": "2023-12-28T21:15:03.924Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZOt3qXnRDSH",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T21:15:03.924Z"
+  },
+  {
+    "url": "https://v0.dev/t/ok5vZRY4bJW",
+    "label": "Template for prompt: thread forums",
+    "dateAdded": "2023-12-28T21:15:03.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/OaC7tQsOVCb",
+    "label": "Template for prompt: Create to me a showcase site for company in business contribution that will be dynamic and professional",
+    "dateAdded": "2023-12-28T21:15:03.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/mc3tbYt8P3l",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T21:15:03.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/QyyQsrW62hJ",
+    "label": "Template for prompt: An  dashboard with a sidebar navigation and a profile window on teh right along with document uploaded history ",
+    "dateAdded": "2023-12-28T21:15:03.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/cN7KbLI3vXp",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and a climate-related animation",
+    "dateAdded": "2023-12-28T21:15:03.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/0pqBCJwtIBs",
+    "label": "Template for prompt: a landing page for my web dev portfolio",
+    "dateAdded": "2023-12-28T21:15:03.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/aiebqVOSRuJ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T21:15:03.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/bdJLt2ZEZTP",
+    "label": "Template for prompt: Generate a photo galery page for viewing a timeline of photos",
+    "dateAdded": "2023-12-28T21:15:03.926Z"
   }
 ]
