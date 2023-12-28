@@ -25938,5 +25938,135 @@
     "url": "https://v0.dev/t/dkFrm0RY7Gc",
     "label": "Template for prompt: a util page, where the left is an input area, the right is the output of summary, or any text formatted strings.",
     "dateAdded": "2023-12-28T03:55:02.940Z"
+  },
+  {
+    "url": "https://v0.dev/t/NRkx7mIYvXl",
+    "label": "Template for prompt: A SaaS admin dashboard",
+    "dateAdded": "2023-12-28T14:55:03.306Z"
+  },
+  {
+    "url": "https://v0.dev/t/RqnkVAWA5JE",
+    "label": "Template for prompt: create twitter icon",
+    "dateAdded": "2023-12-28T14:55:03.306Z"
+  },
+  {
+    "url": "https://v0.dev/t/Sq68j9NqM9a",
+    "label": "Template for prompt: Create an email marketing app ui similar to Mailerlite",
+    "dateAdded": "2023-12-28T14:55:03.306Z"
+  },
+  {
+    "url": "https://v0.dev/t/7kK97z2INTv",
+    "label": "Template for prompt: Buld a marketing leads dashboard that displays leads display should show,  lead name. contact info, month sold,  amount of sale, sale type selection print or digital, should also show total sales for each month, a filter to select date range, with an opton to edit the lead information",
+    "dateAdded": "2023-12-28T14:55:03.306Z"
+  },
+  {
+    "url": "https://v0.dev/t/y1fdzapOIho",
+    "label": "Template for prompt: Create an email marketing platform app ui",
+    "dateAdded": "2023-12-28T14:55:03.306Z"
+  },
+  {
+    "url": "https://v0.dev/t/4m0uGu9FIhg",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T14:55:03.307Z"
+  },
+  {
+    "url": "https://v0.dev/t/hROE69HQb7o",
+    "label": "Template for prompt: create a page that contain a column of ads\neach ad has this data\n\nadImage\n\"/upload/download__2_-removebg-preview.png\"\ndescription\n\"test\"\nbrand\n\"BMW\"\ncategory\n\"CarsForSale\"\nadType\n\"buy\"\nmodel\n\"5 Series\"\nyear\n2024\ncarType\n\"Sedan\"\ncarStatus\n\"New\"\ntransmission\n\"Automatic\"\nfuelType\n\"Petrol\"\nmeterRange\n\"0\"",
+    "dateAdded": "2023-12-28T14:55:03.307Z"
+  },
+  {
+    "url": "https://v0.dev/t/6H6y7ym1zQe",
+    "label": "Template for prompt: Create an email marketing platform app ui",
+    "dateAdded": "2023-12-28T14:55:03.307Z"
+  },
+  {
+    "url": "https://v0.dev/t/5IqBZzZFtVs",
+    "label": "Template for prompt: An ecommerce store for organic products",
+    "dateAdded": "2023-12-28T14:55:03.307Z"
+  },
+  {
+    "url": "https://v0.dev/t/aUSAsmUDZfP",
+    "label": "Template for prompt: Create this exact page",
+    "dateAdded": "2023-12-28T14:55:03.307Z"
+  },
+  {
+    "url": "https://v0.dev/t/F40qEftNbc6",
+    "label": "Template for prompt: chat box in middle website to test chatbot",
+    "dateAdded": "2023-12-28T14:55:03.307Z"
+  },
+  {
+    "url": "https://v0.dev/t/0JQkRz9VFSD",
+    "label": "Template for prompt: Create a Playlist component that shows a list with all the songs that belongs to it",
+    "dateAdded": "2023-12-28T14:55:03.307Z"
+  },
+  {
+    "url": "https://v0.dev/t/zCfA0z06pP2",
+    "label": "Template for prompt: create a ui page with login register and one page after that make e commerce dashboard",
+    "dateAdded": "2023-12-28T14:55:03.307Z"
+  },
+  {
+    "url": "https://v0.dev/t/yGqwkQcH1bp",
+    "label": "Template for prompt: select payment option",
+    "dateAdded": "2023-12-28T14:55:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/sZlyAPjbDSR",
+    "label": "Template for prompt: using these colors #096e03, #bcebee create a single page web. Its about product called DigiPot. Its smart self watering flower pot that can take care of your home flowers.",
+    "dateAdded": "2023-12-28T14:55:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/LHrPZYB5TPW",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T14:55:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/aArs3RF6qap",
+    "label": "Template for prompt: a login page (with SSO - Gmail, Okta, Github)",
+    "dateAdded": "2023-12-28T14:55:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/MaKJeJS2Z8X",
+    "label": "Template for prompt: calendar component",
+    "dateAdded": "2023-12-28T14:55:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZLcRFIEl7k1",
+    "label": "Template for prompt: A social media profile UI",
+    "dateAdded": "2023-12-28T14:55:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/1ZVloeuqhyg",
+    "label": "Template for prompt: create a component like that",
+    "dateAdded": "2023-12-28T14:55:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/AVTCd8tGpG7",
+    "label": "Template for prompt: Create page that have text on center and button on the right side.",
+    "dateAdded": "2023-12-28T14:55:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/IOjFzZZlamJ",
+    "label": "Template for prompt: a simple restaurant menu card page with add to card to left ",
+    "dateAdded": "2023-12-28T14:55:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/7Fx2009T7t1",
+    "label": "Template for prompt: A character display page where stats/traits are displayed and explained on hover. The page should resemble a playing card",
+    "dateAdded": "2023-12-28T14:55:03.309Z"
+  },
+  {
+    "url": "https://v0.dev/t/qZuV0tpeHlw",
+    "label": "Template for prompt: Create a landing page for Fact Hub Myanmar, a mission-driven organization. Include:\n\nHeader:\n\nLogo and clear navigation.\nHero:\n\nMission headline.\n'Learn More' CTA.\nAbout Us:\n\nConcise mission description.\nKey features with visuals.\nServices:\n\nOverview with images.\nStats/Testimonials:\n\nShowcase credibility.\nHow It Works:\n\nProcess explanation with visuals.\nTeam:\n\nKey members' bios and images.\nBlog/News:\n\nRecent updates.\nContact:\n\nDetails and form.\nSocial media links.\nFooter:\n\nNavigation links.\nCopyright/privacy.\nCTA Section:\n\nReinforce primary CTA.\nAdd secondary CTAs.\nDesign for desktop/mobile, emphasizing visuals and user-friendliness. Capture Fact Hub Myanmar's essence.",
+    "dateAdded": "2023-12-28T14:55:03.309Z"
+  },
+  {
+    "url": "https://v0.dev/t/gtyrGUKr2Ih",
+    "label": "Template for prompt: A webpage making and designing website with drag and drop facility, a code editor for adding custom code, add specific links and also allows user to customize the content and style of the added block in the page.",
+    "dateAdded": "2023-12-28T14:55:03.309Z"
+  },
+  {
+    "url": "https://v0.dev/t/WloeSqx7qGc",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-28T14:55:03.309Z"
   }
 ]
