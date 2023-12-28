@@ -38618,5 +38618,130 @@
     "url": "https://v0.dev/t/ibLWIwT6UqK",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2023-12-28T23:10:03.216Z"
+  },
+  {
+    "url": "https://v0.dev/t/3xC8ExZLE4m",
+    "label": "Template for prompt: make a modern and aesthetic webpage with nice color them of this webpage image I drew of a qr code generator",
+    "dateAdded": "2023-12-28T23:15:03.871Z"
+  },
+  {
+    "url": "https://v0.dev/t/BuUxlW68pkk",
+    "label": "Template for prompt: a clickable, standard grid for texas holdem hands, show combo counts, suit, and cards",
+    "dateAdded": "2023-12-28T23:15:03.871Z"
+  },
+  {
+    "url": "https://v0.dev/t/9kcEMqba8Re",
+    "label": "Template for prompt: Create a dashboard to analyze a client's credit risk, it should present at least the client average income and score",
+    "dateAdded": "2023-12-28T23:15:03.871Z"
+  },
+  {
+    "url": "https://v0.dev/t/BJjlQ5Itqj6",
+    "label": "Template for prompt: I want you to help me with some of the logic this picture uses. make an interface really similar to this one. but as you continue to scroll down the naviagtion on the left changes. as you scroll into different section of the page, the style becomes different for those sections",
+    "dateAdded": "2023-12-28T23:15:03.871Z"
+  },
+  {
+    "url": "https://v0.dev/t/HcyMHjhTFiU",
+    "label": "Template for prompt: Construct a full-screen checkout modal featuring expandable sections: 'Summary', 'Services', 'Vehicle Info', 'Pricing Details', 'Billing Info', and 'Payment Method', each with a tab that slides out from the bottom to show/hide options. Style tabs with a shadow and light grey background (shadow-md bg-gray-100) and use a blue button for slide-out interaction (bg-blue-500 text-white hover:bg-blue-700).",
+    "dateAdded": "2023-12-28T23:15:03.872Z"
+  },
+  {
+    "url": "https://v0.dev/t/9KPEHBFjrMA",
+    "label": "Template for prompt: section div drag and drop",
+    "dateAdded": "2023-12-28T23:15:03.872Z"
+  },
+  {
+    "url": "https://v0.dev/t/OISaV3pYMOz",
+    "label": "Template for prompt: welcome page  of a simple NFT management website with a button \"Connet wallet\" in the middle of the screen",
+    "dateAdded": "2023-12-28T23:15:03.872Z"
+  },
+  {
+    "url": "https://v0.dev/t/eVYMzmVkRUh",
+    "label": "Template for prompt: a minimal blog layout use shadcn",
+    "dateAdded": "2023-12-28T23:15:03.872Z"
+  },
+  {
+    "url": "https://v0.dev/t/LXSi9LLIg7t",
+    "label": "Template for prompt: Dashboard page all transporter table admin show ",
+    "dateAdded": "2023-12-28T23:15:03.872Z"
+  },
+  {
+    "url": "https://v0.dev/t/m0UirJflQO9",
+    "label": "Template for prompt: Créez un ensemble de règles CSS pour styliser un menu radial. Le menu doit avoir un bouton circulaire avec une couleur de fond rouge (#cd3e3d). Positionnez le menu sur le coin droit de l'écran. Lorsque le bouton est survolé, plusieurs éléments de menu doivent apparaître de manière radiale autour du bouton. Chaque élément de menu doit être positionné à un angle spécifique et comporter des effets de transition lors du survol. Assurez-vous d'inclure des commentaires expliquant chaque partie du code.\n",
+    "dateAdded": "2023-12-28T23:15:03.872Z"
+  },
+  {
+    "url": "https://v0.dev/t/Kc1TXTCKs0l",
+    "label": "Template for prompt: recrie essa imagem como uma sidebar do lado esquerdo",
+    "dateAdded": "2023-12-28T23:15:03.873Z"
+  },
+  {
+    "url": "https://v0.dev/t/sPSnwXlQE9R",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-28T23:15:03.873Z"
+  },
+  {
+    "url": "https://v0.dev/t/p5amQpuQh7e",
+    "label": "Template for prompt: I want a stamp card component where users can see their current stamps, how many more they need and also a way to add more stamps",
+    "dateAdded": "2023-12-28T23:15:03.873Z"
+  },
+  {
+    "url": "https://v0.dev/t/yfRxk8fycFp",
+    "label": "Template for prompt: landig page for oki regalos an ecommerce that sells mates",
+    "dateAdded": "2023-12-28T23:15:03.873Z"
+  },
+  {
+    "url": "https://v0.dev/t/MP6VIkWv5Pm",
+    "label": "Template for prompt: A form for capturing schedules of opening hours",
+    "dateAdded": "2023-12-28T23:15:03.874Z"
+  },
+  {
+    "url": "https://v0.dev/t/lFesL4n3onv",
+    "label": "Template for prompt: a dashboard for creating forms with a sidebard using shadcn",
+    "dateAdded": "2023-12-28T23:15:03.874Z"
+  },
+  {
+    "url": "https://v0.dev/t/T2aAofDr5Dx",
+    "label": "Template for prompt: I want a stamp card component where users can see their current stamps, how many more they need and also a way to add more stamps",
+    "dateAdded": "2023-12-28T23:15:03.874Z"
+  },
+  {
+    "url": "https://v0.dev/t/SpmTzEk38V8",
+    "label": "Template for prompt: I need a marketplace card for an AI API. This card should include an image, a title, a description, and a price",
+    "dateAdded": "2023-12-28T23:15:03.874Z"
+  },
+  {
+    "url": "https://v0.dev/t/vgkba7Pfx8B",
+    "label": "Template for prompt: A hero section of landing page on marketting website for  software house called \"ANEO\"",
+    "dateAdded": "2023-12-28T23:15:03.874Z"
+  },
+  {
+    "url": "https://v0.dev/t/aVdjcWp5V4I",
+    "label": "Template for prompt: Landing page for a collaborative text editor",
+    "dateAdded": "2023-12-28T23:15:03.874Z"
+  },
+  {
+    "url": "https://v0.dev/t/UffwSUQJrnc",
+    "label": "Template for prompt: Landing page for a marketing website of a software house",
+    "dateAdded": "2023-12-28T23:15:03.875Z"
+  },
+  {
+    "url": "https://v0.dev/t/p8e7aWeQfcP",
+    "label": "Template for prompt: Create a full-screen checkout modal with a Summary Section\"\n\n    className=\"p-4 bg-white rounded-lg shadow-md\"\n    Elements:\n        Order Summary\n        Total Price: className=\"text-lg font-semibold\"\n        Dates: className=\"text-sm\"\n\n\"Services Section\"\n\n    className=\"p-4 bg-gray-100 rounded-lg shadow-sm\"\n    Elements:\n        Service Options (e.g., Valet, Shuttle): className=\"form-checkbox rounded text-blue-600\"\n        Time Selectors: className=\"form-input rounded border-gray-300\"\n\n\"Vehicle Information Section\"\n\n    className=\"p-4 bg-white rounded-lg shadow-md\"\n    Elements:\n        Vehicle Details Input: className=\"form-input rounded border-gray-300\"\n\n\"Pricing Details Section\"\n\n    className=\"p-4 bg-gray-100 rounded-lg shadow-sm\"\n    Elements:\n        Pricing Breakdown\n        Per Day Rate: className=\"text-sm\"\n        Discounts: className=\"text-sm font-medium\"\n\n\"Billing Information Section\"\n\n    className=\"p-4 bg-white rounded-lg shadow-md\"\n    Elements:\n        Address Fields: ",
+    "dateAdded": "2023-12-28T23:15:03.875Z"
+  },
+  {
+    "url": "https://v0.dev/t/AzKQe38pIBG",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T23:15:03.875Z"
+  },
+  {
+    "url": "https://v0.dev/t/L8TLgnorpuI",
+    "label": "Template for prompt: I want to create a web app to find compatible hla donors for my receivers",
+    "dateAdded": "2023-12-28T23:15:03.875Z"
+  },
+  {
+    "url": "https://v0.dev/t/DN9qdIL7LCt",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-28T23:15:03.875Z"
   }
 ]
