@@ -44668,5 +44668,125 @@
     "url": "https://v0.dev/t/MMfri9ft3ra",
     "label": "Template for prompt: Create a React card component with a title, body and footer",
     "dateAdded": "2023-12-29T20:35:03.801Z"
+  },
+  {
+    "url": "https://v0.dev/t/hZfd0Fn48PW",
+    "label": "Template for prompt: Can you create a page where people can mint badges (like achievements) It should use the next UI v1 library for components.\n\nHere's an example of what I want it to look like",
+    "dateAdded": "2023-12-29T20:40:03.686Z"
+  },
+  {
+    "url": "https://v0.dev/t/CrIwlb4VqkI",
+    "label": "Template for prompt: a basic social network like twitter with text and images",
+    "dateAdded": "2023-12-29T20:40:03.686Z"
+  },
+  {
+    "url": "https://v0.dev/t/pZn5wubs3yv",
+    "label": "Template for prompt: a box that represents a category, each box has a section for its subcategories, and subcategories can have more subsubcategories, do it in totally dark mode",
+    "dateAdded": "2023-12-29T20:40:03.686Z"
+  },
+  {
+    "url": "https://v0.dev/t/4XmOit731R6",
+    "label": "Template for prompt: fix design errors, make it funnier without losing the composture of a portfolio",
+    "dateAdded": "2023-12-29T20:40:03.686Z"
+  },
+  {
+    "url": "https://v0.dev/t/JrvDPAwiDbK",
+    "label": "Template for prompt: **REQUEST FOR AI BOT/WEBPAGE: RETAIL COMMERCE NEGOTIATION ENGINE**\n\n**PROBLEM:** Develop an AI-driven bot or webpage specifically designed for negotiation in retail commerce.\n\n**DESCRIPTION:**\nIn e-commerce, negotiations involve Transaction contracts or product attributes. Parties propose and counter-terms until reaching agreement or terminating the transaction.\n\n**EXPECTED SOLUTION & DELIVERABLES:**\nCreate a solution with embedded intelligence to analyze and determine the convergence or divergence of negotiation terms. The solution should provide actionable insights.\n\n**REQUIRED FEATURES:**\n1. **Intelligent Analysis:** The AI should assess proposed terms, indicating convergence or divergence.\n   \n2. **User Interface:** A user-friendly interface facilitating easy negotiation management.\n   \n3. **Real-Time Feedback:** Provide users with instant feedback on negotiation progress.\n\n4. **Actionable Insights:** Suggest actionable steps based on negotiation term analysis.\n\n5. **Documentation:",
+    "dateAdded": "2023-12-29T20:40:03.686Z"
+  },
+  {
+    "url": "https://v0.dev/t/orlYNov7fNb",
+    "label": "Template for prompt: About page for my portfolio website",
+    "dateAdded": "2023-12-29T20:40:03.687Z"
+  },
+  {
+    "url": "https://v0.dev/t/9WRn9kdmaa5",
+    "label": "Template for prompt: **REQUEST FOR AI BOT/WEBPAGE: RETAIL COMMERCE NEGOTIATION ENGINE**\n\n**PROBLEM:** Develop an AI-driven bot or webpage specifically designed for negotiation in retail commerce.\n\n**DESCRIPTION:**\nIn e-commerce, negotiations involve Transaction contracts or product attributes. Parties propose and counter-terms until reaching agreement or terminating the transaction.\n\n**EXPECTED SOLUTION & DELIVERABLES:**\nCreate a solution with embedded intelligence to analyze and determine the convergence or divergence of negotiation terms. The solution should provide actionable insights.\n\n**REQUIRED FEATURES:**\n1. **Intelligent Analysis:** The AI should assess proposed terms, indicating convergence or divergence.\n   \n2. **User Interface:** A user-friendly interface facilitating easy negotiation management.\n   \n3. **Real-Time Feedback:** Provide users with instant feedback on negotiation progress.\n\n4. **Actionable Insights:** Suggest actionable steps based on negotiation term analysis.\n\n5. **Documentation:",
+    "dateAdded": "2023-12-29T20:40:03.687Z"
+  },
+  {
+    "url": "https://v0.dev/t/fN93eIXsj3S",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-29T20:40:03.687Z"
+  },
+  {
+    "url": "https://v0.dev/t/asUaDgaVzck",
+    "label": "Template for prompt: a dashboard for (initiation of send/request of new payments from any user payment platform account, monitoring of ongoing payments, and reviewing of past and filtered transactions on) a (multi-payment-platform-connected) application that is simple to use, with professional UI/UX, minimalistic, with rich neon borders and dividers over greyscale backgrounds",
+    "dateAdded": "2023-12-29T20:40:03.687Z"
+  },
+  {
+    "url": "https://v0.dev/t/juET2neiDZA",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T20:40:03.687Z"
+  },
+  {
+    "url": "https://v0.dev/t/HfygTn6lry3",
+    "label": "Template for prompt: an about me page for a newsletter",
+    "dateAdded": "2023-12-29T20:40:03.687Z"
+  },
+  {
+    "url": "https://v0.dev/t/DR416r91HXz",
+    "label": "Template for prompt: chat bot",
+    "dateAdded": "2023-12-29T20:40:03.687Z"
+  },
+  {
+    "url": "https://v0.dev/t/P2GRHahUccm",
+    "label": "Template for prompt: login ",
+    "dateAdded": "2023-12-29T20:40:03.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/j5IiOQyRcm9",
+    "label": "Template for prompt: a profile page with a name, email, image as a circle, and a card showing connected accounts",
+    "dateAdded": "2023-12-29T20:40:03.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/JGsxoS6COFX",
+    "label": "Template for prompt: a dashboard for a property managment application that is simple to use, with professional UI/UX, minimalistic, with dark and light version",
+    "dateAdded": "2023-12-29T20:40:03.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/Uxm7oUkg8vK",
+    "label": "Template for prompt: a dashboard for a property managment application that is simple to use, with professional UI/UX, minimalistic, with dark and light version",
+    "dateAdded": "2023-12-29T20:40:03.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/xINej4TCCyq",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T20:40:03.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/O8eVFc2g7DS",
+    "label": "Template for prompt: category and subcategories view",
+    "dateAdded": "2023-12-29T20:40:03.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/6d0Mz1tmUCh",
+    "label": "Template for prompt: a page for a financial analysis dashboard for listed companies",
+    "dateAdded": "2023-12-29T20:40:03.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/oKpbMqoSiuJ",
+    "label": "Template for prompt: напиши мені дизайн крутого сайту для перегляду відео та фільмів(як ютуб чи нетфлікс)",
+    "dateAdded": "2023-12-29T20:40:03.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/V3b7VPLABFB",
+    "label": "Template for prompt: vcard generator",
+    "dateAdded": "2023-12-29T20:40:03.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/e7IJK2uH1c2",
+    "label": "Template for prompt: a landing page with a hero section that contains a sign-in button and img and have a footer for information ",
+    "dateAdded": "2023-12-29T20:40:03.689Z"
+  },
+  {
+    "url": "https://v0.dev/t/S0WaSdfZe6I",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T20:40:03.689Z"
+  },
+  {
+    "url": "https://v0.dev/t/E63o74vTbIE",
+    "label": "Template for prompt: create a menu item that show avatar, email and signout button",
+    "dateAdded": "2023-12-29T20:40:03.689Z"
   }
 ]
