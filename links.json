@@ -43673,5 +43673,135 @@
     "url": "https://v0.dev/t/dXlIbvCzBA0",
     "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
     "dateAdded": "2023-12-29T17:55:04.011Z"
+  },
+  {
+    "url": "https://v0.dev/t/fA4jqmBiwJE",
+    "label": "Template for prompt: an activity section like the uploaded image",
+    "dateAdded": "2023-12-29T18:00:02.697Z"
+  },
+  {
+    "url": "https://v0.dev/t/cuS1aEGcv26",
+    "label": "Template for prompt: an activity section like the uploaded image",
+    "dateAdded": "2023-12-29T18:00:02.697Z"
+  },
+  {
+    "url": "https://v0.dev/t/zlV5dOgS8ge",
+    "label": "Template for prompt: github styled django admin dashboard",
+    "dateAdded": "2023-12-29T18:00:02.697Z"
+  },
+  {
+    "url": "https://v0.dev/t/FwIBel25e3j",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-29T18:00:02.697Z"
+  },
+  {
+    "url": "https://v0.dev/t/5I3mWXbbdgb",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T18:00:02.697Z"
+  },
+  {
+    "url": "https://v0.dev/t/93rK00nGA3z",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-29T18:00:02.698Z"
+  },
+  {
+    "url": "https://v0.dev/t/xh7J5wLDKhI",
+    "label": "Template for prompt: business intelligence",
+    "dateAdded": "2023-12-29T18:00:02.698Z"
+  },
+  {
+    "url": "https://v0.dev/t/yr5AzJwsixo",
+    "label": "Template for prompt: llama",
+    "dateAdded": "2023-12-29T18:00:02.698Z"
+  },
+  {
+    "url": "https://v0.dev/t/IGvEGnuEK5n",
+    "label": "Template for prompt: A mobile application that acts like a remote controller for a computer. Eg. play, pause, next... buttons that controls the media playing on a computer",
+    "dateAdded": "2023-12-29T18:00:02.698Z"
+  },
+  {
+    "url": "https://v0.dev/t/zPeYMNBhDZa",
+    "label": "Template for prompt: table or list of users that has a search filter and is responsive with html and css",
+    "dateAdded": "2023-12-29T18:00:02.698Z"
+  },
+  {
+    "url": "https://v0.dev/t/tHo8yVbEXxP",
+    "label": "Template for prompt: Responsive poker table",
+    "dateAdded": "2023-12-29T18:00:02.698Z"
+  },
+  {
+    "url": "https://v0.dev/t/cmrEJjEeXxJ",
+    "label": "Template for prompt: An horizontal card with two button (plus and minus) at the end of the card",
+    "dateAdded": "2023-12-29T18:00:02.698Z"
+  },
+  {
+    "url": "https://v0.dev/t/eW7uK7xJ33M",
+    "label": "Template for prompt: an AI text to image prompt UI",
+    "dateAdded": "2023-12-29T18:00:02.698Z"
+  },
+  {
+    "url": "https://v0.dev/t/qZHMUkQlajI",
+    "label": "Template for prompt: Create a tool titled \"AI Debt Management Program Creator\"\nIt is an interface that allows the user to upload data (so there must be some way to do that), see past data (so a section that lists old data)\nand some graphs showing possible scenarios for debt modelling. Also, create a section on the right, where we can see a chat history where the user is interacting with questions from our creator about debt, such as \"Do you have any additional sources of income not mentioned in the data?\", and an explanation of the various snowball, avalanche style repayment options\n\nFinally, at the bottom, there is \"create DMP button\"",
+    "dateAdded": "2023-12-29T18:00:02.699Z"
+  },
+  {
+    "url": "https://v0.dev/t/0coBvnpJtKO",
+    "label": "Template for prompt: database crud",
+    "dateAdded": "2023-12-29T18:00:02.699Z"
+  },
+  {
+    "url": "https://v0.dev/t/LvqRV12y5Bo",
+    "label": "Template for prompt: Replicate the same UI",
+    "dateAdded": "2023-12-29T18:00:02.699Z"
+  },
+  {
+    "url": "https://v0.dev/t/BKOAImR7a8b",
+    "label": "Template for prompt: I need to build a scorekeepr for a card game ",
+    "dateAdded": "2023-12-29T18:00:02.699Z"
+  },
+  {
+    "url": "https://v0.dev/t/OELIXKwZsqF",
+    "label": "Template for prompt: create a stripe pricing page with 3 plans and one being an enterprise plan. Include buttons and also a feature list ",
+    "dateAdded": "2023-12-29T18:00:02.699Z"
+  },
+  {
+    "url": "https://v0.dev/t/lwTkdKGlgl7",
+    "label": "Template for prompt: Settings screen for my messenger",
+    "dateAdded": "2023-12-29T18:00:02.699Z"
+  },
+  {
+    "url": "https://v0.dev/t/iEtvWlv3vur",
+    "label": "Template for prompt: Completely new version of hockeyweb.de. Some design inspirations I like world be the Red Bull website, spiegel.de and firebase.blog. a touch of the freank design language works be great to integrate. Feel free to restructure.",
+    "dateAdded": "2023-12-29T18:00:02.699Z"
+  },
+  {
+    "url": "https://v0.dev/t/WipgflSZ3e9",
+    "label": "Template for prompt: design like the above image",
+    "dateAdded": "2023-12-29T18:00:02.699Z"
+  },
+  {
+    "url": "https://v0.dev/t/QiNYPfKuqva",
+    "label": "Template for prompt: Lpage with param : \"API KEY HERE PLEASE\"",
+    "dateAdded": "2023-12-29T18:00:02.699Z"
+  },
+  {
+    "url": "https://v0.dev/t/npIFEDoEyPK",
+    "label": "Template for prompt: a minimaistic landing page for a dokku admin interface called watergun",
+    "dateAdded": "2023-12-29T18:00:02.699Z"
+  },
+  {
+    "url": "https://v0.dev/t/XzkZoHwZIYu",
+    "label": "Template for prompt: Login Page with API KEY ok dark mode",
+    "dateAdded": "2023-12-29T18:00:02.700Z"
+  },
+  {
+    "url": "https://v0.dev/t/EwlqWixAegA",
+    "label": "Template for prompt: a minimalistic landing page for a dokku plugin",
+    "dateAdded": "2023-12-29T18:00:02.700Z"
+  },
+  {
+    "url": "https://v0.dev/t/B8mekxbNlcL",
+    "label": "Template for prompt: A Saas for generate hashtag for social media",
+    "dateAdded": "2023-12-29T18:00:02.700Z"
   }
 ]
