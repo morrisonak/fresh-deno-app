@@ -40638,5 +40638,135 @@
     "url": "https://v0.dev/t/GuUYwkAItvI",
     "label": "Template for prompt: login",
     "dateAdded": "2023-12-29T00:30:03.897Z"
+  },
+  {
+    "url": "https://v0.dev/t/ytnJLYHFfrd",
+    "label": "Template for prompt: Generate a dashboard that used for IoT project. Where it used to send commands to IoT electronics and configure its data, and display its sensors data collected in a graph",
+    "dateAdded": "2023-12-29T00:35:03.138Z"
+  },
+  {
+    "url": "https://v0.dev/t/EV5CYw4mv1l",
+    "label": "Template for prompt: 列表每个元素两栏左右对齐",
+    "dateAdded": "2023-12-29T00:35:03.139Z"
+  },
+  {
+    "url": "https://v0.dev/t/3fx2EAYZa4Y",
+    "label": "Template for prompt: A dialog for updating user address containing the following input in a form: address line 1, address line 2, city, post code and country",
+    "dateAdded": "2023-12-29T00:35:03.139Z"
+  },
+  {
+    "url": "https://v0.dev/t/hIVQyDs0fM5",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-29T00:35:03.139Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z0vPWFltj53",
+    "label": "Template for prompt: make plz user info float modal",
+    "dateAdded": "2023-12-29T00:35:03.139Z"
+  },
+  {
+    "url": "https://v0.dev/t/XYYHUuguPyC",
+    "label": "Template for prompt: make the best portfolio website possible",
+    "dateAdded": "2023-12-29T00:35:03.139Z"
+  },
+  {
+    "url": "https://v0.dev/t/KP9AwJB8UXE",
+    "label": "Template for prompt: Create a simple and effective modal for users to leave reviews for our products. The modal should include the option to give a star rating and a text field for providing a description. Ensure that the design is user-friendly and the user experience is intuitive. Don't forget to include elements for submitting the review and an option to cancel if the user decides to exit the process without submitting a review",
+    "dateAdded": "2023-12-29T00:35:03.140Z"
+  },
+  {
+    "url": "https://v0.dev/t/P6c368K7C4d",
+    "label": "Template for prompt: Ecommerce cortes de carne",
+    "dateAdded": "2023-12-29T00:35:03.140Z"
+  },
+  {
+    "url": "https://v0.dev/t/xUrkiM0HlGv",
+    "label": "Template for prompt: <div class=\"container-fluid mt-5\">\n  <div class=\"row justify-content-center align-items-center\">\n    <div class=\"col-md-6\">\n      <div class=\"card text-center\">\n        <div class=\"card-header bg-primary text-white\">\n          <h1 class=\"display-4\">Bienvenue sur la Plateforme de SAKE DINA</h1>\n        </div>\n        <div class=\"card-body\">\n          <div class=\"btn-group mt-4\">\n            <a routerLink=\"/songs\" class=\"btn btn-primary btn-lg mr-3\">Voir les Chansons</a>\n            <a routerLink=\"/manage-songs\" class=\"btn btn-success btn-lg\">Gérer les Chansons</a>\n          </div>\n          <img src=\"assets/images/welcome-image.jpg\" alt=\"Welcome\" class=\"img-fluid rounded mt-4\">\n        </div>\n      </div>\n    </div>\n  </div>\n</div>\n",
+    "dateAdded": "2023-12-29T00:35:03.140Z"
+  },
+  {
+    "url": "https://v0.dev/t/4I55Ceg8RiA",
+    "label": "Template for prompt: make a top navbar with logo and links and a section below that has bento grids with images and text , it's content it's related to website development so something like \"learn html is fun\" , the footer is only transparent and contains social links",
+    "dateAdded": "2023-12-29T00:35:03.140Z"
+  },
+  {
+    "url": "https://v0.dev/t/UTIXjj7jbn9",
+    "label": "Template for prompt: 프로젝트 발표 형식으로 부탁해",
+    "dateAdded": "2023-12-29T00:35:03.141Z"
+  },
+  {
+    "url": "https://v0.dev/t/xDIsC6fJy29",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T00:35:03.141Z"
+  },
+  {
+    "url": "https://v0.dev/t/KHU6iKRU8Z8",
+    "label": "Template for prompt: Generate a landing page for a chiropody clinic",
+    "dateAdded": "2023-12-29T00:35:03.141Z"
+  },
+  {
+    "url": "https://v0.dev/t/zrdxwHi5Alr",
+    "label": "Template for prompt: tab with five columns. In fist column we show flags of countries, the second a nickname, after a time, next a email, and in the last a delete icon. Give me 10 rows",
+    "dateAdded": "2023-12-29T00:35:03.141Z"
+  },
+  {
+    "url": "https://v0.dev/t/nrfDWoI6nqq",
+    "label": "Template for prompt: Absolutely, let’s refine the flow of the Compass Co-Lister app, maintaining a consistent and soothing gradient throughout, complemented by text and buttons that are legible and engaging:\n\n**Page 1: Welcome Card:**\n- **Narrative**: Envision entering a space of serene hues, where a gradient washes over the screen from a deep twilight blue to a gentle sky blue. Compass AI greets you with a tone that's both inviting and reassuring, the auditory handshake to a new venture.\n- **Gradient Background**: #4E65FF → #92EFFD\n- **Button Color**: #FFFFFF (Frosted white, standing out against the gradient)\n- **Text Color**: #073763 (A dark navy blue for contrast and readability)\n\n**Page 2: Image Card:**\n- **Narrative**: You're now in the realm of creation, where the gradient gently nudges you to upload a picture. As the image materializes on the screen, Compass AI confirms the upload with a clear and distinct chime, akin to a soft bell in the distance.\n- **Gradient Background**: Consistent with Page 1\n",
+    "dateAdded": "2023-12-29T00:35:03.141Z"
+  },
+  {
+    "url": "https://v0.dev/t/fT401cPAWIE",
+    "label": "Template for prompt: Tela de login ",
+    "dateAdded": "2023-12-29T00:35:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/uFEegpGJYY5",
+    "label": "Template for prompt: A table that has save button as the last column. It has a select in one of the columns and a small image in another.",
+    "dateAdded": "2023-12-29T00:35:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/wiHEWlTdDeo",
+    "label": "Template for prompt: create a portfolio for developer web ",
+    "dateAdded": "2023-12-29T00:35:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/WHEBmYaPwTF",
+    "label": "Template for prompt: create a payment gateway",
+    "dateAdded": "2023-12-29T00:35:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/p7nldNQK74x",
+    "label": "Template for prompt: login page with form in side right, in of side left is logo center with a background with waves",
+    "dateAdded": "2023-12-29T00:35:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/gzBzvu7LVLb",
+    "label": "Template for prompt: https://www.mazenbahgat.com/ make a portfolio website like this",
+    "dateAdded": "2023-12-29T00:35:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/dFWzoSb73EE",
+    "label": "Template for prompt: create the icon picker, using popover, it was a button, click to show picker",
+    "dateAdded": "2023-12-29T00:35:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/KrDEGV44b3b",
+    "label": "Template for prompt:  green portfolio dev",
+    "dateAdded": "2023-12-29T00:35:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/lXR1jtGKrEw",
+    "label": "Template for prompt: personal portfolio for indie game developer",
+    "dateAdded": "2023-12-29T00:35:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/SqZhHcl7cNX",
+    "label": "Template for prompt: Create an ai-powered pwerformance marketing consulting agency landing page for a company names Marketing Engine. Use the image provided as a template",
+    "dateAdded": "2023-12-29T00:35:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/DbGBIf3lJ5W",
+    "label": "Template for prompt: the green bar at the bottom is for status messages.  How can I implement a better status messaging system?",
+    "dateAdded": "2023-12-29T00:35:03.144Z"
   }
 ]
