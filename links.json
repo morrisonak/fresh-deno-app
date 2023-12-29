@@ -41268,5 +41268,135 @@
     "url": "https://v0.dev/t/tIOnm7vRecX",
     "label": "Template for prompt: homepage for a chrome extension call SolanaGuard, with a link to download the extension",
     "dateAdded": "2023-12-29T00:55:03.796Z"
+  },
+  {
+    "url": "https://v0.dev/t/lkt3vZgpc2S",
+    "label": "Template for prompt: A SaaS full website",
+    "dateAdded": "2023-12-29T01:00:03.256Z"
+  },
+  {
+    "url": "https://v0.dev/t/d8GNvrbof3L",
+    "label": "Template for prompt: web application of awards for twitch streamers of argentina",
+    "dateAdded": "2023-12-29T01:00:03.256Z"
+  },
+  {
+    "url": "https://v0.dev/t/19MZh6Yog4s",
+    "label": "Template for prompt: create a section for showing the proposals of the candidates in an evoting system",
+    "dateAdded": "2023-12-29T01:00:03.256Z"
+  },
+  {
+    "url": "https://v0.dev/t/FTNrY44OfCb",
+    "label": "Template for prompt: 客服聊天界面",
+    "dateAdded": "2023-12-29T01:00:03.256Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZldFCVYhmas",
+    "label": "Template for prompt: a data transformation tool that combines data from two different sources using a common key",
+    "dateAdded": "2023-12-29T01:00:03.257Z"
+  },
+  {
+    "url": "https://v0.dev/t/CrzYwCfwN2S",
+    "label": "Template for prompt: research and pink theme",
+    "dateAdded": "2023-12-29T01:00:03.257Z"
+  },
+  {
+    "url": "https://v0.dev/t/F7dmlrcb1Yy",
+    "label": "Template for prompt: Create those variants using Class Variance Authority. Also show me all those variations inside a modal",
+    "dateAdded": "2023-12-29T01:00:03.257Z"
+  },
+  {
+    "url": "https://v0.dev/t/21y8YHIWSbZ",
+    "label": "Template for prompt: 客服管理系统",
+    "dateAdded": "2023-12-29T01:00:03.257Z"
+  },
+  {
+    "url": "https://v0.dev/t/7ZWYBHMv0Pn",
+    "label": "Template for prompt: Dark style, website navigation",
+    "dateAdded": "2023-12-29T01:00:03.258Z"
+  },
+  {
+    "url": "https://v0.dev/t/mJA9BVY4ldr",
+    "label": "Template for prompt:     <div\n      onDragOver={handleDragOver}\n      onDragLeave={handleDragLeave}\n      onDrop={handleFileDrop}\n      className='grid w-full max-w-sm items-center gap-1.5'\n      role='button'\n      tabIndex={0}\n      aria-label='File Input'\n    >\n      <Label htmlFor='upload' aria-label='upload input label'>{' '}</Label>\n      <input\n        id='upload'\n        type='file'\n        ref={fileInputRef}\n        onChange={handleOnChange}\n        aria-label='File Upload'\n        className='absolute inset-0 w-full h-full opacity-0 cursor-pointer'\n      />\n      {isDragActive ? 'Drop it like its hot' : fileName}\n      {file && (\n        <section>\n          File details:\n          <ul>\n            <li>Name: {file.name}</li>\n            <li>Type: {file.type}</li>\n            <li>Size: {(file.size / 1024 / 1024).toFixed(2)} MB</li>\n          </ul>\n        </section>\n      )}\n    </div>\n\nmore interesting display of info",
+    "dateAdded": "2023-12-29T01:00:03.258Z"
+  },
+  {
+    "url": "https://v0.dev/t/H3njsy3gtOw",
+    "label": "Template for prompt: 발표자료 디자인 하나 만들어줘",
+    "dateAdded": "2023-12-29T01:00:03.258Z"
+  },
+  {
+    "url": "https://v0.dev/t/b3zB8FRoGvy",
+    "label": "Template for prompt: 발표 형식으로 부탁해",
+    "dateAdded": "2023-12-29T01:00:03.258Z"
+  },
+  {
+    "url": "https://v0.dev/t/nZ2m1ayhVsS",
+    "label": "Template for prompt: a visual ui web app builder",
+    "dateAdded": "2023-12-29T01:00:03.258Z"
+  },
+  {
+    "url": "https://v0.dev/t/KAvp6ra2Y8r",
+    "label": "Template for prompt: Dragging and dropping process management page in dark style",
+    "dateAdded": "2023-12-29T01:00:03.259Z"
+  },
+  {
+    "url": "https://v0.dev/t/LzshAsDPGD6",
+    "label": "Template for prompt: upload file input with icon",
+    "dateAdded": "2023-12-29T01:00:03.259Z"
+  },
+  {
+    "url": "https://v0.dev/t/pFTKT2vMIxB",
+    "label": "Template for prompt: A product page of an e-commerce website containing product details like name, price, description, rating and discount and an add-to-cart button",
+    "dateAdded": "2023-12-29T01:00:03.259Z"
+  },
+  {
+    "url": "https://v0.dev/t/pEup7eyjySV",
+    "label": "Template for prompt:  ",
+    "dateAdded": "2023-12-29T01:00:03.259Z"
+  },
+  {
+    "url": "https://v0.dev/t/3aRcDxMZKbk",
+    "label": "Template for prompt: Create a toggle component from all those variations",
+    "dateAdded": "2023-12-29T01:00:03.259Z"
+  },
+  {
+    "url": "https://v0.dev/t/nLt6mQ3itNM",
+    "label": "Template for prompt: A minimalist presentation card",
+    "dateAdded": "2023-12-29T01:00:03.260Z"
+  },
+  {
+    "url": "https://v0.dev/t/FzXoqAkfrcO",
+    "label": "Template for prompt: ccreate a website for an lcsw",
+    "dateAdded": "2023-12-29T01:00:03.260Z"
+  },
+  {
+    "url": "https://v0.dev/t/I1zruz8Jp7W",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T01:00:03.260Z"
+  },
+  {
+    "url": "https://v0.dev/t/PbnWujPRlAh",
+    "label": "Template for prompt: Create all variants that are shown in the picture using tailwind and use Class Variance Authority package",
+    "dateAdded": "2023-12-29T01:00:03.260Z"
+  },
+  {
+    "url": "https://v0.dev/t/OhwpY9cMrBD",
+    "label": "Template for prompt: a crm report generator",
+    "dateAdded": "2023-12-29T01:00:03.260Z"
+  },
+  {
+    "url": "https://v0.dev/t/BVeTpj1qaVP",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-29T01:00:03.261Z"
+  },
+  {
+    "url": "https://v0.dev/t/tV1FsxNbGLW",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T01:00:03.261Z"
+  },
+  {
+    "url": "https://v0.dev/t/yLVdgMLexEo",
+    "label": "Template for prompt: A minimalist brain dump todo platform",
+    "dateAdded": "2023-12-29T01:00:03.261Z"
   }
 ]
