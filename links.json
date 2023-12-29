@@ -42048,5 +42048,135 @@
     "url": "https://v0.dev/t/vlOMnFSLyJi",
     "label": "Template for prompt: sort labels header",
     "dateAdded": "2023-12-29T15:55:03.179Z"
+  },
+  {
+    "url": "https://v0.dev/t/svFvcPSpKqN",
+    "label": "Template for prompt: create a container archıtecture ",
+    "dateAdded": "2023-12-29T16:00:03.997Z"
+  },
+  {
+    "url": "https://v0.dev/t/vEruQmA14C9",
+    "label": "Template for prompt: I need a page for cloud paste clipboard, users can input refresh submit records. It will also show recoeds grouped by Date. Each record is shown as a Card View, and can be deleted. At last, users can set the type for each card, string. code snippet and image",
+    "dateAdded": "2023-12-29T16:00:03.997Z"
+  },
+  {
+    "url": "https://v0.dev/t/xVs8rgmXOeY",
+    "label": "Template for prompt: 生成一个密码管理工具的首页，主要是一个列表，表头有 网站、用户名、密码、备注，界面支持网站搜索，新增密码，修改操作，拖拽排序，快速复制用户，密码",
+    "dateAdded": "2023-12-29T16:00:03.997Z"
+  },
+  {
+    "url": "https://v0.dev/t/104IHXYxMfJ",
+    "label": "Template for prompt: react native project of an educational application",
+    "dateAdded": "2023-12-29T16:00:03.997Z"
+  },
+  {
+    "url": "https://v0.dev/t/wa3RQaMr97F",
+    "label": "Template for prompt: cli colorful output with styling and stuff",
+    "dateAdded": "2023-12-29T16:00:03.997Z"
+  },
+  {
+    "url": "https://v0.dev/t/1CRqH3snwZY",
+    "label": "Template for prompt: an apllication that is doing only \"stat\" or \"open/close\" to a file, then gives average latency and IOPS/s.\nsupporting multithreDING AND get's target as an input.",
+    "dateAdded": "2023-12-29T16:00:03.998Z"
+  },
+  {
+    "url": "https://v0.dev/t/xcTwkCo6mnB",
+    "label": "Template for prompt: game",
+    "dateAdded": "2023-12-29T16:00:03.998Z"
+  },
+  {
+    "url": "https://v0.dev/t/qoOVpqDcnOL",
+    "label": "Template for prompt: tailwind dropdown multiple select",
+    "dateAdded": "2023-12-29T16:00:03.998Z"
+  },
+  {
+    "url": "https://v0.dev/t/W4xbv5hBo6Z",
+    "label": "Template for prompt: 生成一个密码管理工具的首页，主要是一个列表，表头有 网站、用户名、密码、备注，界面支持网站搜索，新增密码，修改操作，体现可以拖拽排序，快速复制用户，密码",
+    "dateAdded": "2023-12-29T16:00:03.998Z"
+  },
+  {
+    "url": "https://v0.dev/t/bTkiYtUJEPq",
+    "label": "Template for prompt: welcom page",
+    "dateAdded": "2023-12-29T16:00:03.998Z"
+  },
+  {
+    "url": "https://v0.dev/t/8qKGlzok7uJ",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-29T16:00:03.999Z"
+  },
+  {
+    "url": "https://v0.dev/t/OzNpq8l2pt9",
+    "label": "Template for prompt: login in and signup page",
+    "dateAdded": "2023-12-29T16:00:03.999Z"
+  },
+  {
+    "url": "https://v0.dev/t/Hisp5XlgKsp",
+    "label": "Template for prompt: Create an exceptionally captivating and professional About Us page for a website, with special emphasis on a compelling hero section. The hero section should not only prominently feature the mission and vision statements but also be designed to evoke a sense of inspiration and engagement.\n\nCraft an innovative and visually stunning layout for the mission and vision statements, ensuring that they are presented in a way that captivates the audience. Utilize dynamic visual elements, such as subtle animations or transitions, to bring these statements to life and make them more memorable.\n\nIncorporate a high-quality, relevant image that seamlessly complements the mission and vision. The image should not only serve as a backdrop but should tell a story that resonates with the core values of the organization, leaving a lasting impression on visitors.\n\nBelow the hero section, design the Teams segment to be both informative and visually appealing. Introduce two key team members with captivating ",
+    "dateAdded": "2023-12-29T16:00:03.999Z"
+  },
+  {
+    "url": "https://v0.dev/t/2huPACftV6X",
+    "label": "Template for prompt: profile selection page. 3 main profile cards spread horizontally across the screen with details of each profile benefits, and a button at the bottom to select",
+    "dateAdded": "2023-12-29T16:00:03.999Z"
+  },
+  {
+    "url": "https://v0.dev/t/UNQWRtsUGWT",
+    "label": "Template for prompt: can you create welcom page for the chrome extension, that i can show on welcom or if user is not signin. \n\nIt should ask have two step, on first it should ask for the name and in next step it should ask them to login via google.",
+    "dateAdded": "2023-12-29T16:00:04.000Z"
+  },
+  {
+    "url": "https://v0.dev/t/AJ5FvWQKi4k",
+    "label": "Template for prompt: Generate me white grid with 7 collumns and each collumn has 24 rows representing hours. Mak sure that every element of the grid consists of 4 elements. I need this to represent the calendar. Add dates as labels of columns. Make sure the grid column/row intersections have gray border",
+    "dateAdded": "2023-12-29T16:00:04.000Z"
+  },
+  {
+    "url": "https://v0.dev/t/rdAWPxC05RD",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-29T16:00:04.000Z"
+  },
+  {
+    "url": "https://v0.dev/t/xGwYfxs5CWd",
+    "label": "Template for prompt: Design a visually appealing and professional About Us page for a website. The page should have a prominent hero section that includes the mission and vision statements, accompanied by a visually striking image that complements the overall theme.\n\nIn the hero section, prioritize a clean and modern layout, ensuring that the mission and vision statements are presented prominently and clearly. Use complementary colors and typography to enhance the visual appeal and convey a sense of professionalism.\n\nBelow the hero section, create a Teams section that showcases the organizational structure. Include two distinct team members, each accompanied by their name, role, and a brief description. The design should reflect a cohesive and collaborative team environment.\n\nIntegrate an aesthetically pleasing image or iconography to represent the partnership section. This section should highlight key partnerships and collaborations, presenting them in a visually engaging manner.\n\nEnsure that the overall ",
+    "dateAdded": "2023-12-29T16:00:04.000Z"
+  },
+  {
+    "url": "https://v0.dev/t/5x1N1T6r8KP",
+    "label": "Template for prompt: login page with email and password input fields, with additional button to login using google and apple",
+    "dateAdded": "2023-12-29T16:00:04.000Z"
+  },
+  {
+    "url": "https://v0.dev/t/k5ki2bnl2ny",
+    "label": "Template for prompt: Make me a one week calendar example.7 collumns representing 7 days of the week. Each Collumn has 24 rows and in each row there are 4 div elements. ",
+    "dateAdded": "2023-12-29T16:00:04.000Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZnndvsVxCXj",
+    "label": "Template for prompt: rpg browser game",
+    "dateAdded": "2023-12-29T16:00:04.001Z"
+  },
+  {
+    "url": "https://v0.dev/t/qgJuhMfEC7g",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-29T16:00:04.001Z"
+  },
+  {
+    "url": "https://v0.dev/t/FzI5DAybIiC",
+    "label": "Template for prompt: A Bart Simpson portfolio",
+    "dateAdded": "2023-12-29T16:00:04.001Z"
+  },
+  {
+    "url": "https://v0.dev/t/pcpucC1vHfC",
+    "label": "Template for prompt: Generate me white grid with 3 collumns and each collumn has 24 rows representing hours. Mak sure that every element of the grid consists of 4 elements. I need this to represent the calendar. Add dates as labels of columns. Make sure the grid column/row intersections have gray border",
+    "dateAdded": "2023-12-29T16:00:04.001Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y8tqLUTsT4g",
+    "label": "Template for prompt: A dashboard with 3 graphs (one linechart, one scatterplot and one histogram)",
+    "dateAdded": "2023-12-29T16:00:04.001Z"
+  },
+  {
+    "url": "https://v0.dev/t/AydlEl1Uqnm",
+    "label": "Template for prompt: select form",
+    "dateAdded": "2023-12-29T16:00:04.002Z"
   }
 ]
