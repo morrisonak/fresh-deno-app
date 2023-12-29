@@ -40118,5 +40118,135 @@
     "url": "https://v0.dev/t/FrwdjlSH3KZ",
     "label": "Template for prompt: create a login interface",
     "dateAdded": "2023-12-29T00:10:03.770Z"
+  },
+  {
+    "url": "https://v0.dev/t/vcT5LvZAHYG",
+    "label": "Template for prompt: a MUI component that shows a text and when we hover on, it will show an edit button and a delete button",
+    "dateAdded": "2023-12-29T00:15:03.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/j7mMojOWFdO",
+    "label": "Template for prompt: improve the design.  Simplify and make it better",
+    "dateAdded": "2023-12-29T00:15:03.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/rrAUaBlswPm",
+    "label": "Template for prompt: clone denall.com",
+    "dateAdded": "2023-12-29T00:15:03.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/suA7PmFi98o",
+    "label": "Template for prompt: improve the design.  Simplify and make it better",
+    "dateAdded": "2023-12-29T00:15:03.587Z"
+  },
+  {
+    "url": "https://v0.dev/t/qHtb1O2QymR",
+    "label": "Template for prompt: startup pricing page using tailwind cs",
+    "dateAdded": "2023-12-29T00:15:03.587Z"
+  },
+  {
+    "url": "https://v0.dev/t/zOY1YFNex2G",
+    "label": "Template for prompt: A cool, dark mode landing page for a new developer tool called BrowserBase. ",
+    "dateAdded": "2023-12-29T00:15:03.587Z"
+  },
+  {
+    "url": "https://v0.dev/t/axWWx16sd56",
+    "label": "Template for prompt: the waiting / connecting room screen for an online game. it should be mobile friendly / responsive. it has a list of the connected users, the name of the game, a description of the game, a QR code displayed with a link to join the game, and a start button",
+    "dateAdded": "2023-12-29T00:15:03.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/9S7aPqEABgj",
+    "label": "Template for prompt: clone instagram",
+    "dateAdded": "2023-12-29T00:15:03.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/K6YPTTz9dSy",
+    "label": "Template for prompt: a component that shows a text and when we hover on, it will show an edit button and a delete button",
+    "dateAdded": "2023-12-29T00:15:03.589Z"
+  },
+  {
+    "url": "https://v0.dev/t/gtKA20wuubp",
+    "label": "Template for prompt: Pantalla de aplicacion de citas la cual pueda swipear para like o dislike",
+    "dateAdded": "2023-12-29T00:15:03.589Z"
+  },
+  {
+    "url": "https://v0.dev/t/2RGA5K92bkn",
+    "label": "Template for prompt: the waiting / connecting room screen for an online game. it should be mobile friendly / responsive. it has a list of the connected users, the name of the game, a description of the game, and a start button",
+    "dateAdded": "2023-12-29T00:15:03.589Z"
+  },
+  {
+    "url": "https://v0.dev/t/paHMP1VezV1",
+    "label": "Template for prompt: Teams風のUI作って",
+    "dateAdded": "2023-12-29T00:15:03.589Z"
+  },
+  {
+    "url": "https://v0.dev/t/8WmelILajTr",
+    "label": "Template for prompt: \"Develop a modern, responsive blog platform using React. The application should have a user-friendly interface with a focus on readability and easy navigation. This site is to be used for \"tech tidbits\" for business users in a 401k copmany. \n\nKey features should include:\n\n1. Homepage: A clean, visually appealing layout displaying the latest blog posts with their titles, short excerpts, and featured images. Implement infinite scrolling for a seamless user experience.\n2. Blog Post Page: Each post should have a dedicated page with a full view of the content, including text, images, and embedded videos. Ensure there's a comment section for user interaction.\n3. Admin Dashboard: A secure, intuitive admin area for creating, editing, and managing blog posts. Include capabilities for draft saving, post scheduling, and categorization (tags, categories).\n4. Search Functionality: Incorporate a search bar allowing users to find content by keywords or categories.\n5. Mobile Responsiveness: The site s",
+    "dateAdded": "2023-12-29T00:15:03.590Z"
+  },
+  {
+    "url": "https://v0.dev/t/GPsAx9Gu5K9",
+    "label": "Template for prompt: a sign up form as a pop-up and a close button",
+    "dateAdded": "2023-12-29T00:15:03.590Z"
+  },
+  {
+    "url": "https://v0.dev/t/a2kaJo4zKTD",
+    "label": "Template for prompt: a mobile friendly screen for the waiting / connecting room for an online game. it has a list of the connected users, the name of the game, a description of the game, and a start button",
+    "dateAdded": "2023-12-29T00:15:03.590Z"
+  },
+  {
+    "url": "https://v0.dev/t/S6CIWvSN64c",
+    "label": "Template for prompt: slider banner",
+    "dateAdded": "2023-12-29T00:15:03.590Z"
+  },
+  {
+    "url": "https://v0.dev/t/VrTsbZcNh7e",
+    "label": "Template for prompt: A component to add or remove chips",
+    "dateAdded": "2023-12-29T00:15:03.591Z"
+  },
+  {
+    "url": "https://v0.dev/t/qPp7JOTzmX6",
+    "label": "Template for prompt: create calendar interface for pet tracking",
+    "dateAdded": "2023-12-29T00:15:03.591Z"
+  },
+  {
+    "url": "https://v0.dev/t/dWkTnEGUrAP",
+    "label": "Template for prompt: Create a user profile page with a large rectangle profile picture that has a bio inlined then a vertical divider that has graphs embedded onto cards",
+    "dateAdded": "2023-12-29T00:15:03.591Z"
+  },
+  {
+    "url": "https://v0.dev/t/LGvlnVfjO2X",
+    "label": "Template for prompt: A video game marketplace",
+    "dateAdded": "2023-12-29T00:15:03.591Z"
+  },
+  {
+    "url": "https://v0.dev/t/jquwcnPJqVG",
+    "label": "Template for prompt: Personal Portfolio with personal introduction, work experience sections linking to blogs and contact me section and more",
+    "dateAdded": "2023-12-29T00:15:03.591Z"
+  },
+  {
+    "url": "https://v0.dev/t/OWj5UEhaOMp",
+    "label": "Template for prompt: Twitter UIを作って",
+    "dateAdded": "2023-12-29T00:15:03.592Z"
+  },
+  {
+    "url": "https://v0.dev/t/7fTmQRCdLVu",
+    "label": "Template for prompt: Uma tela que lista as transações de uma aplicação de gestão financeira, a tela deve ser responsiva e com filtros",
+    "dateAdded": "2023-12-29T00:15:03.592Z"
+  },
+  {
+    "url": "https://v0.dev/t/zDXzZIyDnCI",
+    "label": "Template for prompt: a contact page for saas that allwos business to crawl their business content then we create custom chatbot for thier busiess  based on theri website content,\\",
+    "dateAdded": "2023-12-29T00:15:03.594Z"
+  },
+  {
+    "url": "https://v0.dev/t/e1HwR1Ndgkf",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T00:15:03.594Z"
+  },
+  {
+    "url": "https://v0.dev/t/hQLEIZ4hdXI",
+    "label": "Template for prompt: Can you make a layout/mockup design for a website landing page so students can practice html markup and BEM naming convention?",
+    "dateAdded": "2023-12-29T00:15:03.601Z"
   }
 ]
