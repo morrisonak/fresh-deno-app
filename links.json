@@ -41658,5 +41658,135 @@
     "url": "https://v0.dev/t/ecagZ5UZ29d",
     "label": "Template for prompt: 파란색/흰색/회색 계열의 표절 검사 사이트 디자인 해줘.",
     "dateAdded": "2023-12-29T15:40:03.134Z"
+  },
+  {
+    "url": "https://v0.dev/t/6ArgTIBh4KI",
+    "label": "Template for prompt: Build a table using shadcn components. This table should represent a list of data name. I also need to display the data key in an non intrusive manner",
+    "dateAdded": "2023-12-29T15:45:39.254Z"
+  },
+  {
+    "url": "https://v0.dev/t/JD2eiJiMnIb",
+    "label": "Template for prompt: https://bento.me/aedotris",
+    "dateAdded": "2023-12-29T15:45:39.255Z"
+  },
+  {
+    "url": "https://v0.dev/t/YSdd2TgGnF1",
+    "label": "Template for prompt: make site like this, tottaly same also make mobile comptaible",
+    "dateAdded": "2023-12-29T15:45:39.255Z"
+  },
+  {
+    "url": "https://v0.dev/t/mGqEs1NUDn3",
+    "label": "Template for prompt: gym member management dashboard",
+    "dateAdded": "2023-12-29T15:45:39.255Z"
+  },
+  {
+    "url": "https://v0.dev/t/BeLOVnHBGYE",
+    "label": "Template for prompt: a website for pharmaceutical company based in india",
+    "dateAdded": "2023-12-29T15:45:39.255Z"
+  },
+  {
+    "url": "https://v0.dev/t/DCCGS6nKf6l",
+    "label": "Template for prompt: make site like this, tottaly same also make mobile comptaible",
+    "dateAdded": "2023-12-29T15:45:39.255Z"
+  },
+  {
+    "url": "https://v0.dev/t/wGFBFUyb9AT",
+    "label": "Template for prompt: Create a chatgpt clone",
+    "dateAdded": "2023-12-29T15:45:39.255Z"
+  },
+  {
+    "url": "https://v0.dev/t/b4fXFBS8Nfp",
+    "label": "Template for prompt: create a professional site of a color stylist who cares about armocromy in react and tailwind. Use also animations",
+    "dateAdded": "2023-12-29T15:45:39.256Z"
+  },
+  {
+    "url": "https://v0.dev/t/HcrcqvSDv1t",
+    "label": "Template for prompt: make  a page where the mouse act like a spot light revealing the content ",
+    "dateAdded": "2023-12-29T15:45:39.256Z"
+  },
+  {
+    "url": "https://v0.dev/t/9nAsFhoUsDK",
+    "label": "Template for prompt: build a dialog modal to transfer money to another account. It is a financial platform. A part for having a search for the other account, we should add amount, and some metadata of the transaction: geolocation, and 3 fields that are the id of the transaction, description and type of transaction",
+    "dateAdded": "2023-12-29T15:45:39.256Z"
+  },
+  {
+    "url": "https://v0.dev/t/ulZci7U3NhT",
+    "label": "Template for prompt: My portfolio and profile page. I am VTuber. simple and pop.",
+    "dateAdded": "2023-12-29T15:45:39.256Z"
+  },
+  {
+    "url": "https://v0.dev/t/HFT4kwzTCOO",
+    "label": "Template for prompt: a modern web developer portfolio design",
+    "dateAdded": "2023-12-29T15:45:39.257Z"
+  },
+  {
+    "url": "https://v0.dev/t/DDWW987Ihtd",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T15:45:39.257Z"
+  },
+  {
+    "url": "https://v0.dev/t/mUu2oRiJOeJ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T15:45:39.257Z"
+  },
+  {
+    "url": "https://v0.dev/t/d8j3pQtxvvy",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T15:45:39.257Z"
+  },
+  {
+    "url": "https://v0.dev/t/FcYde6VhHRw",
+    "label": "Template for prompt: Use a grid or card layout to display open-source projects. Each card should include the project's name, a brief description, and its OSCE_Rating prominently displayed.     Highlight top-rated or trending projects in a \"Featured\" section. This could be a carousel or a distinct section near the top of the page. This conceptual guide aims to create a user-friendly, informative, and engaging front page for the OSCE_Rating website, thereby enhancing the user experience and fostering greater interaction with the showcased open-source projects.",
+    "dateAdded": "2023-12-29T15:45:39.257Z"
+  },
+  {
+    "url": "https://v0.dev/t/5VVOQjxK7gs",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T15:45:39.258Z"
+  },
+  {
+    "url": "https://v0.dev/t/8K43FjPKOEK",
+    "label": "Template for prompt: Profile page for travel agency website",
+    "dateAdded": "2023-12-29T15:45:39.258Z"
+  },
+  {
+    "url": "https://v0.dev/t/paoiHxS8z1r",
+    "label": "Template for prompt: code the layout of the screenshot using shadcn components",
+    "dateAdded": "2023-12-29T15:45:39.258Z"
+  },
+  {
+    "url": "https://v0.dev/t/m7x75yu2Kmh",
+    "label": "Template for prompt: a modal on a page that displays the version tree for a document and where they are stored",
+    "dateAdded": "2023-12-29T15:45:39.258Z"
+  },
+  {
+    "url": "https://v0.dev/t/Au4v1R9JEC6",
+    "label": "Template for prompt: Header Component (<Header />)\n    Search Bar:\n        Input field of type \"text\"\n        Placeholder attribute with value \"Search in blog\"\n        Manage search state with onChange handler\n    Navigation Links:\n        Unordered list (<ul>) with list items (<li>)\n        Anchor tags (<a>) styled as tabs\n        optionally add role=\"tablist\" with individual tab roles\n    Logo:\n        Heading tag (<h1>) with \"LFT Blog\" text\n        Image tag (<img>) with alt attribute for accessibility\n\nMain Article Component (<MainArticle />)\n\n    Title:\n        Heading tag (<h2>)\n    Button:\n        Anchor tag (<a>) styled as button\n        onClick handler to load articles\n    Background:\n        Apply backgrounds with CSS\n\nFeatured Article Cards Component (<FeaturedArticleCards />)\n\n    Individual Card (<ArticleCard />):\n        Heading tag (<h3>) for title\n        Paragraph (<p>) for description\n        Button same as <MainArticle />\n    Carousel Indicators:\n        Unordered list with dots, apply ",
+    "dateAdded": "2023-12-29T15:45:39.258Z"
+  },
+  {
+    "url": "https://v0.dev/t/l8i5MLUgGDN",
+    "label": "Template for prompt: Please design a similar home page for me which is 100% responsive. Thanks",
+    "dateAdded": "2023-12-29T15:45:39.258Z"
+  },
+  {
+    "url": "https://v0.dev/t/aAQQY5pVuYk",
+    "label": "Template for prompt: a modern and simple page which allows you to use a file explorer with a search field",
+    "dateAdded": "2023-12-29T15:45:39.258Z"
+  },
+  {
+    "url": "https://v0.dev/t/t4ugEUtzAB2",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T15:45:39.259Z"
+  },
+  {
+    "url": "https://v0.dev/t/CmIxVFbiBNz",
+    "label": "Template for prompt: create this",
+    "dateAdded": "2023-12-29T15:45:39.259Z"
+  },
+  {
+    "url": "https://v0.dev/t/qxAFv7BxChV",
+    "label": "Template for prompt: a landing page like sonarr",
+    "dateAdded": "2023-12-29T15:45:39.259Z"
   }
 ]
