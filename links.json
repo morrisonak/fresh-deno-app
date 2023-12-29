@@ -44308,5 +44308,125 @@
     "url": "https://v0.dev/t/ksQGO3PlZYV",
     "label": "Template for prompt: A simple web app with a small search bar and a button to run a seach.",
     "dateAdded": "2023-12-29T20:20:03.649Z"
+  },
+  {
+    "url": "https://v0.dev/t/oKpbMqoSiuJ",
+    "label": "Template for prompt: напиши мені дизайн крутого сайту для перегляду відео та фільмів(як ютуб чи нетфлікс)",
+    "dateAdded": "2023-12-29T20:25:04.735Z"
+  },
+  {
+    "url": "https://v0.dev/t/V3b7VPLABFB",
+    "label": "Template for prompt: vcard generator",
+    "dateAdded": "2023-12-29T20:25:04.735Z"
+  },
+  {
+    "url": "https://v0.dev/t/e7IJK2uH1c2",
+    "label": "Template for prompt: a landing page with a hero section that contains a sign-in button and img and have a footer for information ",
+    "dateAdded": "2023-12-29T20:25:04.735Z"
+  },
+  {
+    "url": "https://v0.dev/t/E63o74vTbIE",
+    "label": "Template for prompt: create a menu item that show avatar, email and signout button",
+    "dateAdded": "2023-12-29T20:25:04.736Z"
+  },
+  {
+    "url": "https://v0.dev/t/T0f8xQaZeSX",
+    "label": "Template for prompt: crypto wallet",
+    "dateAdded": "2023-12-29T20:25:04.736Z"
+  },
+  {
+    "url": "https://v0.dev/t/y8ZzlIYzCUq",
+    "label": "Template for prompt: 一个区块链浏览器的界面。上方有导航栏 分别为主页，搜索，发射台。联系方式，主页先有一个通用信息面板。右侧小热力图。下方是显示表格数据，表格右侧有一个转账信息列表，和部署信息列表",
+    "dateAdded": "2023-12-29T20:25:04.736Z"
+  },
+  {
+    "url": "https://v0.dev/t/nyQzCoRXEIV",
+    "label": "Template for prompt: cve scan results, with medieval videogame shop inventory theme",
+    "dateAdded": "2023-12-29T20:25:04.736Z"
+  },
+  {
+    "url": "https://v0.dev/t/WNsbVldONWo",
+    "label": "Template for prompt: A file upload process for a video sharing application",
+    "dateAdded": "2023-12-29T20:25:04.736Z"
+  },
+  {
+    "url": "https://v0.dev/t/JcTo5moCynL",
+    "label": "Template for prompt: CVE scan results",
+    "dateAdded": "2023-12-29T20:25:04.736Z"
+  },
+  {
+    "url": "https://v0.dev/t/WXCXhG32bUH",
+    "label": "Template for prompt: a wikipedia game where the goal is to get from article a to article b with as few link clicks as possible",
+    "dateAdded": "2023-12-29T20:25:04.736Z"
+  },
+  {
+    "url": "https://v0.dev/t/mxmk8MF6YYH",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-29T20:25:04.736Z"
+  },
+  {
+    "url": "https://v0.dev/t/UkKlkYC3VAP",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T20:25:04.737Z"
+  },
+  {
+    "url": "https://v0.dev/t/MMfri9ft3ra",
+    "label": "Template for prompt: Create a React card component with a title, body and footer",
+    "dateAdded": "2023-12-29T20:25:04.737Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZTitzrRJ1lb",
+    "label": "Template for prompt: form for sending asks",
+    "dateAdded": "2023-12-29T20:25:04.737Z"
+  },
+  {
+    "url": "https://v0.dev/t/d4Lm3lWUmiz",
+    "label": "Template for prompt: write a server moderation page, it should include an On/Off button, A remove button, a restart button. A status badge (restarting, error and etc...), Name of the server, the duration remaining for the server, The address (URL), Online players and tps stats (just numbers)",
+    "dateAdded": "2023-12-29T20:25:04.737Z"
+  },
+  {
+    "url": "https://v0.dev/t/7Tnqd7EWwXj",
+    "label": "Template for prompt: a youtube clone, but minimalist",
+    "dateAdded": "2023-12-29T20:25:04.737Z"
+  },
+  {
+    "url": "https://v0.dev/t/UdA3rwiVQF3",
+    "label": "Template for prompt: Create a dark themed dashboard page to handle Created Itens, similar as Figma. Add right click mouse event to show more options in cards",
+    "dateAdded": "2023-12-29T20:25:04.737Z"
+  },
+  {
+    "url": "https://v0.dev/t/DkoBIESa9dV",
+    "label": "Template for prompt: An ecommerce store for organic candles and wax melts with different shapes, scents and colors",
+    "dateAdded": "2023-12-29T20:25:04.737Z"
+  },
+  {
+    "url": "https://v0.dev/t/REqOBLogNnA",
+    "label": "Template for prompt: A product card that contains a \"Reason\" | \"Department\" | \"Purchase Date\" | \"Sell by Date\" | \"Product Notes\". The top of the card should display the Item Description and Item Code along with the Price on the right hand side",
+    "dateAdded": "2023-12-29T20:25:04.737Z"
+  },
+  {
+    "url": "https://v0.dev/t/ViBf91KyjBw",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-29T20:25:04.738Z"
+  },
+  {
+    "url": "https://v0.dev/t/PvKLAePpKkM",
+    "label": "Template for prompt: a subscription overview of my stripe products",
+    "dateAdded": "2023-12-29T20:25:04.738Z"
+  },
+  {
+    "url": "https://v0.dev/t/dfBcWeFSdUi",
+    "label": "Template for prompt: create a landing page for a taxi service in paris",
+    "dateAdded": "2023-12-29T20:25:04.738Z"
+  },
+  {
+    "url": "https://v0.dev/t/2TJ6GXWwsye",
+    "label": "Template for prompt: A shopping cart page that displayed the front and back image of a product, name, price, quantity (that can be adjusted), notes, and if the customer wants to be called first or not",
+    "dateAdded": "2023-12-29T20:25:04.738Z"
+  },
+  {
+    "url": "https://v0.dev/t/ymaB44nSlNY",
+    "label": "Template for prompt: 有主页 发射台 联系 ，主页有热力图，最近转账列表",
+    "dateAdded": "2023-12-29T20:25:04.738Z"
   }
 ]
