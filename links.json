@@ -42663,5 +42663,135 @@
     "url": "https://v0.dev/t/zT5JiQyhPc1",
     "label": "Template for prompt: Build a responsive navbar header for a SaaS Landing Page and make it blur and fixed",
     "dateAdded": "2023-12-29T16:20:03.997Z"
+  },
+  {
+    "url": "https://v0.dev/t/dgrgUPa9UGp",
+    "label": "Template for prompt: Chat UI",
+    "dateAdded": "2023-12-29T16:25:03.162Z"
+  },
+  {
+    "url": "https://v0.dev/t/EPo8oJ0wHbR",
+    "label": "Template for prompt: The homepage for a personal blog, showing a list of recent articles and projects. Each item should have an image, a title, a short text, and a list of tags. Use light blue as the accent color.",
+    "dateAdded": "2023-12-29T16:25:03.162Z"
+  },
+  {
+    "url": "https://v0.dev/t/vIUfI3imDs5",
+    "label": "Template for prompt: Create an art mini-card with (a) an text explanation and (b) art caption. The art caption should give the art's title, artist name, and year.",
+    "dateAdded": "2023-12-29T16:25:03.162Z"
+  },
+  {
+    "url": "https://v0.dev/t/FwQTvK8iuFE",
+    "label": "Template for prompt: generate this in tailwind css make it very accurate",
+    "dateAdded": "2023-12-29T16:25:03.162Z"
+  },
+  {
+    "url": "https://v0.dev/t/4dBstkhBgJo",
+    "label": "Template for prompt: upload image with FilePond",
+    "dateAdded": "2023-12-29T16:25:03.162Z"
+  },
+  {
+    "url": "https://v0.dev/t/zd1ZHMY9vEY",
+    "label": "Template for prompt: make a layout like pm2  dashboard ",
+    "dateAdded": "2023-12-29T16:25:03.162Z"
+  },
+  {
+    "url": "https://v0.dev/t/QEsrYPYh8lm",
+    "label": "Template for prompt: A landing page for a software developer",
+    "dateAdded": "2023-12-29T16:25:03.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/cbrV9Bbs60A",
+    "label": "Template for prompt: a select dropdown for picking fonts that demos the font face after it's selected",
+    "dateAdded": "2023-12-29T16:25:03.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/yhz8xEMn07z",
+    "label": "Template for prompt: convert this to tailwind css",
+    "dateAdded": "2023-12-29T16:25:03.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/72HGe24eiA0",
+    "label": "Template for prompt: create a saas landing page ",
+    "dateAdded": "2023-12-29T16:25:03.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/mEgS8y9ldFg",
+    "label": "Template for prompt: create a prcing page",
+    "dateAdded": "2023-12-29T16:25:03.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/EhJtX695ORL",
+    "label": "Template for prompt: Create an \"art trivia\" answer reveal card with (a) an text explanation and (b) art caption. The art caption should give the art's title, artist name, and year",
+    "dateAdded": "2023-12-29T16:25:03.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/NLH3Z5g2rSS",
+    "label": "Template for prompt: I would like the same design ",
+    "dateAdded": "2023-12-29T16:25:03.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/7EVtEODcTn6",
+    "label": "Template for prompt: Crie uma tabela com paginação. Para o estado da paginação utilize route params.",
+    "dateAdded": "2023-12-29T16:25:03.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/fkaRmS78JzH",
+    "label": "Template for prompt: create a website like in this image",
+    "dateAdded": "2023-12-29T16:25:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/PVYGgqehTcE",
+    "label": "Template for prompt: generate section of overview posts",
+    "dateAdded": "2023-12-29T16:25:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/HnSdo4krfYK",
+    "label": "Template for prompt: 사진과 같이 구현해줘 참고로 카드 컴포넌트 쪽은 가로 스크롤이 가능해",
+    "dateAdded": "2023-12-29T16:25:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/ev2fpL4LPay",
+    "label": "Template for prompt: genera una vista de perfil considerando lo siguiente\nEl usuario tiene: nombre, apellido, correo, telefóno y rol\nEl usuario está asociado a un instituto que tiene: nombre y sigla\nEl usuario está asociado a una carrera que tiene: nombre y grado\nEl usuario tiene una imagen de perfil\n\nDebe ser un diseño creativo, innovador",
+    "dateAdded": "2023-12-29T16:25:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/Lib8F5uAUdz",
+    "label": "Template for prompt: 사진과 같이 구현해줘 참고로 카드 컴포넌트 쪽은 가로 스크롤이 가능해",
+    "dateAdded": "2023-12-29T16:25:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/5m7z4UeBZF3",
+    "label": "Template for prompt: no search results found component for a e-commerce website",
+    "dateAdded": "2023-12-29T16:25:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/Loffh2TsfGg",
+    "label": "Template for prompt: CVE Pets, or Tamagotchis that collect Common Vulnerabilities and Exposures (CVE). What if you could own a tamagotchi pet that explored the internet? And what if instead of bringing back shiny objects, it collected CVEs? Modern web developers do not consider common vulnerabilities when developing websites. I believe it will give developers an excuse to learn web app security. Choose your starter pet, and send it off to hunt",
+    "dateAdded": "2023-12-29T16:25:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/2sz1RErQJD0",
+    "label": "Template for prompt: A todo list app",
+    "dateAdded": "2023-12-29T16:25:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/smCPhacjKz7",
+    "label": "Template for prompt: A sass product landing page with svg line curve clips at the corners.",
+    "dateAdded": "2023-12-29T16:25:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/fg4mvsLHGIg",
+    "label": "Template for prompt: Form with email, name, company name industry dropdown. Checkbox to accept terms. Submitting should work only if everything has been entered correctly ",
+    "dateAdded": "2023-12-29T16:25:03.165Z"
+  },
+  {
+    "url": "https://v0.dev/t/i3iXWS96YFF",
+    "label": "Template for prompt: create a landing page to show a healthcare social service app",
+    "dateAdded": "2023-12-29T16:25:03.165Z"
+  },
+  {
+    "url": "https://v0.dev/t/wJHLrsxNL38",
+    "label": "Template for prompt: A sass product landing page with svg line curve clips at the corners.",
+    "dateAdded": "2023-12-29T16:25:03.165Z"
   }
 ]
