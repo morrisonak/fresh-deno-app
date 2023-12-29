@@ -40898,5 +40898,125 @@
     "url": "https://v0.dev/t/P6c368K7C4d",
     "label": "Template for prompt: Ecommerce cortes de carne",
     "dateAdded": "2023-12-29T00:40:03.654Z"
+  },
+  {
+    "url": "https://v0.dev/t/aaaynXyCGTd",
+    "label": "Template for prompt: a profile builder with background changer, fonts, themes, profile picture, buttons, contact settings",
+    "dateAdded": "2023-12-29T00:45:02.743Z"
+  },
+  {
+    "url": "https://v0.dev/t/kbFuCydatAQ",
+    "label": "Template for prompt: Make the home page of a website meant to display characters (through pagination) of a story/novel. Minimalist, with text centered in the middle of the sceen and a navbar with only three options, also centered.",
+    "dateAdded": "2023-12-29T00:45:02.743Z"
+  },
+  {
+    "url": "https://v0.dev/t/ySSKMasiqlp",
+    "label": "Template for prompt: user page of an e-commerce website with all user details like: name, email, address, orders, phone etc and an edit button",
+    "dateAdded": "2023-12-29T00:45:02.744Z"
+  },
+  {
+    "url": "https://v0.dev/t/j4BU1sDqGcb",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T00:45:02.744Z"
+  },
+  {
+    "url": "https://v0.dev/t/7cbTqvMDoGh",
+    "label": "Template for prompt: A footer component for a landing page that uses tailwind CSS, inspired by astronomy designs ",
+    "dateAdded": "2023-12-29T00:45:02.744Z"
+  },
+  {
+    "url": "https://v0.dev/t/wTdp9vwe52D",
+    "label": "Template for prompt: profile page ",
+    "dateAdded": "2023-12-29T00:45:02.744Z"
+  },
+  {
+    "url": "https://v0.dev/t/aqFEv4IobC0",
+    "label": "Template for prompt: Generate me a tailwind css ui for Displaying some basic information about a giveaway including the name, address, week, and multiplier as well as a button for claiming the giveaway. Make it look nice but very simple without too much ",
+    "dateAdded": "2023-12-29T00:45:02.744Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZVHyJkio8hH",
+    "label": "Template for prompt: een app pagina waar je een ober kan roepen, je kan de rekening vragen, je kan een vraag stellen of bestellen",
+    "dateAdded": "2023-12-29T00:45:02.744Z"
+  },
+  {
+    "url": "https://v0.dev/t/3kMvjF8oQEs",
+    "label": "Template for prompt: im making this dashboard and i want the sections to be predefined and filled when page loads immediately\n\none row at the top and bottom\n1 rtow in the middle but two columns the first column taking 1/3 of the space and the other taking 2/3\nid also like this to be shadcn-ui style",
+    "dateAdded": "2023-12-29T00:45:02.745Z"
+  },
+  {
+    "url": "https://v0.dev/t/tIOnm7vRecX",
+    "label": "Template for prompt: homepage for a chrome extension call SolanaGuard, with a link to download the extension",
+    "dateAdded": "2023-12-29T00:45:02.745Z"
+  },
+  {
+    "url": "https://v0.dev/t/2YeY6rqcakb",
+    "label": "Template for prompt: generate a personal portfolio website",
+    "dateAdded": "2023-12-29T00:45:02.745Z"
+  },
+  {
+    "url": "https://v0.dev/t/BgJOc5JtWHG",
+    "label": "Template for prompt: generate a personal portfolio website",
+    "dateAdded": "2023-12-29T00:45:02.745Z"
+  },
+  {
+    "url": "https://v0.dev/t/89B9xCQVpV2",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form. the hero gives a retro style terminal feel",
+    "dateAdded": "2023-12-29T00:45:02.745Z"
+  },
+  {
+    "url": "https://v0.dev/t/sSw3nk0Ewjs",
+    "label": "Template for prompt: 프로젝트 개요설명 페이지 만들어줘",
+    "dateAdded": "2023-12-29T00:45:02.746Z"
+  },
+  {
+    "url": "https://v0.dev/t/T3MfguF0E4J",
+    "label": "Template for prompt: A Showcase Page for Tattoo Artwork",
+    "dateAdded": "2023-12-29T00:45:02.746Z"
+  },
+  {
+    "url": "https://v0.dev/t/xUrkiM0HlGv",
+    "label": "Template for prompt: <div class=\"container-fluid mt-5\">\n  <div class=\"row justify-content-center align-items-center\">\n    <div class=\"col-md-6\">\n      <div class=\"card text-center\">\n        <div class=\"card-header bg-primary text-white\">\n          <h1 class=\"display-4\">Bienvenue sur la Plateforme de SAKE DINA</h1>\n        </div>\n        <div class=\"card-body\">\n          <div class=\"btn-group mt-4\">\n            <a routerLink=\"/songs\" class=\"btn btn-primary btn-lg mr-3\">Voir les Chansons</a>\n            <a routerLink=\"/manage-songs\" class=\"btn btn-success btn-lg\">Gérer les Chansons</a>\n          </div>\n          <img src=\"assets/images/welcome-image.jpg\" alt=\"Welcome\" class=\"img-fluid rounded mt-4\">\n        </div>\n      </div>\n    </div>\n  </div>\n</div>\n",
+    "dateAdded": "2023-12-29T00:45:02.746Z"
+  },
+  {
+    "url": "https://v0.dev/t/7MDgeBAwkgt",
+    "label": "Template for prompt: a minimaist micro blogging social feed",
+    "dateAdded": "2023-12-29T00:45:02.746Z"
+  },
+  {
+    "url": "https://v0.dev/t/FjtSIJ8vzPM",
+    "label": "Template for prompt: Необходимо создать прототипы пользовательских экранов для разрабатываемого  функционала, основываясь на уточнениях к бизнес-требованиям:\n\nСоздание заявки на отпуск: добавить/удалить периоды отпуска (тип отпуска, даты, кол-во дней, остаток дней отпуска), направить на согласование, отменить.\nПросмотр своих отпусков: тип, период, кол-во дней, статус, ок, перенести.\nПросмотр отпусков коллег: визуализация на одном экране всех периодов всех сотрудников подразделения данного пользователя.\nСогласование отпуска: просмотр данных, согласовать, вернуть на доработку.\nПри отправке на доработку обязательно указывается комментарий.\nПри отправке на экспертизу HR BP, выбирать соотв эксперта из списка (примерно 20 записей)\nТипов отпуска может быть примерно 10 разновидностей",
+    "dateAdded": "2023-12-29T00:45:02.746Z"
+  },
+  {
+    "url": "https://v0.dev/t/qOfGJ2Z9FrJ",
+    "label": "Template for prompt: create shadcn-ui fully customizable table like a \"tasks\" component",
+    "dateAdded": "2023-12-29T00:45:02.747Z"
+  },
+  {
+    "url": "https://v0.dev/t/G2eJqcrbddf",
+    "label": "Template for prompt: Необходимо создать прототипы пользовательских экранов для разрабатываемого  функционала, основываясь на уточнениях к бизнес-требованиям:\n\nСоздание заявки на отпуск: добавить/удалить периоды отпуска (тип отпуска, даты, кол-во дней, остаток дней отпуска), направить на согласование, отменить.\nПросмотр своих отпусков: тип, период, кол-во дней, статус, ок, перенести.\nПросмотр отпусков коллег: визуализация на одном экране всех периодов всех сотрудников подразделения данного пользователя.\nСогласование отпуска: просмотр данных, согласовать, вернуть на доработку.\nПри отправке на доработку обязательно указывается комментарий.\nПри отправке на экспертизу HR BP, выбирать соотв эксперта из списка (примерно 20 записей)\nТипов отпуска может быть примерно 10 разновидностей",
+    "dateAdded": "2023-12-29T00:45:02.747Z"
+  },
+  {
+    "url": "https://v0.dev/t/EV5CYw4mv1l",
+    "label": "Template for prompt: 列表每个元素两栏左右对齐",
+    "dateAdded": "2023-12-29T00:45:02.747Z"
+  },
+  {
+    "url": "https://v0.dev/t/O9c2alcKHN9",
+    "label": "Template for prompt: A cart component showing products, product quantity, buttons to increase the quantity of each product and a proceed to payment button",
+    "dateAdded": "2023-12-29T00:45:02.747Z"
+  },
+  {
+    "url": "https://v0.dev/t/55GHx6B6l3r",
+    "label": "Template for prompt: i want a hero section containing the title of the book at the top right with some nice margin the author just underneath with the deskrioption under that the text should be in a div that spans 50% of the hero div that's 90vw, futher more should 2 buttons be below the text centered. and a image on the right side in the hero div ",
+    "dateAdded": "2023-12-29T00:45:02.747Z"
+  },
+  {
+    "url": "https://v0.dev/t/ytnJLYHFfrd",
+    "label": "Template for prompt: Generate a dashboard that used for IoT project. Where it used to send commands to IoT electronics and configure its data, and display its sensors data collected in a graph",
+    "dateAdded": "2023-12-29T00:45:02.747Z"
   }
 ]
