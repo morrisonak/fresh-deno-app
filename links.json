@@ -42293,5 +42293,115 @@
     "url": "https://v0.dev/t/k5ki2bnl2ny",
     "label": "Template for prompt: Make me a one week calendar example.7 collumns representing 7 days of the week. Each Collumn has 24 rows and in each row there are 4 div elements. ",
     "dateAdded": "2023-12-29T16:05:03.536Z"
+  },
+  {
+    "url": "https://v0.dev/t/DZzhz6r4EDk",
+    "label": "Template for prompt: Image upload, submit button, and an image to display the results after submitted",
+    "dateAdded": "2023-12-29T16:10:03.614Z"
+  },
+  {
+    "url": "https://v0.dev/t/NnHHIocRroL",
+    "label": "Template for prompt: 聊天界面",
+    "dateAdded": "2023-12-29T16:10:03.614Z"
+  },
+  {
+    "url": "https://v0.dev/t/kIGWPUyKqCs",
+    "label": "Template for prompt: Create an hexagonal shape with 4 angle using image as background",
+    "dateAdded": "2023-12-29T16:10:03.614Z"
+  },
+  {
+    "url": "https://v0.dev/t/mFfMYiqJbdL",
+    "label": "Template for prompt: a modern web developer portfolio design",
+    "dateAdded": "2023-12-29T16:10:03.615Z"
+  },
+  {
+    "url": "https://v0.dev/t/H92HJLgJDHj",
+    "label": "Template for prompt: a footer to marketing agency",
+    "dateAdded": "2023-12-29T16:10:03.615Z"
+  },
+  {
+    "url": "https://v0.dev/t/JfmLil2RaBj",
+    "label": "Template for prompt: a modern web developer portfolio design",
+    "dateAdded": "2023-12-29T16:10:03.615Z"
+  },
+  {
+    "url": "https://v0.dev/t/FcEZfiNWPzO",
+    "label": "Template for prompt: an expense tracking application",
+    "dateAdded": "2023-12-29T16:10:03.615Z"
+  },
+  {
+    "url": "https://v0.dev/t/OSoORvGs2Gq",
+    "label": "Template for prompt: Please make this banner component",
+    "dateAdded": "2023-12-29T16:10:03.615Z"
+  },
+  {
+    "url": "https://v0.dev/t/ThWZcqxdi8A",
+    "label": "Template for prompt: Create a blog page",
+    "dateAdded": "2023-12-29T16:10:03.615Z"
+  },
+  {
+    "url": "https://v0.dev/t/ukzr6TsAVlJ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T16:10:03.615Z"
+  },
+  {
+    "url": "https://v0.dev/t/midNGTw2673",
+    "label": "Template for prompt: DESIGN WITH NEXT + TAILWIND + SHADCN",
+    "dateAdded": "2023-12-29T16:10:03.616Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZN8kXZ7DG2j",
+    "label": "Template for prompt: generate a footer page",
+    "dateAdded": "2023-12-29T16:10:03.616Z"
+  },
+  {
+    "url": "https://v0.dev/t/qJNuwUdGjyH",
+    "label": "Template for prompt: Generate the homepage of a website about a vanguard movement, with a navigation bar featuring the different pages",
+    "dateAdded": "2023-12-29T16:10:03.616Z"
+  },
+  {
+    "url": "https://v0.dev/t/Gd9jR3kSlz5",
+    "label": "Template for prompt: Generate the homepage of a password management tool, mainly a list with website, username, password, and notes in the header. The interface supports website search, password addition, modification, drag and drop sorting, and quick copying of users and passwords",
+    "dateAdded": "2023-12-29T16:10:03.616Z"
+  },
+  {
+    "url": "https://v0.dev/t/fANntRF0Y61",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-29T16:10:03.616Z"
+  },
+  {
+    "url": "https://v0.dev/t/nJgZaXUmirh",
+    "label": "Template for prompt: Create a web app for surveys",
+    "dateAdded": "2023-12-29T16:10:03.616Z"
+  },
+  {
+    "url": "https://v0.dev/t/y7wMKhATmFK",
+    "label": "Template for prompt: 이 부분은 어떻게 짜야할까?",
+    "dateAdded": "2023-12-29T16:10:03.616Z"
+  },
+  {
+    "url": "https://v0.dev/t/mwFb3MLTuBX",
+    "label": "Template for prompt: A landing page for an app like Uber but instead of the app sending a driver with a car to your location, we send only a driver who will drive your car. This is for long road trips. Light mode only and make it look fancy and playful.",
+    "dateAdded": "2023-12-29T16:10:03.616Z"
+  },
+  {
+    "url": "https://v0.dev/t/uKBTXs2ZFrp",
+    "label": "Template for prompt: create a mobile page for course details, consisting of meeting dates, number of meetings, and attendance status. Primary color #0D9B8A and make sure to use a modern and stylish but simple design",
+    "dateAdded": "2023-12-29T16:10:03.616Z"
+  },
+  {
+    "url": "https://v0.dev/t/OpgdGit7mmj",
+    "label": "Template for prompt: search bar with leading icons",
+    "dateAdded": "2023-12-29T16:10:03.617Z"
+  },
+  {
+    "url": "https://v0.dev/t/iSg5hFLo4n4",
+    "label": "Template for prompt: spotify",
+    "dateAdded": "2023-12-29T16:10:03.617Z"
+  },
+  {
+    "url": "https://v0.dev/t/injXHmmoACI",
+    "label": "Template for prompt: the colorful interface of the government website on the firing of nuclear bombs, in the center is a map of countries, each of the countries can be highlighted by clicking, and on the left is the \"start attack\" button",
+    "dateAdded": "2023-12-29T16:10:03.617Z"
   }
 ]
