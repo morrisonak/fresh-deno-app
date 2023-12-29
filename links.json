@@ -43168,5 +43168,135 @@
     "url": "https://v0.dev/t/3ll1Omsdbhq",
     "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
     "dateAdded": "2023-12-29T17:35:03.345Z"
+  },
+  {
+    "url": "https://v0.dev/t/6qtabMePIsN",
+    "label": "Template for prompt: Login & Register page UI User Friendly dark mode",
+    "dateAdded": "2023-12-29T17:40:03.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/3JAZYWEb3e4",
+    "label": "Template for prompt: Peut tu créer une page d'accueil pour un site e-commerce d'un argiculteur qui vendrait en directe de la viandes bovine, de la volail et des oeufs, ainsi que des légumes et des pates fraiches",
+    "dateAdded": "2023-12-29T17:40:03.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/Jj900K9IPVY",
+    "label": "Template for prompt: The account is currently inactive. I need a warning text. ",
+    "dateAdded": "2023-12-29T17:40:03.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/gAMfit2jZGi",
+    "label": "Template for prompt: https://accelers.xyz",
+    "dateAdded": "2023-12-29T17:40:03.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/7OQYck7U9VK",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T17:40:03.438Z"
+  },
+  {
+    "url": "https://v0.dev/t/vL8ns7hWpg2",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T17:40:03.438Z"
+  },
+  {
+    "url": "https://v0.dev/t/G6YuLKSdkni",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T17:40:03.438Z"
+  },
+  {
+    "url": "https://v0.dev/t/kr4d9Zzi1PJ",
+    "label": "Template for prompt: A multi-step progress loading UI with five distinct steps and each step is represented by a distinctive icon and accompanying text",
+    "dateAdded": "2023-12-29T17:40:03.438Z"
+  },
+  {
+    "url": "https://v0.dev/t/AHeUTxi4qzO",
+    "label": "Template for prompt: I want you to create a live data panel that will serve as an overlay at the bottom of a map. This panel needs a hide button that will tuck it under and allow users to open and close the data panel. The panel will have live data from a sailboat. It will have speed, bow pitch, wind levels, etc. To show users the current condition of the boat sailing expedtiion. ",
+    "dateAdded": "2023-12-29T17:40:03.438Z"
+  },
+  {
+    "url": "https://v0.dev/t/9RzZyHbF9Ay",
+    "label": "Template for prompt: I want you to create a live data panel that will serve as an overlay at the bottom of a map. This panel needs a hide button that will tuck it under and allow users to open and close the data panel. The panel will have live data from a sailboat. It will have speed, bow pitch, wind levels, etc. To show users the current condition of the boat sailing expedtiion. ",
+    "dateAdded": "2023-12-29T17:40:03.438Z"
+  },
+  {
+    "url": "https://v0.dev/t/sHVdslcx55f",
+    "label": "Template for prompt: A team users page with user table with name, email, tasks, number of completed tasks, todo tasks, ongoing tasks and canceled tasks",
+    "dateAdded": "2023-12-29T17:40:03.438Z"
+  },
+  {
+    "url": "https://v0.dev/t/whfXWk5nOhK",
+    "label": "Template for prompt: create a todo ui, to that shows created date, a checkbox to mark it as complete, and also a button to delete it",
+    "dateAdded": "2023-12-29T17:40:03.439Z"
+  },
+  {
+    "url": "https://v0.dev/t/urq8w0sOvvV",
+    "label": "Template for prompt: 一個好看的入口網站",
+    "dateAdded": "2023-12-29T17:40:03.439Z"
+  },
+  {
+    "url": "https://v0.dev/t/K3PtPkSUn06",
+    "label": "Template for prompt: standby account ",
+    "dateAdded": "2023-12-29T17:40:03.439Z"
+  },
+  {
+    "url": "https://v0.dev/t/hPCzxOKBDyI",
+    "label": "Template for prompt: clicking projects on the side scrolls vertically between the cards in the center",
+    "dateAdded": "2023-12-29T17:40:03.439Z"
+  },
+  {
+    "url": "https://v0.dev/t/2cHK95DrbsR",
+    "label": "Template for prompt: create me a simple blog site",
+    "dateAdded": "2023-12-29T17:40:03.439Z"
+  },
+  {
+    "url": "https://v0.dev/t/8opvbeR7bBN",
+    "label": "Template for prompt: Can you build a UI similar to this",
+    "dateAdded": "2023-12-29T17:40:03.439Z"
+  },
+  {
+    "url": "https://v0.dev/t/ncR1YGH8PZn",
+    "label": "Template for prompt: crie uma lading page com um menu no topo para cada seção e as seguintes seções: inicial com uma imagem e uma frase, uma seção sobre nos, uma seção sobre nossos produtos e uma seção com um carossel de imagem e um rodapé.",
+    "dateAdded": "2023-12-29T17:40:03.440Z"
+  },
+  {
+    "url": "https://v0.dev/t/nfVurdrbYJ2",
+    "label": "Template for prompt: replicate this overlay",
+    "dateAdded": "2023-12-29T17:40:03.440Z"
+  },
+  {
+    "url": "https://v0.dev/t/gSDzTnj0sK1",
+    "label": "Template for prompt: Create a CRM dashboard for a product named \"Fiber, by Clerkie\". This product is for credit counsellors.\n\nIt needs to have the following:\n1. A tab for clients, that contains the todo items per client, all the data associated per client\n2. Another section which has pending tasks, which shows the tasks that the admin has to do across clients (like call bank for renogotiating debt, talk to customer to cut lifestyle spends, etc)\n3. Clicking on the client takes you to the client page, where there is a button that says \"Generate AI Debt Management Plan\"",
+    "dateAdded": "2023-12-29T17:40:03.440Z"
+  },
+  {
+    "url": "https://v0.dev/t/tlZwJD5cHaV",
+    "label": "Template for prompt: List to display shoes type products ",
+    "dateAdded": "2023-12-29T17:40:03.440Z"
+  },
+  {
+    "url": "https://v0.dev/t/HDee5QBhXvY",
+    "label": "Template for prompt: a workout tracking app",
+    "dateAdded": "2023-12-29T17:40:03.440Z"
+  },
+  {
+    "url": "https://v0.dev/t/jZcYUwc9fXC",
+    "label": "Template for prompt: Create a 404 nice screen",
+    "dateAdded": "2023-12-29T17:40:03.440Z"
+  },
+  {
+    "url": "https://v0.dev/t/WL0oaQTlqCB",
+    "label": "Template for prompt: generate a landing page that looks like twitch",
+    "dateAdded": "2023-12-29T17:40:03.441Z"
+  },
+  {
+    "url": "https://v0.dev/t/6Da8LEoSPuC",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-29T17:40:03.441Z"
+  },
+  {
+    "url": "https://v0.dev/t/WaDxhzOXpFS",
+    "label": "Template for prompt: Create this in nextjs , tailwind css and with shadui/cn",
+    "dateAdded": "2023-12-29T17:40:03.442Z"
   }
 ]
