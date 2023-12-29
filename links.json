@@ -48723,5 +48723,135 @@
     "url": "https://v0.dev/t/aCeOsZs9qW9",
     "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
     "dateAdded": "2023-12-29T23:20:03.353Z"
+  },
+  {
+    "url": "https://v0.dev/t/QLZpalUlShZ",
+    "label": "Template for prompt: a hero section that look like the picture provided, add a navigation bar at the top ",
+    "dateAdded": "2023-12-29T23:25:03.905Z"
+  },
+  {
+    "url": "https://v0.dev/t/sNe1EoJBaaY",
+    "label": "Template for prompt: write a testimonial component with large image and texts. also add some small colorful elements",
+    "dateAdded": "2023-12-29T23:25:03.905Z"
+  },
+  {
+    "url": "https://v0.dev/t/bSsGCCHzq4p",
+    "label": "Template for prompt: minimalist web design that shows a list of objects and details for the selected object in one half of the screen and map on the other side",
+    "dateAdded": "2023-12-29T23:25:03.905Z"
+  },
+  {
+    "url": "https://v0.dev/t/olt3c7L2olE",
+    "label": "Template for prompt: bento grid responsive apple",
+    "dateAdded": "2023-12-29T23:25:03.905Z"
+  },
+  {
+    "url": "https://v0.dev/t/sSKhwwplKPR",
+    "label": "Template for prompt: teacher dashboard",
+    "dateAdded": "2023-12-29T23:25:03.905Z"
+  },
+  {
+    "url": "https://v0.dev/t/PwXAC7NXoWq",
+    "label": "Template for prompt: write a testimonial component with large image and texts. also add some small colorful elements",
+    "dateAdded": "2023-12-29T23:25:03.906Z"
+  },
+  {
+    "url": "https://v0.dev/t/76ZvZiaZyMV",
+    "label": "Template for prompt: A product search engine with AI support",
+    "dateAdded": "2023-12-29T23:25:03.906Z"
+  },
+  {
+    "url": "https://v0.dev/t/hS7E4tZ6FT7",
+    "label": "Template for prompt: A display module that shows wireframe animated 3D objects (like sodaplay) spinning around with transparent backgrounds",
+    "dateAdded": "2023-12-29T23:25:03.906Z"
+  },
+  {
+    "url": "https://v0.dev/t/N0Eg4gVgQBb",
+    "label": "Template for prompt: create neo brutalist portfolio, its about software engineer student wanting to find jobs. he has projects and open for work",
+    "dateAdded": "2023-12-29T23:25:03.906Z"
+  },
+  {
+    "url": "https://v0.dev/t/oVWc5NzIUyO",
+    "label": "Template for prompt: a grid of 3 card with title and discriptions ",
+    "dateAdded": "2023-12-29T23:25:03.906Z"
+  },
+  {
+    "url": "https://v0.dev/t/bF687EZGzED",
+    "label": "Template for prompt: write a testimonial compoennt with large image and texts",
+    "dateAdded": "2023-12-29T23:25:03.906Z"
+  },
+  {
+    "url": "https://v0.dev/t/PFbftq7K1CO",
+    "label": "Template for prompt: a creative approach to an author page for a blog that shows some stats about the author, the name, icon, a short biography and all the posts written by the author all in an unorthodox fun layout",
+    "dateAdded": "2023-12-29T23:25:03.906Z"
+  },
+  {
+    "url": "https://v0.dev/t/wo6bHFya61U",
+    "label": "Template for prompt: a web app header section with page title, search bar, filter menu, sort menu, action button",
+    "dateAdded": "2023-12-29T23:25:03.906Z"
+  },
+  {
+    "url": "https://v0.dev/t/DbBUORJsG2O",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T23:25:03.907Z"
+  },
+  {
+    "url": "https://v0.dev/t/ClUQEBhXEWE",
+    "label": "Template for prompt: a sofa configurator",
+    "dateAdded": "2023-12-29T23:25:03.907Z"
+  },
+  {
+    "url": "https://v0.dev/t/xw4na5OfT5R",
+    "label": "Template for prompt: give me the code for the front end that is like this but would be responsive to light and dark mode and also responsive to different screen sizes",
+    "dateAdded": "2023-12-29T23:25:03.907Z"
+  },
+  {
+    "url": "https://v0.dev/t/D0kblH3XJFd",
+    "label": "Template for prompt: make a page showing everything on a movie actor",
+    "dateAdded": "2023-12-29T23:25:03.907Z"
+  },
+  {
+    "url": "https://v0.dev/t/fwml4AxL6T3",
+    "label": "Template for prompt: write a testimonial compoennt with large image and texts",
+    "dateAdded": "2023-12-29T23:25:03.907Z"
+  },
+  {
+    "url": "https://v0.dev/t/knP568A8iYf",
+    "label": "Template for prompt: A detailed view of a git commit.",
+    "dateAdded": "2023-12-29T23:25:03.907Z"
+  },
+  {
+    "url": "https://v0.dev/t/jvD7pJMFNWl",
+    "label": "Template for prompt: quiz saas user dashboard with colors colors: {\n 'text': {\n   50: '#edf7ef',\n   100: '#dcefdf',\n   200: '#b8e0be',\n   300: '#95d09e',\n   400: '#71c17d',\n   500: '#4eb15d',\n   600: '#3e8e4a',\n   700: '#2f6a38',\n   800: '#1f4725',\n   900: '#102313',\n   950: '#081209',\n },\n 'background': {\n   50: '#ecf9ee',\n   100: '#d9f2dc',\n   200: '#b3e6b9',\n   300: '#8cd996',\n   400: '#66cc74',\n   500: '#40bf51',\n   600: '#339941',\n   700: '#267330',\n   800: '#194d20',\n   900: '#0d2610',\n   950: '#061308',\n },\n 'primary': {\n   50: '#ebf9ee',\n   100: '#d7f4dc',\n   200: '#afe9ba',\n   300: '#88dd97',\n   400: '#60d275',\n   500: '#38c752',\n   600: '#2d9f42',\n   700: '#227731',\n   800: '#165021',\n   900: '#0b2810',\n   950: '#061408',\n },\n 'secondary': {\n   50: '#eafaed',\n   100: '#d5f6dc',\n   200: '#acecb9',\n   300: '#82e396',\n   400: '#59d972',\n   500: '#2fd04f',\n   600: '#26a63f',\n   700: '#1c7d30',\n   800: '#135320',\n   900: '#092a10',\n   950: '#051508',\n },\n 'accent': {\n   50: '#e9fbed',\n   100: '#d3f8da",
+    "dateAdded": "2023-12-29T23:25:03.907Z"
+  },
+  {
+    "url": "https://v0.dev/t/H82NZKWR6Ir",
+    "label": "Template for prompt: quiz saas user dashboard with colors colors: {\n 'text': {\n   50: '#edf7ef',\n   100: '#dcefdf',\n   200: '#b8e0be',\n   300: '#95d09e',\n   400: '#71c17d',\n   500: '#4eb15d',\n   600: '#3e8e4a',\n   700: '#2f6a38',\n   800: '#1f4725',\n   900: '#102313',\n   950: '#081209',\n },\n 'background': {\n   50: '#ecf9ee',\n   100: '#d9f2dc',\n   200: '#b3e6b9',\n   300: '#8cd996',\n   400: '#66cc74',\n   500: '#40bf51',\n   600: '#339941',\n   700: '#267330',\n   800: '#194d20',\n   900: '#0d2610',\n   950: '#061308',\n },\n 'primary': {\n   50: '#ebf9ee',\n   100: '#d7f4dc',\n   200: '#afe9ba',\n   300: '#88dd97',\n   400: '#60d275',\n   500: '#38c752',\n   600: '#2d9f42',\n   700: '#227731',\n   800: '#165021',\n   900: '#0b2810',\n   950: '#061408',\n },\n 'secondary': {\n   50: '#eafaed',\n   100: '#d5f6dc',\n   200: '#acecb9',\n   300: '#82e396',\n   400: '#59d972',\n   500: '#2fd04f',\n   600: '#26a63f',\n   700: '#1c7d30',\n   800: '#135320',\n   900: '#092a10',\n   950: '#051508',\n },\n 'accent': {\n   50: '#e9fbed',\n   100: '#d3f8da",
+    "dateAdded": "2023-12-29T23:25:03.907Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z48qfkJYgSl",
+    "label": "Template for prompt: A portfolio management page for startup investors",
+    "dateAdded": "2023-12-29T23:25:03.908Z"
+  },
+  {
+    "url": "https://v0.dev/t/JE2kiJCjR1h",
+    "label": "Template for prompt: testimonial",
+    "dateAdded": "2023-12-29T23:25:03.908Z"
+  },
+  {
+    "url": "https://v0.dev/t/WK2HchzJw6N",
+    "label": "Template for prompt: portfolio landing page with scatered images of my work",
+    "dateAdded": "2023-12-29T23:25:03.908Z"
+  },
+  {
+    "url": "https://v0.dev/t/mHcb2gbzU56",
+    "label": "Template for prompt: simple ui like chat GPT.\nresponse area from ChatGPT\nand question area with send button",
+    "dateAdded": "2023-12-29T23:25:03.908Z"
+  },
+  {
+    "url": "https://v0.dev/t/OvcBW8V1Y5H",
+    "label": "Template for prompt: Home page of a mobile store website",
+    "dateAdded": "2023-12-29T23:25:03.908Z"
   }
 ]
