@@ -45168,5 +45168,105 @@
     "url": "https://v0.dev/t/ihNBTUGJLNr",
     "label": "Template for prompt: login header",
     "dateAdded": "2023-12-29T20:55:02.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/BzUrCfmKsiE",
+    "label": "Template for prompt: a form where users register and upload their CV",
+    "dateAdded": "2023-12-29T21:00:03.216Z"
+  },
+  {
+    "url": "https://v0.dev/t/PDF8CVflpI6",
+    "label": "Template for prompt: parliament election result and portal ui",
+    "dateAdded": "2023-12-29T21:00:03.216Z"
+  },
+  {
+    "url": "https://v0.dev/t/rEYSK2mlNlf",
+    "label": "Template for prompt: genera un landing page donde este este separado con un fondo transparente, y en el centro de cada uno una imagen que referencie a las marcas de los juegos de cartas coleccionables",
+    "dateAdded": "2023-12-29T21:00:03.216Z"
+  },
+  {
+    "url": "https://v0.dev/t/pasBMThUyAL",
+    "label": "Template for prompt: A personal homepage",
+    "dateAdded": "2023-12-29T21:00:03.216Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZH4HFLo793a",
+    "label": "Template for prompt: I need a design for a train app in southern Chile, the app is a road safety application, which means that it gives alerts to pedestrians crossing the train tracks when the train is coming to avoid accidents.\n\nThe branding has these colors {\n   primary: '#002854',\n   primaryDark: '#001832',\n   secondary: '#00C1DE',\n   success: '#2E6C3F',\n   green: '#00e400',\n   alert: '#F7E84C',\n   danger: '#E63323',\n   warning: '#EB662D',\n   grayDark: '#C7C7C7',\n   grayLight: '#F1F1F1',\n   white: '#FFFFFF',\n   black: '#000000'\n}\n\nand the app is basically a map, it must have a log and a hamburger menu icon and a notifications icon make the design for smartphone size only",
+    "dateAdded": "2023-12-29T21:00:03.216Z"
+  },
+  {
+    "url": "https://v0.dev/t/3M2xQJxl0av",
+    "label": "Template for prompt: create a chart with 3 different line and background area with purple colors",
+    "dateAdded": "2023-12-29T21:00:03.216Z"
+  },
+  {
+    "url": "https://v0.dev/t/tCBoivweR31",
+    "label": "Template for prompt: uprage please design (or redesign my for moor cool)",
+    "dateAdded": "2023-12-29T21:00:03.216Z"
+  },
+  {
+    "url": "https://v0.dev/t/HiWFWWHttbM",
+    "label": "Template for prompt: light and dark mode theme switcher",
+    "dateAdded": "2023-12-29T21:00:03.216Z"
+  },
+  {
+    "url": "https://v0.dev/t/RukVncSGCYT",
+    "label": "Template for prompt: redesign this site to make it look good\n\nhttps://myhousenumber.com/",
+    "dateAdded": "2023-12-29T21:00:03.217Z"
+  },
+  {
+    "url": "https://v0.dev/t/3ch8qyxpotU",
+    "label": "Template for prompt: Make the website www.xprtz.net using TailwindCSS. Split every section up in its own component",
+    "dateAdded": "2023-12-29T21:00:03.217Z"
+  },
+  {
+    "url": "https://v0.dev/t/j7jvdOUBFrB",
+    "label": "Template for prompt: a minimalistic form ui for product details",
+    "dateAdded": "2023-12-29T21:00:03.217Z"
+  },
+  {
+    "url": "https://v0.dev/t/C8SurttFK47",
+    "label": "Template for prompt: Flight Search Application",
+    "dateAdded": "2023-12-29T21:00:03.217Z"
+  },
+  {
+    "url": "https://v0.dev/t/j6E44Qq8UE0",
+    "label": "Template for prompt: BI dashboard for influencers in ciberpunk style",
+    "dateAdded": "2023-12-29T21:00:03.217Z"
+  },
+  {
+    "url": "https://v0.dev/t/TygKHJmnSE1",
+    "label": "Template for prompt: register home of condominium",
+    "dateAdded": "2023-12-29T21:00:03.217Z"
+  },
+  {
+    "url": "https://v0.dev/t/v3LGdr34RPL",
+    "label": "Template for prompt: this is a search filters section. Make sure you stick to the image provided as much as possible.",
+    "dateAdded": "2023-12-29T21:00:03.217Z"
+  },
+  {
+    "url": "https://v0.dev/t/9cxCFcr96LT",
+    "label": "Template for prompt: this is a search filters section. Make sure you stick to the image provided as much as possible.",
+    "dateAdded": "2023-12-29T21:00:03.217Z"
+  },
+  {
+    "url": "https://v0.dev/t/bA2e4pbEBMN",
+    "label": "Template for prompt: would you make any changes? in terms of UX/UI",
+    "dateAdded": "2023-12-29T21:00:03.218Z"
+  },
+  {
+    "url": "https://v0.dev/t/niQOTTAVRRQ",
+    "label": "Template for prompt: dashboard with filters and a d3 circle pack visualization",
+    "dateAdded": "2023-12-29T21:00:03.218Z"
+  },
+  {
+    "url": "https://v0.dev/t/bpSXPEArVuW",
+    "label": "Template for prompt: data visualization that looks like a cluster of circles",
+    "dateAdded": "2023-12-29T21:00:03.218Z"
+  },
+  {
+    "url": "https://v0.dev/t/je3vz7QweXZ",
+    "label": "Template for prompt: Make a website for a single book",
+    "dateAdded": "2023-12-29T21:00:03.218Z"
   }
 ]
