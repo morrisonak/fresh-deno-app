@@ -46303,5 +46303,135 @@
     "url": "https://v0.dev/t/2YMjQx4wpxj",
     "label": "Template for prompt: a canvas with hexagons that can be dragged around",
     "dateAdded": "2023-12-29T21:45:03.432Z"
+  },
+  {
+    "url": "https://v0.dev/t/ED9YiaVnquG",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-29T21:50:03.444Z"
+  },
+  {
+    "url": "https://v0.dev/t/ouK1l1xhFGP",
+    "label": "Template for prompt: code me a footer with social media icon links, a place for a logo, and links to the individual following pages, home, books, merchandise, Creatures, Maps",
+    "dateAdded": "2023-12-29T21:50:03.445Z"
+  },
+  {
+    "url": "https://v0.dev/t/5Z0ui5ThzHs",
+    "label": "Template for prompt: a catalog on which the users can browse vehicles parts, and can filter by brand, model, version, year, vim, trim, part number,  sort by lower/higher price, sort by distance to seller, the list should be card or list, with seller name, location,  stock part number, description, a thumbnail, part grade condition from A to F ( F the lower grade  ), dealer information, make it minimalistic, it should look professional, Easy User Experience, Amazing Beautiful Simple Minimalistic Professional Looking User Interface, it should have a search, and filters, think step by step",
+    "dateAdded": "2023-12-29T21:50:03.445Z"
+  },
+  {
+    "url": "https://v0.dev/t/lB5EyyTz1jj",
+    "label": "Template for prompt: a catalog on which the users can browse vehicles parts, and can filter by brand, model, version, year, vim, trim, part number,  sort by lower/higher price, sort by distance to seller, the list should be card or list, with seller name, location,  stock part number, description, a thumbnail, part grade condition from A to F ( F the lower grade  ), dealer information, make it minimalistic, it should look professional, Easy User Experience, Amazing Beautiful Simple Minimalistic Professional Looking User Interface, it should have a search, and filters, think step by step",
+    "dateAdded": "2023-12-29T21:50:03.445Z"
+  },
+  {
+    "url": "https://v0.dev/t/gdk6SWwmFjR",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-29T21:50:03.445Z"
+  },
+  {
+    "url": "https://v0.dev/t/EBzb3OKfiMo",
+    "label": "Template for prompt: black and white ai search engine highly advanced UI",
+    "dateAdded": "2023-12-29T21:50:03.445Z"
+  },
+  {
+    "url": "https://v0.dev/t/S4bCqf2eVf0",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-29T21:50:03.445Z"
+  },
+  {
+    "url": "https://v0.dev/t/1biLItlwIa0",
+    "label": "Template for prompt: list with fixed grammar and language mistakes and what have been improved\n[\n                        {\n                            \"improved\": \"Developed a full-stack web application using Flask\",\n                            \"explanation\": \"Removed the redundant 'with' to make the sentence grammatically correct.\",\n                            \"originalText\": \"Developed a full-stack web application using with Flask\"\n                        },\n                        {\n                            \"improved\": \"Displayed statistics to the site using Postgres\",\n                            \"explanation\": \"Revised the sentence to use proper grammar and syntax, including capitalizing 'Postgres'.\",\n                            \"originalText\": \"Using postgres displayed statistics to the site\"\n                        },\n                        {\n                            \"improved\": \"Made a session login using Flask-Sessions\",\n                            \"explanation\": \"Restructured the sentence f",
+    "dateAdded": "2023-12-29T21:50:03.445Z"
+  },
+  {
+    "url": "https://v0.dev/t/HZBje5wznAC",
+    "label": "Template for prompt: futuristic ai search engine UI",
+    "dateAdded": "2023-12-29T21:50:03.445Z"
+  },
+  {
+    "url": "https://v0.dev/t/59LGnV7qb5B",
+    "label": "Template for prompt: list with fixed grammar and language mistakes and what have been improved\n[\n                        {\n                            \"improved\": \"Developed a full-stack web application using Flask\",\n                            \"explanation\": \"Removed the redundant 'with' to make the sentence grammatically correct.\",\n                            \"originalText\": \"Developed a full-stack web application using with Flask\"\n                        },\n                        {\n                            \"improved\": \"Displayed statistics to the site using Postgres\",\n                            \"explanation\": \"Revised the sentence to use proper grammar and syntax, including capitalizing 'Postgres'.\",\n                            \"originalText\": \"Using postgres displayed statistics to the site\"\n                        },\n                        {\n                            \"improved\": \"Made a session login using Flask-Sessions\",\n                            \"explanation\": \"Restructured the sentence f",
+    "dateAdded": "2023-12-29T21:50:03.446Z"
+  },
+  {
+    "url": "https://v0.dev/t/Efu4a0bxIO4",
+    "label": "Template for prompt: a dark theme user registry with cards that contain: user image name, grade, and a number",
+    "dateAdded": "2023-12-29T21:50:03.446Z"
+  },
+  {
+    "url": "https://v0.dev/t/5RFAmhtqM4a",
+    "label": "Template for prompt: recreate this, including the paper-like background color and texture, as if it came from a book",
+    "dateAdded": "2023-12-29T21:50:03.446Z"
+  },
+  {
+    "url": "https://v0.dev/t/hZWdQQaSR6Q",
+    "label": "Template for prompt: A hero page for an AI diagram generation platform",
+    "dateAdded": "2023-12-29T21:50:03.446Z"
+  },
+  {
+    "url": "https://v0.dev/t/KSLed0iZk4m",
+    "label": "Template for prompt: recreate this, including the paper-like background as if it comes from a book",
+    "dateAdded": "2023-12-29T21:50:03.446Z"
+  },
+  {
+    "url": "https://v0.dev/t/0qtTV3rhqG3",
+    "label": "Template for prompt: list with fixed grammar and language mistakes and what have been improved",
+    "dateAdded": "2023-12-29T21:50:03.446Z"
+  },
+  {
+    "url": "https://v0.dev/t/3AEx0lEwhl0",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T21:50:03.446Z"
+  },
+  {
+    "url": "https://v0.dev/t/gMgFn3TQM1W",
+    "label": "Template for prompt: A landing page for portfolio that has hero right picture of the owner and left the info of owner",
+    "dateAdded": "2023-12-29T21:50:03.446Z"
+  },
+  {
+    "url": "https://v0.dev/t/QKcsnDrDuoA",
+    "label": "Template for prompt: A hero page for an AI diagram generation platform",
+    "dateAdded": "2023-12-29T21:50:03.447Z"
+  },
+  {
+    "url": "https://v0.dev/t/4UjLaghw7Fw",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T21:50:03.447Z"
+  },
+  {
+    "url": "https://v0.dev/t/YQJRvUOnQ61",
+    "label": "Template for prompt: a table with usage data from different users",
+    "dateAdded": "2023-12-29T21:50:03.447Z"
+  },
+  {
+    "url": "https://v0.dev/t/B2QH72gTuRj",
+    "label": "Template for prompt: a paginated table of reddit posts with post summary",
+    "dateAdded": "2023-12-29T21:50:03.447Z"
+  },
+  {
+    "url": "https://v0.dev/t/NqhUdRqWZnZ",
+    "label": "Template for prompt: make a list for a pc remote program Dark mode + All Details pc informations ",
+    "dateAdded": "2023-12-29T21:50:03.447Z"
+  },
+  {
+    "url": "https://v0.dev/t/obvc4ph9Qpl",
+    "label": "Template for prompt: A developer portfolio ",
+    "dateAdded": "2023-12-29T21:50:03.447Z"
+  },
+  {
+    "url": "https://v0.dev/t/tlgB5yNVDmM",
+    "label": "Template for prompt: ai search engine ",
+    "dateAdded": "2023-12-29T21:50:03.447Z"
+  },
+  {
+    "url": "https://v0.dev/t/43u0BRfVaKZ",
+    "label": "Template for prompt: Hero Section for a Gaming e-Commerce Website",
+    "dateAdded": "2023-12-29T21:50:03.447Z"
+  },
+  {
+    "url": "https://v0.dev/t/bKkZ2T8fnNi",
+    "label": "Template for prompt: A dashboard to monitor the dollar and other currencies and present graphs with past data and possible future values",
+    "dateAdded": "2023-12-29T21:50:03.448Z"
   }
 ]
