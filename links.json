@@ -46953,5 +46953,125 @@
     "url": "https://v0.dev/t/rLqUGJlGoNq",
     "label": "Template for prompt: a modern admin dashboard, with graphs in the main page, for a real estate investment app. the admin can add new properties, while clients can create investments in the properties . the modern admin dashboard should have gradient for buttons, as well as be in the neobrutalism design system",
     "dateAdded": "2023-12-29T22:10:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/G88veOooBW8",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T22:15:02.979Z"
+  },
+  {
+    "url": "https://v0.dev/t/f7C5yW90939",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T22:15:02.979Z"
+  },
+  {
+    "url": "https://v0.dev/t/uIGzoZ7fm73",
+    "label": "Template for prompt: Build Something like this for go read blogs ",
+    "dateAdded": "2023-12-29T22:15:02.979Z"
+  },
+  {
+    "url": "https://v0.dev/t/8QrfJVxvSyy",
+    "label": "Template for prompt: A timeline UI for game data",
+    "dateAdded": "2023-12-29T22:15:02.979Z"
+  },
+  {
+    "url": "https://v0.dev/t/ySz8bABdpAe",
+    "label": "Template for prompt: Build something like this but more modern and unique!",
+    "dateAdded": "2023-12-29T22:15:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wg4i6zLfLBe",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-29T22:15:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/MP4QiEXAbdB",
+    "label": "Template for prompt: use this design to create a landing page",
+    "dateAdded": "2023-12-29T22:15:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/pCWWGCvfwBn",
+    "label": "Template for prompt: a date range picker that sets the time to 00:00 on the first day and to 23:59 to the second date",
+    "dateAdded": "2023-12-29T22:15:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/GGtwdhM36qL",
+    "label": "Template for prompt: A transactions details card for seeing the date, amount, merchant, location (if available) and financial categories of a transaction. This will display as a drawer on mobile and a dialog on desktop.",
+    "dateAdded": "2023-12-29T22:15:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/t1Jk5jv7JV5",
+    "label": "Template for prompt: A alert box with slate background and contrast text",
+    "dateAdded": "2023-12-29T22:15:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/thWETvo1OCT",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-29T22:15:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZaEQQDOkzvr",
+    "label": "Template for prompt: A payment confirmation page thanking for the purchase",
+    "dateAdded": "2023-12-29T22:15:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/k1x4bK8DcQZ",
+    "label": "Template for prompt: a two column marketing layout",
+    "dateAdded": "2023-12-29T22:15:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/QqCAdp2eZUb",
+    "label": "Template for prompt: layout for an algo trading website with a header that has the name of the site on the left and the profile section on the right. There should be a left menu drawer. The site should be responsive. the drawer should hide in mobile mode and should have an icon to reveal it in an overlay. user material UI react.",
+    "dateAdded": "2023-12-29T22:15:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/pjFqQda3lDR",
+    "label": "Template for prompt: a landing page for a SaaS Platform for property management such as aparments, condomminums, houses, villages etc, with web and mobile app",
+    "dateAdded": "2023-12-29T22:15:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/GwdVquPMWWB",
+    "label": "Template for prompt: create a three js interactive website ",
+    "dateAdded": "2023-12-29T22:15:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/70vxhrui98b",
+    "label": "Template for prompt: Mobile number capture apk",
+    "dateAdded": "2023-12-29T22:15:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/y0bn4i3ZpeW",
+    "label": "Template for prompt: Create a blockly-like applet for connecting block modules together by drag-and-dropping them to magnetized nesting/chaining points depending on block context. Begin with 2 blocks: 1 block which is simply an orange bar, and another block that the first block can be dragged to contain. the blocks should adjust dynamically to their inner content, especially when the first block is placed inside of the second block (the second block should expand to allow full display of inner block)",
+    "dateAdded": "2023-12-29T22:15:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/7Zpj0mUxiPG",
+    "label": "Template for prompt: league of legends match history item with detailed statistics",
+    "dateAdded": "2023-12-29T22:15:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/PfFsogSWz53",
+    "label": "Template for prompt: Build a freelancer modal which shows freelancer information horlyrate location job rates something like this ",
+    "dateAdded": "2023-12-29T22:15:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/GXvAHOWG2vm",
+    "label": "Template for prompt: create flashcard button ",
+    "dateAdded": "2023-12-29T22:15:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/vcrKs9yAktD",
+    "label": "Template for prompt: Page to redirect to auth0 for login",
+    "dateAdded": "2023-12-29T22:15:02.983Z"
+  },
+  {
+    "url": "https://v0.dev/t/LPWOY5uvj6g",
+    "label": "Template for prompt: a chat application",
+    "dateAdded": "2023-12-29T22:15:02.983Z"
+  },
+  {
+    "url": "https://v0.dev/t/sBfv2qwGsTq",
+    "label": "Template for prompt: Create a canvas-based tree for visualizing transaction items in a process. ",
+    "dateAdded": "2023-12-29T22:15:02.983Z"
   }
 ]
