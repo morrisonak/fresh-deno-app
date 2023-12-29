@@ -46433,5 +46433,135 @@
     "url": "https://v0.dev/t/bKkZ2T8fnNi",
     "label": "Template for prompt: A dashboard to monitor the dollar and other currencies and present graphs with past data and possible future values",
     "dateAdded": "2023-12-29T21:50:03.448Z"
+  },
+  {
+    "url": "https://v0.dev/t/eVfEKhs8N0F",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T21:55:03.200Z"
+  },
+  {
+    "url": "https://v0.dev/t/kDIZ0YFDgDV",
+    "label": "Template for prompt: create a vue 3 interface that handle invoice edition",
+    "dateAdded": "2023-12-29T21:55:03.200Z"
+  },
+  {
+    "url": "https://v0.dev/t/YCMnsPDvPaw",
+    "label": "Template for prompt: tailwind",
+    "dateAdded": "2023-12-29T21:55:03.200Z"
+  },
+  {
+    "url": "https://v0.dev/t/qGrrYruskyg",
+    "label": "Template for prompt: code me a footer with social media icon links, a place for a logo, and links to the individual following pages, home, books, merchandise, Creatures, Maps. This will be going inside a 1200 px container so make it look good and responsive. The footer should be black and purple with white text",
+    "dateAdded": "2023-12-29T21:55:03.200Z"
+  },
+  {
+    "url": "https://v0.dev/t/rIO5CdvWnlt",
+    "label": "Template for prompt: improve this design of Fashion Ecommerce.",
+    "dateAdded": "2023-12-29T21:55:03.200Z"
+  },
+  {
+    "url": "https://v0.dev/t/V518SqZpNi3",
+    "label": "Template for prompt: Build something like this but more unique and modern ",
+    "dateAdded": "2023-12-29T21:55:03.200Z"
+  },
+  {
+    "url": "https://v0.dev/t/vg1kgo8NwSr",
+    "label": "Template for prompt: a catalog on which the users can browse vehicles parts, and can filter by brand, model, version, year, vim, trim, part number,  sort by lower/higher price, sort by distance to seller, the list should be card or list, with seller name, location,  stock part number, description, a thumbnail, part grade condition from A to F ( F the lower grade  ), dealer information, make it minimalistic, it should look professional, Easy User Experience, Amazing Beautiful Simple Minimalistic Professional Looking User Interface, it should have a search, and filters, think step by step",
+    "dateAdded": "2023-12-29T21:55:03.200Z"
+  },
+  {
+    "url": "https://v0.dev/t/PaIAAHVdI5T",
+    "label": "Template for prompt: code me a footer with social media icon links, a place for a logo, and links to the individual following pages, home, books, merchandise, Creatures, Maps. This will be going inside a 1200 px container so make it look good and responsive. The footer should be black and purple with white text",
+    "dateAdded": "2023-12-29T21:55:03.201Z"
+  },
+  {
+    "url": "https://v0.dev/t/B5D5AWLmw5V",
+    "label": "Template for prompt: full responsive",
+    "dateAdded": "2023-12-29T21:55:03.201Z"
+  },
+  {
+    "url": "https://v0.dev/t/iva1hFBT8ka",
+    "label": "Template for prompt: code me a footer with social media icon links, a place for a logo, and links to the individual following pages, home, books, merchandise, Creatures, Maps. This will be going inside a 1200 px container so make it look good and responsive",
+    "dateAdded": "2023-12-29T21:55:03.201Z"
+  },
+  {
+    "url": "https://v0.dev/t/5Z0ui5ThzHs",
+    "label": "Template for prompt: a catalog on which the users can browse vehicles parts, and can filter by brand, model, version, year, vim, trim, part number,  sort by lower/higher price, sort by distance to seller, the list should be card or list, with seller name, location,  stock part number, description, a thumbnail, part grade condition from A to F ( F the lower grade  ), dealer information, make it minimalistic, it should look professional, Easy User Experience, Amazing Beautiful Simple Minimalistic Professional Looking User Interface, it should have a search, and filters, think step by step",
+    "dateAdded": "2023-12-29T21:55:03.201Z"
+  },
+  {
+    "url": "https://v0.dev/t/vg8poHRBr1m",
+    "label": "Template for prompt: A to-do app where a \"task cabinet\" is a set of tasks. The tasks are like sticky notes, whenever you add a task, it is put at the back of the stack of sticky note tasks. You can add a new \"task cabinet\" which is a set of sticky notes. Every task has a text entry field that can be edited, and you can see each upcombing task. Every task cabinet has a text editable field. You can drag the tasks around and change their order too. ",
+    "dateAdded": "2023-12-29T21:55:03.201Z"
+  },
+  {
+    "url": "https://v0.dev/t/EBzb3OKfiMo",
+    "label": "Template for prompt: black and white ai search engine highly advanced UI",
+    "dateAdded": "2023-12-29T21:55:03.201Z"
+  },
+  {
+    "url": "https://v0.dev/t/lB5EyyTz1jj",
+    "label": "Template for prompt: a catalog on which the users can browse vehicles parts, and can filter by brand, model, version, year, vim, trim, part number,  sort by lower/higher price, sort by distance to seller, the list should be card or list, with seller name, location,  stock part number, description, a thumbnail, part grade condition from A to F ( F the lower grade  ), dealer information, make it minimalistic, it should look professional, Easy User Experience, Amazing Beautiful Simple Minimalistic Professional Looking User Interface, it should have a search, and filters, think step by step",
+    "dateAdded": "2023-12-29T21:55:03.201Z"
+  },
+  {
+    "url": "https://v0.dev/t/5VqCUyB9LuX",
+    "label": "Template for prompt: produce mobile-adapted code for this design",
+    "dateAdded": "2023-12-29T21:55:03.202Z"
+  },
+  {
+    "url": "https://v0.dev/t/gdk6SWwmFjR",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-29T21:55:03.202Z"
+  },
+  {
+    "url": "https://v0.dev/t/VULdPu0XThc",
+    "label": "Template for prompt: Make a pagination component",
+    "dateAdded": "2023-12-29T21:55:03.202Z"
+  },
+  {
+    "url": "https://v0.dev/t/ED9YiaVnquG",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-29T21:55:03.202Z"
+  },
+  {
+    "url": "https://v0.dev/t/ouK1l1xhFGP",
+    "label": "Template for prompt: code me a footer with social media icon links, a place for a logo, and links to the individual following pages, home, books, merchandise, Creatures, Maps",
+    "dateAdded": "2023-12-29T21:55:03.202Z"
+  },
+  {
+    "url": "https://v0.dev/t/5RFAmhtqM4a",
+    "label": "Template for prompt: recreate this, including the paper-like background color and texture, as if it came from a book",
+    "dateAdded": "2023-12-29T21:55:03.202Z"
+  },
+  {
+    "url": "https://v0.dev/t/59LGnV7qb5B",
+    "label": "Template for prompt: list with fixed grammar and language mistakes and what have been improved\n[\n                        {\n                            \"improved\": \"Developed a full-stack web application using Flask\",\n                            \"explanation\": \"Removed the redundant 'with' to make the sentence grammatically correct.\",\n                            \"originalText\": \"Developed a full-stack web application using with Flask\"\n                        },\n                        {\n                            \"improved\": \"Displayed statistics to the site using Postgres\",\n                            \"explanation\": \"Revised the sentence to use proper grammar and syntax, including capitalizing 'Postgres'.\",\n                            \"originalText\": \"Using postgres displayed statistics to the site\"\n                        },\n                        {\n                            \"improved\": \"Made a session login using Flask-Sessions\",\n                            \"explanation\": \"Restructured the sentence f",
+    "dateAdded": "2023-12-29T21:55:03.202Z"
+  },
+  {
+    "url": "https://v0.dev/t/hZWdQQaSR6Q",
+    "label": "Template for prompt: A hero page for an AI diagram generation platform",
+    "dateAdded": "2023-12-29T21:55:03.202Z"
+  },
+  {
+    "url": "https://v0.dev/t/Efu4a0bxIO4",
+    "label": "Template for prompt: a dark theme user registry with cards that contain: user image name, grade, and a number",
+    "dateAdded": "2023-12-29T21:55:03.203Z"
+  },
+  {
+    "url": "https://v0.dev/t/1biLItlwIa0",
+    "label": "Template for prompt: list with fixed grammar and language mistakes and what have been improved\n[\n                        {\n                            \"improved\": \"Developed a full-stack web application using Flask\",\n                            \"explanation\": \"Removed the redundant 'with' to make the sentence grammatically correct.\",\n                            \"originalText\": \"Developed a full-stack web application using with Flask\"\n                        },\n                        {\n                            \"improved\": \"Displayed statistics to the site using Postgres\",\n                            \"explanation\": \"Revised the sentence to use proper grammar and syntax, including capitalizing 'Postgres'.\",\n                            \"originalText\": \"Using postgres displayed statistics to the site\"\n                        },\n                        {\n                            \"improved\": \"Made a session login using Flask-Sessions\",\n                            \"explanation\": \"Restructured the sentence f",
+    "dateAdded": "2023-12-29T21:55:03.203Z"
+  },
+  {
+    "url": "https://v0.dev/t/S4bCqf2eVf0",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-29T21:55:03.203Z"
+  },
+  {
+    "url": "https://v0.dev/t/HZBje5wznAC",
+    "label": "Template for prompt: futuristic ai search engine UI",
+    "dateAdded": "2023-12-29T21:55:03.203Z"
   }
 ]
