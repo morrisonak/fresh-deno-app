@@ -41528,5 +41528,135 @@
     "url": "https://v0.dev/t/najz6ugWw4A",
     "label": "Template for prompt: a portfolio blog with robust feel that looks like a government website",
     "dateAdded": "2023-12-29T15:35:03.012Z"
+  },
+  {
+    "url": "https://v0.dev/t/paoiHxS8z1r",
+    "label": "Template for prompt: code the layout of the screenshot using shadcn components",
+    "dateAdded": "2023-12-29T15:40:03.131Z"
+  },
+  {
+    "url": "https://v0.dev/t/CmIxVFbiBNz",
+    "label": "Template for prompt: create this",
+    "dateAdded": "2023-12-29T15:40:03.131Z"
+  },
+  {
+    "url": "https://v0.dev/t/Au4v1R9JEC6",
+    "label": "Template for prompt: Header Component (<Header />)\n    Search Bar:\n        Input field of type \"text\"\n        Placeholder attribute with value \"Search in blog\"\n        Manage search state with onChange handler\n    Navigation Links:\n        Unordered list (<ul>) with list items (<li>)\n        Anchor tags (<a>) styled as tabs\n        optionally add role=\"tablist\" with individual tab roles\n    Logo:\n        Heading tag (<h1>) with \"LFT Blog\" text\n        Image tag (<img>) with alt attribute for accessibility\n\nMain Article Component (<MainArticle />)\n\n    Title:\n        Heading tag (<h2>)\n    Button:\n        Anchor tag (<a>) styled as button\n        onClick handler to load articles\n    Background:\n        Apply backgrounds with CSS\n\nFeatured Article Cards Component (<FeaturedArticleCards />)\n\n    Individual Card (<ArticleCard />):\n        Heading tag (<h3>) for title\n        Paragraph (<p>) for description\n        Button same as <MainArticle />\n    Carousel Indicators:\n        Unordered list with dots, apply ",
+    "dateAdded": "2023-12-29T15:40:03.131Z"
+  },
+  {
+    "url": "https://v0.dev/t/t4ugEUtzAB2",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T15:40:03.131Z"
+  },
+  {
+    "url": "https://v0.dev/t/qxAFv7BxChV",
+    "label": "Template for prompt: a landing page like sonarr",
+    "dateAdded": "2023-12-29T15:40:03.131Z"
+  },
+  {
+    "url": "https://v0.dev/t/UjtVVAToaxR",
+    "label": "Template for prompt: یک صفحه ادمین برای سایت فروشگاهی که محصولات رو اضافه و ویرایش و حذف کند به زبان فارسی ",
+    "dateAdded": "2023-12-29T15:40:03.131Z"
+  },
+  {
+    "url": "https://v0.dev/t/l8i5MLUgGDN",
+    "label": "Template for prompt: Please design a similar home page for me which is 100% responsive. Thanks",
+    "dateAdded": "2023-12-29T15:40:03.131Z"
+  },
+  {
+    "url": "https://v0.dev/t/aAQQY5pVuYk",
+    "label": "Template for prompt: a modern and simple page which allows you to use a file explorer with a search field",
+    "dateAdded": "2023-12-29T15:40:03.132Z"
+  },
+  {
+    "url": "https://v0.dev/t/WBu795ISvQt",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T15:40:03.132Z"
+  },
+  {
+    "url": "https://v0.dev/t/pzIOe4LKHKh",
+    "label": "Template for prompt: A SaaS admin dashboard",
+    "dateAdded": "2023-12-29T15:40:03.132Z"
+  },
+  {
+    "url": "https://v0.dev/t/RjZwbSgYTdu",
+    "label": "Template for prompt: https://www.donaldjtrump.com/",
+    "dateAdded": "2023-12-29T15:40:03.132Z"
+  },
+  {
+    "url": "https://v0.dev/t/ithGl6rp3wo",
+    "label": "Template for prompt: 사진과 같이 레이아웃 짜줘",
+    "dateAdded": "2023-12-29T15:40:03.132Z"
+  },
+  {
+    "url": "https://v0.dev/t/Mr07CovxMQk",
+    "label": "Template for prompt: make this Q and A component",
+    "dateAdded": "2023-12-29T15:40:03.132Z"
+  },
+  {
+    "url": "https://v0.dev/t/YDtPqL1bwNP",
+    "label": "Template for prompt: landing page",
+    "dateAdded": "2023-12-29T15:40:03.132Z"
+  },
+  {
+    "url": "https://v0.dev/t/nR8uIvNHsYb",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T15:40:03.132Z"
+  },
+  {
+    "url": "https://v0.dev/t/nY846bQS4QG",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T15:40:03.133Z"
+  },
+  {
+    "url": "https://v0.dev/t/36ITmVOupuQ",
+    "label": "Template for prompt: dashboard like trello for manage watsapp chats",
+    "dateAdded": "2023-12-29T15:40:03.133Z"
+  },
+  {
+    "url": "https://v0.dev/t/tZnCWaHtOqm",
+    "label": "Template for prompt: google drive ui using MUI",
+    "dateAdded": "2023-12-29T15:40:03.133Z"
+  },
+  {
+    "url": "https://v0.dev/t/24p0emdEydT",
+    "label": "Template for prompt: A Music Industry Site for plagiarism checking system",
+    "dateAdded": "2023-12-29T15:40:03.133Z"
+  },
+  {
+    "url": "https://v0.dev/t/yB9j8D18mZT",
+    "label": "Template for prompt: list of game rooms , where multiple people can join , once joined in they can chat insdie the room. There might be thousands of rooms on the single view",
+    "dateAdded": "2023-12-29T15:40:03.133Z"
+  },
+  {
+    "url": "https://v0.dev/t/fyfvoXyxfeQ",
+    "label": "Template for prompt: A butto with click animation ",
+    "dateAdded": "2023-12-29T15:40:03.133Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ux1MqU3SgfE",
+    "label": "Template for prompt: Improve this home page",
+    "dateAdded": "2023-12-29T15:40:03.133Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ds0w10Tcqqm",
+    "label": "Template for prompt: Quero uma landing page que eu exiba meu portfólio com cta para falar comigo via whatsapp ou email",
+    "dateAdded": "2023-12-29T15:40:03.133Z"
+  },
+  {
+    "url": "https://v0.dev/t/AUR84Tjbjsa",
+    "label": "Template for prompt: create a contact form that has an image on the left with a black card. dont use the backgound colour on the component",
+    "dateAdded": "2023-12-29T15:40:03.134Z"
+  },
+  {
+    "url": "https://v0.dev/t/lya5XVvE3iI",
+    "label": "Template for prompt: 사진과 같이 메인페이지를 만들어줘",
+    "dateAdded": "2023-12-29T15:40:03.134Z"
+  },
+  {
+    "url": "https://v0.dev/t/ecagZ5UZ29d",
+    "label": "Template for prompt: 파란색/흰색/회색 계열의 표절 검사 사이트 디자인 해줘.",
+    "dateAdded": "2023-12-29T15:40:03.134Z"
   }
 ]
