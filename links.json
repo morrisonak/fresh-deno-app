@@ -44178,5 +44178,135 @@
     "url": "https://v0.dev/t/wd2zljt7Ln4",
     "label": "Template for prompt: A public website for a revolutionary platform AI to build products for the commercial and public space",
     "dateAdded": "2023-12-29T18:15:03.476Z"
+  },
+  {
+    "url": "https://v0.dev/t/UkKlkYC3VAP",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T20:20:03.646Z"
+  },
+  {
+    "url": "https://v0.dev/t/mxmk8MF6YYH",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-29T20:20:03.646Z"
+  },
+  {
+    "url": "https://v0.dev/t/WXCXhG32bUH",
+    "label": "Template for prompt: a wikipedia game where the goal is to get from article a to article b with as few link clicks as possible",
+    "dateAdded": "2023-12-29T20:20:03.646Z"
+  },
+  {
+    "url": "https://v0.dev/t/d4Lm3lWUmiz",
+    "label": "Template for prompt: write a server moderation page, it should include an On/Off button, A remove button, a restart button. A status badge (restarting, error and etc...), Name of the server, the duration remaining for the server, The address (URL), Online players and tps stats (just numbers)",
+    "dateAdded": "2023-12-29T20:20:03.647Z"
+  },
+  {
+    "url": "https://v0.dev/t/MMfri9ft3ra",
+    "label": "Template for prompt: Create a React card component with a title, body and footer",
+    "dateAdded": "2023-12-29T20:20:03.647Z"
+  },
+  {
+    "url": "https://v0.dev/t/ViBf91KyjBw",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-29T20:20:03.647Z"
+  },
+  {
+    "url": "https://v0.dev/t/DkoBIESa9dV",
+    "label": "Template for prompt: An ecommerce store for organic candles and wax melts with different shapes, scents and colors",
+    "dateAdded": "2023-12-29T20:20:03.647Z"
+  },
+  {
+    "url": "https://v0.dev/t/UdA3rwiVQF3",
+    "label": "Template for prompt: Create a dark themed dashboard page to handle Created Itens, similar as Figma. Add right click mouse event to show more options in cards",
+    "dateAdded": "2023-12-29T20:20:03.647Z"
+  },
+  {
+    "url": "https://v0.dev/t/ktmZEcAfe5f",
+    "label": "Template for prompt: A landing page for a pet grooming shop",
+    "dateAdded": "2023-12-29T20:20:03.647Z"
+  },
+  {
+    "url": "https://v0.dev/t/PvKLAePpKkM",
+    "label": "Template for prompt: a subscription overview of my stripe products",
+    "dateAdded": "2023-12-29T20:20:03.647Z"
+  },
+  {
+    "url": "https://v0.dev/t/7Tnqd7EWwXj",
+    "label": "Template for prompt: a youtube clone, but minimalist",
+    "dateAdded": "2023-12-29T20:20:03.647Z"
+  },
+  {
+    "url": "https://v0.dev/t/ymaB44nSlNY",
+    "label": "Template for prompt: 有主页 发射台 联系 ，主页有热力图，最近转账列表",
+    "dateAdded": "2023-12-29T20:20:03.648Z"
+  },
+  {
+    "url": "https://v0.dev/t/2TJ6GXWwsye",
+    "label": "Template for prompt: A shopping cart page that displayed the front and back image of a product, name, price, quantity (that can be adjusted), notes, and if the customer wants to be called first or not",
+    "dateAdded": "2023-12-29T20:20:03.648Z"
+  },
+  {
+    "url": "https://v0.dev/t/REqOBLogNnA",
+    "label": "Template for prompt: A product card that contains a \"Reason\" | \"Department\" | \"Purchase Date\" | \"Sell by Date\" | \"Product Notes\". The top of the card should display the Item Description and Item Code along with the Price on the right hand side",
+    "dateAdded": "2023-12-29T20:20:03.648Z"
+  },
+  {
+    "url": "https://v0.dev/t/dfBcWeFSdUi",
+    "label": "Template for prompt: create a landing page for a taxi service in paris",
+    "dateAdded": "2023-12-29T20:20:03.648Z"
+  },
+  {
+    "url": "https://v0.dev/t/GgzBZZMK4F3",
+    "label": "Template for prompt: book shop",
+    "dateAdded": "2023-12-29T20:20:03.648Z"
+  },
+  {
+    "url": "https://v0.dev/t/QPaAlTuWS2S",
+    "label": "Template for prompt: Create a frontend pricing page for Ibraahim's coaching program. The page should include three pricing tiers: Starter Package for $800, Pro Package for $1300, and Ultimate Package for $4000. Each package should display its communication features - Starter (message me anytime), Pro (call me for personalized guidance), Ultimate (1v1 audio and visual sessions with messaging support). The page should have a clean and centered design with appropriate styling for the packages.",
+    "dateAdded": "2023-12-29T20:20:03.648Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZTitzrRJ1lb",
+    "label": "Template for prompt: form for sending asks",
+    "dateAdded": "2023-12-29T20:20:03.648Z"
+  },
+  {
+    "url": "https://v0.dev/t/vxQoUiSijjj",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-29T20:20:03.648Z"
+  },
+  {
+    "url": "https://v0.dev/t/GBtfBPZPKSY",
+    "label": "Template for prompt: book",
+    "dateAdded": "2023-12-29T20:20:03.649Z"
+  },
+  {
+    "url": "https://v0.dev/t/4y9dPm1tYYk",
+    "label": "Template for prompt: a sleek dark mode workout app with neon fuchsia accents.",
+    "dateAdded": "2023-12-29T20:20:03.649Z"
+  },
+  {
+    "url": "https://v0.dev/t/SdMTxP4KgKn",
+    "label": "Template for prompt: An ecommerce store for snowboards",
+    "dateAdded": "2023-12-29T20:20:03.649Z"
+  },
+  {
+    "url": "https://v0.dev/t/kkj4OBfaES8",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-29T20:20:03.649Z"
+  },
+  {
+    "url": "https://v0.dev/t/QJ0pVd9VAXW",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-29T20:20:03.649Z"
+  },
+  {
+    "url": "https://v0.dev/t/ji3A7jILuzZ",
+    "label": "Template for prompt: grupps edir modal",
+    "dateAdded": "2023-12-29T20:20:03.649Z"
+  },
+  {
+    "url": "https://v0.dev/t/ksQGO3PlZYV",
+    "label": "Template for prompt: A simple web app with a small search bar and a button to run a seach.",
+    "dateAdded": "2023-12-29T20:20:03.649Z"
   }
 ]
