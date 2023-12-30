@@ -64278,5 +64278,125 @@
     "url": "https://v0.dev/t/ZqrZr7HNgqH",
     "label": "Template for prompt: I need to create something like this ",
     "dateAdded": "2023-12-30T19:45:03.850Z"
+  },
+  {
+    "url": "https://v0.dev/t/ukHeFafDJGN",
+    "label": "Template for prompt: A shadcn table column filter component for strings. This should be a popover content, and allow the user to select \"not null\" or \"null\" for the string, as well as a shadcn slider to specify the min or max length of the string.",
+    "dateAdded": "2023-12-30T19:50:03.652Z"
+  },
+  {
+    "url": "https://v0.dev/t/XbWy2cqEIHy",
+    "label": "Template for prompt: A landing page for the devolopers chat app named \"devoloperz\"",
+    "dateAdded": "2023-12-30T19:50:03.653Z"
+  },
+  {
+    "url": "https://v0.dev/t/Xt5IZDNGjrW",
+    "label": "Template for prompt: A dashboard with a black sidebar and a box inside to change organization",
+    "dateAdded": "2023-12-30T19:50:03.653Z"
+  },
+  {
+    "url": "https://v0.dev/t/awkqyXr0CD5",
+    "label": "Template for prompt: این صفحه را طراحی کن هم html هم css و هم javascript ",
+    "dateAdded": "2023-12-30T19:50:03.653Z"
+  },
+  {
+    "url": "https://v0.dev/t/h3BMg4EheNT",
+    "label": "Template for prompt: wallet user card",
+    "dateAdded": "2023-12-30T19:50:03.654Z"
+  },
+  {
+    "url": "https://v0.dev/t/dSNCtLoZjh1",
+    "label": "Template for prompt: Global Site\nCreate Account\n\nCreator App\nJust ask and Request\nNeed Help with Unlimited Now?\nWe are here to help with onboarding your business or brand. Reach out to us or stop by to receive a live demo of our products.\n\n\n Email support@unlimitpotential.com\n Local 404-590-8181\n\nBusiness owner?\nWe welcome you to let our sales team guide you through our creative process. We look forward to helping your business grow & scale with data-driven decision making.\n\n\nContent creator?\nWe are here because of hard work, it does pay off. Don't settle for less join our crew we are committed to collaborating with every member in our community.\n\n\n\nDecision maker?\nManage your agency or brand with total confidence using our powerful software. Designed to help you focus on the bigger picture.\n\n Schedule an appointment Book us\n Support +1 765 571 3433\n Email support@unlimitpotential.com\nContact us\n\"Fine art is that in which the hand, the head, and the heart of man go together.\" John Ruskin, Architect\n\nOffice",
+    "dateAdded": "2023-12-30T19:50:03.654Z"
+  },
+  {
+    "url": "https://v0.dev/t/t6keQx3U4Ux",
+    "label": "Template for prompt: a Dialog component that allows you to assign a \"collector\" to a \"point\". It fetches a list of collectors from an API and displays it in a form. The user can select a collector from the list and assign it to the point. If a collector is already assigned to the point, a warning is displayed. The form has options to cancel the operation or confirm the collector assignment.",
+    "dateAdded": "2023-12-30T19:50:03.654Z"
+  },
+  {
+    "url": "https://v0.dev/t/BDq6cBJII44",
+    "label": "Template for prompt: a two column hero banner",
+    "dateAdded": "2023-12-30T19:50:03.654Z"
+  },
+  {
+    "url": "https://v0.dev/t/AfYJtFpvqjm",
+    "label": "Template for prompt: make this in word",
+    "dateAdded": "2023-12-30T19:50:03.654Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q9aQkJ8oFFJ",
+    "label": "Template for prompt: a card with a paragraph and button inside ",
+    "dateAdded": "2023-12-30T19:50:03.655Z"
+  },
+  {
+    "url": "https://v0.dev/t/4kjUPaUUn9d",
+    "label": "Template for prompt: 1pas",
+    "dateAdded": "2023-12-30T19:50:03.655Z"
+  },
+  {
+    "url": "https://v0.dev/t/HVLphdOyp94",
+    "label": "Template for prompt: ready button",
+    "dateAdded": "2023-12-30T19:50:03.655Z"
+  },
+  {
+    "url": "https://v0.dev/t/AHUXTnc5dp6",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-30T19:50:03.655Z"
+  },
+  {
+    "url": "https://v0.dev/t/HGsHtjGur0g",
+    "label": "Template for prompt: a minimalist food ordering platform that takes in a menu in this format of the image\n",
+    "dateAdded": "2023-12-30T19:50:03.656Z"
+  },
+  {
+    "url": "https://v0.dev/t/FtcIo7hkPVZ",
+    "label": "Template for prompt: ready button",
+    "dateAdded": "2023-12-30T19:50:03.656Z"
+  },
+  {
+    "url": "https://v0.dev/t/yOiTQ35tpPI",
+    "label": "Template for prompt: ready button",
+    "dateAdded": "2023-12-30T19:50:03.656Z"
+  },
+  {
+    "url": "https://v0.dev/t/9CWdToUplvj",
+    "label": "Template for prompt: create a compliance risk card",
+    "dateAdded": "2023-12-30T19:50:03.656Z"
+  },
+  {
+    "url": "https://v0.dev/t/SiYVh580pOk",
+    "label": "Template for prompt: a minimal tab bar with blurred background",
+    "dateAdded": "2023-12-30T19:50:03.656Z"
+  },
+  {
+    "url": "https://v0.dev/t/N0zze218lfL",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-30T19:50:03.656Z"
+  },
+  {
+    "url": "https://v0.dev/t/G8sWp27ETz7",
+    "label": "Template for prompt: a dashboard for a persistent browser-based game with player stats, menu items, and general layout",
+    "dateAdded": "2023-12-30T19:50:03.656Z"
+  },
+  {
+    "url": "https://v0.dev/t/RH7tgLwe0LG",
+    "label": "Template for prompt: create a price input ",
+    "dateAdded": "2023-12-30T19:50:03.656Z"
+  },
+  {
+    "url": "https://v0.dev/t/F6ASzQtD0gE",
+    "label": "Template for prompt: a form with 3 select inputs, one string input, and one radio input",
+    "dateAdded": "2023-12-30T19:50:03.657Z"
+  },
+  {
+    "url": "https://v0.dev/t/jotrN5Mig3j",
+    "label": "Template for prompt: An  event app ecommercedashboard with a sidebar navigation and a table of recent ticket orders",
+    "dateAdded": "2023-12-30T19:50:03.657Z"
+  },
+  {
+    "url": "https://v0.dev/t/kVitLps6l7Z",
+    "label": "Template for prompt: Make beautiful dropzone",
+    "dateAdded": "2023-12-30T19:50:03.657Z"
   }
 ]
