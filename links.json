@@ -61248,5 +61248,130 @@
     "url": "https://v0.dev/t/oqGclqzWVSa",
     "label": "Template for prompt: a neon with glassmorphism loading bar on the center of the screen",
     "dateAdded": "2023-12-30T17:40:03.743Z"
+  },
+  {
+    "url": "https://v0.dev/t/g4RfEdiLr9h",
+    "label": "Template for prompt: یه فرم ثبت نام به زبانhtmlبرام طراحی کن",
+    "dateAdded": "2023-12-30T17:45:03.707Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z8xC9Zd2gI1",
+    "label": "Template for prompt: Search Bar: Top, for keyword input.\nFilter Bar: Below search bar, with filters:\n\"All filters\": Menu for search refinement.\n\"Industry\": Dropdown to select company industry.\n\"Services Offered\": Filter for company services.\n\"Company Size\": Filter by company size.\n\"Location\": Filter by geographical location.\n\"Ownership\": Filter by ownership type.\n\"Tags\": Filter by specific tags/keywords.\n\"Advanced options\": Dropdown for niche filters.\nCompany Listings: Main area displays company details.\nMap View: Interactive map shows company locations.\nSorting Options: Sort by size, revenue, growth rate.\nPagination: Controls to navigate search pages.\nView Toggle: Switch between list and tile views.\n\n\n\n\n\n\n",
+    "dateAdded": "2023-12-30T17:45:03.707Z"
+  },
+  {
+    "url": "https://v0.dev/t/my2tQfNPEMA",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T17:45:03.707Z"
+  },
+  {
+    "url": "https://v0.dev/t/AWREWi3Lj4q",
+    "label": "Template for prompt: create tablesheet",
+    "dateAdded": "2023-12-30T17:45:03.708Z"
+  },
+  {
+    "url": "https://v0.dev/t/fbjJJ9nDYu5",
+    "label": "Template for prompt: resposive login for with bootstrap",
+    "dateAdded": "2023-12-30T17:45:03.708Z"
+  },
+  {
+    "url": "https://v0.dev/t/g4qR1uUdYgZ",
+    "label": "Template for prompt: I want the same more sober and refined and modified design",
+    "dateAdded": "2023-12-30T17:45:03.708Z"
+  },
+  {
+    "url": "https://v0.dev/t/GAJfqXnPlLF",
+    "label": "Template for prompt: full saas website ",
+    "dateAdded": "2023-12-30T17:45:03.708Z"
+  },
+  {
+    "url": "https://v0.dev/t/hfw2IxNgPz2",
+    "label": "Template for prompt: یه فرم ثبت نام به زبانhtmlبرام طراحی کن",
+    "dateAdded": "2023-12-30T17:45:03.708Z"
+  },
+  {
+    "url": "https://v0.dev/t/jkhtFP9p66R",
+    "label": "Template for prompt: a dark blue footer with 3 column that involves an email box",
+    "dateAdded": "2023-12-30T17:45:03.708Z"
+  },
+  {
+    "url": "https://v0.dev/t/sobV4l3xiWk",
+    "label": "Template for prompt: Create calendar from scratch",
+    "dateAdded": "2023-12-30T17:45:03.709Z"
+  },
+  {
+    "url": "https://v0.dev/t/FNANn3nqJWU",
+    "label": "Template for prompt: A SaaS admin dashboard ",
+    "dateAdded": "2023-12-30T17:45:03.709Z"
+  },
+  {
+    "url": "https://v0.dev/t/AYd1pCQjC7C",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T17:45:03.709Z"
+  },
+  {
+    "url": "https://v0.dev/t/dcFHcRRhY2X",
+    "label": "Template for prompt: <nav className=\"px-5 py-3 shadow-sm\">\n      <div className=\"max-w-screen-xl flex justify-between items-center mx-auto\">\n        <p className=\"text-2xl font-bold\">\n          <Link href=\"/\" className=\"text-red-500\">Robo</Link> ICT\n        </p>\n        <NavigationMenu>\n          <NavigationMenuList>\n            <NavigationMenuItem>\n              <Link href=\"/\" legacyBehavior passHref>\n                <NavigationMenuLink className={`${navigationMenuTriggerStyle()} text-xl font-bold`}>\n                  হোম\n                </NavigationMenuLink>\n              </Link>\n            </NavigationMenuItem>\n            <NavigationMenuItem>\n              <Link href=\"/courses\" legacyBehavior passHref>\n                <NavigationMenuLink className={`${navigationMenuTriggerStyle()} text-xl font-bold`}>\n                  কোর্সসমূহ\n                </NavigationMenuLink>\n              </Link>\n            </NavigationMenuItem>\n            <NavigationMenuItem>\n              <Link href=\"/gallery\" legacyBehavi",
+    "dateAdded": "2023-12-30T17:45:03.709Z"
+  },
+  {
+    "url": "https://v0.dev/t/hwDajRGG1tV",
+    "label": "Template for prompt: make responsive menu for mobile design",
+    "dateAdded": "2023-12-30T17:45:03.709Z"
+  },
+  {
+    "url": "https://v0.dev/t/GSaKnDDu5cG",
+    "label": "Template for prompt: two input form",
+    "dateAdded": "2023-12-30T17:45:03.709Z"
+  },
+  {
+    "url": "https://v0.dev/t/S3njsHbyiYN",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T17:45:03.709Z"
+  },
+  {
+    "url": "https://v0.dev/t/4z3hvngdH49",
+    "label": "Template for prompt: Generate a registration form with first name last name and email",
+    "dateAdded": "2023-12-30T17:45:03.709Z"
+  },
+  {
+    "url": "https://v0.dev/t/YdF2F5gkCot",
+    "label": "Template for prompt: form login modal",
+    "dateAdded": "2023-12-30T17:45:03.709Z"
+  },
+  {
+    "url": "https://v0.dev/t/ALQWljSvaJJ",
+    "label": "Template for prompt: a navbar for my single page website for a mechanics company",
+    "dateAdded": "2023-12-30T17:45:03.710Z"
+  },
+  {
+    "url": "https://v0.dev/t/JlAXoDiOvWl",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T17:45:03.710Z"
+  },
+  {
+    "url": "https://v0.dev/t/yiX9rZx2BI6",
+    "label": "Template for prompt: A dark mode tailwind slate based UI showing progress bars for different reading challenges to read x amount of books per year",
+    "dateAdded": "2023-12-30T17:45:03.710Z"
+  },
+  {
+    "url": "https://v0.dev/t/FtDNoBKbc8R",
+    "label": "Template for prompt: ecommerce product page",
+    "dateAdded": "2023-12-30T17:45:03.710Z"
+  },
+  {
+    "url": "https://v0.dev/t/j5FKCGcmkQ0",
+    "label": "Template for prompt: Create an admin lte ",
+    "dateAdded": "2023-12-30T17:45:03.710Z"
+  },
+  {
+    "url": "https://v0.dev/t/yKZooXL5m1F",
+    "label": "Template for prompt: Write me simple python gui",
+    "dateAdded": "2023-12-30T17:45:03.710Z"
+  },
+  {
+    "url": "https://v0.dev/t/gckfVFvVD9W",
+    "label": "Template for prompt: Can you design a better layout based on the initial one content \"\"\" <div className=\"flex-grow flex items-center justify-center p-8\">\n                    <div className=\"w-full max-w-xl mx-auto\">\n                        <h2 className=\"text-3xl font-bold\">{finalPlot.name}</h2>\n                        <p className=\"mt-2 text-lg\">{finalPlot.logline}</p>\n                        <p className=\"mt-4\">{finalPlot.description}</p>\n                    </div>\n                </div>\"\"\"",
+    "dateAdded": "2023-12-30T17:45:03.710Z"
   }
 ]
