@@ -57938,5 +57938,135 @@
     "url": "https://v0.dev/t/fkzm5YUMLaW",
     "label": "Template for prompt: a gallery view of search results of crime events at a college campus",
     "dateAdded": "2023-12-30T05:25:03.310Z"
+  },
+  {
+    "url": "https://v0.dev/t/LKl64Pvb0kR",
+    "label": "Template for prompt: Output Generation Module: Based on the processed input and metadata, this module will generate contextual images, and variations in characters, scenes, and actions. It would include:\n\nAn AI-powered generator that creates variations of the input while maintaining the original context.\nTools for users to refine the AI's output, such as sliders for adjusting the variation intensity or checkboxes for selecting elements to change or keep.",
+    "dateAdded": "2023-12-30T05:30:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/KfjQETeXGGm",
+    "label": "Template for prompt: Output Generation Module: Based on the processed input and metadata, this module will generate contextual images, and variations in characters, scenes, and actions. It would include:\n\nAn AI-powered generator that creates variations of the input while maintaining the original context.\nTools for users to refine the AI's output, such as sliders for adjusting the variation intensity or checkboxes for selecting elements to change or keep.",
+    "dateAdded": "2023-12-30T05:30:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/vHMVFaVvDwT",
+    "label": "Template for prompt: Alcohol Tracker Home Page",
+    "dateAdded": "2023-12-30T05:30:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/5bfQ4vLvzFJ",
+    "label": "Template for prompt: Prepaid Card Platform",
+    "dateAdded": "2023-12-30T05:30:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZX6WBmapNtu",
+    "label": "Template for prompt: 一个可以上传Excel。并预览其内容的页面",
+    "dateAdded": "2023-12-30T05:30:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/iO7tpIIQ4wR",
+    "label": "Template for prompt: create this hero section",
+    "dateAdded": "2023-12-30T05:30:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/2M5QGGm8weZ",
+    "label": "Template for prompt: Design with nexjs, tailwind and shadcn",
+    "dateAdded": "2023-12-30T05:30:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/wrGG9cHYXWs",
+    "label": "Template for prompt: A Web3 activity home page, two sections, the first section has left and right two parts, the left part is a NFG logo, the right part is the activity description. the second section has multiple character introductions.",
+    "dateAdded": "2023-12-30T05:30:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/BeGkR6exN52",
+    "label": "Template for prompt: create homepage main section",
+    "dateAdded": "2023-12-30T05:30:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/hqiArxWgYbQ",
+    "label": "Template for prompt: new task managment",
+    "dateAdded": "2023-12-30T05:30:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZiwX2N34RhJ",
+    "label": "Template for prompt: A landing page hero section in dark mode with a heading, leading text and an opt-in form. three buttons with a boarder in a bright diagonal gradient from blue to indigo to violett to magenta 1 Client 2 Team 3 Support. three blog entries about visual experience design",
+    "dateAdded": "2023-12-30T05:30:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/chQmsYpjnXx",
+    "label": "Template for prompt: freelance page",
+    "dateAdded": "2023-12-30T05:30:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/lJflGE5pPt2",
+    "label": "Template for prompt: Design with nextjs, tailwind and shadcn",
+    "dateAdded": "2023-12-30T05:30:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/ViedXViefXS",
+    "label": "Template for prompt: Design with nextjs, tailwind and shadcn. Design as it is in the image",
+    "dateAdded": "2023-12-30T05:30:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/foDf3jz3nu5",
+    "label": "Template for prompt: Code similar interface like this",
+    "dateAdded": "2023-12-30T05:30:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/wPd721OgXTn",
+    "label": "Template for prompt: A expandable sidebar like visual studio",
+    "dateAdded": "2023-12-30T05:30:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/Vy9KGMyWRzO",
+    "label": "Template for prompt: shopping mall product hover",
+    "dateAdded": "2023-12-30T05:30:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/aOE3EJ4pDzc",
+    "label": "Template for prompt: A chatui like wechat",
+    "dateAdded": "2023-12-30T05:30:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/Id6tZBdoRPm",
+    "label": "Template for prompt: Create this input field in a form:\n1. Full name (First and Last name)\n2. Mobile Number\n3. Flat, House no., Building, Company, Apartment\n4. Area, Street, Sector, Village\n5. Landmark \"placeholder is Eg. near apollo hospital\"\n6. Pincode  \"placeholder is 6 digits [0-9] PIN code\n7. Town/City\n8. State \nMobile number should be only number with max 10 digits\nState should be dropdown\nPincode should be number only with max 6 digits\nFull name,mobile number,Flat, House no., Building, Company, Apartment , Pincode, Town/City,State is required field",
+    "dateAdded": "2023-12-30T05:30:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/FOBnOsw4Upr",
+    "label": "Template for prompt: landing page for defi",
+    "dateAdded": "2023-12-30T05:30:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/3kb7iPH1wGC",
+    "label": "Template for prompt: create me a toast like this",
+    "dateAdded": "2023-12-30T05:30:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/fkjjQFXmPpu",
+    "label": "Template for prompt: glassy apple-like circle dock widget",
+    "dateAdded": "2023-12-30T05:30:02.983Z"
+  },
+  {
+    "url": "https://v0.dev/t/NyeJWDFDyYe",
+    "label": "Template for prompt: create me a toast like this",
+    "dateAdded": "2023-12-30T05:30:02.983Z"
+  },
+  {
+    "url": "https://v0.dev/t/FbrSiYQCxK4",
+    "label": "Template for prompt: subscrible newsletter",
+    "dateAdded": "2023-12-30T05:30:02.983Z"
+  },
+  {
+    "url": "https://v0.dev/t/dqQPoFiSuOO",
+    "label": "Template for prompt: shopping mall cart page hover",
+    "dateAdded": "2023-12-30T05:30:02.983Z"
+  },
+  {
+    "url": "https://v0.dev/t/a0mDNz97Om4",
+    "label": "Template for prompt: User Input Module: This will be the initial interface where users can upload or draw their sketches, images, and drawings. It would have the following features:\n\nAn upload button for importing files. Output panels from the Ai model, Directional panels with selective object redirect.",
+    "dateAdded": "2023-12-30T05:30:02.983Z"
   }
 ]
