@@ -52143,5 +52143,135 @@
     "url": "https://v0.dev/t/VXftFMX1Kg3",
     "label": "Template for prompt: Build a webpage for a program, it has the amount of subscrbers, recent paayments for that program, lessons and excercises attached. As well as all the clients subscribed to the lesson",
     "dateAdded": "2023-12-30T01:35:02.721Z"
+  },
+  {
+    "url": "https://v0.dev/t/ODRAV2uaxH4",
+    "label": "Template for prompt: quiz app with mobile",
+    "dateAdded": "2023-12-30T01:40:03.449Z"
+  },
+  {
+    "url": "https://v0.dev/t/a78Upb4NPhA",
+    "label": "Template for prompt: puedes hacer este componente identico",
+    "dateAdded": "2023-12-30T01:40:03.450Z"
+  },
+  {
+    "url": "https://v0.dev/t/wGsWbp380aq",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-30T01:40:03.450Z"
+  },
+  {
+    "url": "https://v0.dev/t/eeoKpc8Q2sc",
+    "label": "Template for prompt: recipe generated content",
+    "dateAdded": "2023-12-30T01:40:03.450Z"
+  },
+  {
+    "url": "https://v0.dev/t/DUtvEaBKGU6",
+    "label": "Template for prompt: Create a React component that mimics the UI design presented. The component should be named SpecStatus and include the following features:\n\nA Status Header at the top that displays the current status of the 'Spec' which can either be \"Spec is ready\" or \"Spec is not ready\". This header should dynamically reflect the status based on the state of the component.\n\nA Dropdown Menu beneath the Status Header, with the label \"Spec status\". This dropdown should be implemented using a select HTML element and should contain two option elements: \"Spec is ready\" and \"Spec is not ready\".",
+    "dateAdded": "2023-12-30T01:40:03.450Z"
+  },
+  {
+    "url": "https://v0.dev/t/7rqXFwBdWv9",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-30T01:40:03.450Z"
+  },
+  {
+    "url": "https://v0.dev/t/v8XeKl6ilHD",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-30T01:40:03.450Z"
+  },
+  {
+    "url": "https://v0.dev/t/LBUklgh5fFh",
+    "label": "Template for prompt: Ich brauche ein Canvas in dem ich transparent malen kann",
+    "dateAdded": "2023-12-30T01:40:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/P5k1IYziwEX",
+    "label": "Template for prompt: Please beautiful danger zone, include delete and leave organization action",
+    "dateAdded": "2023-12-30T01:40:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/v4Vchsr5zhq",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-30T01:40:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/0jfWnoGfUQu",
+    "label": "Template for prompt: west coast swing event landing page with a hero and a scrollable panel of events, left sidebar hamburger menu icon when collapsed that expands to be a 25% width sidebar with \"about\", \"login\", and \"events\"",
+    "dateAdded": "2023-12-30T01:40:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/b438fYFnXL8",
+    "label": "Template for prompt: A stock trading app dashboard showing the user's portfolio and current investment strategy",
+    "dateAdded": "2023-12-30T01:40:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/juYiiLVT4Eb",
+    "label": "Template for prompt: this is payment invoice UI screen. payments are done using crypto\n\ndata available:\n\ninvoice:\npayerEmail\npayerName\npayerWallet\ndescription\namountDue\ncurrency\ndueDate\nstatus\ncreatedAt\nupdatedAt\n\nstore:\nid\nuserId\nname\nsafeId\ndescription\ncreatedAt\nupdatedAt",
+    "dateAdded": "2023-12-30T01:40:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/Hktk0exrwBo",
+    "label": "Template for prompt: A pricing page for my SaaS service. Free tier includes 100 screenshots a month, with no AI extraction. $8 a month tier includes 100 screenshots, and AI extraction. $15 a month includes 1000 screenshots and AI extraction",
+    "dateAdded": "2023-12-30T01:40:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/VBucMgYa1Gi",
+    "label": "Template for prompt: a login page with, name surename, password, confirm password and two button, login and create account",
+    "dateAdded": "2023-12-30T01:40:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/AF5EEbTHwW0",
+    "label": "Template for prompt: I want a page with, a card which represents the last race, with at the bottom a list of cards with the finish and start positions during the race on the theme of F1",
+    "dateAdded": "2023-12-30T01:40:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/vc67PUtMPvu",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-30T01:40:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/QPpkDrMWvzP",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-30T01:40:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/Rnd8YmRwdv0",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T01:40:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/YYCmWeGjgLI",
+    "label": "Template for prompt: vercel payment invoice",
+    "dateAdded": "2023-12-30T01:40:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/P23aTIqGTqO",
+    "label": "Template for prompt: a budget admin page listing 5 types of budget (cart, ads, gifts, food, others), each budge featuring info: total cost, remaining value, maximum value",
+    "dateAdded": "2023-12-30T01:40:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/LwhGjtfXIKs",
+    "label": "Template for prompt: Search bar only ",
+    "dateAdded": "2023-12-30T01:40:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/jKYvIaKIfuC",
+    "label": "Template for prompt: create table with pagniation",
+    "dateAdded": "2023-12-30T01:40:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/r9tbXXEKF5o",
+    "label": "Template for prompt: create a link management webpage where users can create categories and add links to each category",
+    "dateAdded": "2023-12-30T01:40:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/execTm56Atj",
+    "label": "Template for prompt: a dashboard for statistiques",
+    "dateAdded": "2023-12-30T01:40:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/0wcoqidk0nD",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T01:40:03.453Z"
   }
 ]
