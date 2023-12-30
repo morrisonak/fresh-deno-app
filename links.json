@@ -63328,5 +63328,115 @@
     "url": "https://v0.dev/t/TDYWQiOIjgy",
     "label": "Template for prompt: an angular layout that has a header and burger menu on mobile view for settings",
     "dateAdded": "2023-12-30T19:05:03.030Z"
+  },
+  {
+    "url": "https://v0.dev/t/DeA67f0kewU",
+    "label": "Template for prompt: home page with button ",
+    "dateAdded": "2023-12-30T19:10:02.617Z"
+  },
+  {
+    "url": "https://v0.dev/t/qbRpU3hmWkX",
+    "label": "Template for prompt: a website to list free to play games, dark mode",
+    "dateAdded": "2023-12-30T19:10:02.618Z"
+  },
+  {
+    "url": "https://v0.dev/t/z0u4vW9pjAd",
+    "label": "Template for prompt: customer service AI chatbot for https://dc.onespliffnation.com/",
+    "dateAdded": "2023-12-30T19:10:02.618Z"
+  },
+  {
+    "url": "https://v0.dev/t/UZNvXGeoaPL",
+    "label": "Template for prompt: a website to list free to play games, dark mode",
+    "dateAdded": "2023-12-30T19:10:02.618Z"
+  },
+  {
+    "url": "https://v0.dev/t/3flvgq8Y0MC",
+    "label": "Template for prompt: create a magic link login page with repsonsive ui",
+    "dateAdded": "2023-12-30T19:10:02.618Z"
+  },
+  {
+    "url": "https://v0.dev/t/IeizCcIbCMI",
+    "label": "Template for prompt: detection carss plate",
+    "dateAdded": "2023-12-30T19:10:02.619Z"
+  },
+  {
+    "url": "https://v0.dev/t/3U4LPchnMex",
+    "label": "Template for prompt: create this exactly same ui with tailwindcss shaduicn",
+    "dateAdded": "2023-12-30T19:10:02.619Z"
+  },
+  {
+    "url": "https://v0.dev/t/QRvO07lKfag",
+    "label": "Template for prompt: A webapp to track my 100 days english challenge, show as challenge poster",
+    "dateAdded": "2023-12-30T19:10:02.619Z"
+  },
+  {
+    "url": "https://v0.dev/t/Fqr12mrQdCL",
+    "label": "Template for prompt: سلام بانو",
+    "dateAdded": "2023-12-30T19:10:02.619Z"
+  },
+  {
+    "url": "https://v0.dev/t/ClYk40JlhRi",
+    "label": "Template for prompt: Fashion model",
+    "dateAdded": "2023-12-30T19:10:02.619Z"
+  },
+  {
+    "url": "https://v0.dev/t/kSI6DcFmmPb",
+    "label": "Template for prompt: make a watch animation html css js website",
+    "dateAdded": "2023-12-30T19:10:02.619Z"
+  },
+  {
+    "url": "https://v0.dev/t/BHoLwR3LJzx",
+    "label": "Template for prompt: A landing page for a pizza store",
+    "dateAdded": "2023-12-30T19:10:02.620Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q6dLO4eY0oY",
+    "label": "Template for prompt: product card",
+    "dateAdded": "2023-12-30T19:10:02.620Z"
+  },
+  {
+    "url": "https://v0.dev/t/DRUIiAH2uGa",
+    "label": "Template for prompt: این طرحو با html و css برای من طراحی کن",
+    "dateAdded": "2023-12-30T19:10:02.620Z"
+  },
+  {
+    "url": "https://v0.dev/t/1qyimmS7IwM",
+    "label": "Template for prompt: Make me a download page for a friday night funkin mod called \"Zoro's Funky Frenzy\" in the style of ourple guys neocites website for the ourple guy mod.",
+    "dateAdded": "2023-12-30T19:10:02.620Z"
+  },
+  {
+    "url": "https://v0.dev/t/agoUifFTgBV",
+    "label": "Template for prompt:   if url_720p:\n            rand = random.randint(1111 , 999999)\n            file_name = f'Video_{rand}.mp4'\n\n            with requests.get(url_720p , stream= True) as r2 : \n                r.raise_for_status()\n                with open(file_name , 'wb') as f :\n                    for chunk in r.iter_content(chunk_size=8192):\n                        f.write(chunk)\n                        \n                        await callback_query.message.reply_video(video = f'{url_720p}')\n                       \n                        os.remove(file_name)\n        else:\n            await callback_query.message.reply_text('کیفیت 720p در دسترس نیست.')   مشکل این کد چیه",
+    "dateAdded": "2023-12-30T19:10:02.620Z"
+  },
+  {
+    "url": "https://v0.dev/t/J30q6qPKR8Y",
+    "label": "Template for prompt: This is a system what I need is to create something like this not the design but the system ",
+    "dateAdded": "2023-12-30T19:10:02.621Z"
+  },
+  {
+    "url": "https://v0.dev/t/hbPTwnEZwbX",
+    "label": "Template for prompt: African film industry network",
+    "dateAdded": "2023-12-30T19:10:02.621Z"
+  },
+  {
+    "url": "https://v0.dev/t/0GxSgCVLjgU",
+    "label": "Template for prompt: Make an dashboard from administration website ecommerce in reactjs with material ui",
+    "dateAdded": "2023-12-30T19:10:02.621Z"
+  },
+  {
+    "url": "https://v0.dev/t/hI9iPHzJbmK",
+    "label": "Template for prompt: generate an icon for a web3 app which name is Ether Lock Box",
+    "dateAdded": "2023-12-30T19:10:02.621Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZjhinlIfkAl",
+    "label": "Template for prompt: A carousel with products and link to the product",
+    "dateAdded": "2023-12-30T19:10:02.621Z"
+  },
+  {
+    "url": "https://v0.dev/t/xl1eIJfcYcM",
+    "label": "Template for prompt: A webapp to track my 100 days english challenge ",
+    "dateAdded": "2023-12-30T19:10:02.621Z"
   }
 ]
