@@ -58838,5 +58838,135 @@
     "url": "https://v0.dev/t/4jIAhVSkwdc",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2023-12-30T06:00:03.175Z"
+  },
+  {
+    "url": "https://v0.dev/t/FkQp6SjBrWx",
+    "label": "Template for prompt: create a data table",
+    "dateAdded": "2023-12-30T06:05:03.031Z"
+  },
+  {
+    "url": "https://v0.dev/t/irFtfgANpn3",
+    "label": "Template for prompt: Create a scientific calculator",
+    "dateAdded": "2023-12-30T06:05:03.032Z"
+  },
+  {
+    "url": "https://v0.dev/t/fAHCfhnAcsH",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T06:05:03.032Z"
+  },
+  {
+    "url": "https://v0.dev/t/PNeeuKyFpRN",
+    "label": "Template for prompt: create me a flex grid with four for desktop and a fully compatable for mobile and tablet devices  with tailwind css and react js ",
+    "dateAdded": "2023-12-30T06:05:03.032Z"
+  },
+  {
+    "url": "https://v0.dev/t/AgpYcarCrj8",
+    "label": "Template for prompt: create a website that takes news form free news apis and display that news with amazing UI and the news has to be updated every 8 hrs and in one page only 9 news has to be displayed",
+    "dateAdded": "2023-12-30T06:05:03.032Z"
+  },
+  {
+    "url": "https://v0.dev/t/zPLnlI7xKXn",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-30T06:05:03.032Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wf03xDtg6HI",
+    "label": "Template for prompt: bar chart with two levels",
+    "dateAdded": "2023-12-30T06:05:03.033Z"
+  },
+  {
+    "url": "https://v0.dev/t/uXDMld1UQms",
+    "label": "Template for prompt: create a website with a big google map (or openstreet map)\nabove the map, include two input files\nand below the map, include 4 buttons: sgpac, union, intersect, difference \n",
+    "dateAdded": "2023-12-30T06:05:03.033Z"
+  },
+  {
+    "url": "https://v0.dev/t/B84qQ9ZiweT",
+    "label": "Template for prompt: Channel list of voice chat",
+    "dateAdded": "2023-12-30T06:05:03.033Z"
+  },
+  {
+    "url": "https://v0.dev/t/UMsxGYv2qRG",
+    "label": "Template for prompt: A waveform like trimmer for a given song",
+    "dateAdded": "2023-12-30T06:05:03.033Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zg7AdXEicSn",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T06:05:03.033Z"
+  },
+  {
+    "url": "https://v0.dev/t/erMQ21aa5rm",
+    "label": "Template for prompt: Create me this form",
+    "dateAdded": "2023-12-30T06:05:03.033Z"
+  },
+  {
+    "url": "https://v0.dev/t/nmsod5KwAri",
+    "label": "Template for prompt: Create me this form",
+    "dateAdded": "2023-12-30T06:05:03.033Z"
+  },
+  {
+    "url": "https://v0.dev/t/LMZSq6YoJSX",
+    "label": "Template for prompt: Create me this form",
+    "dateAdded": "2023-12-30T06:05:03.034Z"
+  },
+  {
+    "url": "https://v0.dev/t/GPnmUiAfq9E",
+    "label": "Template for prompt: create an two side list item one is left side another is right side both side has 20 list items ",
+    "dateAdded": "2023-12-30T06:05:03.034Z"
+  },
+  {
+    "url": "https://v0.dev/t/UJgZJHoXBEI",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T06:05:03.034Z"
+  },
+  {
+    "url": "https://v0.dev/t/j0xkPuFkJ0S",
+    "label": "Template for prompt: recreate me this card component",
+    "dateAdded": "2023-12-30T06:05:03.034Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ysu7YHZw9OZ",
+    "label": "Template for prompt: create an side by side 20, 20 list items with search bar present at top ",
+    "dateAdded": "2023-12-30T06:05:03.034Z"
+  },
+  {
+    "url": "https://v0.dev/t/v24H293Zazz",
+    "label": "Template for prompt: recreate me this card component",
+    "dateAdded": "2023-12-30T06:05:03.034Z"
+  },
+  {
+    "url": "https://v0.dev/t/VhcfxUR5rkQ",
+    "label": "Template for prompt: make an list items side by side ",
+    "dateAdded": "2023-12-30T06:05:03.034Z"
+  },
+  {
+    "url": "https://v0.dev/t/Vz3gbOH84KD",
+    "label": "Template for prompt: A rider app to see new rides or deliveries for food or moving people like a taxi, the orders will be shown in a list showing the distance and the type of ride",
+    "dateAdded": "2023-12-30T06:05:03.034Z"
+  },
+  {
+    "url": "https://v0.dev/t/TM12takVzZC",
+    "label": "Template for prompt: price comparison page for two bikes",
+    "dateAdded": "2023-12-30T06:05:03.034Z"
+  },
+  {
+    "url": "https://v0.dev/t/t3kFwpydpZF",
+    "label": "Template for prompt: 页面布局和外观：\n\n配色方案：选择一个温暖、舒适的配色方案，例如使用柔和的蓝色、灰色和白色的组合。这将为页面营造出专业、简洁和现代的氛围。\n顶部导航栏：保留一个简洁的顶部导航栏，包含网页的logo或品牌标识。\n主要内容区域：页面的主要部分用于展示图片下载功能和用户次卡信息。\n底部区域：包含版权信息和其他必要的法律声明。\n图片下载功能：\n\n输入框：在主要内容区域的中心位置，提供一个输入框，供用户粘贴要下载的图片链接。\n下载按钮：在输入框旁边，放置一个\"下载\"按钮，用户点击该按钮以开始下载图片。\n下载链接显示：在用户点击下载按钮后，显示一个下载链接，用户可以通过点击链接或复制链接按钮获取图片下载链接。\n用户次卡信息：\n\n次卡信息区域：在主要内容区域的适当位置，创建一个卡片式区域，用于展示用户次卡的相关信息。\n到期时间：在次卡信息区域中显示次卡的到期时间，以提醒用户知道何时次卡将失效。\n剩余次数：在次卡信息区域中显示用户剩余的下载次数，以便用户了解还能进行多少次图片下载。",
+    "dateAdded": "2023-12-30T06:05:03.035Z"
+  },
+  {
+    "url": "https://v0.dev/t/dzqT8HSs0Yi",
+    "label": "Template for prompt: card component",
+    "dateAdded": "2023-12-30T06:05:03.035Z"
+  },
+  {
+    "url": "https://v0.dev/t/AjEUqW7hSzI",
+    "label": "Template for prompt: A landing page for a ETL streaming parser and transform SaaS",
+    "dateAdded": "2023-12-30T06:05:03.035Z"
+  },
+  {
+    "url": "https://v0.dev/t/4jIAhVSkwdc",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T06:05:03.035Z"
   }
 ]
