@@ -60758,5 +60758,135 @@
     "url": "https://v0.dev/t/T7sQshQywls",
     "label": "Template for prompt: create a login screen, with fields username, password, captcha, remember the password and a buttom for login",
     "dateAdded": "2023-12-30T17:20:03.373Z"
+  },
+  {
+    "url": "https://v0.dev/t/xb4k5HXseIl",
+    "label": "Template for prompt: give me a product detail page, with product name, price and  an image with the checkout button",
+    "dateAdded": "2023-12-30T17:25:03.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/C8xWGnXMDEy",
+    "label": "Template for prompt: a UI brilliant.org lesson which explains how to measure weight. it has a number input and when it is submitted it is added to a table.",
+    "dateAdded": "2023-12-30T17:25:03.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/zBds0FVorGx",
+    "label": "Template for prompt: an ecommerce site to sell tarps, covers and liners",
+    "dateAdded": "2023-12-30T17:25:03.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/aj2Pga416Nw",
+    "label": "Template for prompt: site for it services company",
+    "dateAdded": "2023-12-30T17:25:03.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/QGw6sDPQRy5",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-30T17:25:03.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/0qS4nq548Qp",
+    "label": "Template for prompt: a galssmorphism card with a title , illustration and a button, whit the icon of a right pointing arrow, followed by the text 'Read more'",
+    "dateAdded": "2023-12-30T17:25:03.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/CD0VFfAz14A",
+    "label": "Template for prompt: create product card with image slider, produt name, product brand , product price, product ratings with number of reviews, an icon for add to favorite positioned absolute with 10px in the top right corner, share icon",
+    "dateAdded": "2023-12-30T17:25:03.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/u2uFQrF7vM4",
+    "label": "Template for prompt: write a proposal or paper about wheat disease with develop deep learning method after give me code about it",
+    "dateAdded": "2023-12-30T17:25:03.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/ezy3FtSpfs6",
+    "label": "Template for prompt: a drag and drop image upload component, supporting importing images from instagram, google photos and dropbox",
+    "dateAdded": "2023-12-30T17:25:03.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/c1rdUrdEuTr",
+    "label": "Template for prompt: redesign login page for jupyterhub with 4 svg blocks on left and login card on right",
+    "dateAdded": "2023-12-30T17:25:03.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/DrPmeIFBPUo",
+    "label": "Template for prompt: create product card with image slider, produt name, product brand , product price, product ratings with number of reviews, an icon for add to favorite positioned absolute with 10px in the top right corner, share icon",
+    "dateAdded": "2023-12-30T17:25:03.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/nnv5sYSRyhN",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T17:25:03.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/E2t7vtD3oE2",
+    "label": "Template for prompt: 使用bootstrap+html+css+js生成一个登录页面",
+    "dateAdded": "2023-12-30T17:25:03.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/EscVwGuWz9B",
+    "label": "Template for prompt: A \"Empty state view\" for a list of car damage report on mobile",
+    "dateAdded": "2023-12-30T17:25:03.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/4LTG8z5zWvA",
+    "label": "Template for prompt: setings section in a dashboard",
+    "dateAdded": "2023-12-30T17:25:03.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/458qzofDJYn",
+    "label": "Template for prompt: tailwindcss docs website layout",
+    "dateAdded": "2023-12-30T17:25:03.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/gkDuJ56OxI5",
+    "label": "Template for prompt: a first page website",
+    "dateAdded": "2023-12-30T17:25:03.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/3Cv9mw8FKWy",
+    "label": "Template for prompt: tailwindcss docs website layout",
+    "dateAdded": "2023-12-30T17:25:03.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/eoQx8SZI9zw",
+    "label": "Template for prompt: design a coming soon card with only jsx and tailwind css, no shadcn",
+    "dateAdded": "2023-12-30T17:25:03.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/xrW7lUbmVt8",
+    "label": "Template for prompt: a users table with filters for active/inactive",
+    "dateAdded": "2023-12-30T17:25:03.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/PeQ4U6sSILw",
+    "label": "Template for prompt: Dark themed submission page with name and message, also on the bottom of the submission box, add some rules",
+    "dateAdded": "2023-12-30T17:25:03.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/0NAjAwhxJCC",
+    "label": "Template for prompt: A landing page for my design portfolio",
+    "dateAdded": "2023-12-30T17:25:03.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/byVJXQu80Oz",
+    "label": "Template for prompt: سایت ns30.ir را برام طراحی کن",
+    "dateAdded": "2023-12-30T17:25:03.502Z"
+  },
+  {
+    "url": "https://v0.dev/t/zEYYQWQtZ8M",
+    "label": "Template for prompt: Create a navbar simple, with picture of users and menu of users like change avatar, edit information and sign-up",
+    "dateAdded": "2023-12-30T17:25:03.502Z"
+  },
+  {
+    "url": "https://v0.dev/t/kjQOEN6ka9Q",
+    "label": "Template for prompt: tailwindcss website layout",
+    "dateAdded": "2023-12-30T17:25:03.502Z"
+  },
+  {
+    "url": "https://v0.dev/t/zXchft6KX4O",
+    "label": "Template for prompt: baby tracker - Feeding Schedule: Allow parents to track and log their baby's feeding times, including breastfeeding or bottle-feeding details.",
+    "dateAdded": "2023-12-30T17:25:03.502Z"
   }
 ]
