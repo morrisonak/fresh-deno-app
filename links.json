@@ -57808,5 +57808,135 @@
     "url": "https://v0.dev/t/GKTPSwM1ymF",
     "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
     "dateAdded": "2023-12-30T05:20:03.120Z"
+  },
+  {
+    "url": "https://v0.dev/t/lJflGE5pPt2",
+    "label": "Template for prompt: Design with nextjs, tailwind and shadcn",
+    "dateAdded": "2023-12-30T05:25:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/Id6tZBdoRPm",
+    "label": "Template for prompt: Create this input field in a form:\n1. Full name (First and Last name)\n2. Mobile Number\n3. Flat, House no., Building, Company, Apartment\n4. Area, Street, Sector, Village\n5. Landmark \"placeholder is Eg. near apollo hospital\"\n6. Pincode  \"placeholder is 6 digits [0-9] PIN code\n7. Town/City\n8. State \nMobile number should be only number with max 10 digits\nState should be dropdown\nPincode should be number only with max 6 digits\nFull name,mobile number,Flat, House no., Building, Company, Apartment , Pincode, Town/City,State is required field",
+    "dateAdded": "2023-12-30T05:25:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/wPd721OgXTn",
+    "label": "Template for prompt: A expandable sidebar like visual studio",
+    "dateAdded": "2023-12-30T05:25:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/fkjjQFXmPpu",
+    "label": "Template for prompt: glassy apple-like circle dock widget",
+    "dateAdded": "2023-12-30T05:25:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/NyeJWDFDyYe",
+    "label": "Template for prompt: create me a toast like this",
+    "dateAdded": "2023-12-30T05:25:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/Vy9KGMyWRzO",
+    "label": "Template for prompt: shopping mall product hover",
+    "dateAdded": "2023-12-30T05:25:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/aOE3EJ4pDzc",
+    "label": "Template for prompt: A chatui like wechat",
+    "dateAdded": "2023-12-30T05:25:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/3kb7iPH1wGC",
+    "label": "Template for prompt: create me a toast like this",
+    "dateAdded": "2023-12-30T05:25:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/a0mDNz97Om4",
+    "label": "Template for prompt: User Input Module: This will be the initial interface where users can upload or draw their sketches, images, and drawings. It would have the following features:\n\nAn upload button for importing files. Output panels from the Ai model, Directional panels with selective object redirect.",
+    "dateAdded": "2023-12-30T05:25:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/foDf3jz3nu5",
+    "label": "Template for prompt: Code similar interface like this",
+    "dateAdded": "2023-12-30T05:25:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/dqQPoFiSuOO",
+    "label": "Template for prompt: shopping mall cart page hover",
+    "dateAdded": "2023-12-30T05:25:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/FbrSiYQCxK4",
+    "label": "Template for prompt: subscrible newsletter",
+    "dateAdded": "2023-12-30T05:25:03.306Z"
+  },
+  {
+    "url": "https://v0.dev/t/C6lih7r3x0e",
+    "label": "Template for prompt: create me a toast component like this",
+    "dateAdded": "2023-12-30T05:25:03.306Z"
+  },
+  {
+    "url": "https://v0.dev/t/FOBnOsw4Upr",
+    "label": "Template for prompt: landing page for defi",
+    "dateAdded": "2023-12-30T05:25:03.306Z"
+  },
+  {
+    "url": "https://v0.dev/t/CB8ViuAPgBG",
+    "label": "Template for prompt: create me a toast component like this",
+    "dateAdded": "2023-12-30T05:25:03.306Z"
+  },
+  {
+    "url": "https://v0.dev/t/IJftLwH8AFp",
+    "label": "Template for prompt: a blog",
+    "dateAdded": "2023-12-30T05:25:03.307Z"
+  },
+  {
+    "url": "https://v0.dev/t/NaHyn68xVUQ",
+    "label": "Template for prompt: A chat application that allows users to select from various backend models and configuration schema; allows document and image upload and in context chat Re uploaded files; allows chat to display products in dynamic trays and allows users to ask questions about selected products in the trays; provides a section for data visualization of responses; user chat history and a global context of chat history with knowledge graph analysis of sections or all of the chat history ",
+    "dateAdded": "2023-12-30T05:25:03.307Z"
+  },
+  {
+    "url": "https://v0.dev/t/mQqmKgqGv8F",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T05:25:03.307Z"
+  },
+  {
+    "url": "https://v0.dev/t/sKQsEUtBaTm",
+    "label": "Template for prompt: inspire on brilliant.org. here is the outline\nModule 1: Understanding the Weight Scale\n\nObjective: To demystify the weight scale as a tool and emphasize its proper use in tracking weight.\nContent:\nInteractive Element: Comparison of weight scale and television in terms of commonality and potential for misinformation.\nChart/Table: Types of weight changes (fat gain, muscle gain, combination, etc.) and their implications.\nRational Discussion: The importance of not attaching emotions to scale numbers; understanding weight as data points.\nInteractive Quiz: Questions about misconceptions regarding weight scale readings.",
+    "dateAdded": "2023-12-30T05:25:03.307Z"
+  },
+  {
+    "url": "https://v0.dev/t/lpKtfTB2DQ5",
+    "label": "Template for prompt: maike this about us horizontal reactangle about us card ",
+    "dateAdded": "2023-12-30T05:25:03.307Z"
+  },
+  {
+    "url": "https://v0.dev/t/puxST1NOggD",
+    "label": "Template for prompt: ecommerce website",
+    "dateAdded": "2023-12-30T05:25:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/EJ1alGiqILP",
+    "label": "Template for prompt: Change the background color and make it more vibrant, each section should be in different color ",
+    "dateAdded": "2023-12-30T05:25:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/RVQ9Anoktwq",
+    "label": "Template for prompt: create me a toast component with animation",
+    "dateAdded": "2023-12-30T05:25:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/2p7HCWKxNcs",
+    "label": "Template for prompt: construye una tarjeta como esta ",
+    "dateAdded": "2023-12-30T05:25:03.309Z"
+  },
+  {
+    "url": "https://v0.dev/t/yVZcHN1dvan",
+    "label": "Template for prompt: construye una tarjeta como esta ",
+    "dateAdded": "2023-12-30T05:25:03.309Z"
+  },
+  {
+    "url": "https://v0.dev/t/fkzm5YUMLaW",
+    "label": "Template for prompt: a gallery view of search results of crime events at a college campus",
+    "dateAdded": "2023-12-30T05:25:03.310Z"
   }
 ]
