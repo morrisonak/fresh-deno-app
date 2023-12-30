@@ -65118,5 +65118,135 @@
     "url": "https://v0.dev/t/XdTpBS1Uegd",
     "label": "Template for prompt: A user dashboard for a datapack creation website showing their saved projects ",
     "dateAdded": "2023-12-30T20:20:03.401Z"
+  },
+  {
+    "url": "https://v0.dev/t/lxC0GAGJNAc",
+    "label": "Template for prompt: create a closet sales website",
+    "dateAdded": "2023-12-30T20:25:03.232Z"
+  },
+  {
+    "url": "https://v0.dev/t/DPI60sZoB0s",
+    "label": "Template for prompt: Real estate portfolio",
+    "dateAdded": "2023-12-30T20:25:03.232Z"
+  },
+  {
+    "url": "https://v0.dev/t/cC1oDEl8RNj",
+    "label": "Template for prompt: Elabora una lista de diez tareas en forma de tabla sin encabezados con los siguients elementos\nTítulo\nBreve descripcion\nCosto\nBarra de progreso con gradiente desde rojo hasta verde \nFecha de entrega\nBotón para ver con icon\nBotón para borrar con icon\n\n",
+    "dateAdded": "2023-12-30T20:25:03.232Z"
+  },
+  {
+    "url": "https://v0.dev/t/ItQWR4uraYr",
+    "label": "Template for prompt: Start Screen (Step A):\n\nFeatures a welcoming design with a prominent 'Start' button.\nIncludes options for 'Login' and 'Signup'.",
+    "dateAdded": "2023-12-30T20:25:03.232Z"
+  },
+  {
+    "url": "https://v0.dev/t/XTBR2jps0AK",
+    "label": "Template for prompt: Create portpholio website with this image and name Pankaj yadav with animation ",
+    "dateAdded": "2023-12-30T20:25:03.232Z"
+  },
+  {
+    "url": "https://v0.dev/t/nYSbVSIyYgC",
+    "label": "Template for prompt: Create portpholio website with this image and name Pankaj yadav with animation ",
+    "dateAdded": "2023-12-30T20:25:03.233Z"
+  },
+  {
+    "url": "https://v0.dev/t/MIFpld4omQY",
+    "label": "Template for prompt: Frontend Prototype for MyStory App\n\nDevelop frontend for MyStory, an AI-driven storytelling app. Focus on user journey steps, aligning with provided mockup UIs.\nStart Screen: Welcoming design, 'Start', 'Login', 'Signup'.\nLogin/Signup Screen: User inputs, separate sections, submit options.\nUser Profile Page: Profile details, 'My Stories', 'Achievements', 'Settings'.\nProfile Settings: Edit profile, privacy, account settings.\nStory Selection: Story list with filters, search bar.\nStory Introduction: Story brief, visuals, navigation controls.\nDecision Point: User choices with consequences.\nStory Continuation: Continued narrative, visuals, user options.\nContinue/Pause Decision: 'Continue' and 'Pause' options.\nSave/Return: Save progress, return to profile.\nEnd of Story/Feedback: Congrats message, feedback mechanism.\nUser Feedback Mechanism: Detailed feedback options.\nSocial Share: Social media connectivity, post preview.\nObjective: Responsive frontend, smooth transitions, app br",
+    "dateAdded": "2023-12-30T20:25:03.233Z"
+  },
+  {
+    "url": "https://v0.dev/t/sxT63i7pQyU",
+    "label": "Template for prompt: کد برای هک وای فای ",
+    "dateAdded": "2023-12-30T20:25:03.233Z"
+  },
+  {
+    "url": "https://v0.dev/t/OFY4XJkKA12",
+    "label": "Template for prompt: سلام ",
+    "dateAdded": "2023-12-30T20:25:03.233Z"
+  },
+  {
+    "url": "https://v0.dev/t/kgeXwHUXdXQ",
+    "label": "Template for prompt: Portfolio Page for job applications",
+    "dateAdded": "2023-12-30T20:25:03.233Z"
+  },
+  {
+    "url": "https://v0.dev/t/ysx4FDXhPwP",
+    "label": "Template for prompt: create a blog bage",
+    "dateAdded": "2023-12-30T20:25:03.233Z"
+  },
+  {
+    "url": "https://v0.dev/t/ejRi564vyGY",
+    "label": "Template for prompt: make a grid inputs with this values \n\n    EnginCapacity,\n    paintType,\n    payment,\n    price,\n    name,\n    RegionalSpecifications,\n    location,\n    uploadedImages,\n    brand,\n    category,\n    model,\n    year,\n    carType,\n    carStatus,\n    transmission,\n    fuelType,\n    meterRange\n",
+    "dateAdded": "2023-12-30T20:25:03.233Z"
+  },
+  {
+    "url": "https://v0.dev/t/5ISMz8PODMU",
+    "label": "Template for prompt: A mobile first list for quick data entry. User will be displayed a list of missing data entries each predicated with a description and an optional unit. The user should then input the data which can be either numbers, strings or booleans",
+    "dateAdded": "2023-12-30T20:25:03.233Z"
+  },
+  {
+    "url": "https://v0.dev/t/yDjIQ4u6xrE",
+    "label": "Template for prompt: سلام",
+    "dateAdded": "2023-12-30T20:25:03.234Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ktmcc9Kl39H",
+    "label": "Template for prompt: image display compoment, with title, description, tags, and an image area. dark mode with hex #00000 as background.",
+    "dateAdded": "2023-12-30T20:25:03.234Z"
+  },
+  {
+    "url": "https://v0.dev/t/r04ty3VCBFx",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-30T20:25:03.234Z"
+  },
+  {
+    "url": "https://v0.dev/t/AX1w4nhlQQg",
+    "label": "Template for prompt: image display compoment, with title, description, tags, and an image area. dark mode with hex #00000 as compoment color.",
+    "dateAdded": "2023-12-30T20:25:03.234Z"
+  },
+  {
+    "url": "https://v0.dev/t/uIGKQ6QLGnv",
+    "label": "Template for prompt: Create a compliance card",
+    "dateAdded": "2023-12-30T20:25:03.234Z"
+  },
+  {
+    "url": "https://v0.dev/t/YCCwxC64r5y",
+    "label": "Template for prompt: Make a dashboard admin for social media metric that has, engagement rate, reach, like, comment, follow etc, display it with beutiful line graph it also has feature of dark mode",
+    "dateAdded": "2023-12-30T20:25:03.234Z"
+  },
+  {
+    "url": "https://v0.dev/t/M2AyCB0hGMz",
+    "label": "Template for prompt: page d'acceuil d'un site qui permet de calcuer le cout d'un credit immobilier",
+    "dateAdded": "2023-12-30T20:25:03.234Z"
+  },
+  {
+    "url": "https://v0.dev/t/5qj52gbwEEG",
+    "label": "Template for prompt: create a industrial project manager software app, blue",
+    "dateAdded": "2023-12-30T20:25:03.234Z"
+  },
+  {
+    "url": "https://v0.dev/t/LdRHaQDCG3A",
+    "label": "Template for prompt: i want a explore more category section ",
+    "dateAdded": "2023-12-30T20:25:03.235Z"
+  },
+  {
+    "url": "https://v0.dev/t/JpPEfqgzriD",
+    "label": "Template for prompt: Create a compliance card",
+    "dateAdded": "2023-12-30T20:25:03.235Z"
+  },
+  {
+    "url": "https://v0.dev/t/DvQvGQp2caQ",
+    "label": "Template for prompt: tool to batch convert video files",
+    "dateAdded": "2023-12-30T20:25:03.235Z"
+  },
+  {
+    "url": "https://v0.dev/t/uZpalGAPK41",
+    "label": "Template for prompt: A landing page",
+    "dateAdded": "2023-12-30T20:25:03.235Z"
+  },
+  {
+    "url": "https://v0.dev/t/vKrM6Yb8gWn",
+    "label": "Template for prompt: hero banner for a crossfit competition",
+    "dateAdded": "2023-12-30T20:25:03.235Z"
   }
 ]
