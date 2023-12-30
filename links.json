@@ -61128,5 +61128,125 @@
     "url": "https://v0.dev/t/HL1aIlOeXYC",
     "label": "Template for prompt: a container that has an input field of type text, when a user's mouse hovers over the container there will be a neon multi-colored outline effect outlining the container using tailwind css",
     "dateAdded": "2023-12-30T17:35:02.965Z"
+  },
+  {
+    "url": "https://v0.dev/t/2cGB7YjaLmS",
+    "label": "Template for prompt: یه اپلیکیشن پیامرسان حرفه ای به زبان فارسی برام طراحی کن",
+    "dateAdded": "2023-12-30T17:40:03.739Z"
+  },
+  {
+    "url": "https://v0.dev/t/4z3hvngdH49",
+    "label": "Template for prompt: Generate a registration form with first name last name and email",
+    "dateAdded": "2023-12-30T17:40:03.739Z"
+  },
+  {
+    "url": "https://v0.dev/t/ALQWljSvaJJ",
+    "label": "Template for prompt: a navbar for my single page website for a mechanics company",
+    "dateAdded": "2023-12-30T17:40:03.739Z"
+  },
+  {
+    "url": "https://v0.dev/t/yiX9rZx2BI6",
+    "label": "Template for prompt: A dark mode tailwind slate based UI showing progress bars for different reading challenges to read x amount of books per year",
+    "dateAdded": "2023-12-30T17:40:03.739Z"
+  },
+  {
+    "url": "https://v0.dev/t/YdF2F5gkCot",
+    "label": "Template for prompt: form login modal",
+    "dateAdded": "2023-12-30T17:40:03.739Z"
+  },
+  {
+    "url": "https://v0.dev/t/JlAXoDiOvWl",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T17:40:03.740Z"
+  },
+  {
+    "url": "https://v0.dev/t/GSaKnDDu5cG",
+    "label": "Template for prompt: two input form",
+    "dateAdded": "2023-12-30T17:40:03.740Z"
+  },
+  {
+    "url": "https://v0.dev/t/j5FKCGcmkQ0",
+    "label": "Template for prompt: Create an admin lte ",
+    "dateAdded": "2023-12-30T17:40:03.740Z"
+  },
+  {
+    "url": "https://v0.dev/t/yKZooXL5m1F",
+    "label": "Template for prompt: Write me simple python gui",
+    "dateAdded": "2023-12-30T17:40:03.740Z"
+  },
+  {
+    "url": "https://v0.dev/t/FtDNoBKbc8R",
+    "label": "Template for prompt: ecommerce product page",
+    "dateAdded": "2023-12-30T17:40:03.740Z"
+  },
+  {
+    "url": "https://v0.dev/t/gckfVFvVD9W",
+    "label": "Template for prompt: Can you design a better layout based on the initial one content \"\"\" <div className=\"flex-grow flex items-center justify-center p-8\">\n                    <div className=\"w-full max-w-xl mx-auto\">\n                        <h2 className=\"text-3xl font-bold\">{finalPlot.name}</h2>\n                        <p className=\"mt-2 text-lg\">{finalPlot.logline}</p>\n                        <p className=\"mt-4\">{finalPlot.description}</p>\n                    </div>\n                </div>\"\"\"",
+    "dateAdded": "2023-12-30T17:40:03.740Z"
+  },
+  {
+    "url": "https://v0.dev/t/ObRHPvZcymW",
+    "label": "Template for prompt: login modal",
+    "dateAdded": "2023-12-30T17:40:03.741Z"
+  },
+  {
+    "url": "https://v0.dev/t/VoaY2N0iIhd",
+    "label": "Template for prompt: یک سایت  رزومه و نمونه کار ریسپانسیو و پویا طراحی کن",
+    "dateAdded": "2023-12-30T17:40:03.741Z"
+  },
+  {
+    "url": "https://v0.dev/t/kW6HCLZh8Hl",
+    "label": "Template for prompt: a UI for a no-code backend APIs builder that generates real fastAPI code using just a user prompt",
+    "dateAdded": "2023-12-30T17:40:03.741Z"
+  },
+  {
+    "url": "https://v0.dev/t/SxJ8vQzTT0e",
+    "label": "Template for prompt: give me a gallery slider only with bootstrap",
+    "dateAdded": "2023-12-30T17:40:03.741Z"
+  },
+  {
+    "url": "https://v0.dev/t/ROpam9TFnhN",
+    "label": "Template for prompt: Create a desktop UI with a taskbar that features app icons in the middle, a start button for the start page like Windows, time and battery indicators on the right, and wifi, volume, and other relevant settings. Utilize React components and Tailwind CSS/Shadow UI to create a responsive and visually appealing interface. Incorporate various icons and buttons to enhance the user experience and make navigation intuitive.",
+    "dateAdded": "2023-12-30T17:40:03.741Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zraz6xKmYyY",
+    "label": "Template for prompt:  A python code that will record the output the keyboard as txt file ",
+    "dateAdded": "2023-12-30T17:40:03.742Z"
+  },
+  {
+    "url": "https://v0.dev/t/gk34SOzfElB",
+    "label": "Template for prompt: Create a website ",
+    "dateAdded": "2023-12-30T17:40:03.742Z"
+  },
+  {
+    "url": "https://v0.dev/t/IwosjMRsf8s",
+    "label": "Template for prompt: A UI for selecting an area on a map to return geographic constraits for latitude and longitude map data",
+    "dateAdded": "2023-12-30T17:40:03.742Z"
+  },
+  {
+    "url": "https://v0.dev/t/cN9LQehw9MY",
+    "label": "Template for prompt: a projects page in a web developer's portfolio.",
+    "dateAdded": "2023-12-30T17:40:03.742Z"
+  },
+  {
+    "url": "https://v0.dev/t/0EXWySwDTgN",
+    "label": "Template for prompt: Create a website ",
+    "dateAdded": "2023-12-30T17:40:03.742Z"
+  },
+  {
+    "url": "https://v0.dev/t/r4mP3uEGA6C",
+    "label": "Template for prompt: Hero section home page or a real estate buy/sell website ",
+    "dateAdded": "2023-12-30T17:40:03.743Z"
+  },
+  {
+    "url": "https://v0.dev/t/h2fvnp8UjYv",
+    "label": "Template for prompt: a UI that generates backend APIs using just a user prompt. returns actual backend code that can be downloaded and deployed. ",
+    "dateAdded": "2023-12-30T17:40:03.743Z"
+  },
+  {
+    "url": "https://v0.dev/t/oqGclqzWVSa",
+    "label": "Template for prompt: a neon with glassmorphism loading bar on the center of the screen",
+    "dateAdded": "2023-12-30T17:40:03.743Z"
   }
 ]
