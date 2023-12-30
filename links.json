@@ -64513,5 +64513,120 @@
     "url": "https://v0.dev/t/BDq6cBJII44",
     "label": "Template for prompt: a two column hero banner",
     "dateAdded": "2023-12-30T19:55:03.186Z"
+  },
+  {
+    "url": "https://v0.dev/t/RCpcQZEsMQS",
+    "label": "Template for prompt: O componente de diálogo atribui um coletor a um ponto em uma aplicação web. Ele exibe uma lista de coletores obtida de uma API em um formulário dentro de um <dialog>. O usuário pode:\n\nSelecionar um coletor e confirmar a atribuição.\nCancelar ou continuar a operação se um coletor já estiver atribuído ao ponto.\nDesfazer a operação se mudar de ideia.\nO componente:\n\nFornece feedback visual e sonoro sobre o status da operação.\nUsa uma linguagem simples e familiar para o usuário.\nSegue os padrões de design da aplicação web.\nPrevine erros de atribuição, validando os dados e mostrando mensagens de erro claras e úteis.\nPermite a navegação pelo formulário com o teclado ou o mouse.\nÉ consistente e padronizado com os outros componentes da aplicação web.\nÉ personalizável, permitindo alterar os atributos, estilos e eventos do <dialog> e do formulário.",
+    "dateAdded": "2023-12-30T20:00:03.003Z"
+  },
+  {
+    "url": "https://v0.dev/t/yQeudmgndFu",
+    "label": "Template for prompt: create a page showcasing the research of a human machine teaming & neuroscience lab",
+    "dateAdded": "2023-12-30T20:00:03.003Z"
+  },
+  {
+    "url": "https://v0.dev/t/fDmWG41i0Tz",
+    "label": "Template for prompt: Code the card with the corners",
+    "dateAdded": "2023-12-30T20:00:03.003Z"
+  },
+  {
+    "url": "https://v0.dev/t/TUW4LoEOGpQ",
+    "label": "Template for prompt: Video Cards with Title, Description, Length and Upload Date",
+    "dateAdded": "2023-12-30T20:00:03.003Z"
+  },
+  {
+    "url": "https://v0.dev/t/tqXq0ikvq6p",
+    "label": "Template for prompt: a Thank you for your order page with an image",
+    "dateAdded": "2023-12-30T20:00:03.003Z"
+  },
+  {
+    "url": "https://v0.dev/t/le9LVNDopUi",
+    "label": "Template for prompt: A webapp challenge poster to track my 100 days english challenge, show as challenge poster",
+    "dateAdded": "2023-12-30T20:00:03.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/8dVzgl4KFPm",
+    "label": "Template for prompt: copy this landing page -- https://collabstr.com/",
+    "dateAdded": "2023-12-30T20:00:03.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z8FpgMUd6KF",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T20:00:03.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/g9bFKGR7XDW",
+    "label": "Template for prompt: Create a mobile profile page for a real life dating app that matches people that are on at the same event",
+    "dateAdded": "2023-12-30T20:00:03.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/nZM2dCPjI9x",
+    "label": "Template for prompt: A landing page for a honey ecommerce",
+    "dateAdded": "2023-12-30T20:00:03.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/ytsEjUd60c7",
+    "label": "Template for prompt: کدشو بهم بده",
+    "dateAdded": "2023-12-30T20:00:03.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/A3Ykn9W00r1",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders and a sepearate section where people can place orders as esily as possible",
+    "dateAdded": "2023-12-30T20:00:03.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/3XC7K32u2TP",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T20:00:03.005Z"
+  },
+  {
+    "url": "https://v0.dev/t/NJ3TCiwWpIN",
+    "label": "Template for prompt: A landing page for the devolopers chat app named \"devoloperz\"",
+    "dateAdded": "2023-12-30T20:00:03.005Z"
+  },
+  {
+    "url": "https://v0.dev/t/dSNCtLoZjh1",
+    "label": "Template for prompt: Global Site\nCreate Account\n\nCreator App\nJust ask and Request\nNeed Help with Unlimited Now?\nWe are here to help with onboarding your business or brand. Reach out to us or stop by to receive a live demo of our products.\n\n\n Email support@unlimitpotential.com\n Local 404-590-8181\n\nBusiness owner?\nWe welcome you to let our sales team guide you through our creative process. We look forward to helping your business grow & scale with data-driven decision making.\n\n\nContent creator?\nWe are here because of hard work, it does pay off. Don't settle for less join our crew we are committed to collaborating with every member in our community.\n\n\n\nDecision maker?\nManage your agency or brand with total confidence using our powerful software. Designed to help you focus on the bigger picture.\n\n Schedule an appointment Book us\n Support +1 765 571 3433\n Email support@unlimitpotential.com\nContact us\n\"Fine art is that in which the hand, the head, and the heart of man go together.\" John Ruskin, Architect\n\nOffice",
+    "dateAdded": "2023-12-30T20:00:03.005Z"
+  },
+  {
+    "url": "https://v0.dev/t/FwruPhMvlfT",
+    "label": "Template for prompt: create a profile settings on dashboard",
+    "dateAdded": "2023-12-30T20:00:03.005Z"
+  },
+  {
+    "url": "https://v0.dev/t/XbWy2cqEIHy",
+    "label": "Template for prompt: A landing page for the devolopers chat app named \"devoloperz\"",
+    "dateAdded": "2023-12-30T20:00:03.005Z"
+  },
+  {
+    "url": "https://v0.dev/t/ukHeFafDJGN",
+    "label": "Template for prompt: A shadcn table column filter component for strings. This should be a popover content, and allow the user to select \"not null\" or \"null\" for the string, as well as a shadcn slider to specify the min or max length of the string.",
+    "dateAdded": "2023-12-30T20:00:03.005Z"
+  },
+  {
+    "url": "https://v0.dev/t/GpEXxCNnneh",
+    "label": "Template for prompt: code ?",
+    "dateAdded": "2023-12-30T20:00:03.005Z"
+  },
+  {
+    "url": "https://v0.dev/t/Xt5IZDNGjrW",
+    "label": "Template for prompt: A dashboard with a black sidebar and a box inside to change organization",
+    "dateAdded": "2023-12-30T20:00:03.005Z"
+  },
+  {
+    "url": "https://v0.dev/t/qwCvVb6U0DH",
+    "label": "Template for prompt: کد این صفحه رو بده",
+    "dateAdded": "2023-12-30T20:00:03.005Z"
+  },
+  {
+    "url": "https://v0.dev/t/lwv7D3gtRhu",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T20:00:03.006Z"
+  },
+  {
+    "url": "https://v0.dev/t/vsDgnRJIl4A",
+    "label": "Template for prompt: A landing page for a domain ragistrar with search",
+    "dateAdded": "2023-12-30T20:00:03.006Z"
   }
 ]
