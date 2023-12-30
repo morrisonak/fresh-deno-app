@@ -49723,5 +49723,130 @@
     "url": "https://v0.dev/t/1PHBIiZKhxW",
     "label": "Template for prompt: text entry box like the one on v0.dev",
     "dateAdded": "2023-12-30T00:00:03.505Z"
+  },
+  {
+    "url": "https://v0.dev/t/79S7fZllywD",
+    "label": "Template for prompt: a really beautiful table that has two columns date and status (present or abssent)",
+    "dateAdded": "2023-12-30T00:05:03.599Z"
+  },
+  {
+    "url": "https://v0.dev/t/ReEa53fZvSq",
+    "label": "Template for prompt: a dashboard with sidebar and header, colors: {\n    'text': '#f6f8f9',\n    'background': '#05080a',\n    'primary': '#4588b5',\n    'secondary': '#1c4a69',\n    'accent': '#1c6fab',\n   }",
+    "dateAdded": "2023-12-30T00:05:03.600Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y8Nmh0hYgz3",
+    "label": "Template for prompt: A character presentationpage for an rpgsm-strategy game that present a unit with all its stats and characteristics. Sober and celestial.",
+    "dateAdded": "2023-12-30T00:05:03.600Z"
+  },
+  {
+    "url": "https://v0.dev/t/YyNKuT3tcQK",
+    "label": "Template for prompt: Genera una pagina reproductora de musica con sus respectivos controles y la lista de reproduccion",
+    "dateAdded": "2023-12-30T00:05:03.600Z"
+  },
+  {
+    "url": "https://v0.dev/t/2kKwxxdXurP",
+    "label": "Template for prompt: A gacha game hub with tabs along the bottom",
+    "dateAdded": "2023-12-30T00:05:03.600Z"
+  },
+  {
+    "url": "https://v0.dev/t/TqPKZ5wUwzG",
+    "label": "Template for prompt: Make a function for a dropdown box like this where you can search for all the option, select and deselect options without the box closing, and you can select multiple option with a check mark appeaering when you select",
+    "dateAdded": "2023-12-30T00:05:03.600Z"
+  },
+  {
+    "url": "https://v0.dev/t/0SbgcWJiiL7",
+    "label": "Template for prompt: A sci fi futuristic dashboard for code editing with syntax highlighting and code result pane. ",
+    "dateAdded": "2023-12-30T00:05:03.600Z"
+  },
+  {
+    "url": "https://v0.dev/t/TXnhDZVe9L9",
+    "label": "Template for prompt: A visually impressive user profile login site",
+    "dateAdded": "2023-12-30T00:05:03.601Z"
+  },
+  {
+    "url": "https://v0.dev/t/tv8W56hs3kd",
+    "label": "Template for prompt: create contact formulaire",
+    "dateAdded": "2023-12-30T00:05:03.601Z"
+  },
+  {
+    "url": "https://v0.dev/t/ujaywjtV9f1",
+    "label": "Template for prompt: A gacha game hub",
+    "dateAdded": "2023-12-30T00:05:03.601Z"
+  },
+  {
+    "url": "https://v0.dev/t/qFnOFUhca4r",
+    "label": "Template for prompt: A gacha game hub",
+    "dateAdded": "2023-12-30T00:05:03.601Z"
+  },
+  {
+    "url": "https://v0.dev/t/G274t8wKMj6",
+    "label": "Template for prompt: A product card for a Discord Bot",
+    "dateAdded": "2023-12-30T00:05:03.601Z"
+  },
+  {
+    "url": "https://v0.dev/t/36k5KF50a7I",
+    "label": "Template for prompt: A product card for a Discord Bot",
+    "dateAdded": "2023-12-30T00:05:03.601Z"
+  },
+  {
+    "url": "https://v0.dev/t/fzJicpj3eRT",
+    "label": "Template for prompt: url shortner landing page just like the image and   with the following specifics : Primary:\n- Cyan: hsl(180, 66%, 49%)\n- Dark Violet: hsl(257, 27%, 26%)\nSecondary:\n- Red: hsl(0, 87%, 67%)\nNeutral\n- Gray: hsl(0, 0%, 75%)\n- Grayish Violet: hsl(257, 7%, 63%)\n- Very Dark Blue: hsl(255, 11%, 22%)\n- Very Dark Violet: hsl(260, 8%, 14%)\nTypography:\n Body Copy:\n- Font size: 18px\nFonts:\n- Family: [Poppins](https://fonts.google.com/specimen/Poppins)\n- Weights: 500, 700",
+    "dateAdded": "2023-12-30T00:05:03.602Z"
+  },
+  {
+    "url": "https://v0.dev/t/fhdHeaGGizj",
+    "label": "Template for prompt: make a pricing table with a one time fee now and then another fee after completion",
+    "dateAdded": "2023-12-30T00:05:03.602Z"
+  },
+  {
+    "url": "https://v0.dev/t/zbmaxEhwoRu",
+    "label": "Template for prompt: Can you create me a page which has the heading \"My weaponry\" which has a carrousel of images below it\"",
+    "dateAdded": "2023-12-30T00:05:03.602Z"
+  },
+  {
+    "url": "https://v0.dev/t/Agsawn6LRDI",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T00:05:03.602Z"
+  },
+  {
+    "url": "https://v0.dev/t/0HxOPorzdhr",
+    "label": "Template for prompt: a footer with the 24h Vol: in ETH and the price of $OP and $ETH on the right and user account options on the left. use the same fonts as in the image.",
+    "dateAdded": "2023-12-30T00:05:03.602Z"
+  },
+  {
+    "url": "https://v0.dev/t/dpqrNFX5tXJ",
+    "label": "Template for prompt: A \"code sandbox\" component that shows code with line numbers and syntax highlighting along with a panel to display the output. Neo futurist style with smooth neons.",
+    "dateAdded": "2023-12-30T00:05:03.602Z"
+  },
+  {
+    "url": "https://v0.dev/t/vmRbeCp40EU",
+    "label": "Template for prompt: a clinical trial questionnaire builder dashboard",
+    "dateAdded": "2023-12-30T00:05:03.602Z"
+  },
+  {
+    "url": "https://v0.dev/t/ksKqOev0UOn",
+    "label": "Template for prompt: a really super cool developper personal webpage",
+    "dateAdded": "2023-12-30T00:05:03.602Z"
+  },
+  {
+    "url": "https://v0.dev/t/OPWMFh6OOZ7",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-30T00:05:03.603Z"
+  },
+  {
+    "url": "https://v0.dev/t/DmTFmCutJAW",
+    "label": "Template for prompt: A page which says \"Feel free to connect with me on socials\" as a welcome message, then has social media icon buttons ",
+    "dateAdded": "2023-12-30T00:05:03.603Z"
+  },
+  {
+    "url": "https://v0.dev/t/5TqbDY1ULDX",
+    "label": "Template for prompt: A Power BI report showing sales trends over time and by product category",
+    "dateAdded": "2023-12-30T00:05:03.603Z"
+  },
+  {
+    "url": "https://v0.dev/t/jrpeSoMkIDi",
+    "label": "Template for prompt: A dashboard for tracking prop bets",
+    "dateAdded": "2023-12-30T00:05:03.603Z"
   }
 ]
