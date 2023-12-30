@@ -56668,5 +56668,135 @@
     "url": "https://v0.dev/t/nNfNxsA2ZlG",
     "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
     "dateAdded": "2023-12-30T04:35:02.725Z"
+  },
+  {
+    "url": "https://v0.dev/t/sRRVcYJ0Lne",
+    "label": "Template for prompt: Signup Form\n\nLogin Form\nThe user can enter username and password. These Fields are mandatory. Both fields are validated using PHP. Login option given separated for four types of users.\n\nChecking Availability\n\nTo check the availability of the seminar hall by Booker\n\nChecking the availability\nAvailability Details\nSeminar hall Booking FormIt contains all required fields for booking seminar halls like booking date, session, Booker name, dept, etc., Here all the fields are validated using JavaScript validation.\n\n\n\n\nIt contains all required fields for booking seminar halls like booking date, session, booker name, dept, etc., Here all the fields are validated using JavaScript validation. For date picker,",
+    "dateAdded": "2023-12-30T04:40:02.768Z"
+  },
+  {
+    "url": "https://v0.dev/t/oBYetYk00i1",
+    "label": "Template for prompt: a landing page for a wordle like app",
+    "dateAdded": "2023-12-30T04:40:02.769Z"
+  },
+  {
+    "url": "https://v0.dev/t/1oiANozTaSW",
+    "label": "Template for prompt: I need to create a top nav component that when mobile is present switches to a sidenav component. Use shadcn sheet component for the side nav when possible.",
+    "dateAdded": "2023-12-30T04:40:02.769Z"
+  },
+  {
+    "url": "https://v0.dev/t/KAApVBLsZvM",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T04:40:02.769Z"
+  },
+  {
+    "url": "https://v0.dev/t/yAasvqhZgce",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-30T04:40:02.769Z"
+  },
+  {
+    "url": "https://v0.dev/t/ePRqwpoI0SP",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-30T04:40:02.769Z"
+  },
+  {
+    "url": "https://v0.dev/t/y5n8ct63LrZ",
+    "label": "Template for prompt: A software house homepage",
+    "dateAdded": "2023-12-30T04:40:02.770Z"
+  },
+  {
+    "url": "https://v0.dev/t/RjQenQJFtwn",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T04:40:02.770Z"
+  },
+  {
+    "url": "https://v0.dev/t/77T8StY3cAG",
+    "label": "Template for prompt: a dashboard page with title, summarization and a big box at the bottom for the chatbot. A text trasncribe at the right which has the audio file included at its top",
+    "dateAdded": "2023-12-30T04:40:02.770Z"
+  },
+  {
+    "url": "https://v0.dev/t/g0aaQR88PRr",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T04:40:02.770Z"
+  },
+  {
+    "url": "https://v0.dev/t/4bySGGU23Wg",
+    "label": "Template for prompt: I want table component in website",
+    "dateAdded": "2023-12-30T04:40:02.770Z"
+  },
+  {
+    "url": "https://v0.dev/t/0MvylVaACC6",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-30T04:40:02.771Z"
+  },
+  {
+    "url": "https://v0.dev/t/QuGv1ZqUUCz",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T04:40:02.771Z"
+  },
+  {
+    "url": "https://v0.dev/t/l0QuKVHHAdK",
+    "label": "Template for prompt: a page in an elegant black and white websites that will have a dashboard embeded in it",
+    "dateAdded": "2023-12-30T04:40:02.771Z"
+  },
+  {
+    "url": "https://v0.dev/t/GH6jLyr0XDb",
+    "label": "Template for prompt: an ecommerce site for kids books",
+    "dateAdded": "2023-12-30T04:40:02.771Z"
+  },
+  {
+    "url": "https://v0.dev/t/xkoCuNCED31",
+    "label": "Template for prompt: A Web3 Mint Page, use chakra-ui",
+    "dateAdded": "2023-12-30T04:40:02.772Z"
+  },
+  {
+    "url": "https://v0.dev/t/VQL3ZbU4LBV",
+    "label": "Template for prompt: a testimonial section",
+    "dateAdded": "2023-12-30T04:40:02.772Z"
+  },
+  {
+    "url": "https://v0.dev/t/D9WDrXRzajN",
+    "label": "Template for prompt: Generate this UI ",
+    "dateAdded": "2023-12-30T04:40:02.772Z"
+  },
+  {
+    "url": "https://v0.dev/t/wQoWdCbLVJY",
+    "label": "Template for prompt: make me a footer with links and menu",
+    "dateAdded": "2023-12-30T04:40:02.772Z"
+  },
+  {
+    "url": "https://v0.dev/t/rQQMsWdsgIc",
+    "label": "Template for prompt: a hero section of a website calleds Dati per tutti in black mode ",
+    "dateAdded": "2023-12-30T04:40:02.772Z"
+  },
+  {
+    "url": "https://v0.dev/t/8I3nIsaJJP9",
+    "label": "Template for prompt: A card with tabs to switch between 'transfers', 'payouts', and 'refunds'",
+    "dateAdded": "2023-12-30T04:40:02.773Z"
+  },
+  {
+    "url": "https://v0.dev/t/mxsaTkkdnxo",
+    "label": "Template for prompt: A toolbar followed by a table. THe toolbar should let you create records and configure the view of the tabler ",
+    "dateAdded": "2023-12-30T04:40:02.773Z"
+  },
+  {
+    "url": "https://v0.dev/t/pHGXAhuoNIp",
+    "label": "Template for prompt: Dashboard with dark background to show a summary of all running activities on top and a feed of activities with more granular detail below.",
+    "dateAdded": "2023-12-30T04:40:02.773Z"
+  },
+  {
+    "url": "https://v0.dev/t/q5PWLiv1VQD",
+    "label": "Template for prompt: generate pure html css code to make this webpage use flexbox for better arrangements",
+    "dateAdded": "2023-12-30T04:40:02.773Z"
+  },
+  {
+    "url": "https://v0.dev/t/cA5gpBtVxvb",
+    "label": "Template for prompt: A dashboard with sidebar and menus ",
+    "dateAdded": "2023-12-30T04:40:02.774Z"
+  },
+  {
+    "url": "https://v0.dev/t/BIbvaKO849B",
+    "label": "Template for prompt: A saas a single meditation page that includes a video, title, and description",
+    "dateAdded": "2023-12-30T04:40:02.776Z"
   }
 ]
