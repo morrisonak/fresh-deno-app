@@ -58068,5 +58068,135 @@
     "url": "https://v0.dev/t/a0mDNz97Om4",
     "label": "Template for prompt: User Input Module: This will be the initial interface where users can upload or draw their sketches, images, and drawings. It would have the following features:\n\nAn upload button for importing files. Output panels from the Ai model, Directional panels with selective object redirect.",
     "dateAdded": "2023-12-30T05:30:02.983Z"
+  },
+  {
+    "url": "https://v0.dev/t/9H6CQTTQbZQ",
+    "label": "Template for prompt: create a footer like that",
+    "dateAdded": "2023-12-30T05:35:12.705Z"
+  },
+  {
+    "url": "https://v0.dev/t/hLcF4ua24JV",
+    "label": "Template for prompt: landingpage for a social platfrom make eye catching and detailed use single color theme black and white",
+    "dateAdded": "2023-12-30T05:35:12.705Z"
+  },
+  {
+    "url": "https://v0.dev/t/v6sSw1t23lf",
+    "label": "Template for prompt: logged in user dashboard where they have a side panel on the left with a projects tab button, so they can select a project where the dashboard would jump in the project view",
+    "dateAdded": "2023-12-30T05:35:12.705Z"
+  },
+  {
+    "url": "https://v0.dev/t/uH7Mg0oAM5a",
+    "label": "Template for prompt: admin dashboard for ecommerce website ",
+    "dateAdded": "2023-12-30T05:35:12.705Z"
+  },
+  {
+    "url": "https://v0.dev/t/VZfwzeMH3cg",
+    "label": "Template for prompt: landing page",
+    "dateAdded": "2023-12-30T05:35:12.705Z"
+  },
+  {
+    "url": "https://v0.dev/t/nexl5mK0W1G",
+    "label": "Template for prompt: A fully responsive landing page for a liquor management application using react js and tailwind css",
+    "dateAdded": "2023-12-30T05:35:12.705Z"
+  },
+  {
+    "url": "https://v0.dev/t/GhYf8upsY8w",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T05:35:12.706Z"
+  },
+  {
+    "url": "https://v0.dev/t/vHMVFaVvDwT",
+    "label": "Template for prompt: Alcohol Tracker Home Page",
+    "dateAdded": "2023-12-30T05:35:12.706Z"
+  },
+  {
+    "url": "https://v0.dev/t/sZ4fX2koyao",
+    "label": "Template for prompt: A fully responsive landing page for a liquor management application using react js and tailwind css",
+    "dateAdded": "2023-12-30T05:35:12.706Z"
+  },
+  {
+    "url": "https://v0.dev/t/5bfQ4vLvzFJ",
+    "label": "Template for prompt: Prepaid Card Platform",
+    "dateAdded": "2023-12-30T05:35:12.706Z"
+  },
+  {
+    "url": "https://v0.dev/t/BeGkR6exN52",
+    "label": "Template for prompt: create homepage main section",
+    "dateAdded": "2023-12-30T05:35:12.706Z"
+  },
+  {
+    "url": "https://v0.dev/t/oXDlj2tba7M",
+    "label": "Template for prompt: Design with next, tailwind and shadcn",
+    "dateAdded": "2023-12-30T05:35:12.707Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZX6WBmapNtu",
+    "label": "Template for prompt: 一个可以上传Excel。并预览其内容的页面",
+    "dateAdded": "2023-12-30T05:35:12.707Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZiwX2N34RhJ",
+    "label": "Template for prompt: A landing page hero section in dark mode with a heading, leading text and an opt-in form. three buttons with a boarder in a bright diagonal gradient from blue to indigo to violett to magenta 1 Client 2 Team 3 Support. three blog entries about visual experience design",
+    "dateAdded": "2023-12-30T05:35:12.707Z"
+  },
+  {
+    "url": "https://v0.dev/t/2M5QGGm8weZ",
+    "label": "Template for prompt: Design with nexjs, tailwind and shadcn",
+    "dateAdded": "2023-12-30T05:35:12.707Z"
+  },
+  {
+    "url": "https://v0.dev/t/iO7tpIIQ4wR",
+    "label": "Template for prompt: create this hero section",
+    "dateAdded": "2023-12-30T05:35:12.707Z"
+  },
+  {
+    "url": "https://v0.dev/t/LKl64Pvb0kR",
+    "label": "Template for prompt: Output Generation Module: Based on the processed input and metadata, this module will generate contextual images, and variations in characters, scenes, and actions. It would include:\n\nAn AI-powered generator that creates variations of the input while maintaining the original context.\nTools for users to refine the AI's output, such as sliders for adjusting the variation intensity or checkboxes for selecting elements to change or keep.",
+    "dateAdded": "2023-12-30T05:35:12.707Z"
+  },
+  {
+    "url": "https://v0.dev/t/KfjQETeXGGm",
+    "label": "Template for prompt: Output Generation Module: Based on the processed input and metadata, this module will generate contextual images, and variations in characters, scenes, and actions. It would include:\n\nAn AI-powered generator that creates variations of the input while maintaining the original context.\nTools for users to refine the AI's output, such as sliders for adjusting the variation intensity or checkboxes for selecting elements to change or keep.",
+    "dateAdded": "2023-12-30T05:35:12.707Z"
+  },
+  {
+    "url": "https://v0.dev/t/hqiArxWgYbQ",
+    "label": "Template for prompt: new task managment",
+    "dateAdded": "2023-12-30T05:35:12.707Z"
+  },
+  {
+    "url": "https://v0.dev/t/chQmsYpjnXx",
+    "label": "Template for prompt: freelance page",
+    "dateAdded": "2023-12-30T05:35:12.708Z"
+  },
+  {
+    "url": "https://v0.dev/t/wPd721OgXTn",
+    "label": "Template for prompt: A expandable sidebar like visual studio",
+    "dateAdded": "2023-12-30T05:35:12.708Z"
+  },
+  {
+    "url": "https://v0.dev/t/a0mDNz97Om4",
+    "label": "Template for prompt: User Input Module: This will be the initial interface where users can upload or draw their sketches, images, and drawings. It would have the following features:\n\nAn upload button for importing files. Output panels from the Ai model, Directional panels with selective object redirect.",
+    "dateAdded": "2023-12-30T05:35:12.708Z"
+  },
+  {
+    "url": "https://v0.dev/t/lJflGE5pPt2",
+    "label": "Template for prompt: Design with nextjs, tailwind and shadcn",
+    "dateAdded": "2023-12-30T05:35:12.708Z"
+  },
+  {
+    "url": "https://v0.dev/t/ViedXViefXS",
+    "label": "Template for prompt: Design with nextjs, tailwind and shadcn. Design as it is in the image",
+    "dateAdded": "2023-12-30T05:35:12.708Z"
+  },
+  {
+    "url": "https://v0.dev/t/Id6tZBdoRPm",
+    "label": "Template for prompt: Create this input field in a form:\n1. Full name (First and Last name)\n2. Mobile Number\n3. Flat, House no., Building, Company, Apartment\n4. Area, Street, Sector, Village\n5. Landmark \"placeholder is Eg. near apollo hospital\"\n6. Pincode  \"placeholder is 6 digits [0-9] PIN code\n7. Town/City\n8. State \nMobile number should be only number with max 10 digits\nState should be dropdown\nPincode should be number only with max 6 digits\nFull name,mobile number,Flat, House no., Building, Company, Apartment , Pincode, Town/City,State is required field",
+    "dateAdded": "2023-12-30T05:35:12.708Z"
+  },
+  {
+    "url": "https://v0.dev/t/wrGG9cHYXWs",
+    "label": "Template for prompt: A Web3 activity home page, two sections, the first section has left and right two parts, the left part is a NFG logo, the right part is the activity description. the second section has multiple character introductions.",
+    "dateAdded": "2023-12-30T05:35:12.708Z"
   }
 ]
