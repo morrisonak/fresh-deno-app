@@ -64873,5 +64873,125 @@
     "url": "https://v0.dev/t/Pz5eAFDiLlA",
     "label": "Template for prompt: Design this page with html,css,js with full animation",
     "dateAdded": "2023-12-30T20:10:04.135Z"
+  },
+  {
+    "url": "https://v0.dev/t/J4fKO6frDtf",
+    "label": "Template for prompt: a hero grid layout for a eye clinic with one part containing opening hours for telephones and another part containing instructions and directions",
+    "dateAdded": "2023-12-30T20:15:02.602Z"
+  },
+  {
+    "url": "https://v0.dev/t/XdTpBS1Uegd",
+    "label": "Template for prompt: A user dashboard for a datapack creation website showing their saved projects ",
+    "dateAdded": "2023-12-30T20:15:02.602Z"
+  },
+  {
+    "url": "https://v0.dev/t/lyDYwzzV9rI",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-30T20:15:02.602Z"
+  },
+  {
+    "url": "https://v0.dev/t/1E1Kjdt9cqw",
+    "label": "Template for prompt: A sticky top nav bar with breadcrumbs on the left and an account menu on the right. Make it look like pixel art.",
+    "dateAdded": "2023-12-30T20:15:02.602Z"
+  },
+  {
+    "url": "https://v0.dev/t/8flbOuuMY6X",
+    "label": "Template for prompt: A blog post list with:\n- only dark mode (no light mode)\n- pastel colors\n- hover on links\n- transitions",
+    "dateAdded": "2023-12-30T20:15:02.602Z"
+  },
+  {
+    "url": "https://v0.dev/t/KxE5i5ikEQb",
+    "label": "Template for prompt: make a top banner that shrinks and sticks on scroll",
+    "dateAdded": "2023-12-30T20:15:02.603Z"
+  },
+  {
+    "url": "https://v0.dev/t/LkGbQXFgJQM",
+    "label": "Template for prompt: I need a simple button component",
+    "dateAdded": "2023-12-30T20:15:02.603Z"
+  },
+  {
+    "url": "https://v0.dev/t/hrk86Md64NO",
+    "label": "Template for prompt: a hierachical list for nested data",
+    "dateAdded": "2023-12-30T20:15:02.603Z"
+  },
+  {
+    "url": "https://v0.dev/t/futYneQCLeu",
+    "label": "Template for prompt: i need a loading animation section for when my site is loading",
+    "dateAdded": "2023-12-30T20:15:02.603Z"
+  },
+  {
+    "url": "https://v0.dev/t/EomY4a2Fc74",
+    "label": "Template for prompt: A dashboard to manage and create new minecraft datapack projects, including loading files, choosing templates, links to help articles, and more.",
+    "dateAdded": "2023-12-30T20:15:02.603Z"
+  },
+  {
+    "url": "https://v0.dev/t/xSwjEFJ3Qu4",
+    "label": "Template for prompt: این صفحه رو طراحی کن",
+    "dateAdded": "2023-12-30T20:15:02.603Z"
+  },
+  {
+    "url": "https://v0.dev/t/mQIizN92nCL",
+    "label": "Template for prompt: code a yt clone",
+    "dateAdded": "2023-12-30T20:15:02.603Z"
+  },
+  {
+    "url": "https://v0.dev/t/YPIKtf73tch",
+    "label": "Template for prompt: Responsive as well on mobile and small devices",
+    "dateAdded": "2023-12-30T20:15:02.603Z"
+  },
+  {
+    "url": "https://v0.dev/t/ezHDkzdaLTB",
+    "label": "Template for prompt: Make me a minimalistic yet elegant login form and style it with tailwind and chadcn",
+    "dateAdded": "2023-12-30T20:15:02.603Z"
+  },
+  {
+    "url": "https://v0.dev/t/qTQie3Mc3PG",
+    "label": "Template for prompt: A dashboard to manage and create new minecraft datapack projects, including loading files, choosing templates, links to help articles, and more.",
+    "dateAdded": "2023-12-30T20:15:02.604Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y7SoAyiSPgy",
+    "label": "Template for prompt: generate a task manager layout",
+    "dateAdded": "2023-12-30T20:15:02.604Z"
+  },
+  {
+    "url": "https://v0.dev/t/dFoGeveWQTJ",
+    "label": "Template for prompt: سلام",
+    "dateAdded": "2023-12-30T20:15:02.604Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ok9qLJs8Yz8",
+    "label": "Template for prompt: Create an area that manages collectors. Collectors are people who go to the field to take samples of land. Based on this, think about the management of this area",
+    "dateAdded": "2023-12-30T20:15:02.604Z"
+  },
+  {
+    "url": "https://v0.dev/t/AQQOm05tw66",
+    "label": "Template for prompt: Generate a public ticket sales page for events with this data: pub struct Event {\n    pub id: i64,\n    pub owner_id: i64,\n    pub name: String,\n    pub about: String,\n    pub cover_photo: Option<String>,\n    pub starts_at: DateTime<Utc>,\n    pub duration: PgInterval,\n    pub location: String,\n    pub capacity: i32,\n    pub price: i32,\n    pub feedback: String,\n    pub created_at: DateTime<Utc>,\n    pub updated_at: Option<DateTime<Utc>>,\n}\n",
+    "dateAdded": "2023-12-30T20:15:02.604Z"
+  },
+  {
+    "url": "https://v0.dev/t/MR9Yp1p1dSw",
+    "label": "Template for prompt: An event ticket sales page",
+    "dateAdded": "2023-12-30T20:15:02.604Z"
+  },
+  {
+    "url": "https://v0.dev/t/DfbToalmIW0",
+    "label": "Template for prompt: Make the same ui",
+    "dateAdded": "2023-12-30T20:15:02.604Z"
+  },
+  {
+    "url": "https://v0.dev/t/7vJBDTvPVBW",
+    "label": "Template for prompt: Dashboard only using HTML and CSS, that has a hamburger menu and 6 options, two of those options are logout and configuration",
+    "dateAdded": "2023-12-30T20:15:02.604Z"
+  },
+  {
+    "url": "https://v0.dev/t/I0FfjpqUwiK",
+    "label": "Template for prompt: A social media post creation app using AI",
+    "dateAdded": "2023-12-30T20:15:02.605Z"
+  },
+  {
+    "url": "https://v0.dev/t/7V3f83Du5kM",
+    "label": "Template for prompt: Update this so the descriptions fit into the page more and look better",
+    "dateAdded": "2023-12-30T20:15:02.605Z"
   }
 ]
