@@ -61373,5 +61373,125 @@
     "url": "https://v0.dev/t/gckfVFvVD9W",
     "label": "Template for prompt: Can you design a better layout based on the initial one content \"\"\" <div className=\"flex-grow flex items-center justify-center p-8\">\n                    <div className=\"w-full max-w-xl mx-auto\">\n                        <h2 className=\"text-3xl font-bold\">{finalPlot.name}</h2>\n                        <p className=\"mt-2 text-lg\">{finalPlot.logline}</p>\n                        <p className=\"mt-4\">{finalPlot.description}</p>\n                    </div>\n                </div>\"\"\"",
     "dateAdded": "2023-12-30T17:45:03.710Z"
+  },
+  {
+    "url": "https://v0.dev/t/nyjWEfU5nOF",
+    "label": "Template for prompt: Design exactly like in image with nextjs, tailwind and shadcn. It is very very important that the design matches the image exactly",
+    "dateAdded": "2023-12-30T17:50:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/iLNbOYOETa9",
+    "label": "Template for prompt: a real estate photography booking application that allows bookings based on location",
+    "dateAdded": "2023-12-30T17:50:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/FlrtFNHdaNF",
+    "label": "Template for prompt: app to read legal articles",
+    "dateAdded": "2023-12-30T17:50:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/wZOIePJNUeI",
+    "label": "Template for prompt: A booking form",
+    "dateAdded": "2023-12-30T17:50:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/MclUlGCmBIQ",
+    "label": "Template for prompt: A single page website with a header, a hero section with a big text claim, a carousel of images, a contact form and a footer with links. Dominant colors are blue, black  and white.",
+    "dateAdded": "2023-12-30T17:50:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/8GGOBh0kRTX",
+    "label": "Template for prompt: A single page website with a header, a hero section with a big text claim, a carousel of images, a contact form and a footer with links. Dominant colors are blue, black  and white.",
+    "dateAdded": "2023-12-30T17:50:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/QQx5X6JspVW",
+    "label": "Template for prompt: Can you code the page using tailwind CSS and make it easy for me to copy the sections and paste in my code?",
+    "dateAdded": "2023-12-30T17:50:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/w5tC73zsFaL",
+    "label": "Template for prompt: Imrpove this hero section",
+    "dateAdded": "2023-12-30T17:50:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/N4MBfP3zwhf",
+    "label": "Template for prompt: make a right side drawer when clicked on menu button on mobile side",
+    "dateAdded": "2023-12-30T17:50:03.144Z"
+  },
+  {
+    "url": "https://v0.dev/t/niBoaqaMuAP",
+    "label": "Template for prompt: a website within a website",
+    "dateAdded": "2023-12-30T17:50:03.144Z"
+  },
+  {
+    "url": "https://v0.dev/t/EuJztqtqfIM",
+    "label": "Template for prompt: Design exactly like in the image with nextjs, tailwindcss and shadcn",
+    "dateAdded": "2023-12-30T17:50:03.144Z"
+  },
+  {
+    "url": "https://v0.dev/t/IeZfWDSQF4Y",
+    "label": "Template for prompt: landing page for online food platform",
+    "dateAdded": "2023-12-30T17:50:03.144Z"
+  },
+  {
+    "url": "https://v0.dev/t/kab4DjRGBO5",
+    "label": "Template for prompt: I want the same more sober and refined and modified design",
+    "dateAdded": "2023-12-30T17:50:03.144Z"
+  },
+  {
+    "url": "https://v0.dev/t/GGNELDrSGKH",
+    "label": "Template for prompt: I want the same more sober and refined and modified design",
+    "dateAdded": "2023-12-30T17:50:03.145Z"
+  },
+  {
+    "url": "https://v0.dev/t/g4qR1uUdYgZ",
+    "label": "Template for prompt: I want the same more sober and refined and modified design",
+    "dateAdded": "2023-12-30T17:50:03.145Z"
+  },
+  {
+    "url": "https://v0.dev/t/BsGlbWIHamS",
+    "label": "Template for prompt: landing page for online food platform",
+    "dateAdded": "2023-12-30T17:50:03.145Z"
+  },
+  {
+    "url": "https://v0.dev/t/om1daF8wshV",
+    "label": "Template for prompt: Design with nextjs, tailwind and shadcn",
+    "dateAdded": "2023-12-30T17:50:03.145Z"
+  },
+  {
+    "url": "https://v0.dev/t/Pz8e3IlIhd9",
+    "label": "Template for prompt: a moder navbar with gradients",
+    "dateAdded": "2023-12-30T17:50:03.145Z"
+  },
+  {
+    "url": "https://v0.dev/t/mSP9BryT2JF",
+    "label": "Template for prompt: Design with nextjs, tailwind and shadcn",
+    "dateAdded": "2023-12-30T17:50:03.146Z"
+  },
+  {
+    "url": "https://v0.dev/t/DUfddoDTM9V",
+    "label": "Template for prompt: accordion with js ",
+    "dateAdded": "2023-12-30T17:50:03.146Z"
+  },
+  {
+    "url": "https://v0.dev/t/zKWMMgbOCQf",
+    "label": "Template for prompt: make a ui component for a poker table with at least 3 but potentially several players. simple display of cards and user icons. and some way of displaying chips. a gui for the poker options fold call and raise",
+    "dateAdded": "2023-12-30T17:50:03.146Z"
+  },
+  {
+    "url": "https://v0.dev/t/69i5j2jKs7w",
+    "label": "Template for prompt: a blog post template",
+    "dateAdded": "2023-12-30T17:50:03.146Z"
+  },
+  {
+    "url": "https://v0.dev/t/R6YCbY4cbvd",
+    "label": "Template for prompt: toggle",
+    "dateAdded": "2023-12-30T17:50:03.146Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z8xC9Zd2gI1",
+    "label": "Template for prompt: Search Bar: Top, for keyword input.\nFilter Bar: Below search bar, with filters:\n\"All filters\": Menu for search refinement.\n\"Industry\": Dropdown to select company industry.\n\"Services Offered\": Filter for company services.\n\"Company Size\": Filter by company size.\n\"Location\": Filter by geographical location.\n\"Ownership\": Filter by ownership type.\n\"Tags\": Filter by specific tags/keywords.\n\"Advanced options\": Dropdown for niche filters.\nCompany Listings: Main area displays company details.\nMap View: Interactive map shows company locations.\nSorting Options: Sort by size, revenue, growth rate.\nPagination: Controls to navigate search pages.\nView Toggle: Switch between list and tile views.\n\n\n\n\n\n\n",
+    "dateAdded": "2023-12-30T17:50:03.146Z"
   }
 ]
