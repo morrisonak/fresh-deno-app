@@ -58198,5 +58198,135 @@
     "url": "https://v0.dev/t/wrGG9cHYXWs",
     "label": "Template for prompt: A Web3 activity home page, two sections, the first section has left and right two parts, the left part is a NFG logo, the right part is the activity description. the second section has multiple character introductions.",
     "dateAdded": "2023-12-30T05:35:12.708Z"
+  },
+  {
+    "url": "https://v0.dev/t/9iIRwSJ3MVT",
+    "label": "Template for prompt: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxEHEhAQEhEVFRAQERUWEBAPExUWExEXFRIWIhUSGBMYKCggGBolGxMTIjEhJiw3Mi4wFx85ODMtNzQtLisBCgoKDg0OGhAQGy0mICUtLTEwLjctLS0vMTctLS0tListLS0tNS0vLTctLS0xNzAvLS0rLS0tLTUrLzAtMi03Lf/AABEIAKgBLAMBEQACEQEDEQH/xAAcAAEAAgIDAQAAAAAAAAAAAAAABAUCAwEGBwj/xABBEAACAQICBQkFBQcDBQAAAAAAAQIDEQQFEhMhMUEGIjJRUmGSobIXU3KBkxRCcZHTByNic7HB0RXS8CQzQ6Lh/8QAGgEBAAIDAQAAAAAAAAAAAAAAAAMEAQIGBf/EACsRAQACAgEDAwMEAgMAAAAAAAABAgMRBBIxQQUhUWGR0RMyobFxgSNC8P/aAAwDAQACEQMRAD8A8TNwAAAAAAAAAAAGyjRlXejGLb6l/wA2G9KWvOqxuWtrRWNzKwp5FVlvcY9zd35F2vpuae+oQTyqR2c1Miqx3OL+bT8zNvTcsdpiWI5dPO1fXoSw7tOLi+/j+D4lHJjvjnV40sVvW0brLUaNgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABLy7BSx81BbFvlLsr/JPx8Fs1+mP9os2WMddy7dhcFHCx0YKy49b72+J0WLFTFXprDyb5bXnctugSNOo0AdTXXw0cQnGSunwf8AVdTNMmOuSvTaNw2rkms7h1LNMveXytvjLbCXX3PvRz3J484b68T2etgzRlrvyhFZMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAd05NYPUUYytzqnOf4fdX5bfmdB6fi6MMT5n3/DxuZl6skx8LXVl5V21zVjWZZiWDpy7EvCyObt9ONCfYl4WY62dIOdYOWJpTWhK8VpR5r3r/wCXRW5dYyYpj",
+    "dateAdded": "2023-12-30T05:40:02.760Z"
+  },
+  {
+    "url": "https://v0.dev/t/o16FYURaBzH",
+    "label": "Template for prompt: Create simple responsive header with left logo and right menu button",
+    "dateAdded": "2023-12-30T05:40:02.760Z"
+  },
+  {
+    "url": "https://v0.dev/t/YAy4vi5nNkY",
+    "label": "Template for prompt: Workflow Outline:\nStory Input and Scripting:\n\nText input areas for storyline development.\nScripting tools with character dialogue, narrative, and direction.\nCharacter and Environment Design:\n\nCharacter creation module with customization options (appearance, outfits, expressions).\nEnvironment builder for setting scenes (cityscapes, interiors).\nAI-Driven Drawing and Illustration:\n\nAI sketching tool for initial character and environment sketches based on text descriptions.\nInking and coloring tools assisted by AI to maintain style consistency.\nPanel Layout and Composition:\n\nDrag-and-drop interface for panel layout.\nAI suggestions for dynamic composition based on story pacing.\nDialogue and Typography:\n\nText bubbles and fonts selection, with AI to suggest placement for readability and aesthetic.\nEditing and Refinement:\n\nAI-assisted editing tools to suggest improvements or alternative art styles.\nLayer management for complex scenes and revisions.\nPreview and Export:",
+    "dateAdded": "2023-12-30T05:40:02.760Z"
+  },
+  {
+    "url": "https://v0.dev/t/YVI8rWSIdPs",
+    "label": "Template for prompt: iphone mockup",
+    "dateAdded": "2023-12-30T05:40:02.761Z"
+  },
+  {
+    "url": "https://v0.dev/t/OoCaUH999M4",
+    "label": "Template for prompt: 页面布局和外观：\n\n顶部导航栏：包含网页的logo或品牌标识，以及导航链接，如首页、关于我们、联系等。\n主要内容区域：页面的主要部分用于展示图片下载功能和相关信息。\n底部区域：包含版权信息、法律声明、隐私政策链接等。\n图片下载功能：\n\n输入框：在主要内容区域的中心位置，提供一个输入框，供用户粘贴要下载的图片链接。\n下载按钮：在输入框旁边，放置一个\"下载\"按钮，用户点击该按钮以开始下载图片。\n下载链接显示：在用户点击下载按钮后，显示一个下载链接，用户可以通过点击链接或复制链接按钮获取图片下载链接。\n次数和剩余次数：\n\n次数统计区域：在主要内容区域的适当位置，展示用户已使用的下载次数和剩余下载次数。可以使用一个卡片或带有图标的区域来突出显示这些信息。\n使用次数更新：每当用户点击下载按钮，使用一次下载次数，页面应即时更新显示的使用次数和剩余次数。\n界面美观和简洁：\n\n使用合适的颜色、字体和图标，以确保页面看起来美观、一致且易于阅读。\n界面布局应简洁明了，避免过多的视觉干扰，使用户能够专注于主要的功能和信息。\n响应式设计：\n\n确保网页在不同屏幕尺寸和设备上具有良好的显示效果。采用响应式设计，使得页面能够自适应不同的屏幕大小和方向。\n错误处理和反馈：\n\n如果用户输入了无效的图片链接或其他错误，提供清晰的错误提示信息，帮助用户纠正问题。\n在下载链接生成后，显示成功的提示消息，指导用户获取下载链接。\n\n",
+    "dateAdded": "2023-12-30T05:40:02.761Z"
+  },
+  {
+    "url": "https://v0.dev/t/JNw72gipICv",
+    "label": "Template for prompt: Create a beautiful responsiv navigation in html css js",
+    "dateAdded": "2023-12-30T05:40:02.761Z"
+  },
+  {
+    "url": "https://v0.dev/t/j1tLyKfytyN",
+    "label": "Template for prompt: Create a beautiful responsiv navigation in html css js",
+    "dateAdded": "2023-12-30T05:40:02.761Z"
+  },
+  {
+    "url": "https://v0.dev/t/oS0x5ouMuMY",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T05:40:02.761Z"
+  },
+  {
+    "url": "https://v0.dev/t/EiJVnTJcHs1",
+    "label": "Template for prompt: A home page with a search bar in the middle and construction imagery in the background. Clean, minimal and modern design and layout.",
+    "dateAdded": "2023-12-30T05:40:02.761Z"
+  },
+  {
+    "url": "https://v0.dev/t/5XxR5ETSpka",
+    "label": "Template for prompt: create a blog card that has blog image, tags description, authors and like counts",
+    "dateAdded": "2023-12-30T05:40:02.761Z"
+  },
+  {
+    "url": "https://v0.dev/t/VjQsRTKBpJ1",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T05:40:02.762Z"
+  },
+  {
+    "url": "https://v0.dev/t/4scpg67Ha95",
+    "label": "Template for prompt: a product details page all the deails about products and suggestions about same product",
+    "dateAdded": "2023-12-30T05:40:02.762Z"
+  },
+  {
+    "url": "https://v0.dev/t/L4c90ZDF2A8",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T05:40:02.762Z"
+  },
+  {
+    "url": "https://v0.dev/t/VZfwzeMH3cg",
+    "label": "Template for prompt: landing page",
+    "dateAdded": "2023-12-30T05:40:02.762Z"
+  },
+  {
+    "url": "https://v0.dev/t/sZ4fX2koyao",
+    "label": "Template for prompt: A fully responsive landing page for a liquor management application using react js and tailwind css",
+    "dateAdded": "2023-12-30T05:40:02.762Z"
+  },
+  {
+    "url": "https://v0.dev/t/9H6CQTTQbZQ",
+    "label": "Template for prompt: create a footer like that",
+    "dateAdded": "2023-12-30T05:40:02.762Z"
+  },
+  {
+    "url": "https://v0.dev/t/v6sSw1t23lf",
+    "label": "Template for prompt: logged in user dashboard where they have a side panel on the left with a projects tab button, so they can select a project where the dashboard would jump in the project view",
+    "dateAdded": "2023-12-30T05:40:02.762Z"
+  },
+  {
+    "url": "https://v0.dev/t/6d2qMIQYOlm",
+    "label": "Template for prompt: 标题和概览：页面的顶部可以包含一个标题，如\"消费卡次数\"，以及一个简要概览区域，显示用户当前的消费卡余额和相关统计信息。\n\n消费卡列表：页面中心部分可以显示用户所有的消费卡列表。对于每张消费卡，可以列出其卡号、名称或其他标识信息，以便用户能够快速识别和选择。\n\n消费记录：针对选定的消费卡，页面下方可以显示该卡的消费记录。每条消费记录可以包括以下信息：\n\n日期和时间：消费发生的日期和时间。\n商家/服务提供商：接受Prepaid Card付款的商家或服务提供商的名称或标识。\n金额：消费的金额或费用。\n交易状态：显示该笔交易的状态，如成功、待处理、失败等。\n详细信息：提供用户点击以查看有关该笔交易的更多详细信息的选项，如交易编号、交易类型等。\n筛选和排序功能：为方便用户浏览和管理消费记录，可以提供筛选和排序功能。用户可以根据日期、金额、交易状态等条件对消费记录进行筛选，并按升序或降序对其进行排序。\n\n搜索功能：为用户提供搜索框，使其能够通过关键词搜索特定的消费记录。这可以帮助用户快速找到特定的交易或商家。\n\n分页或滚动：如果用户的消费记录很多，可以考虑将它们分页显示或采用滚动加载的方式，以便用户能够浏览整个消费记录列表。\n\n导出和打印：为用户提供导出消费记录或将其打印的选项，以便用户可以将其保存为文件或纸质副本。\n\n返回和导航：提供返回按钮或面包屑导航，以便用户可以返回到其他相关页面或重新导航到其他功能。",
+    "dateAdded": "2023-12-30T05:40:02.762Z"
+  },
+  {
+    "url": "https://v0.dev/t/nexl5mK0W1G",
+    "label": "Template for prompt: A fully responsive landing page for a liquor management application using react js and tailwind css",
+    "dateAdded": "2023-12-30T05:40:02.762Z"
+  },
+  {
+    "url": "https://v0.dev/t/uH7Mg0oAM5a",
+    "label": "Template for prompt: admin dashboard for ecommerce website ",
+    "dateAdded": "2023-12-30T05:40:02.762Z"
+  },
+  {
+    "url": "https://v0.dev/t/oXDlj2tba7M",
+    "label": "Template for prompt: Design with next, tailwind and shadcn",
+    "dateAdded": "2023-12-30T05:40:02.763Z"
+  },
+  {
+    "url": "https://v0.dev/t/GhYf8upsY8w",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T05:40:02.763Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZX6WBmapNtu",
+    "label": "Template for prompt: 一个可以上传Excel。并预览其内容的页面",
+    "dateAdded": "2023-12-30T05:40:02.763Z"
+  },
+  {
+    "url": "https://v0.dev/t/hLcF4ua24JV",
+    "label": "Template for prompt: landingpage for a social platfrom make eye catching and detailed use single color theme black and white",
+    "dateAdded": "2023-12-30T05:40:02.763Z"
+  },
+  {
+    "url": "https://v0.dev/t/5bfQ4vLvzFJ",
+    "label": "Template for prompt: Prepaid Card Platform",
+    "dateAdded": "2023-12-30T05:40:02.763Z"
+  },
+  {
+    "url": "https://v0.dev/t/vHMVFaVvDwT",
+    "label": "Template for prompt: Alcohol Tracker Home Page",
+    "dateAdded": "2023-12-30T05:40:02.763Z"
   }
 ]
