@@ -63663,5 +63663,110 @@
     "url": "https://v0.dev/t/sEXXlWprqq7",
     "label": "Template for prompt: a sleek landing page for an saas application",
     "dateAdded": "2023-12-30T19:20:03.531Z"
+  },
+  {
+    "url": "https://v0.dev/t/NXS8A4m9BDG",
+    "label": "Template for prompt: music player",
+    "dateAdded": "2023-12-30T19:25:02.985Z"
+  },
+  {
+    "url": "https://v0.dev/t/yGLpfk5Vz10",
+    "label": "Template for prompt: A dashboard to monitoring rpa apps",
+    "dateAdded": "2023-12-30T19:25:02.985Z"
+  },
+  {
+    "url": "https://v0.dev/t/4q83JdNC9FA",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-30T19:25:02.985Z"
+  },
+  {
+    "url": "https://v0.dev/t/5HBkveSARja",
+    "label": "Template for prompt: import React, { useState, useEffect } from \"react\";\nimport { StyleSheet, Text, View } from \"react-native\";\n\nconst FunnelChart = ({ data }) => {\n  const [values, setValues] = useState([\n    9300,\n    4700,\n    1214,\n    463,\n  ]);\n\n  useEffect(() => {\n    setValues(data);\n  }, [data]);\n\n  return (\n    <View style={styles.container}>\n      <View style={styles.header}>\n        <Text style={styles.title}>Sales Funnel</Text>\n      </View>\n      <View style={styles.funnel}>\n        {values.map((value, index) => (\n          <View key={index} style={styles.stage}>\n            <Text style={styles.value}>{value}</Text>\n          </View>\n        ))}\n      </View>\n    </View>\n  );\n};\n\nconst styles = StyleSheet.create({\n  container: {\n    width: \"100%\",\n    height: 200,\n  },\n  header: {\n    backgroundColor: \"black\",\n    height: 50,\n    padding: 10,\n  },\n  title: {\n    color: \"white\",\n    fontSize: 20,\n    fontWeight: \"bold\",\n  },\n  funnel: {\n    width: \"100%\",\n    height: 150,\n    borderRadius: 10,",
+    "dateAdded": "2023-12-30T19:25:02.986Z"
+  },
+  {
+    "url": "https://v0.dev/t/vQhEYaRgr8q",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-30T19:25:02.986Z"
+  },
+  {
+    "url": "https://v0.dev/t/3LjZVXD65Kd",
+    "label": "Template for prompt: a dialog with a buton action",
+    "dateAdded": "2023-12-30T19:25:02.986Z"
+  },
+  {
+    "url": "https://v0.dev/t/uStnzJRbgOb",
+    "label": "Template for prompt: a price quotation making dashboard with a side bar to display all relevant projects and on-going quotations and the body have  three button to switch between the component page, staffing page and analytics page , drop down menu to add and select the component, below that is a dataframe to display the relevant component list and another subpage to view and add and delete  staffing component and the user have the ability to add staffing component, and another subpage to view the analytics and dashboards",
+    "dateAdded": "2023-12-30T19:25:02.986Z"
+  },
+  {
+    "url": "https://v0.dev/t/n8op1YvG4O1",
+    "label": "Template for prompt: a price quotation making dashboard with a side bar to display all relevant projects and on-going quotations and the body have  three button to switch between the component page, staffing page and analytics page , drop down menu to add and select the component, below that is a dataframe to display the relevant component list and another subpage to view and add and delete  staffing component and the user have the ability to add staffing component, and another subpage to view the analytics and dashboards",
+    "dateAdded": "2023-12-30T19:25:02.986Z"
+  },
+  {
+    "url": "https://v0.dev/t/WGIEt3TOVXX",
+    "label": "Template for prompt: pattern svg background",
+    "dateAdded": "2023-12-30T19:25:02.986Z"
+  },
+  {
+    "url": "https://v0.dev/t/sf0OMq5Gdas",
+    "label": "Template for prompt: homepage for a cloth shop",
+    "dateAdded": "2023-12-30T19:25:02.986Z"
+  },
+  {
+    "url": "https://v0.dev/t/NeMsq3RZDYn",
+    "label": "Template for prompt: profile page",
+    "dateAdded": "2023-12-30T19:25:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/sH9XWb5WEWh",
+    "label": "Template for prompt:  یگ صفحه لاگین برام درست کن",
+    "dateAdded": "2023-12-30T19:25:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/wJkqYdYrc2f",
+    "label": "Template for prompt: a wysiwyg editor",
+    "dateAdded": "2023-12-30T19:25:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q2N9AUNnXnZ",
+    "label": "Template for prompt: a card with title and description and icon",
+    "dateAdded": "2023-12-30T19:25:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/goaeS2g4QlC",
+    "label": "Template for prompt: a SaaS bookmark cards dashboard",
+    "dateAdded": "2023-12-30T19:25:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/X3F2mXGUlLe",
+    "label": "Template for prompt: home page of detection car plate inn frensh csss and html ",
+    "dateAdded": "2023-12-30T19:25:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/nbiNVghNTfr",
+    "label": "Template for prompt: A dashboard complete with a folder structure window on the left, selection of projects on the top left, account information on bottom left and a form for setting up a new image with a label in the middle",
+    "dateAdded": "2023-12-30T19:25:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/qYlNtRPWKBI",
+    "label": "Template for prompt: a landing page for valentine",
+    "dateAdded": "2023-12-30T19:25:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/uu2IttBXMqL",
+    "label": "Template for prompt: An football field where i can display the name of the footballers base on their field position",
+    "dateAdded": "2023-12-30T19:25:02.988Z"
+  },
+  {
+    "url": "https://v0.dev/t/GkJkHBvgpT9",
+    "label": "Template for prompt: ui chatbot made for react with tailwinds",
+    "dateAdded": "2023-12-30T19:25:02.988Z"
+  },
+  {
+    "url": "https://v0.dev/t/89cYcM3eeKz",
+    "label": "Template for prompt: modern chat interface",
+    "dateAdded": "2023-12-30T19:25:02.988Z"
   }
 ]
