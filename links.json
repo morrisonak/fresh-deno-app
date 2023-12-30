@@ -58453,5 +58453,130 @@
     "url": "https://v0.dev/t/5XxR5ETSpka",
     "label": "Template for prompt: create a blog card that has blog image, tags description, authors and like counts",
     "dateAdded": "2023-12-30T05:45:03.596Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ysu7YHZw9OZ",
+    "label": "Template for prompt: create an side by side 20, 20 list items with search bar present at top ",
+    "dateAdded": "2023-12-30T05:50:03.274Z"
+  },
+  {
+    "url": "https://v0.dev/t/TM12takVzZC",
+    "label": "Template for prompt: price comparison page for two bikes",
+    "dateAdded": "2023-12-30T05:50:03.274Z"
+  },
+  {
+    "url": "https://v0.dev/t/VhcfxUR5rkQ",
+    "label": "Template for prompt: make an list items side by side ",
+    "dateAdded": "2023-12-30T05:50:03.275Z"
+  },
+  {
+    "url": "https://v0.dev/t/UJgZJHoXBEI",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T05:50:03.275Z"
+  },
+  {
+    "url": "https://v0.dev/t/Vz3gbOH84KD",
+    "label": "Template for prompt: A rider app to see new rides or deliveries for food or moving people like a taxi, the orders will be shown in a list showing the distance and the type of ride",
+    "dateAdded": "2023-12-30T05:50:03.275Z"
+  },
+  {
+    "url": "https://v0.dev/t/AjEUqW7hSzI",
+    "label": "Template for prompt: A landing page for a ETL streaming parser and transform SaaS",
+    "dateAdded": "2023-12-30T05:50:03.275Z"
+  },
+  {
+    "url": "https://v0.dev/t/t3kFwpydpZF",
+    "label": "Template for prompt: 页面布局和外观：\n\n配色方案：选择一个温暖、舒适的配色方案，例如使用柔和的蓝色、灰色和白色的组合。这将为页面营造出专业、简洁和现代的氛围。\n顶部导航栏：保留一个简洁的顶部导航栏，包含网页的logo或品牌标识。\n主要内容区域：页面的主要部分用于展示图片下载功能和用户次卡信息。\n底部区域：包含版权信息和其他必要的法律声明。\n图片下载功能：\n\n输入框：在主要内容区域的中心位置，提供一个输入框，供用户粘贴要下载的图片链接。\n下载按钮：在输入框旁边，放置一个\"下载\"按钮，用户点击该按钮以开始下载图片。\n下载链接显示：在用户点击下载按钮后，显示一个下载链接，用户可以通过点击链接或复制链接按钮获取图片下载链接。\n用户次卡信息：\n\n次卡信息区域：在主要内容区域的适当位置，创建一个卡片式区域，用于展示用户次卡的相关信息。\n到期时间：在次卡信息区域中显示次卡的到期时间，以提醒用户知道何时次卡将失效。\n剩余次数：在次卡信息区域中显示用户剩余的下载次数，以便用户了解还能进行多少次图片下载。",
+    "dateAdded": "2023-12-30T05:50:03.275Z"
+  },
+  {
+    "url": "https://v0.dev/t/erMQ21aa5rm",
+    "label": "Template for prompt: Create me this form",
+    "dateAdded": "2023-12-30T05:50:03.275Z"
+  },
+  {
+    "url": "https://v0.dev/t/LMZSq6YoJSX",
+    "label": "Template for prompt: Create me this form",
+    "dateAdded": "2023-12-30T05:50:03.276Z"
+  },
+  {
+    "url": "https://v0.dev/t/4jIAhVSkwdc",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T05:50:03.276Z"
+  },
+  {
+    "url": "https://v0.dev/t/dzqT8HSs0Yi",
+    "label": "Template for prompt: card component",
+    "dateAdded": "2023-12-30T05:50:03.276Z"
+  },
+  {
+    "url": "https://v0.dev/t/aaj2f0EtXti",
+    "label": "Template for prompt: A pokemon designer, allowing users to input description and type of the pokemon to generate the idea of a pokemon, and some relevant illustrations, and its base stats",
+    "dateAdded": "2023-12-30T05:50:03.276Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ox9HyGhBp4p",
+    "label": "Template for prompt: create approval form",
+    "dateAdded": "2023-12-30T05:50:03.276Z"
+  },
+  {
+    "url": "https://v0.dev/t/bqnnR65r9XD",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T05:50:03.276Z"
+  },
+  {
+    "url": "https://v0.dev/t/FfVjs7uFadi",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T05:50:03.277Z"
+  },
+  {
+    "url": "https://v0.dev/t/kY7Ms57MG14",
+    "label": "Template for prompt: create hero section ecommerece",
+    "dateAdded": "2023-12-30T05:50:03.277Z"
+  },
+  {
+    "url": "https://v0.dev/t/me9WuMTfKbC",
+    "label": "Template for prompt: create a landings page, based on the design of the screenshot for a visual web designer",
+    "dateAdded": "2023-12-30T05:50:03.277Z"
+  },
+  {
+    "url": "https://v0.dev/t/Js0WyWJVg8j",
+    "label": "Template for prompt: Page 1: Profile pages →\nYou’ll need to create multiple (non-functional mockup) pages for the user system. Here are some of the pages you need to make:\nProfile Dashboard\nUser profile details - name, email, profile photo, bio\nAccount details - current subscription plan & status\nUsage metrics - graphs created, graphs shared, papers collected\nRecent activity feed - show recent graphs, collections, queries\nButtons to create new graphs, share graphs, upload papers\nList of saved graphs with title, date created, preview thumbnail\nLink to Favourites and Collections pages \nCreate New Graph Page\nForm to specify graph title and description\nUpload papers or select from favourites/collections\nConfigure graph settings - layout, colors, etc\nView graph visualization preview\nGraph Details Page\nShow graph title, description, date created\nA button to take them to the graph\nList papers shown in the graph\nProvide buttons to edit (by removing/favouriting papers), share, or delete a graph\nAccount Settings\n",
+    "dateAdded": "2023-12-30T05:50:03.277Z"
+  },
+  {
+    "url": "https://v0.dev/t/9iIRwSJ3MVT",
+    "label": "Template for prompt: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxEHEhAQEhEVFRAQERUWEBAPExUWExEXFRIWIhUSGBMYKCggGBolGxMTIjEhJiw3Mi4wFx85ODMtNzQtLisBCgoKDg0OGhAQGy0mICUtLTEwLjctLS0vMTctLS0tListLS0tNS0vLTctLS0xNzAvLS0rLS0tLTUrLzAtMi03Lf/AABEIAKgBLAMBEQACEQEDEQH/xAAcAAEAAgIDAQAAAAAAAAAAAAAABAUCAwEGBwj/xABBEAACAQICBQkFBQcDBQAAAAAAAQIDEQQFEhMhMUEGIjJRUmGSobIXU3KBkxRCcZHTByNic7HB0RXS8CQzQ6Lh/8QAGgEBAAIDAQAAAAAAAAAAAAAAAAMEAQIGBf/EACsRAQACAgEDAwMEAgMAAAAAAAABAgMRBBIxQQUhUWGR0RMyobFxgSNC8P/aAAwDAQACEQMRAD8A8TNwAAAAAAAAAAAGyjRlXejGLb6l/wA2G9KWvOqxuWtrRWNzKwp5FVlvcY9zd35F2vpuae+oQTyqR2c1Miqx3OL+bT8zNvTcsdpiWI5dPO1fXoSw7tOLi+/j+D4lHJjvjnV40sVvW0brLUaNgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABLy7BSx81BbFvlLsr/JPx8Fs1+mP9os2WMddy7dhcFHCx0YKy49b72+J0WLFTFXprDyb5bXnctugSNOo0AdTXXw0cQnGSunwf8AVdTNMmOuSvTaNw2rkms7h1LNMveXytvjLbCXX3PvRz3J484b68T2etgzRlrvyhFZMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAd05NYPUUYytzqnOf4fdX5bfmdB6fi6MMT5n3/DxuZl6skx8LXVl5V21zVjWZZiWDpy7EvCyObt9ONCfYl4WY62dIOdYOWJpTWhK8VpR5r3r/wCXRW5dYyYpj",
+    "dateAdded": "2023-12-30T05:50:03.277Z"
+  },
+  {
+    "url": "https://v0.dev/t/mdXahkj1PAd",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T05:50:03.277Z"
+  },
+  {
+    "url": "https://v0.dev/t/aeESj1qUF39",
+    "label": "Template for prompt: create jsx component based on the image",
+    "dateAdded": "2023-12-30T05:50:03.277Z"
+  },
+  {
+    "url": "https://v0.dev/t/PNZ8olwZlQE",
+    "label": "Template for prompt: generate css code in developing login page as above",
+    "dateAdded": "2023-12-30T05:50:03.277Z"
+  },
+  {
+    "url": "https://v0.dev/t/3Igv1kFFCuD",
+    "label": "Template for prompt: A copy of Vue homepage",
+    "dateAdded": "2023-12-30T05:50:03.278Z"
+  },
+  {
+    "url": "https://v0.dev/t/o16FYURaBzH",
+    "label": "Template for prompt: Create simple responsive header with left logo and right menu button",
+    "dateAdded": "2023-12-30T05:50:03.278Z"
+  },
+  {
+    "url": "https://v0.dev/t/OoCaUH999M4",
+    "label": "Template for prompt: 页面布局和外观：\n\n顶部导航栏：包含网页的logo或品牌标识，以及导航链接，如首页、关于我们、联系等。\n主要内容区域：页面的主要部分用于展示图片下载功能和相关信息。\n底部区域：包含版权信息、法律声明、隐私政策链接等。\n图片下载功能：\n\n输入框：在主要内容区域的中心位置，提供一个输入框，供用户粘贴要下载的图片链接。\n下载按钮：在输入框旁边，放置一个\"下载\"按钮，用户点击该按钮以开始下载图片。\n下载链接显示：在用户点击下载按钮后，显示一个下载链接，用户可以通过点击链接或复制链接按钮获取图片下载链接。\n次数和剩余次数：\n\n次数统计区域：在主要内容区域的适当位置，展示用户已使用的下载次数和剩余下载次数。可以使用一个卡片或带有图标的区域来突出显示这些信息。\n使用次数更新：每当用户点击下载按钮，使用一次下载次数，页面应即时更新显示的使用次数和剩余次数。\n界面美观和简洁：\n\n使用合适的颜色、字体和图标，以确保页面看起来美观、一致且易于阅读。\n界面布局应简洁明了，避免过多的视觉干扰，使用户能够专注于主要的功能和信息。\n响应式设计：\n\n确保网页在不同屏幕尺寸和设备上具有良好的显示效果。采用响应式设计，使得页面能够自适应不同的屏幕大小和方向。\n错误处理和反馈：\n\n如果用户输入了无效的图片链接或其他错误，提供清晰的错误提示信息，帮助用户纠正问题。\n在下载链接生成后，显示成功的提示消息，指导用户获取下载链接。\n\n",
+    "dateAdded": "2023-12-30T05:50:03.278Z"
   }
 ]
