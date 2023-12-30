@@ -52273,5 +52273,135 @@
     "url": "https://v0.dev/t/0wcoqidk0nD",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2023-12-30T01:40:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/qLTPBnu5CfS",
+    "label": "Template for prompt: create page team",
+    "dateAdded": "2023-12-30T01:45:03.395Z"
+  },
+  {
+    "url": "https://v0.dev/t/bKXO8F6IyRI",
+    "label": "Template for prompt: Please beautiful danger zone, include delete and leave organization action",
+    "dateAdded": "2023-12-30T01:45:03.395Z"
+  },
+  {
+    "url": "https://v0.dev/t/P5k1IYziwEX",
+    "label": "Template for prompt: Please beautiful danger zone, include delete and leave organization action",
+    "dateAdded": "2023-12-30T01:45:03.395Z"
+  },
+  {
+    "url": "https://v0.dev/t/n9yv55Ogq44",
+    "label": "Template for prompt: A table displaying colleges and their info such as state, academic system, courses to graduate, liberal arts (t/f), stem/engineering  (t/f), application deadlines, financial aid, schollarships",
+    "dateAdded": "2023-12-30T01:45:03.395Z"
+  },
+  {
+    "url": "https://v0.dev/t/AW1psUisWXr",
+    "label": "Template for prompt: a chat app with a fruity background",
+    "dateAdded": "2023-12-30T01:45:03.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/YxDqi0tIRaU",
+    "label": "Template for prompt: vercel Payment invoice",
+    "dateAdded": "2023-12-30T01:45:03.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/IU5v2Piv37R",
+    "label": "Template for prompt: Make a profile page with options to edit credentials, but when we click on edit we have to enter our current password. Clean, modern, Use shadcn/ui and tailwind css.",
+    "dateAdded": "2023-12-30T01:45:03.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/2yNE73BzXWZ",
+    "label": "Template for prompt: make a sectionlike this one in react and tailwind",
+    "dateAdded": "2023-12-30T01:45:03.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/BcMhZX2pg4k",
+    "label": "Template for prompt: A luxury fashion brand landing page",
+    "dateAdded": "2023-12-30T01:45:03.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/IjGk6wHI59C",
+    "label": "Template for prompt: I need a form to upload an item infos into supabase. A field for the name of the item, a field for the price of the item, a switch if the item is for sale or not and a drop zone for images to upload. Also a zone between the drop zone and the button to preview the images once downloaded",
+    "dateAdded": "2023-12-30T01:45:03.397Z"
+  },
+  {
+    "url": "https://v0.dev/t/G9veDYqdzVP",
+    "label": "Template for prompt: Vercel paid the Invoice for August 2023 by the name of Shah Meer Email shahmeer@cabbx.com Address 2550 N First Street - Silicon Valley Center in San Jose.",
+    "dateAdded": "2023-12-30T01:45:03.397Z"
+  },
+  {
+    "url": "https://v0.dev/t/TRUBozL8voS",
+    "label": "Template for prompt: dashboard statistic captor",
+    "dateAdded": "2023-12-30T01:45:03.397Z"
+  },
+  {
+    "url": "https://v0.dev/t/eeoKpc8Q2sc",
+    "label": "Template for prompt: recipe generated content",
+    "dateAdded": "2023-12-30T01:45:03.397Z"
+  },
+  {
+    "url": "https://v0.dev/t/v4Vchsr5zhq",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-30T01:45:03.397Z"
+  },
+  {
+    "url": "https://v0.dev/t/DUtvEaBKGU6",
+    "label": "Template for prompt: Create a React component that mimics the UI design presented. The component should be named SpecStatus and include the following features:\n\nA Status Header at the top that displays the current status of the 'Spec' which can either be \"Spec is ready\" or \"Spec is not ready\". This header should dynamically reflect the status based on the state of the component.\n\nA Dropdown Menu beneath the Status Header, with the label \"Spec status\". This dropdown should be implemented using a select HTML element and should contain two option elements: \"Spec is ready\" and \"Spec is not ready\".",
+    "dateAdded": "2023-12-30T01:45:03.398Z"
+  },
+  {
+    "url": "https://v0.dev/t/wGsWbp380aq",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-30T01:45:03.398Z"
+  },
+  {
+    "url": "https://v0.dev/t/ODRAV2uaxH4",
+    "label": "Template for prompt: quiz app with mobile",
+    "dateAdded": "2023-12-30T01:45:03.398Z"
+  },
+  {
+    "url": "https://v0.dev/t/7rqXFwBdWv9",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-30T01:45:03.398Z"
+  },
+  {
+    "url": "https://v0.dev/t/Hktk0exrwBo",
+    "label": "Template for prompt: A pricing page for my SaaS service. Free tier includes 100 screenshots a month, with no AI extraction. $8 a month tier includes 100 screenshots, and AI extraction. $15 a month includes 1000 screenshots and AI extraction",
+    "dateAdded": "2023-12-30T01:45:03.398Z"
+  },
+  {
+    "url": "https://v0.dev/t/AF5EEbTHwW0",
+    "label": "Template for prompt: I want a page with, a card which represents the last race, with at the bottom a list of cards with the finish and start positions during the race on the theme of F1",
+    "dateAdded": "2023-12-30T01:45:03.399Z"
+  },
+  {
+    "url": "https://v0.dev/t/7OOaq0G8POg",
+    "label": "Template for prompt: quiz app with stepper",
+    "dateAdded": "2023-12-30T01:45:03.399Z"
+  },
+  {
+    "url": "https://v0.dev/t/juYiiLVT4Eb",
+    "label": "Template for prompt: this is payment invoice UI screen. payments are done using crypto\n\ndata available:\n\ninvoice:\npayerEmail\npayerName\npayerWallet\ndescription\namountDue\ncurrency\ndueDate\nstatus\ncreatedAt\nupdatedAt\n\nstore:\nid\nuserId\nname\nsafeId\ndescription\ncreatedAt\nupdatedAt",
+    "dateAdded": "2023-12-30T01:45:03.399Z"
+  },
+  {
+    "url": "https://v0.dev/t/v8XeKl6ilHD",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-30T01:45:03.399Z"
+  },
+  {
+    "url": "https://v0.dev/t/a78Upb4NPhA",
+    "label": "Template for prompt: puedes hacer este componente identico",
+    "dateAdded": "2023-12-30T01:45:03.399Z"
+  },
+  {
+    "url": "https://v0.dev/t/b438fYFnXL8",
+    "label": "Template for prompt: A stock trading app dashboard showing the user's portfolio and current investment strategy",
+    "dateAdded": "2023-12-30T01:45:03.400Z"
+  },
+  {
+    "url": "https://v0.dev/t/LBUklgh5fFh",
+    "label": "Template for prompt: Ich brauche ein Canvas in dem ich transparent malen kann",
+    "dateAdded": "2023-12-30T01:45:03.400Z"
   }
 ]
