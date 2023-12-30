@@ -64743,5 +64743,135 @@
     "url": "https://v0.dev/t/fDmWG41i0Tz",
     "label": "Template for prompt: Code the card with the corners",
     "dateAdded": "2023-12-30T20:05:03.319Z"
+  },
+  {
+    "url": "https://v0.dev/t/AQQOm05tw66",
+    "label": "Template for prompt: Generate a public ticket sales page for events with this data: pub struct Event {\n    pub id: i64,\n    pub owner_id: i64,\n    pub name: String,\n    pub about: String,\n    pub cover_photo: Option<String>,\n    pub starts_at: DateTime<Utc>,\n    pub duration: PgInterval,\n    pub location: String,\n    pub capacity: i32,\n    pub price: i32,\n    pub feedback: String,\n    pub created_at: DateTime<Utc>,\n    pub updated_at: Option<DateTime<Utc>>,\n}\n",
+    "dateAdded": "2023-12-30T20:10:04.131Z"
+  },
+  {
+    "url": "https://v0.dev/t/dFoGeveWQTJ",
+    "label": "Template for prompt: سلام",
+    "dateAdded": "2023-12-30T20:10:04.131Z"
+  },
+  {
+    "url": "https://v0.dev/t/kTMu4wZLWuo",
+    "label": "Template for prompt: Create an area that manages collectors. Collectors are people who go to the field to take samples of land. Based on this, think about the management of this area",
+    "dateAdded": "2023-12-30T20:10:04.131Z"
+  },
+  {
+    "url": "https://v0.dev/t/7vJBDTvPVBW",
+    "label": "Template for prompt: Dashboard only using HTML and CSS, that has a hamburger menu and 6 options, two of those options are logout and configuration",
+    "dateAdded": "2023-12-30T20:10:04.131Z"
+  },
+  {
+    "url": "https://v0.dev/t/I0FfjpqUwiK",
+    "label": "Template for prompt: A social media post creation app using AI",
+    "dateAdded": "2023-12-30T20:10:04.131Z"
+  },
+  {
+    "url": "https://v0.dev/t/DfbToalmIW0",
+    "label": "Template for prompt: Make the same ui",
+    "dateAdded": "2023-12-30T20:10:04.131Z"
+  },
+  {
+    "url": "https://v0.dev/t/MR9Yp1p1dSw",
+    "label": "Template for prompt: An event ticket sales page",
+    "dateAdded": "2023-12-30T20:10:04.132Z"
+  },
+  {
+    "url": "https://v0.dev/t/SafWTar37li",
+    "label": "Template for prompt: Create a card titled \"Uploader Config\". There should be a configuration field. On the left, there should be a text input called \"Subdomain\". In the middle, there should be a dropdown choice called \"Domain\". On the right, there should be a text input called \"Path\". Under these, there should be two boolean fields called \"Randomize Filename\" and \"Video to GIF\"",
+    "dateAdded": "2023-12-30T20:10:04.132Z"
+  },
+  {
+    "url": "https://v0.dev/t/g0BhNv7RfM7",
+    "label": "Template for prompt: a dark themed version of this",
+    "dateAdded": "2023-12-30T20:10:04.132Z"
+  },
+  {
+    "url": "https://v0.dev/t/7V3f83Du5kM",
+    "label": "Template for prompt: Update this so the descriptions fit into the page more and look better",
+    "dateAdded": "2023-12-30T20:10:04.132Z"
+  },
+  {
+    "url": "https://v0.dev/t/2cbQgrBCZjz",
+    "label": "Template for prompt: Can you give me a search box and under it a react table?",
+    "dateAdded": "2023-12-30T20:10:04.133Z"
+  },
+  {
+    "url": "https://v0.dev/t/umwrIW1A1He",
+    "label": "Template for prompt: my favorite lyrics web",
+    "dateAdded": "2023-12-30T20:10:04.133Z"
+  },
+  {
+    "url": "https://v0.dev/t/AwqABPVXm4F",
+    "label": "Template for prompt: A gallery page that has room for multiple products that have modal gaLLeries",
+    "dateAdded": "2023-12-30T20:10:04.133Z"
+  },
+  {
+    "url": "https://v0.dev/t/983vMCu2Cjj",
+    "label": "Template for prompt: میخوام یک صفحه سایت معرفی فیلم و سریال برام طراحی کنی مثل این",
+    "dateAdded": "2023-12-30T20:10:04.133Z"
+  },
+  {
+    "url": "https://v0.dev/t/dXpvgUaY09B",
+    "label": "Template for prompt: a design for meme generator application",
+    "dateAdded": "2023-12-30T20:10:04.133Z"
+  },
+  {
+    "url": "https://v0.dev/t/EdAvu7VpAJs",
+    "label": "Template for prompt: a mobile screen to create a new vehicle damage report.\nit contains an image, a title and a description",
+    "dateAdded": "2023-12-30T20:10:04.134Z"
+  },
+  {
+    "url": "https://v0.dev/t/2YGsr1KTJeq",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T20:10:04.134Z"
+  },
+  {
+    "url": "https://v0.dev/t/BvzkmMGjBx7",
+    "label": "Template for prompt: airbnb for funerals",
+    "dateAdded": "2023-12-30T20:10:04.134Z"
+  },
+  {
+    "url": "https://v0.dev/t/74PISiUwzQ4",
+    "label": "Template for prompt: a dark mode toggle with a sun and moon icon for light and dark mode respectively, which everytime the color mode changes, the icons move up or down accordingly",
+    "dateAdded": "2023-12-30T20:10:04.134Z"
+  },
+  {
+    "url": "https://v0.dev/t/GnwgIPVDXSh",
+    "label": "Template for prompt: Website that aggregates computer science events such as Hackathons, CTFs, GameJams. Targeted mainly to university students and towards in-person and hybrid events",
+    "dateAdded": "2023-12-30T20:10:04.134Z"
+  },
+  {
+    "url": "https://v0.dev/t/NDAnryxXDG7",
+    "label": "Template for prompt: a simple component for inviting friends to an app",
+    "dateAdded": "2023-12-30T20:10:04.134Z"
+  },
+  {
+    "url": "https://v0.dev/t/5tAtmply7Bj",
+    "label": "Template for prompt: build a contact us ",
+    "dateAdded": "2023-12-30T20:10:04.135Z"
+  },
+  {
+    "url": "https://v0.dev/t/tAD1vmvKhdm",
+    "label": "Template for prompt: build a dashboard like shadcn ui (https://ui.shadcn.com/examples/dashboard)",
+    "dateAdded": "2023-12-30T20:10:04.135Z"
+  },
+  {
+    "url": "https://v0.dev/t/mDNrJjn9INL",
+    "label": "Template for prompt: generate close to this but not to be clear copy https://wishwell.io/",
+    "dateAdded": "2023-12-30T20:10:04.135Z"
+  },
+  {
+    "url": "https://v0.dev/t/sP5aTv8VMvY",
+    "label": "Template for prompt: music player",
+    "dateAdded": "2023-12-30T20:10:04.135Z"
+  },
+  {
+    "url": "https://v0.dev/t/Pz5eAFDiLlA",
+    "label": "Template for prompt: Design this page with html,css,js with full animation",
+    "dateAdded": "2023-12-30T20:10:04.135Z"
   }
 ]
