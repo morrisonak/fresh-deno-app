@@ -68148,5 +68148,135 @@
     "url": "https://v0.dev/t/bAKCbdaNeww",
     "label": "Template for prompt: todo app",
     "dateAdded": "2023-12-30T22:20:03.643Z"
+  },
+  {
+    "url": "https://v0.dev/t/bGRAB4rcxfg",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-30T22:25:03.240Z"
+  },
+  {
+    "url": "https://v0.dev/t/yKK33zG9rOi",
+    "label": "Template for prompt: car app wireframe modern mobile",
+    "dateAdded": "2023-12-30T22:25:03.240Z"
+  },
+  {
+    "url": "https://v0.dev/t/15HIHba67vq",
+    "label": "Template for prompt: modern label wit background same color",
+    "dateAdded": "2023-12-30T22:25:03.241Z"
+  },
+  {
+    "url": "https://v0.dev/t/aguNgjutXjS",
+    "label": "Template for prompt: car app wireframe modern mobile",
+    "dateAdded": "2023-12-30T22:25:03.241Z"
+  },
+  {
+    "url": "https://v0.dev/t/vAq247Ub15J",
+    "label": "Template for prompt: Generate a bingo sheet as layed out in the image provided that has a title card containing the name of the bingo game with a subtitle containing the user's lobby name. The card tiles should have the ability to be highlighted when clicked",
+    "dateAdded": "2023-12-30T22:25:03.241Z"
+  },
+  {
+    "url": "https://v0.dev/t/eL22s0FQb2o",
+    "label": "Template for prompt: a landing page for artwork",
+    "dateAdded": "2023-12-30T22:25:03.241Z"
+  },
+  {
+    "url": "https://v0.dev/t/B64lO3h3qzX",
+    "label": "Template for prompt: shadcn ui card",
+    "dateAdded": "2023-12-30T22:25:03.241Z"
+  },
+  {
+    "url": "https://v0.dev/t/hXzU4SDfvJV",
+    "label": "Template for prompt: a header for web site ",
+    "dateAdded": "2023-12-30T22:25:03.242Z"
+  },
+  {
+    "url": "https://v0.dev/t/V44Qre60odL",
+    "label": "Template for prompt: An app that takes a prompt for a Dungeons and Dragons Character and generates a character sheet",
+    "dateAdded": "2023-12-30T22:25:03.242Z"
+  },
+  {
+    "url": "https://v0.dev/t/iEveovkpecV",
+    "label": "Template for prompt: A not found row in a table if ther eis no result for a search",
+    "dateAdded": "2023-12-30T22:25:03.242Z"
+  },
+  {
+    "url": "https://v0.dev/t/haWrctaSU0I",
+    "label": "Template for prompt: سلام خوبی",
+    "dateAdded": "2023-12-30T22:25:03.242Z"
+  },
+  {
+    "url": "https://v0.dev/t/M4a0Ri8eLC2",
+    "label": "Template for prompt: I need a page that has the title \"Permissions\" with some subtitle, then a centered table that on the top right has a button to create",
+    "dateAdded": "2023-12-30T22:25:03.242Z"
+  },
+  {
+    "url": "https://v0.dev/t/i9VW3Q9p6iN",
+    "label": "Template for prompt: modern card",
+    "dateAdded": "2023-12-30T22:25:03.243Z"
+  },
+  {
+    "url": "https://v0.dev/t/JkzahR380ck",
+    "label": "Template for prompt: an interface for clipping a video - include the video, a slider, input boxes for start and end times with labels, and cancel and save buttons",
+    "dateAdded": "2023-12-30T22:25:03.243Z"
+  },
+  {
+    "url": "https://v0.dev/t/UQJHpsbI4hG",
+    "label": "Template for prompt: create a simple modal that asks if you really want to delete invoice with two buttons cancel and yes",
+    "dateAdded": "2023-12-30T22:25:03.243Z"
+  },
+  {
+    "url": "https://v0.dev/t/xiC0vUBBDuZ",
+    "label": "Template for prompt: سلام دوست من",
+    "dateAdded": "2023-12-30T22:25:03.243Z"
+  },
+  {
+    "url": "https://v0.dev/t/9IhgWzgpOt5",
+    "label": "Template for prompt: Can u build something more unique which looks more good something like this ? ",
+    "dateAdded": "2023-12-30T22:25:03.243Z"
+  },
+  {
+    "url": "https://v0.dev/t/p7nKOncor6p",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T22:25:03.243Z"
+  },
+  {
+    "url": "https://v0.dev/t/3vm3Fs0LREC",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-30T22:25:03.243Z"
+  },
+  {
+    "url": "https://v0.dev/t/H2egavqhUlQ",
+    "label": "Template for prompt: a virtual tabletop game finder frontend, it should show multiple ttrpg open games and the informations of that games",
+    "dateAdded": "2023-12-30T22:25:03.243Z"
+  },
+  {
+    "url": "https://v0.dev/t/THOGXRo1o3W",
+    "label": "Template for prompt: a chat component with autocomplete functionality",
+    "dateAdded": "2023-12-30T22:25:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/o2qpHpMrHKI",
+    "label": "Template for prompt: an ai-assissted search input. It should offer suggestions for similar searches, a summary of the first result and then other results in a dropdown so the user does not need to navigate away from the page they are on.",
+    "dateAdded": "2023-12-30T22:25:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/wCE7Radb1VG",
+    "label": "Template for prompt: A chat component as a web component not react",
+    "dateAdded": "2023-12-30T22:25:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/dutVa4D62OB",
+    "label": "Template for prompt: lav en underside til en øjenklinik med behandlingstyper. for hver behandling i listen nedenfor er der 1 til 3 +'er. Du skal tilføje mest SEO venlig tekst til de punkter med flest +'er. Til nogle af punkterne er der tilføjet en lille smule detalje, men du skal lave hver behandlingsform med egen overskrift og beskrivelse:\n\nDiabetes screening, diagnostik +++ \nDiabetikere anbefales at skulle screenes hvert andet år. \n\nGrøn stær diagnostik, screening og behandling +++\ngrøn stær i nær familie (søskende, forældre) - du anbefales at screenes hvert femte år fra du er 40-60 år. Efter 60 år anbefales det at du screenes hvert andet år\n\nØjenlågskirugi ++\nTunge øjenlåg ^\n\nAldersforandringer i nethinden (AMD) +++\nBørneøjneundersøgelser diagnostik, behandling ++\nTårevejslidelser diagnostik ++\nTørre øjne diagnostik og behandling ++\nEfterstær behandling +\nGrå stær undersøgelser +\n",
+    "dateAdded": "2023-12-30T22:25:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/668QHIwKn1q",
+    "label": "Template for prompt: A flat and modern looking image input",
+    "dateAdded": "2023-12-30T22:25:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/fkkgzpVGpdW",
+    "label": "Template for prompt: create a clean darkmode landing page for discord bot with gradiens",
+    "dateAdded": "2023-12-30T22:25:03.245Z"
   }
 ]
