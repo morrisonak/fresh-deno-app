@@ -58968,5 +58968,135 @@
     "url": "https://v0.dev/t/4jIAhVSkwdc",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2023-12-30T06:05:03.035Z"
+  },
+  {
+    "url": "https://v0.dev/t/9T0GDygx6PD",
+    "label": "Template for prompt: gallery for images (if images is more than 5, it should show \"show more\" button)",
+    "dateAdded": "2023-12-30T14:30:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/s4hHHBSw1Hk",
+    "label": "Template for prompt: recreate this underline thing 1:1",
+    "dateAdded": "2023-12-30T14:30:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/MRpccYgTOST",
+    "label": "Template for prompt: landing page review site",
+    "dateAdded": "2023-12-30T14:30:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/rxx1zrm2oNj",
+    "label": "Template for prompt: もっとおしゃれなテーブルにして欲しいです\ntailwindで全て組んでいます",
+    "dateAdded": "2023-12-30T14:30:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/oM7heOMCvea",
+    "label": "Template for prompt: main page promoting Zoom cooking classes",
+    "dateAdded": "2023-12-30T14:30:03.191Z"
+  },
+  {
+    "url": "https://v0.dev/t/SzFxgnOj7gh",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T14:30:03.191Z"
+  },
+  {
+    "url": "https://v0.dev/t/SaWooA1Y6qI",
+    "label": "Template for prompt: Make a website with a frame like this",
+    "dateAdded": "2023-12-30T14:30:03.191Z"
+  },
+  {
+    "url": "https://v0.dev/t/qXh52ZToMdd",
+    "label": "Template for prompt: Make a website with a frame like this",
+    "dateAdded": "2023-12-30T14:30:03.191Z"
+  },
+  {
+    "url": "https://v0.dev/t/SptYEriYvea",
+    "label": "Template for prompt: Make a review site similar to trustpilot.com",
+    "dateAdded": "2023-12-30T14:30:03.191Z"
+  },
+  {
+    "url": "https://v0.dev/t/saSaIqDhbP7",
+    "label": "Template for prompt: 消費者とレストランが余剰食品を共有・寄付できるプラットフォームを提供するアプリにおける、食品一覧表示・検索画面のUIデザインを作成してください。その画面では、位置情報に基づく食品検索とマッチング機能が実装されています。",
+    "dateAdded": "2023-12-30T14:30:03.192Z"
+  },
+  {
+    "url": "https://v0.dev/t/C5WzVaOrCam",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T14:30:03.192Z"
+  },
+  {
+    "url": "https://v0.dev/t/sdgjAz9Nj8F",
+    "label": "Template for prompt: Create a minimalist blog home page based on the drawing. You must follow the layout of the drawing. Tile of the blog is centered and with a subtitle. Links are in a bullet list on the right side. Left side, the circle will be a nice little picture of myself. The blog list is also centered. The footer is clearly delimited.",
+    "dateAdded": "2023-12-30T14:30:03.192Z"
+  },
+  {
+    "url": "https://v0.dev/t/1UevLDTqn4p",
+    "label": "Template for prompt: create an input with with an icon, like search input",
+    "dateAdded": "2023-12-30T14:30:03.192Z"
+  },
+  {
+    "url": "https://v0.dev/t/OnZQPyIT9Pu",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and CTA",
+    "dateAdded": "2023-12-30T14:30:03.192Z"
+  },
+  {
+    "url": "https://v0.dev/t/rCxOz9jPv3a",
+    "label": "Template for prompt: generate the code by using c",
+    "dateAdded": "2023-12-30T14:30:03.192Z"
+  },
+  {
+    "url": "https://v0.dev/t/KINibNNdXPh",
+    "label": "Template for prompt: Experiences page for a developer portfolio for a web dev and a projects page ",
+    "dateAdded": "2023-12-30T14:30:03.192Z"
+  },
+  {
+    "url": "https://v0.dev/t/x3KAzsd92Pz",
+    "label": "Template for prompt: generatea navbar as this but should have a white background and an index",
+    "dateAdded": "2023-12-30T14:30:03.193Z"
+  },
+  {
+    "url": "https://v0.dev/t/JNWHh7yXFAs",
+    "label": "Template for prompt: Create a minimalist blog home page based on the drawing",
+    "dateAdded": "2023-12-30T14:30:03.193Z"
+  },
+  {
+    "url": "https://v0.dev/t/sLZW7Eae4It",
+    "label": "Template for prompt: Email address verified successfully",
+    "dateAdded": "2023-12-30T14:30:03.193Z"
+  },
+  {
+    "url": "https://v0.dev/t/e1uyK2wXDA0",
+    "label": "Template for prompt: generate a code for above one",
+    "dateAdded": "2023-12-30T14:30:03.193Z"
+  },
+  {
+    "url": "https://v0.dev/t/w58AGamxRy2",
+    "label": "Template for prompt: Comming Soon landing page. title is \"남의집\"",
+    "dateAdded": "2023-12-30T14:30:03.193Z"
+  },
+  {
+    "url": "https://v0.dev/t/GsibdIYDfC2",
+    "label": "Template for prompt: make a copy of the following image",
+    "dateAdded": "2023-12-30T14:30:03.193Z"
+  },
+  {
+    "url": "https://v0.dev/t/JohwnUTaKGk",
+    "label": "Template for prompt: a responsive banking web app",
+    "dateAdded": "2023-12-30T14:30:03.193Z"
+  },
+  {
+    "url": "https://v0.dev/t/b3upA7gQhhU",
+    "label": "Template for prompt: make this site better",
+    "dateAdded": "2023-12-30T14:30:03.193Z"
+  },
+  {
+    "url": "https://v0.dev/t/SMBIpzynvdi",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T14:30:03.194Z"
+  },
+  {
+    "url": "https://v0.dev/t/9eZb64df2VM",
+    "label": "Template for prompt: email address verification",
+    "dateAdded": "2023-12-30T14:30:03.194Z"
   }
 ]
