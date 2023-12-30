@@ -69173,5 +69173,135 @@
     "url": "https://v0.dev/t/eBXgyHL9mPc",
     "label": "Template for prompt: home page, navbar has 3 elements \"Home\" \"Login\" \"Sign-up\"",
     "dateAdded": "2023-12-30T23:00:03.895Z"
+  },
+  {
+    "url": "https://v0.dev/t/KpVShjMQMta",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-30T23:05:03.213Z"
+  },
+  {
+    "url": "https://v0.dev/t/EcaMkhlWC9W",
+    "label": "Template for prompt: Code this ui",
+    "dateAdded": "2023-12-30T23:05:03.213Z"
+  },
+  {
+    "url": "https://v0.dev/t/49FDc0YjVkL",
+    "label": "Template for prompt: Create tabs amazing corners each section of tabs ",
+    "dateAdded": "2023-12-30T23:05:03.214Z"
+  },
+  {
+    "url": "https://v0.dev/t/FGbtFbFJ800",
+    "label": "Template for prompt: Convert to html css js exactly",
+    "dateAdded": "2023-12-30T23:05:03.214Z"
+  },
+  {
+    "url": "https://v0.dev/t/V8qwRMqKZEr",
+    "label": "Template for prompt: NYE countdown timer",
+    "dateAdded": "2023-12-30T23:05:03.214Z"
+  },
+  {
+    "url": "https://v0.dev/t/A4yF1x6xzdF",
+    "label": "Template for prompt: A portfolio website for a networking architect",
+    "dateAdded": "2023-12-30T23:05:03.214Z"
+  },
+  {
+    "url": "https://v0.dev/t/9QjOiE1yOul",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-30T23:05:03.214Z"
+  },
+  {
+    "url": "https://v0.dev/t/uasv7N3sMky",
+    "label": "Template for prompt: Email subscription component",
+    "dateAdded": "2023-12-30T23:05:03.215Z"
+  },
+  {
+    "url": "https://v0.dev/t/DiDzPX3KMxa",
+    "label": "Template for prompt: Create a section Create countdown showing days , hours, minutes .. look amazing in the screen with js and tailwind cards ",
+    "dateAdded": "2023-12-30T23:05:03.215Z"
+  },
+  {
+    "url": "https://v0.dev/t/bO4KkHfwk0U",
+    "label": "Template for prompt: Convert to Html css js with some animation",
+    "dateAdded": "2023-12-30T23:05:03.215Z"
+  },
+  {
+    "url": "https://v0.dev/t/nlN3mMeHbEm",
+    "label": "Template for prompt: Create countdown showing days , hours, minutes .. look amazing in the screen ",
+    "dateAdded": "2023-12-30T23:05:03.215Z"
+  },
+  {
+    "url": "https://v0.dev/t/7kyFZ3N9CE6",
+    "label": "Template for prompt: Nav bar for tech blog, options like login, search, new post are abailable",
+    "dateAdded": "2023-12-30T23:05:03.216Z"
+  },
+  {
+    "url": "https://v0.dev/t/FYuEzSlLCDj",
+    "label": "Template for prompt: a advent calendar component where each day is a new page",
+    "dateAdded": "2023-12-30T23:05:03.216Z"
+  },
+  {
+    "url": "https://v0.dev/t/JzHljw0lxu3",
+    "label": "Template for prompt: carousel for testimonials ",
+    "dateAdded": "2023-12-30T23:05:03.216Z"
+  },
+  {
+    "url": "https://v0.dev/t/GB51ifqB4IF",
+    "label": "Template for prompt: a wheel to choose major keys from",
+    "dateAdded": "2023-12-30T23:05:03.216Z"
+  },
+  {
+    "url": "https://v0.dev/t/NTiAjxnCcxC",
+    "label": "Template for prompt: bet prediction ux in bootsrap",
+    "dateAdded": "2023-12-30T23:05:03.216Z"
+  },
+  {
+    "url": "https://v0.dev/t/CkxknPVeKzM",
+    "label": "Template for prompt: Login for a soccer e-commer",
+    "dateAdded": "2023-12-30T23:05:03.216Z"
+  },
+  {
+    "url": "https://v0.dev/t/eG1PfNRWnQT",
+    "label": "Template for prompt: homepage with left sidebar",
+    "dateAdded": "2023-12-30T23:05:03.217Z"
+  },
+  {
+    "url": "https://v0.dev/t/8GfVYZQChGu",
+    "label": "Template for prompt: bet prediction app",
+    "dateAdded": "2023-12-30T23:05:03.217Z"
+  },
+  {
+    "url": "https://v0.dev/t/JzB3m2lKCEK",
+    "label": "Template for prompt: bet prediction app",
+    "dateAdded": "2023-12-30T23:05:03.217Z"
+  },
+  {
+    "url": "https://v0.dev/t/TCdoWpACnFB",
+    "label": "Template for prompt: do a marquee ",
+    "dateAdded": "2023-12-30T23:05:03.217Z"
+  },
+  {
+    "url": "https://v0.dev/t/aCPYPmzGMQV",
+    "label": "Template for prompt: A list of amateur football games. Tiles with address, date and the number of free/taken spots",
+    "dateAdded": "2023-12-30T23:05:03.217Z"
+  },
+  {
+    "url": "https://v0.dev/t/hPCW8pPsBl2",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-30T23:05:03.218Z"
+  },
+  {
+    "url": "https://v0.dev/t/1e0pqkI229p",
+    "label": "Template for prompt: a green and red sorting component",
+    "dateAdded": "2023-12-30T23:05:03.218Z"
+  },
+  {
+    "url": "https://v0.dev/t/GIyOc73DjI8",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T23:05:03.218Z"
+  },
+  {
+    "url": "https://v0.dev/t/J1cbLPahU3P",
+    "label": "Template for prompt: Kafe ve eğlence mekanlarının doluluk oranlarını gösteren, duyuruları ve fırsatlarını yayımlayabilecekleri bir web sitesi",
+    "dateAdded": "2023-12-30T23:05:03.218Z"
   }
 ]
