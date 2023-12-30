@@ -63218,5 +63218,115 @@
     "url": "https://v0.dev/t/q7ls4FvcvMk",
     "label": "Template for prompt: این طرحو با html و css برای من طراحی کن",
     "dateAdded": "2023-12-30T19:00:03.623Z"
+  },
+  {
+    "url": "https://v0.dev/t/1qyimmS7IwM",
+    "label": "Template for prompt: Make me a download page for a friday night funkin mod called \"Zoro's Funky Frenzy\" in the style of ourple guys neocites website for the ourple guy mod.",
+    "dateAdded": "2023-12-30T19:05:03.026Z"
+  },
+  {
+    "url": "https://v0.dev/t/ClYk40JlhRi",
+    "label": "Template for prompt: Fashion model",
+    "dateAdded": "2023-12-30T19:05:03.026Z"
+  },
+  {
+    "url": "https://v0.dev/t/agoUifFTgBV",
+    "label": "Template for prompt:   if url_720p:\n            rand = random.randint(1111 , 999999)\n            file_name = f'Video_{rand}.mp4'\n\n            with requests.get(url_720p , stream= True) as r2 : \n                r.raise_for_status()\n                with open(file_name , 'wb') as f :\n                    for chunk in r.iter_content(chunk_size=8192):\n                        f.write(chunk)\n                        \n                        await callback_query.message.reply_video(video = f'{url_720p}')\n                       \n                        os.remove(file_name)\n        else:\n            await callback_query.message.reply_text('کیفیت 720p در دسترس نیست.')   مشکل این کد چیه",
+    "dateAdded": "2023-12-30T19:05:03.026Z"
+  },
+  {
+    "url": "https://v0.dev/t/FDlufCbPlRF",
+    "label": "Template for prompt: Salesforce with AI design like apple.com",
+    "dateAdded": "2023-12-30T19:05:03.026Z"
+  },
+  {
+    "url": "https://v0.dev/t/DRUIiAH2uGa",
+    "label": "Template for prompt: این طرحو با html و css برای من طراحی کن",
+    "dateAdded": "2023-12-30T19:05:03.027Z"
+  },
+  {
+    "url": "https://v0.dev/t/0GxSgCVLjgU",
+    "label": "Template for prompt: Make an dashboard from administration website ecommerce in reactjs with material ui",
+    "dateAdded": "2023-12-30T19:05:03.027Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q6dLO4eY0oY",
+    "label": "Template for prompt: product card",
+    "dateAdded": "2023-12-30T19:05:03.027Z"
+  },
+  {
+    "url": "https://v0.dev/t/xl1eIJfcYcM",
+    "label": "Template for prompt: A webapp to track my 100 days english challenge ",
+    "dateAdded": "2023-12-30T19:05:03.027Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZjhinlIfkAl",
+    "label": "Template for prompt: A carousel with products and link to the product",
+    "dateAdded": "2023-12-30T19:05:03.027Z"
+  },
+  {
+    "url": "https://v0.dev/t/hbPTwnEZwbX",
+    "label": "Template for prompt: African film industry network",
+    "dateAdded": "2023-12-30T19:05:03.028Z"
+  },
+  {
+    "url": "https://v0.dev/t/HPyBltxg70D",
+    "label": "Template for prompt: Creare a home for a healthfull app",
+    "dateAdded": "2023-12-30T19:05:03.028Z"
+  },
+  {
+    "url": "https://v0.dev/t/uKQc4I5EnxP",
+    "label": "Template for prompt: 有创意的个人简历",
+    "dateAdded": "2023-12-30T19:05:03.028Z"
+  },
+  {
+    "url": "https://v0.dev/t/J30q6qPKR8Y",
+    "label": "Template for prompt: This is a system what I need is to create something like this not the design but the system ",
+    "dateAdded": "2023-12-30T19:05:03.028Z"
+  },
+  {
+    "url": "https://v0.dev/t/3P2zUSfT9pW",
+    "label": "Template for prompt: Make a great looking landing page with an animated background that looks similiar to the reference image",
+    "dateAdded": "2023-12-30T19:05:03.029Z"
+  },
+  {
+    "url": "https://v0.dev/t/VrTjLNlCScP",
+    "label": "Template for prompt: A platform to my 100 days challenge of english",
+    "dateAdded": "2023-12-30T19:05:03.029Z"
+  },
+  {
+    "url": "https://v0.dev/t/11K1mm4bUoA",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T19:05:03.029Z"
+  },
+  {
+    "url": "https://v0.dev/t/bUt1wCGdSAH",
+    "label": "Template for prompt: I want a navar for protafolio when links are :  Me , projects, knowing, blog and twitter",
+    "dateAdded": "2023-12-30T19:05:03.029Z"
+  },
+  {
+    "url": "https://v0.dev/t/1b6GWIu5eX3",
+    "label": "Template for prompt: A site about graphic design",
+    "dateAdded": "2023-12-30T19:05:03.029Z"
+  },
+  {
+    "url": "https://v0.dev/t/yq8BJQnrJPX",
+    "label": "Template for prompt: make me an administrator dashboard for a company setram, the admin only handles the creation of users (agents and clients) on the left there is a sidebar that has the id and pfp of the connected admin and under it there are a few buttons for the creation of agents users and change the password of a user or agent also the creation of a new admin account, and in the main page there are 2 squares that each have a guage one indicates the number of subscription requests and the other indicated the number of active subscription, make it a guage the second one is a ratio of the firs one ",
+    "dateAdded": "2023-12-30T19:05:03.029Z"
+  },
+  {
+    "url": "https://v0.dev/t/a4I01CwMyMB",
+    "label": "Template for prompt: a profile card with attributes in the range from0-100 3x and 2 attribute ranges -50 +50 range a single number with an round slider ",
+    "dateAdded": "2023-12-30T19:05:03.030Z"
+  },
+  {
+    "url": "https://v0.dev/t/FSHiCXwfLkR",
+    "label": "Template for prompt: Side-by-side comparison of two cars",
+    "dateAdded": "2023-12-30T19:05:03.030Z"
+  },
+  {
+    "url": "https://v0.dev/t/TDYWQiOIjgy",
+    "label": "Template for prompt: an angular layout that has a header and burger menu on mobile view for settings",
+    "dateAdded": "2023-12-30T19:05:03.030Z"
   }
 ]
