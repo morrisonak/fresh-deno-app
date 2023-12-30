@@ -50103,5 +50103,130 @@
     "url": "https://v0.dev/t/36k5KF50a7I",
     "label": "Template for prompt: A product card for a Discord Bot",
     "dateAdded": "2023-12-30T00:15:02.855Z"
+  },
+  {
+    "url": "https://v0.dev/t/NbM2igXtU9A",
+    "label": "Template for prompt: Car sales landing page\n",
+    "dateAdded": "2023-12-30T00:20:03.924Z"
+  },
+  {
+    "url": "https://v0.dev/t/E6fpf8rbRKH",
+    "label": "Template for prompt: Crea una página web relacionada con la animación  y lo audiovisual",
+    "dateAdded": "2023-12-30T00:20:03.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/pVzBvfu1tA0",
+    "label": "Template for prompt: ecommerce login page",
+    "dateAdded": "2023-12-30T00:20:03.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/JOzYHBJKgfU",
+    "label": "Template for prompt: Authism web app who manage the current therapies ",
+    "dateAdded": "2023-12-30T00:20:03.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/lUTEyBkXio2",
+    "label": "Template for prompt: a blog site",
+    "dateAdded": "2023-12-30T00:20:03.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/vD63Al69YJu",
+    "label": "Template for prompt: A movie streaming website Home page",
+    "dateAdded": "2023-12-30T00:20:03.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/YIpxiGMNHlR",
+    "label": "Template for prompt: donne moi un tableau d'historique ou le client pourras voir ses ancienne commendes , il auras un bouton pour laisser des commentaires et un autres pour acheter ",
+    "dateAdded": "2023-12-30T00:20:03.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/bk34rN8yMdd",
+    "label": "Template for prompt: a calculator",
+    "dateAdded": "2023-12-30T00:20:03.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/j4OId5RwVyk",
+    "label": "Template for prompt: a section to upload files and render uploaded files",
+    "dateAdded": "2023-12-30T00:20:03.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/A7INw6lEEJa",
+    "label": "Template for prompt: page react native sign up for professionnnal on online booking marketplace; with this interface :\ninterface IProvider {\n    email: string;\n    phone: string;\n    name: string;\n    description?: string;\n    healthAndSafetyMeasures?: string[];\n    serviceAtHome?: boolean;\n  }  ",
+    "dateAdded": "2023-12-30T00:20:03.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/W8E02ynqsdb",
+    "label": "Template for prompt: Design this with nextjs + tailwind + shadcn",
+    "dateAdded": "2023-12-30T00:20:03.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/CuvTHM17aGb",
+    "label": "Template for prompt: a dashboard with sidebar and header, colors: {\n    'text': '#f6f8f9',\n    'background': '#05080a',\n    'primary': '#4588b5',\n    'secondary': '#1c4a69',\n    'accent': '#1c6fab',\n   }",
+    "dateAdded": "2023-12-30T00:20:03.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/yhdlp85YrQ8",
+    "label": "Template for prompt: e library website",
+    "dateAdded": "2023-12-30T00:20:03.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/Aw5C0ukZ6aQ",
+    "label": "Template for prompt: Can you build me a. webpage that has a list of a trainers programs. The program will have a price, image, title, description, and possibly a video",
+    "dateAdded": "2023-12-30T00:20:03.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/M3qCe3haDOO",
+    "label": "Template for prompt: an edit email and username form with validations, in a card",
+    "dateAdded": "2023-12-30T00:20:03.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/ReEa53fZvSq",
+    "label": "Template for prompt: a dashboard with sidebar and header, colors: {\n    'text': '#f6f8f9',\n    'background': '#05080a',\n    'primary': '#4588b5',\n    'secondary': '#1c4a69',\n    'accent': '#1c6fab',\n   }",
+    "dateAdded": "2023-12-30T00:20:03.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/kjIV8E3I0FK",
+    "label": "Template for prompt: create eligibility form with checkbox slider radio input",
+    "dateAdded": "2023-12-30T00:20:03.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/WeidbEgoEOX",
+    "label": "Template for prompt: A navigation bar for a dashboard to a prop betting analysis platform",
+    "dateAdded": "2023-12-30T00:20:03.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/M95jxzqJyA3",
+    "label": "Template for prompt: dashboard that shows an intro section, roadmap, and expected bugs",
+    "dateAdded": "2023-12-30T00:20:03.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y8Nmh0hYgz3",
+    "label": "Template for prompt: A character presentationpage for an rpgsm-strategy game that present a unit with all its stats and characteristics. Sober and celestial.",
+    "dateAdded": "2023-12-30T00:20:03.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/DQhesJovMKS",
+    "label": "Template for prompt: create a responsive carousel card, on desktop 3 cards, medium 2 cards and on mobile 1 card. \nI want previous and next navigation arrows under the carsoule and both on the right ",
+    "dateAdded": "2023-12-30T00:20:03.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/TqPKZ5wUwzG",
+    "label": "Template for prompt: Make a function for a dropdown box like this where you can search for all the option, select and deselect options without the box closing, and you can select multiple option with a check mark appeaering when you select",
+    "dateAdded": "2023-12-30T00:20:03.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/v0efQ9eqo3t",
+    "label": "Template for prompt: a dashboard like this ",
+    "dateAdded": "2023-12-30T00:20:03.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/smjcBvA3FKt",
+    "label": "Template for prompt: SignIn form with forgot password",
+    "dateAdded": "2023-12-30T00:20:03.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/79S7fZllywD",
+    "label": "Template for prompt: a really beautiful table that has two columns date and status (present or abssent)",
+    "dateAdded": "2023-12-30T00:20:03.927Z"
   }
 ]
