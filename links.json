@@ -65863,5 +65863,120 @@
     "url": "https://v0.dev/t/9DAYd1OKYEZ",
     "label": "Template for prompt: side bar",
     "dateAdded": "2023-12-30T20:50:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/2tR9mbrOIHt",
+    "label": "Template for prompt: Sidebar with searchable list",
+    "dateAdded": "2023-12-30T20:55:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/6B0wkQh3TUi",
+    "label": "Template for prompt: Marketplace website that sells personalized ornaments",
+    "dateAdded": "2023-12-30T20:55:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/OPX0Fwxp3ka",
+    "label": "Template for prompt: Sidebar with searchable list",
+    "dateAdded": "2023-12-30T20:55:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/uZ0nEOWlmBp",
+    "label": "Template for prompt: airbnb for yoga classes",
+    "dateAdded": "2023-12-30T20:55:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/7MdORvKTJTi",
+    "label": "Template for prompt: با این بک گراند برام صفحه لاگین بزن",
+    "dateAdded": "2023-12-30T20:55:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/dmKpQIJc2Sy",
+    "label": "Template for prompt: A ui for the app named \"aron\" themed earn money with simple doing simple thinks",
+    "dateAdded": "2023-12-30T20:55:02.955Z"
+  },
+  {
+    "url": "https://v0.dev/t/OGoOoZuHDqu",
+    "label": "Template for prompt: create simple table for admin where he can see users and some table switcher to see other table with orders where he can change the state of order maybe dropdown. Table with users should have name email and role. Orders should have order number, date, total price and state",
+    "dateAdded": "2023-12-30T20:55:02.955Z"
+  },
+  {
+    "url": "https://v0.dev/t/5rop8TTpXyx",
+    "label": "Template for prompt: notification component with buttons to approve or reject",
+    "dateAdded": "2023-12-30T20:55:02.955Z"
+  },
+  {
+    "url": "https://v0.dev/t/kOv4ppJmogB",
+    "label": "Template for prompt: an horizontal sliding gallery where each item is composed of two columns, the left column has a title and description and the right column shows a video",
+    "dateAdded": "2023-12-30T20:55:02.955Z"
+  },
+  {
+    "url": "https://v0.dev/t/Cvg02vx4wNJ",
+    "label": "Template for prompt: Wide image, title, 4 paragraphs of text and button call to action",
+    "dateAdded": "2023-12-30T20:55:02.955Z"
+  },
+  {
+    "url": "https://v0.dev/t/kIGB7Ece2kr",
+    "label": "Template for prompt: Page for a consultancy with 4 different services. Each service has a wide image header, title, description of 4 paragraphs of text and a button to contact for more information",
+    "dateAdded": "2023-12-30T20:55:02.956Z"
+  },
+  {
+    "url": "https://v0.dev/t/xh9a0ccQ8tN",
+    "label": "Template for prompt: Create a button, which opens a fullscreen modal to show a list of audio recordings, the butoon needs to be compact , yet clearly show that it will show a list of recordings, text is fine too. Make the button a little of matte finish..",
+    "dateAdded": "2023-12-30T20:55:02.956Z"
+  },
+  {
+    "url": "https://v0.dev/t/saonlAGZyPi",
+    "label": "Template for prompt: flashy hero with background image and fun sparkly title in the middle",
+    "dateAdded": "2023-12-30T20:55:02.956Z"
+  },
+  {
+    "url": "https://v0.dev/t/xr4dNK7FHNr",
+    "label": "Template for prompt: A landing page for a makerspace",
+    "dateAdded": "2023-12-30T20:55:02.956Z"
+  },
+  {
+    "url": "https://v0.dev/t/5RPEt9pHTYt",
+    "label": "Template for prompt: <!DOCTYPE html>\n<html lang=\"tr\">\n\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>BayHolmen</title>\n    <link rel=\"stylesheet\" href=\"style.css\">\n    <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/2.0.0/uicons-brands/css/uicons-brands.css'>\n  <!--  <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css\" /> -->\n    <link rel=\"icon\" href=\"https://cdn.discordapp.com/attachments/1008337732176707644/1186250282011729990/logolu.png?ex=659290aa&is=65801baa&hm=43b2be5ca48e72ac4737ab38bb04d27b49ee4f1f47b7dd385c28c3eb60784e55&\">\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js\"></script>\n</head>\n\n<body>\n\n    <!-- navbar -->\n    <header>\n        <div class=\"logo-container\">\n            <img src=\"https://cdn.discordapp.com/attachments/1008337732176707644/1186250282011729990/logolu.png?ex=659290aa&is=65801baa&hm=43b2be5ca48e72ac4737ab",
+    "dateAdded": "2023-12-30T20:55:02.956Z"
+  },
+  {
+    "url": "https://v0.dev/t/neriZtqiX6D",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-30T20:55:02.957Z"
+  },
+  {
+    "url": "https://v0.dev/t/2O4tSozHIHe",
+    "label": "Template for prompt: minimalist website for artist to simply and plainly list images of fine hand build furniture with very simple price tags",
+    "dateAdded": "2023-12-30T20:55:02.957Z"
+  },
+  {
+    "url": "https://v0.dev/t/Pkd8zshUrBJ",
+    "label": "Template for prompt: A filter with two Select dropdown and a button in a row",
+    "dateAdded": "2023-12-30T20:55:02.957Z"
+  },
+  {
+    "url": "https://v0.dev/t/u42XporC3bK",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T20:55:02.957Z"
+  },
+  {
+    "url": "https://v0.dev/t/0Qu1g3o9P6u",
+    "label": "Template for prompt: add a button to read the cooking instructions before the 'learn to cook on youtube' button and add a or text between the two buttons",
+    "dateAdded": "2023-12-30T20:55:02.957Z"
+  },
+  {
+    "url": "https://v0.dev/t/rL595CsBCwN",
+    "label": "Template for prompt: کد این سایت رو بهم بده",
+    "dateAdded": "2023-12-30T20:55:02.957Z"
+  },
+  {
+    "url": "https://v0.dev/t/PvOvePBjQfT",
+    "label": "Template for prompt: A dashboard with an expandable and collapsible left sidebar",
+    "dateAdded": "2023-12-30T20:55:02.958Z"
+  },
+  {
+    "url": "https://v0.dev/t/ENjNSUgsqwi",
+    "label": "Template for prompt: یک ساعت انالوگ طراحی کن که زمان حال رو نشان دهد و درست و دقیق بر اساس ساعت محلی تنظیم شود",
+    "dateAdded": "2023-12-30T20:55:02.958Z"
   }
 ]
