@@ -64628,5 +64628,120 @@
     "url": "https://v0.dev/t/vsDgnRJIl4A",
     "label": "Template for prompt: A landing page for a domain ragistrar with search",
     "dateAdded": "2023-12-30T20:00:03.006Z"
+  },
+  {
+    "url": "https://v0.dev/t/JV9AyTSKV5C",
+    "label": "Template for prompt: i want an animated cart icon in the navbar which animate when an item is added to cart",
+    "dateAdded": "2023-12-30T20:05:03.316Z"
+  },
+  {
+    "url": "https://v0.dev/t/2YGsr1KTJeq",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T20:05:03.316Z"
+  },
+  {
+    "url": "https://v0.dev/t/5tAtmply7Bj",
+    "label": "Template for prompt: build a contact us ",
+    "dateAdded": "2023-12-30T20:05:03.317Z"
+  },
+  {
+    "url": "https://v0.dev/t/daZfaSt71ff",
+    "label": "Template for prompt: a dashboard with an automatic carousel (contain 3 images)",
+    "dateAdded": "2023-12-30T20:05:03.317Z"
+  },
+  {
+    "url": "https://v0.dev/t/kYN6ctJydBv",
+    "label": "Template for prompt: generate close to this but not to be clear copy https://wishwell.io/",
+    "dateAdded": "2023-12-30T20:05:03.317Z"
+  },
+  {
+    "url": "https://v0.dev/t/kMw5FM4QhnS",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form. devolopers themed",
+    "dateAdded": "2023-12-30T20:05:03.317Z"
+  },
+  {
+    "url": "https://v0.dev/t/mDNrJjn9INL",
+    "label": "Template for prompt: generate close to this but not to be clear copy https://wishwell.io/",
+    "dateAdded": "2023-12-30T20:05:03.317Z"
+  },
+  {
+    "url": "https://v0.dev/t/2iOZJbF5ogG",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T20:05:03.317Z"
+  },
+  {
+    "url": "https://v0.dev/t/Pz5eAFDiLlA",
+    "label": "Template for prompt: Design this page with html,css,js with full animation",
+    "dateAdded": "2023-12-30T20:05:03.317Z"
+  },
+  {
+    "url": "https://v0.dev/t/PmW1Y3HPK6g",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T20:05:03.317Z"
+  },
+  {
+    "url": "https://v0.dev/t/M58nRHGIIJn",
+    "label": "Template for prompt: Card with gradient background, image, title and button",
+    "dateAdded": "2023-12-30T20:05:03.318Z"
+  },
+  {
+    "url": "https://v0.dev/t/gMRGNJeuxyp",
+    "label": "Template for prompt: A minimalistic and simple, yet creative, website for an AI product deal finder which processes text requests to find products and finds the ideal components at a good price based on what you want.",
+    "dateAdded": "2023-12-30T20:05:03.318Z"
+  },
+  {
+    "url": "https://v0.dev/t/y6w7hUHLW0r",
+    "label": "Template for prompt: import and export buttons (only with icons)",
+    "dateAdded": "2023-12-30T20:05:03.318Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z4guqAUJSQR",
+    "label": "Template for prompt: A form with a title field and a description field",
+    "dateAdded": "2023-12-30T20:05:03.318Z"
+  },
+  {
+    "url": "https://v0.dev/t/vNojWS9V9Vl",
+    "label": "Template for prompt: Create a part of the dashboard called Collectors, in this part all the collectors registered in the database will be shown. The dashboard is minimalist but does not spare details and functions. be creative",
+    "dateAdded": "2023-12-30T20:05:03.318Z"
+  },
+  {
+    "url": "https://v0.dev/t/WTmXwAXbi1p",
+    "label": "Template for prompt: A simple but modern (some gradient background) user interface with a header, one paragraph and below 2 buttons",
+    "dateAdded": "2023-12-30T20:05:03.318Z"
+  },
+  {
+    "url": "https://v0.dev/t/TUW4LoEOGpQ",
+    "label": "Template for prompt: Video Cards with Title, Description, Length and Upload Date",
+    "dateAdded": "2023-12-30T20:05:03.318Z"
+  },
+  {
+    "url": "https://v0.dev/t/yQeudmgndFu",
+    "label": "Template for prompt: create a page showcasing the research of a human machine teaming & neuroscience lab",
+    "dateAdded": "2023-12-30T20:05:03.318Z"
+  },
+  {
+    "url": "https://v0.dev/t/aeDiSTVmzZt",
+    "label": "Template for prompt: A SaaS admin dasboard",
+    "dateAdded": "2023-12-30T20:05:03.319Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z8FpgMUd6KF",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T20:05:03.319Z"
+  },
+  {
+    "url": "https://v0.dev/t/g9bFKGR7XDW",
+    "label": "Template for prompt: Create a mobile profile page for a real life dating app that matches people that are on at the same event",
+    "dateAdded": "2023-12-30T20:05:03.319Z"
+  },
+  {
+    "url": "https://v0.dev/t/RCpcQZEsMQS",
+    "label": "Template for prompt: O componente de diálogo atribui um coletor a um ponto em uma aplicação web. Ele exibe uma lista de coletores obtida de uma API em um formulário dentro de um <dialog>. O usuário pode:\n\nSelecionar um coletor e confirmar a atribuição.\nCancelar ou continuar a operação se um coletor já estiver atribuído ao ponto.\nDesfazer a operação se mudar de ideia.\nO componente:\n\nFornece feedback visual e sonoro sobre o status da operação.\nUsa uma linguagem simples e familiar para o usuário.\nSegue os padrões de design da aplicação web.\nPrevine erros de atribuição, validando os dados e mostrando mensagens de erro claras e úteis.\nPermite a navegação pelo formulário com o teclado ou o mouse.\nÉ consistente e padronizado com os outros componentes da aplicação web.\nÉ personalizável, permitindo alterar os atributos, estilos e eventos do <dialog> e do formulário.",
+    "dateAdded": "2023-12-30T20:05:03.319Z"
+  },
+  {
+    "url": "https://v0.dev/t/fDmWG41i0Tz",
+    "label": "Template for prompt: Code the card with the corners",
+    "dateAdded": "2023-12-30T20:05:03.319Z"
   }
 ]
