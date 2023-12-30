@@ -63888,5 +63888,135 @@
     "url": "https://v0.dev/t/sH9XWb5WEWh",
     "label": "Template for prompt:  یگ صفحه لاگین برام درست کن",
     "dateAdded": "2023-12-30T19:30:03.755Z"
+  },
+  {
+    "url": "https://v0.dev/t/jEswP7b58P2",
+    "label": "Template for prompt: A landing page for a finanical budgeting app",
+    "dateAdded": "2023-12-30T19:35:02.707Z"
+  },
+  {
+    "url": "https://v0.dev/t/x9PYrDtbzDL",
+    "label": "Template for prompt: ui kit with many css variables",
+    "dateAdded": "2023-12-30T19:35:02.708Z"
+  },
+  {
+    "url": "https://v0.dev/t/Pm77y8LUY4R",
+    "label": "Template for prompt: Can you enhance this mobile ui",
+    "dateAdded": "2023-12-30T19:35:02.708Z"
+  },
+  {
+    "url": "https://v0.dev/t/y9TQqFdsXHw",
+    "label": "Template for prompt: design an app that detects whether or not someone is cancellable",
+    "dateAdded": "2023-12-30T19:35:02.708Z"
+  },
+  {
+    "url": "https://v0.dev/t/h1LdShwWIuP",
+    "label": "Template for prompt: mobile screen for a ride sharig app",
+    "dateAdded": "2023-12-30T19:35:02.708Z"
+  },
+  {
+    "url": "https://v0.dev/t/NHZBYDEKN3Z",
+    "label": "Template for prompt: I would like to develop a blog site project that includes an admin dashboard panel. The admin dashboard panel should have the following features:\n\nAbility to post videos and images with captions on the main page of the site.\nOption to enter the Tehran time of publication for each post.\nComplete management of posts, including editing and deleting.\nAbility to manage user passwords for the admin panel.\nOption to create new admins with specific rules and access levels.\nManagement of website visitors, including tracking and monitoring.\nAdvanced static chart visualization to display website visit statistics.\nListing of all unique users, including their IP and device information.\nSearch functionality to filter users based on IP or device information.\nSaving of all information for every visited site, including IP addresses.\nCapability to block/unblock IPs or set limits for specific users.\nEditing HTML description, title, logo, and icon for the main site.\nAdding, removing, and editing notificat",
+    "dateAdded": "2023-12-30T19:35:02.708Z"
+  },
+  {
+    "url": "https://v0.dev/t/v4eDChIphc7",
+    "label": "Template for prompt: Deals Mobile App for Travelers on a budget",
+    "dateAdded": "2023-12-30T19:35:02.708Z"
+  },
+  {
+    "url": "https://v0.dev/t/ysUvBQzT3yF",
+    "label": "Template for prompt: a spotify like app",
+    "dateAdded": "2023-12-30T19:35:02.709Z"
+  },
+  {
+    "url": "https://v0.dev/t/DkjMsiR1i1t",
+    "label": "Template for prompt: A page for writing journal entries in a web app. Include a title, date, and editor for content",
+    "dateAdded": "2023-12-30T19:35:02.709Z"
+  },
+  {
+    "url": "https://v0.dev/t/gC1EcXadqPz",
+    "label": "Template for prompt: login and table register",
+    "dateAdded": "2023-12-30T19:35:02.709Z"
+  },
+  {
+    "url": "https://v0.dev/t/irRUriEsKHF",
+    "label": "Template for prompt: A complex mortgage calculator. The inputs are: mortgage rate in percents (slider preferably, with numerical input next to it), length of the mortgage in years (slider preferably, with numerical input next to it), and borrowed sum (slider preferably, with numerical input next to it).\nAlso there will be the \"complex\" section of the calculator, taking into consideration the early repayment (you can repay up to 25 % every year without extra fees), where you can input the repayment amount.",
+    "dateAdded": "2023-12-30T19:35:02.709Z"
+  },
+  {
+    "url": "https://v0.dev/t/TcZS76Y2Rp4",
+    "label": "Template for prompt: Circular Progress is used to indicates the progress for determinate and indeterminate processes.\nDeterminate progress: fills the circular track with color, as the indicator moves from 0 to 360 degrees. \nplease build a determinate circular progress",
+    "dateAdded": "2023-12-30T19:35:02.710Z"
+  },
+  {
+    "url": "https://v0.dev/t/IXOaDqTmOFX",
+    "label": "Template for prompt: homepage for \"Kitchen Mall Corp\", make it mobile first",
+    "dateAdded": "2023-12-30T19:35:02.710Z"
+  },
+  {
+    "url": "https://v0.dev/t/AqJVpLhkD6B",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-30T19:35:02.710Z"
+  },
+  {
+    "url": "https://v0.dev/t/XPZVhiHeMnC",
+    "label": "Template for prompt: projects section for a portfolio website of a web developer",
+    "dateAdded": "2023-12-30T19:35:02.710Z"
+  },
+  {
+    "url": "https://v0.dev/t/QIVML43gsV9",
+    "label": "Template for prompt: can you design me a brutalist simple text blog article list",
+    "dateAdded": "2023-12-30T19:35:02.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/EUeShU0CkUi",
+    "label": "Template for prompt: این صفحه سایت رو طراحی کن",
+    "dateAdded": "2023-12-30T19:35:02.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/vWsWFrTYoLI",
+    "label": "Template for prompt: create a modal that will say \"Are you sure you want to reveal this spoiler?\" and then it will list the movie name or series name season and episode and two buttons for yes and no",
+    "dateAdded": "2023-12-30T19:35:02.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/VvB4YA24eT6",
+    "label": "Template for prompt: Create a top menu as in the picture",
+    "dateAdded": "2023-12-30T19:35:02.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/oBfsoNqe4TQ",
+    "label": "Template for prompt: a sleek header for a saas application",
+    "dateAdded": "2023-12-30T19:35:02.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/k3epx8vbEzz",
+    "label": "Template for prompt: landing page for a musician where menu items are on the corners of the screen",
+    "dateAdded": "2023-12-30T19:35:02.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/9uA3GDFzb6j",
+    "label": "Template for prompt: a horizontal tab list with a title and a delete icon",
+    "dateAdded": "2023-12-30T19:35:02.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/ou6gOx46vU2",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-30T19:35:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/2OvB38nK44Q",
+    "label": "Template for prompt: make this site",
+    "dateAdded": "2023-12-30T19:35:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/yoxtrpy5reI",
+    "label": "Template for prompt: circular progress indicator",
+    "dateAdded": "2023-12-30T19:35:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/NsbKgeBqJyx",
+    "label": "Template for prompt: a price quotation making dashboard with a side bar to display all relevant projects and on-going quotations and the body have  three button to switch between the component page, staffing page and analytics page , drop down menu to add and select the component, below that is a dataframe to display the relevant component list and another subpage to view and add and delete  staffing component and the user have the ability to add staffing component, and another subpage to view the analytics and dashboards",
+    "dateAdded": "2023-12-30T19:35:02.712Z"
   }
 ]
