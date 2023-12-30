@@ -54173,5 +54173,125 @@
     "url": "https://v0.dev/t/Ke77sdSEwCZ",
     "label": "Template for prompt: A list of product categories with image, name and description.",
     "dateAdded": "2023-12-30T02:55:03.617Z"
+  },
+  {
+    "url": "https://v0.dev/t/6TgokyRfcxj",
+    "label": "Template for prompt: landing page for CRM site. the front page should have a description of what the website does, should have a login button, and should also feature a waitlist in the middle left of the page",
+    "dateAdded": "2023-12-30T03:00:03.450Z"
+  },
+  {
+    "url": "https://v0.dev/t/pF1qyWv9xyH",
+    "label": "Template for prompt: a social media platform for music",
+    "dateAdded": "2023-12-30T03:00:03.450Z"
+  },
+  {
+    "url": "https://v0.dev/t/5txZVkhWW6c",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T03:00:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/p3A40XUt9ra",
+    "label": "Template for prompt: notion application",
+    "dateAdded": "2023-12-30T03:00:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/WoNsLLkf0By",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-30T03:00:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q3PxhoRlJUB",
+    "label": "Template for prompt: list view for cards each showing phone device image, id , battery level and connection status",
+    "dateAdded": "2023-12-30T03:00:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/ahBcXsYpBVV",
+    "label": "Template for prompt: editor",
+    "dateAdded": "2023-12-30T03:00:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/hnO0LNBC7QB",
+    "label": "Template for prompt: An interviewer's interview management screen that contains the following information:\n- List of past interviewee, their info, my notes and decision\n- The next interviewee, their info, update when another person assign the interviewee to the desk",
+    "dateAdded": "2023-12-30T03:00:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/YnWkcFz3HAB",
+    "label": "Template for prompt: twitterのようなUI",
+    "dateAdded": "2023-12-30T03:00:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/KIo9sbeqN0N",
+    "label": "Template for prompt: A landing page footer section .",
+    "dateAdded": "2023-12-30T03:00:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/4yLf4YV2WpK",
+    "label": "Template for prompt: create a timeline 1 ,2 ,3 , completed ",
+    "dateAdded": "2023-12-30T03:00:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/DooJsKWBA3y",
+    "label": "Template for prompt: instrgram page ",
+    "dateAdded": "2023-12-30T03:00:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/QMi4Vj3TEMl",
+    "label": "Template for prompt: notifications page on a Saas dashboard",
+    "dateAdded": "2023-12-30T03:00:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/K2WAL2cBjeo",
+    "label": "Template for prompt: A linktree like landing page",
+    "dateAdded": "2023-12-30T03:00:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/GkhLNd0JViu",
+    "label": "Template for prompt: a dashboard screen with user comments",
+    "dateAdded": "2023-12-30T03:00:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/ApWv6GXkbfX",
+    "label": "Template for prompt: Create a tetris game with score tracking, leaderboard and a colorful design",
+    "dateAdded": "2023-12-30T03:00:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/jLGJ9E0L3si",
+    "label": "Template for prompt: An AI playground",
+    "dateAdded": "2023-12-30T03:00:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/BxTSP7PzVjB",
+    "label": "Template for prompt: instragram pager \\",
+    "dateAdded": "2023-12-30T03:00:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/3jgvVtlnGz5",
+    "label": "Template for prompt: A notifications tab on a Saas dashboard",
+    "dateAdded": "2023-12-30T03:00:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/WLdSHvxJfOm",
+    "label": "Template for prompt: create a landing page for a project scraping movie and tv metadata from TMDB, IMDB, TVDB, Rotten Tomatoes, Metacritic.\nThe project is not targeted users, but targeted developers who want to download bulk metadata",
+    "dateAdded": "2023-12-30T03:00:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/qjPBEEPeQJV",
+    "label": "Template for prompt: instragram page",
+    "dateAdded": "2023-12-30T03:00:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/MjWIHVP0Xi2",
+    "label": "Template for prompt: build a landing page similer to https://stripe.com, but change stripe to Magical Date, and change the content to reflect dating app rather than strip. keep the colors, and styles similer",
+    "dateAdded": "2023-12-30T03:00:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/QFzTcj9eud0",
+    "label": "Template for prompt: A slick login page for a cool SaaS application",
+    "dateAdded": "2023-12-30T03:00:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/DBWhvvZw0iR",
+    "label": "Template for prompt: a news website",
+    "dateAdded": "2023-12-30T03:00:03.453Z"
   }
 ]
