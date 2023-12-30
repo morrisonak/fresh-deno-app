@@ -60403,5 +60403,110 @@
     "url": "https://v0.dev/t/CdVqGUm62Hk",
     "label": "Template for prompt: hello",
     "dateAdded": "2023-12-30T17:05:03.829Z"
+  },
+  {
+    "url": "https://v0.dev/t/HHptbDEjuq1",
+    "label": "Template for prompt: a landing page that shows cards of startups with key information like funded or needs funding, hiring with job listing and also has an option to switch to list view from card view",
+    "dateAdded": "2023-12-30T17:10:03.583Z"
+  },
+  {
+    "url": "https://v0.dev/t/zvnYYnL5J6w",
+    "label": "Template for prompt: a detalied profile page for exam candidates with detailed reports and analytics no sidebar, html only",
+    "dateAdded": "2023-12-30T17:10:03.583Z"
+  },
+  {
+    "url": "https://v0.dev/t/JgTkXZ2iqiX",
+    "label": "Template for prompt: generate the productList component",
+    "dateAdded": "2023-12-30T17:10:03.584Z"
+  },
+  {
+    "url": "https://v0.dev/t/Hkogp8OsAhZ",
+    "label": "Template for prompt: a detalied profile page for exam candidates with detailed reports and analytics no sidebar, html only",
+    "dateAdded": "2023-12-30T17:10:03.584Z"
+  },
+  {
+    "url": "https://v0.dev/t/Nb4EH5IN98i",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-30T17:10:03.584Z"
+  },
+  {
+    "url": "https://v0.dev/t/y99Si9giXLY",
+    "label": "Template for prompt: Make a professional personal portfolio website with blog section and blog pages",
+    "dateAdded": "2023-12-30T17:10:03.584Z"
+  },
+  {
+    "url": "https://v0.dev/t/c5h2NfSGXbT",
+    "label": "Template for prompt: A backoffice web app like the screenshot",
+    "dateAdded": "2023-12-30T17:10:03.584Z"
+  },
+  {
+    "url": "https://v0.dev/t/cb7kjL3BKW2",
+    "label": "Template for prompt: Generate a product page for my online store",
+    "dateAdded": "2023-12-30T17:10:03.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/QvoF97RFMvI",
+    "label": "Template for prompt: create a card component for videogames, including the name, company, and genre, for which console it's available, release date, make it like a pokemon card",
+    "dateAdded": "2023-12-30T17:10:03.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/gSmPVtCUfhb",
+    "label": "Template for prompt: startup directory landing page called startupp.dev where users can list their startups for free and visitors can see if the startups have job listings, their funding, launch date, etc. for the users who list startups, they can connect integrations for pulling data for job listings",
+    "dateAdded": "2023-12-30T17:10:03.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/V87xNrwEcc1",
+    "label": "Template for prompt: A calendar component to manage meetings for the next 7 days. Should be responsive.",
+    "dateAdded": "2023-12-30T17:10:03.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/WMBkV1wZe3A",
+    "label": "Template for prompt: A weekly calendar with hours . And 7 days view.",
+    "dateAdded": "2023-12-30T17:10:03.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/tDeapZ98N9h",
+    "label": "Template for prompt: A simple project official website",
+    "dateAdded": "2023-12-30T17:10:03.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/uPfrhGTpDBZ",
+    "label": "Template for prompt: i want a multi page school website",
+    "dateAdded": "2023-12-30T17:10:03.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/LJqGGkmFEZB",
+    "label": "Template for prompt: A delete confirmation modal",
+    "dateAdded": "2023-12-30T17:10:03.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/MiWeG5oScPX",
+    "label": "Template for prompt: Pomodoro app main page with pomodoro timer, tasks and breaks settings",
+    "dateAdded": "2023-12-30T17:10:03.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/c9S2A8zfXI1",
+    "label": "Template for prompt: Can you give me a nav  bar with logo and sign in button ",
+    "dateAdded": "2023-12-30T17:10:03.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/BFlwArkNVL8",
+    "label": "Template for prompt: Pomodoro app main page with pomodoro timer, tasks and breaks settings",
+    "dateAdded": "2023-12-30T17:10:03.587Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q2Xnisnrr5V",
+    "label": "Template for prompt: generate a nice contact form UI",
+    "dateAdded": "2023-12-30T17:10:03.587Z"
+  },
+  {
+    "url": "https://v0.dev/t/PWXs8XS62C7",
+    "label": "Template for prompt: social media posts only with single button on the right each post item",
+    "dateAdded": "2023-12-30T17:10:03.587Z"
+  },
+  {
+    "url": "https://v0.dev/t/BNdmBESC6YE",
+    "label": "Template for prompt: write me a date picker",
+    "dateAdded": "2023-12-30T17:10:03.587Z"
   }
 ]
