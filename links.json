@@ -88143,5 +88143,135 @@
     "url": "https://v0.dev/t/QrlsJCVsn4j",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2023-12-31T22:25:03.699Z"
+  },
+  {
+    "url": "https://v0.dev/t/mbBLKKvjciq",
+    "label": "Template for prompt: dashboard con mismo diseño tema y colores que active directory de microsoft",
+    "dateAdded": "2023-12-31T22:30:03.071Z"
+  },
+  {
+    "url": "https://v0.dev/t/vHrBSzlbwOM",
+    "label": "Template for prompt: dashboard con mismo diseño tema y colores que active directory de microsoft",
+    "dateAdded": "2023-12-31T22:30:03.072Z"
+  },
+  {
+    "url": "https://v0.dev/t/letSRpBhjLF",
+    "label": "Template for prompt: a single page site, for a developer. it must contain an about me, a skills section, projects list (3) and contact",
+    "dateAdded": "2023-12-31T22:30:03.072Z"
+  },
+  {
+    "url": "https://v0.dev/t/4Ik2vOQq3qD",
+    "label": "Template for prompt: using DataTable make an page of list of customers",
+    "dateAdded": "2023-12-31T22:30:03.072Z"
+  },
+  {
+    "url": "https://v0.dev/t/oSAOLgTDkZ0",
+    "label": "Template for prompt: A form with text inputs for \"name\", \"api key\", and a separate section for email integrations with a checkbox for \"enabled\", and below that a list of email recipients with text inputs for \"recipient name\", \"recipient email\", and a select input for \"recipient type\" (which can either be \"to\", \"cc\", or \"bcc\")",
+    "dateAdded": "2023-12-31T22:30:03.072Z"
+  },
+  {
+    "url": "https://v0.dev/t/L04LvgcYPId",
+    "label": "Template for prompt: dashboard como active directory azure",
+    "dateAdded": "2023-12-31T22:30:03.072Z"
+  },
+  {
+    "url": "https://v0.dev/t/nPAtLS0i7dg",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2023-12-31T22:30:03.073Z"
+  },
+  {
+    "url": "https://v0.dev/t/Psz3skial7m",
+    "label": "Template for prompt: a blog list",
+    "dateAdded": "2023-12-31T22:30:03.073Z"
+  },
+  {
+    "url": "https://v0.dev/t/H2grj48q2D1",
+    "label": "Template for prompt: Create the page after click in \"initiate merge request\". That page will show 3 loading spinners, indicating the status of the opening of the three merge requests, one for \"develop\" branch, other for \"staging\" branch and final for the \"prod\" branch. After all, one page will be exibited to show the operation status (success or fail)",
+    "dateAdded": "2023-12-31T22:30:03.073Z"
+  },
+  {
+    "url": "https://v0.dev/t/RcI6kQcSssZ",
+    "label": "Template for prompt: A dashboard page of teacher",
+    "dateAdded": "2023-12-31T22:30:03.073Z"
+  },
+  {
+    "url": "https://v0.dev/t/aBiZVunoz1b",
+    "label": "Template for prompt: 웹앱 기술스택로고를 드래그앤드랍 버튼 으로 만들어서 프론트엔드 개발자 포트폴리오",
+    "dateAdded": "2023-12-31T22:30:03.073Z"
+  },
+  {
+    "url": "https://v0.dev/t/qrZXRCwxg5R",
+    "label": "Template for prompt: cover for project about home cleaning service",
+    "dateAdded": "2023-12-31T22:30:03.074Z"
+  },
+  {
+    "url": "https://v0.dev/t/qq5tFiDWAef",
+    "label": "Template for prompt: a hero section of an AI app",
+    "dateAdded": "2023-12-31T22:30:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/xuNMlwP73zJ",
+    "label": "Template for prompt: A admin dashboard where I can see all employees, add or set status for a shift for them ",
+    "dateAdded": "2023-12-31T22:30:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/ioESJgUXamv",
+    "label": "Template for prompt: Answer this question ",
+    "dateAdded": "2023-12-31T22:30:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/PLYUDm0AOGu",
+    "label": "Template for prompt: Answer this question ",
+    "dateAdded": "2023-12-31T22:30:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/jXWiLI4oib5",
+    "label": "Template for prompt: horizontal flex on item to the right corner another item to the left corner",
+    "dateAdded": "2023-12-31T22:30:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/vIKJ9aWWpW0",
+    "label": "Template for prompt: a fitness coaching android app with a meal plan generator function",
+    "dateAdded": "2023-12-31T22:30:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/g9q3nc0HXRe",
+    "label": "Template for prompt: Generate a user interface design for a website dedicated to a home cleaning service. The design should evoke a sense of cleanliness, professionalism, and trust. Include relevant sections such as services offered, pricing, booking options, and customer testimonials. Use a modern and friendly color palette, and ensure the interface is intuitive for users to navigate. Consider mobile responsiveness for optimal user experience on various devices.",
+    "dateAdded": "2023-12-31T22:30:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/AXYZ4AezWVP",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-31T22:30:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/z0JH6jqmqZe",
+    "label": "Template for prompt: create a template for a website where i will import my resume content and operate a chatbot",
+    "dateAdded": "2023-12-31T22:30:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZQMMFAfeVqr",
+    "label": "Template for prompt: command and control (C2) web interface",
+    "dateAdded": "2023-12-31T22:30:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/Uv3PBYiH4Zc",
+    "label": "Template for prompt: a coders portfolio website with a service section",
+    "dateAdded": "2023-12-31T22:30:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/oLiU7AC5xkx",
+    "label": "Template for prompt: Create a services section",
+    "dateAdded": "2023-12-31T22:30:03.079Z"
+  },
+  {
+    "url": "https://v0.dev/t/wgmZEGqKdYy",
+    "label": "Template for prompt: Wordperss",
+    "dateAdded": "2023-12-31T22:30:03.080Z"
+  },
+  {
+    "url": "https://v0.dev/t/VpkWl7YR3fp",
+    "label": "Template for prompt: Draw a tree that satisfies both the binary search property and the order property\nof heaps",
+    "dateAdded": "2023-12-31T22:30:03.080Z"
   }
 ]
