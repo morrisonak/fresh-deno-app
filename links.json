@@ -83348,5 +83348,130 @@
     "url": "https://v0.dev/t/9CpNBbjUKUg",
     "label": "Template for prompt: create a component to view the list of students and on clicking them render another component of tasks",
     "dateAdded": "2023-12-31T19:15:02.947Z"
+  },
+  {
+    "url": "https://v0.dev/t/cOjgAnu2sYZ",
+    "label": "Template for prompt: Style a beautiful dropzone",
+    "dateAdded": "2023-12-31T19:20:02.618Z"
+  },
+  {
+    "url": "https://v0.dev/t/fep8pUqF5e3",
+    "label": "Template for prompt: Make logo",
+    "dateAdded": "2023-12-31T19:20:02.618Z"
+  },
+  {
+    "url": "https://v0.dev/t/aHnMAOydCQp",
+    "label": "Template for prompt: a smaller div to display currently available quizes to connect in my app",
+    "dateAdded": "2023-12-31T19:20:02.619Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ur6QHYX3CCt",
+    "label": "Template for prompt: Use tailwind css ",
+    "dateAdded": "2023-12-31T19:20:02.619Z"
+  },
+  {
+    "url": "https://v0.dev/t/sOS9cU9xj7a",
+    "label": "Template for prompt: Build one small size shopping cart in react js ",
+    "dateAdded": "2023-12-31T19:20:02.619Z"
+  },
+  {
+    "url": "https://v0.dev/t/eD4MIbmWrFc",
+    "label": "Template for prompt: A fully functional multi page website for a digital marketing agency named XYZ",
+    "dateAdded": "2023-12-31T19:20:02.619Z"
+  },
+  {
+    "url": "https://v0.dev/t/qH8HAtnHCac",
+    "label": "Template for prompt: web development agency coming soon page with a contact us button",
+    "dateAdded": "2023-12-31T19:20:02.619Z"
+  },
+  {
+    "url": "https://v0.dev/t/qIABjHkh06O",
+    "label": "Template for prompt: Design a landing page for a barter website, the image is a picture of the catalog",
+    "dateAdded": "2023-12-31T19:20:02.620Z"
+  },
+  {
+    "url": "https://v0.dev/t/4ZyaMHYTxwc",
+    "label": "Template for prompt: How the image is looking I need like that only in react js for sm and md screens",
+    "dateAdded": "2023-12-31T19:20:02.620Z"
+  },
+  {
+    "url": "https://v0.dev/t/MaBTmadRqaM",
+    "label": "Template for prompt: A storyboard builder",
+    "dateAdded": "2023-12-31T19:20:02.620Z"
+  },
+  {
+    "url": "https://v0.dev/t/Cr5scjnh6BM",
+    "label": "Template for prompt: Ana ecommerce store",
+    "dateAdded": "2023-12-31T19:20:02.620Z"
+  },
+  {
+    "url": "https://v0.dev/t/KKmdUeQHkUR",
+    "label": "Template for prompt: web iot",
+    "dateAdded": "2023-12-31T19:20:02.620Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ef2Ad1lFXL7",
+    "label": "Template for prompt: i need a not found page with purple and black colors",
+    "dateAdded": "2023-12-31T19:20:02.621Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZMsDoDcdmZN",
+    "label": "Template for prompt: give me a screen for a not implemented page",
+    "dateAdded": "2023-12-31T19:20:02.621Z"
+  },
+  {
+    "url": "https://v0.dev/t/wKEIVJAU4MY",
+    "label": "Template for prompt: Design this in react js with responsiveness in all devices ",
+    "dateAdded": "2023-12-31T19:20:02.621Z"
+  },
+  {
+    "url": "https://v0.dev/t/KkW97aFh1UM",
+    "label": "Template for prompt: Create pacman game in vue",
+    "dateAdded": "2023-12-31T19:20:02.621Z"
+  },
+  {
+    "url": "https://v0.dev/t/F7xQjNgVPyB",
+    "label": "Template for prompt: table matriz of checkbox ",
+    "dateAdded": "2023-12-31T19:20:02.621Z"
+  },
+  {
+    "url": "https://v0.dev/t/DbjSfz2F0SL",
+    "label": "Template for prompt: A digital flyer, branded red and white with green accents, each item has a price, name, description, and thumbnail",
+    "dateAdded": "2023-12-31T19:20:02.622Z"
+  },
+  {
+    "url": "https://v0.dev/t/c7TD55zlkai",
+    "label": "Template for prompt: Create a vertical list layout of spotify playlists with this data: [\n    {\n        \"collaborative\": false,\n        \"description\": \"\",\n        \"external_urls\": {\n            \"spotify\": \"https://open.spotify.com/playlist/1LvdY4rN71bM5hDuViIYxo\"\n        },\n        \"href\": \"https://api.spotify.com/v1/playlists/1LvdY4rN71bM5hDuViIYxo\",\n        \"id\": \"1LvdY4rN71bM5hDuViIYxo\",\n        \"images\": [\n            {\n                \"height\": null,\n                \"url\": \"https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbec6aaabe689c7ee3c7c542cb\",\n                \"width\": null\n            }\n        ],\n        \"name\": \"🐐\",\n        \"owner\": {\n            \"display_name\": \"Eben Van Mierlo\",\n            \"external_urls\": {\n                \"spotify\": \"https://open.spotify.com/user/11179180364\"\n            },\n            \"href\": \"https://api.spotify.com/v1/users/11179180364\",\n            \"id\": \"11179180364\",\n            \"type\": \"user\",\n            \"uri\": \"spotify:user:11179180364\"\n        },\n      ",
+    "dateAdded": "2023-12-31T19:20:02.622Z"
+  },
+  {
+    "url": "https://v0.dev/t/Rg9IhFZgIy6",
+    "label": "Template for prompt: make a full width drop down menu where when hovered, shows all of the printing services",
+    "dateAdded": "2023-12-31T19:20:02.622Z"
+  },
+  {
+    "url": "https://v0.dev/t/uXNfLxjxVz2",
+    "label": "Template for prompt: A saas event manager",
+    "dateAdded": "2023-12-31T19:20:02.622Z"
+  },
+  {
+    "url": "https://v0.dev/t/ig8KfaPsRZX",
+    "label": "Template for prompt: make a kahoot page that displays a bar graph with the votes for each category and displays the voters under it",
+    "dateAdded": "2023-12-31T19:20:02.622Z"
+  },
+  {
+    "url": "https://v0.dev/t/talLSeh77IM",
+    "label": "Template for prompt: A dashboard to keep track of routes in progress, pending or already done with the possibility of get the details when I click on one of the routes",
+    "dateAdded": "2023-12-31T19:20:02.622Z"
+  },
+  {
+    "url": "https://v0.dev/t/GmKMfDoOR9a",
+    "label": "Template for prompt: یک صفحه لاگین برای وردپرس ",
+    "dateAdded": "2023-12-31T19:20:02.623Z"
+  },
+  {
+    "url": "https://v0.dev/t/R8UTLUjCBWu",
+    "label": "Template for prompt: Navbar for a modern website",
+    "dateAdded": "2023-12-31T19:20:02.623Z"
   }
 ]
