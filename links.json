@@ -75033,5 +75033,130 @@
     "url": "https://v0.dev/t/3GQ0MI0E6yE",
     "label": "Template for prompt: A webapp page for a company, prompting the user to enter their order ID and submit it",
     "dateAdded": "2023-12-31T02:55:03.093Z"
+  },
+  {
+    "url": "https://v0.dev/t/QkRO3KbXsAq",
+    "label": "Template for prompt: a chat box for a user having the quote block as in a cartoon",
+    "dateAdded": "2023-12-31T03:00:03.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/vszVVBGahmZ",
+    "label": "Template for prompt: Create a landing page for a prestigous hotel",
+    "dateAdded": "2023-12-31T03:00:03.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/i1a7n8wz2eG",
+    "label": "Template for prompt: Status overview of paid products",
+    "dateAdded": "2023-12-31T03:00:03.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/zwPfGXu4Sey",
+    "label": "Template for prompt: Improve this!",
+    "dateAdded": "2023-12-31T03:00:03.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/Rj1P0bxkuC3",
+    "label": "Template for prompt: A vegetarian cafe and shop, a main page, dashboard: about us few words: we are Jagannath, we make our best dishes with love, and make people happy more than 20 years. In jagannath we trust. Locations our cafes. Our news from kitchen, menu of cafe, best top products, a button for look more products with delivery, a button with function of make order cake,, logo at centre, A best UI/UX design, Adaptive Website Design. ",
+    "dateAdded": "2023-12-31T03:00:03.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/aiccwhMpb4J",
+    "label": "Template for prompt: a dog agility results page",
+    "dateAdded": "2023-12-31T03:00:03.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/ap7CpjGNFkr",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-31T03:00:03.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/QGlE4AmX26W",
+    "label": "Template for prompt: Dashboard of different currencies with stats",
+    "dateAdded": "2023-12-31T03:00:03.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/3kNRWxjqFBH",
+    "label": "Template for prompt: create a clone of this website",
+    "dateAdded": "2023-12-31T03:00:03.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/f4Ti7jhfwXm",
+    "label": "Template for prompt: Create an website which is similar to gps map camera ",
+    "dateAdded": "2023-12-31T03:00:03.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/aBeJJCvu0cd",
+    "label": "Template for prompt: game character rankings. Displaying player's image and its game profile. emphasizing 1th.",
+    "dateAdded": "2023-12-31T03:00:03.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/a4OoLrULn5E",
+    "label": "Template for prompt:  The title of the page will be \"Role Assignment Calendar.\"\n\n There will be a brief introduction explaining the functionality of the page, indicating that it is a calendar for assigning specific roles to people on specific days of the week.",
+    "dateAdded": "2023-12-31T03:00:03.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/vZ6M5V7FB0z",
+    "label": "Template for prompt: a clean, slick login page with wild colors",
+    "dateAdded": "2023-12-31T03:00:03.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/W1PBMctgHZz",
+    "label": "Template for prompt: 下拉框",
+    "dateAdded": "2023-12-31T03:00:03.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/4lpD7C6iz1N",
+    "label": "Template for prompt: ranking of showing 14 different categorize. Each ranking shows TOP10",
+    "dateAdded": "2023-12-31T03:00:03.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/u7UxKNYbgnd",
+    "label": "Template for prompt: Design the bottom section of a main page to feature an interactive map and a contact form, aligned horizontally. For the map, generate an embedded, interactive map that highlights the client's location at 8 Bathurst Street, Freetown, SL, with the ability to zoom in and out, and with custom branding colors. The map should take up two-thirds of the horizontal space. Next to the map, on the remaining one-third, create a contact form styled to match the website’s design aesthetics. The form should include fields for the user's name, email, subject, and message, along with a 'Send Message' button. Ensure the form has validation features for each field and a responsive layout for seamless integration on mobile devices",
+    "dateAdded": "2023-12-31T03:00:03.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/6drLtqw9IO0",
+    "label": "Template for prompt: A landing page for a newsletter",
+    "dateAdded": "2023-12-31T03:00:03.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/3qdOMNX8yt3",
+    "label": "Template for prompt: یک ویدجت المنتور بسازی که بشه محصولات پرفروش رو منتشر کرد",
+    "dateAdded": "2023-12-31T03:00:03.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/kjUI3JYPOnV",
+    "label": "Template for prompt: A chat application",
+    "dateAdded": "2023-12-31T03:00:03.502Z"
+  },
+  {
+    "url": "https://v0.dev/t/YkJlFUyIOti",
+    "label": "Template for prompt: Desing a Drawer for the purpose of editing a product.\n\n      <Drawer open={isEditDrawerOpen} onClose={() => setIsEditDrawerOpen(false)}>\n                <DrawerContent className=\"sm:max-w-[425px] p-4\">\n                    <DrawerHeader>\n                        <DrawerTitle className=\"text-5xl\">{product.name}</DrawerTitle>\n                        <DrawerDescription className=\"text-black/40\">Description</DrawerDescription>\n                    </DrawerHeader>\n                    <div className=\"flex flex-col w-full gap-3\">{/* Edit form goes here */}</div>\n                    <DrawerFooter className=\"px-0\">\n                        <DrawerClose asChild>\n                            <Button variant=\"outline\" size=\"lg\">\n                                Okay\n                            </Button>\n                        </DrawerClose>\n                    </DrawerFooter>\n                </DrawerContent>\n      </Drawer>",
+    "dateAdded": "2023-12-31T03:00:03.502Z"
+  },
+  {
+    "url": "https://v0.dev/t/115L37kKZWa",
+    "label": "Template for prompt: A website for an event",
+    "dateAdded": "2023-12-31T03:00:03.502Z"
+  },
+  {
+    "url": "https://v0.dev/t/siKNyaxyxNL",
+    "label": "Template for prompt: Artist website for waleed",
+    "dateAdded": "2023-12-31T03:00:03.502Z"
+  },
+  {
+    "url": "https://v0.dev/t/YwvOQboUAGq",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-31T03:00:03.502Z"
+  },
+  {
+    "url": "https://v0.dev/t/3GQ0MI0E6yE",
+    "label": "Template for prompt: A webapp page for a company, prompting the user to enter their order ID and submit it",
+    "dateAdded": "2023-12-31T03:00:03.502Z"
+  },
+  {
+    "url": "https://v0.dev/t/U0qkoXUq4Xj",
+    "label": "Template for prompt: 登录框",
+    "dateAdded": "2023-12-31T03:00:03.503Z"
   }
 ]
