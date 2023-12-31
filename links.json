@@ -85508,5 +85508,125 @@
     "url": "https://v0.dev/t/MHtAX3bMabE",
     "label": "Template for prompt: build a newsletter with the caption: sign up to our newsletter and get the latest news and updates of our website, also add a button named sign up to newsletter",
     "dateAdded": "2023-12-31T20:40:03.931Z"
+  },
+  {
+    "url": "https://v0.dev/t/3KKkdV6gO3P",
+    "label": "Template for prompt: A login page, two colums. One side is the application logo and title. The other side is a \"Login with Google\" button.",
+    "dateAdded": "2023-12-31T20:45:03.965Z"
+  },
+  {
+    "url": "https://v0.dev/t/uCkQQjkN74i",
+    "label": "Template for prompt: Colorful login form with username, password inputs, remember me checkbox, and also \"Login with Apple\", \"Login with Google\", \"Login with GitHub\" buttons, without forgetting the \"forgot password\" button",
+    "dateAdded": "2023-12-31T20:45:03.965Z"
+  },
+  {
+    "url": "https://v0.dev/t/XTPcmgHQR2j",
+    "label": "Template for prompt: make the vercel.com pricing page ",
+    "dateAdded": "2023-12-31T20:45:03.966Z"
+  },
+  {
+    "url": "https://v0.dev/t/bV91uTF4wmE",
+    "label": "Template for prompt: dark",
+    "dateAdded": "2023-12-31T20:45:03.966Z"
+  },
+  {
+    "url": "https://v0.dev/t/rpA0p1qFo20",
+    "label": "Template for prompt: Create login page",
+    "dateAdded": "2023-12-31T20:45:03.967Z"
+  },
+  {
+    "url": "https://v0.dev/t/kUbn1EiTY1r",
+    "label": "Template for prompt: سلام",
+    "dateAdded": "2023-12-31T20:45:03.967Z"
+  },
+  {
+    "url": "https://v0.dev/t/EEuA6WvhbdS",
+    "label": "Template for prompt: search engine",
+    "dateAdded": "2023-12-31T20:45:03.967Z"
+  },
+  {
+    "url": "https://v0.dev/t/wfyEvp0iBkg",
+    "label": "Template for prompt: admin panel for portofolio page",
+    "dateAdded": "2023-12-31T20:45:03.967Z"
+  },
+  {
+    "url": "https://v0.dev/t/w383uheDwJo",
+    "label": "Template for prompt: ui for shwo the class of the school",
+    "dateAdded": "2023-12-31T20:45:03.968Z"
+  },
+  {
+    "url": "https://v0.dev/t/zzKP2lVjeAW",
+    "label": "Template for prompt: Design an engaging homepage for my Arabic learning app that caters to users eager to enhance their vocabulary, Nahw (grammar), and Sarf (morphology) skills. The platform should offer a dynamic learning experience, integrating interactive grammar analysis for Nahw and traditional question-and-answer practice. Provide a user-friendly interface that encourages seamless navigation and ensures an immersive educational journey for learners.",
+    "dateAdded": "2023-12-31T20:45:03.968Z"
+  },
+  {
+    "url": "https://v0.dev/t/YgnuXTgrvoI",
+    "label": "Template for prompt: Design an engaging homepage for my Arabic learning app that caters to users eager to enhance their vocabulary, Nahw (grammar), and Sarf (morphology) skills. The platform should offer a dynamic learning experience, integrating interactive grammar analysis for Nahw and traditional question-and-answer practice. Provide a user-friendly interface that encourages seamless navigation and ensures an immersive educational journey for learners.",
+    "dateAdded": "2023-12-31T20:45:03.968Z"
+  },
+  {
+    "url": "https://v0.dev/t/5oKNMaYTPHT",
+    "label": "Template for prompt: create a chat page like this in react js using module cs",
+    "dateAdded": "2023-12-31T20:45:03.968Z"
+  },
+  {
+    "url": "https://v0.dev/t/adswy5tBZB3",
+    "label": "Template for prompt: make a modern bento grid ",
+    "dateAdded": "2023-12-31T20:45:03.968Z"
+  },
+  {
+    "url": "https://v0.dev/t/tJS499zqAzO",
+    "label": "Template for prompt: A navigation with 3 levels, the top is 5 items, one of those 5 has 10 children and each of those children has 20 items",
+    "dateAdded": "2023-12-31T20:45:03.969Z"
+  },
+  {
+    "url": "https://v0.dev/t/i7RC6hbwqTv",
+    "label": "Template for prompt: a login page with register page for admin panel",
+    "dateAdded": "2023-12-31T20:45:03.969Z"
+  },
+  {
+    "url": "https://v0.dev/t/pV5w1oiKuo3",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-31T20:45:03.969Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q8GI4H7VJTz",
+    "label": "Template for prompt: list of activities with name, frequency, associated goal",
+    "dateAdded": "2023-12-31T20:45:03.969Z"
+  },
+  {
+    "url": "https://v0.dev/t/VN7tKpAFk7I",
+    "label": "Template for prompt: a data table with title and search and filter buttons",
+    "dateAdded": "2023-12-31T20:45:03.969Z"
+  },
+  {
+    "url": "https://v0.dev/t/95TBFexfNL3",
+    "label": "Template for prompt: to-do list",
+    "dateAdded": "2023-12-31T20:45:03.970Z"
+  },
+  {
+    "url": "https://v0.dev/t/O1XYCRUgglB",
+    "label": "Template for prompt: a coming soon landing page with a background color of #FDEEC0. Centered on the page is a square logo that has a black border, a shadow and is 200 wide and 200 tall. Under the logo is says coming soon in big bold letters. under the coming soon is the text, In the heart of every vineyard lies a special block, a parcel of land steeped in legend. \n          For generations, this block has been revered for its exceptional grapes, each vine telling a tale of tradition, care, and the magic of nature. It is here, amidst the whispers of the vines, that the inspiration for Block 15 was born.",
+    "dateAdded": "2023-12-31T20:45:03.970Z"
+  },
+  {
+    "url": "https://v0.dev/t/e9TX9l98rqg",
+    "label": "Template for prompt: a page where user can see the details of a single product in a ecommerce website",
+    "dateAdded": "2023-12-31T20:45:03.970Z"
+  },
+  {
+    "url": "https://v0.dev/t/lTGJog0M7hX",
+    "label": "Template for prompt: a tour operator website with #0D9488 as primary color, minimalistic ui/ux and compact.",
+    "dateAdded": "2023-12-31T20:45:03.970Z"
+  },
+  {
+    "url": "https://v0.dev/t/b7Cv457Mrl7",
+    "label": "Template for prompt: Give me a simple website related to music academy codes",
+    "dateAdded": "2023-12-31T20:45:03.970Z"
+  },
+  {
+    "url": "https://v0.dev/t/4Fd0205rA1U",
+    "label": "Template for prompt: go live",
+    "dateAdded": "2023-12-31T20:45:03.971Z"
   }
 ]
