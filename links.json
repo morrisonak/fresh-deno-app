@@ -83218,5 +83218,135 @@
     "url": "https://v0.dev/t/QBdukH6Qt6k",
     "label": "Template for prompt: create a  function that exports a component that shows error message \"Selected text too large\"",
     "dateAdded": "2023-12-31T19:10:03.284Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZMsDoDcdmZN",
+    "label": "Template for prompt: give me a screen for a not implemented page",
+    "dateAdded": "2023-12-31T19:15:02.943Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ef2Ad1lFXL7",
+    "label": "Template for prompt: i need a not found page with purple and black colors",
+    "dateAdded": "2023-12-31T19:15:02.944Z"
+  },
+  {
+    "url": "https://v0.dev/t/talLSeh77IM",
+    "label": "Template for prompt: A dashboard to keep track of routes in progress, pending or already done with the possibility of get the details when I click on one of the routes",
+    "dateAdded": "2023-12-31T19:15:02.944Z"
+  },
+  {
+    "url": "https://v0.dev/t/wKEIVJAU4MY",
+    "label": "Template for prompt: Design this in react js with responsiveness in all devices ",
+    "dateAdded": "2023-12-31T19:15:02.944Z"
+  },
+  {
+    "url": "https://v0.dev/t/KkW97aFh1UM",
+    "label": "Template for prompt: Create pacman game in vue",
+    "dateAdded": "2023-12-31T19:15:02.944Z"
+  },
+  {
+    "url": "https://v0.dev/t/DbjSfz2F0SL",
+    "label": "Template for prompt: A digital flyer, branded red and white with green accents, each item has a price, name, description, and thumbnail",
+    "dateAdded": "2023-12-31T19:15:02.944Z"
+  },
+  {
+    "url": "https://v0.dev/t/Rg9IhFZgIy6",
+    "label": "Template for prompt: make a full width drop down menu where when hovered, shows all of the printing services",
+    "dateAdded": "2023-12-31T19:15:02.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/R8UTLUjCBWu",
+    "label": "Template for prompt: Navbar for a modern website",
+    "dateAdded": "2023-12-31T19:15:02.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/F7xQjNgVPyB",
+    "label": "Template for prompt: table matriz of checkbox ",
+    "dateAdded": "2023-12-31T19:15:02.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/c7TD55zlkai",
+    "label": "Template for prompt: Create a vertical list layout of spotify playlists with this data: [\n    {\n        \"collaborative\": false,\n        \"description\": \"\",\n        \"external_urls\": {\n            \"spotify\": \"https://open.spotify.com/playlist/1LvdY4rN71bM5hDuViIYxo\"\n        },\n        \"href\": \"https://api.spotify.com/v1/playlists/1LvdY4rN71bM5hDuViIYxo\",\n        \"id\": \"1LvdY4rN71bM5hDuViIYxo\",\n        \"images\": [\n            {\n                \"height\": null,\n                \"url\": \"https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbec6aaabe689c7ee3c7c542cb\",\n                \"width\": null\n            }\n        ],\n        \"name\": \"🐐\",\n        \"owner\": {\n            \"display_name\": \"Eben Van Mierlo\",\n            \"external_urls\": {\n                \"spotify\": \"https://open.spotify.com/user/11179180364\"\n            },\n            \"href\": \"https://api.spotify.com/v1/users/11179180364\",\n            \"id\": \"11179180364\",\n            \"type\": \"user\",\n            \"uri\": \"spotify:user:11179180364\"\n        },\n      ",
+    "dateAdded": "2023-12-31T19:15:02.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/uXNfLxjxVz2",
+    "label": "Template for prompt: A saas event manager",
+    "dateAdded": "2023-12-31T19:15:02.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/QltcvRa7PNq",
+    "label": "Template for prompt: Matrix chat client interface with sidebar with channels",
+    "dateAdded": "2023-12-31T19:15:02.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/Xwiyz7TEDZU",
+    "label": "Template for prompt: یه برنامه با زبان پایتون که شماره تلفن رو بگیره و ۳۰۰ تا پیامک براش بفرسته",
+    "dateAdded": "2023-12-31T19:15:02.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/qfF3YSL35BI",
+    "label": "Template for prompt: A SaaS blog ",
+    "dateAdded": "2023-12-31T19:15:02.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/KsnhYRXL7qQ",
+    "label": "Template for prompt: I want a instagram clone",
+    "dateAdded": "2023-12-31T19:15:02.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/Py3UD3KOzka",
+    "label": "Template for prompt: workout tracker logging",
+    "dateAdded": "2023-12-31T19:15:02.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/SZW2feHfcTy",
+    "label": "Template for prompt: I want a instagram clone",
+    "dateAdded": "2023-12-31T19:15:02.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/pEawzTW7tzj",
+    "label": "Template for prompt: a medium like responsive  blog post page ",
+    "dateAdded": "2023-12-31T19:15:02.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/V5kjHYclZoi",
+    "label": "Template for prompt: Gimme a picture of assassin's Creed ezio playing basketball",
+    "dateAdded": "2023-12-31T19:15:02.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/d3Pn2z3lqMx",
+    "label": "Template for prompt: یه برنامه با زبان پایتون که شماره تلفن رو بگیره و ۳۰۰ تا پیامک براش بفرسته",
+    "dateAdded": "2023-12-31T19:15:02.947Z"
+  },
+  {
+    "url": "https://v0.dev/t/HoeOr3T3TVj",
+    "label": "Template for prompt: a responsive blog post page",
+    "dateAdded": "2023-12-31T19:15:02.947Z"
+  },
+  {
+    "url": "https://v0.dev/t/EqGtB22h2wZ",
+    "label": "Template for prompt: یک صفحه لاگین برای وردپرس ",
+    "dateAdded": "2023-12-31T19:15:02.947Z"
+  },
+  {
+    "url": "https://v0.dev/t/GmKMfDoOR9a",
+    "label": "Template for prompt: یک صفحه لاگین برای وردپرس ",
+    "dateAdded": "2023-12-31T19:15:02.947Z"
+  },
+  {
+    "url": "https://v0.dev/t/gVoRXRtjFb4",
+    "label": "Template for prompt: kanban board, clean sharp lines",
+    "dateAdded": "2023-12-31T19:15:02.947Z"
+  },
+  {
+    "url": "https://v0.dev/t/ig8KfaPsRZX",
+    "label": "Template for prompt: make a kahoot page that displays a bar graph with the votes for each category and displays the voters under it",
+    "dateAdded": "2023-12-31T19:15:02.947Z"
+  },
+  {
+    "url": "https://v0.dev/t/9CpNBbjUKUg",
+    "label": "Template for prompt: create a component to view the list of students and on clicking them render another component of tasks",
+    "dateAdded": "2023-12-31T19:15:02.947Z"
   }
 ]
