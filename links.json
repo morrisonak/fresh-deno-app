@@ -85883,5 +85883,135 @@
     "url": "https://v0.dev/t/yEmDoOUlrL7",
     "label": "Template for prompt: make the pricing page EXACTLY with every details ",
     "dateAdded": "2023-12-31T20:55:03.447Z"
+  },
+  {
+    "url": "https://v0.dev/t/7s8JgoaQM9D",
+    "label": "Template for prompt: An e-commerce store",
+    "dateAdded": "2023-12-31T21:00:03.605Z"
+  },
+  {
+    "url": "https://v0.dev/t/I34aRNPB9GS",
+    "label": "Template for prompt: Generate an internal admin site for managing a multi-tenant application. The admin site should display, update and create objects called 'Facilities'. Within each Facility there are Hallways, each Hallway has Floors, and each Floor has a Room. There are also separate entities called MedCarts that can be associated with multiple Floors from different Hallways.",
+    "dateAdded": "2023-12-31T21:00:03.605Z"
+  },
+  {
+    "url": "https://v0.dev/t/SrEvclHvlrn",
+    "label": "Template for prompt: geef mij een design idee voor een pagina met informatie over de hulpverleningslandschap in limburg.",
+    "dateAdded": "2023-12-31T21:00:03.605Z"
+  },
+  {
+    "url": "https://v0.dev/t/EXotPOVqv6K",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-31T21:00:03.605Z"
+  },
+  {
+    "url": "https://v0.dev/t/R84AIOB2fcZ",
+    "label": "Template for prompt: Replicate the attached screenshot.   Using the identical styling create a responsive clock that fillss the available browser window as wide and tall as possible.",
+    "dateAdded": "2023-12-31T21:00:03.605Z"
+  },
+  {
+    "url": "https://v0.dev/t/yAcYx65QLFA",
+    "label": "Template for prompt: Responsive side navbar",
+    "dateAdded": "2023-12-31T21:00:03.605Z"
+  },
+  {
+    "url": "https://v0.dev/t/p4GIHHGK9tr",
+    "label": "Template for prompt: make finance manager web template like this image",
+    "dateAdded": "2023-12-31T21:00:03.606Z"
+  },
+  {
+    "url": "https://v0.dev/t/ayAoScgv5h9",
+    "label": "Template for prompt: an dashboard for a ecommerce",
+    "dateAdded": "2023-12-31T21:00:03.606Z"
+  },
+  {
+    "url": "https://v0.dev/t/uLKDyCSpGw9",
+    "label": "Template for prompt: an dashboard for a ecommerce",
+    "dateAdded": "2023-12-31T21:00:03.606Z"
+  },
+  {
+    "url": "https://v0.dev/t/beuDJRVx7wj",
+    "label": "Template for prompt: a travel tour package for a tour operator website",
+    "dateAdded": "2023-12-31T21:00:03.606Z"
+  },
+  {
+    "url": "https://v0.dev/t/W3p00mLtcYP",
+    "label": "Template for prompt: make finance manager web template like this image",
+    "dateAdded": "2023-12-31T21:00:03.606Z"
+  },
+  {
+    "url": "https://v0.dev/t/ITAIbWsZ3tD",
+    "label": "Template for prompt: سلام به زبان فارسی می تونی پاسخ بدی؟",
+    "dateAdded": "2023-12-31T21:00:03.606Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wey6yTfQgjA",
+    "label": "Template for prompt: design an opened hamburger menu covering whole screen on mobile devices",
+    "dateAdded": "2023-12-31T21:00:03.606Z"
+  },
+  {
+    "url": "https://v0.dev/t/LyD3O6BKWrR",
+    "label": "Template for prompt: An SVG animation of a doberman dog",
+    "dateAdded": "2023-12-31T21:00:03.606Z"
+  },
+  {
+    "url": "https://v0.dev/t/vGbkf9NIsxO",
+    "label": "Template for prompt: a form page to add create new quiz - it contains theese fields in tailwindcss: Quiz title, question text, three inputs to show how the result will look like - there will always be check on one of them so you can mark the correct one",
+    "dateAdded": "2023-12-31T21:00:03.607Z"
+  },
+  {
+    "url": "https://v0.dev/t/Fh3TIgjNXsE",
+    "label": "Template for prompt: hopping bottun",
+    "dateAdded": "2023-12-31T21:00:03.607Z"
+  },
+  {
+    "url": "https://v0.dev/t/hTBMfU5UZaE",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-31T21:00:03.607Z"
+  },
+  {
+    "url": "https://v0.dev/t/z5Bs1PDKsdN",
+    "label": "Template for prompt: make this image slider ",
+    "dateAdded": "2023-12-31T21:00:03.607Z"
+  },
+  {
+    "url": "https://v0.dev/t/ztZTPseRTDC",
+    "label": "Template for prompt: hopping bottun",
+    "dateAdded": "2023-12-31T21:00:03.607Z"
+  },
+  {
+    "url": "https://v0.dev/t/kSeXsB38rW1",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-31T21:00:03.607Z"
+  },
+  {
+    "url": "https://v0.dev/t/JoOnBMO9maC",
+    "label": "Template for prompt: create a chat page like this in react js using module cs\n. chat content will be scrollable inside the div and input should fixed in bottom",
+    "dateAdded": "2023-12-31T21:00:03.607Z"
+  },
+  {
+    "url": "https://v0.dev/t/blYVMyckFWb",
+    "label": "Template for prompt: make a modern and responsive footer",
+    "dateAdded": "2023-12-31T21:00:03.607Z"
+  },
+  {
+    "url": "https://v0.dev/t/7PzMD7VaB4x",
+    "label": "Template for prompt: Develop an engaging homepage for my Arabic learning app, showcasing the distinctive features including 'Interactive Grammatical Analysis,' vocabulary learning, and Sarf (morphology). The 'Interactive Grammatical Analysis' mode is a dynamic and hands-on approach to sentence construction, allowing users to actively engage with the language-learning process through dragging and arranging grammatical blocks.\n\nIn addition to the Interactive Grammatical Analysis mode, our application provides an extensive vocabulary learning section. Users can enrich their Arabic vocabulary through interactive and personalized exercises, ensuring a comprehensive grasp of essential words and phrases. The app also incorporates Sarf, focusing on morphology, to deepen users' understanding of Arabic language structure.\n\nKey features of the Interactive Grammatical Analysis mode include seamless arrangement of grammatical blocks, fostering a practical understanding of sentence formation. The intuitive drag-and-drop",
+    "dateAdded": "2023-12-31T21:00:03.608Z"
+  },
+  {
+    "url": "https://v0.dev/t/9TB4bNgxJsA",
+    "label": "Template for prompt: A screen where the user can select between two cards, each card has a title, code snippet, and some stats",
+    "dateAdded": "2023-12-31T21:00:03.608Z"
+  },
+  {
+    "url": "https://v0.dev/t/7ivuyabjW3u",
+    "label": "Template for prompt: filter ui",
+    "dateAdded": "2023-12-31T21:00:03.608Z"
+  },
+  {
+    "url": "https://v0.dev/t/pzCQ7Xx44Ed",
+    "label": "Template for prompt: Left side navbar that works on mobile",
+    "dateAdded": "2023-12-31T21:00:03.608Z"
   }
 ]
