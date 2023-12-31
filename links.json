@@ -78603,5 +78603,135 @@
     "url": "https://v0.dev/t/X8PpaJ8lt2z",
     "label": "Template for prompt: a calendar",
     "dateAdded": "2023-12-31T05:15:03.799Z"
+  },
+  {
+    "url": "https://v0.dev/t/J92nKMeRb7f",
+    "label": "Template for prompt: design a better card for a summary of how much everyone owes you and what their payment plan is. the next payment could be empty depending on the plan.\n\nDoes not have to be in table formatting\n",
+    "dateAdded": "2023-12-31T05:20:03.356Z"
+  },
+  {
+    "url": "https://v0.dev/t/L3TT9BNessy",
+    "label": "Template for prompt: I need a form that will create a goal that has a Main title for the goal, date to achieve the goal by, and a difficulty of the goal from a 1-3. \n\nThe form also will need to be able to add sub-goals with a sub-goal title and date to achieve by that is before the main goal date",
+    "dateAdded": "2023-12-31T05:20:03.357Z"
+  },
+  {
+    "url": "https://v0.dev/t/WCioPEqc6zw",
+    "label": "Template for prompt: Time tracking feild i need to add Start button and input feild place holder \"task\" and need to drop down select project",
+    "dateAdded": "2023-12-31T05:20:03.357Z"
+  },
+  {
+    "url": "https://v0.dev/t/RGcsh0goyOU",
+    "label": "Template for prompt: Time tracking feild i need to add Start button and input feild place holder \"task\" and need to drop down select project",
+    "dateAdded": "2023-12-31T05:20:03.357Z"
+  },
+  {
+    "url": "https://v0.dev/t/u88hvAC7puY",
+    "label": "Template for prompt: create persian calender for travel agency website",
+    "dateAdded": "2023-12-31T05:20:03.357Z"
+  },
+  {
+    "url": "https://v0.dev/t/7hCgbEeTfiK",
+    "label": "Template for prompt: iPad friendly admin dasbhoard",
+    "dateAdded": "2023-12-31T05:20:03.357Z"
+  },
+  {
+    "url": "https://v0.dev/t/K4KPhtsokvu",
+    "label": "Template for prompt: create admin panel dashboard",
+    "dateAdded": "2023-12-31T05:20:03.357Z"
+  },
+  {
+    "url": "https://v0.dev/t/BW3Jt9uUIBS",
+    "label": "Template for prompt: A dashboard showing several images with corresponding labels and a large gray box depicting an empty image with a plus as the image and a label that says 'create new image'",
+    "dateAdded": "2023-12-31T05:20:03.358Z"
+  },
+  {
+    "url": "https://v0.dev/t/fFsfFyxgmsc",
+    "label": "Template for prompt: an svg ICON that represents dependents in a dependency tree",
+    "dateAdded": "2023-12-31T05:20:03.358Z"
+  },
+  {
+    "url": "https://v0.dev/t/nhWpXwmGTQE",
+    "label": "Template for prompt: give me a layout for a websit where we can search and show images",
+    "dateAdded": "2023-12-31T05:20:03.358Z"
+  },
+  {
+    "url": "https://v0.dev/t/P8YldpwstDL",
+    "label": "Template for prompt: landing page for gpt wrapper that has login/signup/search within signle component and top right corner has aboutus /contact, this service is called tabereru and return score and healthiness score on search for food input. add fancy animation related to it ",
+    "dateAdded": "2023-12-31T05:20:03.358Z"
+  },
+  {
+    "url": "https://v0.dev/t/srK3aTj3rZP",
+    "label": "Template for prompt: web app store ",
+    "dateAdded": "2023-12-31T05:20:03.358Z"
+  },
+  {
+    "url": "https://v0.dev/t/C7qFXWFGg13",
+    "label": "Template for prompt: transcript viewer page that allows me to chat over this transcript, with specific references in text",
+    "dateAdded": "2023-12-31T05:20:03.358Z"
+  },
+  {
+    "url": "https://v0.dev/t/sA3E5PsucXu",
+    "label": "Template for prompt: タイマー",
+    "dateAdded": "2023-12-31T05:20:03.358Z"
+  },
+  {
+    "url": "https://v0.dev/t/5Sy3yIGf3H1",
+    "label": "Template for prompt: give me a atractive hero section for \"Order Mingle\" website",
+    "dateAdded": "2023-12-31T05:20:03.359Z"
+  },
+  {
+    "url": "https://v0.dev/t/KtrpvWXFycB",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-31T05:20:03.359Z"
+  },
+  {
+    "url": "https://v0.dev/t/MjHYWaLooJp",
+    "label": "Template for prompt: feature that allows seller stores to track their product's inventory. This feature will contains an inventory management table and a detailed inventory history. The details of each table are provided below.",
+    "dateAdded": "2023-12-31T05:20:03.359Z"
+  },
+  {
+    "url": "https://v0.dev/t/LC1iX02ETb7",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-31T05:20:03.359Z"
+  },
+  {
+    "url": "https://v0.dev/t/awEpXeQGRrs",
+    "label": "Template for prompt: a grid of cards showing past campaign ideas",
+    "dateAdded": "2023-12-31T05:20:03.359Z"
+  },
+  {
+    "url": "https://v0.dev/t/evsqyrA30uf",
+    "label": "Template for prompt: فرض کن متخصص ساخت فلزیاب هستی ‌ و در ساخت فلزیاب و اسکنر تصویری مهارت زیادی داری                 برای کسی که تازه وارد حوزه ساخت اسکنر تصویری شده.      مراحل ساخت اسکنر تصویری رو توضیح بده.         مراحل شامل اجزا کامل اسکنر ،اجزا برد ،کد برنامه نویسی و طرز جای گذاری اجزا باشد\n",
+    "dateAdded": "2023-12-31T05:20:03.359Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ya7ZDZ0o5nb",
+    "label": "Template for prompt: give me a beautiful side navbar like slacks use",
+    "dateAdded": "2023-12-31T05:20:03.359Z"
+  },
+  {
+    "url": "https://v0.dev/t/WHmlEim8XwH",
+    "label": "Template for prompt: Design like this photo",
+    "dateAdded": "2023-12-31T05:20:03.359Z"
+  },
+  {
+    "url": "https://v0.dev/t/HBoPcoSPxmh",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-31T05:20:03.359Z"
+  },
+  {
+    "url": "https://v0.dev/t/w4wH7o81NcT",
+    "label": "Template for prompt: Landing page for Betrayal Discord game with a button asking to sign into discord. Dark background with zinc 900 prefered.",
+    "dateAdded": "2023-12-31T05:20:03.360Z"
+  },
+  {
+    "url": "https://v0.dev/t/9N7ZX1hTBFs",
+    "label": "Template for prompt: give a side navbar",
+    "dateAdded": "2023-12-31T05:20:03.360Z"
+  },
+  {
+    "url": "https://v0.dev/t/vZoJ7bb85ns",
+    "label": "Template for prompt: create range dete picker with jalali calender for travel agency website",
+    "dateAdded": "2023-12-31T05:20:03.360Z"
   }
 ]
