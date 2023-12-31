@@ -78083,5 +78083,135 @@
     "url": "https://v0.dev/t/QtA3W2vQwgt",
     "label": "Template for prompt: турнирный сайт для организации турниров по интеллектуальным играм. \nразделы турниры, база вопросов, команды, игроки, календарь, карта клубов. \n\nличный кабинет игрока\nкабинет команды ",
     "dateAdded": "2023-12-31T04:55:03.450Z"
+  },
+  {
+    "url": "https://v0.dev/t/XhKWoGFYhLC",
+    "label": "Template for prompt: 대학 학과별 합격 점수를 표시하는 사이트",
+    "dateAdded": "2023-12-31T05:00:08.871Z"
+  },
+  {
+    "url": "https://v0.dev/t/s8S2OxzGgm1",
+    "label": "Template for prompt: 대학 학과별 합격 점수를 표시하는 사이트",
+    "dateAdded": "2023-12-31T05:00:08.872Z"
+  },
+  {
+    "url": "https://v0.dev/t/N0trAahuync",
+    "label": "Template for prompt: a calendar",
+    "dateAdded": "2023-12-31T05:00:08.872Z"
+  },
+  {
+    "url": "https://v0.dev/t/vb8bNjd215F",
+    "label": "Template for prompt: i want a dashboard with three pages and navigation.. the dashboard should be aligned in the center horizontally. the navigation is sticky capsule who gets black bg when active. i can choose the three pages from this capsule like navigation who has shadows.. the whole dashboard is center algined horizontally ",
+    "dateAdded": "2023-12-31T05:00:08.872Z"
+  },
+  {
+    "url": "https://v0.dev/t/R78v052oYSz",
+    "label": "Template for prompt: write a character selector component. when not clicked it should show a button with a current character, the character's profile picture and name. when clicked it should open up a modal where you can select a new character from a grid of circular profile pictures.",
+    "dateAdded": "2023-12-31T05:00:08.872Z"
+  },
+  {
+    "url": "https://v0.dev/t/GadiFN12MfK",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-31T05:00:08.872Z"
+  },
+  {
+    "url": "https://v0.dev/t/YZy2MuLzdr0",
+    "label": "Template for prompt: place this 3 images just like in the image",
+    "dateAdded": "2023-12-31T05:00:08.873Z"
+  },
+  {
+    "url": "https://v0.dev/t/5Tg827JALpc",
+    "label": "Template for prompt: create a home section about travels",
+    "dateAdded": "2023-12-31T05:00:08.873Z"
+  },
+  {
+    "url": "https://v0.dev/t/9GSx3hwnBVo",
+    "label": "Template for prompt: input form for product, with textbox product name, type, expiration date and three buttons: add to storage, remove from storage and modify",
+    "dateAdded": "2023-12-31T05:00:08.873Z"
+  },
+  {
+    "url": "https://v0.dev/t/eCYE0EkRUW3",
+    "label": "Template for prompt: autocomplete input field that uses promises to get a list of options",
+    "dateAdded": "2023-12-31T05:00:08.873Z"
+  },
+  {
+    "url": "https://v0.dev/t/k2qlm8EHlnF",
+    "label": "Template for prompt: a gems, kyanite, tourmaline feturing and selling website for KyaniteNepal ",
+    "dateAdded": "2023-12-31T05:00:08.874Z"
+  },
+  {
+    "url": "https://v0.dev/t/47gENNGi0j3",
+    "label": "Template for prompt: An AI powered custom form generation tool that's similar to a Notion style form",
+    "dateAdded": "2023-12-31T05:00:08.874Z"
+  },
+  {
+    "url": "https://v0.dev/t/k9gg1mZpMAU",
+    "label": "Template for prompt: generate me a nextjs page from this web page design",
+    "dateAdded": "2023-12-31T05:00:08.874Z"
+  },
+  {
+    "url": "https://v0.dev/t/aSgNRNACDcU",
+    "label": "Template for prompt: https://ncdshiddenkiller.thaihealth.or.th/",
+    "dateAdded": "2023-12-31T05:00:08.874Z"
+  },
+  {
+    "url": "https://v0.dev/t/mafqRp5vgEU",
+    "label": "Template for prompt: این صفحه لاگین را با ری اکت برام طراحی کن ",
+    "dateAdded": "2023-12-31T05:00:08.874Z"
+  },
+  {
+    "url": "https://v0.dev/t/KmRfQ6DmQUL",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-31T05:00:08.874Z"
+  },
+  {
+    "url": "https://v0.dev/t/2Fc8FOQxkMb",
+    "label": "Template for prompt: card with title = models.CharField(max_length=100)\n    content = models.TextField()\n    created_by = models.ForeignKey(User, on_delete=models.CASCADE)\n    added_date = models.DateTimeField(auto_now_add=True)\n    edited_date = models.DateTimeField(auto_now=True)",
+    "dateAdded": "2023-12-31T05:00:08.875Z"
+  },
+  {
+    "url": "https://v0.dev/t/vwUB4MRoeuq",
+    "label": "Template for prompt: single page design for startup it company or software development company",
+    "dateAdded": "2023-12-31T05:00:08.875Z"
+  },
+  {
+    "url": "https://v0.dev/t/H9MF0t3QbaU",
+    "label": "Template for prompt: json to typescript converter",
+    "dateAdded": "2023-12-31T05:00:08.875Z"
+  },
+  {
+    "url": "https://v0.dev/t/7I9othLFvxK",
+    "label": "Template for prompt: A software developer portfolio with a profile card on the left side and a menu bar the right side. Under the menu bar, is the sections that will be showing depending on what the user clicks. Keep in mind to use bento box design",
+    "dateAdded": "2023-12-31T05:00:08.875Z"
+  },
+  {
+    "url": "https://v0.dev/t/cYxcZYLUwu7",
+    "label": "Template for prompt: intern management system",
+    "dateAdded": "2023-12-31T05:00:08.875Z"
+  },
+  {
+    "url": "https://v0.dev/t/yVwwLgrl6E9",
+    "label": "Template for prompt: card with profile information",
+    "dateAdded": "2023-12-31T05:00:08.876Z"
+  },
+  {
+    "url": "https://v0.dev/t/KtcVJYUi3Kq",
+    "label": "Template for prompt: give me a atractive footer for \"Order Mingle\" website",
+    "dateAdded": "2023-12-31T05:00:08.876Z"
+  },
+  {
+    "url": "https://v0.dev/t/TekndTMUXZZ",
+    "label": "Template for prompt: UI",
+    "dateAdded": "2023-12-31T05:00:08.876Z"
+  },
+  {
+    "url": "https://v0.dev/t/aaRG27JeoOn",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-31T05:00:08.876Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ds6IvG7Uv2y",
+    "label": "Template for prompt: 16x16的 日历图标",
+    "dateAdded": "2023-12-31T05:00:08.877Z"
   }
 ]
