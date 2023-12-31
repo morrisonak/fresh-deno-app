@@ -72518,5 +72518,135 @@
     "url": "https://v0.dev/t/qCtENo1XOqC",
     "label": "Template for prompt: Make a chat app like a ChatGPT",
     "dateAdded": "2023-12-31T01:15:03.181Z"
+  },
+  {
+    "url": "https://v0.dev/t/1xUgrvs0ZHb",
+    "label": "Template for prompt: сайт с сылками на соцсети, сверху никнейм крупно, ниже ссылки на сети, текст является чем-то типа окна в дополнительный фон, где движется картинка, текст должен переноситься построчно, особенно на мобильных устройствах",
+    "dateAdded": "2023-12-31T01:20:03.330Z"
+  },
+  {
+    "url": "https://v0.dev/t/PGHHSARtwI6",
+    "label": "Template for prompt: General:\nClean, modern interface with intuitive navigation.\nTop navigation bar for user settings and profile.\nActivities:\nVibrant images for categories like Adventure Parks, Gourmet Dining, and Nature Trails.\nEach activity has a short description and buttons for more details or booking.\nUser Interaction:\nDropdown menu for filtering activities.\nPremium option button in the top right corner.\nDesign:\nProfessional color palette with festive touches.\nClear, modern typography.\nSpacious, uncluttered layout.",
+    "dateAdded": "2023-12-31T01:20:03.330Z"
+  },
+  {
+    "url": "https://v0.dev/t/nO2gXVf21Xu",
+    "label": "Template for prompt: admin dashboard",
+    "dateAdded": "2023-12-31T01:20:03.330Z"
+  },
+  {
+    "url": "https://v0.dev/t/gDUjr8fwp9a",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-31T01:20:03.330Z"
+  },
+  {
+    "url": "https://v0.dev/t/3dDRtfisfBu",
+    "label": "Template for prompt: простой вебсайт с сылками на соцсети, надписи крупные, имеется фоновая картинка, так вместо цвета текста имеется движущаяся картинка буд-то текст это окно в фон, где движется картинка туда-сюда, так же сайт должен отлично смотреться на мобильных, чтобы текст переносился построчно",
+    "dateAdded": "2023-12-31T01:20:03.331Z"
+  },
+  {
+    "url": "https://v0.dev/t/OLxA6qUvZM1",
+    "label": "Template for prompt: Une landing page pour une compagnie de développement logiciels. Un icone en hauit a droite. Dans le centre du hero un gros logo. En bas du logo une région ou je peux mettre 2 logo qui sont des liens vers des sites faits par la compagnie. Dans le bas en footer une zone de contact et la mention que le site est la propriété de la ocmpagnie abc",
+    "dateAdded": "2023-12-31T01:20:03.331Z"
+  },
+  {
+    "url": "https://v0.dev/t/zwdJ4DTdpwx",
+    "label": "Template for prompt: create a django project tat send data from an arduino code to python for dht 11 and esp8266",
+    "dateAdded": "2023-12-31T01:20:03.331Z"
+  },
+  {
+    "url": "https://v0.dev/t/L1wS7trVE58",
+    "label": "Template for prompt: a user details page for system admin to update user information, disable account, delete account",
+    "dateAdded": "2023-12-31T01:20:03.331Z"
+  },
+  {
+    "url": "https://v0.dev/t/GGxRwkFvvsb",
+    "label": "Template for prompt: Disposition Générale :\nÉcran d'Accueil Intuitif : L'écran présente une interface utilisateur propre et moderne, avec une navigation facile et une palette de couleurs qui est à la fois invitante et professionnelle.\nBarre de Navigation : En haut de l'écran, une barre de navigation discrète comprend des icônes pour les paramètres de l'utilisateur, les notifications, et le profil.\nSections d'Activités :\nCatégories d'Activités en Vedette : La majeure partie de l'écran est consacrée à présenter des activités soigneusement sélectionnées. Chaque activité est représentée par une image vibrante et attrayante accompagnée d'un titre descriptif.\nParcs d'Aventure : Une image évoquant l'excitation avec des montagnes russes ou des activités en plein air.\nRestauration Gastronomique : Une représentation alléchante d'un repas de luxe ou d'un cadre de restaurant élégant.\nSentiers Nature : Une belle image de paysage naturel qui invite à l'exploration et à la détente.\nFonctionnalités et Informations :\nDescr",
+    "dateAdded": "2023-12-31T01:20:03.331Z"
+  },
+  {
+    "url": "https://v0.dev/t/RFm7SRUmxTi",
+    "label": "Template for prompt: modern minimal user profile dashboard for system admin to manage user information",
+    "dateAdded": "2023-12-31T01:20:03.331Z"
+  },
+  {
+    "url": "https://v0.dev/t/LJON6E3JHjC",
+    "label": "Template for prompt: تمرین های توی عکس رو حل کن",
+    "dateAdded": "2023-12-31T01:20:03.332Z"
+  },
+  {
+    "url": "https://v0.dev/t/FzPRMVLsaZI",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-31T01:20:03.332Z"
+  },
+  {
+    "url": "https://v0.dev/t/ezGPIr6hXHj",
+    "label": "Template for prompt: A splash screen with two options, either buy the product or log in to start using it.",
+    "dateAdded": "2023-12-31T01:20:03.332Z"
+  },
+  {
+    "url": "https://v0.dev/t/vDBlRUGpSvj",
+    "label": "Template for prompt: An app similar to a social network which highlights events, activities and small business around me",
+    "dateAdded": "2023-12-31T01:20:03.332Z"
+  },
+  {
+    "url": "https://v0.dev/t/pGc7z6DWBXM",
+    "label": "Template for prompt: i just a need a very basic button that can suggest some options of questions to select, the question that is clicked on is the one that is filled into the input with a send button",
+    "dateAdded": "2023-12-31T01:20:03.332Z"
+  },
+  {
+    "url": "https://v0.dev/t/ekVCq4FRbhJ",
+    "label": "Template for prompt: An authentication card that only lets you sign in with Spotify. It will use the Spotify logo. It has a couple sentence description of why it needs Spotify permissions",
+    "dateAdded": "2023-12-31T01:20:03.332Z"
+  },
+  {
+    "url": "https://v0.dev/t/wtkJqEBKJtO",
+    "label": "Template for prompt: Imagine u have to represent a collection of products from a shop. This is the data provided by API. We might use styled cards for each one, as an idea.\n\n[\n    {\n        \"id\": 1,\n        \"created_at\": \"2023-12-18T18:21:33.000000Z\",\n        \"updated_at\": \"2023-12-18T18:21:33.000000Z\",\n        \"name\": \"Product 1\",\n        \"price\": 10,\n        \"tax_id\": 1,\n        \"stock\": 0,\n        \"image\": null,\n        \"shop_id\": 1,\n        \"color\": null,\n        \"sections_id\": 1,\n        \"deleted\": 0,\n        \"shop\": {\n            \"id\": 1,\n            \"created_at\": \"2023-12-18T18:21:33.000000Z\",\n            \"updated_at\": \"2023-12-18T18:21:33.000000Z\",\n            \"name\": \"Shop 1\",\n            \"logo\": null,\n            \"description\": null,\n            \"user_id\": 1,\n            \"fiscal_name\": null,\n            \"fiscal_id\": null,\n            \"fiscal_address\": null,\n            \"fiscal_phone\": null,\n            \"fiscal_email\": null,\n            \"fiscal_web\": null,\n            \"fiscal_logo\": null\n        }",
+    "dateAdded": "2023-12-31T01:20:03.332Z"
+  },
+  {
+    "url": "https://v0.dev/t/WBSQfcc1BFV",
+    "label": "Template for prompt: a personal dashboard",
+    "dateAdded": "2023-12-31T01:20:03.332Z"
+  },
+  {
+    "url": "https://v0.dev/t/N4nEEgwPRSt",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-31T01:20:03.332Z"
+  },
+  {
+    "url": "https://v0.dev/t/GMS96iLgFLw",
+    "label": "Template for prompt: maintain the same structure on desktop but make it mobile friendly/responsive",
+    "dateAdded": "2023-12-31T01:20:03.333Z"
+  },
+  {
+    "url": "https://v0.dev/t/oNJQN5QlukS",
+    "label": "Template for prompt: an application that generates a standard operating procedure for you. All you have to do is type in the title",
+    "dateAdded": "2023-12-31T01:20:03.333Z"
+  },
+  {
+    "url": "https://v0.dev/t/TPnkGPFCmjq",
+    "label": "Template for prompt: create a dashboard for a job marketplace. it should contain rows of small cards representing listed jobs. each card should have a percentage bar representing the amount of work that still needs to be done. the webpage should also have a top bar containing a search bar, a button to list a job and a profile picture. the theme should resemble Duolingo.",
+    "dateAdded": "2023-12-31T01:20:03.333Z"
+  },
+  {
+    "url": "https://v0.dev/t/hj6y6nwVJek",
+    "label": "Template for prompt: crea un cronometro ",
+    "dateAdded": "2023-12-31T01:20:03.333Z"
+  },
+  {
+    "url": "https://v0.dev/t/VyrgK44MDsT",
+    "label": "Template for prompt: app similar to mymind.com",
+    "dateAdded": "2023-12-31T01:20:03.333Z"
+  },
+  {
+    "url": "https://v0.dev/t/AvP50Kw24x9",
+    "label": "Template for prompt: using vercel ai sdk write a streaming response for a question through an api route",
+    "dateAdded": "2023-12-31T01:20:03.333Z"
+  },
+  {
+    "url": "https://v0.dev/t/IqKpSi792LW",
+    "label": "Template for prompt: i want the b est portflio code in reactjs or javascript but ui and animations should be perfect ok I will submit all my project links and every thing ok",
+    "dateAdded": "2023-12-31T01:20:03.333Z"
   }
 ]
