@@ -88648,5 +88648,135 @@
     "url": "https://v0.dev/t/H2grj48q2D1",
     "label": "Template for prompt: Create the page after click in \"initiate merge request\". That page will show 3 loading spinners, indicating the status of the opening of the three merge requests, one for \"develop\" branch, other for \"staging\" branch and final for the \"prod\" branch. After all, one page will be exibited to show the operation status (success or fail)",
     "dateAdded": "2023-12-31T22:45:03.975Z"
+  },
+  {
+    "url": "https://v0.dev/t/ARzVaD02bTG",
+    "label": "Template for prompt: راحت ترین روش اپلود فایل به هاست دانلود ",
+    "dateAdded": "2023-12-31T22:50:02.504Z"
+  },
+  {
+    "url": "https://v0.dev/t/xTNKNbLBKki",
+    "label": "Template for prompt: Replicate this exact image into ReactJS code",
+    "dateAdded": "2023-12-31T22:50:02.504Z"
+  },
+  {
+    "url": "https://v0.dev/t/W0l6tI7Hbod",
+    "label": "Template for prompt: create an email which says that a user's questions has been answered and with a button to see it in the platform",
+    "dateAdded": "2023-12-31T22:50:02.504Z"
+  },
+  {
+    "url": "https://v0.dev/t/iMw524STLeF",
+    "label": "Template for prompt: create multiple divs on top of each other with absolute positioning (covering each other. each with a specific width and min-h-96",
+    "dateAdded": "2023-12-31T22:50:02.505Z"
+  },
+  {
+    "url": "https://v0.dev/t/qY0Eo77uEiz",
+    "label": "Template for prompt: A page with multiple graphs (6-7) with data, line",
+    "dateAdded": "2023-12-31T22:50:02.505Z"
+  },
+  {
+    "url": "https://v0.dev/t/EWVxfNwZJJn",
+    "label": "Template for prompt: web app with user login and project pade with ability to add projects",
+    "dateAdded": "2023-12-31T22:50:02.505Z"
+  },
+  {
+    "url": "https://v0.dev/t/ztdC8J3BN1h",
+    "label": "Template for prompt: create a pricing section landing page one price in pricing section",
+    "dateAdded": "2023-12-31T22:50:02.505Z"
+  },
+  {
+    "url": "https://v0.dev/t/1hIIsDP5Ksk",
+    "label": "Template for prompt: calendar",
+    "dateAdded": "2023-12-31T22:50:02.505Z"
+  },
+  {
+    "url": "https://v0.dev/t/tSCavDJxTdh",
+    "label": "Template for prompt: Advance analytics financial powerbi dashboard pbix ",
+    "dateAdded": "2023-12-31T22:50:02.506Z"
+  },
+  {
+    "url": "https://v0.dev/t/4B7JjtIclNN",
+    "label": "Template for prompt: Can you create a table where users can enter a company name, privacy policy url & a frequency drop down. The frequency drop down should contain every 30 days and every day.",
+    "dateAdded": "2023-12-31T22:50:02.506Z"
+  },
+  {
+    "url": "https://v0.dev/t/5MZuHl0ajYU",
+    "label": "Template for prompt: Uma listagem de todos os processos judiciais para uma pessoa chamada Thiago Almeida",
+    "dateAdded": "2023-12-31T22:50:02.506Z"
+  },
+  {
+    "url": "https://v0.dev/t/1nOu3bCnERB",
+    "label": "Template for prompt: make a multilevel drop down menu nav bar. make a mega nav menu tems \"All Products\", \"Seasonal\", \"Rush Order\", \"Business Cards\", \"Postcards\", \"Signs & Posters\", \"Realtor Print\", \"Gifts\". when any of the items are clicked, a full width dropdown menu shows up with all the options for each. this is for a printing company",
+    "dateAdded": "2023-12-31T22:50:02.506Z"
+  },
+  {
+    "url": "https://v0.dev/t/QANxjIM1uMT",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-31T22:50:02.507Z"
+  },
+  {
+    "url": "https://v0.dev/t/VkubhVhFjRk",
+    "label": "Template for prompt: UI component to sign in with Github",
+    "dateAdded": "2023-12-31T22:50:02.507Z"
+  },
+  {
+    "url": "https://v0.dev/t/rc66gCrclQc",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-31T22:50:02.507Z"
+  },
+  {
+    "url": "https://v0.dev/t/dpT2Xp2kiBd",
+    "label": "Template for prompt: Create User Profile Section for a Social Media with USer info, Posts, Blogs. saved Posts",
+    "dateAdded": "2023-12-31T22:50:02.507Z"
+  },
+  {
+    "url": "https://v0.dev/t/2ldGqWFDKrL",
+    "label": "Template for prompt: Crear un calendario de citas agrupadas por empleado",
+    "dateAdded": "2023-12-31T22:50:02.507Z"
+  },
+  {
+    "url": "https://v0.dev/t/oyrHNwL5M7s",
+    "label": "Template for prompt: Crear un calendario de citas agrupadas por empleado",
+    "dateAdded": "2023-12-31T22:50:02.507Z"
+  },
+  {
+    "url": "https://v0.dev/t/bHnqafe5wN9",
+    "label": "Template for prompt: select option menu",
+    "dateAdded": "2023-12-31T22:50:02.507Z"
+  },
+  {
+    "url": "https://v0.dev/t/zLaffwDVSip",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-31T22:50:02.508Z"
+  },
+  {
+    "url": "https://v0.dev/t/8IB63ecFpdl",
+    "label": "Template for prompt: این صفحه سایت رو طراحی کن",
+    "dateAdded": "2023-12-31T22:50:02.508Z"
+  },
+  {
+    "url": "https://v0.dev/t/yqLs3HcPfO4",
+    "label": "Template for prompt: edit page of a character in a worldbuilding/storywriting webapp",
+    "dateAdded": "2023-12-31T22:50:02.508Z"
+  },
+  {
+    "url": "https://v0.dev/t/PgJMorUToXo",
+    "label": "Template for prompt: una bonita interfaz de informacion de cuenta. ",
+    "dateAdded": "2023-12-31T22:50:02.508Z"
+  },
+  {
+    "url": "https://v0.dev/t/NfjlUsbpSyH",
+    "label": "Template for prompt: An timeline of all activities of a lawsuit ",
+    "dateAdded": "2023-12-31T22:50:02.508Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z4ArrTQKFhj",
+    "label": "Template for prompt: UI compoment to show case a Medium article in a portfolio website.",
+    "dateAdded": "2023-12-31T22:50:02.509Z"
+  },
+  {
+    "url": "https://v0.dev/t/xWYhXnIj2EX",
+    "label": "Template for prompt: A complex html form with nested arrays",
+    "dateAdded": "2023-12-31T22:50:02.509Z"
   }
 ]
