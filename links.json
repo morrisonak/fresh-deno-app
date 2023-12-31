@@ -77823,5 +77823,135 @@
     "url": "https://v0.dev/t/vwUB4MRoeuq",
     "label": "Template for prompt: single page design for startup it company or software development company",
     "dateAdded": "2023-12-31T04:45:04.354Z"
+  },
+  {
+    "url": "https://v0.dev/t/k9gg1mZpMAU",
+    "label": "Template for prompt: generate me a nextjs page from this web page design",
+    "dateAdded": "2023-12-31T04:50:02.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/KmRfQ6DmQUL",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-31T04:50:02.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/aaRG27JeoOn",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-31T04:50:02.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/aSgNRNACDcU",
+    "label": "Template for prompt: https://ncdshiddenkiller.thaihealth.or.th/",
+    "dateAdded": "2023-12-31T04:50:02.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/vwUB4MRoeuq",
+    "label": "Template for prompt: single page design for startup it company or software development company",
+    "dateAdded": "2023-12-31T04:50:02.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/KtcVJYUi3Kq",
+    "label": "Template for prompt: give me a atractive footer for \"Order Mingle\" website",
+    "dateAdded": "2023-12-31T04:50:02.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/7I9othLFvxK",
+    "label": "Template for prompt: A software developer portfolio with a profile card on the left side and a menu bar the right side. Under the menu bar, is the sections that will be showing depending on what the user clicks. Keep in mind to use bento box design",
+    "dateAdded": "2023-12-31T04:50:02.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/cYxcZYLUwu7",
+    "label": "Template for prompt: intern management system",
+    "dateAdded": "2023-12-31T04:50:02.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/yVwwLgrl6E9",
+    "label": "Template for prompt: card with profile information",
+    "dateAdded": "2023-12-31T04:50:02.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/TekndTMUXZZ",
+    "label": "Template for prompt: UI",
+    "dateAdded": "2023-12-31T04:50:02.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/2Fc8FOQxkMb",
+    "label": "Template for prompt: card with title = models.CharField(max_length=100)\n    content = models.TextField()\n    created_by = models.ForeignKey(User, on_delete=models.CASCADE)\n    added_date = models.DateTimeField(auto_now_add=True)\n    edited_date = models.DateTimeField(auto_now=True)",
+    "dateAdded": "2023-12-31T04:50:02.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ds6IvG7Uv2y",
+    "label": "Template for prompt: 16x16的 日历图标",
+    "dateAdded": "2023-12-31T04:50:02.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/hZa4oBUwcMO",
+    "label": "Template for prompt: glassmorphism navbar",
+    "dateAdded": "2023-12-31T04:50:02.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/QtA3W2vQwgt",
+    "label": "Template for prompt: турнирный сайт для организации турниров по интеллектуальным играм. \nразделы турниры, база вопросов, команды, игроки, календарь, карта клубов. \n\nличный кабинет игрока\nкабинет команды ",
+    "dateAdded": "2023-12-31T04:50:02.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/X1UXqilzRQF",
+    "label": "Template for prompt: card displaying a top friend's twitter avatar, handle, and username, as well as Friend Score and a share button",
+    "dateAdded": "2023-12-31T04:50:02.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/Jr99QOzVjOG",
+    "label": "Template for prompt: A job search engine that lets you search jobs with your resume",
+    "dateAdded": "2023-12-31T04:50:02.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/jMhfGJshTBA",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-31T04:50:02.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/lIbaIv770wO",
+    "label": "Template for prompt: A job search engine that lets you search jobs with your resume",
+    "dateAdded": "2023-12-31T04:50:02.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zm15BTLHLTF",
+    "label": "Template for prompt: A gui form for creating and displaying a bracket tournament.  The form should be able to create round robin, single elimination, double elimination, with x number of teams. ",
+    "dateAdded": "2023-12-31T04:50:02.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/557p1DZM6IR",
+    "label": "Template for prompt: a tournament bracket displaying team names, a team image, and their position on the bracket. ",
+    "dateAdded": "2023-12-31T04:50:02.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/PK86TL7OPFS",
+    "label": "Template for prompt: 帮我基于 arco design 设计一个登录页面",
+    "dateAdded": "2023-12-31T04:50:02.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/CL6XXkDJBCV",
+    "label": "Template for prompt: create a landing page like apple's iphone page",
+    "dateAdded": "2023-12-31T04:50:02.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/GoddfQp7YTl",
+    "label": "Template for prompt: 帮我基于 arco design 设计一个登录页面",
+    "dateAdded": "2023-12-31T04:50:02.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/lOvyh1vTBPr",
+    "label": "Template for prompt: saas admin page setting templete ",
+    "dateAdded": "2023-12-31T04:50:02.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/JUf7R1hOOlL",
+    "label": "Template for prompt: 日历的图标",
+    "dateAdded": "2023-12-31T04:50:02.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/0Lv5qn4Dv0U",
+    "label": "Template for prompt: Create me an attractive footer using React.js and plain CSS\\",
+    "dateAdded": "2023-12-31T04:50:02.928Z"
   }
 ]
