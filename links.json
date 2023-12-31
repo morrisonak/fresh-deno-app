@@ -80688,5 +80688,125 @@
     "url": "https://v0.dev/t/8kUkCAOBlah",
     "label": "Template for prompt: make a vaults page where we can show list of 10 vaults and each vault will have info like tvl , deposit apr name of the vault and the 2 logos of the token that are in the vault and a button to send the user to vaults page ",
     "dateAdded": "2023-12-31T06:40:02.669Z"
+  },
+  {
+    "url": "https://v0.dev/t/Hc3pNWIjWfT",
+    "label": "Template for prompt: An application that allows users to see their own image and check their own concentration statistics.",
+    "dateAdded": "2023-12-31T06:45:02.986Z"
+  },
+  {
+    "url": "https://v0.dev/t/HrYHcL0Vlzf",
+    "label": "Template for prompt: A landing page for my design portfolio",
+    "dateAdded": "2023-12-31T06:45:02.986Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wq178FI5PiQ",
+    "label": "Template for prompt: admin dashboard with tailwind",
+    "dateAdded": "2023-12-31T06:45:02.986Z"
+  },
+  {
+    "url": "https://v0.dev/t/yiqWp54djmc",
+    "label": "Template for prompt: welcome page",
+    "dateAdded": "2023-12-31T06:45:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/UOJ5FIOZ8RI",
+    "label": "Template for prompt: Household chore apps",
+    "dateAdded": "2023-12-31T06:45:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/HH6yqmP9Q1v",
+    "label": "Template for prompt: recreate this stars ellipse effect",
+    "dateAdded": "2023-12-31T06:45:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/XVrbxFmwRxR",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-31T06:45:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/EvJSVXYuuSL",
+    "label": "Template for prompt: Make a component with rounded corners that should show the last updated score from 1-10, percentage increase or decrease from last update in green or red text respective with an up or down arrow in the same color, and overall trend as either positive negative or neutral.",
+    "dateAdded": "2023-12-31T06:45:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/DQUlY780eFG",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-31T06:45:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/TVysAy7ehc7",
+    "label": "Template for prompt: Three panel layout all in dark mode.\nLeft section shows all the list of layers and is 20% width\nMiddle section shows the image that can be edited. \nThird section is also 20% shows options: Name (input), type(select, options), descrption(textarea)",
+    "dateAdded": "2023-12-31T06:45:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/VzLT0bHXalK",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-31T06:45:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/rg3f0MCt0x7",
+    "label": "Template for prompt: dark mode light mode toggle",
+    "dateAdded": "2023-12-31T06:45:02.988Z"
+  },
+  {
+    "url": "https://v0.dev/t/YcQEMmj4OhF",
+    "label": "Template for prompt: portafolio de fullstack",
+    "dateAdded": "2023-12-31T06:45:02.988Z"
+  },
+  {
+    "url": "https://v0.dev/t/M3dLv5onc9J",
+    "label": "Template for prompt: Three panel layout all in dark mode, left section shows all the list of screens, middle section shows the screen and is like an image editor. Third section shows options for the selected part of image ",
+    "dateAdded": "2023-12-31T06:45:02.988Z"
+  },
+  {
+    "url": "https://v0.dev/t/cjdiKIXmPGY",
+    "label": "Template for prompt: A postcode search which returns nearest primary schools, and a list of contacts and their emails from each school",
+    "dateAdded": "2023-12-31T06:45:02.988Z"
+  },
+  {
+    "url": "https://v0.dev/t/MPCrSpwBThe",
+    "label": "Template for prompt: Landing page for portfolio website",
+    "dateAdded": "2023-12-31T06:45:02.988Z"
+  },
+  {
+    "url": "https://v0.dev/t/N0YIwcGPOCl",
+    "label": "Template for prompt: I am building a task management application as shown in the above image, the above image is the dashboard of the project which shows various stats. My application has 4 main pages 1. Taskview, 2. Board, 3.Playgorund, 4.Calender. Now add Ui in the empty space below the stats to these pages. Using my theme color",
+    "dateAdded": "2023-12-31T06:45:02.988Z"
+  },
+  {
+    "url": "https://v0.dev/t/O0X91R2S788",
+    "label": "Template for prompt: design a book details page like this",
+    "dateAdded": "2023-12-31T06:45:02.988Z"
+  },
+  {
+    "url": "https://v0.dev/t/BaO3Gel3fDF",
+    "label": "Template for prompt: create a navbar for personal portfolio of UI/UX designer",
+    "dateAdded": "2023-12-31T06:45:02.988Z"
+  },
+  {
+    "url": "https://v0.dev/t/pPad6CqbwM1",
+    "label": "Template for prompt: سلام یک قالب پرداخت بر اساس تتر طراحی کن",
+    "dateAdded": "2023-12-31T06:45:02.989Z"
+  },
+  {
+    "url": "https://v0.dev/t/CJpI7NC1U6B",
+    "label": "Template for prompt: سلام من نمودار تجزیه و تحلیل dfd هتل میخوام",
+    "dateAdded": "2023-12-31T06:45:02.989Z"
+  },
+  {
+    "url": "https://v0.dev/t/0Kc3UidnKid",
+    "label": "Template for prompt: create react js code using next.js framework",
+    "dateAdded": "2023-12-31T06:45:02.989Z"
+  },
+  {
+    "url": "https://v0.dev/t/mMJ7c1yy9k2",
+    "label": "Template for prompt: چگونه تصویر را در وب کدهای وب سایت وارد کنیم",
+    "dateAdded": "2023-12-31T06:45:02.989Z"
+  },
+  {
+    "url": "https://v0.dev/t/4Xpn5nYwDPu",
+    "label": "Template for prompt: make a modern overflay component for crome extention that describes user selected text",
+    "dateAdded": "2023-12-31T06:45:02.989Z"
   }
 ]
