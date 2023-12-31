@@ -72258,5 +72258,135 @@
     "url": "https://v0.dev/t/m3C5iRng7hF",
     "label": "Template for prompt: An personal website with an young design",
     "dateAdded": "2023-12-31T01:05:03.705Z"
+  },
+  {
+    "url": "https://v0.dev/t/RFm7SRUmxTi",
+    "label": "Template for prompt: modern minimal user profile dashboard for system admin to manage user information",
+    "dateAdded": "2023-12-31T01:10:03.267Z"
+  },
+  {
+    "url": "https://v0.dev/t/FzPRMVLsaZI",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-31T01:10:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/oNJQN5QlukS",
+    "label": "Template for prompt: an application that generates a standard operating procedure for you. All you have to do is type in the title",
+    "dateAdded": "2023-12-31T01:10:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/pGc7z6DWBXM",
+    "label": "Template for prompt: i just a need a very basic button that can suggest some options of questions to select, the question that is clicked on is the one that is filled into the input with a send button",
+    "dateAdded": "2023-12-31T01:10:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/VyrgK44MDsT",
+    "label": "Template for prompt: app similar to mymind.com",
+    "dateAdded": "2023-12-31T01:10:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/ekVCq4FRbhJ",
+    "label": "Template for prompt: An authentication card that only lets you sign in with Spotify. It will use the Spotify logo. It has a couple sentence description of why it needs Spotify permissions",
+    "dateAdded": "2023-12-31T01:10:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/zwdJ4DTdpwx",
+    "label": "Template for prompt: create a django project tat send data from an arduino code to python for dht 11 and esp8266",
+    "dateAdded": "2023-12-31T01:10:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/vDBlRUGpSvj",
+    "label": "Template for prompt: An app similar to a social network which highlights events, activities and small business around me",
+    "dateAdded": "2023-12-31T01:10:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/wtkJqEBKJtO",
+    "label": "Template for prompt: Imagine u have to represent a collection of products from a shop. This is the data provided by API. We might use styled cards for each one, as an idea.\n\n[\n    {\n        \"id\": 1,\n        \"created_at\": \"2023-12-18T18:21:33.000000Z\",\n        \"updated_at\": \"2023-12-18T18:21:33.000000Z\",\n        \"name\": \"Product 1\",\n        \"price\": 10,\n        \"tax_id\": 1,\n        \"stock\": 0,\n        \"image\": null,\n        \"shop_id\": 1,\n        \"color\": null,\n        \"sections_id\": 1,\n        \"deleted\": 0,\n        \"shop\": {\n            \"id\": 1,\n            \"created_at\": \"2023-12-18T18:21:33.000000Z\",\n            \"updated_at\": \"2023-12-18T18:21:33.000000Z\",\n            \"name\": \"Shop 1\",\n            \"logo\": null,\n            \"description\": null,\n            \"user_id\": 1,\n            \"fiscal_name\": null,\n            \"fiscal_id\": null,\n            \"fiscal_address\": null,\n            \"fiscal_phone\": null,\n            \"fiscal_email\": null,\n            \"fiscal_web\": null,\n            \"fiscal_logo\": null\n        }",
+    "dateAdded": "2023-12-31T01:10:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/WBSQfcc1BFV",
+    "label": "Template for prompt: a personal dashboard",
+    "dateAdded": "2023-12-31T01:10:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/AvP50Kw24x9",
+    "label": "Template for prompt: using vercel ai sdk write a streaming response for a question through an api route",
+    "dateAdded": "2023-12-31T01:10:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/GMS96iLgFLw",
+    "label": "Template for prompt: maintain the same structure on desktop but make it mobile friendly/responsive",
+    "dateAdded": "2023-12-31T01:10:03.270Z"
+  },
+  {
+    "url": "https://v0.dev/t/hj6y6nwVJek",
+    "label": "Template for prompt: crea un cronometro ",
+    "dateAdded": "2023-12-31T01:10:03.270Z"
+  },
+  {
+    "url": "https://v0.dev/t/qCtENo1XOqC",
+    "label": "Template for prompt: Make a chat app like a ChatGPT",
+    "dateAdded": "2023-12-31T01:10:03.270Z"
+  },
+  {
+    "url": "https://v0.dev/t/mgUyEFqPfYn",
+    "label": "Template for prompt: An ecommerce website that offers websites",
+    "dateAdded": "2023-12-31T01:10:03.270Z"
+  },
+  {
+    "url": "https://v0.dev/t/TPnkGPFCmjq",
+    "label": "Template for prompt: create a dashboard for a job marketplace. it should contain rows of small cards representing listed jobs. each card should have a percentage bar representing the amount of work that still needs to be done. the webpage should also have a top bar containing a search bar, a button to list a job and a profile picture. the theme should resemble Duolingo.",
+    "dateAdded": "2023-12-31T01:10:03.271Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wgnu95ru3tB",
+    "label": "Template for prompt: engine style website that uses AI to generate questions and help users find the best product recommendations.\n\nKey Elements:\n\nCentral Focus: The search input query should be the primary focus of the homepage. It should be prominently featured in the center of the page, akin to the layouts of Google and Bing.\n\nMinimalist Design: Adopt a clean, minimalist aesthetic with plenty of whitespace surrounding the search bar. This approach should emphasize clarity and ease of use.\n\nCompany Logo: Place the 'Options Elevated' logo in a subtle, yet noticeable location. The upper-left corner is suggested for maximum visibility without dominating the design.\n\nTagline and Explanation: Include a concise tagline near the search bar that succinctly explains the site's AI-driven approach to generating product recommendations.\n\nEssential Links: Organize essential links like 'About Us', 'Contact', and 'Privacy Policy' in a tidy and unobtrusive manner, possibly at the bottom of the page or in a discreet menu",
+    "dateAdded": "2023-12-31T01:10:03.271Z"
+  },
+  {
+    "url": "https://v0.dev/t/NJkKaLxEvtE",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-31T01:10:03.271Z"
+  },
+  {
+    "url": "https://v0.dev/t/0TDaRNcmHNF",
+    "label": "Template for prompt: static personal website with a beautiful UI ",
+    "dateAdded": "2023-12-31T01:10:03.271Z"
+  },
+  {
+    "url": "https://v0.dev/t/IqKpSi792LW",
+    "label": "Template for prompt: i want the b est portflio code in reactjs or javascript but ui and animations should be perfect ok I will submit all my project links and every thing ok",
+    "dateAdded": "2023-12-31T01:10:03.271Z"
+  },
+  {
+    "url": "https://v0.dev/t/N4nEEgwPRSt",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2023-12-31T01:10:03.271Z"
+  },
+  {
+    "url": "https://v0.dev/t/SrnwO8LFIoL",
+    "label": "Template for prompt: Quero uma interface para um site de fila de barbearia",
+    "dateAdded": "2023-12-31T01:10:03.272Z"
+  },
+  {
+    "url": "https://v0.dev/t/qbhhov48qax",
+    "label": "Template for prompt: Make a chat app like a ChatGPT ",
+    "dateAdded": "2023-12-31T01:10:03.272Z"
+  },
+  {
+    "url": "https://v0.dev/t/fhOqzSuCi59",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-31T01:10:03.272Z"
+  },
+  {
+    "url": "https://v0.dev/t/YgI2WLA3TRC",
+    "label": "Template for prompt: There is an address search bar in the middle, and there are two blocks below it. Of the two blocks, I would like to request location permission for the left block and receive weather information for the current location using the weather API. If you want to know detailed weather information, you can click this block to view it on a new page. For the right block, I would like to simply recommend outfit coordination based on the weather information for the left block. If you want to know more detailed coordination or other outfit coordination, you can click this block to check in more detail on a new page.",
+    "dateAdded": "2023-12-31T01:10:03.272Z"
+  },
+  {
+    "url": "https://v0.dev/t/SYvcS7ThRqg",
+    "label": "Template for prompt: A nav bar with four links and an avatar display on the right",
+    "dateAdded": "2023-12-31T01:10:03.273Z"
   }
 ]
