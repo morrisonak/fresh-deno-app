@@ -72893,5 +72893,125 @@
     "url": "https://v0.dev/t/GGxRwkFvvsb",
     "label": "Template for prompt: Disposition Générale :\nÉcran d'Accueil Intuitif : L'écran présente une interface utilisateur propre et moderne, avec une navigation facile et une palette de couleurs qui est à la fois invitante et professionnelle.\nBarre de Navigation : En haut de l'écran, une barre de navigation discrète comprend des icônes pour les paramètres de l'utilisateur, les notifications, et le profil.\nSections d'Activités :\nCatégories d'Activités en Vedette : La majeure partie de l'écran est consacrée à présenter des activités soigneusement sélectionnées. Chaque activité est représentée par une image vibrante et attrayante accompagnée d'un titre descriptif.\nParcs d'Aventure : Une image évoquant l'excitation avec des montagnes russes ou des activités en plein air.\nRestauration Gastronomique : Une représentation alléchante d'un repas de luxe ou d'un cadre de restaurant élégant.\nSentiers Nature : Une belle image de paysage naturel qui invite à l'exploration et à la détente.\nFonctionnalités et Informations :\nDescr",
     "dateAdded": "2023-12-31T01:30:03.372Z"
+  },
+  {
+    "url": "https://v0.dev/t/hQizyXJokf6",
+    "label": "Template for prompt: area for viewing an orders inventory, make it so fields can be edited and there is a save button ",
+    "dateAdded": "2023-12-31T01:35:03.186Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y2I9BxIgNe2",
+    "label": "Template for prompt: create a skeleton loader for a  large rectangle",
+    "dateAdded": "2023-12-31T01:35:03.186Z"
+  },
+  {
+    "url": "https://v0.dev/t/WpZgEgTDJxz",
+    "label": "Template for prompt: pokedex",
+    "dateAdded": "2023-12-31T01:35:03.186Z"
+  },
+  {
+    "url": "https://v0.dev/t/wUOghwJm8UQ",
+    "label": "Template for prompt: a combobox with @radix-ui/themes",
+    "dateAdded": "2023-12-31T01:35:03.186Z"
+  },
+  {
+    "url": "https://v0.dev/t/jMsfauQVlk4",
+    "label": "Template for prompt: A landing page for my Discord bot",
+    "dateAdded": "2023-12-31T01:35:03.186Z"
+  },
+  {
+    "url": "https://v0.dev/t/4QIkM2CrDks",
+    "label": "Template for prompt: create a similar but fitness page",
+    "dateAdded": "2023-12-31T01:35:03.187Z"
+  },
+  {
+    "url": "https://v0.dev/t/cRtpW9hAaOA",
+    "label": "Template for prompt: Create a filter bar that allows you to filter by repository, user, and time period (1 day, 1 week, 1 month, 1 quarter)",
+    "dateAdded": "2023-12-31T01:35:03.187Z"
+  },
+  {
+    "url": "https://v0.dev/t/2S4x5TcvZiF",
+    "label": "Template for prompt: I want an interface similar to ChatGPT's, but instead of a text box, I'd like a circle to appear, simulating the appearance of listening to an audio input, as if it were an artificial intelligence processing sound.",
+    "dateAdded": "2023-12-31T01:35:03.187Z"
+  },
+  {
+    "url": "https://v0.dev/t/dVpxMJvhjXq",
+    "label": "Template for prompt: 登录页面",
+    "dateAdded": "2023-12-31T01:35:03.187Z"
+  },
+  {
+    "url": "https://v0.dev/t/gy2Cn4DMXTX",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-31T01:35:03.187Z"
+  },
+  {
+    "url": "https://v0.dev/t/5WB13XkjW4v",
+    "label": "Template for prompt: A dashboard showing performance status for servers in cards. Multiple servers supported; showing for each hostname, ip address, and gauges for cpu, memory, and disk usage. It should also display the last update time for the card's information. The user interface should be beautiful and hypermodern; minimal, but with intense splashes of color and animations tied to statistics for effect",
+    "dateAdded": "2023-12-31T01:35:03.187Z"
+  },
+  {
+    "url": "https://v0.dev/t/kgnueu8sfcz",
+    "label": "Template for prompt: header with menu",
+    "dateAdded": "2023-12-31T01:35:03.187Z"
+  },
+  {
+    "url": "https://v0.dev/t/E1APG1swQev",
+    "label": "Template for prompt: happy new year with animation",
+    "dateAdded": "2023-12-31T01:35:03.187Z"
+  },
+  {
+    "url": "https://v0.dev/t/IcOYetPOMcY",
+    "label": "Template for prompt: Simple navbar with three sections and a logo ",
+    "dateAdded": "2023-12-31T01:35:03.188Z"
+  },
+  {
+    "url": "https://v0.dev/t/S7YUV3S1QPf",
+    "label": "Template for prompt: a search page with pagination, searching through a list of federal grants",
+    "dateAdded": "2023-12-31T01:35:03.188Z"
+  },
+  {
+    "url": "https://v0.dev/t/I1L3ZHPv7lz",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-31T01:35:03.188Z"
+  },
+  {
+    "url": "https://v0.dev/t/8ikcWdo08DH",
+    "label": "Template for prompt: a site like mercadolibre.com",
+    "dateAdded": "2023-12-31T01:35:03.188Z"
+  },
+  {
+    "url": "https://v0.dev/t/cg52dmKUxUk",
+    "label": "Template for prompt: Increase the quality of this photo ",
+    "dateAdded": "2023-12-31T01:35:03.188Z"
+  },
+  {
+    "url": "https://v0.dev/t/iTeVbaCbHKu",
+    "label": "Template for prompt: Creating a circle of artificial intelligence in the style of Cortana that moves when talking on a web page would require HTML code, CSS and possibly JavaScript.",
+    "dateAdded": "2023-12-31T01:35:03.188Z"
+  },
+  {
+    "url": "https://v0.dev/t/QeKDREEttAO",
+    "label": "Template for prompt: سلام خوبی ",
+    "dateAdded": "2023-12-31T01:35:03.188Z"
+  },
+  {
+    "url": "https://v0.dev/t/6AgorUHxjBP",
+    "label": "Template for prompt: A site where you put your twitter username and it generates you an image with a phrase.",
+    "dateAdded": "2023-12-31T01:35:03.188Z"
+  },
+  {
+    "url": "https://v0.dev/t/FaFuhWjN5c2",
+    "label": "Template for prompt: henerate an home page with that contains an intro, then  marketplace, Certified sellers, product category, contact us",
+    "dateAdded": "2023-12-31T01:35:03.188Z"
+  },
+  {
+    "url": "https://v0.dev/t/DYob2rtX5lk",
+    "label": "Template for prompt: سلام خوبی",
+    "dateAdded": "2023-12-31T01:35:03.189Z"
+  },
+  {
+    "url": "https://v0.dev/t/zPBYtjvIUUp",
+    "label": "Template for prompt: A header that says \"All data provided by Spotify\" with a link to Log Out",
+    "dateAdded": "2023-12-31T01:35:03.189Z"
   }
 ]
