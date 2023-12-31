@@ -74253,5 +74253,135 @@
     "url": "https://v0.dev/t/Gg1poC9A8Wt",
     "label": "Template for prompt: 下部にタグ一覧とWeb Share APIを呼び出すボタンのあるブログの記事詳細画面",
     "dateAdded": "2023-12-31T02:25:03.359Z"
+  },
+  {
+    "url": "https://v0.dev/t/YkJlFUyIOti",
+    "label": "Template for prompt: Desing a Drawer for the purpose of editing a product.\n\n      <Drawer open={isEditDrawerOpen} onClose={() => setIsEditDrawerOpen(false)}>\n                <DrawerContent className=\"sm:max-w-[425px] p-4\">\n                    <DrawerHeader>\n                        <DrawerTitle className=\"text-5xl\">{product.name}</DrawerTitle>\n                        <DrawerDescription className=\"text-black/40\">Description</DrawerDescription>\n                    </DrawerHeader>\n                    <div className=\"flex flex-col w-full gap-3\">{/* Edit form goes here */}</div>\n                    <DrawerFooter className=\"px-0\">\n                        <DrawerClose asChild>\n                            <Button variant=\"outline\" size=\"lg\">\n                                Okay\n                            </Button>\n                        </DrawerClose>\n                    </DrawerFooter>\n                </DrawerContent>\n      </Drawer>",
+    "dateAdded": "2023-12-31T02:30:03.134Z"
+  },
+  {
+    "url": "https://v0.dev/t/3GQ0MI0E6yE",
+    "label": "Template for prompt: A webapp page for a company, prompting the user to enter their order ID and submit it",
+    "dateAdded": "2023-12-31T02:30:03.134Z"
+  },
+  {
+    "url": "https://v0.dev/t/dLYRgfdu1Jj",
+    "label": "Template for prompt: wishlist app",
+    "dateAdded": "2023-12-31T02:30:03.134Z"
+  },
+  {
+    "url": "https://v0.dev/t/QCsnAj69bJX",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-31T02:30:03.135Z"
+  },
+  {
+    "url": "https://v0.dev/t/U0qkoXUq4Xj",
+    "label": "Template for prompt: 登录框",
+    "dateAdded": "2023-12-31T02:30:03.135Z"
+  },
+  {
+    "url": "https://v0.dev/t/siKNyaxyxNL",
+    "label": "Template for prompt: Artist website for waleed",
+    "dateAdded": "2023-12-31T02:30:03.135Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZP4CKwiIUzO",
+    "label": "Template for prompt: A landing page for a farm database management website",
+    "dateAdded": "2023-12-31T02:30:03.135Z"
+  },
+  {
+    "url": "https://v0.dev/t/T0R5jpFCveW",
+    "label": "Template for prompt: 库存管理",
+    "dateAdded": "2023-12-31T02:30:03.135Z"
+  },
+  {
+    "url": "https://v0.dev/t/YwvOQboUAGq",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-31T02:30:03.136Z"
+  },
+  {
+    "url": "https://v0.dev/t/UOhjFWZc5YB",
+    "label": "Template for prompt: 库存管理",
+    "dateAdded": "2023-12-31T02:30:03.136Z"
+  },
+  {
+    "url": "https://v0.dev/t/X3JXyR0BCOy",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-31T02:30:03.136Z"
+  },
+  {
+    "url": "https://v0.dev/t/yBOt8ODYnkY",
+    "label": "Template for prompt: A navbar with a home button, two navigation menu items. Then on the right, a toggle for light vs dark mode and also a sign in profile icon",
+    "dateAdded": "2023-12-31T02:30:03.136Z"
+  },
+  {
+    "url": "https://v0.dev/t/iqj2Eb8aGm7",
+    "label": "Template for prompt: A contact me page in React.js",
+    "dateAdded": "2023-12-31T02:30:03.136Z"
+  },
+  {
+    "url": "https://v0.dev/t/oSxaTqmd6T6",
+    "label": "Template for prompt: I want a circle in the center that simulates an eye that is listening to the instructions given by voice and I want the responses of the conversation to be shown below",
+    "dateAdded": "2023-12-31T02:30:03.137Z"
+  },
+  {
+    "url": "https://v0.dev/t/T5wP90MNkCb",
+    "label": "Template for prompt: feature section with icons responsive ",
+    "dateAdded": "2023-12-31T02:30:03.137Z"
+  },
+  {
+    "url": "https://v0.dev/t/0R3eiDAHauh",
+    "label": "Template for prompt: meteria design style,mine page",
+    "dateAdded": "2023-12-31T02:30:03.137Z"
+  },
+  {
+    "url": "https://v0.dev/t/947j8adLk8p",
+    "label": "Template for prompt: 登陆系统",
+    "dateAdded": "2023-12-31T02:30:03.137Z"
+  },
+  {
+    "url": "https://v0.dev/t/vDAEm8gEBWw",
+    "label": "Template for prompt: A page where a user can input their intentions and goals for today.",
+    "dateAdded": "2023-12-31T02:30:03.137Z"
+  },
+  {
+    "url": "https://v0.dev/t/bKhdLSjtsQ8",
+    "label": "Template for prompt: Create a table in python",
+    "dateAdded": "2023-12-31T02:30:03.137Z"
+  },
+  {
+    "url": "https://v0.dev/t/9yJGoBkjur9",
+    "label": "Template for prompt: A web app menu bar with the brand on the left, a search bar, and profile image on the right. Use shadUI",
+    "dateAdded": "2023-12-31T02:30:03.138Z"
+  },
+  {
+    "url": "https://v0.dev/t/hyk1UZR8Qp4",
+    "label": "Template for prompt: 聊天窗口",
+    "dateAdded": "2023-12-31T02:30:03.138Z"
+  },
+  {
+    "url": "https://v0.dev/t/QUfKmWH0pq8",
+    "label": "Template for prompt: Landing page for a healthtech business.",
+    "dateAdded": "2023-12-31T02:30:03.138Z"
+  },
+  {
+    "url": "https://v0.dev/t/WlznXBpk68m",
+    "label": "Template for prompt: Professional Programmer Personal Podcast",
+    "dateAdded": "2023-12-31T02:30:03.138Z"
+  },
+  {
+    "url": "https://v0.dev/t/OnvjaS4SeHh",
+    "label": "Template for prompt: Curriculum vitae",
+    "dateAdded": "2023-12-31T02:30:03.138Z"
+  },
+  {
+    "url": "https://v0.dev/t/0A5PNAF7pIf",
+    "label": "Template for prompt: redesign this landing page for ecommerce website:\n\n",
+    "dateAdded": "2023-12-31T02:30:03.139Z"
+  },
+  {
+    "url": "https://v0.dev/t/7IpCj0fHb2q",
+    "label": "Template for prompt: clone crunchyroll",
+    "dateAdded": "2023-12-31T02:30:03.139Z"
   }
 ]
