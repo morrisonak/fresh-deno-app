@@ -82583,5 +82583,130 @@
     "url": "https://v0.dev/t/oAzYtIduZjf",
     "label": "Template for prompt: extend this landing page, add testmonials, key features, and other interesting sections",
     "dateAdded": "2023-12-31T18:45:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/9Y6Xy4SrnDP",
+    "label": "Template for prompt: سلام",
+    "dateAdded": "2023-12-31T18:50:03.285Z"
+  },
+  {
+    "url": "https://v0.dev/t/EOAezEbs3uU",
+    "label": "Template for prompt: Mejora esta UI",
+    "dateAdded": "2023-12-31T18:50:03.285Z"
+  },
+  {
+    "url": "https://v0.dev/t/yhRMmeG1FZl",
+    "label": "Template for prompt: form with email and password and zod schema verification",
+    "dateAdded": "2023-12-31T18:50:03.286Z"
+  },
+  {
+    "url": "https://v0.dev/t/TCDzDTJNkWv",
+    "label": "Template for prompt: CAN YOU CREATE MA A PHOTOSHOP LIKE UI",
+    "dateAdded": "2023-12-31T18:50:03.286Z"
+  },
+  {
+    "url": "https://v0.dev/t/zAaqDUArwr6",
+    "label": "Template for prompt: make it better standard modern ui",
+    "dateAdded": "2023-12-31T18:50:03.286Z"
+  },
+  {
+    "url": "https://v0.dev/t/psDK7mUSZO3",
+    "label": "Template for prompt: Dns dima",
+    "dateAdded": "2023-12-31T18:50:03.286Z"
+  },
+  {
+    "url": "https://v0.dev/t/gtr7556FFN7",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-31T18:50:03.286Z"
+  },
+  {
+    "url": "https://v0.dev/t/kmaZ0wVBByc",
+    "label": "Template for prompt: <!DOCTYPE html>\n<html lang=\"fa\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>poroject</title>\n    <link rel=\"stylesheet\" href=\"./style.css\">\n</head>\n<body>\n\n        <form method=\"POST\" action=\"../PDO1/index2.php\">\n        <label for=\"ID\">ID=:</label>\n        <input type=\"text\" name=\"ID\" id=\"ID\" />\n        <input type=\"submit\" value=\"SELECT\" />\n    </form>\n\n\n     <form method=\"post\" action=\"../PDO2/PDO/index.php\">\n        <label>firstname:</label>\n        <input type=\"text\" name=\"fname\" id=\"fname\">\n        <br>\n        <label>lastname:</label>\n        <input type=\"text\" name=\"lname\" id=\"lname\">\n        <br>\n        <label>age:</label>\n        <input type=\"number\" name=\"age\" id=\"age\">\n        <br>\n        <input type=\"submit\" value=\"insert to db\">\n    </form>\n\n\n    \n<form method=\"post\" action=\"../PDO3/php/index.php\">\n        <label for=\"ID\">ID</label>\n    ",
+    "dateAdded": "2023-12-31T18:50:03.286Z"
+  },
+  {
+    "url": "https://v0.dev/t/nKmkkMxfqeW",
+    "label": "Template for prompt: Sre dashboard",
+    "dateAdded": "2023-12-31T18:50:03.286Z"
+  },
+  {
+    "url": "https://v0.dev/t/HJPl3xJJ8cS",
+    "label": "Template for prompt: make this ui better and modern standard",
+    "dateAdded": "2023-12-31T18:50:03.287Z"
+  },
+  {
+    "url": "https://v0.dev/t/tqzibHCT2JQ",
+    "label": "Template for prompt: make this ui better and modern standard",
+    "dateAdded": "2023-12-31T18:50:03.287Z"
+  },
+  {
+    "url": "https://v0.dev/t/6K03aJIUXUO",
+    "label": "Template for prompt: a pokedex app for viewing pokemon information",
+    "dateAdded": "2023-12-31T18:50:03.287Z"
+  },
+  {
+    "url": "https://v0.dev/t/BK5Vs38h4Lm",
+    "label": "Template for prompt: i want a card that displays a book with it's title price and author, category and contain a like button and a \"add to cart\" button ",
+    "dateAdded": "2023-12-31T18:50:03.287Z"
+  },
+  {
+    "url": "https://v0.dev/t/bPZ3CfA4tLW",
+    "label": "Template for prompt: A pricing widget for ShortMaker (podcast to short clips AI tool) with 3 tiers, free, 16$ a month 99$ a month",
+    "dateAdded": "2023-12-31T18:50:03.287Z"
+  },
+  {
+    "url": "https://v0.dev/t/0ck9Y0wiyaM",
+    "label": "Template for prompt: A personal website of an engineer",
+    "dateAdded": "2023-12-31T18:50:03.287Z"
+  },
+  {
+    "url": "https://v0.dev/t/IoHJ0u2Pk57",
+    "label": "Template for prompt: mobile drinking game homepage with only 2 buttons: join room or create room. minimalistic modern ",
+    "dateAdded": "2023-12-31T18:50:03.287Z"
+  },
+  {
+    "url": "https://v0.dev/t/HSF8p1zEOwJ",
+    "label": "Template for prompt: a web app that helps finding missing pets",
+    "dateAdded": "2023-12-31T18:50:03.287Z"
+  },
+  {
+    "url": "https://v0.dev/t/AKEnbM4MDL8",
+    "label": "Template for prompt: Card",
+    "dateAdded": "2023-12-31T18:50:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/9ty52DsayVk",
+    "label": "Template for prompt: A simple sign-up form with google, facebook, github, and apple option for sign up",
+    "dateAdded": "2023-12-31T18:50:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ap9r9cNIzvG",
+    "label": "Template for prompt: Quiero una interfaz minimalista de mi panel",
+    "dateAdded": "2023-12-31T18:50:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/Gq7x7UXYVnQ",
+    "label": "Template for prompt: A page that looks like Bloomberg Terminal style",
+    "dateAdded": "2023-12-31T18:50:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/y56wcyDqdYC",
+    "label": "Template for prompt: cree moi une page avec : recherche , trier ajoute dede ça 'Date','N° facture','Compte','Libelé','Fournisseur','Reference',\"Date d'echeance\",'Montant'  qui sont des Input et select puis en dessous un tableau avec tableheader 'Date','N° facture','Compte','Libelé','Fournisseur','Reference',\"Date d'echeance\",'Montant'",
+    "dateAdded": "2023-12-31T18:50:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/kGBg5OSf8d6",
+    "label": "Template for prompt: create a very elaborate product page like that of a luxury brand like louis vuitton",
+    "dateAdded": "2023-12-31T18:50:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/laZIvQc7fXP",
+    "label": "Template for prompt: a portfolio with a title, then a description, then the socials buttons, then a timeline for the experience, and at the end put the habilities like javascript, css, html with icons",
+    "dateAdded": "2023-12-31T18:50:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/lHZeaxTqDvi",
+    "label": "Template for prompt: mail client with calendar where in each day there is the number of unread emails",
+    "dateAdded": "2023-12-31T18:50:03.288Z"
   }
 ]
