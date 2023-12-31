@@ -83978,5 +83978,125 @@
     "url": "https://v0.dev/t/nkat7ywOpEU",
     "label": "Template for prompt: I need offcanvas navbar and offcanvas need to come from left to right",
     "dateAdded": "2023-12-31T19:40:04.010Z"
+  },
+  {
+    "url": "https://v0.dev/t/rNCZEvEvhB6",
+    "label": "Template for prompt: Navbar in react js ",
+    "dateAdded": "2023-12-31T19:45:03.278Z"
+  },
+  {
+    "url": "https://v0.dev/t/dcMTqLuiRF5",
+    "label": "Template for prompt: Signup Page:\n\nHeader: Display your platform's logo and name prominently.\nForm Fields:\nEmail/Username (clearly labeled).\nPassword (masked for security).\nConfirm Password (to ensure accuracy).\n\nSocial Login Buttons: Prominently placed buttons for Facebook, Instagram, TikTok, and Telegram login options (if applicable).\nTerms and Conditions and Privacy Policy Links: Clearly visible and accessible links to these documents.\n\"Create Account\" Button: Large and prominent button to initiate account creation.\n\"Forgot Password?\" Link: Situated below the password field for easy access.",
+    "dateAdded": "2023-12-31T19:45:03.279Z"
+  },
+  {
+    "url": "https://v0.dev/t/5tBG0o9AJJF",
+    "label": "Template for prompt: JavaScript logo ",
+    "dateAdded": "2023-12-31T19:45:03.279Z"
+  },
+  {
+    "url": "https://v0.dev/t/0oVCPqL08lH",
+    "label": "Template for prompt: JavaScript logo ",
+    "dateAdded": "2023-12-31T19:45:03.279Z"
+  },
+  {
+    "url": "https://v0.dev/t/6QcfeyEKuh1",
+    "label": "Template for prompt: Simple recipe sharing app for mama recipes",
+    "dateAdded": "2023-12-31T19:45:03.280Z"
+  },
+  {
+    "url": "https://v0.dev/t/Scb8XP3nTIN",
+    "label": "Template for prompt: Make UI better",
+    "dateAdded": "2023-12-31T19:45:03.280Z"
+  },
+  {
+    "url": "https://v0.dev/t/Gt6h1nb2BcZ",
+    "label": "Template for prompt: این صفحه سایت رو با زبان html , css , php طراحی کن",
+    "dateAdded": "2023-12-31T19:45:03.281Z"
+  },
+  {
+    "url": "https://v0.dev/t/RiFgCIuUYzQ",
+    "label": "Template for prompt: a greybox version of super mario",
+    "dateAdded": "2023-12-31T19:45:03.281Z"
+  },
+  {
+    "url": "https://v0.dev/t/WmLeXVKvsuz",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2023-12-31T19:45:03.282Z"
+  },
+  {
+    "url": "https://v0.dev/t/0zqmutOE2MR",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-31T19:45:03.282Z"
+  },
+  {
+    "url": "https://v0.dev/t/60yLc5UnBvH",
+    "label": "Template for prompt: یه لامبورگینی ونومی طراحی کن",
+    "dateAdded": "2023-12-31T19:45:03.282Z"
+  },
+  {
+    "url": "https://v0.dev/t/xKnzUFq3p6v",
+    "label": "Template for prompt:  صفحه ای طراحی کنید که با استفاده از یک textbox هر تعداد عدد از ورودی \nدریافت کرده و در یک آرایه ذخیره نماید \nکادر متنی  ورود عدد \nدکمه ثبت عدد  بررسی عدد مجاز و ثبت عدد در آرایه \nدکمه \"min \" نمایش کوچکترین عدد در آرایه \nدکمه \"max \" نمایش بزرگترین عدد در آرایه \nدکمه \"average \" نمایش معدل اعداد آرایه \n-1 در هر بار فشردن دکمه \"ثب ت عدد\" تعداد اعداد ثبت شده را روی صفحه نمایش دهد \n-2 فقط مجاز به ورود عدد باشد در صورت ورود کاراکترهای غیرعددی پیام هشدار مناسب \nنمایش داده شود و کاراکتر های غیرمجاز از textbox حذف شوند\n-3 حداکثر ارقام هر عدد ورودی 3 رقم باشد و اعداد اعشاری مجاز نباشد \n-4 آرایه اعداد بصورت صعودی مرتب سازی شود \n-5 با دکمه \"min \"کوچکترین عدد در آرایه روی صفحه به رنگ قرمز نمایش داده شود \n-6 با دکمه \"max \"بزرگترین عدد در آرایه روی صفحه به رنگ سبز نمایش داده شود \n-7 با دکمه \"average \"معدل اعداد آرایه محاسبه و نمایش داده شود \n-8 همه نمایش خروجی ها و پیام های هشدار در یک تگ 2h با رنگ قلم قرمز و پس \nزمینه زرد نمایش داده شود ",
+    "dateAdded": "2023-12-31T19:45:03.282Z"
+  },
+  {
+    "url": "https://v0.dev/t/t9kbIgU3k3F",
+    "label": "Template for prompt: Create this dashboard",
+    "dateAdded": "2023-12-31T19:45:03.282Z"
+  },
+  {
+    "url": "https://v0.dev/t/Am3et4mCqh0",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2023-12-31T19:45:03.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/G6SN0onj8kr",
+    "label": "Template for prompt: retro",
+    "dateAdded": "2023-12-31T19:45:03.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/bzHxccEqgxS",
+    "label": "Template for prompt: Welcome Page:\nShort introduction to the platform and its benefits.\nGuide users through connecting their first social media accounts (e.g., tutorial or prompts).\nOffer links to helpful resources or FAQs.",
+    "dateAdded": "2023-12-31T19:45:03.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/nvBbmgowofe",
+    "label": "Template for prompt: A graybox version of mario where you use the arrow keys to move left and right and the spacebar to jump",
+    "dateAdded": "2023-12-31T19:45:03.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/YBemys90q4z",
+    "label": "Template for prompt: a weather app mobile optimized with the following:\n\nconst geocodingApiKey = 'AIzaSyAzC_nKWsvUzMyleDJr_pdhXPCZXWG3koQ';\n    const geocodingApiUrl = `https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(locationInput)}&key=${geocodingApiKey}`;\n",
+    "dateAdded": "2023-12-31T19:45:03.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/qnc3uLdg6sJ",
+    "label": "Template for prompt: A dead simple graybox super mario game",
+    "dateAdded": "2023-12-31T19:45:03.284Z"
+  },
+  {
+    "url": "https://v0.dev/t/KpugoRrnsVN",
+    "label": "Template for prompt: Um dashboard que tenha um formulario para cadastrar produtos e seu stock contendo os seguintes campos name, image, category para produto e o estoque dele é um model separado que contem preço unitário, custo unitario do produto, quantidade e data de validade",
+    "dateAdded": "2023-12-31T19:45:03.284Z"
+  },
+  {
+    "url": "https://v0.dev/t/M6QQVB3Gi3O",
+    "label": "Template for prompt: I need off canvas in react js and offcanvas need to come in sm and md screens only in direction from right side ",
+    "dateAdded": "2023-12-31T19:45:03.284Z"
+  },
+  {
+    "url": "https://v0.dev/t/eIkUNlNdBTD",
+    "label": "Template for prompt: فرم لاگین این عکسو بساز",
+    "dateAdded": "2023-12-31T19:45:03.284Z"
+  },
+  {
+    "url": "https://v0.dev/t/4GKagSxIu8Q",
+    "label": "Template for prompt: I need offcanvas navbar in react js but that offcanvas need to come from right to left and canvas effect also needs to come when screen comes to md and sm screens only",
+    "dateAdded": "2023-12-31T19:45:03.285Z"
+  },
+  {
+    "url": "https://v0.dev/t/QQDuIBxDiv6",
+    "label": "Template for prompt: Um forms para cadastrar produtos e seu stock contendo os seguintes campos name, image, category para produto e o estoque dele é um model separado que contem preço unitário, custo unitario do produto, quantidade e data de validade",
+    "dateAdded": "2023-12-31T19:45:03.285Z"
   }
 ]
