@@ -73768,5 +73768,135 @@
     "url": "https://v0.dev/t/uUwYNVVnxGN",
     "label": "Template for prompt: create a similar but fitness page",
     "dateAdded": "2023-12-31T02:05:03.082Z"
+  },
+  {
+    "url": "https://v0.dev/t/kAipjAwT0SX",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2023-12-31T02:10:03.325Z"
+  },
+  {
+    "url": "https://v0.dev/t/dvQeL7bzCas",
+    "label": "Template for prompt: has un portafolio personal para full stack developer .Net estilo  blog",
+    "dateAdded": "2023-12-31T02:10:03.325Z"
+  },
+  {
+    "url": "https://v0.dev/t/H1WnXPe2ODb",
+    "label": "Template for prompt: landing page for software producto with this feature \n\nBakdb\nBakdb is a self-hosted solution that automates your database backup process. It supports various types of databases and integrates with third-party file providers for uploading backups. All for a one-time payment.\n\nDatabase Support\nCurrently, Bakdb supports the following databases:\n\nPostgreSQL\nWe are actively working on adding support for more databases. Stay tuned for updates.\n\nFile Providers\nBakdb integrates with the following third-party file providers for uploading backups:\n\nAmazon S3\nCloudflare R2\nDigitalOcean Spaces\nBackblaze B2\nWe are also planning to add more file providers in the future.",
+    "dateAdded": "2023-12-31T02:10:03.325Z"
+  },
+  {
+    "url": "https://v0.dev/t/JAteFgC4GJw",
+    "label": "Template for prompt: Remove the bottom space",
+    "dateAdded": "2023-12-31T02:10:03.325Z"
+  },
+  {
+    "url": "https://v0.dev/t/bmUrKEil9yk",
+    "label": "Template for prompt: I want you to write a prompt yo create a pricing component: three pricing tiers , basic, Pro, and Groups with highlights on Pro as best deal for modeling agency pricing, basic will cover photo shoots, editing, and a webpage. pro comes with all of that plus (PR (three publications) , vedio shooting, features in 5 magazines) like the image ",
+    "dateAdded": "2023-12-31T02:10:03.326Z"
+  },
+  {
+    "url": "https://v0.dev/t/SPqpqxJoP2M",
+    "label": "Template for prompt: A meeting attendance tracker using NextUI",
+    "dateAdded": "2023-12-31T02:10:03.326Z"
+  },
+  {
+    "url": "https://v0.dev/t/KxsYOqJwdEM",
+    "label": "Template for prompt: A contact me page in React.js",
+    "dateAdded": "2023-12-31T02:10:03.326Z"
+  },
+  {
+    "url": "https://v0.dev/t/vXm2FSsiw9Z",
+    "label": "Template for prompt: add a pricing page with features. Also, highlight the part where you mention 20% money back guarantee on service failure",
+    "dateAdded": "2023-12-31T02:10:03.326Z"
+  },
+  {
+    "url": "https://v0.dev/t/2SxVRsGL2pd",
+    "label": "Template for prompt: dashboard of a project management webapp",
+    "dateAdded": "2023-12-31T02:10:03.326Z"
+  },
+  {
+    "url": "https://v0.dev/t/OawmpZOOlVT",
+    "label": "Template for prompt: A page with a large search bar as the focal point",
+    "dateAdded": "2023-12-31T02:10:03.327Z"
+  },
+  {
+    "url": "https://v0.dev/t/ErAXm2100mB",
+    "label": "Template for prompt: A checklist of items that the user must check to move to the next page.\n",
+    "dateAdded": "2023-12-31T02:10:03.327Z"
+  },
+  {
+    "url": "https://v0.dev/t/MP6JPVr312e",
+    "label": "Template for prompt: selecting category page, which contains couple, family, friends, etc.. to be based for proposing pose for selfie",
+    "dateAdded": "2023-12-31T02:10:03.327Z"
+  },
+  {
+    "url": "https://v0.dev/t/nHhrJylEZAu",
+    "label": "Template for prompt: project management website",
+    "dateAdded": "2023-12-31T02:10:03.327Z"
+  },
+  {
+    "url": "https://v0.dev/t/5IQgPfsNhMT",
+    "label": "Template for prompt: a dashboard for crm",
+    "dateAdded": "2023-12-31T02:10:03.328Z"
+  },
+  {
+    "url": "https://v0.dev/t/KORp1ofh6ZX",
+    "label": "Template for prompt: a dashboard for crm",
+    "dateAdded": "2023-12-31T02:10:03.328Z"
+  },
+  {
+    "url": "https://v0.dev/t/obSRVFRD3Rx",
+    "label": "Template for prompt: make a drop down nav menu for a printing company that when clicked opens up a drop down with all the options nad grid for all the options",
+    "dateAdded": "2023-12-31T02:10:03.328Z"
+  },
+  {
+    "url": "https://v0.dev/t/Lbs4HssJRBo",
+    "label": "Template for prompt: Form wizard with options for what someone wants to biuld",
+    "dateAdded": "2023-12-31T02:10:03.328Z"
+  },
+  {
+    "url": "https://v0.dev/t/kk52wgE9ScE",
+    "label": "Template for prompt: dashboard of a worldbuilding aid web app",
+    "dateAdded": "2023-12-31T02:10:03.328Z"
+  },
+  {
+    "url": "https://v0.dev/t/VxAAytG1Mbd",
+    "label": "Template for prompt: song player offline",
+    "dateAdded": "2023-12-31T02:10:03.329Z"
+  },
+  {
+    "url": "https://v0.dev/t/PVStZaCw4wh",
+    "label": "Template for prompt: Challenge: Design a stunning and intuitive homepage for 3rdmoon, a platform igniting collaboration and democratizing knowledge across scientific disciplines.\n\nTarget Audience: Diverse users including researchers, students, educators, and the general public with varying degrees of technical expertise.\n\nKey Features:\n\nDynamic banner: Showcase featured projects, challenges, and trending topics using captivating visuals and animations.\nSeamless search: Implement a user-friendly search bar with intelligent algorithms for accurate and efficient information retrieval.\nIntuitive navigation: Design a clean and uncluttered layout with clear icons and labels for effortless access to diverse content and features.\nCurated collections: Create visually appealing hubs for exploring specific topics, disciplines, and applications.\nInteractive knowledge cards: Develop a unique system for presenting complex concepts through engaging visuals, animations, and interactive elements.\nCommunity-driven content: ",
+    "dateAdded": "2023-12-31T02:10:03.329Z"
+  },
+  {
+    "url": "https://v0.dev/t/mZlEFJ3VTR8",
+    "label": "Template for prompt: landing page of a project management web app",
+    "dateAdded": "2023-12-31T02:10:03.329Z"
+  },
+  {
+    "url": "https://v0.dev/t/s9Zgch1L8vt",
+    "label": "Template for prompt: A TABLE WITH 7 HORIZONTAL 5 VERTIKAL ",
+    "dateAdded": "2023-12-31T02:10:03.329Z"
+  },
+  {
+    "url": "https://v0.dev/t/w99gpNh2HId",
+    "label": "Template for prompt: make a similar but fit page for the first image put a fake map",
+    "dateAdded": "2023-12-31T02:10:03.329Z"
+  },
+  {
+    "url": "https://v0.dev/t/ln7owHgLIML",
+    "label": "Template for prompt: make a similar but fit page for the first image put a fake map",
+    "dateAdded": "2023-12-31T02:10:03.330Z"
+  },
+  {
+    "url": "https://v0.dev/t/UwpUCH8oRGM",
+    "label": "Template for prompt: A website to track daily brewing methods of coffee",
+    "dateAdded": "2023-12-31T02:10:03.330Z"
+  },
+  {
+    "url": "https://v0.dev/t/X633AXqMNix",
+    "label": "Template for prompt: 用vue框架做一个登录框",
+    "dateAdded": "2023-12-31T02:10:03.330Z"
   }
 ]
