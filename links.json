@@ -91518,5 +91518,135 @@
     "url": "https://v0.dev/t/8AsGQrJhxro",
     "label": "Template for prompt: A component name PaymentMethods that take a list of payment methods as a prop. A payment method can be a credit card or paypal. When it's a credit card show the brand, the last 4 digits and the expiration date. When it's paypal simply show the email. For each payment method, add a way to set it as default payment method.",
     "dateAdded": "2024-01-01T15:25:03.740Z"
+  },
+  {
+    "url": "https://v0.dev/t/DNam6li4ANv",
+    "label": "Template for prompt: 123",
+    "dateAdded": "2024-01-01T15:30:03.673Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZlQzyacQsGz",
+    "label": "Template for prompt: a pos ordering app",
+    "dateAdded": "2024-01-01T15:30:03.674Z"
+  },
+  {
+    "url": "https://v0.dev/t/IFmU5rAgK1r",
+    "label": "Template for prompt: a navbar",
+    "dateAdded": "2024-01-01T15:30:03.674Z"
+  },
+  {
+    "url": "https://v0.dev/t/TjbuWbEEXo8",
+    "label": "Template for prompt: I want my second para on the right side on red box when red box height ends I want my second para takes complete width",
+    "dateAdded": "2024-01-01T15:30:03.674Z"
+  },
+  {
+    "url": "https://v0.dev/t/TE2hxh47krG",
+    "label": "Template for prompt: a contact page for a website where backend developers can participate in task and challenges",
+    "dateAdded": "2024-01-01T15:30:03.674Z"
+  },
+  {
+    "url": "https://v0.dev/t/CIeRsetLYvY",
+    "label": "Template for prompt: a contact page for a website where backend developers can participate in task and challenges",
+    "dateAdded": "2024-01-01T15:30:03.675Z"
+  },
+  {
+    "url": "https://v0.dev/t/50VMEFH96fg",
+    "label": "Template for prompt: an hero called \"Our services\" with two cards inside the hero",
+    "dateAdded": "2024-01-01T15:30:03.675Z"
+  },
+  {
+    "url": "https://v0.dev/t/6eUYpOfmXgJ",
+    "label": "Template for prompt: The dashboard design lists the cards\nEach card has a #Tag.\nDesigns with titles on each card",
+    "dateAdded": "2024-01-01T15:30:03.675Z"
+  },
+  {
+    "url": "https://v0.dev/t/4Q8e533yYFK",
+    "label": "Template for prompt: a contact us page ",
+    "dateAdded": "2024-01-01T15:30:03.676Z"
+  },
+  {
+    "url": "https://v0.dev/t/5xigpaIMqFx",
+    "label": "Template for prompt: mobile forum page for woman in 20s and 30s",
+    "dateAdded": "2024-01-01T15:30:03.676Z"
+  },
+  {
+    "url": "https://v0.dev/t/yCZpmAdA5yE",
+    "label": "Template for prompt: a video game ui",
+    "dateAdded": "2024-01-01T15:30:03.677Z"
+  },
+  {
+    "url": "https://v0.dev/t/gJajzQfHr1H",
+    "label": "Template for prompt: generate a nice \"about me\" page with some image placeholder for a personal portrait picture.\nIncluding also a section with CV data",
+    "dateAdded": "2024-01-01T15:30:03.677Z"
+  },
+  {
+    "url": "https://v0.dev/t/MXhtrRo1Ctq",
+    "label": "Template for prompt: Login page",
+    "dateAdded": "2024-01-01T15:30:03.678Z"
+  },
+  {
+    "url": "https://v0.dev/t/72DONIX4U9G",
+    "label": "Template for prompt: pagina de login para aplicativo de deleviry",
+    "dateAdded": "2024-01-01T15:30:03.678Z"
+  },
+  {
+    "url": "https://v0.dev/t/U2BYVbRd3qM",
+    "label": "Template for prompt: dashboard for cross-post platforms, that shows media like Facebook, Instagram, telegram, and Tiktok to authorize the web app.",
+    "dateAdded": "2024-01-01T15:30:03.678Z"
+  },
+  {
+    "url": "https://v0.dev/t/FcYQt3tBCDR",
+    "label": "Template for prompt: A tomato e-commerce page",
+    "dateAdded": "2024-01-01T15:30:03.678Z"
+  },
+  {
+    "url": "https://v0.dev/t/OUBLokFdT1O",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-01T15:30:03.679Z"
+  },
+  {
+    "url": "https://v0.dev/t/6QKZKc2loPa",
+    "label": "Template for prompt: این عکس رو تبدیل کن به دایو html",
+    "dateAdded": "2024-01-01T15:30:03.679Z"
+  },
+  {
+    "url": "https://v0.dev/t/rrrfQVXhymM",
+    "label": "Template for prompt: Card component that contains: title, description, number of votes, number of votes by YouTube subscribers, amount of votes by twitch subscribers, this card will be displayed in column with other alike cards ",
+    "dateAdded": "2024-01-01T15:30:03.679Z"
+  },
+  {
+    "url": "https://v0.dev/t/YO3ayyoaBZ1",
+    "label": "Template for prompt: a page with a list of Dr bios. each has a profile picture, a bio paragraph and a title",
+    "dateAdded": "2024-01-01T15:30:03.679Z"
+  },
+  {
+    "url": "https://v0.dev/t/lrI5b3Kl4tk",
+    "label": "Template for prompt: design a page for file upload",
+    "dateAdded": "2024-01-01T15:30:03.680Z"
+  },
+  {
+    "url": "https://v0.dev/t/jmrzgBIAW16",
+    "label": "Template for prompt: this is my segmented part i.e tumor part inside brain. and i have total original object file of brain from which the tumor part is extracted. now i want to hightlight this tumor part in my original brain.obj i.e overlap two obj files such that i can clearly view the tumor part inside the brain and save that result as .obj in my given path. can you give code for this",
+    "dateAdded": "2024-01-01T15:30:03.680Z"
+  },
+  {
+    "url": "https://v0.dev/t/h4MVSwNkZ6c",
+    "label": "Template for prompt: Card component that contains:",
+    "dateAdded": "2024-01-01T15:30:03.681Z"
+  },
+  {
+    "url": "https://v0.dev/t/eq5WZNDQe6S",
+    "label": "Template for prompt: style this more modern add more instagram like features",
+    "dateAdded": "2024-01-01T15:30:03.681Z"
+  },
+  {
+    "url": "https://v0.dev/t/cWurcPqLnTB",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-01T15:30:03.681Z"
+  },
+  {
+    "url": "https://v0.dev/t/2HviOon5ZVq",
+    "label": "Template for prompt: a dasbboard intergrated postgresql",
+    "dateAdded": "2024-01-01T15:30:03.682Z"
   }
 ]
