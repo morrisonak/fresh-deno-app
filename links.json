@@ -92013,5 +92013,130 @@
     "url": "https://v0.dev/t/yJAiCSEB3S2",
     "label": "Template for prompt: این صفحه وب را برام طراحی کن دقت کن یکی برای گوشیه یکی برای دسکتاپ یعنی برام رسپانسیو کن",
     "dateAdded": "2024-01-01T15:45:02.970Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZX7c6QnDjci",
+    "label": "Template for prompt: Create a screen that displays a list of research achievements.",
+    "dateAdded": "2024-01-01T15:50:03.590Z"
+  },
+  {
+    "url": "https://v0.dev/t/y2hDaWtiD2L",
+    "label": "Template for prompt: A Spoyify clone",
+    "dateAdded": "2024-01-01T15:50:03.590Z"
+  },
+  {
+    "url": "https://v0.dev/t/gHRUZqRowK1",
+    "label": "Template for prompt: create a form for a adding payment method. It should have name, card number, expire date, cvc inputs. And a checkbox for if it's default paymetn card or not",
+    "dateAdded": "2024-01-01T15:50:03.591Z"
+  },
+  {
+    "url": "https://v0.dev/t/Vqrf4Vk08B3",
+    "label": "Template for prompt: A minimal habit tracker",
+    "dateAdded": "2024-01-01T15:50:03.591Z"
+  },
+  {
+    "url": "https://v0.dev/t/MYR7e9fzBk0",
+    "label": "Template for prompt: A dashboard for an email app",
+    "dateAdded": "2024-01-01T15:50:03.591Z"
+  },
+  {
+    "url": "https://v0.dev/t/4aYWVjJGLw0",
+    "label": "Template for prompt: give me a black and white portfolio website for a product designer.",
+    "dateAdded": "2024-01-01T15:50:03.591Z"
+  },
+  {
+    "url": "https://v0.dev/t/BI4aPeF83Nd",
+    "label": "Template for prompt: Make a ",
+    "dateAdded": "2024-01-01T15:50:03.592Z"
+  },
+  {
+    "url": "https://v0.dev/t/XTub2goL04n",
+    "label": "Template for prompt: Create a dashboard layout with a sidenav on the left, a top bar and a sidenav on the right",
+    "dateAdded": "2024-01-01T15:50:03.592Z"
+  },
+  {
+    "url": "https://v0.dev/t/FnlNszAgT2b",
+    "label": "Template for prompt: make a page with title Projects in the middle of the screen. below it should contain rows of columns of 3 cards",
+    "dateAdded": "2024-01-01T15:50:03.592Z"
+  },
+  {
+    "url": "https://v0.dev/t/KsOWmDhuPVu",
+    "label": "Template for prompt: Product catalog for modern e-commerce site with filter mega menu on top",
+    "dateAdded": "2024-01-01T15:50:03.592Z"
+  },
+  {
+    "url": "https://v0.dev/t/WFP6ss3dWMY",
+    "label": "Template for prompt: A vertical list of cards where each card represents a UFC event.  The card should have a large full width image and contain the name, date, and location of the event.",
+    "dateAdded": "2024-01-01T15:50:03.592Z"
+  },
+  {
+    "url": "https://v0.dev/t/DK5CdJBjZ64",
+    "label": "Template for prompt: 대쉬보드 레이아웃",
+    "dateAdded": "2024-01-01T15:50:03.593Z"
+  },
+  {
+    "url": "https://v0.dev/t/V2BJYUP0aQi",
+    "label": "Template for prompt: a website that displays seo rankings from an interactive dashboard",
+    "dateAdded": "2024-01-01T15:50:03.593Z"
+  },
+  {
+    "url": "https://v0.dev/t/1bu2HHPZRfB",
+    "label": "Template for prompt: haz una user list, con la imagen de perfil, correo, nombre de usuario y 3 botones, uno de editar, otro de ver y otro de eliminar",
+    "dateAdded": "2024-01-01T15:50:03.593Z"
+  },
+  {
+    "url": "https://v0.dev/t/x5MdyfUuNLX",
+    "label": "Template for prompt: یک صفحه فرم را به زبان فارسی طراحی کن",
+    "dateAdded": "2024-01-01T15:50:03.593Z"
+  },
+  {
+    "url": "https://v0.dev/t/87WWR1Tq8vX",
+    "label": "Template for prompt: A start page for a spaced repetition website after logging in, displaying the amount of words you know, what words are up for review and so on.",
+    "dateAdded": "2024-01-01T15:50:03.594Z"
+  },
+  {
+    "url": "https://v0.dev/t/mwacG58Iwso",
+    "label": "Template for prompt: a list of email senders with their domain, number of recipients associated with the domain, and a link to view and delete",
+    "dateAdded": "2024-01-01T15:50:03.594Z"
+  },
+  {
+    "url": "https://v0.dev/t/2ni4WNdE22N",
+    "label": "Template for prompt: haz un clon de spotify, con los mismos colores y la misma UI, que sea igual. que sea sólo el panel principal de música, mostrando una playlist de ejemplo",
+    "dateAdded": "2024-01-01T15:50:03.594Z"
+  },
+  {
+    "url": "https://v0.dev/t/uBSjPCxLghW",
+    "label": "Template for prompt: Digital assets ",
+    "dateAdded": "2024-01-01T15:50:03.594Z"
+  },
+  {
+    "url": "https://v0.dev/t/i8oDNfkCVtG",
+    "label": "Template for prompt: n u improve this\nimport React, { useEffect, useState } from 'react';\n \nconst Profile = () => {\n  const [userData, setUserData] = useState({\n    firstname: '',\n    lastname: '',\n    username: '',\n    email: '',\n    address: '',\n    nationality: '',\n    sexe: '',\n  });\n \n  useEffect(() => {\n    const storedUser = localStorage.getItem('user');\n    if (storedUser) {\n      const parsedUser = JSON.parse(storedUser);\n      console.log(parsedUser);\n      setUserData(parsedUser);\n    }\n  }, []);\n\n  return (\n    <div className=\"container mt-4 mb-4 p-3 d-flex justify-content-center\">\n      <div className=\"card p-4\" style={{ width: '350px', backgroundColor: '#efefef', border: 'none', cursor: 'pointer', transition: 'all 0.5s' }}>\n        <div className=\"image d-flex flex-column justify-content-center align-items-center\">\n          <button className=\"btn btn-success\" style={{ height: '140px', width: '140px', borderRadius: '50%' }}>\n            <img src={'../images/comment-image2.jpg'} height=\"100\" w",
+    "dateAdded": "2024-01-01T15:50:03.594Z"
+  },
+  {
+    "url": "https://v0.dev/t/u5kZJRVGwK4",
+    "label": "Template for prompt: create project structure for firebase and react app",
+    "dateAdded": "2024-01-01T15:50:03.594Z"
+  },
+  {
+    "url": "https://v0.dev/t/xk91nujh8Lr",
+    "label": "Template for prompt: n u improve this\nimport React, { useEffect, useState } from 'react';\n \nconst Profile = () => {\n  const [userData, setUserData] = useState({\n    firstname: '',\n    lastname: '',\n    username: '',\n    email: '',\n    address: '',\n    nationality: '',\n    sexe: '',\n  });\n \n  useEffect(() => {\n    const storedUser = localStorage.getItem('user');\n    if (storedUser) {\n      const parsedUser = JSON.parse(storedUser);\n      console.log(parsedUser);\n      setUserData(parsedUser);\n    }\n  }, []);\n\n  return (\n    <div className=\"container mt-4 mb-4 p-3 d-flex justify-content-center\">\n      <div className=\"card p-4\" style={{ width: '350px', backgroundColor: '#efefef', border: 'none', cursor: 'pointer', transition: 'all 0.5s' }}>\n        <div className=\"image d-flex flex-column justify-content-center align-items-center\">\n          <button className=\"btn btn-success\" style={{ height: '140px', width: '140px', borderRadius: '50%' }}>\n            <img src={'../images/comment-image2.jpg'} height=\"100\" w",
+    "dateAdded": "2024-01-01T15:50:03.594Z"
+  },
+  {
+    "url": "https://v0.dev/t/oxNJuxOh89e",
+    "label": "Template for prompt: haz un clon de spotify",
+    "dateAdded": "2024-01-01T15:50:03.594Z"
+  },
+  {
+    "url": "https://v0.dev/t/LXqjRZNigVB",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-01T15:50:03.594Z"
+  },
+  {
+    "url": "https://v0.dev/t/2oQlf80JKRl",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-01T15:50:03.595Z"
   }
 ]
