@@ -90408,5 +90408,130 @@
     "url": "https://v0.dev/t/eZJAWebsD0r",
     "label": "Template for prompt: A list of product categories with image, name and description.",
     "dateAdded": "2024-01-01T03:10:03.700Z"
+  },
+  {
+    "url": "https://v0.dev/t/LL8Hfbm6EoE",
+    "label": "Template for prompt: an admin layout for auth",
+    "dateAdded": "2024-01-01T03:15:03.375Z"
+  },
+  {
+    "url": "https://v0.dev/t/e6ZbJPi86o8",
+    "label": "Template for prompt: A minimalistic, modern but fun SaaS website for a user testing platform for product teams at companies under 100 people called Custify. Include a home page, pricing page and checkout process prior to getting started.",
+    "dateAdded": "2024-01-01T03:15:03.376Z"
+  },
+  {
+    "url": "https://v0.dev/t/N0WVFX0lGmm",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-01T03:15:03.376Z"
+  },
+  {
+    "url": "https://v0.dev/t/AMyepjR1PJS",
+    "label": "Template for prompt: A dashboard to display NFL scores with a purple vikings theme",
+    "dateAdded": "2024-01-01T03:15:03.376Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZHsgjXnipIq",
+    "label": "Template for prompt: create a form that use Shadcn-ui library,  first it display the name of logged in user, then it have 7 button that behaves like a radio group, then a card that have a title and 4 checkboxes in the card, then datepicker, and submit button. All should use the shadcn-ui",
+    "dateAdded": "2024-01-01T03:15:03.377Z"
+  },
+  {
+    "url": "https://v0.dev/t/Mcvxhv8AAbJ",
+    "label": "Template for prompt: now I want you to create this dashboard like in the image. the menue on the left \"my content\" , \"switch template\", and \"Ai Assistant \" are fixed on the left, also the top navbar is fixe (editing items, download, my document ...) are fixed on the top. only the resume componenet: my resume and the document containint (Mohsin Alshammari\nProfessional Title\nShort and engaging pitch about yourself.\nmohsinalshammari.jobs@gmail.com\nPhone Number\nWORK EXPERIENCE\nTitle/Position\nWorkplace/Company\nEDUCATION\nStudy Program\nInstitution/Place of Education\nSKILLS\nSkill\nPERSONAL PROJECTS\nProject Name\nACHIEVEMENTS\nAchievement Name\nelts) are scrolable",
+    "dateAdded": "2024-01-01T03:15:03.377Z"
+  },
+  {
+    "url": "https://v0.dev/t/5cW2dbQJ4rO",
+    "label": "Template for prompt: Product card with manufacturing information",
+    "dateAdded": "2024-01-01T03:15:03.377Z"
+  },
+  {
+    "url": "https://v0.dev/t/8JX8V2zlOv6",
+    "label": "Template for prompt: 피그마에서 작업중인데, 앱 디자인을 부탁해.\n이름만 입력하면돼.",
+    "dateAdded": "2024-01-01T03:15:03.378Z"
+  },
+  {
+    "url": "https://v0.dev/t/7EwWk8JJcyF",
+    "label": "Template for prompt: Create a best home page an best animation",
+    "dateAdded": "2024-01-01T03:15:03.378Z"
+  },
+  {
+    "url": "https://v0.dev/t/uiUVTEDzz33",
+    "label": "Template for prompt: A chatbot where the user's messages are blue and the bot's messages are green, in the chat the user can select multiple values (each option is a square with an icon to represent the option) or type a text or choose a single option (radio group)",
+    "dateAdded": "2024-01-01T03:15:03.378Z"
+  },
+  {
+    "url": "https://v0.dev/t/smztCfqdml5",
+    "label": "Template for prompt: Make a login button oneclick on loading",
+    "dateAdded": "2024-01-01T03:15:03.378Z"
+  },
+  {
+    "url": "https://v0.dev/t/pEUz9YJMSL1",
+    "label": "Template for prompt: Create a toaster",
+    "dateAdded": "2024-01-01T03:15:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/VbNZPzb71bm",
+    "label": "Template for prompt: a donation form with On-Time and Monthly tabs as well as donation selections of $20, $50, $100, $200, $500, $1000",
+    "dateAdded": "2024-01-01T03:15:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/gTCebZ39NZK",
+    "label": "Template for prompt: 모바일 앱 디자인을 부탁해.\n로그인 할때 이름만 입력하면 돼.\n이쁘게 꾸며줘.",
+    "dateAdded": "2024-01-01T03:15:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/q9fFNwGmpwW",
+    "label": "Template for prompt: I want you to create this popup for nextjs code",
+    "dateAdded": "2024-01-01T03:15:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/WswrflkTTCX",
+    "label": "Template for prompt: アイコン付きのリンクボタン",
+    "dateAdded": "2024-01-01T03:15:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/EjwoSVK3fyd",
+    "label": "Template for prompt: create a button toaster",
+    "dateAdded": "2024-01-01T03:15:03.380Z"
+  },
+  {
+    "url": "https://v0.dev/t/SJuTGPzdgUw",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-01T03:15:03.380Z"
+  },
+  {
+    "url": "https://v0.dev/t/DnTrTLpG8dj",
+    "label": "Template for prompt: a layout for authentication frontend admin",
+    "dateAdded": "2024-01-01T03:15:03.380Z"
+  },
+  {
+    "url": "https://v0.dev/t/oyGvkP1cPrn",
+    "label": "Template for prompt: Give me the layout for this",
+    "dateAdded": "2024-01-01T03:15:03.380Z"
+  },
+  {
+    "url": "https://v0.dev/t/OQbOEmUOAgs",
+    "label": "Template for prompt: for a church website generate a quotation of the week section",
+    "dateAdded": "2024-01-01T03:15:03.380Z"
+  },
+  {
+    "url": "https://v0.dev/t/MKqkkEA4PoL",
+    "label": "Template for prompt: Feed list screen in community apps such as Instagram",
+    "dateAdded": "2024-01-01T03:15:03.380Z"
+  },
+  {
+    "url": "https://v0.dev/t/DEdfqB8rBV3",
+    "label": "Template for prompt: login",
+    "dateAdded": "2024-01-01T03:15:03.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/j6FPREWdfTH",
+    "label": "Template for prompt: Fix this so that the image is much largeron the left",
+    "dateAdded": "2024-01-01T03:15:03.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/eZJAWebsD0r",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-01T03:15:03.381Z"
   }
 ]
