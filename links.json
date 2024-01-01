@@ -90903,5 +90903,115 @@
     "url": "https://v0.dev/t/8JX8V2zlOv6",
     "label": "Template for prompt: 피그마에서 작업중인데, 앱 디자인을 부탁해.\n이름만 입력하면돼.",
     "dateAdded": "2024-01-01T03:30:03.159Z"
+  },
+  {
+    "url": "https://v0.dev/t/1QvZCSbn4hg",
+    "label": "Template for prompt: Make a dashboard with options to:\nAnalytics\nCreate event\nBulk upload\nDownload Database\nStaff users",
+    "dateAdded": "2024-01-01T15:05:03.118Z"
+  },
+  {
+    "url": "https://v0.dev/t/D09j0znsiV9",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-01T15:05:03.118Z"
+  },
+  {
+    "url": "https://v0.dev/t/gjNJN9AiTun",
+    "label": "Template for prompt: use css grid",
+    "dateAdded": "2024-01-01T15:05:03.118Z"
+  },
+  {
+    "url": "https://v0.dev/t/zprAO1m7YPb",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-01T15:05:03.118Z"
+  },
+  {
+    "url": "https://v0.dev/t/MnxJyvw9SK2",
+    "label": "Template for prompt: use css grid",
+    "dateAdded": "2024-01-01T15:05:03.119Z"
+  },
+  {
+    "url": "https://v0.dev/t/JspL2QHwzXm",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-01T15:05:03.119Z"
+  },
+  {
+    "url": "https://v0.dev/t/72o5xulTt84",
+    "label": "Template for prompt: I want a mobile view page \nthat has:  Title input Description TextArea  A dropdown menu that has three options  And A button that says Add new task ",
+    "dateAdded": "2024-01-01T15:05:03.119Z"
+  },
+  {
+    "url": "https://v0.dev/t/f3Aj0uAuuO9",
+    "label": "Template for prompt: 2nav \none nav include (dropdown of services,Atm&branch,support)background clolor is black all tag are middle\n\nsecont include(responsive when md menu bar\ninclude card,atm,branches are center of page\ninclude bootstrap and javascript link)",
+    "dateAdded": "2024-01-01T15:05:03.119Z"
+  },
+  {
+    "url": "https://v0.dev/t/a08LqyanIYh",
+    "label": "Template for prompt: generate a google maps-style website which can be used to get the fastest directions from a to b. include a navigation bar for subpages.\n",
+    "dateAdded": "2024-01-01T15:05:03.119Z"
+  },
+  {
+    "url": "https://v0.dev/t/8SIKfWw8sSN",
+    "label": "Template for prompt: A mobile resoponsive dashboard, with google map object and a list of orders underneath. \n\nWhen I click on an order I will see the order's location highlighted on the map.\n",
+    "dateAdded": "2024-01-01T15:05:03.119Z"
+  },
+  {
+    "url": "https://v0.dev/t/oiRFLplggFX",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-01T15:05:03.119Z"
+  },
+  {
+    "url": "https://v0.dev/t/Bb2xP0u8MWC",
+    "label": "Template for prompt: responsive dashboard",
+    "dateAdded": "2024-01-01T15:05:03.119Z"
+  },
+  {
+    "url": "https://v0.dev/t/M2QVwOABYcs",
+    "label": "Template for prompt: i a shopping cart layout please ",
+    "dateAdded": "2024-01-01T15:05:03.120Z"
+  },
+  {
+    "url": "https://v0.dev/t/AzIyWoUe1X9",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-01T15:05:03.120Z"
+  },
+  {
+    "url": "https://v0.dev/t/hzvsGZDcxrm",
+    "label": "Template for prompt: form for products",
+    "dateAdded": "2024-01-01T15:05:03.120Z"
+  },
+  {
+    "url": "https://v0.dev/t/fatJkAPJCD8",
+    "label": "Template for prompt: یک سایت فروشگاهی برای وردپرس بساز",
+    "dateAdded": "2024-01-01T15:05:03.120Z"
+  },
+  {
+    "url": "https://v0.dev/t/uL1e4otjTTr",
+    "label": "Template for prompt: Along with these add a new field where they can add new user to the twitter dashboard, with a password and email. they should be able to revoke them if necessary and also an option to send the email to that user. \n\nremeber the revoke feature should be another field and it just needs an input field",
+    "dateAdded": "2024-01-01T15:05:03.120Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ma0Nb3LrL77",
+    "label": "Template for prompt: Along with these add a new field where they can add new user to the twitter dashboard, with a password and email. they should be able to revoke them if necessary and also an option to send the email to that user. ",
+    "dateAdded": "2024-01-01T15:05:03.120Z"
+  },
+  {
+    "url": "https://v0.dev/t/hFnRrs7vGQj",
+    "label": "Template for prompt: rounded bottom right fixed green button with white whatsapp icon",
+    "dateAdded": "2024-01-01T15:05:03.120Z"
+  },
+  {
+    "url": "https://v0.dev/t/fFCqsTcSbLe",
+    "label": "Template for prompt: how does this look",
+    "dateAdded": "2024-01-01T15:05:03.120Z"
+  },
+  {
+    "url": "https://v0.dev/t/C4o7l35YYL4",
+    "label": "Template for prompt: A responsive navbar with collapsible",
+    "dateAdded": "2024-01-01T15:05:03.120Z"
+  },
+  {
+    "url": "https://v0.dev/t/GH93COQfxAT",
+    "label": "Template for prompt: Focus app streaming audio",
+    "dateAdded": "2024-01-01T15:05:03.121Z"
   }
 ]
