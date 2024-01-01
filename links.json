@@ -91273,5 +91273,125 @@
     "url": "https://v0.dev/t/oUx9rp6bivb",
     "label": "Template for prompt: A spaced repetition app for german",
     "dateAdded": "2024-01-01T15:15:03.842Z"
+  },
+  {
+    "url": "https://v0.dev/t/MXhtrRo1Ctq",
+    "label": "Template for prompt: Login page",
+    "dateAdded": "2024-01-01T15:20:02.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/FcYQt3tBCDR",
+    "label": "Template for prompt: A tomato e-commerce page",
+    "dateAdded": "2024-01-01T15:20:02.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/rrrfQVXhymM",
+    "label": "Template for prompt: Card component that contains: title, description, number of votes, number of votes by YouTube subscribers, amount of votes by twitch subscribers, this card will be displayed in column with other alike cards ",
+    "dateAdded": "2024-01-01T15:20:02.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/72DONIX4U9G",
+    "label": "Template for prompt: pagina de login para aplicativo de deleviry",
+    "dateAdded": "2024-01-01T15:20:02.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/vzKFwXeR58N",
+    "label": "Template for prompt: create product detail page",
+    "dateAdded": "2024-01-01T15:20:02.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/jmrzgBIAW16",
+    "label": "Template for prompt: this is my segmented part i.e tumor part inside brain. and i have total original object file of brain from which the tumor part is extracted. now i want to hightlight this tumor part in my original brain.obj i.e overlap two obj files such that i can clearly view the tumor part inside the brain and save that result as .obj in my given path. can you give code for this",
+    "dateAdded": "2024-01-01T15:20:02.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/lrI5b3Kl4tk",
+    "label": "Template for prompt: design a page for file upload",
+    "dateAdded": "2024-01-01T15:20:02.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/yfBF9skXmL7",
+    "label": "Template for prompt: create product detail page",
+    "dateAdded": "2024-01-01T15:20:02.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/eq5WZNDQe6S",
+    "label": "Template for prompt: style this more modern add more instagram like features",
+    "dateAdded": "2024-01-01T15:20:02.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/cWurcPqLnTB",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-01T15:20:02.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/2HviOon5ZVq",
+    "label": "Template for prompt: a dasbboard intergrated postgresql",
+    "dateAdded": "2024-01-01T15:20:02.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/9hVFAjHQyG7",
+    "label": "Template for prompt: build a badge to display the current environment the page is running",
+    "dateAdded": "2024-01-01T15:20:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/es57Pw4mRKw",
+    "label": "Template for prompt: a couple travel blog landing page called \"bonvoyagerr\" where we can share our experiences and travels as blog articles where the fonts look handwritten and the icons look hand drawn.",
+    "dateAdded": "2024-01-01T15:20:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/t2h6ihyLm8I",
+    "label": "Template for prompt: can you improve the design of this, it is actually a dialog trigger",
+    "dateAdded": "2024-01-01T15:20:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/h4MVSwNkZ6c",
+    "label": "Template for prompt: Card component that contains:",
+    "dateAdded": "2024-01-01T15:20:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/8AsGQrJhxro",
+    "label": "Template for prompt: A component name PaymentMethods that take a list of payment methods as a prop. A payment method can be a credit card or paypal. When it's a credit card show the brand, the last 4 digits and the expiration date. When it's paypal simply show the email. For each payment method, add a way to set it as default payment method.",
+    "dateAdded": "2024-01-01T15:20:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/FrYB1XGwhMW",
+    "label": "Template for prompt: a twitter clone home page",
+    "dateAdded": "2024-01-01T15:20:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/WtioARzmlZb",
+    "label": "Template for prompt: carrusel cards responsive",
+    "dateAdded": "2024-01-01T15:20:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/gJMPUE0z3Kx",
+    "label": "Template for prompt: image gallery with vintage style",
+    "dateAdded": "2024-01-01T15:20:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/LJOZXgRNkjN",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-01T15:20:02.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/TM0jSvFW9tv",
+    "label": "Template for prompt: design a div which should have locations like `21 locations` and beside that there should be a dialog trigger ",
+    "dateAdded": "2024-01-01T15:20:02.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/OOJLMbvI4fG",
+    "label": "Template for prompt: A modern 'Students' page of an overseas education agency website. Must provide information relevant to facilities offered to students - /counselling/support/coaching/etc. Must also include a sleek, beautiful and modern appliaction form for students to fill out in order to join/apply for studying abroad.",
+    "dateAdded": "2024-01-01T15:20:02.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/6GBcvhi90I0",
+    "label": "Template for prompt: A form to collect daily habit info, where you can put time of completion and pick a user everyday.",
+    "dateAdded": "2024-01-01T15:20:02.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/1hoivUnGsPx",
+    "label": "Template for prompt: دیاگرام یا ایدئوگرام",
+    "dateAdded": "2024-01-01T15:20:02.837Z"
   }
 ]
