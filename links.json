@@ -91888,5 +91888,130 @@
     "url": "https://v0.dev/t/aYQOhHcjOHs",
     "label": "Template for prompt: 2 cards, first with a music player UI and second a music searcher and playlist",
     "dateAdded": "2024-01-01T15:40:02.977Z"
+  },
+  {
+    "url": "https://v0.dev/t/WFP6ss3dWMY",
+    "label": "Template for prompt: A vertical list of cards where each card represents a UFC event.  The card should have a large full width image and contain the name, date, and location of the event.",
+    "dateAdded": "2024-01-01T15:45:02.964Z"
+  },
+  {
+    "url": "https://v0.dev/t/DK5CdJBjZ64",
+    "label": "Template for prompt: 대쉬보드 레이아웃",
+    "dateAdded": "2024-01-01T15:45:02.965Z"
+  },
+  {
+    "url": "https://v0.dev/t/KsOWmDhuPVu",
+    "label": "Template for prompt: Product catalog for modern e-commerce site with filter mega menu on top",
+    "dateAdded": "2024-01-01T15:45:02.965Z"
+  },
+  {
+    "url": "https://v0.dev/t/V2BJYUP0aQi",
+    "label": "Template for prompt: a website that displays seo rankings from an interactive dashboard",
+    "dateAdded": "2024-01-01T15:45:02.965Z"
+  },
+  {
+    "url": "https://v0.dev/t/1bu2HHPZRfB",
+    "label": "Template for prompt: haz una user list, con la imagen de perfil, correo, nombre de usuario y 3 botones, uno de editar, otro de ver y otro de eliminar",
+    "dateAdded": "2024-01-01T15:45:02.965Z"
+  },
+  {
+    "url": "https://v0.dev/t/4aYWVjJGLw0",
+    "label": "Template for prompt: give me a black and white portfolio website for a product designer.",
+    "dateAdded": "2024-01-01T15:45:02.965Z"
+  },
+  {
+    "url": "https://v0.dev/t/x5MdyfUuNLX",
+    "label": "Template for prompt: یک صفحه فرم را به زبان فارسی طراحی کن",
+    "dateAdded": "2024-01-01T15:45:02.965Z"
+  },
+  {
+    "url": "https://v0.dev/t/87WWR1Tq8vX",
+    "label": "Template for prompt: A start page for a spaced repetition website after logging in, displaying the amount of words you know, what words are up for review and so on.",
+    "dateAdded": "2024-01-01T15:45:02.965Z"
+  },
+  {
+    "url": "https://v0.dev/t/xk91nujh8Lr",
+    "label": "Template for prompt: n u improve this\nimport React, { useEffect, useState } from 'react';\n \nconst Profile = () => {\n  const [userData, setUserData] = useState({\n    firstname: '',\n    lastname: '',\n    username: '',\n    email: '',\n    address: '',\n    nationality: '',\n    sexe: '',\n  });\n \n  useEffect(() => {\n    const storedUser = localStorage.getItem('user');\n    if (storedUser) {\n      const parsedUser = JSON.parse(storedUser);\n      console.log(parsedUser);\n      setUserData(parsedUser);\n    }\n  }, []);\n\n  return (\n    <div className=\"container mt-4 mb-4 p-3 d-flex justify-content-center\">\n      <div className=\"card p-4\" style={{ width: '350px', backgroundColor: '#efefef', border: 'none', cursor: 'pointer', transition: 'all 0.5s' }}>\n        <div className=\"image d-flex flex-column justify-content-center align-items-center\">\n          <button className=\"btn btn-success\" style={{ height: '140px', width: '140px', borderRadius: '50%' }}>\n            <img src={'../images/comment-image2.jpg'} height=\"100\" w",
+    "dateAdded": "2024-01-01T15:45:02.966Z"
+  },
+  {
+    "url": "https://v0.dev/t/i8oDNfkCVtG",
+    "label": "Template for prompt: n u improve this\nimport React, { useEffect, useState } from 'react';\n \nconst Profile = () => {\n  const [userData, setUserData] = useState({\n    firstname: '',\n    lastname: '',\n    username: '',\n    email: '',\n    address: '',\n    nationality: '',\n    sexe: '',\n  });\n \n  useEffect(() => {\n    const storedUser = localStorage.getItem('user');\n    if (storedUser) {\n      const parsedUser = JSON.parse(storedUser);\n      console.log(parsedUser);\n      setUserData(parsedUser);\n    }\n  }, []);\n\n  return (\n    <div className=\"container mt-4 mb-4 p-3 d-flex justify-content-center\">\n      <div className=\"card p-4\" style={{ width: '350px', backgroundColor: '#efefef', border: 'none', cursor: 'pointer', transition: 'all 0.5s' }}>\n        <div className=\"image d-flex flex-column justify-content-center align-items-center\">\n          <button className=\"btn btn-success\" style={{ height: '140px', width: '140px', borderRadius: '50%' }}>\n            <img src={'../images/comment-image2.jpg'} height=\"100\" w",
+    "dateAdded": "2024-01-01T15:45:02.966Z"
+  },
+  {
+    "url": "https://v0.dev/t/mwacG58Iwso",
+    "label": "Template for prompt: a list of email senders with their domain, number of recipients associated with the domain, and a link to view and delete",
+    "dateAdded": "2024-01-01T15:45:02.966Z"
+  },
+  {
+    "url": "https://v0.dev/t/u5kZJRVGwK4",
+    "label": "Template for prompt: create project structure for firebase and react app",
+    "dateAdded": "2024-01-01T15:45:02.966Z"
+  },
+  {
+    "url": "https://v0.dev/t/2ni4WNdE22N",
+    "label": "Template for prompt: haz un clon de spotify, con los mismos colores y la misma UI, que sea igual. que sea sólo el panel principal de música, mostrando una playlist de ejemplo",
+    "dateAdded": "2024-01-01T15:45:02.967Z"
+  },
+  {
+    "url": "https://v0.dev/t/uBSjPCxLghW",
+    "label": "Template for prompt: Digital assets ",
+    "dateAdded": "2024-01-01T15:45:02.967Z"
+  },
+  {
+    "url": "https://v0.dev/t/2oQlf80JKRl",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-01T15:45:02.968Z"
+  },
+  {
+    "url": "https://v0.dev/t/DJP2P80hwlj",
+    "label": "Template for prompt: make the name, title, summary, profile picture and cover picture editable (inplace) -- remove the pencil icon",
+    "dateAdded": "2024-01-01T15:45:02.968Z"
+  },
+  {
+    "url": "https://v0.dev/t/M7Dq6Tuu8oF",
+    "label": "Template for prompt: Hero Components for portfolio",
+    "dateAdded": "2024-01-01T15:45:02.969Z"
+  },
+  {
+    "url": "https://v0.dev/t/oxNJuxOh89e",
+    "label": "Template for prompt: haz un clon de spotify",
+    "dateAdded": "2024-01-01T15:45:02.969Z"
+  },
+  {
+    "url": "https://v0.dev/t/LXqjRZNigVB",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-01T15:45:02.969Z"
+  },
+  {
+    "url": "https://v0.dev/t/bqY5B1eIkG0",
+    "label": "Template for prompt: Python code",
+    "dateAdded": "2024-01-01T15:45:02.969Z"
+  },
+  {
+    "url": "https://v0.dev/t/1nvQW7kFnSD",
+    "label": "Template for prompt: A SaaS admin dashboard",
+    "dateAdded": "2024-01-01T15:45:02.969Z"
+  },
+  {
+    "url": "https://v0.dev/t/QJ0zitbpc87",
+    "label": "Template for prompt: email validator code by rules",
+    "dateAdded": "2024-01-01T15:45:02.970Z"
+  },
+  {
+    "url": "https://v0.dev/t/4gKb9XpbBR2",
+    "label": "Template for prompt: a menu page that will take you to the web tools of different types",
+    "dateAdded": "2024-01-01T15:45:02.970Z"
+  },
+  {
+    "url": "https://v0.dev/t/skiiR3U2sCb",
+    "label": "Template for prompt: Exactly replicate the image",
+    "dateAdded": "2024-01-01T15:45:02.970Z"
+  },
+  {
+    "url": "https://v0.dev/t/yJAiCSEB3S2",
+    "label": "Template for prompt: این صفحه وب را برام طراحی کن دقت کن یکی برای گوشیه یکی برای دسکتاپ یعنی برام رسپانسیو کن",
+    "dateAdded": "2024-01-01T15:45:02.970Z"
   }
 ]
