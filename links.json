@@ -91143,5 +91143,135 @@
     "url": "https://v0.dev/t/f3Aj0uAuuO9",
     "label": "Template for prompt: 2nav \none nav include (dropdown of services,Atm&branch,support)background clolor is black all tag are middle\n\nsecont include(responsive when md menu bar\ninclude card,atm,branches are center of page\ninclude bootstrap and javascript link)",
     "dateAdded": "2024-01-01T15:10:03.598Z"
+  },
+  {
+    "url": "https://v0.dev/t/LJOZXgRNkjN",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-01T15:15:03.838Z"
+  },
+  {
+    "url": "https://v0.dev/t/CFVSW8ioCp0",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-01T15:15:03.838Z"
+  },
+  {
+    "url": "https://v0.dev/t/t2h6ihyLm8I",
+    "label": "Template for prompt: can you improve the design of this, it is actually a dialog trigger",
+    "dateAdded": "2024-01-01T15:15:03.838Z"
+  },
+  {
+    "url": "https://v0.dev/t/vzKFwXeR58N",
+    "label": "Template for prompt: create product detail page",
+    "dateAdded": "2024-01-01T15:15:03.838Z"
+  },
+  {
+    "url": "https://v0.dev/t/yfBF9skXmL7",
+    "label": "Template for prompt: create product detail page",
+    "dateAdded": "2024-01-01T15:15:03.838Z"
+  },
+  {
+    "url": "https://v0.dev/t/8AsGQrJhxro",
+    "label": "Template for prompt: A component name PaymentMethods that take a list of payment methods as a prop. A payment method can be a credit card or paypal. When it's a credit card show the brand, the last 4 digits and the expiration date. When it's paypal simply show the email. For each payment method, add a way to set it as default payment method.",
+    "dateAdded": "2024-01-01T15:15:03.839Z"
+  },
+  {
+    "url": "https://v0.dev/t/es57Pw4mRKw",
+    "label": "Template for prompt: a couple travel blog landing page called \"bonvoyagerr\" where we can share our experiences and travels as blog articles where the fonts look handwritten and the icons look hand drawn.",
+    "dateAdded": "2024-01-01T15:15:03.839Z"
+  },
+  {
+    "url": "https://v0.dev/t/6GBcvhi90I0",
+    "label": "Template for prompt: A form to collect daily habit info, where you can put time of completion and pick a user everyday.",
+    "dateAdded": "2024-01-01T15:15:03.839Z"
+  },
+  {
+    "url": "https://v0.dev/t/gJMPUE0z3Kx",
+    "label": "Template for prompt: image gallery with vintage style",
+    "dateAdded": "2024-01-01T15:15:03.839Z"
+  },
+  {
+    "url": "https://v0.dev/t/9hVFAjHQyG7",
+    "label": "Template for prompt: build a badge to display the current environment the page is running",
+    "dateAdded": "2024-01-01T15:15:03.839Z"
+  },
+  {
+    "url": "https://v0.dev/t/WtioARzmlZb",
+    "label": "Template for prompt: carrusel cards responsive",
+    "dateAdded": "2024-01-01T15:15:03.839Z"
+  },
+  {
+    "url": "https://v0.dev/t/FrYB1XGwhMW",
+    "label": "Template for prompt: a twitter clone home page",
+    "dateAdded": "2024-01-01T15:15:03.839Z"
+  },
+  {
+    "url": "https://v0.dev/t/TM0jSvFW9tv",
+    "label": "Template for prompt: design a div which should have locations like `21 locations` and beside that there should be a dialog trigger ",
+    "dateAdded": "2024-01-01T15:15:03.840Z"
+  },
+  {
+    "url": "https://v0.dev/t/dE2jKHVI7z1",
+    "label": "Template for prompt: responsive social media app Post/Blog component with \"likes\" and \"comments\" section, include some template comments\na blog has a body, an author, can have images, a share button and a like display. comments are pretty much the same only in the form of a comment",
+    "dateAdded": "2024-01-01T15:15:03.840Z"
+  },
+  {
+    "url": "https://v0.dev/t/1hoivUnGsPx",
+    "label": "Template for prompt: دیاگرام یا ایدئوگرام",
+    "dateAdded": "2024-01-01T15:15:03.840Z"
+  },
+  {
+    "url": "https://v0.dev/t/1droUG69ear",
+    "label": "Template for prompt: responsive dashboard",
+    "dateAdded": "2024-01-01T15:15:03.840Z"
+  },
+  {
+    "url": "https://v0.dev/t/xkxf0xMeXDB",
+    "label": "Template for prompt: At the center top of the screen, there is the main page name. Directly below that, there is a text box with the phrase \"Enter your review.\" Below that, there is a box for responses where the answers corresponding to the above box will appear.",
+    "dateAdded": "2024-01-01T15:15:03.840Z"
+  },
+  {
+    "url": "https://v0.dev/t/WwLCyHbJqTh",
+    "label": "Template for prompt: threejs portoflio",
+    "dateAdded": "2024-01-01T15:15:03.840Z"
+  },
+  {
+    "url": "https://v0.dev/t/OOJLMbvI4fG",
+    "label": "Template for prompt: A modern 'Students' page of an overseas education agency website. Must provide information relevant to facilities offered to students - /counselling/support/coaching/etc. Must also include a sleek, beautiful and modern appliaction form for students to fill out in order to join/apply for studying abroad.",
+    "dateAdded": "2024-01-01T15:15:03.840Z"
+  },
+  {
+    "url": "https://v0.dev/t/FZQyhV2Crnz",
+    "label": "Template for prompt: Mobile responsive backend developer website with blog",
+    "dateAdded": "2024-01-01T15:15:03.841Z"
+  },
+  {
+    "url": "https://v0.dev/t/Sn6DGJ4lfMI",
+    "label": "Template for prompt: mobile responsive home for a b2c saas for slides augmentation",
+    "dateAdded": "2024-01-01T15:15:03.841Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ry87tVgGD08",
+    "label": "Template for prompt: mobile responsive logged in home for a b2c saas for slides augmentation",
+    "dateAdded": "2024-01-01T15:15:03.841Z"
+  },
+  {
+    "url": "https://v0.dev/t/Cvnr8IncmDA",
+    "label": "Template for prompt: صفحه فروشکاهی مخصوص گوشی طراحی کن متن ها راستچین و به صورت فارسی و رنگ ها زرد مشکی",
+    "dateAdded": "2024-01-01T15:15:03.841Z"
+  },
+  {
+    "url": "https://v0.dev/t/PoUkPbuV11V",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-01T15:15:03.841Z"
+  },
+  {
+    "url": "https://v0.dev/t/rdKhpuTfFgQ",
+    "label": "Template for prompt: create a course card where it will show thumbnail, title and total students",
+    "dateAdded": "2024-01-01T15:15:03.842Z"
+  },
+  {
+    "url": "https://v0.dev/t/oUx9rp6bivb",
+    "label": "Template for prompt: A spaced repetition app for german",
+    "dateAdded": "2024-01-01T15:15:03.842Z"
   }
 ]
