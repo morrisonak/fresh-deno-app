@@ -6448,5 +6448,135 @@
     "url": "https://v0.dev/t/Afde27Dv6KS",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2024-01-20T20:35:03.638Z"
+  },
+  {
+    "url": "https://v0.dev/t/gTO3ZcULhEM",
+    "label": "Template for prompt: action menu",
+    "dateAdded": "2024-01-20T20:40:03.248Z"
+  },
+  {
+    "url": "https://v0.dev/t/EkDDOsXEF3G",
+    "label": "Template for prompt: login form with OTP method",
+    "dateAdded": "2024-01-20T20:40:03.248Z"
+  },
+  {
+    "url": "https://v0.dev/t/RwCWDzYoDID",
+    "label": "Template for prompt: design a page in react that looks like the image shared",
+    "dateAdded": "2024-01-20T20:40:03.248Z"
+  },
+  {
+    "url": "https://v0.dev/t/vmwkeCqHqVS",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T20:40:03.248Z"
+  },
+  {
+    "url": "https://v0.dev/t/OFjGH50fCVt",
+    "label": "Template for prompt: make me a UI for a points calcualtor a banking productl iike Capital one. it lets you enter in your transactoins for a month and has a calcualate button, and example buttons. a form. make the background very nice and buttons very nice",
+    "dateAdded": "2024-01-20T20:40:03.248Z"
+  },
+  {
+    "url": "https://v0.dev/t/sKYvReOzYJa",
+    "label": "Template for prompt: A sign-in page",
+    "dateAdded": "2024-01-20T20:40:03.248Z"
+  },
+  {
+    "url": "https://v0.dev/t/sBKLxKaaK8M",
+    "label": "Template for prompt: invite a team member page UI that has email and generate shareable link",
+    "dateAdded": "2024-01-20T20:40:03.249Z"
+  },
+  {
+    "url": "https://v0.dev/t/iFA9uqVnSKT",
+    "label": "Template for prompt: A  graphical usage page for tracking token usage",
+    "dateAdded": "2024-01-20T20:40:03.249Z"
+  },
+  {
+    "url": "https://v0.dev/t/DgIYzGY4MNi",
+    "label": "Template for prompt: Page layout with header, left menu with fixed width and content with a list of journal entries (date + time, richtext content, tags)",
+    "dateAdded": "2024-01-20T20:40:03.249Z"
+  },
+  {
+    "url": "https://v0.dev/t/761Jp0YlUMs",
+    "label": "Template for prompt: an about page for a bar called airstream bar. it features a bar inside a classic airstream trailer. the bar is located at Webergasse 7 in Basel. ",
+    "dateAdded": "2024-01-20T20:40:03.249Z"
+  },
+  {
+    "url": "https://v0.dev/t/69DUchY7n0t",
+    "label": "Template for prompt: A select component for react and tailwind. It should have minimalist ui, animation, focus and hover effects. Items of a list should be totally cuztomizable. It should support keyboard navigation also.",
+    "dateAdded": "2024-01-20T20:40:03.249Z"
+  },
+  {
+    "url": "https://v0.dev/t/EEYaC3rtMYN",
+    "label": "Template for prompt: blog page",
+    "dateAdded": "2024-01-20T20:40:03.249Z"
+  },
+  {
+    "url": "https://v0.dev/t/WNIitrZJX8Q",
+    "label": "Template for prompt: A hotel website",
+    "dateAdded": "2024-01-20T20:40:03.249Z"
+  },
+  {
+    "url": "https://v0.dev/t/HuTmdRjQrV5",
+    "label": "Template for prompt: Make this website more modern here is the about page off the website:Skip to content\nHOME\nSERVICES\nABOUT US\nCAREERS\nNEWS\nSearch\nSearch\nEnvelope\nEN\nCERTIFIED ACCOUNTANTS\nYOU CAN ALWAYS COUNT ON US\nWe provide accounting and tax services for your daily operations. Our highly trained staff helps you with all hurdles you encounter in the entire lifecyle.\n\nRead more\nSOFTWARE SOLUTIONS\nIMPLEMENT SOLUTIONS NOT FEATURES\nWe provide you with the best in class solutions: ERP packages,  dashboards, automation tools, digital workplaces,… and if necessary we design your own app.\n\nRead more\nPROCESS SOLUTIONS\nFIRST THE PROBLEM THEN THE CODE\nPink Bay analyses and redesigns your processes to your requirements and can automate every step to and make your organisation more efficient and effective.\n\nRead more\nOUTSOURCING\nDO WHAT YOU DO THE BEST\nAND OUTSOURCE THE REST\nWe provide temporary support for your day-to-day administration, your finance team, your data analysis / BI team, your process ",
+    "dateAdded": "2024-01-20T20:40:03.250Z"
+  },
+  {
+    "url": "https://v0.dev/t/ahHu5Bd63cu",
+    "label": "Template for prompt: a 3 option modal. each option have a titel, description and a checked box. only one option can be selected",
+    "dateAdded": "2024-01-20T20:40:03.250Z"
+  },
+  {
+    "url": "https://v0.dev/t/GF0zZHhzreQ",
+    "label": "Template for prompt: navigation menu with dropdown. The subitems have an icon to the left, a title and desribtion. The content box for the dropdown has a glass blur effect on its background",
+    "dateAdded": "2024-01-20T20:40:03.250Z"
+  },
+  {
+    "url": "https://v0.dev/t/TfsL3iUVv9H",
+    "label": "Template for prompt: create a  personal user screen that allow to edit the profile and to do others secondary activites",
+    "dateAdded": "2024-01-20T20:40:03.250Z"
+  },
+  {
+    "url": "https://v0.dev/t/5ynyCuye3sw",
+    "label": "Template for prompt: an app for dating purproses. take as example tinder or badoo. Create a header with a logo that has a heart and says  \"find your lover\". Use a red colors for palette, add a dark mode. Create a page for match lovers, show a card with the photo of a person (with two buttons, one of hearts to make a match and one with a \"X\" to reject the match), this needs to be done with keyboard keys (right and left) too. Every time you make a choice with the match, it should show the next match.",
+    "dateAdded": "2024-01-20T20:40:03.250Z"
+  },
+  {
+    "url": "https://v0.dev/t/5U6Aryg7yQ3",
+    "label": "Template for prompt: create  weath search template",
+    "dateAdded": "2024-01-20T20:40:03.251Z"
+  },
+  {
+    "url": "https://v0.dev/t/WeXjhgq9oxm",
+    "label": "Template for prompt: Design a site for a crypto project called tunnel that focuses on instant bridging ",
+    "dateAdded": "2024-01-20T20:40:03.251Z"
+  },
+  {
+    "url": "https://v0.dev/t/QjQ35VjR0oQ",
+    "label": "Template for prompt: ShadCN: Generate calendar that handles both in-app events, recurring events, and imported google calendar events.",
+    "dateAdded": "2024-01-20T20:40:03.251Z"
+  },
+  {
+    "url": "https://v0.dev/t/Cq56PWp8HFP",
+    "label": "Template for prompt: This is the master page I need a detail page for each job to match this design",
+    "dateAdded": "2024-01-20T20:40:03.251Z"
+  },
+  {
+    "url": "https://v0.dev/t/HI0YptQsGjk",
+    "label": "Template for prompt: Generate a website for a hotel ",
+    "dateAdded": "2024-01-20T20:40:03.251Z"
+  },
+  {
+    "url": "https://v0.dev/t/fyZ0h38n9AD",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T20:40:03.251Z"
+  },
+  {
+    "url": "https://v0.dev/t/96DIcHN3gFZ",
+    "label": "Template for prompt: Cardvisit ",
+    "dateAdded": "2024-01-20T20:40:03.252Z"
+  },
+  {
+    "url": "https://v0.dev/t/6MZrMltZ8Av",
+    "label": "Template for prompt: Make this website more modern ",
+    "dateAdded": "2024-01-20T20:40:03.252Z"
   }
 ]
