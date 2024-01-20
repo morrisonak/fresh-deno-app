@@ -238,5 +238,125 @@
     "url": "https://v0.dev/t/V4hR5Ig7mlY",
     "label": "Template for prompt: create portfolio site for web developer \"Bichu\"",
     "dateAdded": "2024-01-20T16:20:38.622Z"
+  },
+  {
+    "url": "https://v0.dev/t/sAzZCvOz49S",
+    "label": "Template for prompt: من یک پروژه html طراحی سایت front با موضوع فروش قطعات خودرو ",
+    "dateAdded": "2024-01-20T16:25:02.875Z"
+  },
+  {
+    "url": "https://v0.dev/t/ShPEJxOqt7Y",
+    "label": "Template for prompt: A page to show a list of quotes",
+    "dateAdded": "2024-01-20T16:25:02.875Z"
+  },
+  {
+    "url": "https://v0.dev/t/DZjzvdfZRMj",
+    "label": "Template for prompt: Design me a nicer inventory table. ",
+    "dateAdded": "2024-01-20T16:25:02.875Z"
+  },
+  {
+    "url": "https://v0.dev/t/K5fFHrhagdU",
+    "label": "Template for prompt: navigation bar with logo on left and links on right",
+    "dateAdded": "2024-01-20T16:25:02.875Z"
+  },
+  {
+    "url": "https://v0.dev/t/tfmx94Xr77D",
+    "label": "Template for prompt: a ecommerce website for clothing brand",
+    "dateAdded": "2024-01-20T16:25:02.875Z"
+  },
+  {
+    "url": "https://v0.dev/t/JNORgo8Tuax",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T16:25:02.876Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ielhg61Yxt1",
+    "label": "Template for prompt: Design a component for creating crontab syntax. The interface should allow users to specify the following:\n\n* Date and time: Users should be able to select a specific date and time for the crontab entry to run.\n* Time period: Users should be able to select a time period for the crontab entry to run, such as daily, weekly, or monthly.\n* Command: Users should be able to enter the command that they want the crontab entry to run.\n* Additional options: Users should be able to specify additional options for the crontab entry,",
+    "dateAdded": "2024-01-20T16:25:02.876Z"
+  },
+  {
+    "url": "https://v0.dev/t/2eqe0w8lctw",
+    "label": "Template for prompt: a coming soon page for a stock exchnage website",
+    "dateAdded": "2024-01-20T16:25:02.876Z"
+  },
+  {
+    "url": "https://v0.dev/t/WsPvTma5QqE",
+    "label": "Template for prompt: a landing page for a festival",
+    "dateAdded": "2024-01-20T16:25:02.876Z"
+  },
+  {
+    "url": "https://v0.dev/t/AxO6NW7dOre",
+    "label": "Template for prompt: a horizontal list feed of worships with banner, title, and author",
+    "dateAdded": "2024-01-20T16:25:02.876Z"
+  },
+  {
+    "url": "https://v0.dev/t/448PvTGGQ0Y",
+    "label": "Template for prompt: package firsttestngpackage;\nimport org.openqa.selenium.*;\nimport org.openqa.selenium.firefox.FirefoxDriver;\nimport org.testng.Assert;\nimport org.testng.annotations.*;\n\npublic class firsttestngfile {\n    public String baseUrl = \"http://demo.guru99.com/test/newtours/\";\n    String driverPath = \"C:\\\\geckodriver.exe\";\n    public WebDriver driver ; \n     \n  @Test\n  public void verifyHomepageTitle() {\n       \n      System.out.println(\"launching firefox browser\"); \n      System.setProperty(\"webdriver.gecko.driver\", driverPath);\n      driver = new FirefoxDriver();\n      driver.get(baseUrl);\n      String expectedTitle = \"Welcome: Mercury Tours\";\n      String actualTitle = driver.getTitle();\n      Assert.assertEquals(actualTitle, expectedTitle);\n      driver.close();\n  }\n}",
+    "dateAdded": "2024-01-20T16:25:02.876Z"
+  },
+  {
+    "url": "https://v0.dev/t/eOYsos6u1ou",
+    "label": "Template for prompt: سلام گوگولی",
+    "dateAdded": "2024-01-20T16:25:02.877Z"
+  },
+  {
+    "url": "https://v0.dev/t/3fHNEWw1oRq",
+    "label": "Template for prompt: create modal with react and tailwind css and pass to it props to be generec style",
+    "dateAdded": "2024-01-20T16:25:02.877Z"
+  },
+  {
+    "url": "https://v0.dev/t/TbV3AQqMQpk",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T16:25:02.877Z"
+  },
+  {
+    "url": "https://v0.dev/t/CX8Px9Xh8EB",
+    "label": "Template for prompt: a landing page for an iOS app with specs and price tier",
+    "dateAdded": "2024-01-20T16:25:02.877Z"
+  },
+  {
+    "url": "https://v0.dev/t/lMNrMdJBaZl",
+    "label": "Template for prompt: A sleek landing page",
+    "dateAdded": "2024-01-20T16:25:02.877Z"
+  },
+  {
+    "url": "https://v0.dev/t/pgXpaElVn9l",
+    "label": "Template for prompt: i would like to create side nav bar and basic page design with nice layout",
+    "dateAdded": "2024-01-20T16:25:02.877Z"
+  },
+  {
+    "url": "https://v0.dev/t/PuvqAyeMQ56",
+    "label": "Template for prompt: Helpdesk user registration form with 3 types of users: client, agent, administrator",
+    "dateAdded": "2024-01-20T16:25:02.877Z"
+  },
+  {
+    "url": "https://v0.dev/t/JhR1hemfSDB",
+    "label": "Template for prompt: when the user click date a drop down show to select date \nmake the component with react and tailwind css\n",
+    "dateAdded": "2024-01-20T16:25:02.877Z"
+  },
+  {
+    "url": "https://v0.dev/t/w3TmUQsrRgh",
+    "label": "Template for prompt: create login page",
+    "dateAdded": "2024-01-20T16:25:02.878Z"
+  },
+  {
+    "url": "https://v0.dev/t/dsZhtsX6TUu",
+    "label": "Template for prompt: can you write me a website for my development agency develop platforms and websites and tools for trading and bots ",
+    "dateAdded": "2024-01-20T16:25:02.878Z"
+  },
+  {
+    "url": "https://v0.dev/t/a8jGzuSlgA4",
+    "label": "Template for prompt: A split character stats table for a fantasy themed portfolio. On the left are attributes (name, class, subclass, job). Below that is a list of proficiencies. ",
+    "dateAdded": "2024-01-20T16:25:02.878Z"
+  },
+  {
+    "url": "https://v0.dev/t/idQzCsa0zxH",
+    "label": "Template for prompt: Define the area you want to cover from the test scenario.\n\nEnsure the test case is easy for testers to understand and execute.\n\nUnderstand and apply relevant test designs.\n\nUse a unique test case ID.\n\nUse the requirements traceability matrix in testing for visibility.\n\nInclude a clear description in each test.\n\nAdd proper preconditions and postconditions.\n\nSpecify the exact expected result. \n\nUtilize suitable testing techniques. \n\nGet your test plan peer-reviewed before moving forward.\n\n",
+    "dateAdded": "2024-01-20T16:25:02.878Z"
+  },
+  {
+    "url": "https://v0.dev/t/24ZBMHQfvXW",
+    "label": "Template for prompt: Catchy Home page with assets that I will put later - crypto Presale page with an application form that will send an email to the owner and a copy to the user who submitted the form with the details submitted, and add all the details about the current project that will launch presale via the website - ABout section: a section where there will be info about this project called LowCap's Pool - COntact section: self-explanatory , maybe a contact form or an email or support. both for investors/future clients - FAQ page: most popular questions\nCreate a them color of the website like the image attached, also try to put that image in homepage",
+    "dateAdded": "2024-01-20T16:25:02.878Z"
   }
 ]
