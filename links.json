@@ -9153,5 +9153,130 @@
     "url": "https://v0.dev/t/jK1TRnyVtoV",
     "label": "Template for prompt: https://shoppingscraper.com/scrapers/de-bijenkorf ",
     "dateAdded": "2024-01-20T22:20:03.350Z"
+  },
+  {
+    "url": "https://v0.dev/t/GuCdRElz4Oe",
+    "label": "Template for prompt: calendar full page all days of the month",
+    "dateAdded": "2024-01-20T22:25:03.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/S6z47zaHnic",
+    "label": "Template for prompt: landing page for a climbing course booking platform",
+    "dateAdded": "2024-01-20T22:25:03.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/MTtvTHzvhQw",
+    "label": "Template for prompt: A sleek template using shadcn which has a side bar on the rightmost 1/3 of the page and a main section on the left that is left blank (maybe put a dummy component in there)",
+    "dateAdded": "2024-01-20T22:25:03.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/BAh29MI7TCH",
+    "label": "Template for prompt: landing page for a course booking platform; the courses will be all of the same type",
+    "dateAdded": "2024-01-20T22:25:03.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/xSZzVi9F8vq",
+    "label": "Template for prompt: landing page for a course booking platform; the courses will be all of the same type",
+    "dateAdded": "2024-01-20T22:25:03.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/0fw9PAa3cnS",
+    "label": "Template for prompt: remake this ui design into react code",
+    "dateAdded": "2024-01-20T22:25:03.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/QEYYVwk2EaV",
+    "label": "Template for prompt: custom youtube video embed",
+    "dateAdded": "2024-01-20T22:25:03.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/9pt6l2pRXrb",
+    "label": "Template for prompt: A landing page for ecommerce Coffee shop \"Hypeforce\" that also sells other things too and is about to do an NFT drop. ",
+    "dateAdded": "2024-01-20T22:25:03.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/k6iDzJ96p0h",
+    "label": "Template for prompt: please, create the navigation bar",
+    "dateAdded": "2024-01-20T22:25:03.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/0Az7BjsZDvK",
+    "label": "Template for prompt: Using Next.js and MUI, generate a landing page promoting cryptocurrency market making bots where the first service is to provide cryptocurrency liquidity for one symbol, the second service is to provide cryptocurrency liquidity for multiple symbols, and the third service is to provide cryptocurrency liquidity for multiple symbols with admin permissions.",
+    "dateAdded": "2024-01-20T22:25:03.556Z"
+  },
+  {
+    "url": "https://v0.dev/t/lAVS0BVJ4vO",
+    "label": "Template for prompt: mobile quiz ui",
+    "dateAdded": "2024-01-20T22:25:03.556Z"
+  },
+  {
+    "url": "https://v0.dev/t/vEfl2nWiqYr",
+    "label": "Template for prompt: make me a header that is transparent with a root background which makes them transfer seamlessly into eachother ",
+    "dateAdded": "2024-01-20T22:25:03.556Z"
+  },
+  {
+    "url": "https://v0.dev/t/ExRF15gX2lw",
+    "label": "Template for prompt: a page displaying calendar, several months, infinite scroll",
+    "dateAdded": "2024-01-20T22:25:03.556Z"
+  },
+  {
+    "url": "https://v0.dev/t/ukBK8MLXdA7",
+    "label": "Template for prompt: shopping website for tote bags",
+    "dateAdded": "2024-01-20T22:25:03.556Z"
+  },
+  {
+    "url": "https://v0.dev/t/3lDFb2Mlia5",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T22:25:03.556Z"
+  },
+  {
+    "url": "https://v0.dev/t/l0Zpfvb8xrS",
+    "label": "Template for prompt: CAMERA",
+    "dateAdded": "2024-01-20T22:25:03.556Z"
+  },
+  {
+    "url": "https://v0.dev/t/QsKPbZhhn11",
+    "label": "Template for prompt: a page to admin a link shortener, the liks have properties called \"description\", \"url\", \"displayName\" this dashboard should allow to see all of them and its metrics when clicked and to edit the values",
+    "dateAdded": "2024-01-20T22:25:03.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/HbSfGYEqoIl",
+    "label": "Template for prompt: Make me memory card game ",
+    "dateAdded": "2024-01-20T22:25:03.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/PzLdAm15eXo",
+    "label": "Template for prompt: datatable with loading skeleton",
+    "dateAdded": "2024-01-20T22:25:03.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/qDypptcFgVg",
+    "label": "Template for prompt: Create a login page with email and password fields. Each field has a label, please add an icon",
+    "dateAdded": "2024-01-20T22:25:03.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/6lLghufQVgZ",
+    "label": "Template for prompt: A mobile game that is a to-do list but every time you finish a task it gives you experience. after so many days of a certain streak level, it lvs you up. Highest level is 100. Users can create their own Avatar or import an NFT from our collection as their avatar. ",
+    "dateAdded": "2024-01-20T22:25:03.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/qfPq47FwV48",
+    "label": "Template for prompt: Can you make a bette version of this landing page and add a features secton for new and existing features?",
+    "dateAdded": "2024-01-20T22:25:03.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/MLYmWC5fKVo",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T22:25:03.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/dJ4e3Bh6lAd",
+    "label": "Template for prompt: A To-Do list",
+    "dateAdded": "2024-01-20T22:25:03.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/Jmf0uPQVKjH",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-20T22:25:03.558Z"
   }
 ]
