@@ -9028,5 +9028,130 @@
     "url": "https://v0.dev/t/4lS25G6yTYg",
     "label": "Template for prompt: a book description page with image title description resume anount and a rental button",
     "dateAdded": "2024-01-20T22:15:02.444Z"
+  },
+  {
+    "url": "https://v0.dev/t/QsKPbZhhn11",
+    "label": "Template for prompt: a page to admin a link shortener, the liks have properties called \"description\", \"url\", \"displayName\" this dashboard should allow to see all of them and its metrics when clicked and to edit the values",
+    "dateAdded": "2024-01-20T22:20:03.345Z"
+  },
+  {
+    "url": "https://v0.dev/t/HbSfGYEqoIl",
+    "label": "Template for prompt: Make me memory card game ",
+    "dateAdded": "2024-01-20T22:20:03.346Z"
+  },
+  {
+    "url": "https://v0.dev/t/PzLdAm15eXo",
+    "label": "Template for prompt: datatable with loading skeleton",
+    "dateAdded": "2024-01-20T22:20:03.346Z"
+  },
+  {
+    "url": "https://v0.dev/t/qDypptcFgVg",
+    "label": "Template for prompt: Create a login page with email and password fields. Each field has a label, please add an icon",
+    "dateAdded": "2024-01-20T22:20:03.346Z"
+  },
+  {
+    "url": "https://v0.dev/t/6lLghufQVgZ",
+    "label": "Template for prompt: A mobile game that is a to-do list but every time you finish a task it gives you experience. after so many days of a certain streak level, it lvs you up. Highest level is 100. Users can create their own Avatar or import an NFT from our collection as their avatar. ",
+    "dateAdded": "2024-01-20T22:20:03.347Z"
+  },
+  {
+    "url": "https://v0.dev/t/qfPq47FwV48",
+    "label": "Template for prompt: Can you make a bette version of this landing page and add a features secton for new and existing features?",
+    "dateAdded": "2024-01-20T22:20:03.347Z"
+  },
+  {
+    "url": "https://v0.dev/t/MLYmWC5fKVo",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T22:20:03.347Z"
+  },
+  {
+    "url": "https://v0.dev/t/dJ4e3Bh6lAd",
+    "label": "Template for prompt: A To-Do list",
+    "dateAdded": "2024-01-20T22:20:03.347Z"
+  },
+  {
+    "url": "https://v0.dev/t/Jmf0uPQVKjH",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-20T22:20:03.347Z"
+  },
+  {
+    "url": "https://v0.dev/t/X0moZo0wKIa",
+    "label": "Template for prompt: Make me this game with JavaScript ",
+    "dateAdded": "2024-01-20T22:20:03.348Z"
+  },
+  {
+    "url": "https://v0.dev/t/rSVq2jtQRhJ",
+    "label": "Template for prompt: create me a angular dropdown",
+    "dateAdded": "2024-01-20T22:20:03.348Z"
+  },
+  {
+    "url": "https://v0.dev/t/jvhwU42sP0M",
+    "label": "Template for prompt: stwórz header dark mode z glass effectem, podobny jak na vercelu",
+    "dateAdded": "2024-01-20T22:20:03.348Z"
+  },
+  {
+    "url": "https://v0.dev/t/dg0IzEairFM",
+    "label": "Template for prompt: A Table with the Columns: CPU, RAM, GPU, DISK, NETWORK",
+    "dateAdded": "2024-01-20T22:20:03.348Z"
+  },
+  {
+    "url": "https://v0.dev/t/HIz2vxq0bym",
+    "label": "Template for prompt: generate a step by step process on how to use our manangement finance application, theme blue and white, wallet or dollar sign icon",
+    "dateAdded": "2024-01-20T22:20:03.348Z"
+  },
+  {
+    "url": "https://v0.dev/t/2ALaBT4aEuq",
+    "label": "Template for prompt: A blockchain overview page, displaying current information, such as height and number of validators, a section showing the latest blocks, and yet another section with the latest transactions",
+    "dateAdded": "2024-01-20T22:20:03.349Z"
+  },
+  {
+    "url": "https://v0.dev/t/96Lq82DNbI4",
+    "label": "Template for prompt: Auth page",
+    "dateAdded": "2024-01-20T22:20:03.349Z"
+  },
+  {
+    "url": "https://v0.dev/t/GEUmtnerWzN",
+    "label": "Template for prompt: please build for me Hero section",
+    "dateAdded": "2024-01-20T22:20:03.349Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y4FrAwwb5bd",
+    "label": "Template for prompt: Table with the rows: CPU, RAM, DISK, NETWORK, GPU",
+    "dateAdded": "2024-01-20T22:20:03.349Z"
+  },
+  {
+    "url": "https://v0.dev/t/FACQJcXi1NU",
+    "label": "Template for prompt: generate a dashboard for a password safe",
+    "dateAdded": "2024-01-20T22:20:03.349Z"
+  },
+  {
+    "url": "https://v0.dev/t/gEt1rgZmrM6",
+    "label": "Template for prompt: This image depicts a landing page design for a non-profit website aimed at supporting individuals on the autism spectrum. The layout is clean and user-friendly, featuring a clear header titled 'Find Support and Resources for Autism Spectrum'. It includes an easily navigable menu with links to professional maps, educational resources, and contact information. The page showcases a call-to-action button for locating professionals and accessing free resources, along with a preview of an interactive map and a section for educational materials. The design is welcoming and accessible, emphasizing readability and inclusivity.",
+    "dateAdded": "2024-01-20T22:20:03.349Z"
+  },
+  {
+    "url": "https://v0.dev/t/KbWa7cCWbau",
+    "label": "Template for prompt: a select input with 3 options and an input for image upload",
+    "dateAdded": "2024-01-20T22:20:03.349Z"
+  },
+  {
+    "url": "https://v0.dev/t/CLv3ZnD5UXB",
+    "label": "Template for prompt: An admin panel for a game with players list and query on the left and details, actions on the right with dark mode",
+    "dateAdded": "2024-01-20T22:20:03.350Z"
+  },
+  {
+    "url": "https://v0.dev/t/4BmF0yQEQap",
+    "label": "Template for prompt: A SaaS admin dashboard for a CDR billing application",
+    "dateAdded": "2024-01-20T22:20:03.350Z"
+  },
+  {
+    "url": "https://v0.dev/t/d4On7VtVUEN",
+    "label": "Template for prompt: a form to edit property details like name, description, amenities, meters, bathrooms, beds, etc in a dashboard layout.",
+    "dateAdded": "2024-01-20T22:20:03.350Z"
+  },
+  {
+    "url": "https://v0.dev/t/jK1TRnyVtoV",
+    "label": "Template for prompt: https://shoppingscraper.com/scrapers/de-bijenkorf ",
+    "dateAdded": "2024-01-20T22:20:03.350Z"
   }
 ]
