@@ -1353,5 +1353,135 @@
     "url": "https://v0.dev/t/1rVlrAi7Nwo",
     "label": "Template for prompt: give me a default dashboard",
     "dateAdded": "2024-01-20T17:00:02.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/gGnAcw0ELcy",
+    "label": "Template for prompt: UI page that provide drag and drop zone for file upload either by drag or drop or on click that allows user to upload",
+    "dateAdded": "2024-01-20T17:05:03.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z0lfRzq7U38",
+    "label": "Template for prompt: web development company hero section",
+    "dateAdded": "2024-01-20T17:05:03.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/H3w2olTOiyj",
+    "label": "Template for prompt: Generate a chat software",
+    "dateAdded": "2024-01-20T17:05:03.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/7m0LzPaBQoM",
+    "label": "Template for prompt: Build a \"Book Now\" page with a form that accepts first name, last name, phone number, email address, home address, state, service and a textarea for description.",
+    "dateAdded": "2024-01-20T17:05:03.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/Xy9o5oILmB2",
+    "label": "Template for prompt: create a user profile, with a user cover image, and his image fully rounded, and it's over the cover image, something like twitter, facebook or quite any social media app's user profile. Also add the user name next to the image",
+    "dateAdded": "2024-01-20T17:05:03.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/nXzyxHBtJ3D",
+    "label": "Template for prompt: I want to build an app that user's can use to check what's new on Reddit. Basically they see only one post each time and the main content is summarized with AI (by clicking a button) if the user wants. I not they can click next to check the other posts one by one.\n\n",
+    "dateAdded": "2024-01-20T17:05:03.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/2PtkrNcmgdk",
+    "label": "Template for prompt: I want to build an app that user's can use to check what's new on Reddit. Basically they see only one post each time and the main content is summarized with AI (by clicking a button) if the user wants. I not they can click next to check the other posts one by one.\n\n",
+    "dateAdded": "2024-01-20T17:05:03.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/tTCAIhLioki",
+    "label": "Template for prompt: a card for a blog using shadcn",
+    "dateAdded": "2024-01-20T17:05:03.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/EX2PQmRX95O",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T17:05:03.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/tGQT8lTQmp8",
+    "label": "Template for prompt: creat with Django shopping site and give me codes",
+    "dateAdded": "2024-01-20T17:05:03.587Z"
+  },
+  {
+    "url": "https://v0.dev/t/fyppRJVMqZD",
+    "label": "Template for prompt: Create a loading screen with the letter Y, it should do some kind of animation with the letter itself and make it look slick",
+    "dateAdded": "2024-01-20T17:05:03.587Z"
+  },
+  {
+    "url": "https://v0.dev/t/7IXg2LsOa6i",
+    "label": "Template for prompt: Create me a user profile page for a CRM with an option to edit.",
+    "dateAdded": "2024-01-20T17:05:03.587Z"
+  },
+  {
+    "url": "https://v0.dev/t/F3znHYFt6q6",
+    "label": "Template for prompt: A widget that show a Message that you can suscribe to Google news with it logo",
+    "dateAdded": "2024-01-20T17:05:03.587Z"
+  },
+  {
+    "url": "https://v0.dev/t/vk1l2DD8iwi",
+    "label": "Template for prompt: A login page for an app called 52. An app that helps you make 52 todo lists each year to help you get organized.\n",
+    "dateAdded": "2024-01-20T17:05:03.587Z"
+  },
+  {
+    "url": "https://v0.dev/t/5dBJeRoijvV",
+    "label": "Template for prompt: a responsive navbar with animated menu toggle on mobile and dropdown on hover",
+    "dateAdded": "2024-01-20T17:05:03.587Z"
+  },
+  {
+    "url": "https://v0.dev/t/tJmrTA1d0wD",
+    "label": "Template for prompt: build this out",
+    "dateAdded": "2024-01-20T17:05:03.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/6wFoN2L8EYu",
+    "label": "Template for prompt: A dashboard with a sidebar and a main area where charts are displayed",
+    "dateAdded": "2024-01-20T17:05:03.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/oRS9OLFrsFB",
+    "label": "Template for prompt: List of new items mobile",
+    "dateAdded": "2024-01-20T17:05:03.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/Kfd0BP8D0Cs",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T17:05:03.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/NDYzS9Ceseb",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-20T17:05:03.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/3DZEtkU5uRT",
+    "label": "Template for prompt: Create a navigation bar with a gradient background and white buttons with black text",
+    "dateAdded": "2024-01-20T17:05:03.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/4uBThbWIPtg",
+    "label": "Template for prompt: A page where users can input event details and show us on a weekly calendar ",
+    "dateAdded": "2024-01-20T17:05:03.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/do9UV4FYaqu",
+    "label": "Template for prompt: Create a progress indicator with tailwind css that looks like this",
+    "dateAdded": "2024-01-20T17:05:03.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/QLaphMD5W11",
+    "label": "Template for prompt: a 1v1 card game board with 5 cards in each player hands and a board with 4 slots to play those cards into in the middle for each player",
+    "dateAdded": "2024-01-20T17:05:03.589Z"
+  },
+  {
+    "url": "https://v0.dev/t/nCM0tWoBHyP",
+    "label": "Template for prompt: loading scree while some action is being done on the server",
+    "dateAdded": "2024-01-20T17:05:03.589Z"
+  },
+  {
+    "url": "https://v0.dev/t/4B7rsEarpn9",
+    "label": "Template for prompt: a checklist for onboarding",
+    "dateAdded": "2024-01-20T17:05:03.589Z"
   }
 ]
