@@ -2258,5 +2258,135 @@
     "url": "https://v0.dev/t/1EifQusmurD",
     "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
     "dateAdded": "2024-01-20T17:35:03.154Z"
+  },
+  {
+    "url": "https://v0.dev/t/GRKekmrWsJb",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T17:40:03.043Z"
+  },
+  {
+    "url": "https://v0.dev/t/PWsEkeNopt6",
+    "label": "Template for prompt: a form with just one input and a button ",
+    "dateAdded": "2024-01-20T17:40:03.044Z"
+  },
+  {
+    "url": "https://v0.dev/t/ixWBgkWFHNH",
+    "label": "Template for prompt: create a chat in aspect ratio for mobile. Use some vibrant accent color",
+    "dateAdded": "2024-01-20T17:40:03.044Z"
+  },
+  {
+    "url": "https://v0.dev/t/LsrxUWKA5nF",
+    "label": "Template for prompt: I have this data, can you design me a component? {\"Fresh Fruit \":[\"January\",\"December\"],\"Cranberries - Vaccinium\":[\"January\",\"December\"],\"\":[\"February\",\"March\"],\"Fresh Grapes Only\":[\"March\",\"April\"],\"Fresh Pears\":[\"June\",\"July\"],\"Fresh Kiwifruits\":[\"July\",\"June\"],\"Fresh Oranges\":[\"August\",\"September\"],\"Clementines\":[\"June\",\"August\"],\"Tangerines and Clementines\":[\"September\",\"October\"]}",
+    "dateAdded": "2024-01-20T17:40:03.044Z"
+  },
+  {
+    "url": "https://v0.dev/t/1TD9pR9oGFd",
+    "label": "Template for prompt: pagina de perfil de usuario tipo dashboard ",
+    "dateAdded": "2024-01-20T17:40:03.044Z"
+  },
+  {
+    "url": "https://v0.dev/t/tJ1EriNGtYh",
+    "label": "Template for prompt: create a ts nextjs tailwind component that is a page called \"Smart Update.\" This page should have a text input that looks like one line but can expand into multiple. It should look like v0 by vercel",
+    "dateAdded": "2024-01-20T17:40:03.044Z"
+  },
+  {
+    "url": "https://v0.dev/t/VbUhojSVhu4",
+    "label": "Template for prompt: a skeleton loader: circle avatar, bio, and a list of links",
+    "dateAdded": "2024-01-20T17:40:03.044Z"
+  },
+  {
+    "url": "https://v0.dev/t/9jRh2gXgGx2",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T17:40:03.045Z"
+  },
+  {
+    "url": "https://v0.dev/t/hEOqKLZAlCW",
+    "label": "Template for prompt: a responsive navbar",
+    "dateAdded": "2024-01-20T17:40:03.045Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z5w8hm5PMzI",
+    "label": "Template for prompt: asynchronous video recruiting ",
+    "dateAdded": "2024-01-20T17:40:03.045Z"
+  },
+  {
+    "url": "https://v0.dev/t/W8Lh5LLBmjk",
+    "label": "Template for prompt: multistep form using shadcn",
+    "dateAdded": "2024-01-20T17:40:03.045Z"
+  },
+  {
+    "url": "https://v0.dev/t/8zrwIWr6dzL",
+    "label": "Template for prompt: website that let users ask about their health condition",
+    "dateAdded": "2024-01-20T17:40:03.046Z"
+  },
+  {
+    "url": "https://v0.dev/t/UFHrSP7rgpl",
+    "label": "Template for prompt: take inspiration from the image and recreate an interface",
+    "dateAdded": "2024-01-20T17:40:03.046Z"
+  },
+  {
+    "url": "https://v0.dev/t/hCZHPHbtWzd",
+    "label": "Template for prompt: give me a form for pokemon review for id, title , text, rating",
+    "dateAdded": "2024-01-20T17:40:03.046Z"
+  },
+  {
+    "url": "https://v0.dev/t/8CJKbZKwJwX",
+    "label": "Template for prompt: Create a responsive navbar with dropdown links. Use tailwind.",
+    "dateAdded": "2024-01-20T17:40:03.046Z"
+  },
+  {
+    "url": "https://v0.dev/t/u1JzKuHQAzQ",
+    "label": "Template for prompt: creame un componente para perfil de usuario",
+    "dateAdded": "2024-01-20T17:40:03.046Z"
+  },
+  {
+    "url": "https://v0.dev/t/QtKhFgcN4l0",
+    "label": "Template for prompt: A dashboard, with configuration page, creative and crazy",
+    "dateAdded": "2024-01-20T17:40:03.047Z"
+  },
+  {
+    "url": "https://v0.dev/t/mGAvqYVBrPB",
+    "label": "Template for prompt: Create a colorful responsive navbar using tsx and tailwind.",
+    "dateAdded": "2024-01-20T17:40:03.047Z"
+  },
+  {
+    "url": "https://v0.dev/t/yLQuWUwF1K7",
+    "label": "Template for prompt: create player list with ping level and names\n",
+    "dateAdded": "2024-01-20T17:40:03.047Z"
+  },
+  {
+    "url": "https://v0.dev/t/eROHbuXCEx4",
+    "label": "Template for prompt: landing page for a taxi agency",
+    "dateAdded": "2024-01-20T17:40:03.047Z"
+  },
+  {
+    "url": "https://v0.dev/t/bsmmYoadoDr",
+    "label": "Template for prompt: Apple design mobile phone login page",
+    "dateAdded": "2024-01-20T17:40:03.047Z"
+  },
+  {
+    "url": "https://v0.dev/t/WYeecbwu89q",
+    "label": "Template for prompt: outfit picture",
+    "dateAdded": "2024-01-20T17:40:03.047Z"
+  },
+  {
+    "url": "https://v0.dev/t/U3Bmk93yzt6",
+    "label": "Template for prompt: // pages/index.js\nimport { useState } from 'react';\n\nexport default function Home() {\n  const [waistSize, setWaistSize] = useState('');\n  const [hipSize, setHipSize] = useState('');\n  const [result, setResult] = useState('');\n\n  const calculateWHR = () => {\n    const waist = parseFloat(waistSize);\n    const hip = parseFloat(hipSize);\n\n    if (isNaN(waist) || isNaN(hip) || waist <= 0 || hip <= 0) {\n      setResult('Please enter valid waist and hip sizes.');\n      return;\n    }\n\n    const whr = waist / hip;\n\n    if (whr <= 0.5) {\n      setResult('Rectangle Shaped Body');\n    } else if (whr <= 0.68 || (whr >= 0.68 && whr <= 0.7)) {\n      setResult('Hourglass Shaped Body');\n    } else if (whr <= 0.8) {\n      setResult('Pear Shaped Body');\n    } else if (whr >= 1.05) {\n      setResult('Inverted Triangle Shaped Body');\n    } else if (whr >= 0.6 && whr <= 0.8) {\n      setResult('Spoon Shaped Body');\n    } else {\n      setResult('Body shape prediction not available for this Waist-Hip Ratio.');",
+    "dateAdded": "2024-01-20T17:40:03.048Z"
+  },
+  {
+    "url": "https://v0.dev/t/QDsSD40SC7e",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-20T17:40:03.048Z"
+  },
+  {
+    "url": "https://v0.dev/t/WnQhjKAZLws",
+    "label": "Template for prompt: A character list for characters of a TTRPG",
+    "dateAdded": "2024-01-20T17:40:03.048Z"
+  },
+  {
+    "url": "https://v0.dev/t/OemeIkus5cZ",
+    "label": "Template for prompt: create a \"creators\" or \"made by\" page showing contact info for all three developers who worked on the app, let space for a link to linked in, for two images for a business card ",
+    "dateAdded": "2024-01-20T17:40:03.048Z"
   }
 ]
