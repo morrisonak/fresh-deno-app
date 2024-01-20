@@ -5798,5 +5798,135 @@
     "url": "https://v0.dev/t/DiGmrMdoE1q",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2024-01-20T20:10:03.256Z"
+  },
+  {
+    "url": "https://v0.dev/t/4zl7J1eeHdm",
+    "label": "Template for prompt: Navigation bar for UniProf with: 1. **Home Page**: Features an overview of the application, search bar for universities and professors, and options for login/signup.\n2. **University Page**: Displays a list of universities; selecting one redirects to a list of its professors.\n3. **Professor List Page**: Shows professors with options to filter by department, rating, etc. Each professor is linked to their detail page.\n4. **Professor Detail Page**: Offers a detailed view of a professor's ratings and reviews, with the functionality to add or edit reviews.\n5. **User Dashboard**: Accessible for logged-in users, displaying their review history, personal settings, and options to manage their account.",
+    "dateAdded": "2024-01-20T20:15:03.921Z"
+  },
+  {
+    "url": "https://v0.dev/t/lfh1kr2xMfh",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-20T20:15:03.922Z"
+  },
+  {
+    "url": "https://v0.dev/t/Sd09i89Vy38",
+    "label": "Template for prompt: Make this settings page look better ",
+    "dateAdded": "2024-01-20T20:15:03.922Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q4rHXOe8fjT",
+    "label": "Template for prompt: can you enchance this section ",
+    "dateAdded": "2024-01-20T20:15:03.922Z"
+  },
+  {
+    "url": "https://v0.dev/t/g6n1jQmh7rq",
+    "label": "Template for prompt: design a blog submission form which has the fields: name, email, profession(dropwdown),blog title,blog body and a submit body",
+    "dateAdded": "2024-01-20T20:15:03.922Z"
+  },
+  {
+    "url": "https://v0.dev/t/0668UbaM8do",
+    "label": "Template for prompt: Navigation bar for:\n1. **User Login and Access Control**\n    - As a student, I want to securely log in and log out of the application to protect my account and reviews.\n    - As a user, I want different roles (e.g., student or guest) to access relevant functionalities.\n2. **Professor Review System**\n    - As a student, I want to add a review for a professor to share my experience.\n    - As a student, I want to edit and update my review.\n    - As a student, I want to delete my review if I change my mind.\n    - As a student, I want to view all reviews of a professor to make informed decisions.\n3. **University Search**\n    - As a student, I want to search for professors by university to find institution-specific information.\n4. **Advanced Search**\n    - As a user, I want to filter professors by department, ratings, and names for easy discovery.\n5. **Responsive Design**\n    - As a user, I want the application to work smoothly on various devices (phone, tablet, desktop).",
+    "dateAdded": "2024-01-20T20:15:03.922Z"
+  },
+  {
+    "url": "https://v0.dev/t/0cDejFZlpKG",
+    "label": "Template for prompt: you are a ui designer working at a hedge fund, we want to give customers the opportunity to play wth some of their money so build a webapp ui design for risk management web app for myself it uses some ai in the back end to do quantitive analysis of a company espacilly the ones's where they will either ipo,have a new product or just posted finacial statments, for this the ui should show me the ranking based on my stock strategy and the Ai recomendation and risk analysisment , when to enter and then to leave,which ones are the adjusted analysis and risk and have allow me to click accept of not.also should track the ones i rejected so i can see mised trades ,design a ui for this type of app(cards with as much compressed information as possible withiut too much text).",
+    "dateAdded": "2024-01-20T20:15:03.922Z"
+  },
+  {
+    "url": "https://v0.dev/t/zdmTbUAx1XX",
+    "label": "Template for prompt: create a front end page",
+    "dateAdded": "2024-01-20T20:15:03.922Z"
+  },
+  {
+    "url": "https://v0.dev/t/bqIl36eDPX4",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T20:15:03.923Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zok4VLTvzN9",
+    "label": "Template for prompt: Real-time chat application",
+    "dateAdded": "2024-01-20T20:15:03.923Z"
+  },
+  {
+    "url": "https://v0.dev/t/bxnmu0b7j8A",
+    "label": "Template for prompt: create a profession fotter for a portfolio",
+    "dateAdded": "2024-01-20T20:15:03.923Z"
+  },
+  {
+    "url": "https://v0.dev/t/bmHb9gslBmv",
+    "label": "Template for prompt: dashboard template with side menu on the left side. there must be user avatar in the top right corner. there must be a workspace switch in the top left corner.",
+    "dateAdded": "2024-01-20T20:15:03.923Z"
+  },
+  {
+    "url": "https://v0.dev/t/GuIHU95CqHR",
+    "label": "Template for prompt: a link bookmark the image at the right side fills the parent height but its height is no bigger than the texts height",
+    "dateAdded": "2024-01-20T20:15:03.923Z"
+  },
+  {
+    "url": "https://v0.dev/t/yTYjpXfMU5N",
+    "label": "Template for prompt: cms editor page there should be a sidebar with buttons in a grid for text, shape, image, stickers and a blank space on the right to drag those items into the canvas",
+    "dateAdded": "2024-01-20T20:15:03.923Z"
+  },
+  {
+    "url": "https://v0.dev/t/DdFkQZA1nre",
+    "label": "Template for prompt: Create a skeleton for the card below\n",
+    "dateAdded": "2024-01-20T20:15:03.924Z"
+  },
+  {
+    "url": "https://v0.dev/t/o76gePTrtF6",
+    "label": "Template for prompt: Create a skeleton for the card below\n",
+    "dateAdded": "2024-01-20T20:15:03.924Z"
+  },
+  {
+    "url": "https://v0.dev/t/q8OpkUVMRa6",
+    "label": "Template for prompt: Todo site, with a list of todos (including optional do date), a form that creates todos with the input field's description and deadline (optional)",
+    "dateAdded": "2024-01-20T20:15:03.924Z"
+  },
+  {
+    "url": "https://v0.dev/t/7CcK9GUF6hx",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T20:15:03.924Z"
+  },
+  {
+    "url": "https://v0.dev/t/a1sH1vvrVxM",
+    "label": "Template for prompt: I need a expends dashboard where you view your accounts totals, crypto totals, subscription list and status",
+    "dateAdded": "2024-01-20T20:15:03.924Z"
+  },
+  {
+    "url": "https://v0.dev/t/q7fEjmV7T2y",
+    "label": "Template for prompt: Mountain",
+    "dateAdded": "2024-01-20T20:15:03.924Z"
+  },
+  {
+    "url": "https://v0.dev/t/2hd19AIi5E5",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T20:15:03.924Z"
+  },
+  {
+    "url": "https://v0.dev/t/1jIzDEtfP0b",
+    "label": "Template for prompt: A list of scraping results. Each results shows the website name, website url and a list of characteristics of the website : latest comment date, website authority score, a mention if the website is a wordpress website or not",
+    "dateAdded": "2024-01-20T20:15:03.924Z"
+  },
+  {
+    "url": "https://v0.dev/t/o8GaCXMVd1s",
+    "label": "Template for prompt: A loading spinner",
+    "dateAdded": "2024-01-20T20:15:03.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/l0uThp79qui",
+    "label": "Template for prompt: A minimal black and white theme for listing short stories",
+    "dateAdded": "2024-01-20T20:15:03.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZLUkUyPkuel",
+    "label": "Template for prompt: diary input page with also buttons where you can select your mood and at the bottom there is an \"analyze\" button. in the top right corner I want a Iittle caldenar ",
+    "dateAdded": "2024-01-20T20:15:03.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/mJzIYwEHYtv",
+    "label": "Template for prompt: Generate me a html of same tables and selector,in first it must be images",
+    "dateAdded": "2024-01-20T20:15:03.925Z"
   }
 ]
