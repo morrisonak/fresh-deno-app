@@ -3903,5 +3903,135 @@
     "url": "https://v0.dev/t/9YcOay1eDQL",
     "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
     "dateAdded": "2024-01-20T18:40:02.526Z"
+  },
+  {
+    "url": "https://v0.dev/t/lu3iqZ2CVIf",
+    "label": "Template for prompt: header component for signed in user",
+    "dateAdded": "2024-01-20T18:45:02.966Z"
+  },
+  {
+    "url": "https://v0.dev/t/SBDM8iZ5dVH",
+    "label": "Template for prompt: Please create a one screen for an ios app that summarizes this chatgpt conversation, to ask the feedback from the user, if it can proceed. PLease generate a very engaging screen, like an instagram story, with an image in the background and large letters asking if it can proceed or not with a button in the bottom for approval, one for rejection and one for redoing the task: GPT Certainly! I'll compile and present the findings in the \"Results\" section, focusing on the outcomes related to image quality improvements in neonatal brain MRI using Air Recon DL.  Results Descriptive Statistics and Baseline Population Data Patient Demographics: The study included MRI scans from 60 neonatal patients (30 male, 30 female), with a mean gestational age of 37.5 weeks (range: 26-41 weeks). The primary indications for MRI included assessment of intracranial hemorrhage, evaluation of developmental anomalies, and suspicion of hypoxic-ischemic injury. Image Quality Assessment Overall Image Quality: Compare",
+    "dateAdded": "2024-01-20T18:45:02.966Z"
+  },
+  {
+    "url": "https://v0.dev/t/rcxyiyahxV0",
+    "label": "Template for prompt: responsive paymen system with referral section and a btn to add funds",
+    "dateAdded": "2024-01-20T18:45:02.966Z"
+  },
+  {
+    "url": "https://v0.dev/t/3ooXWWXwqt8",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T18:45:02.966Z"
+  },
+  {
+    "url": "https://v0.dev/t/EMGbZM9qrX3",
+    "label": "Template for prompt: a patient dashboard with upcoming and previous appointments",
+    "dateAdded": "2024-01-20T18:45:02.966Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZidsLHYcQmF",
+    "label": "Template for prompt: Create me an Animated Panel for FIVEM Where you First have a page where i select a GameMode First of all. \n\nGamemode 1 is BDRZ \nGamemode 2 is 1V1\nGameMode 3 IS 2v2\n\nAnd when i select animate it and close it\n\nMake it Fivem PVP Designed, and use my Server name so its looking like our server vibes. Its named\n\nBDRZ SWEDEN",
+    "dateAdded": "2024-01-20T18:45:02.966Z"
+  },
+  {
+    "url": "https://v0.dev/t/wluRIl6PE4K",
+    "label": "Template for prompt: \nredesign this application's homepage with modern and sober design",
+    "dateAdded": "2024-01-20T18:45:02.966Z"
+  },
+  {
+    "url": "https://v0.dev/t/kj7CSNP2mc6",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders. Also have a section that shows top customers.",
+    "dateAdded": "2024-01-20T18:45:02.967Z"
+  },
+  {
+    "url": "https://v0.dev/t/dKEh1qhVDmN",
+    "label": "Template for prompt: I want to generate a screen that will be used as a form to insert data for an application , the form should allow insert data about customers , the second form should instead allow to insert data about how much a customer will be able to buy from my company of products , this form should allow to insert a value per country , you should include all EU countries ",
+    "dateAdded": "2024-01-20T18:45:02.967Z"
+  },
+  {
+    "url": "https://v0.dev/t/YB150ryF07X",
+    "label": "Template for prompt: A dashboard of a code autograder platform that displays submits and assignments",
+    "dateAdded": "2024-01-20T18:45:02.967Z"
+  },
+  {
+    "url": "https://v0.dev/t/uUy7MFRaay3",
+    "label": "Template for prompt: a mobile app home screen component that shows the users last activities",
+    "dateAdded": "2024-01-20T18:45:02.967Z"
+  },
+  {
+    "url": "https://v0.dev/t/xzVltj00xqu",
+    "label": "Template for prompt: I want to generate a screen that will be used as a form to insert data for an application , the form should allow insert data about customers , the second form should instead allow to insert data about how much a customer will be able to buy from my company of products , this form should allow to insert a value per country , you should include all EU countries ",
+    "dateAdded": "2024-01-20T18:45:02.967Z"
+  },
+  {
+    "url": "https://v0.dev/t/VvqDExRfLqe",
+    "label": "Template for prompt: A chrome extension with a title, a small description, an input where I can place multiple links and two buttons",
+    "dateAdded": "2024-01-20T18:45:02.967Z"
+  },
+  {
+    "url": "https://v0.dev/t/ip5OFFiEDfu",
+    "label": "Template for prompt: A 500x500px canvas image can be carry in freeform",
+    "dateAdded": "2024-01-20T18:45:02.967Z"
+  },
+  {
+    "url": "https://v0.dev/t/kOqOZDdS9BB",
+    "label": "Template for prompt: use input from shadcn",
+    "dateAdded": "2024-01-20T18:45:02.968Z"
+  },
+  {
+    "url": "https://v0.dev/t/07d6NGxOdQn",
+    "label": "Template for prompt: responsive payment system that has referral counts, and add funds btn",
+    "dateAdded": "2024-01-20T18:45:02.968Z"
+  },
+  {
+    "url": "https://v0.dev/t/sU5WmYFC4t6",
+    "label": "Template for prompt: dashboard with nav and side bar menu",
+    "dateAdded": "2024-01-20T18:45:02.968Z"
+  },
+  {
+    "url": "https://v0.dev/t/DyjcafG3qVa",
+    "label": "Template for prompt: login form within a card, input field is e-mail",
+    "dateAdded": "2024-01-20T18:45:02.968Z"
+  },
+  {
+    "url": "https://v0.dev/t/iP6QoY8v9Wy",
+    "label": "Template for prompt: portfolio website to serve as a full-stack software engineer resume, use some skeuomorphism and eye-candy stickers",
+    "dateAdded": "2024-01-20T18:45:02.968Z"
+  },
+  {
+    "url": "https://v0.dev/t/m9VckPHM5KQ",
+    "label": "Template for prompt: sticky header",
+    "dateAdded": "2024-01-20T18:45:02.968Z"
+  },
+  {
+    "url": "https://v0.dev/t/1MwJQxqihiE",
+    "label": "Template for prompt: Make me a homepage that looks like this.",
+    "dateAdded": "2024-01-20T18:45:02.968Z"
+  },
+  {
+    "url": "https://v0.dev/t/G3fCiMJcg4A",
+    "label": "Template for prompt: A point-of-sale application that includes a sidebar featuring various icons. In the central area, product cards with corresponding images will be displayed. Each product card includes buttons for increasing or decreasing the quantity at the bottom. On the left side, a container will contain the list of selected products along with a payment button.",
+    "dateAdded": "2024-01-20T18:45:02.968Z"
+  },
+  {
+    "url": "https://v0.dev/t/c7Z3HcxOlXY",
+    "label": "Template for prompt: Android application, you have a light buble that can change color depending on 3 slider on the bottom, one for the hue, one for the saturatio and one for the lgihtness ",
+    "dateAdded": "2024-01-20T18:45:02.969Z"
+  },
+  {
+    "url": "https://v0.dev/t/khriaJLJRjb",
+    "label": "Template for prompt: LOGIN SCREEN WITH OTP",
+    "dateAdded": "2024-01-20T18:45:02.969Z"
+  },
+  {
+    "url": "https://v0.dev/t/44kd7YJZE4X",
+    "label": "Template for prompt: make a 130px width by 200px height movie card that has the movie poster, movie title, a rating, and three buttons",
+    "dateAdded": "2024-01-20T18:45:02.969Z"
+  },
+  {
+    "url": "https://v0.dev/t/jgtP0Iskpt4",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-20T18:45:02.969Z"
   }
 ]
