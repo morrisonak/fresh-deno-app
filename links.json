@@ -983,5 +983,125 @@
     "url": "https://v0.dev/t/LaxkhZ4xFwS",
     "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
     "dateAdded": "2024-01-20T16:45:03.653Z"
+  },
+  {
+    "url": "https://v0.dev/t/do9UV4FYaqu",
+    "label": "Template for prompt: Create a progress indicator with tailwind css that looks like this",
+    "dateAdded": "2024-01-20T16:50:03.727Z"
+  },
+  {
+    "url": "https://v0.dev/t/QLaphMD5W11",
+    "label": "Template for prompt: a 1v1 card game board with 5 cards in each player hands and a board with 4 slots to play those cards into in the middle for each player",
+    "dateAdded": "2024-01-20T16:50:03.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/nCM0tWoBHyP",
+    "label": "Template for prompt: loading scree while some action is being done on the server",
+    "dateAdded": "2024-01-20T16:50:03.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/wh0P2oiSzG1",
+    "label": "Template for prompt: loading scree while some action is being done on the server",
+    "dateAdded": "2024-01-20T16:50:03.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/4B7rsEarpn9",
+    "label": "Template for prompt: a checklist for onboarding",
+    "dateAdded": "2024-01-20T16:50:03.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/baWEd3YmocX",
+    "label": "Template for prompt: A searchable dropdown with an icon at the far right and an x icon to clear the input",
+    "dateAdded": "2024-01-20T16:50:03.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/SRNcA99Wpui",
+    "label": "Template for prompt: create e-commerce basket card on the header.",
+    "dateAdded": "2024-01-20T16:50:03.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/ujB7Af43D4J",
+    "label": "Template for prompt: Duplicate this board game view",
+    "dateAdded": "2024-01-20T16:50:03.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/pp3YlX1etkf",
+    "label": "Template for prompt: A component that display a recipe (e.g. Pasta Carbonara), with a nice hero section displaying a picture of the finished dish, a title, a description, the steps to execute the recipe with times and pictures, an edit functionality to change description and steps",
+    "dateAdded": "2024-01-20T16:50:03.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y79XNMXwWW2",
+    "label": "Template for prompt: I want to display tasks with the following information: task name, task due date, where the task is grouped, and then task description",
+    "dateAdded": "2024-01-20T16:50:03.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/NmMhwZuzn80",
+    "label": "Template for prompt: A Dialog with 4 gamification levels, necessary actions to do to reach with a button to do them and the associated feature their unlock.",
+    "dateAdded": "2024-01-20T16:50:03.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/1rVlrAi7Nwo",
+    "label": "Template for prompt: give me a default dashboard",
+    "dateAdded": "2024-01-20T16:50:03.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/2PFnmFiv8gm",
+    "label": "Template for prompt: user profile page",
+    "dateAdded": "2024-01-20T16:50:03.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/I1bDCWbxYoX",
+    "label": "Template for prompt: site para compra de comida",
+    "dateAdded": "2024-01-20T16:50:03.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/0XGrv8B7pbV",
+    "label": "Template for prompt: من یک پروژه طراحی سایت html فرانت میخواهم با موضوع فروش قطعات خودرو",
+    "dateAdded": "2024-01-20T16:50:03.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/2jVys6S3i8c",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T16:50:03.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/htawOzQHcEX",
+    "label": "Template for prompt: Duplicte this saas dashboard ",
+    "dateAdded": "2024-01-20T16:50:03.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/UNlgRvuSAlg",
+    "label": "Template for prompt: A login screen for a mobile app that allows sign in through email and password or by scanning a QR code.",
+    "dateAdded": "2024-01-20T16:50:03.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/ghSJWrXGW2m",
+    "label": "Template for prompt: admin profile with personal information edit functionality",
+    "dateAdded": "2024-01-20T16:50:03.731Z"
+  },
+  {
+    "url": "https://v0.dev/t/z3RubzEptD5",
+    "label": "Template for prompt: book reading component with a Header:\nSimple logo (if applicable) aligned to the left.\nUser profile or settings icon on the right.\nNavigation menu with options like \"Chapters,\" \"Search\"\nMain Content Area:\nLarge, centered text with ample white space around it.\nMinimalistic controls for changing chapters and verses.\nSubtle progress tracker at the bottom to indicate reading progress.\nSidebar :\nOptional sidebar for quick access to features like bookmarks, notes, or translations.\nIcons for each feature to maintain a clean and straightforward appearance.\nColor Scheme:\nSoft blues, grays, or greens for a calming effect.\nPlenty of white space to maintain a clean and uncluttered look.",
+    "dateAdded": "2024-01-20T16:50:03.731Z"
+  },
+  {
+    "url": "https://v0.dev/t/wyIclXcm40W",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T16:50:03.731Z"
+  },
+  {
+    "url": "https://v0.dev/t/pxgJYMXNBmr",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T16:50:03.731Z"
+  },
+  {
+    "url": "https://v0.dev/t/U4X7VRlcOs4",
+    "label": "Template for prompt: Services section and it's card",
+    "dateAdded": "2024-01-20T16:50:03.731Z"
+  },
+  {
+    "url": "https://v0.dev/t/bUsUvvKh5ah",
+    "label": "Template for prompt: a landing page for company that organises it events",
+    "dateAdded": "2024-01-20T16:50:03.731Z"
   }
 ]
