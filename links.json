@@ -11438,5 +11438,135 @@
     "url": "https://v0.dev/t/A7YCJLMj03l",
     "label": "Template for prompt: form to input a % from 1 to 100, below that is segmented input with options A, B, C, each has a date input",
     "dateAdded": "2024-01-20T23:50:02.780Z"
+  },
+  {
+    "url": "https://v0.dev/t/6sUieT8RjRx",
+    "label": "Template for prompt: add edit and delete buttons to the bottom of this",
+    "dateAdded": "2024-01-20T23:55:03.266Z"
+  },
+  {
+    "url": "https://v0.dev/t/XwmWkILmu2B",
+    "label": "Template for prompt: A social media mobile app for gamers",
+    "dateAdded": "2024-01-20T23:55:03.266Z"
+  },
+  {
+    "url": "https://v0.dev/t/WHGgUEXU0Oo",
+    "label": "Template for prompt: create a page with a centered login form",
+    "dateAdded": "2024-01-20T23:55:03.266Z"
+  },
+  {
+    "url": "https://v0.dev/t/UEZO1HeM4K7",
+    "label": "Template for prompt: Nextjs typescript frontend code that communicates with a backend api (http://localhost:8000/api/login/ ) created with Django drf. Google OAuth login supported. ",
+    "dateAdded": "2024-01-20T23:55:03.267Z"
+  },
+  {
+    "url": "https://v0.dev/t/P4k3E5vXqN1",
+    "label": "Template for prompt: An \"I agree\" or \"I authorize\" disclosure card with a disclosure document that must be read and accepted before continuing.",
+    "dateAdded": "2024-01-20T23:55:03.267Z"
+  },
+  {
+    "url": "https://v0.dev/t/i410giq5YJa",
+    "label": "Template for prompt: create a page with a centered login screen",
+    "dateAdded": "2024-01-20T23:55:03.267Z"
+  },
+  {
+    "url": "https://v0.dev/t/jWnhwJAIOHX",
+    "label": "Template for prompt: gere um svg do whatsapp com width=\"24\" height=\"24\"",
+    "dateAdded": "2024-01-20T23:55:03.267Z"
+  },
+  {
+    "url": "https://v0.dev/t/L9mUigYU8m4",
+    "label": "Template for prompt: A card for a \"hunch\". A hunch has a \"possible problem\", a \"possible solution\", and a \"possible user\"",
+    "dateAdded": "2024-01-20T23:55:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/3P5PGplAkq3",
+    "label": "Template for prompt: An \"I agree\" or \"I authorize\" disclosure form with a disclosure document that must be read and accepted before continuing.",
+    "dateAdded": "2024-01-20T23:55:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/KUR7E1Gap8t",
+    "label": "Template for prompt: make a modern but minimal portfolio",
+    "dateAdded": "2024-01-20T23:55:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/z548juO7F5f",
+    "label": "Template for prompt: make me a landing page for a two sided marketplace. On one side, collect users who want to sell a product. on the other side, collect users who want to buy products. Products are pick-up only so focus on finding location",
+    "dateAdded": "2024-01-20T23:55:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/k9XjkFN3aRs",
+    "label": "Template for prompt: Le site est une plateforme interactive où les utilisateurs peuvent comparer et sélectionner leurs images préférées générées par différents modèles d'intelligence artificielle à partir de prompts textuels spécifiques.\n\n\n\n\n\n",
+    "dateAdded": "2024-01-20T23:55:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/DMd5ug8TO4d",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T23:55:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/7CF7Pv6fXyd",
+    "label": "Template for prompt: design a similar component to turbo.build which switches site from turborepo to turbopack",
+    "dateAdded": "2024-01-20T23:55:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/vQDZ1tgK4RH",
+    "label": "Template for prompt: company profile page (name, website, market cap, employees, description, news section)",
+    "dateAdded": "2024-01-20T23:55:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/DCX89R7MaD0",
+    "label": "Template for prompt: create a simple landing page for a url shortener ",
+    "dateAdded": "2024-01-20T23:55:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZSuigpMlpcS",
+    "label": "Template for prompt: A user interface for a text to speech application",
+    "dateAdded": "2024-01-20T23:55:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/FfPn1ezxoCp",
+    "label": "Template for prompt: grid for ecommerce",
+    "dateAdded": "2024-01-20T23:55:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/E6YUcDcWfk7",
+    "label": "Template for prompt: register page for Airport Parking",
+    "dateAdded": "2024-01-20T23:55:03.270Z"
+  },
+  {
+    "url": "https://v0.dev/t/BXmcU0t6Cnl",
+    "label": "Template for prompt: create a dashboard page for my desktop app. in the top left corner, have a square placeholder for the logo and the word PackTrack. on the top right, have a settings cog.\n\nbelow that, a table where the top left of the heading says \"X packs opened\" and the right side has a button that says \"Create Entry\". add one entry to the table. the one entry, on the far left, should have a square icon placeholder, some text saying \"X Apex Packs\" and on the right side, the date saying \"5 minutes ago\" and beneath that, \"1/20/2024 4:00PM\"",
+    "dateAdded": "2024-01-20T23:55:03.270Z"
+  },
+  {
+    "url": "https://v0.dev/t/wixPEwpZFRt",
+    "label": "Template for prompt: a tokenized search and filtering input with advanced options in a super menu",
+    "dateAdded": "2024-01-20T23:55:03.270Z"
+  },
+  {
+    "url": "https://v0.dev/t/4c3fgysnLCI",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T23:55:03.270Z"
+  },
+  {
+    "url": "https://v0.dev/t/PLQ57TAx2Pv",
+    "label": "Template for prompt: Make me a table component that has 5 categories, one of which is a \"status\" which is a colored pill. It should only have an outer border and the colors should alternate between rows.",
+    "dateAdded": "2024-01-20T23:55:03.270Z"
+  },
+  {
+    "url": "https://v0.dev/t/8DDzwDrWbKC",
+    "label": "Template for prompt: source a listing is facebook",
+    "dateAdded": "2024-01-20T23:55:03.271Z"
+  },
+  {
+    "url": "https://v0.dev/t/GC0QlJGFs5j",
+    "label": "Template for prompt: Recreate this website",
+    "dateAdded": "2024-01-20T23:55:03.271Z"
+  },
+  {
+    "url": "https://v0.dev/t/XGvJtJEeoHe",
+    "label": "Template for prompt: Image battle for evaluation",
+    "dateAdded": "2024-01-20T23:55:03.271Z"
   }
 ]
