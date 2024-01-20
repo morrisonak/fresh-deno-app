@@ -10278,5 +10278,130 @@
     "url": "https://v0.dev/t/MBHUiw5a5Qq",
     "label": "Template for prompt: give me a panel administration, per region (chilean regions), every region can be enabled or disabled, and inside every, must be a field of max price of product limit, and another field that is the promotional shipping price",
     "dateAdded": "2024-01-20T23:05:03.054Z"
+  },
+  {
+    "url": "https://v0.dev/t/brxHGQFDBEW",
+    "label": "Template for prompt: A global error page",
+    "dateAdded": "2024-01-20T23:10:03.255Z"
+  },
+  {
+    "url": "https://v0.dev/t/0NEBgSNMpC2",
+    "label": "Template for prompt: create a self checkout screens for grocery store purchase. separate adding items to shopping cart and payment.",
+    "dateAdded": "2024-01-20T23:10:03.256Z"
+  },
+  {
+    "url": "https://v0.dev/t/EMv709OAZ9X",
+    "label": "Template for prompt: Give me a data table with payment information that has pagination, search and filtering",
+    "dateAdded": "2024-01-20T23:10:03.256Z"
+  },
+  {
+    "url": "https://v0.dev/t/0lZtAFHsCwn",
+    "label": "Template for prompt: A store to display products for business without e-commerce",
+    "dateAdded": "2024-01-20T23:10:03.256Z"
+  },
+  {
+    "url": "https://v0.dev/t/Dmi1lQfW3x4",
+    "label": "Template for prompt: A store to display products for business without e-commerce",
+    "dateAdded": "2024-01-20T23:10:03.256Z"
+  },
+  {
+    "url": "https://v0.dev/t/zGRK16iJZoW",
+    "label": "Template for prompt: navbar component ",
+    "dateAdded": "2024-01-20T23:10:03.256Z"
+  },
+  {
+    "url": "https://v0.dev/t/uLKH4gpLipp",
+    "label": "Template for prompt: create a self checkout screens. separate adding items to shopping cart and payment",
+    "dateAdded": "2024-01-20T23:10:03.256Z"
+  },
+  {
+    "url": "https://v0.dev/t/ULv90JeWS9y",
+    "label": "Template for prompt: image carousel for portfolio website. I want the carousel to replace the images on the side",
+    "dateAdded": "2024-01-20T23:10:03.256Z"
+  },
+  {
+    "url": "https://v0.dev/t/7doNb7Fh5R3",
+    "label": "Template for prompt: create a list of users ",
+    "dateAdded": "2024-01-20T23:10:03.257Z"
+  },
+  {
+    "url": "https://v0.dev/t/Dwk70v08Bd8",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T23:10:03.257Z"
+  },
+  {
+    "url": "https://v0.dev/t/8M24z0WaMMk",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T23:10:03.257Z"
+  },
+  {
+    "url": "https://v0.dev/t/MynUg6uncmR",
+    "label": "Template for prompt: create wireframes for self checkout ",
+    "dateAdded": "2024-01-20T23:10:03.257Z"
+  },
+  {
+    "url": "https://v0.dev/t/fUTe569ZsaE",
+    "label": "Template for prompt: make a component for showing promotion and event picture and text. Make it responsive.",
+    "dateAdded": "2024-01-20T23:10:03.257Z"
+  },
+  {
+    "url": "https://v0.dev/t/X3uuNSlPS6b",
+    "label": "Template for prompt: a register book page with title, description, author, date, image, and amount as string inputs and a resume field as WYSIWYG ",
+    "dateAdded": "2024-01-20T23:10:03.257Z"
+  },
+  {
+    "url": "https://v0.dev/t/LFhvKVsi7vz",
+    "label": "Template for prompt: text boxes with range sliders inline with them",
+    "dateAdded": "2024-01-20T23:10:03.257Z"
+  },
+  {
+    "url": "https://v0.dev/t/Pu6RPhJtzsX",
+    "label": "Template for prompt: Create a map on two thirds right of screen and panel on left with list of users",
+    "dateAdded": "2024-01-20T23:10:03.257Z"
+  },
+  {
+    "url": "https://v0.dev/t/lR08tYyFmoV",
+    "label": "Template for prompt: mobile nav bar that opens a drawer with navigation items",
+    "dateAdded": "2024-01-20T23:10:03.258Z"
+  },
+  {
+    "url": "https://v0.dev/t/sRrvGZrdnjo",
+    "label": "Template for prompt: pagina com icone das redes abaixo:\nfacebook,twitter,instagram,youtube,pinterest,linkedin,tiktok,spotify,email,twitch,snapchat",
+    "dateAdded": "2024-01-20T23:10:03.258Z"
+  },
+  {
+    "url": "https://v0.dev/t/otbrhfSDAqi",
+    "label": "Template for prompt: I'm creating a page for users select nfts to mint. I need to display all the nfts in a card with the image and a select button on the card. I need two button on the top of the page too.",
+    "dateAdded": "2024-01-20T23:10:03.258Z"
+  },
+  {
+    "url": "https://v0.dev/t/odNptixrXZN",
+    "label": "Template for prompt: language",
+    "dateAdded": "2024-01-20T23:10:03.258Z"
+  },
+  {
+    "url": "https://v0.dev/t/gQkJNsMZnIO",
+    "label": "Template for prompt: a modern personal financial tracking software. it connects to a user's bank account, then uses ai to group their spending inito buckets and make recomendations\nit should look BEAUTIFUL and MODERN, like an apple product. NOT LIKE a b2b or business product. a nice CONSUMER product",
+    "dateAdded": "2024-01-20T23:10:03.258Z"
+  },
+  {
+    "url": "https://v0.dev/t/zGhLnDRyC8S",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T23:10:03.258Z"
+  },
+  {
+    "url": "https://v0.dev/t/i8lWA6zn0wS",
+    "label": "Template for prompt: An application to track working hours",
+    "dateAdded": "2024-01-20T23:10:03.258Z"
+  },
+  {
+    "url": "https://v0.dev/t/QP2vSGJ15EQ",
+    "label": "Template for prompt: nextjs mobile boilerplate code for a dating app",
+    "dateAdded": "2024-01-20T23:10:03.258Z"
+  },
+  {
+    "url": "https://v0.dev/t/ib6VsivtUyr",
+    "label": "Template for prompt: nextjs mobile boilerplate code",
+    "dateAdded": "2024-01-20T23:10:03.259Z"
   }
 ]
