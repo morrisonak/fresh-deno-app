@@ -1483,5 +1483,130 @@
     "url": "https://v0.dev/t/4B7rsEarpn9",
     "label": "Template for prompt: a checklist for onboarding",
     "dateAdded": "2024-01-20T17:05:03.589Z"
+  },
+  {
+    "url": "https://v0.dev/t/2jSfq61CyJM",
+    "label": "Template for prompt: login page",
+    "dateAdded": "2024-01-20T17:10:03.710Z"
+  },
+  {
+    "url": "https://v0.dev/t/iaJC8rTUmj2",
+    "label": "Template for prompt: design me thumbnail for article",
+    "dateAdded": "2024-01-20T17:10:03.710Z"
+  },
+  {
+    "url": "https://v0.dev/t/xhk0FcBJDWM",
+    "label": "Template for prompt: enhnace the UI",
+    "dateAdded": "2024-01-20T17:10:03.710Z"
+  },
+  {
+    "url": "https://v0.dev/t/MZ0sdQZD8tf",
+    "label": "Template for prompt: I need a landing page for a site that collects donations for charity, it should a modern design",
+    "dateAdded": "2024-01-20T17:10:03.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/9msvvTaKw1j",
+    "label": "Template for prompt: A landing page for kpop vocalist",
+    "dateAdded": "2024-01-20T17:10:03.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/PUyQAegNi32",
+    "label": "Template for prompt: a \"diary\" web site with music play",
+    "dateAdded": "2024-01-20T17:10:03.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/q7EABxwI3iK",
+    "label": "Template for prompt: a \"diary\" web site with music play",
+    "dateAdded": "2024-01-20T17:10:03.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/JzKpVgV79C9",
+    "label": "Template for prompt: a \"diary\" web site with music play",
+    "dateAdded": "2024-01-20T17:10:03.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/TzuLxpJ1M70",
+    "label": "Template for prompt: Could you make a simple conversation UI similar to chatgpt?",
+    "dateAdded": "2024-01-20T17:10:03.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/JNLE9BvUCIn",
+    "label": "Template for prompt: create the exact similar ui layout with similar design and dark mode colors feel free to make designs by yourself to make it more helpfull and usable",
+    "dateAdded": "2024-01-20T17:10:03.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/ee7WhZevjJ4",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-20T17:10:03.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/h12iW8RioG2",
+    "label": "Template for prompt: build a form form for users to enter their business details in a business directory.  Form should have name of business, address, images of the business, promo code field, their website url",
+    "dateAdded": "2024-01-20T17:10:03.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/QYVEZBcWywq",
+    "label": "Template for prompt: Make a page that can contain various analyical graphs. I want to display various analyics in a viewable way on 1 page",
+    "dateAdded": "2024-01-20T17:10:03.713Z"
+  },
+  {
+    "url": "https://v0.dev/t/swMnsx0IkrZ",
+    "label": "Template for prompt: A landpage section, this section has two parts, left part is only text with a <a> tag styled as a button, right part is an image (next.js image)",
+    "dateAdded": "2024-01-20T17:10:03.713Z"
+  },
+  {
+    "url": "https://v0.dev/t/gGnAcw0ELcy",
+    "label": "Template for prompt: UI page that provide drag and drop zone for file upload either by drag or drop or on click that allows user to upload",
+    "dateAdded": "2024-01-20T17:10:03.713Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z0lfRzq7U38",
+    "label": "Template for prompt: web development company hero section",
+    "dateAdded": "2024-01-20T17:10:03.713Z"
+  },
+  {
+    "url": "https://v0.dev/t/H3w2olTOiyj",
+    "label": "Template for prompt: Generate a chat software",
+    "dateAdded": "2024-01-20T17:10:03.713Z"
+  },
+  {
+    "url": "https://v0.dev/t/7m0LzPaBQoM",
+    "label": "Template for prompt: Build a \"Book Now\" page with a form that accepts first name, last name, phone number, email address, home address, state, service and a textarea for description.",
+    "dateAdded": "2024-01-20T17:10:03.713Z"
+  },
+  {
+    "url": "https://v0.dev/t/Xy9o5oILmB2",
+    "label": "Template for prompt: create a user profile, with a user cover image, and his image fully rounded, and it's over the cover image, something like twitter, facebook or quite any social media app's user profile. Also add the user name next to the image",
+    "dateAdded": "2024-01-20T17:10:03.714Z"
+  },
+  {
+    "url": "https://v0.dev/t/nXzyxHBtJ3D",
+    "label": "Template for prompt: I want to build an app that user's can use to check what's new on Reddit. Basically they see only one post each time and the main content is summarized with AI (by clicking a button) if the user wants. I not they can click next to check the other posts one by one.\n\n",
+    "dateAdded": "2024-01-20T17:10:03.714Z"
+  },
+  {
+    "url": "https://v0.dev/t/2PtkrNcmgdk",
+    "label": "Template for prompt: I want to build an app that user's can use to check what's new on Reddit. Basically they see only one post each time and the main content is summarized with AI (by clicking a button) if the user wants. I not they can click next to check the other posts one by one.\n\n",
+    "dateAdded": "2024-01-20T17:10:03.714Z"
+  },
+  {
+    "url": "https://v0.dev/t/tTCAIhLioki",
+    "label": "Template for prompt: a card for a blog using shadcn",
+    "dateAdded": "2024-01-20T17:10:03.714Z"
+  },
+  {
+    "url": "https://v0.dev/t/EX2PQmRX95O",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T17:10:03.714Z"
+  },
+  {
+    "url": "https://v0.dev/t/tGQT8lTQmp8",
+    "label": "Template for prompt: creat with Django shopping site and give me codes",
+    "dateAdded": "2024-01-20T17:10:03.715Z"
+  },
+  {
+    "url": "https://v0.dev/t/fyppRJVMqZD",
+    "label": "Template for prompt: Create a loading screen with the letter Y, it should do some kind of animation with the letter itself and make it look slick",
+    "dateAdded": "2024-01-20T17:10:03.715Z"
   }
 ]
