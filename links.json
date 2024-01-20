@@ -10918,5 +10918,135 @@
     "url": "https://v0.dev/t/011LpGyjkiL",
     "label": "Template for prompt: login screen",
     "dateAdded": "2024-01-20T23:30:03.151Z"
+  },
+  {
+    "url": "https://v0.dev/t/XCPt8gQ33u9",
+    "label": "Template for prompt: An ecommerce store",
+    "dateAdded": "2024-01-20T23:35:03.100Z"
+  },
+  {
+    "url": "https://v0.dev/t/JSXBj4vVX1R",
+    "label": "Template for prompt: a table list of users with the select input named status",
+    "dateAdded": "2024-01-20T23:35:03.100Z"
+  },
+  {
+    "url": "https://v0.dev/t/JLW1dHfwkTl",
+    "label": "Template for prompt: a card that you can press to start something",
+    "dateAdded": "2024-01-20T23:35:03.100Z"
+  },
+  {
+    "url": "https://v0.dev/t/fPf4wGz3INu",
+    "label": "Template for prompt: create an accordion in react",
+    "dateAdded": "2024-01-20T23:35:03.100Z"
+  },
+  {
+    "url": "https://v0.dev/t/3yujcG2eH01",
+    "label": "Template for prompt: a dashbord for library app, with books and statuses (free/issued)",
+    "dateAdded": "2024-01-20T23:35:03.101Z"
+  },
+  {
+    "url": "https://v0.dev/t/SlfjdZ6xqJ0",
+    "label": "Template for prompt: a chat interface like slack",
+    "dateAdded": "2024-01-20T23:35:03.101Z"
+  },
+  {
+    "url": "https://v0.dev/t/ocpHue5ce7r",
+    "label": "Template for prompt: create a navigation section for a streaming website. It will have a collection of cards, each representing a video. Each hard needs to have a thumbnail, a pill with the status (online or offline) a title, and a description. Make it dark mode using black and white colors",
+    "dateAdded": "2024-01-20T23:35:03.101Z"
+  },
+  {
+    "url": "https://v0.dev/t/m4tCOHZ8MVk",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-20T23:35:03.101Z"
+  },
+  {
+    "url": "https://v0.dev/t/A7YCJLMj03l",
+    "label": "Template for prompt: form to input a % from 1 to 100, below that is segmented input with options A, B, C, each has a date input",
+    "dateAdded": "2024-01-20T23:35:03.101Z"
+  },
+  {
+    "url": "https://v0.dev/t/uzqbiIvRCek",
+    "label": "Template for prompt: a user settings modal",
+    "dateAdded": "2024-01-20T23:35:03.101Z"
+  },
+  {
+    "url": "https://v0.dev/t/WaOmwVlP7CZ",
+    "label": "Template for prompt: a page similar to robinhood that shows the chart of a stock",
+    "dateAdded": "2024-01-20T23:35:03.101Z"
+  },
+  {
+    "url": "https://v0.dev/t/9Fggs0jn9gY",
+    "label": "Template for prompt: user profile page, where the top is the user's profile image, and below is buttons",
+    "dateAdded": "2024-01-20T23:35:03.102Z"
+  },
+  {
+    "url": "https://v0.dev/t/VTA3NugwAkF",
+    "label": "Template for prompt: A pigeon themed website named \"Pigeon KK,\" which is focused on helping people with Kris Kringle gift exchanges. It has a side bar with link to create a group and access a group.",
+    "dateAdded": "2024-01-20T23:35:03.102Z"
+  },
+  {
+    "url": "https://v0.dev/t/MWu8uTOchnc",
+    "label": "Template for prompt: build a form that takes quantity 1-1000 range, validate with zod, use shadcnui I don't need the layout, only the component",
+    "dateAdded": "2024-01-20T23:35:03.102Z"
+  },
+  {
+    "url": "https://v0.dev/t/MfmY6AKUVbe",
+    "label": "Template for prompt: I want to build a landing page for a travel agenc",
+    "dateAdded": "2024-01-20T23:35:03.102Z"
+  },
+  {
+    "url": "https://v0.dev/t/7DK52r9ugrs",
+    "label": "Template for prompt: a carousel slider with the design in the picture ",
+    "dateAdded": "2024-01-20T23:35:03.102Z"
+  },
+  {
+    "url": "https://v0.dev/t/ferieE74giB",
+    "label": "Template for prompt: a landing page for an accounting buisness trying to make an impression on the web",
+    "dateAdded": "2024-01-20T23:35:03.102Z"
+  },
+  {
+    "url": "https://v0.dev/t/deJ20r3kzfa",
+    "label": "Template for prompt: build me that section ",
+    "dateAdded": "2024-01-20T23:35:03.102Z"
+  },
+  {
+    "url": "https://v0.dev/t/LrdDFuuxeT9",
+    "label": "Template for prompt: wygeneruj siatkę boxów, container width 1440px, każdy element 25% szerokosci, w srodku ikona od devicons, tytuł boldem, opis 25 znaków lorem, poniżej licznik lekcji, stwórz 12 takich boxów",
+    "dateAdded": "2024-01-20T23:35:03.102Z"
+  },
+  {
+    "url": "https://v0.dev/t/fZvylRuP4DU",
+    "label": "Template for prompt: create orders information page. \n\nWhere there is a each table for each order the table should contain ordered products the products should have title, price, quantity, color, size, and view product link.\n\nthen on top of each table should be a div for date or order, order number, total amount and a buttton to view order information  ",
+    "dateAdded": "2024-01-20T23:35:03.102Z"
+  },
+  {
+    "url": "https://v0.dev/t/8UJq5SrqNIV",
+    "label": "Template for prompt: A calendar resume dashboard",
+    "dateAdded": "2024-01-20T23:35:03.103Z"
+  },
+  {
+    "url": "https://v0.dev/t/UwjnBtsNMYG",
+    "label": "Template for prompt: Create a search results page that returns results for two types of objects (\"performers\" and \"scenes\") and lets you swap between each",
+    "dateAdded": "2024-01-20T23:35:03.103Z"
+  },
+  {
+    "url": "https://v0.dev/t/KjxvQmhdPtb",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T23:35:03.103Z"
+  },
+  {
+    "url": "https://v0.dev/t/aJ8yMxt1leN",
+    "label": "Template for prompt: a swipe button for confirmation send money",
+    "dateAdded": "2024-01-20T23:35:03.103Z"
+  },
+  {
+    "url": "https://v0.dev/t/Iyzpw1OmYxd",
+    "label": "Template for prompt: A login screen with email and password, and the chance to register if you don't have an account",
+    "dateAdded": "2024-01-20T23:35:03.103Z"
+  },
+  {
+    "url": "https://v0.dev/t/c0jUlpAsqzg",
+    "label": "Template for prompt: I need a home page for my company to post job openings. this is the fornt page",
+    "dateAdded": "2024-01-20T23:35:03.103Z"
   }
 ]
