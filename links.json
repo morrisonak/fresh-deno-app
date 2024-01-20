@@ -5538,5 +5538,135 @@
     "url": "https://v0.dev/t/dH9raBZ1l0L",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2024-01-20T20:00:03.171Z"
+  },
+  {
+    "url": "https://v0.dev/t/o8GaCXMVd1s",
+    "label": "Template for prompt: A loading spinner",
+    "dateAdded": "2024-01-20T20:05:03.154Z"
+  },
+  {
+    "url": "https://v0.dev/t/l0uThp79qui",
+    "label": "Template for prompt: A minimal black and white theme for listing short stories",
+    "dateAdded": "2024-01-20T20:05:03.154Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZLUkUyPkuel",
+    "label": "Template for prompt: diary input page with also buttons where you can select your mood and at the bottom there is an \"analyze\" button. in the top right corner I want a Iittle caldenar ",
+    "dateAdded": "2024-01-20T20:05:03.155Z"
+  },
+  {
+    "url": "https://v0.dev/t/mJzIYwEHYtv",
+    "label": "Template for prompt: Generate me a html of same tables and selector,in first it must be images",
+    "dateAdded": "2024-01-20T20:05:03.155Z"
+  },
+  {
+    "url": "https://v0.dev/t/DvWKcH9LRDu",
+    "label": "Template for prompt: A loading spinner that has a few variants",
+    "dateAdded": "2024-01-20T20:05:03.155Z"
+  },
+  {
+    "url": "https://v0.dev/t/OjtK4jWBXyP",
+    "label": "Template for prompt: A list of scraping results. Each results shows the website name, website url and a list of characteristics of the website : latest comment date, website authority score, a mention if the website is a wordpress website or not",
+    "dateAdded": "2024-01-20T20:05:03.155Z"
+  },
+  {
+    "url": "https://v0.dev/t/F9uQ7eVrXm3",
+    "label": "Template for prompt: در کد زیر زیبا سازی سایت را انجام بده\n<!DOCTYPE html>\n<html lang=\"fa\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>فروشگاه پرینتر سه بعدی</title>\n    <style>\n        body {\n            font-family: 'Tahoma', sans-serif;\n            margin: 0;\n            padding: 0;\n            background-color: #f4f4f4;\n        }\n\n        header {\n            background-color: #333;\n            color: #fff;\n            text-align: center;\n            padding: 20px;\n        }\n\n        nav {\n            background-color: #666;\n            color: #fff;\n            text-align: center;\n            padding: 10px;\n        }\n\n        section {\n            display: flex;\n            justify-content: space-around;\n            flex-wrap: wrap;\n            padding: 20px;\n        }\n\n        section div {\n            background-color: #fff;\n            border: 1px solid #ddd;\n            padding: 15px;\n            margin: 15px;\n            ",
+    "dateAdded": "2024-01-20T20:05:03.155Z"
+  },
+  {
+    "url": "https://v0.dev/t/baQOhXCC0DB",
+    "label": "Template for prompt: در کد زیر زیبا سازی سایت را انجام بده\n<!DOCTYPE html>\n<html lang=\"fa\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>فروشگاه پرینتر سه بعدی</title>\n    <style>\n        body {\n            font-family: 'Tahoma', sans-serif;\n            margin: 0;\n            padding: 0;\n            background-color: #f4f4f4;\n        }\n\n        header {\n            background-color: #333;\n            color: #fff;\n            text-align: center;\n            padding: 20px;\n        }\n\n        nav {\n            background-color: #666;\n            color: #fff;\n            text-align: center;\n            padding: 10px;\n        }\n\n        section {\n            display: flex;\n            justify-content: space-around;\n            flex-wrap: wrap;\n            padding: 20px;\n        }\n\n        section div {\n            background-color: #fff;\n            border: 1px solid #ddd;\n            padding: 15px;\n            margin: 15px;\n            ",
+    "dateAdded": "2024-01-20T20:05:03.155Z"
+  },
+  {
+    "url": "https://v0.dev/t/77rdOUh4VkQ",
+    "label": "Template for prompt: Create a dashboard layout with shadcn components it should show the total number of orders and show the orders per city and what percentage that city represents in terms of orders.",
+    "dateAdded": "2024-01-20T20:05:03.156Z"
+  },
+  {
+    "url": "https://v0.dev/t/c960JXtrLml",
+    "label": "Template for prompt: Create a dashboard layout with shadcn components it should show the total number of orders and show the orders per city and what percentage that city represents in terms of orders.",
+    "dateAdded": "2024-01-20T20:05:03.156Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZHzDtcfgHSe",
+    "label": "Template for prompt: modern and sleek clothing and fashion store",
+    "dateAdded": "2024-01-20T20:05:03.156Z"
+  },
+  {
+    "url": "https://v0.dev/t/A6UdExMPnN0",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-20T20:05:03.156Z"
+  },
+  {
+    "url": "https://v0.dev/t/DiGmrMdoE1q",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T20:05:03.156Z"
+  },
+  {
+    "url": "https://v0.dev/t/XOWS7UWAOBH",
+    "label": "Template for prompt: AI chat interface",
+    "dateAdded": "2024-01-20T20:05:03.157Z"
+  },
+  {
+    "url": "https://v0.dev/t/ARvxYYawOT0",
+    "label": "Template for prompt: a navbar for a list of jobs, with a search input, and two type of filters",
+    "dateAdded": "2024-01-20T20:05:03.157Z"
+  },
+  {
+    "url": "https://v0.dev/t/fZasQbr21lV",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-20T20:05:03.157Z"
+  },
+  {
+    "url": "https://v0.dev/t/mNjPulbtuHL",
+    "label": "Template for prompt: I want to make a header component that has a background image, with text centered vertically and horizontally on the image",
+    "dateAdded": "2024-01-20T20:05:03.157Z"
+  },
+  {
+    "url": "https://v0.dev/t/VskH5DDY416",
+    "label": "Template for prompt: nft collection landing page with a header section, and a hiring section that is only visible on expanding the section",
+    "dateAdded": "2024-01-20T20:05:03.157Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZT1naNEFiLb",
+    "label": "Template for prompt: Membership registration page",
+    "dateAdded": "2024-01-20T20:05:03.158Z"
+  },
+  {
+    "url": "https://v0.dev/t/DtsBcGwfeFm",
+    "label": "Template for prompt: simple dropdown menu",
+    "dateAdded": "2024-01-20T20:05:03.158Z"
+  },
+  {
+    "url": "https://v0.dev/t/EjkBOIjhvlt",
+    "label": "Template for prompt: A section showing multipe establishments with filter meny by city a each establishment card should have a casual for their images",
+    "dateAdded": "2024-01-20T20:05:03.158Z"
+  },
+  {
+    "url": "https://v0.dev/t/0k81NvRtLmt",
+    "label": "Template for prompt: login page",
+    "dateAdded": "2024-01-20T20:05:03.158Z"
+  },
+  {
+    "url": "https://v0.dev/t/bDLRodv7j5C",
+    "label": "Template for prompt: A search box is located at middle of site.",
+    "dateAdded": "2024-01-20T20:05:03.158Z"
+  },
+  {
+    "url": "https://v0.dev/t/2sVYTHL2qQq",
+    "label": "Template for prompt: create a floating navbar. logo on the left. 4 tabs on the middle with icon and text. 2 buttons on the right.\non mobile the 4 tabs should be hidden and open in a hamburguer menu",
+    "dateAdded": "2024-01-20T20:05:03.158Z"
+  },
+  {
+    "url": "https://v0.dev/t/KKhsNd7i51C",
+    "label": "Template for prompt: generate a card that has a left side and right card. On the left side we show a scaning animation and on the right we show a table with all the events that have happened so far. This will be used in an RFID widget that is scanning for active vehicles.",
+    "dateAdded": "2024-01-20T20:05:03.159Z"
+  },
+  {
+    "url": "https://v0.dev/t/MF4eTTThVt6",
+    "label": "Template for prompt: generative pfp nft collection landing page",
+    "dateAdded": "2024-01-20T20:05:03.159Z"
   }
 ]
