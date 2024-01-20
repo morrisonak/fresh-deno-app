@@ -4163,5 +4163,135 @@
     "url": "https://v0.dev/t/1MwJQxqihiE",
     "label": "Template for prompt: Make me a homepage that looks like this.",
     "dateAdded": "2024-01-20T18:50:03.236Z"
+  },
+  {
+    "url": "https://v0.dev/t/4AfpwiI8PT4",
+    "label": "Template for prompt: ai travel planner",
+    "dateAdded": "2024-01-20T18:55:02.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/gvsy58IDnoB",
+    "label": "Template for prompt: arena semelhante ao jogo bomberman cujo tamanho é 10x10 com obstáculos e jogadores",
+    "dateAdded": "2024-01-20T18:55:02.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/fsAj1lq9jrU",
+    "label": "Template for prompt: a landing page for note taking app",
+    "dateAdded": "2024-01-20T18:55:02.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/SsoJSMMtfdF",
+    "label": "Template for prompt: Recreate the following using shadcn",
+    "dateAdded": "2024-01-20T18:55:02.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/1fUqWEAdoYc",
+    "label": "Template for prompt: uma arena de bomberman, de 10x10, com obstaculos e players",
+    "dateAdded": "2024-01-20T18:55:02.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/M0Gq7cF3neg",
+    "label": "Template for prompt: Navbar light theme",
+    "dateAdded": "2024-01-20T18:55:02.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/3rtxaq0TUPK",
+    "label": "Template for prompt: Admin Dashboard",
+    "dateAdded": "2024-01-20T18:55:02.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/cdg8RDwNV7S",
+    "label": "Template for prompt: image gallery",
+    "dateAdded": "2024-01-20T18:55:02.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/ej6GkA3vQCq",
+    "label": "Template for prompt: Card for listing schools. It should have school name and tagline, an image, a badge with main pedagogy, their address, the ages they teach (which is a list) and two lines of text with a read more button",
+    "dateAdded": "2024-01-20T18:55:02.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZBxTohV5udN",
+    "label": "Template for prompt: an onboarding screen, that asks the user if the username is correct. this username will be fetched from chess.com. there will be a select dropdown item in which the username is selected. if the user confirms it, it will redirect to the next page with next/link",
+    "dateAdded": "2024-01-20T18:55:02.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/WXN1GbvZIUV",
+    "label": "Template for prompt: crm landing pages",
+    "dateAdded": "2024-01-20T18:55:02.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/HSEbQ2Mcq7F",
+    "label": "Template for prompt: listing users in an training app",
+    "dateAdded": "2024-01-20T18:55:02.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/yiK7SntBhYD",
+    "label": "Template for prompt: For an onboarding screen focused on username confirmation, envision a minimalist and elegant design. The screen features a clear, bold headline \"Is This Your Chess.com Username?\" with the fetched username displayed prominently below. Two distinct buttons - \"Confirm\" and \"Edit\" - are placed beneath the username, offering straightforward options for the user to either accept or modify the displayed information.",
+    "dateAdded": "2024-01-20T18:55:02.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/aKJuQ2T3Wf4",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T18:55:02.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/lu3iqZ2CVIf",
+    "label": "Template for prompt: header component for signed in user",
+    "dateAdded": "2024-01-20T18:55:02.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/SBDM8iZ5dVH",
+    "label": "Template for prompt: Please create a one screen for an ios app that summarizes this chatgpt conversation, to ask the feedback from the user, if it can proceed. PLease generate a very engaging screen, like an instagram story, with an image in the background and large letters asking if it can proceed or not with a button in the bottom for approval, one for rejection and one for redoing the task: GPT Certainly! I'll compile and present the findings in the \"Results\" section, focusing on the outcomes related to image quality improvements in neonatal brain MRI using Air Recon DL.  Results Descriptive Statistics and Baseline Population Data Patient Demographics: The study included MRI scans from 60 neonatal patients (30 male, 30 female), with a mean gestational age of 37.5 weeks (range: 26-41 weeks). The primary indications for MRI included assessment of intracranial hemorrhage, evaluation of developmental anomalies, and suspicion of hypoxic-ischemic injury. Image Quality Assessment Overall Image Quality: Compare",
+    "dateAdded": "2024-01-20T18:55:02.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/rcxyiyahxV0",
+    "label": "Template for prompt: responsive paymen system with referral section and a btn to add funds",
+    "dateAdded": "2024-01-20T18:55:02.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/3ooXWWXwqt8",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T18:55:02.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/EMGbZM9qrX3",
+    "label": "Template for prompt: a patient dashboard with upcoming and previous appointments",
+    "dateAdded": "2024-01-20T18:55:02.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZidsLHYcQmF",
+    "label": "Template for prompt: Create me an Animated Panel for FIVEM Where you First have a page where i select a GameMode First of all. \n\nGamemode 1 is BDRZ \nGamemode 2 is 1V1\nGameMode 3 IS 2v2\n\nAnd when i select animate it and close it\n\nMake it Fivem PVP Designed, and use my Server name so its looking like our server vibes. Its named\n\nBDRZ SWEDEN",
+    "dateAdded": "2024-01-20T18:55:02.384Z"
+  },
+  {
+    "url": "https://v0.dev/t/wluRIl6PE4K",
+    "label": "Template for prompt: \nredesign this application's homepage with modern and sober design",
+    "dateAdded": "2024-01-20T18:55:02.384Z"
+  },
+  {
+    "url": "https://v0.dev/t/kj7CSNP2mc6",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders. Also have a section that shows top customers.",
+    "dateAdded": "2024-01-20T18:55:02.384Z"
+  },
+  {
+    "url": "https://v0.dev/t/dKEh1qhVDmN",
+    "label": "Template for prompt: I want to generate a screen that will be used as a form to insert data for an application , the form should allow insert data about customers , the second form should instead allow to insert data about how much a customer will be able to buy from my company of products , this form should allow to insert a value per country , you should include all EU countries ",
+    "dateAdded": "2024-01-20T18:55:02.384Z"
+  },
+  {
+    "url": "https://v0.dev/t/YB150ryF07X",
+    "label": "Template for prompt: A dashboard of a code autograder platform that displays submits and assignments",
+    "dateAdded": "2024-01-20T18:55:02.384Z"
+  },
+  {
+    "url": "https://v0.dev/t/uUy7MFRaay3",
+    "label": "Template for prompt: a mobile app home screen component that shows the users last activities",
+    "dateAdded": "2024-01-20T18:55:02.384Z"
+  },
+  {
+    "url": "https://v0.dev/t/xzVltj00xqu",
+    "label": "Template for prompt: I want to generate a screen that will be used as a form to insert data for an application , the form should allow insert data about customers , the second form should instead allow to insert data about how much a customer will be able to buy from my company of products , this form should allow to insert a value per country , you should include all EU countries ",
+    "dateAdded": "2024-01-20T18:55:02.384Z"
   }
 ]
