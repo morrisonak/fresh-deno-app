@@ -3518,5 +3518,130 @@
     "url": "https://v0.dev/t/fAmy4VPLRqk",
     "label": "Template for prompt: login page",
     "dateAdded": "2024-01-20T18:25:02.802Z"
+  },
+  {
+    "url": "https://v0.dev/t/pX86oQWY5xo",
+    "label": "Template for prompt: A mobile UI screen with option to select location from the select menu and cards of rides and their prices, their luggage and passanger capacity being shown below the select menu.",
+    "dateAdded": "2024-01-20T18:30:02.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/9YcOay1eDQL",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-20T18:30:02.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/5LBlf8N3DRE",
+    "label": "Template for prompt: generate warframe detail page which includes its name, description, armor, health and abilities",
+    "dateAdded": "2024-01-20T18:30:02.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/1EwP1aH64Wy",
+    "label": "Template for prompt: a minimal payment successful component with two button. no icon is needed",
+    "dateAdded": "2024-01-20T18:30:02.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/q4hRxfnw4yO",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T18:30:02.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ew8Bm8wfYpq",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T18:30:02.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/l1staBy68iE",
+    "label": "Template for prompt: mordheim warband details",
+    "dateAdded": "2024-01-20T18:30:02.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/Nq6iSlFO2ip",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T18:30:02.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ih7RRFvO7c0",
+    "label": "Template for prompt: mordheim warband view with available models and their attributes using tailwind",
+    "dateAdded": "2024-01-20T18:30:02.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/rpAuUN16nwK",
+    "label": "Template for prompt: mordheim warband view with available models and their attributes using tailwind",
+    "dateAdded": "2024-01-20T18:30:02.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/qrCtHG03LhE",
+    "label": "Template for prompt: A landing page for my real estate website",
+    "dateAdded": "2024-01-20T18:30:02.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/EXNe4x9ThkJ",
+    "label": "Template for prompt: Kanban board that only has to-do sections prepared",
+    "dateAdded": "2024-01-20T18:30:02.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/lrOkeLAe7MC",
+    "label": "Template for prompt: Kanban board that only has to-do sections prepared",
+    "dateAdded": "2024-01-20T18:30:02.502Z"
+  },
+  {
+    "url": "https://v0.dev/t/5VrrrPB9GIZ",
+    "label": "Template for prompt: create react app with layout that links to /posts and \"/post/:id\"\ncreate that in dark mode",
+    "dateAdded": "2024-01-20T18:30:02.502Z"
+  },
+  {
+    "url": "https://v0.dev/t/OW2tkZBMlfD",
+    "label": "Template for prompt: make a carousel where each carouselitem is a grid of 4 cards",
+    "dateAdded": "2024-01-20T18:30:02.502Z"
+  },
+  {
+    "url": "https://v0.dev/t/HmTfC5afSCm",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T18:30:02.502Z"
+  },
+  {
+    "url": "https://v0.dev/t/QEbKbD5Jpx7",
+    "label": "Template for prompt: sign up form",
+    "dateAdded": "2024-01-20T18:30:02.502Z"
+  },
+  {
+    "url": "https://v0.dev/t/rogd4fKfO0O",
+    "label": "Template for prompt: a grid of product cards, where each product is shown with an image, a title, short description, and a \"starts at\" price on the right\ninside the card but beneath the product, there are different variants listed as options, when clicked they change the \"starts at\" price to the actual price\n\nvariants only have a title + subtitle",
+    "dateAdded": "2024-01-20T18:30:02.503Z"
+  },
+  {
+    "url": "https://v0.dev/t/WHWDOXRdk9E",
+    "label": "Template for prompt: Google Play and app store mix design",
+    "dateAdded": "2024-01-20T18:30:02.503Z"
+  },
+  {
+    "url": "https://v0.dev/t/BEbUJadgc36",
+    "label": "Template for prompt: A book details page for a book service. It should have some options to configure. ",
+    "dateAdded": "2024-01-20T18:30:02.503Z"
+  },
+  {
+    "url": "https://v0.dev/t/RolxgeG7GfT",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T18:30:02.503Z"
+  },
+  {
+    "url": "https://v0.dev/t/E9Ha0nzyyHA",
+    "label": "Template for prompt: a form succes page with a button to go back to list, and a button to create another form",
+    "dateAdded": "2024-01-20T18:30:02.503Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZfsssuyNj10",
+    "label": "Template for prompt: a google play redesign",
+    "dateAdded": "2024-01-20T18:30:02.503Z"
+  },
+  {
+    "url": "https://v0.dev/t/inDMVCppUNN",
+    "label": "Template for prompt: crie um carrossel com palalax, com borda azul e background cinza",
+    "dateAdded": "2024-01-20T18:30:02.504Z"
+  },
+  {
+    "url": "https://v0.dev/t/0knmSqtw9vs",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T18:30:02.504Z"
   }
 ]
