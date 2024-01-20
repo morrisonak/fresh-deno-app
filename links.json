@@ -5408,5 +5408,135 @@
     "url": "https://v0.dev/t/OPGfXZW48XM",
     "label": "Template for prompt: A list of scraping results. Each results shows the website name, website url, latest comment date, website authority score, a mention if the website is a wordpress website or not, and a button/icon to visit, a button/icon to save to a list",
     "dateAdded": "2024-01-20T19:55:03.002Z"
+  },
+  {
+    "url": "https://v0.dev/t/ARvxYYawOT0",
+    "label": "Template for prompt: a navbar for a list of jobs, with a search input, and two type of filters",
+    "dateAdded": "2024-01-20T20:00:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/fZasQbr21lV",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-20T20:00:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/mNjPulbtuHL",
+    "label": "Template for prompt: I want to make a header component that has a background image, with text centered vertically and horizontally on the image",
+    "dateAdded": "2024-01-20T20:00:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/c960JXtrLml",
+    "label": "Template for prompt: Create a dashboard layout with shadcn components it should show the total number of orders and show the orders per city and what percentage that city represents in terms of orders.",
+    "dateAdded": "2024-01-20T20:00:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/VskH5DDY416",
+    "label": "Template for prompt: nft collection landing page with a header section, and a hiring section that is only visible on expanding the section",
+    "dateAdded": "2024-01-20T20:00:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZT1naNEFiLb",
+    "label": "Template for prompt: Membership registration page",
+    "dateAdded": "2024-01-20T20:00:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/DtsBcGwfeFm",
+    "label": "Template for prompt: simple dropdown menu",
+    "dateAdded": "2024-01-20T20:00:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/EjkBOIjhvlt",
+    "label": "Template for prompt: A section showing multipe establishments with filter meny by city a each establishment card should have a casual for their images",
+    "dateAdded": "2024-01-20T20:00:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/0k81NvRtLmt",
+    "label": "Template for prompt: login page",
+    "dateAdded": "2024-01-20T20:00:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/bDLRodv7j5C",
+    "label": "Template for prompt: A search box is located at middle of site.",
+    "dateAdded": "2024-01-20T20:00:03.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/2sVYTHL2qQq",
+    "label": "Template for prompt: create a floating navbar. logo on the left. 4 tabs on the middle with icon and text. 2 buttons on the right.\non mobile the 4 tabs should be hidden and open in a hamburguer menu",
+    "dateAdded": "2024-01-20T20:00:03.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/KKhsNd7i51C",
+    "label": "Template for prompt: generate a card that has a left side and right card. On the left side we show a scaning animation and on the right we show a table with all the events that have happened so far. This will be used in an RFID widget that is scanning for active vehicles.",
+    "dateAdded": "2024-01-20T20:00:03.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/MF4eTTThVt6",
+    "label": "Template for prompt: generative pfp nft collection landing page",
+    "dateAdded": "2024-01-20T20:00:03.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/bQ0CZ8dfKrm",
+    "label": "Template for prompt: An e-commerce website",
+    "dateAdded": "2024-01-20T20:00:03.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/lM6F8MnoOk9",
+    "label": "Template for prompt: A Saas Admin Dashboard",
+    "dateAdded": "2024-01-20T20:00:03.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/Gl236cumgzG",
+    "label": "Template for prompt: post comments",
+    "dateAdded": "2024-01-20T20:00:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/KtKPljJL3wL",
+    "label": "Template for prompt: subscription cards where i can see the discount value of premium vs professional monthly yearly subscriptions",
+    "dateAdded": "2024-01-20T20:00:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/AuyzNlLdaf7",
+    "label": "Template for prompt: a team content element ",
+    "dateAdded": "2024-01-20T20:00:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/BNhDG49OjAg",
+    "label": "Template for prompt: \nI'm going to create a library homepage, so please make a detailed page about the book that appears when you click on the book.",
+    "dateAdded": "2024-01-20T20:00:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/MxTlc2Zquep",
+    "label": "Template for prompt: image placeholder",
+    "dateAdded": "2024-01-20T20:00:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZoBDf9YVCrk",
+    "label": "Template for prompt: i need a select list of fruits, but be able to choose \"none\" with a blank value",
+    "dateAdded": "2024-01-20T20:00:03.170Z"
+  },
+  {
+    "url": "https://v0.dev/t/VOHH4Epfs3F",
+    "label": "Template for prompt: a dashboard for my analytics saas product",
+    "dateAdded": "2024-01-20T20:00:03.170Z"
+  },
+  {
+    "url": "https://v0.dev/t/cC1o3tkoUQ8",
+    "label": "Template for prompt: a notification bell in a nav bar that when clicked has a drop down showing a list of notifications",
+    "dateAdded": "2024-01-20T20:00:03.170Z"
+  },
+  {
+    "url": "https://v0.dev/t/0EoWVFpsEfs",
+    "label": "Template for prompt: create div with image and text in bottom. blur it with gradient in the bottom to make text more clear",
+    "dateAdded": "2024-01-20T20:00:03.170Z"
+  },
+  {
+    "url": "https://v0.dev/t/q0n9a8p11DN",
+    "label": "Template for prompt: search posts",
+    "dateAdded": "2024-01-20T20:00:03.170Z"
+  },
+  {
+    "url": "https://v0.dev/t/dH9raBZ1l0L",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T20:00:03.171Z"
   }
 ]
