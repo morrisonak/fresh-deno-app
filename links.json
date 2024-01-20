@@ -1738,5 +1738,135 @@
     "url": "https://v0.dev/t/h12iW8RioG2",
     "label": "Template for prompt: build a form form for users to enter their business details in a business directory.  Form should have name of business, address, images of the business, promo code field, their website url",
     "dateAdded": "2024-01-20T17:15:03.876Z"
+  },
+  {
+    "url": "https://v0.dev/t/FobOFF13f0v",
+    "label": "Template for prompt: I need a web page for my school that is to show the different answers of a number of questions from the students. It would be important to create different lobbies with hosts that can see the answers of all the students",
+    "dateAdded": "2024-01-20T17:20:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/daLwTp4sU7q",
+    "label": "Template for prompt: a blog with a circle profile picture on top",
+    "dateAdded": "2024-01-20T17:20:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/izGjS59PnDk",
+    "label": "Template for prompt: a popover dialog showing:\n- Getting started, Documentation and about links at the top with icons\n- a changelog showing recent improvements to the app",
+    "dateAdded": "2024-01-20T17:20:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/58BxpNlnrZt",
+    "label": "Template for prompt: responsive nav",
+    "dateAdded": "2024-01-20T17:20:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/xWcdgW33R3Z",
+    "label": "Template for prompt: Please create a simple chat UI with a black background. I hope it is a responsive UI, similar to chatgpt.",
+    "dateAdded": "2024-01-20T17:20:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/uuvmzDrxW6a",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-20T17:20:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/SzN0yDsXb9L",
+    "label": "Template for prompt: dashboard outline with top navbar",
+    "dateAdded": "2024-01-20T17:20:03.289Z"
+  },
+  {
+    "url": "https://v0.dev/t/nWp9QepGoVW",
+    "label": "Template for prompt: safari frame",
+    "dateAdded": "2024-01-20T17:20:03.289Z"
+  },
+  {
+    "url": "https://v0.dev/t/95C7E1GMXHc",
+    "label": "Template for prompt: Create a card with 3 fields and heading and one image to thr right with aspect ratio 16:9",
+    "dateAdded": "2024-01-20T17:20:03.289Z"
+  },
+  {
+    "url": "https://v0.dev/t/Mpj5gzASfDH",
+    "label": "Template for prompt: skeleton for this component : <div  className=\"max-w-[300px] bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700\">\n         <img\n            className=\"rounded-t-lg\"\n            src={`${lake.image}`}\n            alt=\"Lake Image\"\n            width=\"300\"\n            height=\"300\"\n         />\n         <div className=\"p-5\">\n            <h5 className=\"mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white\">\n               {lake.name}\n            </h5>\n            <p className=\"mb-3 font-normal text-gray-700 dark:text-gray-400 overflow-hidden\">\n               <span className=\"line-clamp-3\">{lake.description}</span>\n            </p>\n            <Link\n               to={`/lakes/${lake.id}`}\n               className=\"inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-8",
+    "dateAdded": "2024-01-20T17:20:03.289Z"
+  },
+  {
+    "url": "https://v0.dev/t/Bi1yIfn4xX1",
+    "label": "Template for prompt: Clear and easily accessible navigation with a light background.",
+    "dateAdded": "2024-01-20T17:20:03.289Z"
+  },
+  {
+    "url": "https://v0.dev/t/tM6SG7oJtTO",
+    "label": "Template for prompt: safari window with mac os icons in the top left",
+    "dateAdded": "2024-01-20T17:20:03.290Z"
+  },
+  {
+    "url": "https://v0.dev/t/SBptXHXmdqV",
+    "label": "Template for prompt: A page that displays the list of loans borrower by a user.",
+    "dateAdded": "2024-01-20T17:20:03.290Z"
+  },
+  {
+    "url": "https://v0.dev/t/tBx9PQKvjSB",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T17:20:03.290Z"
+  },
+  {
+    "url": "https://v0.dev/t/RLs4671DTXx",
+    "label": "Template for prompt: account page containing username, products, reviews, lists, and a redirect to \"Your Store\"",
+    "dateAdded": "2024-01-20T17:20:03.290Z"
+  },
+  {
+    "url": "https://v0.dev/t/ahOXg3YtAJP",
+    "label": "Template for prompt: a background video with text overlay",
+    "dateAdded": "2024-01-20T17:20:03.291Z"
+  },
+  {
+    "url": "https://v0.dev/t/GF9tCKG4Ydp",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-20T17:20:03.291Z"
+  },
+  {
+    "url": "https://v0.dev/t/HGjH0xH8pR1",
+    "label": "Template for prompt: enhnace the UI",
+    "dateAdded": "2024-01-20T17:20:03.291Z"
+  },
+  {
+    "url": "https://v0.dev/t/xhk0FcBJDWM",
+    "label": "Template for prompt: enhnace the UI",
+    "dateAdded": "2024-01-20T17:20:03.291Z"
+  },
+  {
+    "url": "https://v0.dev/t/eanpLn7GPZE",
+    "label": "Template for prompt: mobile first login page",
+    "dateAdded": "2024-01-20T17:20:03.291Z"
+  },
+  {
+    "url": "https://v0.dev/t/EmCTR6vNZgk",
+    "label": "Template for prompt: create a number input using shadcn",
+    "dateAdded": "2024-01-20T17:20:03.291Z"
+  },
+  {
+    "url": "https://v0.dev/t/2jSfq61CyJM",
+    "label": "Template for prompt: login page",
+    "dateAdded": "2024-01-20T17:20:03.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/iaJC8rTUmj2",
+    "label": "Template for prompt: design me thumbnail for article",
+    "dateAdded": "2024-01-20T17:20:03.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/MZ0sdQZD8tf",
+    "label": "Template for prompt: I need a landing page for a site that collects donations for charity, it should a modern design",
+    "dateAdded": "2024-01-20T17:20:03.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/9msvvTaKw1j",
+    "label": "Template for prompt: A landing page for kpop vocalist",
+    "dateAdded": "2024-01-20T17:20:03.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/PUyQAegNi32",
+    "label": "Template for prompt: a \"diary\" web site with music play",
+    "dateAdded": "2024-01-20T17:20:03.293Z"
   }
 ]
