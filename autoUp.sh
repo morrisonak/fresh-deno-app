@@ -7,7 +7,7 @@ git pull
 # Execute the bun command
 /home/justice/.bun/bin/bun run v0r2.ts
 
-git add static/images/*.jpg
+#git add static/images/*.jpg
 
 
 # Add links.json to the staging area
