@@ -10788,5 +10788,135 @@
     "url": "https://v0.dev/t/7doNb7Fh5R3",
     "label": "Template for prompt: create a list of users ",
     "dateAdded": "2024-01-20T23:25:02.590Z"
+  },
+  {
+    "url": "https://v0.dev/t/A7YCJLMj03l",
+    "label": "Template for prompt: form to input a % from 1 to 100, below that is segmented input with options A, B, C, each has a date input",
+    "dateAdded": "2024-01-20T23:30:03.147Z"
+  },
+  {
+    "url": "https://v0.dev/t/uzqbiIvRCek",
+    "label": "Template for prompt: a user settings modal",
+    "dateAdded": "2024-01-20T23:30:03.147Z"
+  },
+  {
+    "url": "https://v0.dev/t/WaOmwVlP7CZ",
+    "label": "Template for prompt: a page similar to robinhood that shows the chart of a stock",
+    "dateAdded": "2024-01-20T23:30:03.147Z"
+  },
+  {
+    "url": "https://v0.dev/t/9Fggs0jn9gY",
+    "label": "Template for prompt: user profile page, where the top is the user's profile image, and below is buttons",
+    "dateAdded": "2024-01-20T23:30:03.147Z"
+  },
+  {
+    "url": "https://v0.dev/t/VTA3NugwAkF",
+    "label": "Template for prompt: A pigeon themed website named \"Pigeon KK,\" which is focused on helping people with Kris Kringle gift exchanges. It has a side bar with link to create a group and access a group.",
+    "dateAdded": "2024-01-20T23:30:03.147Z"
+  },
+  {
+    "url": "https://v0.dev/t/MWu8uTOchnc",
+    "label": "Template for prompt: build a form that takes quantity 1-1000 range, validate with zod, use shadcnui I don't need the layout, only the component",
+    "dateAdded": "2024-01-20T23:30:03.147Z"
+  },
+  {
+    "url": "https://v0.dev/t/MfmY6AKUVbe",
+    "label": "Template for prompt: I want to build a landing page for a travel agenc",
+    "dateAdded": "2024-01-20T23:30:03.148Z"
+  },
+  {
+    "url": "https://v0.dev/t/7DK52r9ugrs",
+    "label": "Template for prompt: a carousel slider with the design in the picture ",
+    "dateAdded": "2024-01-20T23:30:03.148Z"
+  },
+  {
+    "url": "https://v0.dev/t/ferieE74giB",
+    "label": "Template for prompt: a landing page for an accounting buisness trying to make an impression on the web",
+    "dateAdded": "2024-01-20T23:30:03.148Z"
+  },
+  {
+    "url": "https://v0.dev/t/deJ20r3kzfa",
+    "label": "Template for prompt: build me that section ",
+    "dateAdded": "2024-01-20T23:30:03.148Z"
+  },
+  {
+    "url": "https://v0.dev/t/LrdDFuuxeT9",
+    "label": "Template for prompt: wygeneruj siatkę boxów, container width 1440px, każdy element 25% szerokosci, w srodku ikona od devicons, tytuł boldem, opis 25 znaków lorem, poniżej licznik lekcji, stwórz 12 takich boxów",
+    "dateAdded": "2024-01-20T23:30:03.148Z"
+  },
+  {
+    "url": "https://v0.dev/t/fZvylRuP4DU",
+    "label": "Template for prompt: create orders information page. \n\nWhere there is a each table for each order the table should contain ordered products the products should have title, price, quantity, color, size, and view product link.\n\nthen on top of each table should be a div for date or order, order number, total amount and a buttton to view order information  ",
+    "dateAdded": "2024-01-20T23:30:03.149Z"
+  },
+  {
+    "url": "https://v0.dev/t/8UJq5SrqNIV",
+    "label": "Template for prompt: A calendar resume dashboard",
+    "dateAdded": "2024-01-20T23:30:03.149Z"
+  },
+  {
+    "url": "https://v0.dev/t/UwjnBtsNMYG",
+    "label": "Template for prompt: Create a search results page that returns results for two types of objects (\"performers\" and \"scenes\") and lets you swap between each",
+    "dateAdded": "2024-01-20T23:30:03.149Z"
+  },
+  {
+    "url": "https://v0.dev/t/KjxvQmhdPtb",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T23:30:03.149Z"
+  },
+  {
+    "url": "https://v0.dev/t/aJ8yMxt1leN",
+    "label": "Template for prompt: a swipe button for confirmation send money",
+    "dateAdded": "2024-01-20T23:30:03.149Z"
+  },
+  {
+    "url": "https://v0.dev/t/Iyzpw1OmYxd",
+    "label": "Template for prompt: A login screen with email and password, and the chance to register if you don't have an account",
+    "dateAdded": "2024-01-20T23:30:03.149Z"
+  },
+  {
+    "url": "https://v0.dev/t/c0jUlpAsqzg",
+    "label": "Template for prompt: I need a home page for my company to post job openings. this is the fornt page",
+    "dateAdded": "2024-01-20T23:30:03.150Z"
+  },
+  {
+    "url": "https://v0.dev/t/lFNQasaBSdx",
+    "label": "Template for prompt: make a select a user registration page",
+    "dateAdded": "2024-01-20T23:30:03.150Z"
+  },
+  {
+    "url": "https://v0.dev/t/EfIIfodher5",
+    "label": "Template for prompt: image carousel with navigation",
+    "dateAdded": "2024-01-20T23:30:03.150Z"
+  },
+  {
+    "url": "https://v0.dev/t/8OR3V47unXC",
+    "label": "Template for prompt: I need a home page for my companies jobs it should have. a hero section, an about, benefits, a palce to check out our atcual website and a place to apply and contact us. build so that it is modern",
+    "dateAdded": "2024-01-20T23:30:03.150Z"
+  },
+  {
+    "url": "https://v0.dev/t/VyWV3leakJz",
+    "label": "Template for prompt: A detailed music app UI with various features",
+    "dateAdded": "2024-01-20T23:30:03.150Z"
+  },
+  {
+    "url": "https://v0.dev/t/fJ6t85Z9Z8T",
+    "label": "Template for prompt: login page",
+    "dateAdded": "2024-01-20T23:30:03.150Z"
+  },
+  {
+    "url": "https://v0.dev/t/ElMyOLxxq1f",
+    "label": "Template for prompt: Two big buttons cetered. One has as title \"Informática Empresarial\", the other \"Dirección de empresas\", this is a two column component, with flex or not flex. ",
+    "dateAdded": "2024-01-20T23:30:03.150Z"
+  },
+  {
+    "url": "https://v0.dev/t/nk8hbRLiQlo",
+    "label": "Template for prompt: using tailwindcss",
+    "dateAdded": "2024-01-20T23:30:03.151Z"
+  },
+  {
+    "url": "https://v0.dev/t/011LpGyjkiL",
+    "label": "Template for prompt: login screen",
+    "dateAdded": "2024-01-20T23:30:03.151Z"
   }
 ]
