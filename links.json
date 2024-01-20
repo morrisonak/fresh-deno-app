@@ -6058,5 +6058,135 @@
     "url": "https://v0.dev/t/7CcK9GUF6hx",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2024-01-20T20:20:03.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/alV39rBkRV1",
+    "label": "Template for prompt: simple page login  and modern styles",
+    "dateAdded": "2024-01-20T20:25:02.435Z"
+  },
+  {
+    "url": "https://v0.dev/t/acWyaHH2VVY",
+    "label": "Template for prompt: A dashboard with ability to do these things:\n1) Select a project; \n2) Display Project name and sperately display project card (with description ,budget range and photo); \n3) Information card with all the new updates about the project\n4) Project settings\n5) Further navigation",
+    "dateAdded": "2024-01-20T20:25:02.435Z"
+  },
+  {
+    "url": "https://v0.dev/t/DmLEJJeBXi1",
+    "label": "Template for prompt: and make it responsive too",
+    "dateAdded": "2024-01-20T20:25:02.435Z"
+  },
+  {
+    "url": "https://v0.dev/t/b8BWwmRWV7o",
+    "label": "Template for prompt: Button that has a green outline when clicked",
+    "dateAdded": "2024-01-20T20:25:02.435Z"
+  },
+  {
+    "url": "https://v0.dev/t/R6o4djijj5Z",
+    "label": "Template for prompt: make a modal, use full height et width, modal content center",
+    "dateAdded": "2024-01-20T20:25:02.435Z"
+  },
+  {
+    "url": "https://v0.dev/t/5DHPRdqyuBr",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T20:25:02.435Z"
+  },
+  {
+    "url": "https://v0.dev/t/elnCihndWcI",
+    "label": "Template for prompt: I want a modern card design, the top picture will decrease in opacity towards the bottom, and under it, the card title description and link will be written.",
+    "dateAdded": "2024-01-20T20:25:02.435Z"
+  },
+  {
+    "url": "https://v0.dev/t/CDW95pl3E6t",
+    "label": "Template for prompt: a one page landing page for a small bussines focus on advices, colorful and simple",
+    "dateAdded": "2024-01-20T20:25:02.435Z"
+  },
+  {
+    "url": "https://v0.dev/t/6LiFHimU6it",
+    "label": "Template for prompt: A form using bulma css for creating or editing a blogpost with title, description and body, the latter in richtext",
+    "dateAdded": "2024-01-20T20:25:02.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/15GKp1MFrLh",
+    "label": "Template for prompt: Створи сторінку входу на якій буде форма входу. Форму розділяється на 2 половини зліва картинка з коротким описом сайту з права текст field email, filed pass sign in button",
+    "dateAdded": "2024-01-20T20:25:02.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/sAKj5bNHvta",
+    "label": "Template for prompt: улучши дизайн ",
+    "dateAdded": "2024-01-20T20:25:02.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/7tOTP9xhXxL",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T20:25:02.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/V7XvAiCEFY0",
+    "label": "Template for prompt: A minimal nav bar at the top of the screen with rounded bottom corners, an avatar, and navigation links",
+    "dateAdded": "2024-01-20T20:25:02.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/82KWFsjivj9",
+    "label": "Template for prompt: Create a contact me modal for portfolio",
+    "dateAdded": "2024-01-20T20:25:02.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/7jyFNbLkaXX",
+    "label": "Template for prompt: we need to design a card for our partners, the logo of the partner organization should be seen as the background of the card, add a shading on top and add a button with the name, description and partner link.",
+    "dateAdded": "2024-01-20T20:25:02.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/222ZNQUxGQd",
+    "label": "Template for prompt: make hackernews",
+    "dateAdded": "2024-01-20T20:25:02.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/lc5IdVKzzDT",
+    "label": "Template for prompt: me de uma lista para exibir uma lista de stocks. será trazido da API e na lista principal deve exibir apenas o simbolo da stock, por exemplo \"V\", \"IMB\", \"GE\" e por aí vai.\nCada item deverá ser um link que levara para a pagina de detalhe",
+    "dateAdded": "2024-01-20T20:25:02.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/s1argLenkm8",
+    "label": "Template for prompt: design a unique component to show stack information of error, which has file name, column, row number and function name",
+    "dateAdded": "2024-01-20T20:25:02.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/Tqac694wv66",
+    "label": "Template for prompt: Empty webpage but with a header/headline at the top of the screen that says \"Strava Activity Tracker\" and button in the top right of the screen that says \"Log Out\"",
+    "dateAdded": "2024-01-20T20:25:02.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/ASI7cUVOnln",
+    "label": "Template for prompt: navbar",
+    "dateAdded": "2024-01-20T20:25:02.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/SxfA7fg8IzI",
+    "label": "Template for prompt: a simple basic view for a listing of items with some buttons in top to create a new item, and other buttons for actions like import the view to excel",
+    "dateAdded": "2024-01-20T20:25:02.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/iaUJGpJDGC1",
+    "label": "Template for prompt: a portfolio page with bento grid/ui",
+    "dateAdded": "2024-01-20T20:25:02.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/xjquJRVDymB",
+    "label": "Template for prompt: dashboard layout for admin panel. user avatar in the top right cornet. side bar in the left side with 5 collapsable options. company logo in the top left corner",
+    "dateAdded": "2024-01-20T20:25:02.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/4zl7J1eeHdm",
+    "label": "Template for prompt: Navigation bar for UniProf with: 1. **Home Page**: Features an overview of the application, search bar for universities and professors, and options for login/signup.\n2. **University Page**: Displays a list of universities; selecting one redirects to a list of its professors.\n3. **Professor List Page**: Shows professors with options to filter by department, rating, etc. Each professor is linked to their detail page.\n4. **Professor Detail Page**: Offers a detailed view of a professor's ratings and reviews, with the functionality to add or edit reviews.\n5. **User Dashboard**: Accessible for logged-in users, displaying their review history, personal settings, and options to manage their account.",
+    "dateAdded": "2024-01-20T20:25:02.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/lfh1kr2xMfh",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-20T20:25:02.438Z"
+  },
+  {
+    "url": "https://v0.dev/t/Sd09i89Vy38",
+    "label": "Template for prompt: Make this settings page look better ",
+    "dateAdded": "2024-01-20T20:25:02.438Z"
   }
 ]
