@@ -6838,5 +6838,135 @@
     "url": "https://v0.dev/t/DgIYzGY4MNi",
     "label": "Template for prompt: Page layout with header, left menu with fixed width and content with a list of journal entries (date + time, richtext content, tags)",
     "dateAdded": "2024-01-20T20:50:03.655Z"
+  },
+  {
+    "url": "https://v0.dev/t/LpUZLC2s3f7",
+    "label": "Template for prompt: An admin page where you can upload a pdf file and it is linked to a QR Code. Should have a profile icon in the top corner, and have a cool SVG background. And have a \"print QR code\" button.",
+    "dateAdded": "2024-01-20T20:55:02.739Z"
+  },
+  {
+    "url": "https://v0.dev/t/J0NTqatgPvJ",
+    "label": "Template for prompt: build a section for an input box and a button with dark theme the form and button should be in a card with solid metal background finish ,  the input box should be having rounded edges and .tez at the end of the input box ",
+    "dateAdded": "2024-01-20T20:55:02.739Z"
+  },
+  {
+    "url": "https://v0.dev/t/WxJRDTJFlxC",
+    "label": "Template for prompt: grid card author biography",
+    "dateAdded": "2024-01-20T20:55:02.739Z"
+  },
+  {
+    "url": "https://v0.dev/t/p3fb9FeS5v4",
+    "label": "Template for prompt: A list of properties, with each property having options. For example, property \"length\", has options \"short\", \"medium\", \"long\"",
+    "dateAdded": "2024-01-20T20:55:02.740Z"
+  },
+  {
+    "url": "https://v0.dev/t/7M0Eiy4iF0P",
+    "label": "Template for prompt: grid portfolio box",
+    "dateAdded": "2024-01-20T20:55:02.740Z"
+  },
+  {
+    "url": "https://v0.dev/t/PxkYNDVs5K0",
+    "label": "Template for prompt: navbar profile menu",
+    "dateAdded": "2024-01-20T20:55:02.740Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zp2KaCLKQsf",
+    "label": "Template for prompt: create a beautiful coloured weather search template, with 7 day forecast cards. I want a beautiful blue background with a tiny gradient",
+    "dateAdded": "2024-01-20T20:55:02.740Z"
+  },
+  {
+    "url": "https://v0.dev/t/UFdlULOhjYE",
+    "label": "Template for prompt: a ux for products ",
+    "dateAdded": "2024-01-20T20:55:02.740Z"
+  },
+  {
+    "url": "https://v0.dev/t/WBph9EX287B",
+    "label": "Template for prompt: улучши дизайн и сделай два состония полную версию и свернутую которая отображает два параметра",
+    "dateAdded": "2024-01-20T20:55:02.740Z"
+  },
+  {
+    "url": "https://v0.dev/t/eT9DWEsT6qH",
+    "label": "Template for prompt: A developer homepage ",
+    "dateAdded": "2024-01-20T20:55:02.740Z"
+  },
+  {
+    "url": "https://v0.dev/t/gbl5jhu7YT4",
+    "label": "Template for prompt: left sidebar menu",
+    "dateAdded": "2024-01-20T20:55:02.741Z"
+  },
+  {
+    "url": "https://v0.dev/t/TYLwWQhpl86",
+    "label": "Template for prompt: github contribution chart ui customizer",
+    "dateAdded": "2024-01-20T20:55:02.741Z"
+  },
+  {
+    "url": "https://v0.dev/t/BMN1KPK5cRT",
+    "label": "Template for prompt: улучши дизайн и сделай отратытие параметров которые ниже состояния и вида топлива по нажатии на иконку",
+    "dateAdded": "2024-01-20T20:55:02.741Z"
+  },
+  {
+    "url": "https://v0.dev/t/OVs69EAWkSL",
+    "label": "Template for prompt: улучши дизайн и сделай отратытие параметров которые ниже состояния и вида топлива по нажатии на иконку",
+    "dateAdded": "2024-01-20T20:55:02.741Z"
+  },
+  {
+    "url": "https://v0.dev/t/27Atar54FOv",
+    "label": "Template for prompt: create a file upload banner on the side page for saas system",
+    "dateAdded": "2024-01-20T20:55:02.741Z"
+  },
+  {
+    "url": "https://v0.dev/t/WCgiFvkdGK8",
+    "label": "Template for prompt: wordpress",
+    "dateAdded": "2024-01-20T20:55:02.741Z"
+  },
+  {
+    "url": "https://v0.dev/t/tl5pYQWMsfQ",
+    "label": "Template for prompt: Product section, with the logo/image of the product on the left, and title with bulletpoints on the right",
+    "dateAdded": "2024-01-20T20:55:02.741Z"
+  },
+  {
+    "url": "https://v0.dev/t/8Rio5jObEab",
+    "label": "Template for prompt: imessage like chat interface in html",
+    "dateAdded": "2024-01-20T20:55:02.741Z"
+  },
+  {
+    "url": "https://v0.dev/t/GZXWMiFOaGf",
+    "label": "Template for prompt: File Upload DropZone, with Files Under It with FileIcon, FileName and Cross / Delete button",
+    "dateAdded": "2024-01-20T20:55:02.742Z"
+  },
+  {
+    "url": "https://v0.dev/t/CBhzLlADTug",
+    "label": "Template for prompt: shadcn ui table listing all items with colums id, name, description and a button to add a new item",
+    "dateAdded": "2024-01-20T20:55:02.742Z"
+  },
+  {
+    "url": "https://v0.dev/t/XpFF1xKMOmg",
+    "label": "Template for prompt: command",
+    "dateAdded": "2024-01-20T20:55:02.742Z"
+  },
+  {
+    "url": "https://v0.dev/t/vmUuwaRcA9G",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-20T20:55:02.742Z"
+  },
+  {
+    "url": "https://v0.dev/t/GOCTryLLoXx",
+    "label": "Template for prompt: burger menu",
+    "dateAdded": "2024-01-20T20:55:02.742Z"
+  },
+  {
+    "url": "https://v0.dev/t/vnA7vwrXcZf",
+    "label": "Template for prompt: i'm making a valorant gallery visualizer, you search a skin weapon and you will be able to see their image, and some info",
+    "dateAdded": "2024-01-20T20:55:02.742Z"
+  },
+  {
+    "url": "https://v0.dev/t/v3wTD0RNXYX",
+    "label": "Template for prompt: create  weath search template",
+    "dateAdded": "2024-01-20T20:55:02.742Z"
+  },
+  {
+    "url": "https://v0.dev/t/mqmM8AUYpRk",
+    "label": "Template for prompt: genera en react native un login",
+    "dateAdded": "2024-01-20T20:55:02.742Z"
   }
 ]
