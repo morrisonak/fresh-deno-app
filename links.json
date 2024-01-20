@@ -5278,5 +5278,135 @@
     "url": "https://v0.dev/t/JGyRrLP15ZA",
     "label": "Template for prompt: UI for a marketplace for finding items people are selling locally",
     "dateAdded": "2024-01-20T19:35:02.821Z"
+  },
+  {
+    "url": "https://v0.dev/t/2sVYTHL2qQq",
+    "label": "Template for prompt: create a floating navbar. logo on the left. 4 tabs on the middle with icon and text. 2 buttons on the right.\non mobile the 4 tabs should be hidden and open in a hamburguer menu",
+    "dateAdded": "2024-01-20T19:55:02.997Z"
+  },
+  {
+    "url": "https://v0.dev/t/KKhsNd7i51C",
+    "label": "Template for prompt: generate a card that has a left side and right card. On the left side we show a scaning animation and on the right we show a table with all the events that have happened so far. This will be used in an RFID widget that is scanning for active vehicles.",
+    "dateAdded": "2024-01-20T19:55:02.997Z"
+  },
+  {
+    "url": "https://v0.dev/t/MF4eTTThVt6",
+    "label": "Template for prompt: generative pfp nft collection landing page",
+    "dateAdded": "2024-01-20T19:55:02.998Z"
+  },
+  {
+    "url": "https://v0.dev/t/bQ0CZ8dfKrm",
+    "label": "Template for prompt: An e-commerce website",
+    "dateAdded": "2024-01-20T19:55:02.998Z"
+  },
+  {
+    "url": "https://v0.dev/t/lM6F8MnoOk9",
+    "label": "Template for prompt: A Saas Admin Dashboard",
+    "dateAdded": "2024-01-20T19:55:02.998Z"
+  },
+  {
+    "url": "https://v0.dev/t/Gl236cumgzG",
+    "label": "Template for prompt: post comments",
+    "dateAdded": "2024-01-20T19:55:02.998Z"
+  },
+  {
+    "url": "https://v0.dev/t/KtKPljJL3wL",
+    "label": "Template for prompt: subscription cards where i can see the discount value of premium vs professional monthly yearly subscriptions",
+    "dateAdded": "2024-01-20T19:55:02.998Z"
+  },
+  {
+    "url": "https://v0.dev/t/7VwEDoTjhxL",
+    "label": "Template for prompt: subscription cards where i can see the discount value of premium vs professional monthly yearly subscriptions",
+    "dateAdded": "2024-01-20T19:55:02.998Z"
+  },
+  {
+    "url": "https://v0.dev/t/AuyzNlLdaf7",
+    "label": "Template for prompt: a team content element ",
+    "dateAdded": "2024-01-20T19:55:02.998Z"
+  },
+  {
+    "url": "https://v0.dev/t/BNhDG49OjAg",
+    "label": "Template for prompt: \nI'm going to create a library homepage, so please make a detailed page about the book that appears when you click on the book.",
+    "dateAdded": "2024-01-20T19:55:02.999Z"
+  },
+  {
+    "url": "https://v0.dev/t/MxTlc2Zquep",
+    "label": "Template for prompt: image placeholder",
+    "dateAdded": "2024-01-20T19:55:02.999Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZoBDf9YVCrk",
+    "label": "Template for prompt: i need a select list of fruits, but be able to choose \"none\" with a blank value",
+    "dateAdded": "2024-01-20T19:55:02.999Z"
+  },
+  {
+    "url": "https://v0.dev/t/VOHH4Epfs3F",
+    "label": "Template for prompt: a dashboard for my analytics saas product",
+    "dateAdded": "2024-01-20T19:55:02.999Z"
+  },
+  {
+    "url": "https://v0.dev/t/cC1o3tkoUQ8",
+    "label": "Template for prompt: a notification bell in a nav bar that when clicked has a drop down showing a list of notifications",
+    "dateAdded": "2024-01-20T19:55:02.999Z"
+  },
+  {
+    "url": "https://v0.dev/t/0EoWVFpsEfs",
+    "label": "Template for prompt: create div with image and text in bottom. blur it with gradient in the bottom to make text more clear",
+    "dateAdded": "2024-01-20T19:55:02.999Z"
+  },
+  {
+    "url": "https://v0.dev/t/q0n9a8p11DN",
+    "label": "Template for prompt: search posts",
+    "dateAdded": "2024-01-20T19:55:02.999Z"
+  },
+  {
+    "url": "https://v0.dev/t/dH9raBZ1l0L",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T19:55:03.000Z"
+  },
+  {
+    "url": "https://v0.dev/t/JX9IgBMECph",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T19:55:03.000Z"
+  },
+  {
+    "url": "https://v0.dev/t/oCC7sA0xe4d",
+    "label": "Template for prompt: I'm making a library homepage, so please make a detailed page about the book that appears when you click on the book. Please include the ISBN, book name, author, call number, genre, publication date, and loan status.",
+    "dateAdded": "2024-01-20T19:55:03.000Z"
+  },
+  {
+    "url": "https://v0.dev/t/dMdDlFcIS8k",
+    "label": "Template for prompt: landing page for generative collection of nfts",
+    "dateAdded": "2024-01-20T19:55:03.000Z"
+  },
+  {
+    "url": "https://v0.dev/t/BjTbjwHDn1I",
+    "label": "Template for prompt: search function for users",
+    "dateAdded": "2024-01-20T19:55:03.000Z"
+  },
+  {
+    "url": "https://v0.dev/t/cPVnCndRZ3u",
+    "label": "Template for prompt: landing page nft project",
+    "dateAdded": "2024-01-20T19:55:03.001Z"
+  },
+  {
+    "url": "https://v0.dev/t/xNzhoXaJVI0",
+    "label": "Template for prompt: A page to describe a Spotify statistical study and to promote people to participate in it",
+    "dateAdded": "2024-01-20T19:55:03.001Z"
+  },
+  {
+    "url": "https://v0.dev/t/8BaaqYTTjOJ",
+    "label": "Template for prompt: A page to describe and promote a Spotify statistical study ",
+    "dateAdded": "2024-01-20T19:55:03.001Z"
+  },
+  {
+    "url": "https://v0.dev/t/CQvKm40BMkN",
+    "label": "Template for prompt: transcribe the screen image I have given you with react typescript and give me the codes.",
+    "dateAdded": "2024-01-20T19:55:03.001Z"
+  },
+  {
+    "url": "https://v0.dev/t/OPGfXZW48XM",
+    "label": "Template for prompt: A list of scraping results. Each results shows the website name, website url, latest comment date, website authority score, a mention if the website is a wordpress website or not, and a button/icon to visit, a button/icon to save to a list",
+    "dateAdded": "2024-01-20T19:55:03.002Z"
   }
 ]
