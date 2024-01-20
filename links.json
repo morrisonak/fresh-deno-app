@@ -2778,5 +2778,130 @@
     "url": "https://v0.dev/t/ldnLYVeWEYz",
     "label": "Template for prompt: pagina de perrfil de usuario que solo muestre email, username, id, etc solo informacion basica de uan cuenta ",
     "dateAdded": "2024-01-20T17:55:03.370Z"
+  },
+  {
+    "url": "https://v0.dev/t/grQzGDJuKxo",
+    "label": "Template for prompt: A table showing member information where the rows are name, firstname, id, image, roles",
+    "dateAdded": "2024-01-20T18:00:03.458Z"
+  },
+  {
+    "url": "https://v0.dev/t/ywA4Vgta6V1",
+    "label": "Template for prompt: date picker",
+    "dateAdded": "2024-01-20T18:00:03.459Z"
+  },
+  {
+    "url": "https://v0.dev/t/wpSUoWx5VIx",
+    "label": "Template for prompt: call to action area to put between paragraph",
+    "dateAdded": "2024-01-20T18:00:03.459Z"
+  },
+  {
+    "url": "https://v0.dev/t/pXHdVicHh2L",
+    "label": "Template for prompt: Create s single code challenge page. for the header we will display title of the quiz. on the right side there will be a timer. Below that we will show total no of questions and the question number we are on. below that we will display the question and code editor",
+    "dateAdded": "2024-01-20T18:00:03.459Z"
+  },
+  {
+    "url": "https://v0.dev/t/9Eho9tp1OMX",
+    "label": "Template for prompt: generate the page",
+    "dateAdded": "2024-01-20T18:00:03.459Z"
+  },
+  {
+    "url": "https://v0.dev/t/XzATksFZRQ0",
+    "label": "Template for prompt: پنل کاربری",
+    "dateAdded": "2024-01-20T18:00:03.459Z"
+  },
+  {
+    "url": "https://v0.dev/t/1dyUOApUTlU",
+    "label": "Template for prompt: button dropdown for show 4 payment button for angular",
+    "dateAdded": "2024-01-20T18:00:03.459Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qa3n84Bjvbb",
+    "label": "Template for prompt: Create me a nice and clean animated popup with 3 buttons to select a game mode in fivem!",
+    "dateAdded": "2024-01-20T18:00:03.459Z"
+  },
+  {
+    "url": "https://v0.dev/t/pCvbvSDrYz7",
+    "label": "Template for prompt: Create a glass effect navbar with HTML and CSS. Ensure the navbar has a transparent, frosted glass background with smooth transitions.",
+    "dateAdded": "2024-01-20T18:00:03.459Z"
+  },
+  {
+    "url": "https://v0.dev/t/wxKtbbg6dsS",
+    "label": "Template for prompt: A page broken up into 2 horizontal sections. The first section takes up 1/3 of the screen a the second takes up 2/3 of the screen. The first section is a list with 4 items. It will collapse into a button and be visiable on click when the screen gets small. The second section just has the sentence \"Hello\" in it",
+    "dateAdded": "2024-01-20T18:00:03.460Z"
+  },
+  {
+    "url": "https://v0.dev/t/broMUDYf0cr",
+    "label": "Template for prompt: I need an mobile ui for selecting a step to multi part form.",
+    "dateAdded": "2024-01-20T18:00:03.460Z"
+  },
+  {
+    "url": "https://v0.dev/t/Agvq5Uw8IO9",
+    "label": "Template for prompt: Landing page for a ecommerce category with title, description, filters, product cards ",
+    "dateAdded": "2024-01-20T18:00:03.460Z"
+  },
+  {
+    "url": "https://v0.dev/t/lIoQA7ADUBB",
+    "label": "Template for prompt: create a contact page with header bg opacity image",
+    "dateAdded": "2024-01-20T18:00:03.460Z"
+  },
+  {
+    "url": "https://v0.dev/t/xZ5YWbByqvo",
+    "label": "Template for prompt: Use tailwind",
+    "dateAdded": "2024-01-20T18:00:03.460Z"
+  },
+  {
+    "url": "https://v0.dev/t/SHEGNSzQYUu",
+    "label": "Template for prompt: button dropdown for show 4 payment button ",
+    "dateAdded": "2024-01-20T18:00:03.460Z"
+  },
+  {
+    "url": "https://v0.dev/t/rmmzAEr9IhF",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-20T18:00:03.460Z"
+  },
+  {
+    "url": "https://v0.dev/t/MTYlfaKAuQL",
+    "label": "Template for prompt: Create an svg map with d3 js that is centered",
+    "dateAdded": "2024-01-20T18:00:03.461Z"
+  },
+  {
+    "url": "https://v0.dev/t/5RLpHUvELgh",
+    "label": "Template for prompt: a landing page where I explain why customers should choose our service",
+    "dateAdded": "2024-01-20T18:00:03.461Z"
+  },
+  {
+    "url": "https://v0.dev/t/TK1RHrSGvfr",
+    "label": "Template for prompt: make a about page for a recruitment website, with interview process and testimonial section ",
+    "dateAdded": "2024-01-20T18:00:03.461Z"
+  },
+  {
+    "url": "https://v0.dev/t/K27VKQORXkX",
+    "label": "Template for prompt: create a car renting website. With map and list view next to it. User can setup date and times and will get results and prices",
+    "dateAdded": "2024-01-20T18:00:03.461Z"
+  },
+  {
+    "url": "https://v0.dev/t/jnicq44Tcoi",
+    "label": "Template for prompt: create a payment success component. with a button to navigate to home . another button to go to history",
+    "dateAdded": "2024-01-20T18:00:03.461Z"
+  },
+  {
+    "url": "https://v0.dev/t/xZqP6guf2gB",
+    "label": "Template for prompt: One page webapp. Header up top with color, and centered text: 'CrimeScape MTL'. Below header a horizontal selection between 2 options: 'View Past Data' and 'Forecast'. Below that 3 elements side by side. First, a 'type' dropdown selector. Second: a start date and end date selection. Third, a time of day dropdown selector. Then a map below all that. Then to the right of the map: a section with insights written at the top",
+    "dateAdded": "2024-01-20T18:00:03.461Z"
+  },
+  {
+    "url": "https://v0.dev/t/VXMpOW5Escv",
+    "label": "Template for prompt: Design a visually appealing and informative AI-generated service provider detail page for a home services professional named Raman. Include sections for About Me, Portfolio, Reviews, Pricing, and Location/Service Areas. Focus on a clean and user-friendly layout.",
+    "dateAdded": "2024-01-20T18:00:03.461Z"
+  },
+  {
+    "url": "https://v0.dev/t/MZOmbMpm5dy",
+    "label": "Template for prompt: dashboard design for blog posts",
+    "dateAdded": "2024-01-20T18:00:03.461Z"
+  },
+  {
+    "url": "https://v0.dev/t/jF2a77xAMDG",
+    "label": "Template for prompt: 创建一个任务面板，可以通过让用户在wallet后的一个输入框输入字符串向http://1.1.1.1/d/a 发起get请求,携带query参数，参数名为wallet_address,参数值为用户输入的字符串，等待返回值，正常运行返回结构体一般为{\n    \"code\": 0,\n    \"data\": {\n        \"funding_address\": \"bc1pq47druxg3a50h6m40zxusa3cggl8gsc5zldscszsv8fjekfmq8cs2a8d74\"\n    }\n}，如果不是正常返回的话将结果直接显示到页面上，并且要求用户重试。,再创建一个窗口允许用户修改json（{\n    \"wallet_address\": \"4\",\n    \"receive_address\": \"1\",\n    \"deposit_tx_id\": \"2\",\n    \"amount\": 10,\n    \"satsbyte\": 45,\n    \"ticker\": \"sophon\"\n}）同时将上一个接口的入参wallet_address的值填入json，点击开始按钮之后向http://1.1.1.1/d/c发起post请求，携带参数json作为body，并将结果返回到页面上。再创建一个输入框（标题为price),用户需要提供三个参数amount,satsbyte,ticker,并且校验amount为正整数，satsbyte为正整数,ticker为字符串,点击确定后向http://1.1.1.1/d/b发起get请求,携带query参数,参数名为amount，satsbyte，ticker，参数值为用户填入的值，获取返回值直接显示在页面上。上面所有的接口都需要携带header(x-api-key),对应的value在页面上提供一个窗口进行填写。所有接口的1.1.1.1也有专门的窗口进行填写。",
+    "dateAdded": "2024-01-20T18:00:03.461Z"
   }
 ]
