@@ -10658,5 +10658,135 @@
     "url": "https://v0.dev/t/MynUg6uncmR",
     "label": "Template for prompt: create wireframes for self checkout ",
     "dateAdded": "2024-01-20T23:20:03.373Z"
+  },
+  {
+    "url": "https://v0.dev/t/deJ20r3kzfa",
+    "label": "Template for prompt: build me that section ",
+    "dateAdded": "2024-01-20T23:25:02.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/LrdDFuuxeT9",
+    "label": "Template for prompt: wygeneruj siatkę boxów, container width 1440px, każdy element 25% szerokosci, w srodku ikona od devicons, tytuł boldem, opis 25 znaków lorem, poniżej licznik lekcji, stwórz 12 takich boxów",
+    "dateAdded": "2024-01-20T23:25:02.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/fZvylRuP4DU",
+    "label": "Template for prompt: create orders information page. \n\nWhere there is a each table for each order the table should contain ordered products the products should have title, price, quantity, color, size, and view product link.\n\nthen on top of each table should be a div for date or order, order number, total amount and a buttton to view order information  ",
+    "dateAdded": "2024-01-20T23:25:02.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/8UJq5SrqNIV",
+    "label": "Template for prompt: A calendar resume dashboard",
+    "dateAdded": "2024-01-20T23:25:02.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/UwjnBtsNMYG",
+    "label": "Template for prompt: Create a search results page that returns results for two types of objects (\"performers\" and \"scenes\") and lets you swap between each",
+    "dateAdded": "2024-01-20T23:25:02.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/KjxvQmhdPtb",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T23:25:02.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/aJ8yMxt1leN",
+    "label": "Template for prompt: a swipe button for confirmation send money",
+    "dateAdded": "2024-01-20T23:25:02.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/Iyzpw1OmYxd",
+    "label": "Template for prompt: A login screen with email and password, and the chance to register if you don't have an account",
+    "dateAdded": "2024-01-20T23:25:02.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/c0jUlpAsqzg",
+    "label": "Template for prompt: I need a home page for my company to post job openings. this is the fornt page",
+    "dateAdded": "2024-01-20T23:25:02.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/lFNQasaBSdx",
+    "label": "Template for prompt: make a select a user registration page",
+    "dateAdded": "2024-01-20T23:25:02.587Z"
+  },
+  {
+    "url": "https://v0.dev/t/EfIIfodher5",
+    "label": "Template for prompt: image carousel with navigation",
+    "dateAdded": "2024-01-20T23:25:02.587Z"
+  },
+  {
+    "url": "https://v0.dev/t/8OR3V47unXC",
+    "label": "Template for prompt: I need a home page for my companies jobs it should have. a hero section, an about, benefits, a palce to check out our atcual website and a place to apply and contact us. build so that it is modern",
+    "dateAdded": "2024-01-20T23:25:02.587Z"
+  },
+  {
+    "url": "https://v0.dev/t/VyWV3leakJz",
+    "label": "Template for prompt: A detailed music app UI with various features",
+    "dateAdded": "2024-01-20T23:25:02.587Z"
+  },
+  {
+    "url": "https://v0.dev/t/fJ6t85Z9Z8T",
+    "label": "Template for prompt: login page",
+    "dateAdded": "2024-01-20T23:25:02.587Z"
+  },
+  {
+    "url": "https://v0.dev/t/ElMyOLxxq1f",
+    "label": "Template for prompt: Two big buttons cetered. One has as title \"Informática Empresarial\", the other \"Dirección de empresas\", this is a two column component, with flex or not flex. ",
+    "dateAdded": "2024-01-20T23:25:02.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/nk8hbRLiQlo",
+    "label": "Template for prompt: using tailwindcss",
+    "dateAdded": "2024-01-20T23:25:02.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/011LpGyjkiL",
+    "label": "Template for prompt: login screen",
+    "dateAdded": "2024-01-20T23:25:02.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/SxvJE2KnLmE",
+    "label": "Template for prompt: a faq section",
+    "dateAdded": "2024-01-20T23:25:02.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/brxHGQFDBEW",
+    "label": "Template for prompt: A global error page",
+    "dateAdded": "2024-01-20T23:25:02.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/0NEBgSNMpC2",
+    "label": "Template for prompt: create a self checkout screens for grocery store purchase. separate adding items to shopping cart and payment.",
+    "dateAdded": "2024-01-20T23:25:02.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/EMv709OAZ9X",
+    "label": "Template for prompt: Give me a data table with payment information that has pagination, search and filtering",
+    "dateAdded": "2024-01-20T23:25:02.589Z"
+  },
+  {
+    "url": "https://v0.dev/t/0lZtAFHsCwn",
+    "label": "Template for prompt: A store to display products for business without e-commerce",
+    "dateAdded": "2024-01-20T23:25:02.589Z"
+  },
+  {
+    "url": "https://v0.dev/t/zGRK16iJZoW",
+    "label": "Template for prompt: navbar component ",
+    "dateAdded": "2024-01-20T23:25:02.589Z"
+  },
+  {
+    "url": "https://v0.dev/t/uLKH4gpLipp",
+    "label": "Template for prompt: create a self checkout screens. separate adding items to shopping cart and payment",
+    "dateAdded": "2024-01-20T23:25:02.589Z"
+  },
+  {
+    "url": "https://v0.dev/t/ULv90JeWS9y",
+    "label": "Template for prompt: image carousel for portfolio website. I want the carousel to replace the images on the side",
+    "dateAdded": "2024-01-20T23:25:02.590Z"
+  },
+  {
+    "url": "https://v0.dev/t/7doNb7Fh5R3",
+    "label": "Template for prompt: create a list of users ",
+    "dateAdded": "2024-01-20T23:25:02.590Z"
   }
 ]
