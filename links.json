@@ -5668,5 +5668,135 @@
     "url": "https://v0.dev/t/MF4eTTThVt6",
     "label": "Template for prompt: generative pfp nft collection landing page",
     "dateAdded": "2024-01-20T20:05:03.159Z"
+  },
+  {
+    "url": "https://v0.dev/t/bqIl36eDPX4",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T20:10:03.252Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zok4VLTvzN9",
+    "label": "Template for prompt: Real-time chat application",
+    "dateAdded": "2024-01-20T20:10:03.253Z"
+  },
+  {
+    "url": "https://v0.dev/t/bxnmu0b7j8A",
+    "label": "Template for prompt: create a profession fotter for a portfolio",
+    "dateAdded": "2024-01-20T20:10:03.253Z"
+  },
+  {
+    "url": "https://v0.dev/t/bmHb9gslBmv",
+    "label": "Template for prompt: dashboard template with side menu on the left side. there must be user avatar in the top right corner. there must be a workspace switch in the top left corner.",
+    "dateAdded": "2024-01-20T20:10:03.253Z"
+  },
+  {
+    "url": "https://v0.dev/t/GuIHU95CqHR",
+    "label": "Template for prompt: a link bookmark the image at the right side fills the parent height but its height is no bigger than the texts height",
+    "dateAdded": "2024-01-20T20:10:03.253Z"
+  },
+  {
+    "url": "https://v0.dev/t/yTYjpXfMU5N",
+    "label": "Template for prompt: cms editor page there should be a sidebar with buttons in a grid for text, shape, image, stickers and a blank space on the right to drag those items into the canvas",
+    "dateAdded": "2024-01-20T20:10:03.253Z"
+  },
+  {
+    "url": "https://v0.dev/t/DdFkQZA1nre",
+    "label": "Template for prompt: Create a skeleton for the card below\n",
+    "dateAdded": "2024-01-20T20:10:03.253Z"
+  },
+  {
+    "url": "https://v0.dev/t/o76gePTrtF6",
+    "label": "Template for prompt: Create a skeleton for the card below\n",
+    "dateAdded": "2024-01-20T20:10:03.254Z"
+  },
+  {
+    "url": "https://v0.dev/t/q8OpkUVMRa6",
+    "label": "Template for prompt: Todo site, with a list of todos (including optional do date), a form that creates todos with the input field's description and deadline (optional)",
+    "dateAdded": "2024-01-20T20:10:03.254Z"
+  },
+  {
+    "url": "https://v0.dev/t/7CcK9GUF6hx",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T20:10:03.254Z"
+  },
+  {
+    "url": "https://v0.dev/t/a1sH1vvrVxM",
+    "label": "Template for prompt: I need a expends dashboard where you view your accounts totals, crypto totals, subscription list and status",
+    "dateAdded": "2024-01-20T20:10:03.254Z"
+  },
+  {
+    "url": "https://v0.dev/t/q7fEjmV7T2y",
+    "label": "Template for prompt: Mountain",
+    "dateAdded": "2024-01-20T20:10:03.254Z"
+  },
+  {
+    "url": "https://v0.dev/t/2hd19AIi5E5",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T20:10:03.254Z"
+  },
+  {
+    "url": "https://v0.dev/t/1jIzDEtfP0b",
+    "label": "Template for prompt: A list of scraping results. Each results shows the website name, website url and a list of characteristics of the website : latest comment date, website authority score, a mention if the website is a wordpress website or not",
+    "dateAdded": "2024-01-20T20:10:03.254Z"
+  },
+  {
+    "url": "https://v0.dev/t/OjtK4jWBXyP",
+    "label": "Template for prompt: A list of scraping results. Each results shows the website name, website url and a list of characteristics of the website : latest comment date, website authority score, a mention if the website is a wordpress website or not",
+    "dateAdded": "2024-01-20T20:10:03.254Z"
+  },
+  {
+    "url": "https://v0.dev/t/o8GaCXMVd1s",
+    "label": "Template for prompt: A loading spinner",
+    "dateAdded": "2024-01-20T20:10:03.255Z"
+  },
+  {
+    "url": "https://v0.dev/t/l0uThp79qui",
+    "label": "Template for prompt: A minimal black and white theme for listing short stories",
+    "dateAdded": "2024-01-20T20:10:03.255Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZLUkUyPkuel",
+    "label": "Template for prompt: diary input page with also buttons where you can select your mood and at the bottom there is an \"analyze\" button. in the top right corner I want a Iittle caldenar ",
+    "dateAdded": "2024-01-20T20:10:03.255Z"
+  },
+  {
+    "url": "https://v0.dev/t/mJzIYwEHYtv",
+    "label": "Template for prompt: Generate me a html of same tables and selector,in first it must be images",
+    "dateAdded": "2024-01-20T20:10:03.255Z"
+  },
+  {
+    "url": "https://v0.dev/t/DvWKcH9LRDu",
+    "label": "Template for prompt: A loading spinner that has a few variants",
+    "dateAdded": "2024-01-20T20:10:03.255Z"
+  },
+  {
+    "url": "https://v0.dev/t/F9uQ7eVrXm3",
+    "label": "Template for prompt: در کد زیر زیبا سازی سایت را انجام بده\n<!DOCTYPE html>\n<html lang=\"fa\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>فروشگاه پرینتر سه بعدی</title>\n    <style>\n        body {\n            font-family: 'Tahoma', sans-serif;\n            margin: 0;\n            padding: 0;\n            background-color: #f4f4f4;\n        }\n\n        header {\n            background-color: #333;\n            color: #fff;\n            text-align: center;\n            padding: 20px;\n        }\n\n        nav {\n            background-color: #666;\n            color: #fff;\n            text-align: center;\n            padding: 10px;\n        }\n\n        section {\n            display: flex;\n            justify-content: space-around;\n            flex-wrap: wrap;\n            padding: 20px;\n        }\n\n        section div {\n            background-color: #fff;\n            border: 1px solid #ddd;\n            padding: 15px;\n            margin: 15px;\n            ",
+    "dateAdded": "2024-01-20T20:10:03.255Z"
+  },
+  {
+    "url": "https://v0.dev/t/baQOhXCC0DB",
+    "label": "Template for prompt: در کد زیر زیبا سازی سایت را انجام بده\n<!DOCTYPE html>\n<html lang=\"fa\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>فروشگاه پرینتر سه بعدی</title>\n    <style>\n        body {\n            font-family: 'Tahoma', sans-serif;\n            margin: 0;\n            padding: 0;\n            background-color: #f4f4f4;\n        }\n\n        header {\n            background-color: #333;\n            color: #fff;\n            text-align: center;\n            padding: 20px;\n        }\n\n        nav {\n            background-color: #666;\n            color: #fff;\n            text-align: center;\n            padding: 10px;\n        }\n\n        section {\n            display: flex;\n            justify-content: space-around;\n            flex-wrap: wrap;\n            padding: 20px;\n        }\n\n        section div {\n            background-color: #fff;\n            border: 1px solid #ddd;\n            padding: 15px;\n            margin: 15px;\n            ",
+    "dateAdded": "2024-01-20T20:10:03.255Z"
+  },
+  {
+    "url": "https://v0.dev/t/77rdOUh4VkQ",
+    "label": "Template for prompt: Create a dashboard layout with shadcn components it should show the total number of orders and show the orders per city and what percentage that city represents in terms of orders.",
+    "dateAdded": "2024-01-20T20:10:03.255Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZHzDtcfgHSe",
+    "label": "Template for prompt: modern and sleek clothing and fashion store",
+    "dateAdded": "2024-01-20T20:10:03.255Z"
+  },
+  {
+    "url": "https://v0.dev/t/A6UdExMPnN0",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-20T20:10:03.256Z"
+  },
+  {
+    "url": "https://v0.dev/t/DiGmrMdoE1q",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T20:10:03.256Z"
   }
 ]
