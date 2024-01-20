@@ -9663,5 +9663,125 @@
     "url": "https://v0.dev/t/99LZexsxzQL",
     "label": "Template for prompt: post page",
     "dateAdded": "2024-01-20T22:40:02.838Z"
+  },
+  {
+    "url": "https://v0.dev/t/qarcritjOFw",
+    "label": "Template for prompt: An automotive vehicle card summary with vehicle specs",
+    "dateAdded": "2024-01-20T22:45:03.804Z"
+  },
+  {
+    "url": "https://v0.dev/t/xDcsAEYTRcD",
+    "label": "Template for prompt: 3d viewport with timeline editor",
+    "dateAdded": "2024-01-20T22:45:03.804Z"
+  },
+  {
+    "url": "https://v0.dev/t/f9pWYN1SKN1",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T22:45:03.804Z"
+  },
+  {
+    "url": "https://v0.dev/t/hUg597VLMmI",
+    "label": "Template for prompt: The screen to show a user when they go to their dashboard for their pets but there are no pets to display",
+    "dateAdded": "2024-01-20T22:45:03.804Z"
+  },
+  {
+    "url": "https://v0.dev/t/UtWGNYgwOyr",
+    "label": "Template for prompt: handle touches in react <video>",
+    "dateAdded": "2024-01-20T22:45:03.804Z"
+  },
+  {
+    "url": "https://v0.dev/t/0T9sQR1OKCF",
+    "label": "Template for prompt: Create this same design",
+    "dateAdded": "2024-01-20T22:45:03.804Z"
+  },
+  {
+    "url": "https://v0.dev/t/zBqAnZpnsa4",
+    "label": "Template for prompt: Create this same design",
+    "dateAdded": "2024-01-20T22:45:03.804Z"
+  },
+  {
+    "url": "https://v0.dev/t/Aom9lOXNVeE",
+    "label": "Template for prompt: Create this same design",
+    "dateAdded": "2024-01-20T22:45:03.805Z"
+  },
+  {
+    "url": "https://v0.dev/t/h5GLoqYOqcK",
+    "label": "Template for prompt: a saas admin dashboard",
+    "dateAdded": "2024-01-20T22:45:03.805Z"
+  },
+  {
+    "url": "https://v0.dev/t/hspzOZ4WZmF",
+    "label": "Template for prompt: Generate a responsive card item which shows a small profile picture and some description \nand a grid of small information like, weight, product category, price and date deadline",
+    "dateAdded": "2024-01-20T22:45:03.805Z"
+  },
+  {
+    "url": "https://v0.dev/t/BJCp3qZwqBF",
+    "label": "Template for prompt: A page displaying a list of blockchains, with their name, current height, number of validators and TVL",
+    "dateAdded": "2024-01-20T22:45:03.805Z"
+  },
+  {
+    "url": "https://v0.dev/t/p1tOdQbYpsV",
+    "label": "Template for prompt: A saas admin dashboard",
+    "dateAdded": "2024-01-20T22:45:03.805Z"
+  },
+  {
+    "url": "https://v0.dev/t/RJb3W1oBaek",
+    "label": "Template for prompt: Give me a form to create a patient ",
+    "dateAdded": "2024-01-20T22:45:03.805Z"
+  },
+  {
+    "url": "https://v0.dev/t/jtJiJZzdWBN",
+    "label": "Template for prompt: a pricing section",
+    "dateAdded": "2024-01-20T22:45:03.805Z"
+  },
+  {
+    "url": "https://v0.dev/t/t3Eo7r2jfVG",
+    "label": "Template for prompt: Create a feed like page that's renders a huge list of hockey game events ",
+    "dateAdded": "2024-01-20T22:45:03.805Z"
+  },
+  {
+    "url": "https://v0.dev/t/fYjFYwah9mQ",
+    "label": "Template for prompt: landing page for a climbing course booking platform",
+    "dateAdded": "2024-01-20T22:45:03.806Z"
+  },
+  {
+    "url": "https://v0.dev/t/UeDXdvYhEGi",
+    "label": "Template for prompt: landing page for a climbing course booking platform",
+    "dateAdded": "2024-01-20T22:45:03.806Z"
+  },
+  {
+    "url": "https://v0.dev/t/wqDWMekOx3m",
+    "label": "Template for prompt: calendar page with infinite scroll",
+    "dateAdded": "2024-01-20T22:45:03.806Z"
+  },
+  {
+    "url": "https://v0.dev/t/oMiWi2ERUuz",
+    "label": "Template for prompt: please, create for me breadcrumbs component",
+    "dateAdded": "2024-01-20T22:45:03.806Z"
+  },
+  {
+    "url": "https://v0.dev/t/V3YlP9D8uCa",
+    "label": "Template for prompt: a lobby, where the user can add words by typing or click the generate random button, the amount of words is variable, more words can be added / deleted, on the right the user can edit settings.",
+    "dateAdded": "2024-01-20T22:45:03.806Z"
+  },
+  {
+    "url": "https://v0.dev/t/KlXyA9MKnak",
+    "label": "Template for prompt: full screen calendar",
+    "dateAdded": "2024-01-20T22:45:03.806Z"
+  },
+  {
+    "url": "https://v0.dev/t/1RVrJaLB6OT",
+    "label": "Template for prompt: screen to send money to a friend (has their name, my name)",
+    "dateAdded": "2024-01-20T22:45:03.806Z"
+  },
+  {
+    "url": "https://v0.dev/t/mgeNg1cg29t",
+    "label": "Template for prompt: rental space search form",
+    "dateAdded": "2024-01-20T22:45:03.807Z"
+  },
+  {
+    "url": "https://v0.dev/t/8VpO8AERPLN",
+    "label": "Template for prompt: Create a nav bar with a hero for minecraft server (with copy ip play.conodia.fr)",
+    "dateAdded": "2024-01-20T22:45:03.807Z"
   }
 ]
