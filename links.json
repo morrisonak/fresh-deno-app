@@ -11178,5 +11178,135 @@
     "url": "https://v0.dev/t/MfmY6AKUVbe",
     "label": "Template for prompt: I want to build a landing page for a travel agenc",
     "dateAdded": "2024-01-20T23:40:03.605Z"
+  },
+  {
+    "url": "https://v0.dev/t/k9XjkFN3aRs",
+    "label": "Template for prompt: Le site est une plateforme interactive où les utilisateurs peuvent comparer et sélectionner leurs images préférées générées par différents modèles d'intelligence artificielle à partir de prompts textuels spécifiques.\n\n\n\n\n\n",
+    "dateAdded": "2024-01-20T23:45:03.140Z"
+  },
+  {
+    "url": "https://v0.dev/t/DMd5ug8TO4d",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T23:45:03.140Z"
+  },
+  {
+    "url": "https://v0.dev/t/7CF7Pv6fXyd",
+    "label": "Template for prompt: design a similar component to turbo.build which switches site from turborepo to turbopack",
+    "dateAdded": "2024-01-20T23:45:03.140Z"
+  },
+  {
+    "url": "https://v0.dev/t/vQDZ1tgK4RH",
+    "label": "Template for prompt: company profile page (name, website, market cap, employees, description, news section)",
+    "dateAdded": "2024-01-20T23:45:03.140Z"
+  },
+  {
+    "url": "https://v0.dev/t/DCX89R7MaD0",
+    "label": "Template for prompt: create a simple landing page for a url shortener ",
+    "dateAdded": "2024-01-20T23:45:03.141Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZSuigpMlpcS",
+    "label": "Template for prompt: A user interface for a text to speech application",
+    "dateAdded": "2024-01-20T23:45:03.141Z"
+  },
+  {
+    "url": "https://v0.dev/t/FfPn1ezxoCp",
+    "label": "Template for prompt: grid for ecommerce",
+    "dateAdded": "2024-01-20T23:45:03.141Z"
+  },
+  {
+    "url": "https://v0.dev/t/E6YUcDcWfk7",
+    "label": "Template for prompt: register page for Airport Parking",
+    "dateAdded": "2024-01-20T23:45:03.141Z"
+  },
+  {
+    "url": "https://v0.dev/t/BXmcU0t6Cnl",
+    "label": "Template for prompt: create a dashboard page for my desktop app. in the top left corner, have a square placeholder for the logo and the word PackTrack. on the top right, have a settings cog.\n\nbelow that, a table where the top left of the heading says \"X packs opened\" and the right side has a button that says \"Create Entry\". add one entry to the table. the one entry, on the far left, should have a square icon placeholder, some text saying \"X Apex Packs\" and on the right side, the date saying \"5 minutes ago\" and beneath that, \"1/20/2024 4:00PM\"",
+    "dateAdded": "2024-01-20T23:45:03.141Z"
+  },
+  {
+    "url": "https://v0.dev/t/wixPEwpZFRt",
+    "label": "Template for prompt: a tokenized search and filtering input with advanced options in a super menu",
+    "dateAdded": "2024-01-20T23:45:03.141Z"
+  },
+  {
+    "url": "https://v0.dev/t/4c3fgysnLCI",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T23:45:03.141Z"
+  },
+  {
+    "url": "https://v0.dev/t/PLQ57TAx2Pv",
+    "label": "Template for prompt: Make me a table component that has 5 categories, one of which is a \"status\" which is a colored pill. It should only have an outer border and the colors should alternate between rows.",
+    "dateAdded": "2024-01-20T23:45:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/8DDzwDrWbKC",
+    "label": "Template for prompt: source a listing is facebook",
+    "dateAdded": "2024-01-20T23:45:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/GC0QlJGFs5j",
+    "label": "Template for prompt: Recreate this website",
+    "dateAdded": "2024-01-20T23:45:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/XGvJtJEeoHe",
+    "label": "Template for prompt: Image battle for evaluation",
+    "dateAdded": "2024-01-20T23:45:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/XCPt8gQ33u9",
+    "label": "Template for prompt: An ecommerce store",
+    "dateAdded": "2024-01-20T23:45:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/JSXBj4vVX1R",
+    "label": "Template for prompt: a table list of users with the select input named status",
+    "dateAdded": "2024-01-20T23:45:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/JLW1dHfwkTl",
+    "label": "Template for prompt: a card that you can press to start something",
+    "dateAdded": "2024-01-20T23:45:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/fPf4wGz3INu",
+    "label": "Template for prompt: create an accordion in react",
+    "dateAdded": "2024-01-20T23:45:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/3yujcG2eH01",
+    "label": "Template for prompt: a dashbord for library app, with books and statuses (free/issued)",
+    "dateAdded": "2024-01-20T23:45:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/SlfjdZ6xqJ0",
+    "label": "Template for prompt: a chat interface like slack",
+    "dateAdded": "2024-01-20T23:45:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/ocpHue5ce7r",
+    "label": "Template for prompt: create a navigation section for a streaming website. It will have a collection of cards, each representing a video. Each hard needs to have a thumbnail, a pill with the status (online or offline) a title, and a description. Make it dark mode using black and white colors",
+    "dateAdded": "2024-01-20T23:45:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/m4tCOHZ8MVk",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-20T23:45:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/A7YCJLMj03l",
+    "label": "Template for prompt: form to input a % from 1 to 100, below that is segmented input with options A, B, C, each has a date input",
+    "dateAdded": "2024-01-20T23:45:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/uzqbiIvRCek",
+    "label": "Template for prompt: a user settings modal",
+    "dateAdded": "2024-01-20T23:45:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/WaOmwVlP7CZ",
+    "label": "Template for prompt: a page similar to robinhood that shows the chart of a stock",
+    "dateAdded": "2024-01-20T23:45:03.143Z"
   }
 ]
