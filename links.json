@@ -3773,5 +3773,135 @@
     "url": "https://v0.dev/t/HmTfC5afSCm",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2024-01-20T18:35:03.417Z"
+  },
+  {
+    "url": "https://v0.dev/t/xzVltj00xqu",
+    "label": "Template for prompt: I want to generate a screen that will be used as a form to insert data for an application , the form should allow insert data about customers , the second form should instead allow to insert data about how much a customer will be able to buy from my company of products , this form should allow to insert a value per country , you should include all EU countries ",
+    "dateAdded": "2024-01-20T18:40:02.521Z"
+  },
+  {
+    "url": "https://v0.dev/t/VvqDExRfLqe",
+    "label": "Template for prompt: A chrome extension with a title, a small description, an input where I can place multiple links and two buttons",
+    "dateAdded": "2024-01-20T18:40:02.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/ip5OFFiEDfu",
+    "label": "Template for prompt: A 500x500px canvas image can be carry in freeform",
+    "dateAdded": "2024-01-20T18:40:02.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/kOqOZDdS9BB",
+    "label": "Template for prompt: use input from shadcn",
+    "dateAdded": "2024-01-20T18:40:02.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/07d6NGxOdQn",
+    "label": "Template for prompt: responsive payment system that has referral counts, and add funds btn",
+    "dateAdded": "2024-01-20T18:40:02.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/sU5WmYFC4t6",
+    "label": "Template for prompt: dashboard with nav and side bar menu",
+    "dateAdded": "2024-01-20T18:40:02.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/DyjcafG3qVa",
+    "label": "Template for prompt: login form within a card, input field is e-mail",
+    "dateAdded": "2024-01-20T18:40:02.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/iP6QoY8v9Wy",
+    "label": "Template for prompt: portfolio website to serve as a full-stack software engineer resume, use some skeuomorphism and eye-candy stickers",
+    "dateAdded": "2024-01-20T18:40:02.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/m9VckPHM5KQ",
+    "label": "Template for prompt: sticky header",
+    "dateAdded": "2024-01-20T18:40:02.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/1MwJQxqihiE",
+    "label": "Template for prompt: Make me a homepage that looks like this.",
+    "dateAdded": "2024-01-20T18:40:02.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/G3fCiMJcg4A",
+    "label": "Template for prompt: A point-of-sale application that includes a sidebar featuring various icons. In the central area, product cards with corresponding images will be displayed. Each product card includes buttons for increasing or decreasing the quantity at the bottom. On the left side, a container will contain the list of selected products along with a payment button.",
+    "dateAdded": "2024-01-20T18:40:02.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/c7Z3HcxOlXY",
+    "label": "Template for prompt: Android application, you have a light buble that can change color depending on 3 slider on the bottom, one for the hue, one for the saturatio and one for the lgihtness ",
+    "dateAdded": "2024-01-20T18:40:02.524Z"
+  },
+  {
+    "url": "https://v0.dev/t/khriaJLJRjb",
+    "label": "Template for prompt: LOGIN SCREEN WITH OTP",
+    "dateAdded": "2024-01-20T18:40:02.524Z"
+  },
+  {
+    "url": "https://v0.dev/t/44kd7YJZE4X",
+    "label": "Template for prompt: make a 130px width by 200px height movie card that has the movie poster, movie title, a rating, and three buttons",
+    "dateAdded": "2024-01-20T18:40:02.524Z"
+  },
+  {
+    "url": "https://v0.dev/t/jgtP0Iskpt4",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-20T18:40:02.524Z"
+  },
+  {
+    "url": "https://v0.dev/t/nlFu2rb0Kx2",
+    "label": "Template for prompt: A portfolio website which displays the photographs of a makeup artist",
+    "dateAdded": "2024-01-20T18:40:02.524Z"
+  },
+  {
+    "url": "https://v0.dev/t/U7GYPYmBKMQ",
+    "label": "Template for prompt: A SaaS platform with a timeline of actions in a transfer process where different stakeholders need to perform some of the actions were the other stakeholders can see the progress of the overall status.",
+    "dateAdded": "2024-01-20T18:40:02.524Z"
+  },
+  {
+    "url": "https://v0.dev/t/cgpVfdbj3O6",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T18:40:02.525Z"
+  },
+  {
+    "url": "https://v0.dev/t/dMH83mv1eaH",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T18:40:02.525Z"
+  },
+  {
+    "url": "https://v0.dev/t/4ypxP96uMvX",
+    "label": "Template for prompt: use accordation from shadcn and make images a carousel",
+    "dateAdded": "2024-01-20T18:40:02.525Z"
+  },
+  {
+    "url": "https://v0.dev/t/TgByEESMQ1h",
+    "label": "Template for prompt: Create a mobile design similar to this but better",
+    "dateAdded": "2024-01-20T18:40:02.525Z"
+  },
+  {
+    "url": "https://v0.dev/t/spmF31oLrJ2",
+    "label": "Template for prompt: You are an AI agent trained to transform a ChatGPT conversation into a phone screen illustration in next.js, usully this is used as a notification from an AI agent to ask permission to the human to proceed with certain task. Please generate the screen of the following conversation:\n\nGPT\nCertainly! I'll compile and present the findings in the \"Results\" section, focusing on the outcomes related to image quality improvements in neonatal brain MRI using Air Recon DL.\n\nResults\nDescriptive Statistics and Baseline Population Data\nPatient Demographics: The study included MRI scans from 60 neonatal patients (30 male, 30 female), with a mean gestational age of 37.5 weeks (range: 26-41 weeks). The primary indications for MRI included assessment of intracranial hemorrhage, evaluation of developmental anomalies, and suspicion of hypoxic-ischemic injury.\nImage Quality Assessment\nOverall Image Quality: Compared to the original MRI scans, Air Recon DL-enhanced images showed a statistically significant",
+    "dateAdded": "2024-01-20T18:40:02.525Z"
+  },
+  {
+    "url": "https://v0.dev/t/yxUZK0rzkKQ",
+    "label": "Template for prompt: Make this look better.",
+    "dateAdded": "2024-01-20T18:40:02.525Z"
+  },
+  {
+    "url": "https://v0.dev/t/oJueuN1kGvG",
+    "label": "Template for prompt: using shadcn make a button that opens a modal that shows current highest bidder and the bidding value as well as the highest bidder and shows an input to place a new bid and buttons to increment and decrement it",
+    "dateAdded": "2024-01-20T18:40:02.526Z"
+  },
+  {
+    "url": "https://v0.dev/t/pX86oQWY5xo",
+    "label": "Template for prompt: A mobile UI screen with option to select location from the select menu and cards of rides and their prices, their luggage and passanger capacity being shown below the select menu.",
+    "dateAdded": "2024-01-20T18:40:02.526Z"
+  },
+  {
+    "url": "https://v0.dev/t/9YcOay1eDQL",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-20T18:40:02.526Z"
   }
 ]
