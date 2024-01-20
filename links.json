@@ -858,5 +858,130 @@
     "url": "https://v0.dev/t/GaqTBnhl7vi",
     "label": "Template for prompt: Headliner compontent in following structure (and styled as in image in RWD):\n- headliner title which contains the title of whole section\n- headliner feature - which gets title and description (for example title1, lorem)",
     "dateAdded": "2024-01-20T16:40:03.323Z"
+  },
+  {
+    "url": "https://v0.dev/t/2PFnmFiv8gm",
+    "label": "Template for prompt: user profile page",
+    "dateAdded": "2024-01-20T16:45:03.647Z"
+  },
+  {
+    "url": "https://v0.dev/t/I1bDCWbxYoX",
+    "label": "Template for prompt: site para compra de comida",
+    "dateAdded": "2024-01-20T16:45:03.647Z"
+  },
+  {
+    "url": "https://v0.dev/t/0XGrv8B7pbV",
+    "label": "Template for prompt: من یک پروژه طراحی سایت html فرانت میخواهم با موضوع فروش قطعات خودرو",
+    "dateAdded": "2024-01-20T16:45:03.648Z"
+  },
+  {
+    "url": "https://v0.dev/t/2jVys6S3i8c",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T16:45:03.648Z"
+  },
+  {
+    "url": "https://v0.dev/t/htawOzQHcEX",
+    "label": "Template for prompt: Duplicte this saas dashboard ",
+    "dateAdded": "2024-01-20T16:45:03.648Z"
+  },
+  {
+    "url": "https://v0.dev/t/UNlgRvuSAlg",
+    "label": "Template for prompt: A login screen for a mobile app that allows sign in through email and password or by scanning a QR code.",
+    "dateAdded": "2024-01-20T16:45:03.648Z"
+  },
+  {
+    "url": "https://v0.dev/t/ghSJWrXGW2m",
+    "label": "Template for prompt: admin profile with personal information edit functionality",
+    "dateAdded": "2024-01-20T16:45:03.648Z"
+  },
+  {
+    "url": "https://v0.dev/t/z3RubzEptD5",
+    "label": "Template for prompt: book reading component with a Header:\nSimple logo (if applicable) aligned to the left.\nUser profile or settings icon on the right.\nNavigation menu with options like \"Chapters,\" \"Search\"\nMain Content Area:\nLarge, centered text with ample white space around it.\nMinimalistic controls for changing chapters and verses.\nSubtle progress tracker at the bottom to indicate reading progress.\nSidebar :\nOptional sidebar for quick access to features like bookmarks, notes, or translations.\nIcons for each feature to maintain a clean and straightforward appearance.\nColor Scheme:\nSoft blues, grays, or greens for a calming effect.\nPlenty of white space to maintain a clean and uncluttered look.",
+    "dateAdded": "2024-01-20T16:45:03.649Z"
+  },
+  {
+    "url": "https://v0.dev/t/wyIclXcm40W",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T16:45:03.649Z"
+  },
+  {
+    "url": "https://v0.dev/t/pxgJYMXNBmr",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T16:45:03.649Z"
+  },
+  {
+    "url": "https://v0.dev/t/U4X7VRlcOs4",
+    "label": "Template for prompt: Services section and it's card",
+    "dateAdded": "2024-01-20T16:45:03.649Z"
+  },
+  {
+    "url": "https://v0.dev/t/bUsUvvKh5ah",
+    "label": "Template for prompt: a landing page for company that organises it events",
+    "dateAdded": "2024-01-20T16:45:03.650Z"
+  },
+  {
+    "url": "https://v0.dev/t/GSb6Vp9U8HX",
+    "label": "Template for prompt: tabs with new york style ",
+    "dateAdded": "2024-01-20T16:45:03.650Z"
+  },
+  {
+    "url": "https://v0.dev/t/IHWlNKtIZ9Z",
+    "label": "Template for prompt: cronjob settings form compact in one line with dropdowns",
+    "dateAdded": "2024-01-20T16:45:03.650Z"
+  },
+  {
+    "url": "https://v0.dev/t/1K94scFy26n",
+    "label": "Template for prompt: Admin panel menu with a button to return to main site",
+    "dateAdded": "2024-01-20T16:45:03.650Z"
+  },
+  {
+    "url": "https://v0.dev/t/P6icZyJAdYP",
+    "label": "Template for prompt: nft market place",
+    "dateAdded": "2024-01-20T16:45:03.650Z"
+  },
+  {
+    "url": "https://v0.dev/t/RSg66RGpvUS",
+    "label": "Template for prompt: login page",
+    "dateAdded": "2024-01-20T16:45:03.651Z"
+  },
+  {
+    "url": "https://v0.dev/t/Lsk9zAJsmzk",
+    "label": "Template for prompt: make a funnel chart with 3 steps",
+    "dateAdded": "2024-01-20T16:45:03.651Z"
+  },
+  {
+    "url": "https://v0.dev/t/cECFFymxj8M",
+    "label": "Template for prompt: an error box with an icon, allow for a message to be used",
+    "dateAdded": "2024-01-20T16:45:03.651Z"
+  },
+  {
+    "url": "https://v0.dev/t/g7tq1J6Kqhw",
+    "label": "Template for prompt: make a scrollable stacked bar chart",
+    "dateAdded": "2024-01-20T16:45:03.651Z"
+  },
+  {
+    "url": "https://v0.dev/t/7QwLmVZySrD",
+    "label": "Template for prompt: a dashboard for veterinary",
+    "dateAdded": "2024-01-20T16:45:03.651Z"
+  },
+  {
+    "url": "https://v0.dev/t/r0H5oYhZTs0",
+    "label": "Template for prompt: various 4products swiper with same data",
+    "dateAdded": "2024-01-20T16:45:03.652Z"
+  },
+  {
+    "url": "https://v0.dev/t/kxnFbatCq8O",
+    "label": "Template for prompt: build this out",
+    "dateAdded": "2024-01-20T16:45:03.652Z"
+  },
+  {
+    "url": "https://v0.dev/t/b2RtWbgXSQO",
+    "label": "Template for prompt: I would like a card with a list of fruit on it. Each fruit should have a small button next to it to remove it from the list. At the bottom should be a select list of fruit with a button that can add a fruit to the list",
+    "dateAdded": "2024-01-20T16:45:03.652Z"
+  },
+  {
+    "url": "https://v0.dev/t/LaxkhZ4xFwS",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-20T16:45:03.653Z"
   }
 ]
