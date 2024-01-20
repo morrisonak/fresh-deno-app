@@ -478,5 +478,130 @@
     "url": "https://v0.dev/t/idQzCsa0zxH",
     "label": "Template for prompt: Define the area you want to cover from the test scenario.\n\nEnsure the test case is easy for testers to understand and execute.\n\nUnderstand and apply relevant test designs.\n\nUse a unique test case ID.\n\nUse the requirements traceability matrix in testing for visibility.\n\nInclude a clear description in each test.\n\nAdd proper preconditions and postconditions.\n\nSpecify the exact expected result. \n\nUtilize suitable testing techniques. \n\nGet your test plan peer-reviewed before moving forward.\n\n",
     "dateAdded": "2024-01-20T16:25:37.702Z"
+  },
+  {
+    "url": "https://v0.dev/t/PUb2lRoEsJb",
+    "label": "Template for prompt: A personal website for my bookclub, called “Bookworms”. It should have a list of books that we’re currently reading, a gallery of photos, and a predominantly green color scheme. We meet every week.",
+    "dateAdded": "2024-01-20T16:30:03.090Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ixy5Kua5qTg",
+    "label": "Template for prompt: Make a contact section for company website",
+    "dateAdded": "2024-01-20T16:30:03.091Z"
+  },
+  {
+    "url": "https://v0.dev/t/uMraTGUqagM",
+    "label": "Template for prompt: design to me a comptation window called ACR",
+    "dateAdded": "2024-01-20T16:30:03.091Z"
+  },
+  {
+    "url": "https://v0.dev/t/aN43A1FMtqo",
+    "label": "Template for prompt: register modal, toggle to choose if you are a company or a normal user. If the user is a company they also needs to include company name",
+    "dateAdded": "2024-01-20T16:30:03.091Z"
+  },
+  {
+    "url": "https://v0.dev/t/go2hzX61CAG",
+    "label": "Template for prompt: a dashboard",
+    "dateAdded": "2024-01-20T16:30:03.091Z"
+  },
+  {
+    "url": "https://v0.dev/t/T2K14hDkFdU",
+    "label": "Template for prompt: gym profile page",
+    "dateAdded": "2024-01-20T16:30:03.091Z"
+  },
+  {
+    "url": "https://v0.dev/t/Nl8CPUUsHGG",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T16:30:03.091Z"
+  },
+  {
+    "url": "https://v0.dev/t/vgjzW2oLG8p",
+    "label": "Template for prompt: Create a navbar like IKEA WEBSITE ",
+    "dateAdded": "2024-01-20T16:30:03.092Z"
+  },
+  {
+    "url": "https://v0.dev/t/GaqTBnhl7vi",
+    "label": "Template for prompt: Headliner compontent in following structure (and styled as in image in RWD):\n- headliner title which contains the title of whole section\n- headliner feature - which gets title and description (for example title1, lorem)",
+    "dateAdded": "2024-01-20T16:30:03.092Z"
+  },
+  {
+    "url": "https://v0.dev/t/ShPEJxOqt7Y",
+    "label": "Template for prompt: A page to show a list of quotes",
+    "dateAdded": "2024-01-20T16:30:03.092Z"
+  },
+  {
+    "url": "https://v0.dev/t/DZjzvdfZRMj",
+    "label": "Template for prompt: Design me a nicer inventory table. ",
+    "dateAdded": "2024-01-20T16:30:03.092Z"
+  },
+  {
+    "url": "https://v0.dev/t/K5fFHrhagdU",
+    "label": "Template for prompt: navigation bar with logo on left and links on right",
+    "dateAdded": "2024-01-20T16:30:03.093Z"
+  },
+  {
+    "url": "https://v0.dev/t/tfmx94Xr77D",
+    "label": "Template for prompt: a ecommerce website for clothing brand",
+    "dateAdded": "2024-01-20T16:30:03.093Z"
+  },
+  {
+    "url": "https://v0.dev/t/JNORgo8Tuax",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T16:30:03.093Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ielhg61Yxt1",
+    "label": "Template for prompt: Design a component for creating crontab syntax. The interface should allow users to specify the following:\n\n* Date and time: Users should be able to select a specific date and time for the crontab entry to run.\n* Time period: Users should be able to select a time period for the crontab entry to run, such as daily, weekly, or monthly.\n* Command: Users should be able to enter the command that they want the crontab entry to run.\n* Additional options: Users should be able to specify additional options for the crontab entry,",
+    "dateAdded": "2024-01-20T16:30:03.093Z"
+  },
+  {
+    "url": "https://v0.dev/t/2eqe0w8lctw",
+    "label": "Template for prompt: a coming soon page for a stock exchnage website",
+    "dateAdded": "2024-01-20T16:30:03.093Z"
+  },
+  {
+    "url": "https://v0.dev/t/WsPvTma5QqE",
+    "label": "Template for prompt: a landing page for a festival",
+    "dateAdded": "2024-01-20T16:30:03.094Z"
+  },
+  {
+    "url": "https://v0.dev/t/AxO6NW7dOre",
+    "label": "Template for prompt: a horizontal list feed of worships with banner, title, and author",
+    "dateAdded": "2024-01-20T16:30:03.094Z"
+  },
+  {
+    "url": "https://v0.dev/t/448PvTGGQ0Y",
+    "label": "Template for prompt: package firsttestngpackage;\nimport org.openqa.selenium.*;\nimport org.openqa.selenium.firefox.FirefoxDriver;\nimport org.testng.Assert;\nimport org.testng.annotations.*;\n\npublic class firsttestngfile {\n    public String baseUrl = \"http://demo.guru99.com/test/newtours/\";\n    String driverPath = \"C:\\\\geckodriver.exe\";\n    public WebDriver driver ; \n     \n  @Test\n  public void verifyHomepageTitle() {\n       \n      System.out.println(\"launching firefox browser\"); \n      System.setProperty(\"webdriver.gecko.driver\", driverPath);\n      driver = new FirefoxDriver();\n      driver.get(baseUrl);\n      String expectedTitle = \"Welcome: Mercury Tours\";\n      String actualTitle = driver.getTitle();\n      Assert.assertEquals(actualTitle, expectedTitle);\n      driver.close();\n  }\n}",
+    "dateAdded": "2024-01-20T16:30:03.094Z"
+  },
+  {
+    "url": "https://v0.dev/t/eOYsos6u1ou",
+    "label": "Template for prompt: سلام گوگولی",
+    "dateAdded": "2024-01-20T16:30:03.094Z"
+  },
+  {
+    "url": "https://v0.dev/t/3fHNEWw1oRq",
+    "label": "Template for prompt: create modal with react and tailwind css and pass to it props to be generec style",
+    "dateAdded": "2024-01-20T16:30:03.094Z"
+  },
+  {
+    "url": "https://v0.dev/t/TbV3AQqMQpk",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T16:30:03.094Z"
+  },
+  {
+    "url": "https://v0.dev/t/CX8Px9Xh8EB",
+    "label": "Template for prompt: a landing page for an iOS app with specs and price tier",
+    "dateAdded": "2024-01-20T16:30:03.095Z"
+  },
+  {
+    "url": "https://v0.dev/t/lMNrMdJBaZl",
+    "label": "Template for prompt: A sleek landing page",
+    "dateAdded": "2024-01-20T16:30:03.095Z"
+  },
+  {
+    "url": "https://v0.dev/t/pgXpaElVn9l",
+    "label": "Template for prompt: i would like to create side nav bar and basic page design with nice layout",
+    "dateAdded": "2024-01-20T16:30:03.095Z"
   }
 ]
