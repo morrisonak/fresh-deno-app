@@ -1998,5 +1998,135 @@
     "url": "https://v0.dev/t/tM6SG7oJtTO",
     "label": "Template for prompt: safari window with mac os icons in the top left",
     "dateAdded": "2024-01-20T17:25:03.478Z"
+  },
+  {
+    "url": "https://v0.dev/t/U3Bmk93yzt6",
+    "label": "Template for prompt: // pages/index.js\nimport { useState } from 'react';\n\nexport default function Home() {\n  const [waistSize, setWaistSize] = useState('');\n  const [hipSize, setHipSize] = useState('');\n  const [result, setResult] = useState('');\n\n  const calculateWHR = () => {\n    const waist = parseFloat(waistSize);\n    const hip = parseFloat(hipSize);\n\n    if (isNaN(waist) || isNaN(hip) || waist <= 0 || hip <= 0) {\n      setResult('Please enter valid waist and hip sizes.');\n      return;\n    }\n\n    const whr = waist / hip;\n\n    if (whr <= 0.5) {\n      setResult('Rectangle Shaped Body');\n    } else if (whr <= 0.68 || (whr >= 0.68 && whr <= 0.7)) {\n      setResult('Hourglass Shaped Body');\n    } else if (whr <= 0.8) {\n      setResult('Pear Shaped Body');\n    } else if (whr >= 1.05) {\n      setResult('Inverted Triangle Shaped Body');\n    } else if (whr >= 0.6 && whr <= 0.8) {\n      setResult('Spoon Shaped Body');\n    } else {\n      setResult('Body shape prediction not available for this Waist-Hip Ratio.');",
+    "dateAdded": "2024-01-20T17:30:02.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/QDsSD40SC7e",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-20T17:30:02.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/WnQhjKAZLws",
+    "label": "Template for prompt: A character list for characters of a TTRPG",
+    "dateAdded": "2024-01-20T17:30:02.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/OemeIkus5cZ",
+    "label": "Template for prompt: create a \"creators\" or \"made by\" page showing contact info for all three developers who worked on the app, let space for a link to linked in, for two images for a business card ",
+    "dateAdded": "2024-01-20T17:30:02.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/qWMBe6vufeP",
+    "label": "Template for prompt: homepage for my cinema service app",
+    "dateAdded": "2024-01-20T17:30:02.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/aMpjASXZ5Tw",
+    "label": "Template for prompt: Generate a landing page for a gas station with tools to rent.",
+    "dateAdded": "2024-01-20T17:30:02.929Z"
+  },
+  {
+    "url": "https://v0.dev/t/9ZgRXdqfwCb",
+    "label": "Template for prompt: a site to encode and decode jwts",
+    "dateAdded": "2024-01-20T17:30:02.929Z"
+  },
+  {
+    "url": "https://v0.dev/t/Rx6mfFWT64y",
+    "label": "Template for prompt: Chat UI for client - business chat, that automaticly loads a embed for links and has a dedicated send button",
+    "dateAdded": "2024-01-20T17:30:02.929Z"
+  },
+  {
+    "url": "https://v0.dev/t/jf3nFBqlAla",
+    "label": "Template for prompt: Create a blog page",
+    "dateAdded": "2024-01-20T17:30:02.929Z"
+  },
+  {
+    "url": "https://v0.dev/t/9SXlARGFhVc",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-20T17:30:02.929Z"
+  },
+  {
+    "url": "https://v0.dev/t/kvtW2LgVb1j",
+    "label": "Template for prompt: Profile page that includes the ability to view and edit: profile pictures, User names and  passwords",
+    "dateAdded": "2024-01-20T17:30:02.929Z"
+  },
+  {
+    "url": "https://v0.dev/t/bpbfbSOzr8k",
+    "label": "Template for prompt: A search form comonent with a search field and filters that con be applied. When the form is submitted results as a list are displayed.",
+    "dateAdded": "2024-01-20T17:30:02.929Z"
+  },
+  {
+    "url": "https://v0.dev/t/E7M53HMCp3M",
+    "label": "Template for prompt: Generate a page with light themed components to web usage. Tsx. tailwind.",
+    "dateAdded": "2024-01-20T17:30:02.930Z"
+  },
+  {
+    "url": "https://v0.dev/t/CeUlGiGLnar",
+    "label": "Template for prompt: agency footer hero/intro  section ",
+    "dateAdded": "2024-01-20T17:30:02.930Z"
+  },
+  {
+    "url": "https://v0.dev/t/xa5IXkxAqRN",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders that allow the user to change the status of delivery. \nenum Status {\n  Pending\n  Processing\n  Delivering\n  Delivered\n  Refunded\n  Cancelled\n}\n\nenum DeliveryType {\n  Delivery\n  Pickup\n}\ncontain the purchaser in it that redirects the user to their profile using <Button variant=\"link\">\nalso contain the location of the order",
+    "dateAdded": "2024-01-20T17:30:02.930Z"
+  },
+  {
+    "url": "https://v0.dev/t/iG8x4XR0HPv",
+    "label": "Template for prompt: make a navbar for  a marketing site",
+    "dateAdded": "2024-01-20T17:30:02.930Z"
+  },
+  {
+    "url": "https://v0.dev/t/1EifQusmurD",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-20T17:30:02.930Z"
+  },
+  {
+    "url": "https://v0.dev/t/YdukhtxaLBz",
+    "label": "Template for prompt: create this pdf using react",
+    "dateAdded": "2024-01-20T17:30:02.930Z"
+  },
+  {
+    "url": "https://v0.dev/t/xjQhV6pPsLa",
+    "label": "Template for prompt: call to action",
+    "dateAdded": "2024-01-20T17:30:02.930Z"
+  },
+  {
+    "url": "https://v0.dev/t/Kzkz5CBnHJL",
+    "label": "Template for prompt: mobile first chat room",
+    "dateAdded": "2024-01-20T17:30:02.930Z"
+  },
+  {
+    "url": "https://v0.dev/t/KsomXzOJzCM",
+    "label": "Template for prompt: form which allows to sign up and sign in with apple, google to my cinema service",
+    "dateAdded": "2024-01-20T17:30:02.930Z"
+  },
+  {
+    "url": "https://v0.dev/t/3xF4OKw9qTe",
+    "label": "Template for prompt: A list of repositories",
+    "dateAdded": "2024-01-20T17:30:02.930Z"
+  },
+  {
+    "url": "https://v0.dev/t/yUMwjTyKKM6",
+    "label": "Template for prompt: createa an autocomplete component that allows a user to either select an existing item or \"create\" a new item",
+    "dateAdded": "2024-01-20T17:30:02.931Z"
+  },
+  {
+    "url": "https://v0.dev/t/4AQWKJbY3ht",
+    "label": "Template for prompt: a luxury website design for vapes",
+    "dateAdded": "2024-01-20T17:30:02.931Z"
+  },
+  {
+    "url": "https://v0.dev/t/nuvpdER2quL",
+    "label": "Template for prompt: this is a b2b portal, where wishlist request is collected by the site owner from end-user and the service agent will pick up the request and fulfill the wish.",
+    "dateAdded": "2024-01-20T17:30:02.931Z"
+  },
+  {
+    "url": "https://v0.dev/t/FobOFF13f0v",
+    "label": "Template for prompt: I need a web page for my school that is to show the different answers of a number of questions from the students. It would be important to create different lobbies with hosts that can see the answers of all the students",
+    "dateAdded": "2024-01-20T17:30:02.931Z"
   }
 ]
