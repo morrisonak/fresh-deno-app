@@ -8378,5 +8378,135 @@
     "url": "https://v0.dev/t/wlGJfDc1Qsr",
     "label": "Template for prompt: сделай два контейнера одинаковых с отображением помера поста. и две характерики. вид топлива и состояние поста",
     "dateAdded": "2024-01-20T21:50:02.646Z"
+  },
+  {
+    "url": "https://v0.dev/t/wmQRNUCGCni",
+    "label": "Template for prompt: design an exact replica of this structure ",
+    "dateAdded": "2024-01-20T21:55:03.367Z"
+  },
+  {
+    "url": "https://v0.dev/t/O20yAmJjB9I",
+    "label": "Template for prompt: preciso de uma pagina com fundo preto um titulo branco pequeno no topo logo abaixo uma maior que pode ser um h1 uma imagem abaixo que abra grande e fique menor com a foto redonda",
+    "dateAdded": "2024-01-20T21:55:03.367Z"
+  },
+  {
+    "url": "https://v0.dev/t/HLo3J8Y2Tbm",
+    "label": "Template for prompt: Generate a simple web page will asks you to choose between two options, or a third \"i don't care\" option",
+    "dateAdded": "2024-01-20T21:55:03.367Z"
+  },
+  {
+    "url": "https://v0.dev/t/Jq5KvHB5Ymw",
+    "label": "Template for prompt: A kanban board with a long backlog, a single slot 'to work on' a 3 slot 'finished' for consultants to share with clients. Clients can edit backlog, but not the other two columns. ",
+    "dateAdded": "2024-01-20T21:55:03.368Z"
+  },
+  {
+    "url": "https://v0.dev/t/onXGKNkickY",
+    "label": "Template for prompt: Generate a design template for the EasyCollab matching page, allowing sponsors to explore content creators and vice versa. The page should accommodate a large number of content creators and sponsors. Additionally, sponsors should have access to specific filters to refine their search for content creators.\n\nHeader Section:\n\nDesign a clean and intuitive header featuring the EasyCollab logo, navigation links, and user profile options for sponsors and content creators.\nEnsure clarity and ease of navigation, allowing sponsors to explore content creators effortlessly.\nFiltering Options for Sponsors:\n\nImplement specific filters for sponsors to refine their search for content creators.\nInclude filters such as platform (YouTube, Instagram, etc.), number of subscribers, location of followers and subscribers, language of followers/subscribers, and any other relevant criteria. clone upwork.com offers page design  and colors ",
+    "dateAdded": "2024-01-20T21:55:03.368Z"
+  },
+  {
+    "url": "https://v0.dev/t/c8zfExvK7ZS",
+    "label": "Template for prompt: Realiza un diseño igual al de la imagen ",
+    "dateAdded": "2024-01-20T21:55:03.368Z"
+  },
+  {
+    "url": "https://v0.dev/t/1BxrgcWEfZ6",
+    "label": "Template for prompt: a page allowing to do a donation to given charity",
+    "dateAdded": "2024-01-20T21:55:03.368Z"
+  },
+  {
+    "url": "https://v0.dev/t/EAzdTNxG7gD",
+    "label": "Template for prompt: make a trivia component with options, one correct (green one when clicking) and red when clicking, no color when no clicking",
+    "dateAdded": "2024-01-20T21:55:03.368Z"
+  },
+  {
+    "url": "https://v0.dev/t/0zjqJdHIcpB",
+    "label": "Template for prompt: Generate a status page that shows service uptime, latency and errors",
+    "dateAdded": "2024-01-20T21:55:03.369Z"
+  },
+  {
+    "url": "https://v0.dev/t/zbuvPdyfKLo",
+    "label": "Template for prompt: a page for two cats",
+    "dateAdded": "2024-01-20T21:55:03.369Z"
+  },
+  {
+    "url": "https://v0.dev/t/RSt8gsfnA4X",
+    "label": "Template for prompt: Generate a design template for the EasyCollab matching page, allowing sponsors to explore content creators and vice versa. The page should accommodate a large number of content creators and sponsors. Additionally, sponsors should have access to specific filters to refine their search for content creators.\n\nHeader Section:\n\nDesign a clean and intuitive header featuring the EasyCollab logo, navigation links, and user profile options for sponsors and content creators.\nEnsure clarity and ease of navigation, allowing sponsors to explore content creators effortlessly.\nFiltering Options for Sponsors:\n\nImplement specific filters for sponsors to refine their search for content creators.\nInclude filters such as platform (YouTube, Instagram, etc.), number of subscribers, location of followers and subscribers, language of followers/subscribers, and any other relevant criteria.\nGrid Layout for Content Creators:\n\nUse a grid layout to showcase content creators, displaying their profile images, platfo",
+    "dateAdded": "2024-01-20T21:55:03.369Z"
+  },
+  {
+    "url": "https://v0.dev/t/U25ckdTsw4y",
+    "label": "Template for prompt: realiza un diseño similar al de la imagen",
+    "dateAdded": "2024-01-20T21:55:03.369Z"
+  },
+  {
+    "url": "https://v0.dev/t/IfLkZFwVSPe",
+    "label": "Template for prompt: landing page web developers, graph design and digital marketing",
+    "dateAdded": "2024-01-20T21:55:03.370Z"
+  },
+  {
+    "url": "https://v0.dev/t/Pjo7yKYXhQ3",
+    "label": "Template for prompt: Generate a sidebar menu design for a task manager application with the following options:\nAll Boards\nList of boards\nAnalytics\nPreferences\nAccount\nBilling\nEnsure the logical order is user-friendly and aligns with common navigation patterns.",
+    "dateAdded": "2024-01-20T21:55:03.370Z"
+  },
+  {
+    "url": "https://v0.dev/t/5tsnwHmAS7v",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T21:55:03.370Z"
+  },
+  {
+    "url": "https://v0.dev/t/9cBUkiJRlCL",
+    "label": "Template for prompt: a resume, right-left sliding cards like in a gallery",
+    "dateAdded": "2024-01-20T21:55:03.370Z"
+  },
+  {
+    "url": "https://v0.dev/t/LxZhyYzewGf",
+    "label": "Template for prompt: a signup page with oauth options for google and github",
+    "dateAdded": "2024-01-20T21:55:03.370Z"
+  },
+  {
+    "url": "https://v0.dev/t/D0FWQIFEXeh",
+    "label": "Template for prompt: a page with yellow background and a white div in middel with ritght button radius and inside it a desctiption and starts \ncircle in the left edge and smal rectangles on the left top right edge of the wihte div",
+    "dateAdded": "2024-01-20T21:55:03.371Z"
+  },
+  {
+    "url": "https://v0.dev/t/KLkQmG7Sihr",
+    "label": "Template for prompt: An online flight booking platform. Incorporate real-time weather animations for both origin and destination cities to assist with travel planning. Use collapsible menus for date selection that only appear when a user hovers over the date input, creating a clean, minimalist design.",
+    "dateAdded": "2024-01-20T21:55:03.371Z"
+  },
+  {
+    "url": "https://v0.dev/t/oN8f7nmNkm5",
+    "label": "Template for prompt: create a question format\n\nquestion \nimageUrl (opcional)\noption 1\noption 2\noption 3\noption 4\n",
+    "dateAdded": "2024-01-20T21:55:03.371Z"
+  },
+  {
+    "url": "https://v0.dev/t/45o0ThTeTot",
+    "label": "Template for prompt: ecommerce card",
+    "dateAdded": "2024-01-20T21:55:03.371Z"
+  },
+  {
+    "url": "https://v0.dev/t/t1S06eACZh8",
+    "label": "Template for prompt: create a card with borders like zip",
+    "dateAdded": "2024-01-20T21:55:03.371Z"
+  },
+  {
+    "url": "https://v0.dev/t/EdpyPHIeRLu",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and two boxes/cards with a title and description.",
+    "dateAdded": "2024-01-20T21:55:03.371Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q2QhxmVtBGf",
+    "label": "Template for prompt: make blog",
+    "dateAdded": "2024-01-20T21:55:03.372Z"
+  },
+  {
+    "url": "https://v0.dev/t/AcLhKtvmxO2",
+    "label": "Template for prompt: A marketplace for publication drafts looking for reviewers, for reviewers looking for publication draft review offers, and a payment portal where authors can pay reviewers",
+    "dateAdded": "2024-01-20T21:55:03.372Z"
+  },
+  {
+    "url": "https://v0.dev/t/PwR5X6UY6mA",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T21:55:03.372Z"
   }
 ]
