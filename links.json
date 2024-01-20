@@ -2388,5 +2388,135 @@
     "url": "https://v0.dev/t/OemeIkus5cZ",
     "label": "Template for prompt: create a \"creators\" or \"made by\" page showing contact info for all three developers who worked on the app, let space for a link to linked in, for two images for a business card ",
     "dateAdded": "2024-01-20T17:40:03.048Z"
+  },
+  {
+    "url": "https://v0.dev/t/Mcxxy7e4P1a",
+    "label": "Template for prompt: A card component like this",
+    "dateAdded": "2024-01-20T17:45:03.031Z"
+  },
+  {
+    "url": "https://v0.dev/t/PlFOq3l5Nxb",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-20T17:45:03.032Z"
+  },
+  {
+    "url": "https://v0.dev/t/ldnLYVeWEYz",
+    "label": "Template for prompt: pagina de perrfil de usuario que solo muestre email, username, id, etc solo informacion basica de uan cuenta ",
+    "dateAdded": "2024-01-20T17:45:03.032Z"
+  },
+  {
+    "url": "https://v0.dev/t/JjRXBTzfYU0",
+    "label": "Template for prompt: header with svg icons in the left and right, and a centered navbar in between",
+    "dateAdded": "2024-01-20T17:45:03.032Z"
+  },
+  {
+    "url": "https://v0.dev/t/dU38TQYrNL5",
+    "label": "Template for prompt: testimonial section with review. Include round picture of person (avatat) Include 3 reviews: W pełni wykorzystany dzień na zobaczenie zapierających dech miejsc. Konrad był bardzo tolerancyjny, cała wycieczka bez pośpiechu i niepotrzebnej spiny. Czyli wszytko to na czym nam zależało podczas wycieczki. Piękne widoki, pyszne jedzenie, znakomite wino +świetne towarzystwo = 100% zadowolenia\n\t\nAnna\nKraków\n5/5\nPrzeżyliśmy cudowną przygodę dzięki Malgorzacie i Konradowi z Odkrywamy Cypr . Wycieczka super wesoło i ciekawie . Polecamy każdemu kto zechce odwiedzić Cypr.\n\t\nKarol\nChojnice\n4.6/5\nZ całego serca polecamy Odkrywamy Cypr. Cudownie spędzony dzień na podziwianiu przepięknych miejsc w niesamowicie ciepłej i przyjaznej atmosferze, pyszny wspólny posiłek, piękne pamiątki w postaci zdjęć, które wykonała nam Gosia. Jesteśmy bardzo zadowoleni z wyboru 😍 I z całego serca jeszcze raz Wam DZIĘKUJEMY\nwoman, beauty, outdoors-8293297.jpg\t\nGosia\nŁódź",
+    "dateAdded": "2024-01-20T17:45:03.032Z"
+  },
+  {
+    "url": "https://v0.dev/t/2T7LOwHvTKE",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T17:45:03.032Z"
+  },
+  {
+    "url": "https://v0.dev/t/p2CXP4M45d2",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T17:45:03.033Z"
+  },
+  {
+    "url": "https://v0.dev/t/D19J6wwPonL",
+    "label": "Template for prompt: a 404 page. creative and funny",
+    "dateAdded": "2024-01-20T17:45:03.033Z"
+  },
+  {
+    "url": "https://v0.dev/t/YS5GKk7dBxO",
+    "label": "Template for prompt: a \"report an issue\" modal",
+    "dateAdded": "2024-01-20T17:45:03.033Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yse4h41425M",
+    "label": "Template for prompt: Form for entering personal and company details. Personal: first name and last name. Company: name, address, city, postcode, country",
+    "dateAdded": "2024-01-20T17:45:03.033Z"
+  },
+  {
+    "url": "https://v0.dev/t/9gmaY3qqJyE",
+    "label": "Template for prompt: create a skeleton loadre for this page",
+    "dateAdded": "2024-01-20T17:45:03.033Z"
+  },
+  {
+    "url": "https://v0.dev/t/QEqLRcuux7h",
+    "label": "Template for prompt: I have this data, can you design me a component? It should show for each commodity the two best months to reach out to do sales. Make the component dense, it can't take too much space.  {\"Fresh Fruit \":[\"January\",\"December\"],\"Cranberries - Vaccinium\":[\"January\",\"December\"],\"\":[\"February\",\"March\"],\"Fresh Grapes Only\":[\"March\",\"April\"],\"Fresh Pears\":[\"June\",\"July\"],\"Fresh Kiwifruits\":[\"July\",\"June\"],\"Fresh Oranges\":[\"August\",\"September\"],\"Clementines\":[\"June\",\"August\"],\"Tangerines and Clementines\":[\"September\",\"October\"]}",
+    "dateAdded": "2024-01-20T17:45:03.034Z"
+  },
+  {
+    "url": "https://v0.dev/t/WjD0Bdn2Svu",
+    "label": "Template for prompt: a card with an input and a button ",
+    "dateAdded": "2024-01-20T17:45:03.034Z"
+  },
+  {
+    "url": "https://v0.dev/t/udK6N11dSd0",
+    "label": "Template for prompt: Un panel de admin donde puedas ver las visualizaciones de la pagina web, las personas activas e mas cosas",
+    "dateAdded": "2024-01-20T17:45:03.034Z"
+  },
+  {
+    "url": "https://v0.dev/t/GRKekmrWsJb",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T17:45:03.034Z"
+  },
+  {
+    "url": "https://v0.dev/t/PWsEkeNopt6",
+    "label": "Template for prompt: a form with just one input and a button ",
+    "dateAdded": "2024-01-20T17:45:03.035Z"
+  },
+  {
+    "url": "https://v0.dev/t/ixWBgkWFHNH",
+    "label": "Template for prompt: create a chat in aspect ratio for mobile. Use some vibrant accent color",
+    "dateAdded": "2024-01-20T17:45:03.035Z"
+  },
+  {
+    "url": "https://v0.dev/t/LsrxUWKA5nF",
+    "label": "Template for prompt: I have this data, can you design me a component? {\"Fresh Fruit \":[\"January\",\"December\"],\"Cranberries - Vaccinium\":[\"January\",\"December\"],\"\":[\"February\",\"March\"],\"Fresh Grapes Only\":[\"March\",\"April\"],\"Fresh Pears\":[\"June\",\"July\"],\"Fresh Kiwifruits\":[\"July\",\"June\"],\"Fresh Oranges\":[\"August\",\"September\"],\"Clementines\":[\"June\",\"August\"],\"Tangerines and Clementines\":[\"September\",\"October\"]}",
+    "dateAdded": "2024-01-20T17:45:03.035Z"
+  },
+  {
+    "url": "https://v0.dev/t/1TD9pR9oGFd",
+    "label": "Template for prompt: pagina de perfil de usuario tipo dashboard ",
+    "dateAdded": "2024-01-20T17:45:03.035Z"
+  },
+  {
+    "url": "https://v0.dev/t/tJ1EriNGtYh",
+    "label": "Template for prompt: create a ts nextjs tailwind component that is a page called \"Smart Update.\" This page should have a text input that looks like one line but can expand into multiple. It should look like v0 by vercel",
+    "dateAdded": "2024-01-20T17:45:03.035Z"
+  },
+  {
+    "url": "https://v0.dev/t/VbUhojSVhu4",
+    "label": "Template for prompt: a skeleton loader: circle avatar, bio, and a list of links",
+    "dateAdded": "2024-01-20T17:45:03.035Z"
+  },
+  {
+    "url": "https://v0.dev/t/9jRh2gXgGx2",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T17:45:03.036Z"
+  },
+  {
+    "url": "https://v0.dev/t/hEOqKLZAlCW",
+    "label": "Template for prompt: a responsive navbar",
+    "dateAdded": "2024-01-20T17:45:03.036Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z5w8hm5PMzI",
+    "label": "Template for prompt: asynchronous video recruiting ",
+    "dateAdded": "2024-01-20T17:45:03.036Z"
+  },
+  {
+    "url": "https://v0.dev/t/W8Lh5LLBmjk",
+    "label": "Template for prompt: multistep form using shadcn",
+    "dateAdded": "2024-01-20T17:45:03.036Z"
+  },
+  {
+    "url": "https://v0.dev/t/8zrwIWr6dzL",
+    "label": "Template for prompt: website that let users ask about their health condition",
+    "dateAdded": "2024-01-20T17:45:03.037Z"
   }
 ]
