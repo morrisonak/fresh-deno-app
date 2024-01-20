@@ -6188,5 +6188,135 @@
     "url": "https://v0.dev/t/Sd09i89Vy38",
     "label": "Template for prompt: Make this settings page look better ",
     "dateAdded": "2024-01-20T20:25:02.438Z"
+  },
+  {
+    "url": "https://v0.dev/t/JVCqIKSn7vh",
+    "label": "Template for prompt: A two columns chat message App outline that uses maximum container height and scrollable messages board.",
+    "dateAdded": "2024-01-20T20:30:03.273Z"
+  },
+  {
+    "url": "https://v0.dev/t/j338Nl6AJxW",
+    "label": "Template for prompt: Product section with lists of product description",
+    "dateAdded": "2024-01-20T20:30:03.273Z"
+  },
+  {
+    "url": "https://v0.dev/t/eUiGu5KuPk2",
+    "label": "Template for prompt: Build a data table that shows files and folder created by user, columns to show are name, type (pdf, txt, folder), creation date",
+    "dateAdded": "2024-01-20T20:30:03.273Z"
+  },
+  {
+    "url": "https://v0.dev/t/Xjq0PN4jPqh",
+    "label": "Template for prompt: Create me a Turkish food Çiğköfteci Site Brand Name Çiğköfte Yiyelim",
+    "dateAdded": "2024-01-20T20:30:03.273Z"
+  },
+  {
+    "url": "https://v0.dev/t/WkYz0GNQvoj",
+    "label": "Template for prompt: An overview page for a workout dashboard",
+    "dateAdded": "2024-01-20T20:30:03.273Z"
+  },
+  {
+    "url": "https://v0.dev/t/EiNi0ClDZID",
+    "label": "Template for prompt: улучши дизацн",
+    "dateAdded": "2024-01-20T20:30:03.274Z"
+  },
+  {
+    "url": "https://v0.dev/t/vxxKZ31G1HY",
+    "label": "Template for prompt: улучши дизацн",
+    "dateAdded": "2024-01-20T20:30:03.274Z"
+  },
+  {
+    "url": "https://v0.dev/t/Afde27Dv6KS",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T20:30:03.274Z"
+  },
+  {
+    "url": "https://v0.dev/t/ObaHm36eABc",
+    "label": "Template for prompt: A powershell program that takes in a ticker symbol as input and returns a Microsoft Excel workbook as output. With the ticker symbol, the program should locate the SEC financial statements of the company with the corresponding ticker symbol. The program locates the Balance Sheet, Cashflow Statement, and Income Statement from each workbook (each workbook contains financial statements for a given year) and merges the balance sheets, income statements, and cashflow statements together, such that the output is One workbook, three worksheets, each worksheet contains all the years of data for a particular type of financial statement. Feel free to use Excel COM objects in order to achieve this.",
+    "dateAdded": "2024-01-20T20:30:03.274Z"
+  },
+  {
+    "url": "https://v0.dev/t/nnS0xgY8Xjt",
+    "label": "Template for prompt: crie uma pagina que dentro do card tenha um formulario com as opcoes jornada, adversario, notas, local, local de saída, data, hora, hora de encontro",
+    "dateAdded": "2024-01-20T20:30:03.275Z"
+  },
+  {
+    "url": "https://v0.dev/t/e4LlqQE1Fek",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T20:30:03.275Z"
+  },
+  {
+    "url": "https://v0.dev/t/AORvWJjQpxX",
+    "label": "Template for prompt: Make a AI-powered search app for videos, products, tiktoks, and various multimedia. Every search result should have an AI summary on the side",
+    "dateAdded": "2024-01-20T20:30:03.275Z"
+  },
+  {
+    "url": "https://v0.dev/t/MOBB1gap0RJ",
+    "label": "Template for prompt: upload files with forms",
+    "dateAdded": "2024-01-20T20:30:03.275Z"
+  },
+  {
+    "url": "https://v0.dev/t/6DtJXRZLGBl",
+    "label": "Template for prompt: a graph showing money growing by 60% over 15 years",
+    "dateAdded": "2024-01-20T20:30:03.275Z"
+  },
+  {
+    "url": "https://v0.dev/t/tZWGcZYdcjU",
+    "label": "Template for prompt: form",
+    "dateAdded": "2024-01-20T20:30:03.275Z"
+  },
+  {
+    "url": "https://v0.dev/t/T8BEFctMbRq",
+    "label": "Template for prompt: using shadcn and tailwindcss make a logo and a heading saying something went wrong if there is an error",
+    "dateAdded": "2024-01-20T20:30:03.275Z"
+  },
+  {
+    "url": "https://v0.dev/t/dX7SUQogp7e",
+    "label": "Template for prompt: a 404 not found page",
+    "dateAdded": "2024-01-20T20:30:03.276Z"
+  },
+  {
+    "url": "https://v0.dev/t/FQ2HXWrv1Br",
+    "label": "Template for prompt: small button with three dots",
+    "dateAdded": "2024-01-20T20:30:03.276Z"
+  },
+  {
+    "url": "https://v0.dev/t/alV39rBkRV1",
+    "label": "Template for prompt: simple page login  and modern styles",
+    "dateAdded": "2024-01-20T20:30:03.276Z"
+  },
+  {
+    "url": "https://v0.dev/t/acWyaHH2VVY",
+    "label": "Template for prompt: A dashboard with ability to do these things:\n1) Select a project; \n2) Display Project name and sperately display project card (with description ,budget range and photo); \n3) Information card with all the new updates about the project\n4) Project settings\n5) Further navigation",
+    "dateAdded": "2024-01-20T20:30:03.276Z"
+  },
+  {
+    "url": "https://v0.dev/t/DmLEJJeBXi1",
+    "label": "Template for prompt: and make it responsive too",
+    "dateAdded": "2024-01-20T20:30:03.276Z"
+  },
+  {
+    "url": "https://v0.dev/t/b8BWwmRWV7o",
+    "label": "Template for prompt: Button that has a green outline when clicked",
+    "dateAdded": "2024-01-20T20:30:03.276Z"
+  },
+  {
+    "url": "https://v0.dev/t/R6o4djijj5Z",
+    "label": "Template for prompt: make a modal, use full height et width, modal content center",
+    "dateAdded": "2024-01-20T20:30:03.276Z"
+  },
+  {
+    "url": "https://v0.dev/t/5DHPRdqyuBr",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T20:30:03.277Z"
+  },
+  {
+    "url": "https://v0.dev/t/elnCihndWcI",
+    "label": "Template for prompt: I want a modern card design, the top picture will decrease in opacity towards the bottom, and under it, the card title description and link will be written.",
+    "dateAdded": "2024-01-20T20:30:03.277Z"
+  },
+  {
+    "url": "https://v0.dev/t/CDW95pl3E6t",
+    "label": "Template for prompt: a one page landing page for a small bussines focus on advices, colorful and simple",
+    "dateAdded": "2024-01-20T20:30:03.277Z"
   }
 ]
