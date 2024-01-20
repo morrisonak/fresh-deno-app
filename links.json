@@ -3393,5 +3393,130 @@
     "url": "https://v0.dev/t/9VzXGTaHQe4",
     "label": "Template for prompt: セミナーのLPのダッシュボード。PV数、申込数、CVRの表示",
     "dateAdded": "2024-01-20T18:20:03.490Z"
+  },
+  {
+    "url": "https://v0.dev/t/QEbKbD5Jpx7",
+    "label": "Template for prompt: sign up form",
+    "dateAdded": "2024-01-20T18:25:02.798Z"
+  },
+  {
+    "url": "https://v0.dev/t/rogd4fKfO0O",
+    "label": "Template for prompt: a grid of product cards, where each product is shown with an image, a title, short description, and a \"starts at\" price on the right\ninside the card but beneath the product, there are different variants listed as options, when clicked they change the \"starts at\" price to the actual price\n\nvariants only have a title + subtitle",
+    "dateAdded": "2024-01-20T18:25:02.798Z"
+  },
+  {
+    "url": "https://v0.dev/t/WHWDOXRdk9E",
+    "label": "Template for prompt: Google Play and app store mix design",
+    "dateAdded": "2024-01-20T18:25:02.798Z"
+  },
+  {
+    "url": "https://v0.dev/t/BEbUJadgc36",
+    "label": "Template for prompt: A book details page for a book service. It should have some options to configure. ",
+    "dateAdded": "2024-01-20T18:25:02.798Z"
+  },
+  {
+    "url": "https://v0.dev/t/RolxgeG7GfT",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T18:25:02.799Z"
+  },
+  {
+    "url": "https://v0.dev/t/qzVeWzBkwi5",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T18:25:02.799Z"
+  },
+  {
+    "url": "https://v0.dev/t/E9Ha0nzyyHA",
+    "label": "Template for prompt: a form succes page with a button to go back to list, and a button to create another form",
+    "dateAdded": "2024-01-20T18:25:02.799Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZfsssuyNj10",
+    "label": "Template for prompt: a google play redesign",
+    "dateAdded": "2024-01-20T18:25:02.799Z"
+  },
+  {
+    "url": "https://v0.dev/t/inDMVCppUNN",
+    "label": "Template for prompt: crie um carrossel com palalax, com borda azul e background cinza",
+    "dateAdded": "2024-01-20T18:25:02.799Z"
+  },
+  {
+    "url": "https://v0.dev/t/0knmSqtw9vs",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T18:25:02.800Z"
+  },
+  {
+    "url": "https://v0.dev/t/PAlV9VccsSy",
+    "label": "Template for prompt: An experience calculator for the game, from a certain level to a certain level with several other parameters to take into account",
+    "dateAdded": "2024-01-20T18:25:02.800Z"
+  },
+  {
+    "url": "https://v0.dev/t/c1UTdIIYGew",
+    "label": "Template for prompt: wygeneruj mi responsywny komponent headera z logo po lewej, a po prawej przycisk wyloguj, badge ze statusem subskrypcji oraz adresem email zalogowanego użytkownika",
+    "dateAdded": "2024-01-20T18:25:02.800Z"
+  },
+  {
+    "url": "https://v0.dev/t/zFbBQj1Bacs",
+    "label": "Template for prompt: make a beautiful connect to social media page with buttons connect to google and facebook",
+    "dateAdded": "2024-01-20T18:25:02.800Z"
+  },
+  {
+    "url": "https://v0.dev/t/mvQmDrHlJib",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T18:25:02.801Z"
+  },
+  {
+    "url": "https://v0.dev/t/jM4WkwrepUg",
+    "label": "Template for prompt: pls make a modal for news feed. It has to contain the toggles for various configurations that users can select from. For example, user must be able to select news sources, topics etc. ",
+    "dateAdded": "2024-01-20T18:25:02.801Z"
+  },
+  {
+    "url": "https://v0.dev/t/oMsOX90bltO",
+    "label": "Template for prompt: chatgpt like application, posts user input to an endpoint, awaits a response from this endpoint and outputs like a chat response",
+    "dateAdded": "2024-01-20T18:25:02.801Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z0DM3YRYdPp",
+    "label": "Template for prompt: can you create proceed to checkout whatsapp button.",
+    "dateAdded": "2024-01-20T18:25:02.801Z"
+  },
+  {
+    "url": "https://v0.dev/t/fNm5KlcxQQA",
+    "label": "Template for prompt: generate a page as a gallary, with modern and elegant design",
+    "dateAdded": "2024-01-20T18:25:02.801Z"
+  },
+  {
+    "url": "https://v0.dev/t/YpmSlKv0WUd",
+    "label": "Template for prompt: create a slick and modern resume template using @React-pdf/renderer",
+    "dateAdded": "2024-01-20T18:25:02.801Z"
+  },
+  {
+    "url": "https://v0.dev/t/eT5qApBYU1K",
+    "label": "Template for prompt: One page webapp. Header up top with color, and centered text: 'CrimeScape MTL'. Below header a horizontal selection between 2 options: 'View Past Data' and 'Forecast'. Below that 3 elements side by side. First, a 'type' dropdown selector. Second: a start date and end date selection. Third, a time of day dropdown selector. Then a map below all that. Then to the right of the map: a section with insights written at the top",
+    "dateAdded": "2024-01-20T18:25:02.801Z"
+  },
+  {
+    "url": "https://v0.dev/t/Vp9HVzBtE5P",
+    "label": "Template for prompt: SaaS subscription selection page with one pricing box current free tier on top. Paid subscription box below",
+    "dateAdded": "2024-01-20T18:25:02.802Z"
+  },
+  {
+    "url": "https://v0.dev/t/vu904damVRt",
+    "label": "Template for prompt: Create a vertical refinement list (filters) with options to choose from, it goes on the left of a tablez",
+    "dateAdded": "2024-01-20T18:25:02.802Z"
+  },
+  {
+    "url": "https://v0.dev/t/GrKCeMckT3j",
+    "label": "Template for prompt: small ecommerce landing with 4 categories, products and key information ",
+    "dateAdded": "2024-01-20T18:25:02.802Z"
+  },
+  {
+    "url": "https://v0.dev/t/NLucCq8U6bP",
+    "label": "Template for prompt: redesign this application's page with modern and sober",
+    "dateAdded": "2024-01-20T18:25:02.802Z"
+  },
+  {
+    "url": "https://v0.dev/t/fAmy4VPLRqk",
+    "label": "Template for prompt: login page",
+    "dateAdded": "2024-01-20T18:25:02.802Z"
   }
 ]
