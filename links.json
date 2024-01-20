@@ -1,0 +1,242 @@
+[
+  {
+    "url": "https://v0.dev/t/WsPvTma5QqE",
+    "label": "Template for prompt: a landing page for a festival",
+    "dateAdded": "2024-01-20T16:20:14.757Z"
+  },
+  {
+    "url": "https://v0.dev/t/AxO6NW7dOre",
+    "label": "Template for prompt: a horizontal list feed of worships with banner, title, and author",
+    "dateAdded": "2024-01-20T16:20:14.758Z"
+  },
+  {
+    "url": "https://v0.dev/t/448PvTGGQ0Y",
+    "label": "Template for prompt: package firsttestngpackage;\nimport org.openqa.selenium.*;\nimport org.openqa.selenium.firefox.FirefoxDriver;\nimport org.testng.Assert;\nimport org.testng.annotations.*;\n\npublic class firsttestngfile {\n    public String baseUrl = \"http://demo.guru99.com/test/newtours/\";\n    String driverPath = \"C:\\\\geckodriver.exe\";\n    public WebDriver driver ; \n     \n  @Test\n  public void verifyHomepageTitle() {\n       \n      System.out.println(\"launching firefox browser\"); \n      System.setProperty(\"webdriver.gecko.driver\", driverPath);\n      driver = new FirefoxDriver();\n      driver.get(baseUrl);\n      String expectedTitle = \"Welcome: Mercury Tours\";\n      String actualTitle = driver.getTitle();\n      Assert.assertEquals(actualTitle, expectedTitle);\n      driver.close();\n  }\n}",
+    "dateAdded": "2024-01-20T16:20:14.758Z"
+  },
+  {
+    "url": "https://v0.dev/t/eOYsos6u1ou",
+    "label": "Template for prompt: سلام گوگولی",
+    "dateAdded": "2024-01-20T16:20:14.758Z"
+  },
+  {
+    "url": "https://v0.dev/t/3fHNEWw1oRq",
+    "label": "Template for prompt: create modal with react and tailwind css and pass to it props to be generec style",
+    "dateAdded": "2024-01-20T16:20:14.758Z"
+  },
+  {
+    "url": "https://v0.dev/t/TbV3AQqMQpk",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T16:20:14.758Z"
+  },
+  {
+    "url": "https://v0.dev/t/CX8Px9Xh8EB",
+    "label": "Template for prompt: a landing page for an iOS app with specs and price tier",
+    "dateAdded": "2024-01-20T16:20:14.758Z"
+  },
+  {
+    "url": "https://v0.dev/t/lMNrMdJBaZl",
+    "label": "Template for prompt: A sleek landing page",
+    "dateAdded": "2024-01-20T16:20:14.759Z"
+  },
+  {
+    "url": "https://v0.dev/t/pgXpaElVn9l",
+    "label": "Template for prompt: i would like to create side nav bar and basic page design with nice layout",
+    "dateAdded": "2024-01-20T16:20:14.759Z"
+  },
+  {
+    "url": "https://v0.dev/t/PuvqAyeMQ56",
+    "label": "Template for prompt: Helpdesk user registration form with 3 types of users: client, agent, administrator",
+    "dateAdded": "2024-01-20T16:20:14.759Z"
+  },
+  {
+    "url": "https://v0.dev/t/JhR1hemfSDB",
+    "label": "Template for prompt: when the user click date a drop down show to select date \nmake the component with react and tailwind css\n",
+    "dateAdded": "2024-01-20T16:20:14.759Z"
+  },
+  {
+    "url": "https://v0.dev/t/w3TmUQsrRgh",
+    "label": "Template for prompt: create login page",
+    "dateAdded": "2024-01-20T16:20:14.759Z"
+  },
+  {
+    "url": "https://v0.dev/t/dsZhtsX6TUu",
+    "label": "Template for prompt: can you write me a website for my development agency develop platforms and websites and tools for trading and bots ",
+    "dateAdded": "2024-01-20T16:20:14.759Z"
+  },
+  {
+    "url": "https://v0.dev/t/a8jGzuSlgA4",
+    "label": "Template for prompt: A split character stats table for a fantasy themed portfolio. On the left are attributes (name, class, subclass, job). Below that is a list of proficiencies. ",
+    "dateAdded": "2024-01-20T16:20:14.759Z"
+  },
+  {
+    "url": "https://v0.dev/t/idQzCsa0zxH",
+    "label": "Template for prompt: Define the area you want to cover from the test scenario.\n\nEnsure the test case is easy for testers to understand and execute.\n\nUnderstand and apply relevant test designs.\n\nUse a unique test case ID.\n\nUse the requirements traceability matrix in testing for visibility.\n\nInclude a clear description in each test.\n\nAdd proper preconditions and postconditions.\n\nSpecify the exact expected result. \n\nUtilize suitable testing techniques. \n\nGet your test plan peer-reviewed before moving forward.\n\n",
+    "dateAdded": "2024-01-20T16:20:14.760Z"
+  },
+  {
+    "url": "https://v0.dev/t/24ZBMHQfvXW",
+    "label": "Template for prompt: Catchy Home page with assets that I will put later - crypto Presale page with an application form that will send an email to the owner and a copy to the user who submitted the form with the details submitted, and add all the details about the current project that will launch presale via the website - ABout section: a section where there will be info about this project called LowCap's Pool - COntact section: self-explanatory , maybe a contact form or an email or support. both for investors/future clients - FAQ page: most popular questions\nCreate a them color of the website like the image attached, also try to put that image in homepage",
+    "dateAdded": "2024-01-20T16:20:14.760Z"
+  },
+  {
+    "url": "https://v0.dev/t/mMA2ROe4B06",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T16:20:14.760Z"
+  },
+  {
+    "url": "https://v0.dev/t/0WJXupJ4C6O",
+    "label": "Template for prompt: Helpdesk login with 3 rolls to start \"client\", \"agent\", \"administrator\"",
+    "dateAdded": "2024-01-20T16:20:14.760Z"
+  },
+  {
+    "url": "https://v0.dev/t/6UXR6nVsDTH",
+    "label": "Template for prompt: Creating a user interface (UI) for a discovery page in a Learning Experience Platform (LEP) involves several design considerations to ensure it is user-friendly, intuitive, and effective in helping users find the digital assets they need. Here's a conceptual layout:\n\nConceptual UI Layout for Discovery Page\nHeader Section:\n\nLogo and Platform Name: Top left corner.\nSearch Bar: Prominent, central position. Include an advanced search option.\nUser Profile Icon: Top right corner, with dropdown for account settings, help, and logout.\nNavigation Bar:\n\nHome Button\nCategories/Subjects: Dropdown menu to browse by predefined categories or subjects.\nRecently Added: Quick link to newest assets.\nFavorites/Bookmarks: For quick access to saved assets.\nMain Content Area:\n\nPersonalized Recommendations: A carousel or grid layout displaying recommended assets based on user history.\nTrending Assets: Section showcasing popular or highly-rated assets.\nBrowse by Type: Quick filters to view assets by type (vide",
+    "dateAdded": "2024-01-20T16:20:14.760Z"
+  },
+  {
+    "url": "https://v0.dev/t/SS9rhyBCHZx",
+    "label": "Template for prompt: submit button change it so that the user can not click it and add animation for great user experience ",
+    "dateAdded": "2024-01-20T16:20:14.760Z"
+  },
+  {
+    "url": "https://v0.dev/t/fXUa8fZ95ek",
+    "label": "Template for prompt: a crontab compatible ui input with dates, selection of time period etc.",
+    "dateAdded": "2024-01-20T16:20:14.760Z"
+  },
+  {
+    "url": "https://v0.dev/t/X1Zp9pGEeWS",
+    "label": "Template for prompt: Telegram alike gallery pictures",
+    "dateAdded": "2024-01-20T16:20:14.761Z"
+  },
+  {
+    "url": "https://v0.dev/t/GQtvo3MHJhc",
+    "label": "Template for prompt: better style this page with bootstrap <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <!-- Add Bootstrap CSS link here -->\n    <link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css\">\n    <title>Web Panel</title>\n</head>\n<body class=\"container\">\n    <h1 class=\"mt-5\">Web Panel</h1>\n\n    <h2 class=\"mt-4\">Statistics</h2>\n    <table class=\"table mt-3\">\n        <tr>\n            <th>Total Scans</th>\n            <td>{{ statistics.total_scans }}</td>\n        </tr>\n        <tr>\n            <th>Successful Scans</th>\n            <td>{{ statistics.successful_scans }}</td>\n        </tr>\n        <tr>\n            <th>Failed Scans</th>\n            <td>{{ statistics.failed_scans }}</td>\n        </tr>\n        <tr>\n            <th>Overall Time</th>\n            <td>{{ statistics.overall_time }}</td>\n      ",
+    "dateAdded": "2024-01-20T16:20:14.761Z"
+  },
+  {
+    "url": "https://v0.dev/t/V4hR5Ig7mlY",
+    "label": "Template for prompt: create portfolio site for web developer \"Bichu\"",
+    "dateAdded": "2024-01-20T16:20:14.761Z"
+  },
+  {
+    "url": "https://v0.dev/t/WsPvTma5QqE",
+    "label": "Template for prompt: a landing page for a festival",
+    "dateAdded": "2024-01-20T16:20:38.617Z"
+  },
+  {
+    "url": "https://v0.dev/t/AxO6NW7dOre",
+    "label": "Template for prompt: a horizontal list feed of worships with banner, title, and author",
+    "dateAdded": "2024-01-20T16:20:38.617Z"
+  },
+  {
+    "url": "https://v0.dev/t/448PvTGGQ0Y",
+    "label": "Template for prompt: package firsttestngpackage;\nimport org.openqa.selenium.*;\nimport org.openqa.selenium.firefox.FirefoxDriver;\nimport org.testng.Assert;\nimport org.testng.annotations.*;\n\npublic class firsttestngfile {\n    public String baseUrl = \"http://demo.guru99.com/test/newtours/\";\n    String driverPath = \"C:\\\\geckodriver.exe\";\n    public WebDriver driver ; \n     \n  @Test\n  public void verifyHomepageTitle() {\n       \n      System.out.println(\"launching firefox browser\"); \n      System.setProperty(\"webdriver.gecko.driver\", driverPath);\n      driver = new FirefoxDriver();\n      driver.get(baseUrl);\n      String expectedTitle = \"Welcome: Mercury Tours\";\n      String actualTitle = driver.getTitle();\n      Assert.assertEquals(actualTitle, expectedTitle);\n      driver.close();\n  }\n}",
+    "dateAdded": "2024-01-20T16:20:38.618Z"
+  },
+  {
+    "url": "https://v0.dev/t/eOYsos6u1ou",
+    "label": "Template for prompt: سلام گوگولی",
+    "dateAdded": "2024-01-20T16:20:38.618Z"
+  },
+  {
+    "url": "https://v0.dev/t/3fHNEWw1oRq",
+    "label": "Template for prompt: create modal with react and tailwind css and pass to it props to be generec style",
+    "dateAdded": "2024-01-20T16:20:38.618Z"
+  },
+  {
+    "url": "https://v0.dev/t/TbV3AQqMQpk",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T16:20:38.618Z"
+  },
+  {
+    "url": "https://v0.dev/t/CX8Px9Xh8EB",
+    "label": "Template for prompt: a landing page for an iOS app with specs and price tier",
+    "dateAdded": "2024-01-20T16:20:38.618Z"
+  },
+  {
+    "url": "https://v0.dev/t/lMNrMdJBaZl",
+    "label": "Template for prompt: A sleek landing page",
+    "dateAdded": "2024-01-20T16:20:38.619Z"
+  },
+  {
+    "url": "https://v0.dev/t/pgXpaElVn9l",
+    "label": "Template for prompt: i would like to create side nav bar and basic page design with nice layout",
+    "dateAdded": "2024-01-20T16:20:38.619Z"
+  },
+  {
+    "url": "https://v0.dev/t/PuvqAyeMQ56",
+    "label": "Template for prompt: Helpdesk user registration form with 3 types of users: client, agent, administrator",
+    "dateAdded": "2024-01-20T16:20:38.619Z"
+  },
+  {
+    "url": "https://v0.dev/t/JhR1hemfSDB",
+    "label": "Template for prompt: when the user click date a drop down show to select date \nmake the component with react and tailwind css\n",
+    "dateAdded": "2024-01-20T16:20:38.619Z"
+  },
+  {
+    "url": "https://v0.dev/t/w3TmUQsrRgh",
+    "label": "Template for prompt: create login page",
+    "dateAdded": "2024-01-20T16:20:38.620Z"
+  },
+  {
+    "url": "https://v0.dev/t/dsZhtsX6TUu",
+    "label": "Template for prompt: can you write me a website for my development agency develop platforms and websites and tools for trading and bots ",
+    "dateAdded": "2024-01-20T16:20:38.620Z"
+  },
+  {
+    "url": "https://v0.dev/t/a8jGzuSlgA4",
+    "label": "Template for prompt: A split character stats table for a fantasy themed portfolio. On the left are attributes (name, class, subclass, job). Below that is a list of proficiencies. ",
+    "dateAdded": "2024-01-20T16:20:38.620Z"
+  },
+  {
+    "url": "https://v0.dev/t/idQzCsa0zxH",
+    "label": "Template for prompt: Define the area you want to cover from the test scenario.\n\nEnsure the test case is easy for testers to understand and execute.\n\nUnderstand and apply relevant test designs.\n\nUse a unique test case ID.\n\nUse the requirements traceability matrix in testing for visibility.\n\nInclude a clear description in each test.\n\nAdd proper preconditions and postconditions.\n\nSpecify the exact expected result. \n\nUtilize suitable testing techniques. \n\nGet your test plan peer-reviewed before moving forward.\n\n",
+    "dateAdded": "2024-01-20T16:20:38.620Z"
+  },
+  {
+    "url": "https://v0.dev/t/24ZBMHQfvXW",
+    "label": "Template for prompt: Catchy Home page with assets that I will put later - crypto Presale page with an application form that will send an email to the owner and a copy to the user who submitted the form with the details submitted, and add all the details about the current project that will launch presale via the website - ABout section: a section where there will be info about this project called LowCap's Pool - COntact section: self-explanatory , maybe a contact form or an email or support. both for investors/future clients - FAQ page: most popular questions\nCreate a them color of the website like the image attached, also try to put that image in homepage",
+    "dateAdded": "2024-01-20T16:20:38.621Z"
+  },
+  {
+    "url": "https://v0.dev/t/mMA2ROe4B06",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T16:20:38.621Z"
+  },
+  {
+    "url": "https://v0.dev/t/0WJXupJ4C6O",
+    "label": "Template for prompt: Helpdesk login with 3 rolls to start \"client\", \"agent\", \"administrator\"",
+    "dateAdded": "2024-01-20T16:20:38.621Z"
+  },
+  {
+    "url": "https://v0.dev/t/6UXR6nVsDTH",
+    "label": "Template for prompt: Creating a user interface (UI) for a discovery page in a Learning Experience Platform (LEP) involves several design considerations to ensure it is user-friendly, intuitive, and effective in helping users find the digital assets they need. Here's a conceptual layout:\n\nConceptual UI Layout for Discovery Page\nHeader Section:\n\nLogo and Platform Name: Top left corner.\nSearch Bar: Prominent, central position. Include an advanced search option.\nUser Profile Icon: Top right corner, with dropdown for account settings, help, and logout.\nNavigation Bar:\n\nHome Button\nCategories/Subjects: Dropdown menu to browse by predefined categories or subjects.\nRecently Added: Quick link to newest assets.\nFavorites/Bookmarks: For quick access to saved assets.\nMain Content Area:\n\nPersonalized Recommendations: A carousel or grid layout displaying recommended assets based on user history.\nTrending Assets: Section showcasing popular or highly-rated assets.\nBrowse by Type: Quick filters to view assets by type (vide",
+    "dateAdded": "2024-01-20T16:20:38.621Z"
+  },
+  {
+    "url": "https://v0.dev/t/SS9rhyBCHZx",
+    "label": "Template for prompt: submit button change it so that the user can not click it and add animation for great user experience ",
+    "dateAdded": "2024-01-20T16:20:38.621Z"
+  },
+  {
+    "url": "https://v0.dev/t/fXUa8fZ95ek",
+    "label": "Template for prompt: a crontab compatible ui input with dates, selection of time period etc.",
+    "dateAdded": "2024-01-20T16:20:38.622Z"
+  },
+  {
+    "url": "https://v0.dev/t/X1Zp9pGEeWS",
+    "label": "Template for prompt: Telegram alike gallery pictures",
+    "dateAdded": "2024-01-20T16:20:38.622Z"
+  },
+  {
+    "url": "https://v0.dev/t/GQtvo3MHJhc",
+    "label": "Template for prompt: better style this page with bootstrap <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <!-- Add Bootstrap CSS link here -->\n    <link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css\">\n    <title>Web Panel</title>\n</head>\n<body class=\"container\">\n    <h1 class=\"mt-5\">Web Panel</h1>\n\n    <h2 class=\"mt-4\">Statistics</h2>\n    <table class=\"table mt-3\">\n        <tr>\n            <th>Total Scans</th>\n            <td>{{ statistics.total_scans }}</td>\n        </tr>\n        <tr>\n            <th>Successful Scans</th>\n            <td>{{ statistics.successful_scans }}</td>\n        </tr>\n        <tr>\n            <th>Failed Scans</th>\n            <td>{{ statistics.failed_scans }}</td>\n        </tr>\n        <tr>\n            <th>Overall Time</th>\n            <td>{{ statistics.overall_time }}</td>\n      ",
+    "dateAdded": "2024-01-20T16:20:38.622Z"
+  },
+  {
+    "url": "https://v0.dev/t/V4hR5Ig7mlY",
+    "label": "Template for prompt: create portfolio site for web developer \"Bichu\"",
+    "dateAdded": "2024-01-20T16:20:38.622Z"
+  }
+]
