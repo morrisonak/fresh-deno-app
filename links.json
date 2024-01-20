@@ -1223,5 +1223,135 @@
     "url": "https://v0.dev/t/z3RubzEptD5",
     "label": "Template for prompt: book reading component with a Header:\nSimple logo (if applicable) aligned to the left.\nUser profile or settings icon on the right.\nNavigation menu with options like \"Chapters,\" \"Search\"\nMain Content Area:\nLarge, centered text with ample white space around it.\nMinimalistic controls for changing chapters and verses.\nSubtle progress tracker at the bottom to indicate reading progress.\nSidebar :\nOptional sidebar for quick access to features like bookmarks, notes, or translations.\nIcons for each feature to maintain a clean and straightforward appearance.\nColor Scheme:\nSoft blues, grays, or greens for a calming effect.\nPlenty of white space to maintain a clean and uncluttered look.",
     "dateAdded": "2024-01-20T16:55:03.145Z"
+  },
+  {
+    "url": "https://v0.dev/t/tGQT8lTQmp8",
+    "label": "Template for prompt: creat with Django shopping site and give me codes",
+    "dateAdded": "2024-01-20T17:00:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/2PtkrNcmgdk",
+    "label": "Template for prompt: I want to build an app that user's can use to check what's new on Reddit. Basically they see only one post each time and the main content is summarized with AI (by clicking a button) if the user wants. I not they can click next to check the other posts one by one.\n\n",
+    "dateAdded": "2024-01-20T17:00:02.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/fyppRJVMqZD",
+    "label": "Template for prompt: Create a loading screen with the letter Y, it should do some kind of animation with the letter itself and make it look slick",
+    "dateAdded": "2024-01-20T17:00:02.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/7IXg2LsOa6i",
+    "label": "Template for prompt: Create me a user profile page for a CRM with an option to edit.",
+    "dateAdded": "2024-01-20T17:00:02.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/F3znHYFt6q6",
+    "label": "Template for prompt: A widget that show a Message that you can suscribe to Google news with it logo",
+    "dateAdded": "2024-01-20T17:00:02.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/vk1l2DD8iwi",
+    "label": "Template for prompt: A login page for an app called 52. An app that helps you make 52 todo lists each year to help you get organized.\n",
+    "dateAdded": "2024-01-20T17:00:02.884Z"
+  },
+  {
+    "url": "https://v0.dev/t/5dBJeRoijvV",
+    "label": "Template for prompt: a responsive navbar with animated menu toggle on mobile and dropdown on hover",
+    "dateAdded": "2024-01-20T17:00:02.884Z"
+  },
+  {
+    "url": "https://v0.dev/t/tJmrTA1d0wD",
+    "label": "Template for prompt: build this out",
+    "dateAdded": "2024-01-20T17:00:02.884Z"
+  },
+  {
+    "url": "https://v0.dev/t/6wFoN2L8EYu",
+    "label": "Template for prompt: A dashboard with a sidebar and a main area where charts are displayed",
+    "dateAdded": "2024-01-20T17:00:02.884Z"
+  },
+  {
+    "url": "https://v0.dev/t/oRS9OLFrsFB",
+    "label": "Template for prompt: List of new items mobile",
+    "dateAdded": "2024-01-20T17:00:02.884Z"
+  },
+  {
+    "url": "https://v0.dev/t/Kfd0BP8D0Cs",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T17:00:02.885Z"
+  },
+  {
+    "url": "https://v0.dev/t/NDYzS9Ceseb",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-20T17:00:02.885Z"
+  },
+  {
+    "url": "https://v0.dev/t/3DZEtkU5uRT",
+    "label": "Template for prompt: Create a navigation bar with a gradient background and white buttons with black text",
+    "dateAdded": "2024-01-20T17:00:02.885Z"
+  },
+  {
+    "url": "https://v0.dev/t/4uBThbWIPtg",
+    "label": "Template for prompt: A page where users can input event details and show us on a weekly calendar ",
+    "dateAdded": "2024-01-20T17:00:02.885Z"
+  },
+  {
+    "url": "https://v0.dev/t/do9UV4FYaqu",
+    "label": "Template for prompt: Create a progress indicator with tailwind css that looks like this",
+    "dateAdded": "2024-01-20T17:00:02.885Z"
+  },
+  {
+    "url": "https://v0.dev/t/QLaphMD5W11",
+    "label": "Template for prompt: a 1v1 card game board with 5 cards in each player hands and a board with 4 slots to play those cards into in the middle for each player",
+    "dateAdded": "2024-01-20T17:00:02.886Z"
+  },
+  {
+    "url": "https://v0.dev/t/nCM0tWoBHyP",
+    "label": "Template for prompt: loading scree while some action is being done on the server",
+    "dateAdded": "2024-01-20T17:00:02.886Z"
+  },
+  {
+    "url": "https://v0.dev/t/wh0P2oiSzG1",
+    "label": "Template for prompt: loading scree while some action is being done on the server",
+    "dateAdded": "2024-01-20T17:00:02.886Z"
+  },
+  {
+    "url": "https://v0.dev/t/4B7rsEarpn9",
+    "label": "Template for prompt: a checklist for onboarding",
+    "dateAdded": "2024-01-20T17:00:02.886Z"
+  },
+  {
+    "url": "https://v0.dev/t/baWEd3YmocX",
+    "label": "Template for prompt: A searchable dropdown with an icon at the far right and an x icon to clear the input",
+    "dateAdded": "2024-01-20T17:00:02.886Z"
+  },
+  {
+    "url": "https://v0.dev/t/SRNcA99Wpui",
+    "label": "Template for prompt: create e-commerce basket card on the header.",
+    "dateAdded": "2024-01-20T17:00:02.886Z"
+  },
+  {
+    "url": "https://v0.dev/t/ujB7Af43D4J",
+    "label": "Template for prompt: Duplicate this board game view",
+    "dateAdded": "2024-01-20T17:00:02.887Z"
+  },
+  {
+    "url": "https://v0.dev/t/pp3YlX1etkf",
+    "label": "Template for prompt: A component that display a recipe (e.g. Pasta Carbonara), with a nice hero section displaying a picture of the finished dish, a title, a description, the steps to execute the recipe with times and pictures, an edit functionality to change description and steps",
+    "dateAdded": "2024-01-20T17:00:02.887Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y79XNMXwWW2",
+    "label": "Template for prompt: I want to display tasks with the following information: task name, task due date, where the task is grouped, and then task description",
+    "dateAdded": "2024-01-20T17:00:02.887Z"
+  },
+  {
+    "url": "https://v0.dev/t/NmMhwZuzn80",
+    "label": "Template for prompt: A Dialog with 4 gamification levels, necessary actions to do to reach with a button to do them and the associated feature their unlock.",
+    "dateAdded": "2024-01-20T17:00:02.887Z"
+  },
+  {
+    "url": "https://v0.dev/t/1rVlrAi7Nwo",
+    "label": "Template for prompt: give me a default dashboard",
+    "dateAdded": "2024-01-20T17:00:02.888Z"
   }
 ]
