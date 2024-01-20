@@ -3643,5 +3643,135 @@
     "url": "https://v0.dev/t/0knmSqtw9vs",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2024-01-20T18:30:02.504Z"
+  },
+  {
+    "url": "https://v0.dev/t/jgtP0Iskpt4",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-20T18:35:03.412Z"
+  },
+  {
+    "url": "https://v0.dev/t/nlFu2rb0Kx2",
+    "label": "Template for prompt: A portfolio website which displays the photographs of a makeup artist",
+    "dateAdded": "2024-01-20T18:35:03.412Z"
+  },
+  {
+    "url": "https://v0.dev/t/U7GYPYmBKMQ",
+    "label": "Template for prompt: A SaaS platform with a timeline of actions in a transfer process where different stakeholders need to perform some of the actions were the other stakeholders can see the progress of the overall status.",
+    "dateAdded": "2024-01-20T18:35:03.413Z"
+  },
+  {
+    "url": "https://v0.dev/t/cgpVfdbj3O6",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T18:35:03.413Z"
+  },
+  {
+    "url": "https://v0.dev/t/dMH83mv1eaH",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T18:35:03.413Z"
+  },
+  {
+    "url": "https://v0.dev/t/4ypxP96uMvX",
+    "label": "Template for prompt: use accordation from shadcn and make images a carousel",
+    "dateAdded": "2024-01-20T18:35:03.413Z"
+  },
+  {
+    "url": "https://v0.dev/t/TgByEESMQ1h",
+    "label": "Template for prompt: Create a mobile design similar to this but better",
+    "dateAdded": "2024-01-20T18:35:03.413Z"
+  },
+  {
+    "url": "https://v0.dev/t/spmF31oLrJ2",
+    "label": "Template for prompt: You are an AI agent trained to transform a ChatGPT conversation into a phone screen illustration in next.js, usully this is used as a notification from an AI agent to ask permission to the human to proceed with certain task. Please generate the screen of the following conversation:\n\nGPT\nCertainly! I'll compile and present the findings in the \"Results\" section, focusing on the outcomes related to image quality improvements in neonatal brain MRI using Air Recon DL.\n\nResults\nDescriptive Statistics and Baseline Population Data\nPatient Demographics: The study included MRI scans from 60 neonatal patients (30 male, 30 female), with a mean gestational age of 37.5 weeks (range: 26-41 weeks). The primary indications for MRI included assessment of intracranial hemorrhage, evaluation of developmental anomalies, and suspicion of hypoxic-ischemic injury.\nImage Quality Assessment\nOverall Image Quality: Compared to the original MRI scans, Air Recon DL-enhanced images showed a statistically significant",
+    "dateAdded": "2024-01-20T18:35:03.414Z"
+  },
+  {
+    "url": "https://v0.dev/t/yxUZK0rzkKQ",
+    "label": "Template for prompt: Make this look better.",
+    "dateAdded": "2024-01-20T18:35:03.414Z"
+  },
+  {
+    "url": "https://v0.dev/t/oJueuN1kGvG",
+    "label": "Template for prompt: using shadcn make a button that opens a modal that shows current highest bidder and the bidding value as well as the highest bidder and shows an input to place a new bid and buttons to increment and decrement it",
+    "dateAdded": "2024-01-20T18:35:03.414Z"
+  },
+  {
+    "url": "https://v0.dev/t/pX86oQWY5xo",
+    "label": "Template for prompt: A mobile UI screen with option to select location from the select menu and cards of rides and their prices, their luggage and passanger capacity being shown below the select menu.",
+    "dateAdded": "2024-01-20T18:35:03.414Z"
+  },
+  {
+    "url": "https://v0.dev/t/9YcOay1eDQL",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-20T18:35:03.414Z"
+  },
+  {
+    "url": "https://v0.dev/t/5LBlf8N3DRE",
+    "label": "Template for prompt: generate warframe detail page which includes its name, description, armor, health and abilities",
+    "dateAdded": "2024-01-20T18:35:03.415Z"
+  },
+  {
+    "url": "https://v0.dev/t/1EwP1aH64Wy",
+    "label": "Template for prompt: a minimal payment successful component with two button. no icon is needed",
+    "dateAdded": "2024-01-20T18:35:03.415Z"
+  },
+  {
+    "url": "https://v0.dev/t/q4hRxfnw4yO",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T18:35:03.415Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ew8Bm8wfYpq",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T18:35:03.415Z"
+  },
+  {
+    "url": "https://v0.dev/t/l1staBy68iE",
+    "label": "Template for prompt: mordheim warband details",
+    "dateAdded": "2024-01-20T18:35:03.415Z"
+  },
+  {
+    "url": "https://v0.dev/t/Nq6iSlFO2ip",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T18:35:03.416Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ih7RRFvO7c0",
+    "label": "Template for prompt: mordheim warband view with available models and their attributes using tailwind",
+    "dateAdded": "2024-01-20T18:35:03.416Z"
+  },
+  {
+    "url": "https://v0.dev/t/rpAuUN16nwK",
+    "label": "Template for prompt: mordheim warband view with available models and their attributes using tailwind",
+    "dateAdded": "2024-01-20T18:35:03.416Z"
+  },
+  {
+    "url": "https://v0.dev/t/qrCtHG03LhE",
+    "label": "Template for prompt: A landing page for my real estate website",
+    "dateAdded": "2024-01-20T18:35:03.416Z"
+  },
+  {
+    "url": "https://v0.dev/t/EXNe4x9ThkJ",
+    "label": "Template for prompt: Kanban board that only has to-do sections prepared",
+    "dateAdded": "2024-01-20T18:35:03.416Z"
+  },
+  {
+    "url": "https://v0.dev/t/lrOkeLAe7MC",
+    "label": "Template for prompt: Kanban board that only has to-do sections prepared",
+    "dateAdded": "2024-01-20T18:35:03.417Z"
+  },
+  {
+    "url": "https://v0.dev/t/5VrrrPB9GIZ",
+    "label": "Template for prompt: create react app with layout that links to /posts and \"/post/:id\"\ncreate that in dark mode",
+    "dateAdded": "2024-01-20T18:35:03.417Z"
+  },
+  {
+    "url": "https://v0.dev/t/OW2tkZBMlfD",
+    "label": "Template for prompt: make a carousel where each carouselitem is a grid of 4 cards",
+    "dateAdded": "2024-01-20T18:35:03.417Z"
+  },
+  {
+    "url": "https://v0.dev/t/HmTfC5afSCm",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T18:35:03.417Z"
   }
 ]
