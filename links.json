@@ -10023,5 +10023,135 @@
     "url": "https://v0.dev/t/hUg597VLMmI",
     "label": "Template for prompt: The screen to show a user when they go to their dashboard for their pets but there are no pets to display",
     "dateAdded": "2024-01-20T22:55:03.868Z"
+  },
+  {
+    "url": "https://v0.dev/t/odNptixrXZN",
+    "label": "Template for prompt: language",
+    "dateAdded": "2024-01-20T23:00:03.646Z"
+  },
+  {
+    "url": "https://v0.dev/t/gQkJNsMZnIO",
+    "label": "Template for prompt: a modern personal financial tracking software. it connects to a user's bank account, then uses ai to group their spending inito buckets and make recomendations\nit should look BEAUTIFUL and MODERN, like an apple product. NOT LIKE a b2b or business product. a nice CONSUMER product",
+    "dateAdded": "2024-01-20T23:00:03.646Z"
+  },
+  {
+    "url": "https://v0.dev/t/zGhLnDRyC8S",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T23:00:03.646Z"
+  },
+  {
+    "url": "https://v0.dev/t/i8lWA6zn0wS",
+    "label": "Template for prompt: An application to track working hours",
+    "dateAdded": "2024-01-20T23:00:03.646Z"
+  },
+  {
+    "url": "https://v0.dev/t/QP2vSGJ15EQ",
+    "label": "Template for prompt: nextjs mobile boilerplate code for a dating app",
+    "dateAdded": "2024-01-20T23:00:03.647Z"
+  },
+  {
+    "url": "https://v0.dev/t/Dmi1lQfW3x4",
+    "label": "Template for prompt: A store to display products for business without e-commerce",
+    "dateAdded": "2024-01-20T23:00:03.647Z"
+  },
+  {
+    "url": "https://v0.dev/t/ib6VsivtUyr",
+    "label": "Template for prompt: nextjs mobile boilerplate code",
+    "dateAdded": "2024-01-20T23:00:03.647Z"
+  },
+  {
+    "url": "https://v0.dev/t/2RZay5ErnVg",
+    "label": "Template for prompt: money exchanger",
+    "dateAdded": "2024-01-20T23:00:03.647Z"
+  },
+  {
+    "url": "https://v0.dev/t/ajGax5o0Sk4",
+    "label": "Template for prompt: nextjs boilerplate code",
+    "dateAdded": "2024-01-20T23:00:03.647Z"
+  },
+  {
+    "url": "https://v0.dev/t/joR9ZaUiFwg",
+    "label": "Template for prompt: Log In and Create account",
+    "dateAdded": "2024-01-20T23:00:03.648Z"
+  },
+  {
+    "url": "https://v0.dev/t/DGlJd2vVWoY",
+    "label": "Template for prompt: make dashboard with sidebar, in bottom of siidebar add user dropdown",
+    "dateAdded": "2024-01-20T23:00:03.648Z"
+  },
+  {
+    "url": "https://v0.dev/t/8tUEvUolwos",
+    "label": "Template for prompt: an archive of cards with company information in them (website, name, description, market cap)",
+    "dateAdded": "2024-01-20T23:00:03.648Z"
+  },
+  {
+    "url": "https://v0.dev/t/7lfhjtZULdq",
+    "label": "Template for prompt: create a voting panel for voting for a map with image of each map and a name, and animate it when selecting map and add a Rösta button, for fivem and make it have nice icons and stuff",
+    "dateAdded": "2024-01-20T23:00:03.648Z"
+  },
+  {
+    "url": "https://v0.dev/t/GnEcVRyvc7p",
+    "label": "Template for prompt: Landing Page Design:\nHeader:\n\nLogo on the left (incorporating \"FiveIngredients.co\" in a clean, readable font).\nNavigation menu on the right with options like \"Home,\" \"Browse Recipes,\" \"About Us,\" and \"Contact.\"\nSearch Bar:\n\nLarge and central, encouraging immediate interaction.\nPlaceholder text: \"Search with ingredients or dish name...\"\nAn optional advanced filter button for more specific searches (e.g., dietary needs, cooking time).\nFeatured Recipes Section:\n\nA carousel or grid layout showcasing featured or popular recipes.\nHigh-quality images with recipe names and a brief description.\nHow it Works Section:\n\nBrief, engaging descriptions of how to use the website.\nIcons or small illustrations from ui.shadcn.com for visual appeal.\nFooter:\n\nLinks to social media, terms of service, privacy policy, and contact information.\nSimple, clean design consistent with the website's overall aesthetic.\nRecipe Page Design:\nRecipe Header:\n\nLarge image of the finished dish.\nRecipe name in a prominent, re",
+    "dateAdded": "2024-01-20T23:00:03.649Z"
+  },
+  {
+    "url": "https://v0.dev/t/4PtIYTpFU9O",
+    "label": "Template for prompt: make sidebar like this ",
+    "dateAdded": "2024-01-20T23:00:03.649Z"
+  },
+  {
+    "url": "https://v0.dev/t/MBHUiw5a5Qq",
+    "label": "Template for prompt: give me a panel administration, per region (chilean regions), every region can be enabled or disabled, and inside every, must be a field of max price of product limit, and another field that is the promotional shipping price",
+    "dateAdded": "2024-01-20T23:00:03.649Z"
+  },
+  {
+    "url": "https://v0.dev/t/2gHnuTg8qsO",
+    "label": "Template for prompt: A Landing page herosection for a Saas Platform,the only colurs should be black and white and it should include pictures logo title ect",
+    "dateAdded": "2024-01-20T23:00:03.649Z"
+  },
+  {
+    "url": "https://v0.dev/t/YcF7xhQdiLw",
+    "label": "Template for prompt: A Landing page herosection for a Saas Platform,the only colurs should be black and white and it should include pictures logo title ect",
+    "dateAdded": "2024-01-20T23:00:03.649Z"
+  },
+  {
+    "url": "https://v0.dev/t/k7HhB7Qr3wD",
+    "label": "Template for prompt: chat interface like whatsapp group",
+    "dateAdded": "2024-01-20T23:00:03.649Z"
+  },
+  {
+    "url": "https://v0.dev/t/NPHn3U0sTHq",
+    "label": "Template for prompt: macos spotlight",
+    "dateAdded": "2024-01-20T23:00:03.650Z"
+  },
+  {
+    "url": "https://v0.dev/t/XGbtPMx6bAj",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T23:00:03.650Z"
+  },
+  {
+    "url": "https://v0.dev/t/RJj3Q3LD9QX",
+    "label": "Template for prompt: Loading indicator",
+    "dateAdded": "2024-01-20T23:00:03.650Z"
+  },
+  {
+    "url": "https://v0.dev/t/asbhq33JW7G",
+    "label": "Template for prompt: wygeneruj mi komponent z obrazkiem na cala szerokosc, w proporcjach 16:9, max szerokosc 1440px, dodaj do niego jakis placeholder obrazek, dodaj pod nim maly figcaption z lorem ipsum na 20 znakow",
+    "dateAdded": "2024-01-20T23:00:03.650Z"
+  },
+  {
+    "url": "https://v0.dev/t/wM5Q473990K",
+    "label": "Template for prompt: A chart editor with canvas on right and chart config on left. The chart library is chart.js",
+    "dateAdded": "2024-01-20T23:00:03.650Z"
+  },
+  {
+    "url": "https://v0.dev/t/92u71uHYW2o",
+    "label": "Template for prompt: a crypto dashboard with data graphs",
+    "dateAdded": "2024-01-20T23:00:03.651Z"
+  },
+  {
+    "url": "https://v0.dev/t/xpPduXRgj6O",
+    "label": "Template for prompt: A Landing page herosection for a Saas Platform,the only colurs should be black and white and it should include pictures logo title ect",
+    "dateAdded": "2024-01-20T23:00:03.651Z"
   }
 ]
