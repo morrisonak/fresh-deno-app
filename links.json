@@ -2518,5 +2518,135 @@
     "url": "https://v0.dev/t/8zrwIWr6dzL",
     "label": "Template for prompt: website that let users ask about their health condition",
     "dateAdded": "2024-01-20T17:45:03.037Z"
+  },
+  {
+    "url": "https://v0.dev/t/jF2a77xAMDG",
+    "label": "Template for prompt: 创建一个任务面板，可以通过让用户在wallet后的一个输入框输入字符串向http://1.1.1.1/d/a 发起get请求,携带query参数，参数名为wallet_address,参数值为用户输入的字符串，等待返回值，正常运行返回结构体一般为{\n    \"code\": 0,\n    \"data\": {\n        \"funding_address\": \"bc1pq47druxg3a50h6m40zxusa3cggl8gsc5zldscszsv8fjekfmq8cs2a8d74\"\n    }\n}，如果不是正常返回的话将结果直接显示到页面上，并且要求用户重试。,再创建一个窗口允许用户修改json（{\n    \"wallet_address\": \"4\",\n    \"receive_address\": \"1\",\n    \"deposit_tx_id\": \"2\",\n    \"amount\": 10,\n    \"satsbyte\": 45,\n    \"ticker\": \"sophon\"\n}）同时将上一个接口的入参wallet_address的值填入json，点击开始按钮之后向http://1.1.1.1/d/c发起post请求，携带参数json作为body，并将结果返回到页面上。再创建一个输入框（标题为price),用户需要提供三个参数amount,satsbyte,ticker,并且校验amount为正整数，satsbyte为正整数,ticker为字符串,点击确定后向http://1.1.1.1/d/b发起get请求,携带query参数,参数名为amount，satsbyte，ticker，参数值为用户填入的值，获取返回值直接显示在页面上。上面所有的接口都需要携带header(x-api-key),对应的value在页面上提供一个窗口进行填写。所有接口的1.1.1.1也有专门的窗口进行填写。",
+    "dateAdded": "2024-01-20T17:50:03.617Z"
+  },
+  {
+    "url": "https://v0.dev/t/1fMoyuGPIES",
+    "label": "Template for prompt: genera una pagina sencilla de blog ",
+    "dateAdded": "2024-01-20T17:50:03.617Z"
+  },
+  {
+    "url": "https://v0.dev/t/MsH0nbcs0Bf",
+    "label": "Template for prompt: language select button with dropdown DE and EN with flags",
+    "dateAdded": "2024-01-20T17:50:03.617Z"
+  },
+  {
+    "url": "https://v0.dev/t/wEoAB5yUL3C",
+    "label": "Template for prompt: build a landing page for a SaaS based on a e-learning platform",
+    "dateAdded": "2024-01-20T17:50:03.618Z"
+  },
+  {
+    "url": "https://v0.dev/t/uMsggVsELJr",
+    "label": "Template for prompt: I need an mobile ui for selecting a step to multi part form.",
+    "dateAdded": "2024-01-20T17:50:03.618Z"
+  },
+  {
+    "url": "https://v0.dev/t/vmoblO0jX7n",
+    "label": "Template for prompt: Creat 404 page ",
+    "dateAdded": "2024-01-20T17:50:03.618Z"
+  },
+  {
+    "url": "https://v0.dev/t/d9Gnr5xIN19",
+    "label": "Template for prompt: a website with dashbord and a landing on it the dashboard is for uploading resume and job description then it generates cover letter the page advertices the functionality",
+    "dateAdded": "2024-01-20T17:50:03.618Z"
+  },
+  {
+    "url": "https://v0.dev/t/f1Tj1SR21yh",
+    "label": "Template for prompt: Ultimate beneficial owner mapper and editor",
+    "dateAdded": "2024-01-20T17:50:03.619Z"
+  },
+  {
+    "url": "https://v0.dev/t/h01SR0D3lUk",
+    "label": "Template for prompt: A one page webapp with a top bar header that shows the name 'CrimeScape MTL'. There needs to be a section for filters below the header. A selection between two options, horizontal selector: 'view past data",
+    "dateAdded": "2024-01-20T17:50:03.619Z"
+  },
+  {
+    "url": "https://v0.dev/t/UYDFmgEUXlO",
+    "label": "Template for prompt: صفحه لاگین",
+    "dateAdded": "2024-01-20T17:50:03.620Z"
+  },
+  {
+    "url": "https://v0.dev/t/1irFuuiHbBe",
+    "label": "Template for prompt: a table with 3 columns. these columns each have 10 rows, the first column has a text input field, the second column has a dropdown menu that says benzine, and the third column has \"toevoegen\" written in it",
+    "dateAdded": "2024-01-20T17:50:03.620Z"
+  },
+  {
+    "url": "https://v0.dev/t/CEo3poTl8vC",
+    "label": "Template for prompt: create a grid wall of photo, 5 max photo the first has with 50% and full height, the rest of 4 photo place in a grid 2x2 on the right of the first photo",
+    "dateAdded": "2024-01-20T17:50:03.621Z"
+  },
+  {
+    "url": "https://v0.dev/t/ecArRDr6538",
+    "label": "Template for prompt: A form page where the form is centered in the screen. The form is inside of a rouned container. The form has 2 inputs. The inputs are a text input named Campaign name, a text input named world name",
+    "dateAdded": "2024-01-20T17:50:03.621Z"
+  },
+  {
+    "url": "https://v0.dev/t/mqUFCSshJxS",
+    "label": "Template for prompt: generate contact page",
+    "dateAdded": "2024-01-20T17:50:03.621Z"
+  },
+  {
+    "url": "https://v0.dev/t/R7IBbPnZNfk",
+    "label": "Template for prompt: a section describing with a photo a beautician treatment ",
+    "dateAdded": "2024-01-20T17:50:03.621Z"
+  },
+  {
+    "url": "https://v0.dev/t/Mcxxy7e4P1a",
+    "label": "Template for prompt: A card component like this",
+    "dateAdded": "2024-01-20T17:50:03.621Z"
+  },
+  {
+    "url": "https://v0.dev/t/PlFOq3l5Nxb",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-20T17:50:03.622Z"
+  },
+  {
+    "url": "https://v0.dev/t/ldnLYVeWEYz",
+    "label": "Template for prompt: pagina de perrfil de usuario que solo muestre email, username, id, etc solo informacion basica de uan cuenta ",
+    "dateAdded": "2024-01-20T17:50:03.622Z"
+  },
+  {
+    "url": "https://v0.dev/t/JjRXBTzfYU0",
+    "label": "Template for prompt: header with svg icons in the left and right, and a centered navbar in between",
+    "dateAdded": "2024-01-20T17:50:03.622Z"
+  },
+  {
+    "url": "https://v0.dev/t/dU38TQYrNL5",
+    "label": "Template for prompt: testimonial section with review. Include round picture of person (avatat) Include 3 reviews: W pełni wykorzystany dzień na zobaczenie zapierających dech miejsc. Konrad był bardzo tolerancyjny, cała wycieczka bez pośpiechu i niepotrzebnej spiny. Czyli wszytko to na czym nam zależało podczas wycieczki. Piękne widoki, pyszne jedzenie, znakomite wino +świetne towarzystwo = 100% zadowolenia\n\t\nAnna\nKraków\n5/5\nPrzeżyliśmy cudowną przygodę dzięki Malgorzacie i Konradowi z Odkrywamy Cypr . Wycieczka super wesoło i ciekawie . Polecamy każdemu kto zechce odwiedzić Cypr.\n\t\nKarol\nChojnice\n4.6/5\nZ całego serca polecamy Odkrywamy Cypr. Cudownie spędzony dzień na podziwianiu przepięknych miejsc w niesamowicie ciepłej i przyjaznej atmosferze, pyszny wspólny posiłek, piękne pamiątki w postaci zdjęć, które wykonała nam Gosia. Jesteśmy bardzo zadowoleni z wyboru 😍 I z całego serca jeszcze raz Wam DZIĘKUJEMY\nwoman, beauty, outdoors-8293297.jpg\t\nGosia\nŁódź",
+    "dateAdded": "2024-01-20T17:50:03.622Z"
+  },
+  {
+    "url": "https://v0.dev/t/2T7LOwHvTKE",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T17:50:03.623Z"
+  },
+  {
+    "url": "https://v0.dev/t/p2CXP4M45d2",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-20T17:50:03.623Z"
+  },
+  {
+    "url": "https://v0.dev/t/D19J6wwPonL",
+    "label": "Template for prompt: a 404 page. creative and funny",
+    "dateAdded": "2024-01-20T17:50:03.623Z"
+  },
+  {
+    "url": "https://v0.dev/t/YS5GKk7dBxO",
+    "label": "Template for prompt: a \"report an issue\" modal",
+    "dateAdded": "2024-01-20T17:50:03.624Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yse4h41425M",
+    "label": "Template for prompt: Form for entering personal and company details. Personal: first name and last name. Company: name, address, city, postcode, country",
+    "dateAdded": "2024-01-20T17:50:03.624Z"
+  },
+  {
+    "url": "https://v0.dev/t/9gmaY3qqJyE",
+    "label": "Template for prompt: create a skeleton loadre for this page",
+    "dateAdded": "2024-01-20T17:50:03.625Z"
   }
 ]
