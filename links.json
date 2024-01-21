@@ -13218,5 +13218,125 @@
     "url": "https://v0.dev/t/7c2amfUaoe8",
     "label": "Template for prompt: not found page",
     "dateAdded": "2024-01-21T01:00:03.656Z"
+  },
+  {
+    "url": "https://v0.dev/t/t0MHTjCLEjO",
+    "label": "Template for prompt: League of legends player display stats",
+    "dateAdded": "2024-01-21T01:05:02.615Z"
+  },
+  {
+    "url": "https://v0.dev/t/6rjK7PaxtJ3",
+    "label": "Template for prompt: Create a blog like page for todo list, which\n- Diplays image on the top \n- Displays headline: e.g.  Taylor Swift's Morning Routine To Do List: A Glimpse into the Pop Icon's Day\n- Display description of the todo list: e.g.  Taylor Swift, the multi-award-winning singer-songwriter, has a morning routine that reflects her dedication to her craft and personal well-being. Known for her catchy tunes and narrative songwriting, Swift's daily schedule is as intriguing as her music. This report delves into the intricacies of her morning activities, providing a comprehensive look at how she starts her day.\n- Display to-do list items with time of the day, title, description and sub items. e.g. 1. 7.00 am Wake up early (he first moments of her morning are spent in the company of her beloved cats) 2. 8:30 am Excercise  3. Healthy meal and hydration",
+    "dateAdded": "2024-01-21T01:05:02.615Z"
+  },
+  {
+    "url": "https://v0.dev/t/uiLQVvKenI2",
+    "label": "Template for prompt: apage where you can search for cards, given a few filters",
+    "dateAdded": "2024-01-21T01:05:02.615Z"
+  },
+  {
+    "url": "https://v0.dev/t/8dUp9Zdcxg8",
+    "label": "Template for prompt: use thie thema rgb(5,179,131) and create not found page",
+    "dateAdded": "2024-01-21T01:05:02.615Z"
+  },
+  {
+    "url": "https://v0.dev/t/IoDKLsEZ1FA",
+    "label": "Template for prompt: nextjs dashboard layout with header and sidebar",
+    "dateAdded": "2024-01-21T01:05:02.616Z"
+  },
+  {
+    "url": "https://v0.dev/t/DllUiyhxVCu",
+    "label": "Template for prompt: A left side component and right side component, where the left side component is takes up 30% of the screen and right side 70%",
+    "dateAdded": "2024-01-21T01:05:02.616Z"
+  },
+  {
+    "url": "https://v0.dev/t/EbUEphxcmyE",
+    "label": "Template for prompt: a welcome page for a wedding gift list",
+    "dateAdded": "2024-01-21T01:05:02.616Z"
+  },
+  {
+    "url": "https://v0.dev/t/Bo3U7kgGBi4",
+    "label": "Template for prompt: Make this settings page look better.",
+    "dateAdded": "2024-01-21T01:05:02.616Z"
+  },
+  {
+    "url": "https://v0.dev/t/OpkYFebXzB1",
+    "label": "Template for prompt: A chrome extension named \"Poly+\"'s website homepage",
+    "dateAdded": "2024-01-21T01:05:02.616Z"
+  },
+  {
+    "url": "https://v0.dev/t/ByZh8PajemU",
+    "label": "Template for prompt: minimalistic pomodoro timer.",
+    "dateAdded": "2024-01-21T01:05:02.616Z"
+  },
+  {
+    "url": "https://v0.dev/t/hOBwZw7Cl2q",
+    "label": "Template for prompt: Make a storefront with html and css only",
+    "dateAdded": "2024-01-21T01:05:02.616Z"
+  },
+  {
+    "url": "https://v0.dev/t/cUod9Tw8IJf",
+    "label": "Template for prompt: not found",
+    "dateAdded": "2024-01-21T01:05:02.617Z"
+  },
+  {
+    "url": "https://v0.dev/t/7cAxrSMWO6m",
+    "label": "Template for prompt: making personal blog website",
+    "dateAdded": "2024-01-21T01:05:02.617Z"
+  },
+  {
+    "url": "https://v0.dev/t/HroQsmYfzQk",
+    "label": "Template for prompt: A stat component that says \"You've opened N Apex Packs\", where N is a large number with some word wrap",
+    "dateAdded": "2024-01-21T01:05:02.617Z"
+  },
+  {
+    "url": "https://v0.dev/t/eWVnxoLd8xg",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-21T01:05:02.617Z"
+  },
+  {
+    "url": "https://v0.dev/t/crEis9xKFSe",
+    "label": "Template for prompt: a desktop screen with popup on top right",
+    "dateAdded": "2024-01-21T01:05:02.617Z"
+  },
+  {
+    "url": "https://v0.dev/t/lpsItFB3dFI",
+    "label": "Template for prompt: a modal that contains a course info: an image, a title, a subtitle, free or paid, a resource link to get the course, the course-technology, the course-type (front-end or back-end), the author info (name and country), the course language (spanish or english), and the course comments allready given by other users. It has to be a modal, not an entire page.",
+    "dateAdded": "2024-01-21T01:05:02.617Z"
+  },
+  {
+    "url": "https://v0.dev/t/olhqsA6soqP",
+    "label": "Template for prompt: form friendly with 10 inputs and black or white theme",
+    "dateAdded": "2024-01-21T01:05:02.617Z"
+  },
+  {
+    "url": "https://v0.dev/t/WQ8NpwpPoB6",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-21T01:05:02.617Z"
+  },
+  {
+    "url": "https://v0.dev/t/HMLCDJZSe6y",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-21T01:05:02.618Z"
+  },
+  {
+    "url": "https://v0.dev/t/fXtjoG7MGk4",
+    "label": "Template for prompt: Build an interface to complete the following user journey\nAs a user looking at the control panel\nI see a list of buttons with available floor numbers\nWhen I press a floor number.\nThen the number elevator to take is displayed and an arrow pointing in the direction of the elevator displayed.",
+    "dateAdded": "2024-01-21T01:05:02.618Z"
+  },
+  {
+    "url": "https://v0.dev/t/pFwWaiaJJte",
+    "label": "Template for prompt: generate search box in nav bar ",
+    "dateAdded": "2024-01-21T01:05:02.618Z"
+  },
+  {
+    "url": "https://v0.dev/t/fpQAj1pmdG0",
+    "label": "Template for prompt: Create a Redirect page for users to click the auth/callback link.\n\n1. SIngle button in the center \"Get Started\".\n2. Some generic copy to tell them to get the show on the road.",
+    "dateAdded": "2024-01-21T01:05:02.618Z"
+  },
+  {
+    "url": "https://v0.dev/t/uusLNdg9bhp",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-21T01:05:02.618Z"
   }
 ]
