@@ -15368,5 +15368,130 @@
     "url": "https://v0.dev/t/ygtGnP5cfJq",
     "label": "Template for prompt: 요즘 트렌드 디자인 웹사이트 만들어줘",
     "dateAdded": "2024-01-21T02:25:03.007Z"
+  },
+  {
+    "url": "https://v0.dev/t/sXdHVVra78b",
+    "label": "Template for prompt: create a cleaning home page",
+    "dateAdded": "2024-01-21T02:30:03.639Z"
+  },
+  {
+    "url": "https://v0.dev/t/8epIQtVTa5C",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T02:30:03.639Z"
+  },
+  {
+    "url": "https://v0.dev/t/3e9QDYrHtx1",
+    "label": "Template for prompt: Build me a website that shows me the price of a house. You'll need a place to enter an address, and below that, you'll need to list the \"5 most expensive homes,\" \"5 most expensive homes,\" and \"5 least expensive homes\".",
+    "dateAdded": "2024-01-21T02:30:03.639Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qg5JqEcptHH",
+    "label": "Template for prompt: table of images with a column for the image and a column for the caption\nheader bar for the list has an arbitrary keywords group and a pasting area",
+    "dateAdded": "2024-01-21T02:30:03.640Z"
+  },
+  {
+    "url": "https://v0.dev/t/3fq28I3hdSW",
+    "label": "Template for prompt: create a page with a form that has several input fields  contained within multiple steps for a purchase order. the page should enable onboarding the user, and hand hold them through the process",
+    "dateAdded": "2024-01-21T02:30:03.640Z"
+  },
+  {
+    "url": "https://v0.dev/t/dLvSPPZZJX0",
+    "label": "Template for prompt: list of images with a column for caption\nheader bar for the list has a keywords list and a pasting area",
+    "dateAdded": "2024-01-21T02:30:03.640Z"
+  },
+  {
+    "url": "https://v0.dev/t/mEaWIC1MgYV",
+    "label": "Template for prompt: an app that helps people track the price of the product they have purchased from costco. It will allow the customer add the purchase information by uploading image of the receipt or take a picture in app. and later notify user once the price dropped so the customer can do the price adjustment to get money back. ",
+    "dateAdded": "2024-01-21T02:30:03.640Z"
+  },
+  {
+    "url": "https://v0.dev/t/IqfjqO2Ap7f",
+    "label": "Template for prompt: make a webite fiesta online gamigo",
+    "dateAdded": "2024-01-21T02:30:03.641Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yk7chXggSc9",
+    "label": "Template for prompt: 4 piece bento grid",
+    "dateAdded": "2024-01-21T02:30:03.641Z"
+  },
+  {
+    "url": "https://v0.dev/t/dcTuxqkrAVL",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T02:30:03.641Z"
+  },
+  {
+    "url": "https://v0.dev/t/0I5mN3z4Rqn",
+    "label": "Template for prompt: create a table for erp inventory management software",
+    "dateAdded": "2024-01-21T02:30:03.641Z"
+  },
+  {
+    "url": "https://v0.dev/t/3lyCCK1JZ3h",
+    "label": "Template for prompt: make a twitch clone",
+    "dateAdded": "2024-01-21T02:30:03.641Z"
+  },
+  {
+    "url": "https://v0.dev/t/xR2dbwfV0h0",
+    "label": "Template for prompt: management 시스템 디자인",
+    "dateAdded": "2024-01-21T02:30:03.642Z"
+  },
+  {
+    "url": "https://v0.dev/t/BwGCRYq7Axx",
+    "label": "Template for prompt: make a online account generator website like minecraft spotify netflix etc.",
+    "dateAdded": "2024-01-21T02:30:03.642Z"
+  },
+  {
+    "url": "https://v0.dev/t/tbOkl6SNC2T",
+    "label": "Template for prompt: a account generator website",
+    "dateAdded": "2024-01-21T02:30:03.642Z"
+  },
+  {
+    "url": "https://v0.dev/t/tYmfCXPsyHm",
+    "label": "Template for prompt: Dashboard for watching user growth and subscriptions for a saas app",
+    "dateAdded": "2024-01-21T02:30:03.642Z"
+  },
+  {
+    "url": "https://v0.dev/t/9Q96QtB4t4D",
+    "label": "Template for prompt: an app that helps people track the price of the product they have purchased. It will allow the customer add the purchase information by uploading image of the receipt or take a picture in app. and later notify user once the price dropped. ",
+    "dateAdded": "2024-01-21T02:30:03.642Z"
+  },
+  {
+    "url": "https://v0.dev/t/bfDk184ZXiA",
+    "label": "Template for prompt: react web site",
+    "dateAdded": "2024-01-21T02:30:03.643Z"
+  },
+  {
+    "url": "https://v0.dev/t/qt5YIlT2CiD",
+    "label": "Template for prompt: 7 days itinerary for visiting a city.  Every day object should contain of 'breakfast', 'lunch' and 'dinner' fields along with the 'forenoonActivities' field for activities between breakfast and lunch, and 'afternoonActivities' for activities between lunch and dinner. 'forenoonActivities' and 'afternoonActivities' are arrays of objects. Every leaf object should contain of 'title' field and 'description' field which should give a detailed description.",
+    "dateAdded": "2024-01-21T02:30:03.643Z"
+  },
+  {
+    "url": "https://v0.dev/t/36j3qBZmYHK",
+    "label": "Template for prompt: design a simple thank you page for a user that just purchased something",
+    "dateAdded": "2024-01-21T02:30:03.643Z"
+  },
+  {
+    "url": "https://v0.dev/t/otPKwRR4qAh",
+    "label": "Template for prompt: 7 day trip itinerary",
+    "dateAdded": "2024-01-21T02:30:03.643Z"
+  },
+  {
+    "url": "https://v0.dev/t/LC52YCrV278",
+    "label": "Template for prompt: Tool that can customize menstrual cups",
+    "dateAdded": "2024-01-21T02:30:03.643Z"
+  },
+  {
+    "url": "https://v0.dev/t/3SpbCErc83Y",
+    "label": "Template for prompt: a severance calculator for job seekers",
+    "dateAdded": "2024-01-21T02:30:03.644Z"
+  },
+  {
+    "url": "https://v0.dev/t/efwwiB7UsIs",
+    "label": "Template for prompt: Email marketing app",
+    "dateAdded": "2024-01-21T02:30:03.644Z"
+  },
+  {
+    "url": "https://v0.dev/t/ygtGnP5cfJq",
+    "label": "Template for prompt: 요즘 트렌드 디자인 웹사이트 만들어줘",
+    "dateAdded": "2024-01-21T02:30:03.644Z"
   }
 ]
