@@ -27743,5 +27743,135 @@
     "url": "https://v0.dev/t/sbPZngGbsvC",
     "label": "Template for prompt: footer",
     "dateAdded": "2024-01-21T23:15:03.720Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ct7TWwi5Jbv",
+    "label": "Template for prompt: A chat application",
+    "dateAdded": "2024-01-21T23:20:03.357Z"
+  },
+  {
+    "url": "https://v0.dev/t/22AyKemRr6k",
+    "label": "Template for prompt: recreate this leaderboard homepage",
+    "dateAdded": "2024-01-21T23:20:03.357Z"
+  },
+  {
+    "url": "https://v0.dev/t/wV5nvT1M4gw",
+    "label": "Template for prompt: can you help me build this into code",
+    "dateAdded": "2024-01-21T23:20:03.357Z"
+  },
+  {
+    "url": "https://v0.dev/t/oq51jZFOUMM",
+    "label": "Template for prompt: can you help me build this into code",
+    "dateAdded": "2024-01-21T23:20:03.357Z"
+  },
+  {
+    "url": "https://v0.dev/t/yutTUvOtR4t",
+    "label": "Template for prompt: can you help me build this into code",
+    "dateAdded": "2024-01-21T23:20:03.358Z"
+  },
+  {
+    "url": "https://v0.dev/t/wBB0tZlqrJ1",
+    "label": "Template for prompt: kanban board",
+    "dateAdded": "2024-01-21T23:20:03.358Z"
+  },
+  {
+    "url": "https://v0.dev/t/jGCW9x3Wm3A",
+    "label": "Template for prompt: Give me a UI with a modern sidebar, and a card based system for monitoring websites",
+    "dateAdded": "2024-01-21T23:20:03.358Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZxFwq2UKrc1",
+    "label": "Template for prompt: create a bottom mobile swipe up menu that have:\n\nname, number, description fields inputs, and a button with a GPS logo to go to another view to select the point on map to create",
+    "dateAdded": "2024-01-21T23:20:03.358Z"
+  },
+  {
+    "url": "https://v0.dev/t/ck3uJmEyWgP",
+    "label": "Template for prompt: get a detailed component from the image",
+    "dateAdded": "2024-01-21T23:20:03.358Z"
+  },
+  {
+    "url": "https://v0.dev/t/fZVXHvJld5c",
+    "label": "Template for prompt: A multi steps form to create a new user",
+    "dateAdded": "2024-01-21T23:20:03.359Z"
+  },
+  {
+    "url": "https://v0.dev/t/FKFq4I62WGA",
+    "label": "Template for prompt: dashoboard",
+    "dateAdded": "2024-01-21T23:20:03.359Z"
+  },
+  {
+    "url": "https://v0.dev/t/JKtJ5igfW5P",
+    "label": "Template for prompt: A navbar where hovering over the buttons will expand a subwindow",
+    "dateAdded": "2024-01-21T23:20:03.359Z"
+  },
+  {
+    "url": "https://v0.dev/t/sLM6nOr1bVl",
+    "label": "Template for prompt: account setting screen",
+    "dateAdded": "2024-01-21T23:20:03.359Z"
+  },
+  {
+    "url": "https://v0.dev/t/h0QOBb8ynvB",
+    "label": "Template for prompt: A cute blog home page",
+    "dateAdded": "2024-01-21T23:20:03.359Z"
+  },
+  {
+    "url": "https://v0.dev/t/xiCXTomldGV",
+    "label": "Template for prompt: A website to download gifs and memes from. Optimize it for mobile",
+    "dateAdded": "2024-01-21T23:20:03.359Z"
+  },
+  {
+    "url": "https://v0.dev/t/6iDOJ6sCBY7",
+    "label": "Template for prompt: Can you create this inputs",
+    "dateAdded": "2024-01-21T23:20:03.360Z"
+  },
+  {
+    "url": "https://v0.dev/t/r9IoVyR1DjF",
+    "label": "Template for prompt: A website for downloading memes",
+    "dateAdded": "2024-01-21T23:20:03.360Z"
+  },
+  {
+    "url": "https://v0.dev/t/sVZBxaqKKo9",
+    "label": "Template for prompt:  A personal finance application for tracking expenses, setting budgets, and generating reports",
+    "dateAdded": "2024-01-21T23:20:03.360Z"
+  },
+  {
+    "url": "https://v0.dev/t/UU3hE9oSD2Z",
+    "label": "Template for prompt: clone of roadmap redis vercel ",
+    "dateAdded": "2024-01-21T23:20:03.360Z"
+  },
+  {
+    "url": "https://v0.dev/t/aeTIqTqAO8h",
+    "label": "Template for prompt: a weather app looks like a nice IOS weather app",
+    "dateAdded": "2024-01-21T23:20:03.360Z"
+  },
+  {
+    "url": "https://v0.dev/t/TY7WpfQaPdR",
+    "label": "Template for prompt: make a ecommerce cart page make it modern and stylish. ",
+    "dateAdded": "2024-01-21T23:20:03.360Z"
+  },
+  {
+    "url": "https://v0.dev/t/owJgIRkZNKs",
+    "label": "Template for prompt: create a beautiful template for a website for job oportunities",
+    "dateAdded": "2024-01-21T23:20:03.361Z"
+  },
+  {
+    "url": "https://v0.dev/t/tL1UYvpMtSb",
+    "label": "Template for prompt: file browser next to a code editor",
+    "dateAdded": "2024-01-21T23:20:03.361Z"
+  },
+  {
+    "url": "https://v0.dev/t/mHuP3CSIdSP",
+    "label": "Template for prompt: A technical report with four sections. Mechanical engineering calculations\n",
+    "dateAdded": "2024-01-21T23:20:03.361Z"
+  },
+  {
+    "url": "https://v0.dev/t/b4wjcMeqSvt",
+    "label": "Template for prompt: A trading platform",
+    "dateAdded": "2024-01-21T23:20:03.361Z"
+  },
+  {
+    "url": "https://v0.dev/t/fjBzyKTWE3E",
+    "label": "Template for prompt: A page for a user \"post\" which contains the following elements: title, creator, updated date, link, visibility indicator (whether it is a public or private post), and a list of cards, each of which has a title, icon, description, and category",
+    "dateAdded": "2024-01-21T23:20:03.362Z"
   }
 ]
