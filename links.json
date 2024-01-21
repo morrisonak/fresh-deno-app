@@ -21203,5 +21203,135 @@
     "url": "https://v0.dev/t/aQPhn7Apccg",
     "label": "Template for prompt: create an about us page",
     "dateAdded": "2024-01-21T18:35:03.314Z"
+  },
+  {
+    "url": "https://v0.dev/t/FjjEUe8G0CE",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T18:40:03.773Z"
+  },
+  {
+    "url": "https://v0.dev/t/zbtVMbCgzFJ",
+    "label": "Template for prompt: Make a 15×15 gridded go board game",
+    "dateAdded": "2024-01-21T18:40:03.774Z"
+  },
+  {
+    "url": "https://v0.dev/t/1CBBgV54yZK",
+    "label": "Template for prompt: a table with a list of invoices to be paid. when you click on an invoice, it opens a new page with the details of the invoice and the ability to pay it.",
+    "dateAdded": "2024-01-21T18:40:03.774Z"
+  },
+  {
+    "url": "https://v0.dev/t/cZcrYzyEY9E",
+    "label": "Template for prompt: A tailwind select with icons next to items",
+    "dateAdded": "2024-01-21T18:40:03.774Z"
+  },
+  {
+    "url": "https://v0.dev/t/UB6jlPj4m1G",
+    "label": "Template for prompt: create a table where you can filter by name or manager, columns should be broken down by day of the week and be able to select a time in the cell for the associated day and employee",
+    "dateAdded": "2024-01-21T18:40:03.775Z"
+  },
+  {
+    "url": "https://v0.dev/t/IJIhGbsF6ie",
+    "label": "Template for prompt: a business website with great looking visuals and different colors like yellow, blue , green and use great looking svgs to design the page the header should be fixed add about, services, pricing, case studies, developers and team, blogs, testimonials, contact, get a quote should have many input fields like name, email, company, title, selections etc. and customer portal",
+    "dateAdded": "2024-01-21T18:40:03.775Z"
+  },
+  {
+    "url": "https://v0.dev/t/nmjmZbGd2MV",
+    "label": "Template for prompt: Make this board for gomoku",
+    "dateAdded": "2024-01-21T18:40:03.775Z"
+  },
+  {
+    "url": "https://v0.dev/t/ydfHTPdrWsx",
+    "label": "Template for prompt: Make this board for gomoku",
+    "dateAdded": "2024-01-21T18:40:03.775Z"
+  },
+  {
+    "url": "https://v0.dev/t/9aH1V6bi46a",
+    "label": "Template for prompt: present in a pleasant manner a series of links of timings in a youtube video",
+    "dateAdded": "2024-01-21T18:40:03.775Z"
+  },
+  {
+    "url": "https://v0.dev/t/XhLpUJruJBx",
+    "label": "Template for prompt: Generate an interface for this BJCP scoresheet",
+    "dateAdded": "2024-01-21T18:40:03.776Z"
+  },
+  {
+    "url": "https://v0.dev/t/Je6AL2vgbdq",
+    "label": "Template for prompt: Landing page for a e-commerce website. With product display section.",
+    "dateAdded": "2024-01-21T18:40:03.776Z"
+  },
+  {
+    "url": "https://v0.dev/t/JAtsUgI9Lm5",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T18:40:03.776Z"
+  },
+  {
+    "url": "https://v0.dev/t/BYtXK69skDr",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-21T18:40:03.776Z"
+  },
+  {
+    "url": "https://v0.dev/t/4vARjySrzIV",
+    "label": "Template for prompt: create a background use vanilla css",
+    "dateAdded": "2024-01-21T18:40:03.776Z"
+  },
+  {
+    "url": "https://v0.dev/t/zWZe71nWyKc",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-21T18:40:03.777Z"
+  },
+  {
+    "url": "https://v0.dev/t/pMB2aPv0YCV",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-21T18:40:03.777Z"
+  },
+  {
+    "url": "https://v0.dev/t/H4BNlXMHl9q",
+    "label": "Template for prompt: create a canned report template for different lob's for analysis in insurance domain",
+    "dateAdded": "2024-01-21T18:40:03.777Z"
+  },
+  {
+    "url": "https://v0.dev/t/YKSJlrrR1lr",
+    "label": "Template for prompt: create Avatar component using React module  sass scss BEM method. \n\nmake it reusable & Material design",
+    "dateAdded": "2024-01-21T18:40:03.777Z"
+  },
+  {
+    "url": "https://v0.dev/t/F69uIWm3KsK",
+    "label": "Template for prompt: A landing page in dark mode with a cyberpunk design style. The name of the company in large letters, a desciption hero section and then some tiles that preview and link to subpages. ",
+    "dateAdded": "2024-01-21T18:40:03.777Z"
+  },
+  {
+    "url": "https://v0.dev/t/7nxYWLyVZml",
+    "label": "Template for prompt: یک دکمه دانلود برام طراحی کن",
+    "dateAdded": "2024-01-21T18:40:03.777Z"
+  },
+  {
+    "url": "https://v0.dev/t/fetcPqKq9QK",
+    "label": "Template for prompt: a responsive navbar with the profile section on the left",
+    "dateAdded": "2024-01-21T18:40:03.777Z"
+  },
+  {
+    "url": "https://v0.dev/t/cU4wiUX4Na4",
+    "label": "Template for prompt: a charachter creator sidebar with face shape selection, hair color etc",
+    "dateAdded": "2024-01-21T18:40:03.778Z"
+  },
+  {
+    "url": "https://v0.dev/t/jQT7AEulHiQ",
+    "label": "Template for prompt: artist lineup for an event",
+    "dateAdded": "2024-01-21T18:40:03.778Z"
+  },
+  {
+    "url": "https://v0.dev/t/6L8N5GfC3RE",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T18:40:03.778Z"
+  },
+  {
+    "url": "https://v0.dev/t/jCB4VXuezC0",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T18:40:03.778Z"
+  },
+  {
+    "url": "https://v0.dev/t/A2yuVLQwXhO",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T18:40:03.778Z"
   }
 ]
