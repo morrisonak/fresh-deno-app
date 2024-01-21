@@ -26833,5 +26833,135 @@
     "url": "https://v0.dev/t/naIPCw38V6y",
     "label": "Template for prompt: A netflix site",
     "dateAdded": "2024-01-21T22:40:03.409Z"
+  },
+  {
+    "url": "https://v0.dev/t/v75JzshIw9r",
+    "label": "Template for prompt: create a four \"empty state\" boxes that resemble the attached image.  Use JSX and TailwindCSS\n\n",
+    "dateAdded": "2024-01-21T22:45:02.949Z"
+  },
+  {
+    "url": "https://v0.dev/t/wfFKMype21m",
+    "label": "Template for prompt: Form where user can enter links for products they want to track the price. They can give a name and enter links",
+    "dateAdded": "2024-01-21T22:45:02.949Z"
+  },
+  {
+    "url": "https://v0.dev/t/a4Q2ikVjPvW",
+    "label": "Template for prompt: replicate",
+    "dateAdded": "2024-01-21T22:45:02.949Z"
+  },
+  {
+    "url": "https://v0.dev/t/dDrrTlJDeXG",
+    "label": "Template for prompt: make a bento box using shadcn",
+    "dateAdded": "2024-01-21T22:45:02.949Z"
+  },
+  {
+    "url": "https://v0.dev/t/x01EOtA6N9u",
+    "label": "Template for prompt: a homepage for a bill splitting app ",
+    "dateAdded": "2024-01-21T22:45:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/mZQHXscBbhN",
+    "label": "Template for prompt: I need a ui for my landing page that describes 2 functions of the application in demo mode and there is a button for each option that indicates to test the 2 options in the role of creator/user.",
+    "dateAdded": "2024-01-21T22:45:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/VUO1JqyvCUt",
+    "label": "Template for prompt: make a dashboard page with dark theme having a 4 boxes one having text named roullete one mines one crash one user info and ad dplace holder stuff for all of them",
+    "dateAdded": "2024-01-21T22:45:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/un3MphYi3Mh",
+    "label": "Template for prompt: Can you solve math problems and read research paper ",
+    "dateAdded": "2024-01-21T22:45:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/X63BR8rtcQn",
+    "label": "Template for prompt: project tracker application with similar features to linear",
+    "dateAdded": "2024-01-21T22:45:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/OU0DMBSQ2p2",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T22:45:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/vlgPsDtKqz3",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T22:45:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/92mpGixnCvg",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T22:45:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/dE37QPm3TWp",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T22:45:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/Kh7XvSBQyaJ",
+    "label": "Template for prompt: generate a select field that shows a category name on the dropdown and the value is the category id which is a number",
+    "dateAdded": "2024-01-21T22:45:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/fzwJPnpYotX",
+    "label": "Template for prompt: section which has background image cover with color overlay on top. Title and text with button on vertical and horizontal center.",
+    "dateAdded": "2024-01-21T22:45:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/n6643GezWJ7",
+    "label": "Template for prompt: month year picker",
+    "dateAdded": "2024-01-21T22:45:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/FqhBh2tUFx1",
+    "label": "Template for prompt: A dashboard for managing therapy clients. The structure is there are multiple clients. Each client can have a number of goals. Each goal has a number of objectives. ",
+    "dateAdded": "2024-01-21T22:45:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/NTGWDulUF2h",
+    "label": "Template for prompt: an advanced gui for my Stable Diffusion image generation website",
+    "dateAdded": "2024-01-21T22:45:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/WaBLpgYzmxv",
+    "label": "Template for prompt: generate a dashboard to manage clients and appointments for a shop in the beauty industry eg barbershop",
+    "dateAdded": "2024-01-21T22:45:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/juLAC4uAtiY",
+    "label": "Template for prompt: \"Diseña la interfaz de administración de desarrollo para gestionar los módulos y páginas del sistema. La herramienta debe permitir a los desarrolladores:\n\nListado de Módulos:\n\nUna sección que muestra todos los módulos existentes en el sistema.\nCada módulo puede ser colapsable para revelar sus páginas y submódulos.\nCreación y Edición de Módulos:\n\nFormulario para la creación de nuevos módulos.\nFuncionalidad para editar la información existente de cada módulo.\nListado de Páginas:\n\nDentro de cada módulo, muestra una lista de las páginas asociadas.\nLas páginas también pueden ser colapsables para mostrar subpáginas.\nCreación y Edición de Páginas:\n\nFormulario para crear nuevas páginas dentro de un módulo.\nPosibilidad de editar la información existente de cada página.\nPermisos y Visibilidad:\n\nAsocia permisos a cada módulo y página para garantizar que solo los usuarios autorizados puedan ver y acceder a ciertos elementos.\nDiseño Intuitivo:\n\nUtiliza un diseño intuitivo que refleje la estructura ",
+    "dateAdded": "2024-01-21T22:45:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/Insu6DLOPbF",
+    "label": "Template for prompt: Create a page list of products where each item displays a photo, name, price, a button to view more, and a purchase option.",
+    "dateAdded": "2024-01-21T22:45:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/CyXnr1K0thv",
+    "label": "Template for prompt: create table with Epmloyee name, email, shift started, break stated, break ended, shift ended, and total worked hours ",
+    "dateAdded": "2024-01-21T22:45:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/dQJ38CJ5zsD",
+    "label": "Template for prompt: Home Construction service landing page. Simple. Sales funnel. Modern. ",
+    "dateAdded": "2024-01-21T22:45:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/KsiRQqx0PGw",
+    "label": "Template for prompt: create header on white background with 4 colorflull and filled in icons in the center of the screen and next to each other to represent lifes (heart), coins, streak, gold bar, jouverly diomond. Add some numbers to each icon.",
+    "dateAdded": "2024-01-21T22:45:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/XHzHYRalbsg",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-21T22:45:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yfj2BeBO9UO",
+    "label": "Template for prompt: a ticket dashboard like jira to manage tickets with three status column \"TODO\", \"IN PROGRESS\", \"DONE\" ",
+    "dateAdded": "2024-01-21T22:45:02.952Z"
   }
 ]
