@@ -20578,5 +20578,130 @@
     "url": "https://v0.dev/t/sVmMoMzVFdu",
     "label": "Template for prompt: doctors listing in gallery view one page website, footer at bottom, hero image on top and top nav bar",
     "dateAdded": "2024-01-21T18:10:02.984Z"
+  },
+  {
+    "url": "https://v0.dev/t/0GP6FniXASf",
+    "label": "Template for prompt: Application des gestion des notes",
+    "dateAdded": "2024-01-21T18:15:03.620Z"
+  },
+  {
+    "url": "https://v0.dev/t/s7xMuOnljkf",
+    "label": "Template for prompt: Application des gestion des notes",
+    "dateAdded": "2024-01-21T18:15:03.622Z"
+  },
+  {
+    "url": "https://v0.dev/t/GkFaksl7OnL",
+    "label": "Template for prompt: a restaurant seating floor plan app",
+    "dateAdded": "2024-01-21T18:15:03.623Z"
+  },
+  {
+    "url": "https://v0.dev/t/M5Pr4OfhdzJ",
+    "label": "Template for prompt: puedes hacer un apartado de about con fotos y nombre de la persona y puesto de este",
+    "dateAdded": "2024-01-21T18:15:03.625Z"
+  },
+  {
+    "url": "https://v0.dev/t/GXMlRKAsHwZ",
+    "label": "Template for prompt: A collection of categories in a sidebar",
+    "dateAdded": "2024-01-21T18:15:03.627Z"
+  },
+  {
+    "url": "https://v0.dev/t/hb2dpSUdn5t",
+    "label": "Template for prompt: Image gallery of architect projects",
+    "dateAdded": "2024-01-21T18:15:03.628Z"
+  },
+  {
+    "url": "https://v0.dev/t/1QFXOeejHoh",
+    "label": "Template for prompt: A login mobile ui with orange and blue theme ",
+    "dateAdded": "2024-01-21T18:15:03.628Z"
+  },
+  {
+    "url": "https://v0.dev/t/ubleDKvgWr2",
+    "label": "Template for prompt: a app for gym booking",
+    "dateAdded": "2024-01-21T18:15:03.629Z"
+  },
+  {
+    "url": "https://v0.dev/t/5jDghXcVnQ1",
+    "label": "Template for prompt: a dashboard list component to display questions and options with CRUD action buttons on the end of question",
+    "dateAdded": "2024-01-21T18:15:03.630Z"
+  },
+  {
+    "url": "https://v0.dev/t/uHD5SbAXp8k",
+    "label": "Template for prompt: create a counter session with 4 columns and decription to each above number",
+    "dateAdded": "2024-01-21T18:15:03.631Z"
+  },
+  {
+    "url": "https://v0.dev/t/phtof582wn7",
+    "label": "Template for prompt: vertical stepper form of 3 inputs, the first is a file drop area, second is simple input, and the thired is a dropdown selection",
+    "dateAdded": "2024-01-21T18:15:03.631Z"
+  },
+  {
+    "url": "https://v0.dev/t/XEqBkb0P2Sr",
+    "label": "Template for prompt: profile management section, with a sidebar, and a password management section",
+    "dateAdded": "2024-01-21T18:15:03.632Z"
+  },
+  {
+    "url": "https://v0.dev/t/VloGIrwo4jR",
+    "label": "Template for prompt: A Next.js and Tailwind static sign in page for GitHub that explains you need to be signed into GitHub in order to access and purchase courses. Branded for Zachary Proser's school for Hackers",
+    "dateAdded": "2024-01-21T18:15:03.632Z"
+  },
+  {
+    "url": "https://v0.dev/t/4VGB98KRSrP",
+    "label": "Template for prompt: generate a form with the following inputs: model Tender {     id          String            @id @default(uuid())     number      String            @unique     description String            @db.Text     closingDate DateTime          @default(now())     closingTime String            @default(\"10:00\")     Status      Status            @default(OPEN)     client      String            @db.VarChar(255)     hasBriefing BriefingStatus    @default(NO)     createdAt   DateTime          @default(now())     updatedAt   DateTime          @updatedAt     briefing    Briefing? // Link to Briefing model     companies   TenderToCompany[]     companyId   String }",
+    "dateAdded": "2024-01-21T18:15:03.633Z"
+  },
+  {
+    "url": "https://v0.dev/t/ju52bjptunf",
+    "label": "Template for prompt: A SaaS home page",
+    "dateAdded": "2024-01-21T18:15:03.633Z"
+  },
+  {
+    "url": "https://v0.dev/t/gwCb221XLUD",
+    "label": "Template for prompt: write me dropdown for languages czech and english",
+    "dateAdded": "2024-01-21T18:15:03.633Z"
+  },
+  {
+    "url": "https://v0.dev/t/0wpspFipg6K",
+    "label": "Template for prompt: creat left menu",
+    "dateAdded": "2024-01-21T18:15:03.633Z"
+  },
+  {
+    "url": "https://v0.dev/t/SgaigqHZ7TQ",
+    "label": "Template for prompt: bloxflip wannabe",
+    "dateAdded": "2024-01-21T18:15:03.633Z"
+  },
+  {
+    "url": "https://v0.dev/t/sNUZLwoEOe5",
+    "label": "Template for prompt: make me a login modal that blurs out the background and has a soft glow under its body",
+    "dateAdded": "2024-01-21T18:15:03.634Z"
+  },
+  {
+    "url": "https://v0.dev/t/GXrj4U04Sn4",
+    "label": "Template for prompt: make a react transition that is called before leaving a page and on arrival",
+    "dateAdded": "2024-01-21T18:15:03.634Z"
+  },
+  {
+    "url": "https://v0.dev/t/gLUuymjsZUm",
+    "label": "Template for prompt: a login screen for a collective journal in black & white",
+    "dateAdded": "2024-01-21T18:15:03.634Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZAnerqDcqbJ",
+    "label": "Template for prompt: a dashboard similar to trello app for drag and drop components",
+    "dateAdded": "2024-01-21T18:15:03.634Z"
+  },
+  {
+    "url": "https://v0.dev/t/yh4Y7aOokoI",
+    "label": "Template for prompt: a dashboard similar to trello app for drag and drop components",
+    "dateAdded": "2024-01-21T18:15:03.634Z"
+  },
+  {
+    "url": "https://v0.dev/t/dirvh9I9FZP",
+    "label": "Template for prompt: A map location chooser",
+    "dateAdded": "2024-01-21T18:15:03.634Z"
+  },
+  {
+    "url": "https://v0.dev/t/0G7wR7z5pUe",
+    "label": "Template for prompt: a frontpage for a apex legends esports website",
+    "dateAdded": "2024-01-21T18:15:03.634Z"
   }
 ]
