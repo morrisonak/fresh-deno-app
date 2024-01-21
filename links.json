@@ -24653,5 +24653,135 @@
     "url": "https://v0.dev/t/OpwUAbCGQ4O",
     "label": "Template for prompt: Feedback UI",
     "dateAdded": "2024-01-21T21:15:02.782Z"
+  },
+  {
+    "url": "https://v0.dev/t/PJppksBzlkt",
+    "label": "Template for prompt: Task 1: Question FeedObjective: Develop a dynamic question feed with like, view answers, and show location options.Task 2: Post Question FormObjective: Design and implement a user-friendly form for posting questions.Task 3: Answer Question FormObjective: Create a form for users to answer questions.Task 4: User ProfileObjective: Build a user profile section displaying liked questions and a daily summary.Task 5: Real-time NotificationsObjective: Integrate a notification area for real-time updates on answers and likes.Task 6: Daily SummaryObjective: Implement a feature to send a daily summary by 6 pm.Task 7: Mapping Questions (Optional)Objective: If chosen, integrate a map into the question feed.Submission Instructions:Share the GitHub repository URL.Include a README file with instructions.Provide necessary documentation or comments.Feel free to adjust as needed! Best of luck with your front-end developer assignment! ",
+    "dateAdded": "2024-01-21T21:20:03.097Z"
+  },
+  {
+    "url": "https://v0.dev/t/yar9Z6RkHbx",
+    "label": "Template for prompt: dark mode full stack web developer website",
+    "dateAdded": "2024-01-21T21:20:03.097Z"
+  },
+  {
+    "url": "https://v0.dev/t/L3FumboEKgy",
+    "label": "Template for prompt: Disclaimer box message with different level (info, warning, debug)",
+    "dateAdded": "2024-01-21T21:20:03.097Z"
+  },
+  {
+    "url": "https://v0.dev/t/OIpvHsYUSAZ",
+    "label": "Template for prompt: a saas admin dashboard",
+    "dateAdded": "2024-01-21T21:20:03.097Z"
+  },
+  {
+    "url": "https://v0.dev/t/rP1OLX5kcwv",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T21:20:03.098Z"
+  },
+  {
+    "url": "https://v0.dev/t/kXtZHULyndk",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T21:20:03.098Z"
+  },
+  {
+    "url": "https://v0.dev/t/C4iBCQXwy2f",
+    "label": "Template for prompt: I need a disclaimer / message box that can be removed",
+    "dateAdded": "2024-01-21T21:20:03.098Z"
+  },
+  {
+    "url": "https://v0.dev/t/oeRZQYHzDu8",
+    "label": "Template for prompt: I need a disclaimer / message box that can be removed",
+    "dateAdded": "2024-01-21T21:20:03.098Z"
+  },
+  {
+    "url": "https://v0.dev/t/cObHrRziB8F",
+    "label": "Template for prompt: generate an experience section for a portfolio",
+    "dateAdded": "2024-01-21T21:20:03.098Z"
+  },
+  {
+    "url": "https://v0.dev/t/JSIcGabtdd4",
+    "label": "Template for prompt: generate an experience section for a portfolio",
+    "dateAdded": "2024-01-21T21:20:03.098Z"
+  },
+  {
+    "url": "https://v0.dev/t/U6rvrDICnAR",
+    "label": "Template for prompt: list of documents. each has label, created at, size. click means download. you can delete any doc.",
+    "dateAdded": "2024-01-21T21:20:03.098Z"
+  },
+  {
+    "url": "https://v0.dev/t/20yMJ8zcQcp",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T21:20:03.098Z"
+  },
+  {
+    "url": "https://v0.dev/t/Iw8XfAGmcnx",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T21:20:03.099Z"
+  },
+  {
+    "url": "https://v0.dev/t/JQLnGwdpcaK",
+    "label": "Template for prompt: 404 not found page with image in the center ",
+    "dateAdded": "2024-01-21T21:20:03.099Z"
+  },
+  {
+    "url": "https://v0.dev/t/8TLxwHbTWPg",
+    "label": "Template for prompt: panel affiliate where they can copy and see your addiliate link",
+    "dateAdded": "2024-01-21T21:20:03.099Z"
+  },
+  {
+    "url": "https://v0.dev/t/KhBup4nwpgy",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-21T21:20:03.099Z"
+  },
+  {
+    "url": "https://v0.dev/t/xG1JdXV8UKo",
+    "label": "Template for prompt: A mobile screen for scanned code, show the scanned code on the top of the screen. Footer contains buttons to Add asset, Update, Allocate",
+    "dateAdded": "2024-01-21T21:20:03.099Z"
+  },
+  {
+    "url": "https://v0.dev/t/iCuMkzkXZb1",
+    "label": "Template for prompt: make me a page footer",
+    "dateAdded": "2024-01-21T21:20:03.099Z"
+  },
+  {
+    "url": "https://v0.dev/t/nzBprDUBF2O",
+    "label": "Template for prompt: Question Feed:\n\nA list of questions with titles, content, and distance.\nEach question card should have options to like, view answers, and show location.\nPost Question Form:\n\nA form with fields for title, content, and location.\nA button to submit the question.\nAnswer Question Form:\n\nA form for answering questions.\nUser Profile:\n\nDisplay liked questions and a summary of daily responses.\nReal-time Notifications:\n\nA subtle notification area for real-time updates.\nDaily Summary:\n\nA summary page or notification by 6 pm.\nMapping Questions (Optional):\n\nIf adding a map, integrate it seamlessly into the question feed.\n",
+    "dateAdded": "2024-01-21T21:20:03.099Z"
+  },
+  {
+    "url": "https://v0.dev/t/tGZDV2yuKIS",
+    "label": "Template for prompt: Dashboard for SaaS AI agent CRM management",
+    "dateAdded": "2024-01-21T21:20:03.099Z"
+  },
+  {
+    "url": "https://v0.dev/t/Akal5MkAHb4",
+    "label": "Template for prompt: a simple and clen hero section with a text and a  md video, on top the hero a transparent header with a logo and three links and a cta",
+    "dateAdded": "2024-01-21T21:20:03.099Z"
+  },
+  {
+    "url": "https://v0.dev/t/CBRQP2gKU2q",
+    "label": "Template for prompt: Generate a component that will contain a header. A description. A list of characters represented as cards and a timeline over event",
+    "dateAdded": "2024-01-21T21:20:03.100Z"
+  },
+  {
+    "url": "https://v0.dev/t/v0GcCcegcso",
+    "label": "Template for prompt: generate a landing page for a pet adoption site with a generic announcement or important messge.",
+    "dateAdded": "2024-01-21T21:20:03.100Z"
+  },
+  {
+    "url": "https://v0.dev/t/YCeBoskXmzz",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-21T21:20:03.100Z"
+  },
+  {
+    "url": "https://v0.dev/t/DOwSJaXTVFO",
+    "label": "Template for prompt: a mobile navigation menu ",
+    "dateAdded": "2024-01-21T21:20:03.100Z"
+  },
+  {
+    "url": "https://v0.dev/t/1aDifeZgr0w",
+    "label": "Template for prompt: create a typing terminal effect",
+    "dateAdded": "2024-01-21T21:20:03.100Z"
   }
 ]
