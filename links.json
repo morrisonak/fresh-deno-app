@@ -17663,5 +17663,135 @@
     "url": "https://v0.dev/t/6rIwQuHcpXu",
     "label": "Template for prompt: input with autocomplete",
     "dateAdded": "2024-01-21T16:15:03.654Z"
+  },
+  {
+    "url": "https://v0.dev/t/4G50hheSCGL",
+    "label": "Template for prompt: build a moder website with a blog",
+    "dateAdded": "2024-01-21T16:20:03.075Z"
+  },
+  {
+    "url": "https://v0.dev/t/criJchJd6LD",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T16:20:03.075Z"
+  },
+  {
+    "url": "https://v0.dev/t/aTwcQZt5z78",
+    "label": "Template for prompt: create it by tailwind css",
+    "dateAdded": "2024-01-21T16:20:03.075Z"
+  },
+  {
+    "url": "https://v0.dev/t/XAmumrygJ9T",
+    "label": "Template for prompt: a blog layout",
+    "dateAdded": "2024-01-21T16:20:03.076Z"
+  },
+  {
+    "url": "https://v0.dev/t/WWVZV7ivFvX",
+    "label": "Template for prompt: a blog layout",
+    "dateAdded": "2024-01-21T16:20:03.076Z"
+  },
+  {
+    "url": "https://v0.dev/t/j8YdI3lKSHp",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-21T16:20:03.076Z"
+  },
+  {
+    "url": "https://v0.dev/t/wIzbRBkrgN2",
+    "label": "Template for prompt: design a web page that shows 3 republican candidates to be the nominee, and asks the user who they want to win and who they think will win",
+    "dateAdded": "2024-01-21T16:20:03.076Z"
+  },
+  {
+    "url": "https://v0.dev/t/mqritWHHj06",
+    "label": "Template for prompt: recreate this design, please make it the same and accurate",
+    "dateAdded": "2024-01-21T16:20:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/g4XMgFgcqB3",
+    "label": "Template for prompt: home page for workout manager website",
+    "dateAdded": "2024-01-21T16:20:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/X7W4OqLljHw",
+    "label": "Template for prompt: Scrollable chat in a modal dialog with a title",
+    "dateAdded": "2024-01-21T16:20:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/2EtNk5WqZdd",
+    "label": "Template for prompt: Courses card list with image, title, category etc...",
+    "dateAdded": "2024-01-21T16:20:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/WYIrBWzkqSK",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T16:20:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/eXF37B5yxn6",
+    "label": "Template for prompt: thankyou page with ukrainian text",
+    "dateAdded": "2024-01-21T16:20:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/h89bdiipr1t",
+    "label": "Template for prompt: Image for Last  5 days  for Nomination to an election",
+    "dateAdded": "2024-01-21T16:20:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/xxqItHxOA9u",
+    "label": "Template for prompt: Article management page: presents the article published by the user in card format, including question picture, title, introduction, release time, number of likes, and buttons for editing and deleting the article.",
+    "dateAdded": "2024-01-21T16:20:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/tUXjThE9Kvh",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T16:20:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/pIFoGKDPGCS",
+    "label": "Template for prompt: A shopping cart menu with PayPal option",
+    "dateAdded": "2024-01-21T16:20:03.079Z"
+  },
+  {
+    "url": "https://v0.dev/t/dHHSBI2bndE",
+    "label": "Template for prompt: cms dashboard with responsive sidebar and modern design",
+    "dateAdded": "2024-01-21T16:20:03.079Z"
+  },
+  {
+    "url": "https://v0.dev/t/BJcV21X2J9v",
+    "label": "Template for prompt: export interface ITemplateData {\n    adSet: Array<IMetaAdSet>\n    country: Array<IMetaCountry>\n    name: string\n    interests: Array<IMetaInterests>\n    numberOfAds: string | undefined\n    objective: Objective\n    status: 'ACTIVE' | 'PAUSED'\n    budget: number\n}\n\ndada esa interface creame una card que muestre de format bonita esta información",
+    "dateAdded": "2024-01-21T16:20:03.079Z"
+  },
+  {
+    "url": "https://v0.dev/t/0QeQTrZtim6",
+    "label": "Template for prompt: A board game recommendation search engine that shows a free text search box and displays search results in cards. Should look like Linear or equivalent cool landing page style",
+    "dateAdded": "2024-01-21T16:20:03.079Z"
+  },
+  {
+    "url": "https://v0.dev/t/xoLw7KV7i34",
+    "label": "Template for prompt: remove the test component of background image and cover image , and refactor with some proper content according to it ",
+    "dateAdded": "2024-01-21T16:20:03.079Z"
+  },
+  {
+    "url": "https://v0.dev/t/MwBEX8Vg5wf",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T16:20:03.079Z"
+  },
+  {
+    "url": "https://v0.dev/t/SvTRU70RYwk",
+    "label": "Template for prompt: Create a signin component. ",
+    "dateAdded": "2024-01-21T16:20:03.080Z"
+  },
+  {
+    "url": "https://v0.dev/t/jhc6bzgGisr",
+    "label": "Template for prompt: a file explorer",
+    "dateAdded": "2024-01-21T16:20:03.080Z"
+  },
+  {
+    "url": "https://v0.dev/t/ltomKSKluMd",
+    "label": "Template for prompt: a tabs component that toggles the content below it. the tabs should be chips with rounded border radius. the content container below it should have a subtle gray border. ",
+    "dateAdded": "2024-01-21T16:20:03.080Z"
+  },
+  {
+    "url": "https://v0.dev/t/FDn56IUeNXe",
+    "label": "Template for prompt: recreate this ",
+    "dateAdded": "2024-01-21T16:20:03.081Z"
   }
 ]
