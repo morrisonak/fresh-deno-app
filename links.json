@@ -21833,5 +21833,135 @@
     "url": "https://v0.dev/t/ShUSAuy1z3R",
     "label": "Template for prompt: todo app, at the top of the page there should be a form for creating todos with the field: description and deadline (datetime-local format). Under the form there should be a list of todos without a deadline, then a list of todos for today, then tomorrow and then the day after that, there should be a maximum of five todos in each list and if there are more there should be a show more todos button.",
     "dateAdded": "2024-01-21T19:00:02.959Z"
+  },
+  {
+    "url": "https://v0.dev/t/tvjFx8MN9c8",
+    "label": "Template for prompt: a card for game with game title and game info and number of folowers for that card",
+    "dateAdded": "2024-01-21T19:05:03.319Z"
+  },
+  {
+    "url": "https://v0.dev/t/nQhzy607ISd",
+    "label": "Template for prompt: incoming feautres page",
+    "dateAdded": "2024-01-21T19:05:03.319Z"
+  },
+  {
+    "url": "https://v0.dev/t/WT2ZH1eZspE",
+    "label": "Template for prompt: red button",
+    "dateAdded": "2024-01-21T19:05:03.319Z"
+  },
+  {
+    "url": "https://v0.dev/t/abnn6ZV4mXZ",
+    "label": "Template for prompt: A form for tracking exercise",
+    "dateAdded": "2024-01-21T19:05:03.320Z"
+  },
+  {
+    "url": "https://v0.dev/t/M9YH15lNcbk",
+    "label": "Template for prompt: Address page for ecommerce user",
+    "dateAdded": "2024-01-21T19:05:03.320Z"
+  },
+  {
+    "url": "https://v0.dev/t/SLqGHiYyhbc",
+    "label": "Template for prompt: Update the UI of this component to be clean and well spaced on clickable cards",
+    "dateAdded": "2024-01-21T19:05:03.320Z"
+  },
+  {
+    "url": "https://v0.dev/t/TQVWcy7s16u",
+    "label": "Template for prompt: A travel planning summary page for the city of Mobile, Alabama. It should have sections for Transportation, Climate and Events, Accommodations, Itinerary, Dining, Activities & Attractions, Local Tips & Etiquette, Safety and Emergency Info, Conclusion",
+    "dateAdded": "2024-01-21T19:05:03.320Z"
+  },
+  {
+    "url": "https://v0.dev/t/HkyuiXJsRck",
+    "label": "Template for prompt: create chat botlike chtagpt ",
+    "dateAdded": "2024-01-21T19:05:03.320Z"
+  },
+  {
+    "url": "https://v0.dev/t/HQAaukX2F3C",
+    "label": "Template for prompt: I'm working on a daily email digest that summarizes updates for an investor in private markets. Please provide a mock up of the email with the following sections: Outstanding tasks, upcoming cash flows, account statements, financial statements, investor letters, quarterly reports, tax documents, and other updates",
+    "dateAdded": "2024-01-21T19:05:03.321Z"
+  },
+  {
+    "url": "https://v0.dev/t/GWXIhgXcklN",
+    "label": "Template for prompt: A data charts builder",
+    "dateAdded": "2024-01-21T19:05:03.321Z"
+  },
+  {
+    "url": "https://v0.dev/t/5pkEa4CpxrS",
+    "label": "Template for prompt: subscription check out screen. The subscription is for an author of good artifical intelligence content designed for big corporations. The value of the subscription is 980 dollars a month",
+    "dateAdded": "2024-01-21T19:05:03.321Z"
+  },
+  {
+    "url": "https://v0.dev/t/zMaY6tKHpFT",
+    "label": "Template for prompt: genarate a feature section for an event booking application, the cards should be music, dance, festivals ",
+    "dateAdded": "2024-01-21T19:05:03.321Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ko6Bo2mQxfN",
+    "label": "Template for prompt: Create one informational import export site",
+    "dateAdded": "2024-01-21T19:05:03.321Z"
+  },
+  {
+    "url": "https://v0.dev/t/qi8Kq9Machp",
+    "label": "Template for prompt: create sidebar",
+    "dateAdded": "2024-01-21T19:05:03.321Z"
+  },
+  {
+    "url": "https://v0.dev/t/WdYmstDsduk",
+    "label": "Template for prompt: A home page with sections, and each section has full width images as backgrounds\n\nThere is text and other components on top of each section",
+    "dateAdded": "2024-01-21T19:05:03.322Z"
+  },
+  {
+    "url": "https://v0.dev/t/W5xTHubi9Jz",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-21T19:05:03.322Z"
+  },
+  {
+    "url": "https://v0.dev/t/dqUtzL9lOQo",
+    "label": "Template for prompt: a league of legends live team feed ",
+    "dateAdded": "2024-01-21T19:05:03.322Z"
+  },
+  {
+    "url": "https://v0.dev/t/q0JbVbsonFf",
+    "label": "Template for prompt: An invoices table with coloured tags, id and date",
+    "dateAdded": "2024-01-21T19:05:03.322Z"
+  },
+  {
+    "url": "https://v0.dev/t/EcZVo6xHRq8",
+    "label": "Template for prompt: Create a page to test Postmat-like API",
+    "dateAdded": "2024-01-21T19:05:03.322Z"
+  },
+  {
+    "url": "https://v0.dev/t/q6CCa5YVdu7",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T19:05:03.322Z"
+  },
+  {
+    "url": "https://v0.dev/t/Dq9Nfg4NqU9",
+    "label": "Template for prompt: Create a logs table, with a sidebar for filtering and a search bar on top. The logs table should be condensed",
+    "dateAdded": "2024-01-21T19:05:03.322Z"
+  },
+  {
+    "url": "https://v0.dev/t/bFcNJrImL8i",
+    "label": "Template for prompt: Recrie essa interface, com todos os seus detalhes por completo:",
+    "dateAdded": "2024-01-21T19:05:03.322Z"
+  },
+  {
+    "url": "https://v0.dev/t/K0ICcxd5m9w",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T19:05:03.323Z"
+  },
+  {
+    "url": "https://v0.dev/t/puybL2mkm5j",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T19:05:03.323Z"
+  },
+  {
+    "url": "https://v0.dev/t/xTdgrb0vS4S",
+    "label": "Template for prompt: I want to recreate this landing page using shadcn-ui",
+    "dateAdded": "2024-01-21T19:05:03.323Z"
+  },
+  {
+    "url": "https://v0.dev/t/AeKho5m2E0I",
+    "label": "Template for prompt: a chat application ",
+    "dateAdded": "2024-01-21T19:05:03.323Z"
   }
 ]
