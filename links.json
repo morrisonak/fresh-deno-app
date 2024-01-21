@@ -24523,5 +24523,135 @@
     "url": "https://v0.dev/t/P0suLKjO2wQ",
     "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
     "dateAdded": "2024-01-21T21:10:03.680Z"
+  },
+  {
+    "url": "https://v0.dev/t/U6rvrDICnAR",
+    "label": "Template for prompt: list of documents. each has label, created at, size. click means download. you can delete any doc.",
+    "dateAdded": "2024-01-21T21:15:02.779Z"
+  },
+  {
+    "url": "https://v0.dev/t/kXtZHULyndk",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T21:15:02.779Z"
+  },
+  {
+    "url": "https://v0.dev/t/20yMJ8zcQcp",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T21:15:02.779Z"
+  },
+  {
+    "url": "https://v0.dev/t/Iw8XfAGmcnx",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T21:15:02.779Z"
+  },
+  {
+    "url": "https://v0.dev/t/JQLnGwdpcaK",
+    "label": "Template for prompt: 404 not found page with image in the center ",
+    "dateAdded": "2024-01-21T21:15:02.779Z"
+  },
+  {
+    "url": "https://v0.dev/t/JSIcGabtdd4",
+    "label": "Template for prompt: generate an experience section for a portfolio",
+    "dateAdded": "2024-01-21T21:15:02.779Z"
+  },
+  {
+    "url": "https://v0.dev/t/8TLxwHbTWPg",
+    "label": "Template for prompt: panel affiliate where they can copy and see your addiliate link",
+    "dateAdded": "2024-01-21T21:15:02.780Z"
+  },
+  {
+    "url": "https://v0.dev/t/KhBup4nwpgy",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-21T21:15:02.780Z"
+  },
+  {
+    "url": "https://v0.dev/t/xG1JdXV8UKo",
+    "label": "Template for prompt: A mobile screen for scanned code, show the scanned code on the top of the screen. Footer contains buttons to Add asset, Update, Allocate",
+    "dateAdded": "2024-01-21T21:15:02.780Z"
+  },
+  {
+    "url": "https://v0.dev/t/iCuMkzkXZb1",
+    "label": "Template for prompt: make me a page footer",
+    "dateAdded": "2024-01-21T21:15:02.780Z"
+  },
+  {
+    "url": "https://v0.dev/t/nzBprDUBF2O",
+    "label": "Template for prompt: Question Feed:\n\nA list of questions with titles, content, and distance.\nEach question card should have options to like, view answers, and show location.\nPost Question Form:\n\nA form with fields for title, content, and location.\nA button to submit the question.\nAnswer Question Form:\n\nA form for answering questions.\nUser Profile:\n\nDisplay liked questions and a summary of daily responses.\nReal-time Notifications:\n\nA subtle notification area for real-time updates.\nDaily Summary:\n\nA summary page or notification by 6 pm.\nMapping Questions (Optional):\n\nIf adding a map, integrate it seamlessly into the question feed.\n",
+    "dateAdded": "2024-01-21T21:15:02.780Z"
+  },
+  {
+    "url": "https://v0.dev/t/tGZDV2yuKIS",
+    "label": "Template for prompt: Dashboard for SaaS AI agent CRM management",
+    "dateAdded": "2024-01-21T21:15:02.780Z"
+  },
+  {
+    "url": "https://v0.dev/t/Akal5MkAHb4",
+    "label": "Template for prompt: a simple and clen hero section with a text and a  md video, on top the hero a transparent header with a logo and three links and a cta",
+    "dateAdded": "2024-01-21T21:15:02.780Z"
+  },
+  {
+    "url": "https://v0.dev/t/CBRQP2gKU2q",
+    "label": "Template for prompt: Generate a component that will contain a header. A description. A list of characters represented as cards and a timeline over event",
+    "dateAdded": "2024-01-21T21:15:02.781Z"
+  },
+  {
+    "url": "https://v0.dev/t/v0GcCcegcso",
+    "label": "Template for prompt: generate a landing page for a pet adoption site with a generic announcement or important messge.",
+    "dateAdded": "2024-01-21T21:15:02.781Z"
+  },
+  {
+    "url": "https://v0.dev/t/YCeBoskXmzz",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-21T21:15:02.781Z"
+  },
+  {
+    "url": "https://v0.dev/t/DOwSJaXTVFO",
+    "label": "Template for prompt: a mobile navigation menu ",
+    "dateAdded": "2024-01-21T21:15:02.781Z"
+  },
+  {
+    "url": "https://v0.dev/t/1aDifeZgr0w",
+    "label": "Template for prompt: create a typing terminal effect",
+    "dateAdded": "2024-01-21T21:15:02.781Z"
+  },
+  {
+    "url": "https://v0.dev/t/bWd0Xzh2np0",
+    "label": "Template for prompt: Creating a main page for an app similar to Linktree, but with the added feature of sharing promo codes, requires clear and engaging content to attract and inform users. Here's a structured approach to crafting your main page content:\n\n1. **Headline**: Start with a compelling and concise headline that captures the essence of your app. It should immediately communicate what your app does and its unique selling point (USP).\n\n   Example: \"All Your Links and Exclusive Deals in One Place\"\n\n2. **Subheadline**: A subheadline that expands on the headline, providing a bit more detail about what the app does.\n\n   Example: \"Easily Share Your Content and Promo Codes with Your Audience\"\n\n3. **Introduction**: A brief introduction that explains what the app is and its primary features. Focus on how it adds value compared to other similar apps, like the ability to share promo codes.\n\n   Example: \"XYZ App is a user-friendly platform designed to centralize all your important links and exclusive promotion",
+    "dateAdded": "2024-01-21T21:15:02.781Z"
+  },
+  {
+    "url": "https://v0.dev/t/QnpTUvbv5wH",
+    "label": "Template for prompt: Landing page finance application ",
+    "dateAdded": "2024-01-21T21:15:02.781Z"
+  },
+  {
+    "url": "https://v0.dev/t/OvIXyViyArC",
+    "label": "Template for prompt: a shop black and white home page modern",
+    "dateAdded": "2024-01-21T21:15:02.781Z"
+  },
+  {
+    "url": "https://v0.dev/t/O8ywUbs6ZkQ",
+    "label": "Template for prompt: a basic ealry access page for an AI service",
+    "dateAdded": "2024-01-21T21:15:02.781Z"
+  },
+  {
+    "url": "https://v0.dev/t/fYn9PujOVNa",
+    "label": "Template for prompt: Give me a mobile app design for it asset management. First screen should be a QR code scanner screen with camera on top and instructions in the bottom",
+    "dateAdded": "2024-01-21T21:15:02.782Z"
+  },
+  {
+    "url": "https://v0.dev/t/zyTQeEyElBd",
+    "label": "Template for prompt: SEO Marketing software one page tool",
+    "dateAdded": "2024-01-21T21:15:02.782Z"
+  },
+  {
+    "url": "https://v0.dev/t/o2EPBkoxspf",
+    "label": "Template for prompt: form with fileuploader and button submit",
+    "dateAdded": "2024-01-21T21:15:02.782Z"
+  },
+  {
+    "url": "https://v0.dev/t/OpwUAbCGQ4O",
+    "label": "Template for prompt: Feedback UI",
+    "dateAdded": "2024-01-21T21:15:02.782Z"
   }
 ]
