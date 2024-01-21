@@ -22353,5 +22353,135 @@
     "url": "https://v0.dev/t/8kaR0DXr8kX",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2024-01-21T19:20:03.153Z"
+  },
+  {
+    "url": "https://v0.dev/t/OtodtFPtDEO",
+    "label": "Template for prompt: Build a simple expense tracker where users can input and categorize their expenses",
+    "dateAdded": "2024-01-21T19:25:03.464Z"
+  },
+  {
+    "url": "https://v0.dev/t/SQQekUD6gqQ",
+    "label": "Template for prompt: یه سایت میخوام شبیه این عکس داشته باشم که بنر با ابعاد 689 در 271 در بالای سایت و 6 خانه  مثل عکس در میانه صفحه که بتوانم با کلیک بر روی  هر کدام وارد صفحه دیگری شوم ",
+    "dateAdded": "2024-01-21T19:25:03.464Z"
+  },
+  {
+    "url": "https://v0.dev/t/bPiS8WI7Q84",
+    "label": "Template for prompt: A info page with visitors count, IP location (DNS, ISP, Proxies) and filterable historical locations map.",
+    "dateAdded": "2024-01-21T19:25:03.464Z"
+  },
+  {
+    "url": "https://v0.dev/t/g2hFI9kAEN2",
+    "label": "Template for prompt: design responsive bento grid layout to showcase 14 products",
+    "dateAdded": "2024-01-21T19:25:03.464Z"
+  },
+  {
+    "url": "https://v0.dev/t/IwXpLGTOMBO",
+    "label": "Template for prompt: generate a navbar for mobile that has a hamburguer button with other links in it",
+    "dateAdded": "2024-01-21T19:25:03.464Z"
+  },
+  {
+    "url": "https://v0.dev/t/j2dBPq52bwx",
+    "label": "Template for prompt: e-commerce website",
+    "dateAdded": "2024-01-21T19:25:03.464Z"
+  },
+  {
+    "url": "https://v0.dev/t/NJB76VUGNxv",
+    "label": "Template for prompt: Design a clean, structured data engineer portfolio UI with emphasis on project categorization, easy navigation, and interactive data visualizations.",
+    "dateAdded": "2024-01-21T19:25:03.465Z"
+  },
+  {
+    "url": "https://v0.dev/t/RHTMrh6OvP9",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-21T19:25:03.465Z"
+  },
+  {
+    "url": "https://v0.dev/t/KAVw9qAFPJ2",
+    "label": "Template for prompt: a psychometric test result page",
+    "dateAdded": "2024-01-21T19:25:03.465Z"
+  },
+  {
+    "url": "https://v0.dev/t/cCLE3reAbEj",
+    "label": "Template for prompt:  a design trendy  landing hero page for a stock market portfolio tracker(managing system for normal people) with black being the background main colour, and violet and white as the secondary and tertiary colour design, with trendy design and icons like stars and cubes and Great content to attract",
+    "dateAdded": "2024-01-21T19:25:03.465Z"
+  },
+  {
+    "url": "https://v0.dev/t/c2HlQygoKLE",
+    "label": "Template for prompt: i want a recipe form upload form using chadcn ui that takes these fields\n\nmodel Recipe {\n  id        String     @default(cuid()) @id\n  title     String\n  content   String?\n  imageUrl  String?  @map(name: \"image_url\")\n  difficulty String?\n  duration  Int?\n  ingredientSections IngredientSection[]\n  notes     String?\n  tags      String[]\n  type      String?\n  makes     Int?\n  whereFrom String?  @map(name: \"where_from\")\n  createdAt DateTime  @default(now()) @map(name: \"created_at\")\n  updatedAt DateTime  @updatedAt @map(name: \"updated_at\")\n  author    User?   @relation(fields: [authorId], references: [id])\n  authorId  String?\n  @@map(name: \"recipes\")\n}\n\nmodel IngredientSection {\n  id     String      @default(cuid()) @id\n  title  String\n  recipe Recipe    @relation(fields: [recipeId], references: [id])\n  recipeId String\n  ingredients Ingredient[]\n}\n\nmodel Ingredient {\n  id                 String   @default(cuid()) @id\n  name               String\n  ingredientSection  IngredientSection @relati",
+    "dateAdded": "2024-01-21T19:25:03.465Z"
+  },
+  {
+    "url": "https://v0.dev/t/AScU4ObTwYS",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-21T19:25:03.465Z"
+  },
+  {
+    "url": "https://v0.dev/t/mmUZO9d5FHm",
+    "label": "Template for prompt: pagina de login y registro con animacion para saber si estoy en login o registro esto para react",
+    "dateAdded": "2024-01-21T19:25:03.465Z"
+  },
+  {
+    "url": "https://v0.dev/t/ev10pIMFfQp",
+    "label": "Template for prompt: {Data.social.map((social) => (\n          <Button\n            key={social.name}\n              className=\"size-4\"\n              variant=\"outline\"\n              size=\"icon\"\n              asChild\n            >\n            <a href={social.url}>\n              <social.icon className=\"size-2\" />\n            </a>\n          </Button>\n        ))} make these buttons appear at the top right corner ",
+    "dateAdded": "2024-01-21T19:25:03.466Z"
+  },
+  {
+    "url": "https://v0.dev/t/QNnADr2Oojl",
+    "label": "Template for prompt: an ecommerce dashboard with a sidebar and a table with created houses",
+    "dateAdded": "2024-01-21T19:25:03.466Z"
+  },
+  {
+    "url": "https://v0.dev/t/2ufZucIvRst",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-21T19:25:03.466Z"
+  },
+  {
+    "url": "https://v0.dev/t/Cp7TLQbQZlD",
+    "label": "Template for prompt:  a beautiful minimal landing page for a stock market portfolio tracker(managing system for normal people) with black being the background main colour, and violet and white as the secondary and tertiary colour design, with trendy design and icons like stars and cubes and Great content to attract and sign up",
+    "dateAdded": "2024-01-21T19:25:03.466Z"
+  },
+  {
+    "url": "https://v0.dev/t/B27TpJpqiRg",
+    "label": "Template for prompt: Product app",
+    "dateAdded": "2024-01-21T19:25:03.466Z"
+  },
+  {
+    "url": "https://v0.dev/t/K6nfY5hmRp5",
+    "label": "Template for prompt: a social media named esgi",
+    "dateAdded": "2024-01-21T19:25:03.466Z"
+  },
+  {
+    "url": "https://v0.dev/t/C4wbSgzCHmC",
+    "label": "Template for prompt: a social media named esgi",
+    "dateAdded": "2024-01-21T19:25:03.466Z"
+  },
+  {
+    "url": "https://v0.dev/t/7tAwPoO3394",
+    "label": "Template for prompt: Design a clean, user-friendly homepage for an electrician's website featuring a prominent call-to-action for booking services, a brief introduction of the electrician's expertise, a showcase of services offered, and easy navigation to contact information and customer testimonials.",
+    "dateAdded": "2024-01-21T19:25:03.466Z"
+  },
+  {
+    "url": "https://v0.dev/t/aH1STnnlVAZ",
+    "label": "Template for prompt: A form page where each field allows speech-to-text capabilities in real-time.",
+    "dateAdded": "2024-01-21T19:25:03.466Z"
+  },
+  {
+    "url": "https://v0.dev/t/Owy9BJN1ic4",
+    "label": "Template for prompt: a dashboard similar to trello app for drag and drop components",
+    "dateAdded": "2024-01-21T19:25:03.467Z"
+  },
+  {
+    "url": "https://v0.dev/t/xGsa2JRtQuV",
+    "label": "Template for prompt: Magic mushrooms store",
+    "dateAdded": "2024-01-21T19:25:03.467Z"
+  },
+  {
+    "url": "https://v0.dev/t/G6Ys8iLAF1J",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T19:25:03.467Z"
+  },
+  {
+    "url": "https://v0.dev/t/GWHnq7BTTLT",
+    "label": "Template for prompt: A page of a product",
+    "dateAdded": "2024-01-21T19:25:03.467Z"
   }
 ]
