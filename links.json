@@ -27093,5 +27093,135 @@
     "url": "https://v0.dev/t/n6643GezWJ7",
     "label": "Template for prompt: month year picker",
     "dateAdded": "2024-01-21T22:50:03.074Z"
+  },
+  {
+    "url": "https://v0.dev/t/p9qGds9x8Ni",
+    "label": "Template for prompt: A tanstack react data table to search for college courses to register for, with the following columns: Course Number (e.g. CSE101, MAT102), Title, Credits, Instructor Name, Start Date, End Date. Should include a search bar.",
+    "dateAdded": "2024-01-21T22:55:03.040Z"
+  },
+  {
+    "url": "https://v0.dev/t/s9GXYPLnJV9",
+    "label": "Template for prompt: create a roadmap cards with icon, tittle, text, responsive with react",
+    "dateAdded": "2024-01-21T22:55:03.040Z"
+  },
+  {
+    "url": "https://v0.dev/t/efX6L5GlTd5",
+    "label": "Template for prompt: A flow chart display for a project management tool",
+    "dateAdded": "2024-01-21T22:55:03.040Z"
+  },
+  {
+    "url": "https://v0.dev/t/ClNiYlGELpM",
+    "label": "Template for prompt: \"Create a web application for peer-to-peer currency exchange. Features include:\n\nIntuitive Home Page for currency selection.\nUser registration and profile management for posting offers and tracking exchange history.\nFunctionality to post and browse currency exchange offers, with a secure in-app messaging system.\nTransaction confirmation and user feedback system for community trust.\nStrong security measures for data protection, complying with regulations like GDPR.\nNo payment processing required.\nTransaction history tracking for users.\"",
+    "dateAdded": "2024-01-21T22:55:03.040Z"
+  },
+  {
+    "url": "https://v0.dev/t/9GSwrkNdAQo",
+    "label": "Template for prompt: side navbar background color white with colored icons",
+    "dateAdded": "2024-01-21T22:55:03.040Z"
+  },
+  {
+    "url": "https://v0.dev/t/WXmoUwJNNSK",
+    "label": "Template for prompt: nested navigation, 5 top level, 10 second level and each of those 30 items",
+    "dateAdded": "2024-01-21T22:55:03.041Z"
+  },
+  {
+    "url": "https://v0.dev/t/5JPf2Im69U9",
+    "label": "Template for prompt: create a drag and drop screen that takes a dni picture and extract data and fill up a form ",
+    "dateAdded": "2024-01-21T22:55:03.041Z"
+  },
+  {
+    "url": "https://v0.dev/t/CccNiOjezJF",
+    "label": "Template for prompt: Abstraction. Desolation. Multiplication. Infatuation.",
+    "dateAdded": "2024-01-21T22:55:03.041Z"
+  },
+  {
+    "url": "https://v0.dev/t/WwcdPnqz1um",
+    "label": "Template for prompt: A university degree job market analyzer using spider chart to show employability, spcialization, skill tranferability, career path level",
+    "dateAdded": "2024-01-21T22:55:03.041Z"
+  },
+  {
+    "url": "https://v0.dev/t/OJBsosyQZRs",
+    "label": "Template for prompt: a 403  white page using yellow and blue",
+    "dateAdded": "2024-01-21T22:55:03.041Z"
+  },
+  {
+    "url": "https://v0.dev/t/SzZr8jjDxpX",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-21T22:55:03.042Z"
+  },
+  {
+    "url": "https://v0.dev/t/9xUcVtuBe7M",
+    "label": "Template for prompt: A button, when clicked, a form will pop up with input boxes in the form, and there are cancel and submit buttons",
+    "dateAdded": "2024-01-21T22:55:03.042Z"
+  },
+  {
+    "url": "https://v0.dev/t/5r7PB0PHLle",
+    "label": "Template for prompt: masterclass screen showing cards of classes with a search bar alligned in the center",
+    "dateAdded": "2024-01-21T22:55:03.042Z"
+  },
+  {
+    "url": "https://v0.dev/t/x21URMUnlin",
+    "label": "Template for prompt: a page with a form. with a nice header design to desiplay the title and description for the form.",
+    "dateAdded": "2024-01-21T22:55:03.042Z"
+  },
+  {
+    "url": "https://v0.dev/t/4MSsWnjQaVR",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-21T22:55:03.042Z"
+  },
+  {
+    "url": "https://v0.dev/t/j5L8O1FRh7A",
+    "label": "Template for prompt: a dope and funny page not found webpage",
+    "dateAdded": "2024-01-21T22:55:03.043Z"
+  },
+  {
+    "url": "https://v0.dev/t/v75JzshIw9r",
+    "label": "Template for prompt: create a four \"empty state\" boxes that resemble the attached image.  Use JSX and TailwindCSS\n\n",
+    "dateAdded": "2024-01-21T22:55:03.043Z"
+  },
+  {
+    "url": "https://v0.dev/t/wfFKMype21m",
+    "label": "Template for prompt: Form where user can enter links for products they want to track the price. They can give a name and enter links",
+    "dateAdded": "2024-01-21T22:55:03.043Z"
+  },
+  {
+    "url": "https://v0.dev/t/a4Q2ikVjPvW",
+    "label": "Template for prompt: replicate",
+    "dateAdded": "2024-01-21T22:55:03.043Z"
+  },
+  {
+    "url": "https://v0.dev/t/dDrrTlJDeXG",
+    "label": "Template for prompt: make a bento box using shadcn",
+    "dateAdded": "2024-01-21T22:55:03.043Z"
+  },
+  {
+    "url": "https://v0.dev/t/x01EOtA6N9u",
+    "label": "Template for prompt: a homepage for a bill splitting app ",
+    "dateAdded": "2024-01-21T22:55:03.043Z"
+  },
+  {
+    "url": "https://v0.dev/t/mZQHXscBbhN",
+    "label": "Template for prompt: I need a ui for my landing page that describes 2 functions of the application in demo mode and there is a button for each option that indicates to test the 2 options in the role of creator/user.",
+    "dateAdded": "2024-01-21T22:55:03.044Z"
+  },
+  {
+    "url": "https://v0.dev/t/VUO1JqyvCUt",
+    "label": "Template for prompt: make a dashboard page with dark theme having a 4 boxes one having text named roullete one mines one crash one user info and ad dplace holder stuff for all of them",
+    "dateAdded": "2024-01-21T22:55:03.044Z"
+  },
+  {
+    "url": "https://v0.dev/t/un3MphYi3Mh",
+    "label": "Template for prompt: Can you solve math problems and read research paper ",
+    "dateAdded": "2024-01-21T22:55:03.044Z"
+  },
+  {
+    "url": "https://v0.dev/t/X63BR8rtcQn",
+    "label": "Template for prompt: project tracker application with similar features to linear",
+    "dateAdded": "2024-01-21T22:55:03.044Z"
+  },
+  {
+    "url": "https://v0.dev/t/OU0DMBSQ2p2",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T22:55:03.045Z"
   }
 ]
