@@ -23003,5 +23003,130 @@
     "url": "https://v0.dev/t/peoQNLVO2Zo",
     "label": "Template for prompt: Basic functionality:\n1. Creation of categories for the task + availability of default categories.\n2. Creation of tasks in specific categories, with the possibility of describing tasks, setting the deadline for tasks.\n3. It is possible to edit the name of the category, tasks, task descriptions, as well as the possibility of deleting.\n4. Completed tasks should be transferred to the subcategory \"completed\" as if archived + the date when the task was completed should be indicated.\n5. It is also possible to move the task to another category.\n\nAll manipulations are carried out using the buttons and the right mouse button.\n\nLanguages: HTML, CSS, JavaScript\n\nWrite the basic code, but make it work.",
     "dateAdded": "2024-01-21T19:45:02.791Z"
+  },
+  {
+    "url": "https://v0.dev/t/ccFP15IdY8I",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-21T19:50:03.075Z"
+  },
+  {
+    "url": "https://v0.dev/t/FdrGvZ6EAhq",
+    "label": "Template for prompt: The landing page for a minimalist and modern AI newsletter sign up page. with a background animation sinpired by the attached image. our company is called Magnetic LLC",
+    "dateAdded": "2024-01-21T19:50:03.076Z"
+  },
+  {
+    "url": "https://v0.dev/t/A2BQbcIiVml",
+    "label": "Template for prompt: a nav bar with logo on left and a button on right",
+    "dateAdded": "2024-01-21T19:50:03.076Z"
+  },
+  {
+    "url": "https://v0.dev/t/qH6itq8PJ6T",
+    "label": "Template for prompt: I need to a card that helps me show the settings for CRM streaming settings. I need to show some UI that allows the users to stream the data either in \"Contact Major\" view or \"Property Major\" view. Contact major means all data will be contacts, and property major will be where all data exported will have ID being the property id. I want toggles for each where the you have the options to export all even if not all data is available and the option to export data even if contact information is not available",
+    "dateAdded": "2024-01-21T19:50:03.076Z"
+  },
+  {
+    "url": "https://v0.dev/t/K35qpUC5tHP",
+    "label": "Template for prompt: 5-day itinerary. Every day consists of  a title and 'morning', 'afternoon' and 'evening' sections, which describe activities for that day in a few sentences.",
+    "dateAdded": "2024-01-21T19:50:03.076Z"
+  },
+  {
+    "url": "https://v0.dev/t/VPkk8VuF3a2",
+    "label": "Template for prompt: 5-day itinerary. Every day consists of  a title and 'morning', 'afternoon' and 'evening' sections, which describe activities for that day in a few sentences.",
+    "dateAdded": "2024-01-21T19:50:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/rpMqlGijgZ0",
+    "label": "Template for prompt: 5-day itinerary. Every day consists of  a title and 'morning', 'afternoon' and 'evening' sections, which describe activities for that day in a few sentences.",
+    "dateAdded": "2024-01-21T19:50:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/csCsAyRmCqD",
+    "label": "Template for prompt: The landing page for a minimalist and modern AI newsletter sign up page",
+    "dateAdded": "2024-01-21T19:50:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/SgwjvdvqG1h",
+    "label": "Template for prompt: contact form",
+    "dateAdded": "2024-01-21T19:50:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/935EgMPp0XE",
+    "label": "Template for prompt: a navigation bar with dropdowns",
+    "dateAdded": "2024-01-21T19:50:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/9V3eTrCZb9t",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T19:50:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/WDL7ugq3xAy",
+    "label": "Template for prompt: A selector for optins to search and a search input to type ehat to search",
+    "dateAdded": "2024-01-21T19:50:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/xykq123Q3U3",
+    "label": "Template for prompt: A card to show video ",
+    "dateAdded": "2024-01-21T19:50:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/JwLtdKgHe0O",
+    "label": "Template for prompt: a full height items list with nested list item to it's right. like columns view in macOS Finder",
+    "dateAdded": "2024-01-21T19:50:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/SThE1Z8v28I",
+    "label": "Template for prompt: Show tutorial video for a feature ",
+    "dateAdded": "2024-01-21T19:50:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/RjPzDGb5C70",
+    "label": "Template for prompt: saas home page using bootstrap",
+    "dateAdded": "2024-01-21T19:50:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZJRtG54d3aB",
+    "label": "Template for prompt: this form",
+    "dateAdded": "2024-01-21T19:50:03.079Z"
+  },
+  {
+    "url": "https://v0.dev/t/owW9tIDUmHJ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T19:50:03.079Z"
+  },
+  {
+    "url": "https://v0.dev/t/VxczcO2mA6Z",
+    "label": "Template for prompt: login",
+    "dateAdded": "2024-01-21T19:50:03.079Z"
+  },
+  {
+    "url": "https://v0.dev/t/vJZyXnCslhB",
+    "label": "Template for prompt: login",
+    "dateAdded": "2024-01-21T19:50:03.079Z"
+  },
+  {
+    "url": "https://v0.dev/t/jugJ4uU1o6W",
+    "label": "Template for prompt: Créez un formulaire de contact en français avec les champs obligatoires : 'Nom', 'Téléphone', 'Email', un menu déroulant 'Type' avec les options 'Plomberie', 'Chauffage', 'Électricité', et une case à cocher obligatoire 'J'accepte d'être recontacté par merc energies'.",
+    "dateAdded": "2024-01-21T19:50:03.079Z"
+  },
+  {
+    "url": "https://v0.dev/t/WuBm1Inz3bJ",
+    "label": "Template for prompt: create a div with and add one text in center use dark background",
+    "dateAdded": "2024-01-21T19:50:03.079Z"
+  },
+  {
+    "url": "https://v0.dev/t/q5YwYHAFaoh",
+    "label": "Template for prompt: a website solely for sharing bad ux ui designs and ba a fun place for everyone",
+    "dateAdded": "2024-01-21T19:50:03.080Z"
+  },
+  {
+    "url": "https://v0.dev/t/VwfYq6W39cZ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T19:50:03.080Z"
+  },
+  {
+    "url": "https://v0.dev/t/02FVgiC4Qru",
+    "label": "Template for prompt: In the dynamic field of UX/UI design, aspiring designers often face challenges in understanding common design pitfalls and best practices through real-world examples. Existing resources may lack an engaging and humorous approach to learning, making it challenging for newcomers to grasp design principles effectively. Furthermore, there is a need for a platform that not only educates but also fosters a positive community where designers can share their experiences, learn from mistakes, and have fun in the process.",
+    "dateAdded": "2024-01-21T19:50:03.080Z"
   }
 ]
