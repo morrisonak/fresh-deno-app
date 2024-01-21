@@ -16638,5 +16638,135 @@
     "url": "https://v0.dev/t/nHLR14eCyU4",
     "label": "Template for prompt: 实现一个简单的通知页面",
     "dateAdded": "2024-01-21T15:35:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/CdJoblQjnCE",
+    "label": "Template for prompt: a simple personal site",
+    "dateAdded": "2024-01-21T15:40:02.992Z"
+  },
+  {
+    "url": "https://v0.dev/t/1ZNa7ihKSkb",
+    "label": "Template for prompt: make me footer for digital agency",
+    "dateAdded": "2024-01-21T15:40:02.992Z"
+  },
+  {
+    "url": "https://v0.dev/t/YndU0DEsOq9",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-21T15:40:02.992Z"
+  },
+  {
+    "url": "https://v0.dev/t/sQ8DS66zluT",
+    "label": "Template for prompt: A dashboard for a book creator where each book is made of different chapters",
+    "dateAdded": "2024-01-21T15:40:02.992Z"
+  },
+  {
+    "url": "https://v0.dev/t/yOfZfCefa1M",
+    "label": "Template for prompt: Make a page for displaying all chats that a user may have with people",
+    "dateAdded": "2024-01-21T15:40:02.992Z"
+  },
+  {
+    "url": "https://v0.dev/t/F43TyE4Ztrl",
+    "label": "Template for prompt: about page",
+    "dateAdded": "2024-01-21T15:40:02.992Z"
+  },
+  {
+    "url": "https://v0.dev/t/QTKGHPoOzBN",
+    "label": "Template for prompt: Create me the page for follow me on Instagram Facebook x with profile pic ",
+    "dateAdded": "2024-01-21T15:40:02.993Z"
+  },
+  {
+    "url": "https://v0.dev/t/sYIJcuL2VdD",
+    "label": "Template for prompt: create a page for a dapp IronVault. This page will have a form that will take in the amount of tokens a user wants to stake to the aave protocol in order to earn collateral that will allow them to borrow loans and get profits from interest from the vault patform. The page should also have a submission button that is black and has a hover. do not use cards or components/ui please. Keep the background white ",
+    "dateAdded": "2024-01-21T15:40:02.993Z"
+  },
+  {
+    "url": "https://v0.dev/t/bIzqyqFge8v",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-21T15:40:02.993Z"
+  },
+  {
+    "url": "https://v0.dev/t/QR75ZOw8dLO",
+    "label": "Template for prompt: quiz selection ui",
+    "dateAdded": "2024-01-21T15:40:02.993Z"
+  },
+  {
+    "url": "https://v0.dev/t/8YXApVDWiCW",
+    "label": "Template for prompt: Create an beautiful crypto currency stock market prediction app landing page with advanced ui and I cons ",
+    "dateAdded": "2024-01-21T15:40:02.993Z"
+  },
+  {
+    "url": "https://v0.dev/t/wq2gbJ7tphC",
+    "label": "Template for prompt: Create a datatable with Shadcn and Tanstack table. It must be possible to add new entries into the table with an add action and edit existing entries with an edit action.",
+    "dateAdded": "2024-01-21T15:40:02.994Z"
+  },
+  {
+    "url": "https://v0.dev/t/lLiiJDXaLYo",
+    "label": "Template for prompt: create a page for a dapp IronVault. This page will have a form that will take in the amount of tokens a user wants to stake to the aave protocol in order to earn collateral that will allow them to borrow loans and get profits from interest from the vault patform. The page should also have a submission button that is black and has a hover. do not use cards or components/ui please",
+    "dateAdded": "2024-01-21T15:40:02.994Z"
+  },
+  {
+    "url": "https://v0.dev/t/owcn9IFfd8Z",
+    "label": "Template for prompt: crie um templete onde a página se destina a parabenizar uma pessoa, nessa página quero que fique dividito entre card com mensagens do lado direito e lado esquerdo com imagem ou avatar e que seja recondonda",
+    "dateAdded": "2024-01-21T15:40:02.994Z"
+  },
+  {
+    "url": "https://v0.dev/t/M8kq4VL9njC",
+    "label": "Template for prompt: 生成一个处理通知的页面 如加好友申请 加群申请",
+    "dateAdded": "2024-01-21T15:40:02.994Z"
+  },
+  {
+    "url": "https://v0.dev/t/XAofVpZAwXY",
+    "label": "Template for prompt: Pomodoro Timer App",
+    "dateAdded": "2024-01-21T15:40:02.994Z"
+  },
+  {
+    "url": "https://v0.dev/t/1AJilXE9Lxx",
+    "label": "Template for prompt: improve chat     <div id=\"messages\"></div>\n    <form id=\"chat-form\" onsubmit=\"sendMessage(); return false;\">\n        <input type=\"text\" id=\"message\" placeholder=\"Type your message...\">\n        <button type=\"submit\">Send</button>\n    </form>",
+    "dateAdded": "2024-01-21T15:40:02.994Z"
+  },
+  {
+    "url": "https://v0.dev/t/RphReYeRQrS",
+    "label": "Template for prompt: product information landing page with a buy form",
+    "dateAdded": "2024-01-21T15:40:02.995Z"
+  },
+  {
+    "url": "https://v0.dev/t/630ywIdCVan",
+    "label": "Template for prompt: edit profile section in the middle of the page on card covering the page, modern and elegant. ",
+    "dateAdded": "2024-01-21T15:40:02.995Z"
+  },
+  {
+    "url": "https://v0.dev/t/GpvtruzLwUY",
+    "label": "Template for prompt: landing page for an ai saas product in dark mode with a primary color of orange with use of gradients and a spotlight effect on the hero section title",
+    "dateAdded": "2024-01-21T15:40:02.995Z"
+  },
+  {
+    "url": "https://v0.dev/t/d99Xs4R4Yez",
+    "label": "Template for prompt: Create a responsive admin panel where there should be features of viewing the registered emails, upload logo, button txt update",
+    "dateAdded": "2024-01-21T15:40:02.995Z"
+  },
+  {
+    "url": "https://v0.dev/t/GFp7mLEgSxK",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T15:40:02.995Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zbr1gh7VlOJ",
+    "label": "Template for prompt: landing page for a website about playing board games online",
+    "dateAdded": "2024-01-21T15:40:02.995Z"
+  },
+  {
+    "url": "https://v0.dev/t/dwXQS5RE6uB",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T15:40:02.996Z"
+  },
+  {
+    "url": "https://v0.dev/t/bExyejdwhRn",
+    "label": "Template for prompt: سورس chat gpt بات تلگرام پایتون",
+    "dateAdded": "2024-01-21T15:40:02.996Z"
+  },
+  {
+    "url": "https://v0.dev/t/hJ9xbQM2Qpy",
+    "label": "Template for prompt: Create an dating app landing page with animation of love ",
+    "dateAdded": "2024-01-21T15:40:02.996Z"
   }
 ]
