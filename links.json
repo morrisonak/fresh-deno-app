@@ -19078,5 +19078,135 @@
     "url": "https://v0.dev/t/XSYwUC7k1aS",
     "label": "Template for prompt: create a landing page for GCP company",
     "dateAdded": "2024-01-21T17:10:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/75kkOejo4wv",
+    "label": "Template for prompt: a profile badge to represent a premium paid plan",
+    "dateAdded": "2024-01-21T17:15:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/iXCJ6hMjU5U",
+    "label": "Template for prompt: A video and fro my business",
+    "dateAdded": "2024-01-21T17:15:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/CngOC99VYvn",
+    "label": "Template for prompt: I'm in need multiple themes for my simple website builder (basically a landing page).\n\nThe main users are local service businesses, e.g. window cleaning, domestic cleaning, gardening, handyman services etc.\n\nThis is a very simple one page theme, but we're looking for a broad range of designs to appeal to all types of local service businesses.\nDesign Features:\n- Primary color - the business will specify a brand colour when picking a theme, which should be used in the theme\n- Flexible space for a logo and business name\n- About section, including variable length text and 0, 1 or multiple images\n- List of services - one or more services the business offers, including image, title and short text and a call to action\n- Testimonials - multiple customer testimonial including customer name, star rating, short text, services reviewed, and date\n- Sections where one or more widgets can be used (quote/pay/customer portal). The design of these widgets ",
+    "dateAdded": "2024-01-21T17:15:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/LNPrrJ3Q0Oz",
+    "label": "Template for prompt: A nex application which can handle filters through the url with query params",
+    "dateAdded": "2024-01-21T17:15:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/TVqk4XEs9Dq",
+    "label": "Template for prompt: i want exact grid with same sizing",
+    "dateAdded": "2024-01-21T17:15:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/PUzjFX6HGw6",
+    "label": "Template for prompt: An ed tech landing page ",
+    "dateAdded": "2024-01-21T17:15:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/KJ8b8MZknBI",
+    "label": "Template for prompt: a dropdown to select a country and city with all the functionality",
+    "dateAdded": "2024-01-21T17:15:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/gDJpvwVFpk2",
+    "label": "Template for prompt: I would like to create a clean and intuitive login form, and add a gradient like dark mode.",
+    "dateAdded": "2024-01-21T17:15:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/LQXr6rpY7ZU",
+    "label": "Template for prompt: Venn Diagram",
+    "dateAdded": "2024-01-21T17:15:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/15ewXyy0h5f",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T17:15:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/MaD4fvnWegm",
+    "label": "Template for prompt: Generate a logo for a company that is named \"SDPG\"",
+    "dateAdded": "2024-01-21T17:15:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/60pL1DlhT7c",
+    "label": "Template for prompt: change password form",
+    "dateAdded": "2024-01-21T17:15:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/yVHfBRU4su7",
+    "label": "Template for prompt: make a pricing section like the image, it should look like the image",
+    "dateAdded": "2024-01-21T17:15:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/alabH5t0juI",
+    "label": "Template for prompt: i table skeleton using shadcn ui ",
+    "dateAdded": "2024-01-21T17:15:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/HF38bFOTnQQ",
+    "label": "Template for prompt: a mobile app home page that displays a table of contents",
+    "dateAdded": "2024-01-21T17:15:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/5hACXjehkF5",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-21T17:15:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZTxVaXMxMUr",
+    "label": "Template for prompt: a community website for elderly people, where they can publish their competences and browse for intersting activities",
+    "dateAdded": "2024-01-21T17:15:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/QTgXy4ZsDMR",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-21T17:15:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/kTYqFzN8h2t",
+    "label": "Template for prompt: a modern student portfolio",
+    "dateAdded": "2024-01-21T17:15:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/7DCHmGbOZo3",
+    "label": "Template for prompt: responsive page to a container of book image, name, author, description",
+    "dateAdded": "2024-01-21T17:15:03.580Z"
+  },
+  {
+    "url": "https://v0.dev/t/oF4SrhVNSHC",
+    "label": "Template for prompt: admin panel analytics",
+    "dateAdded": "2024-01-21T17:15:03.580Z"
+  },
+  {
+    "url": "https://v0.dev/t/V8NdPGlvOqu",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T17:15:03.580Z"
+  },
+  {
+    "url": "https://v0.dev/t/rinVy6gOerJ",
+    "label": "Template for prompt: Peut tu me faire une application en dark qui afficherai des savoir inutiles a chque ouverturre",
+    "dateAdded": "2024-01-21T17:15:03.580Z"
+  },
+  {
+    "url": "https://v0.dev/t/xif9QfaWqaT",
+    "label": "Template for prompt: crea un carrucel animado con astro",
+    "dateAdded": "2024-01-21T17:15:03.580Z"
+  },
+  {
+    "url": "https://v0.dev/t/MYeNnI45rO9",
+    "label": "Template for prompt: reset password form",
+    "dateAdded": "2024-01-21T17:15:03.580Z"
+  },
+  {
+    "url": "https://v0.dev/t/9DbsAgk4mRY",
+    "label": "Template for prompt: Product landingpage with accents from our logo",
+    "dateAdded": "2024-01-21T17:15:03.580Z"
   }
 ]
