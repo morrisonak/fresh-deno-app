@@ -28118,5 +28118,120 @@
     "url": "https://v0.dev/t/ck3uJmEyWgP",
     "label": "Template for prompt: get a detailed component from the image",
     "dateAdded": "2024-01-21T23:30:03.297Z"
+  },
+  {
+    "url": "https://v0.dev/t/saKur3xenob",
+    "label": "Template for prompt: A file upload dropzone",
+    "dateAdded": "2024-01-21T23:35:03.989Z"
+  },
+  {
+    "url": "https://v0.dev/t/WmxNieQW3rF",
+    "label": "Template for prompt: Dashboard page for retailers ",
+    "dateAdded": "2024-01-21T23:35:03.989Z"
+  },
+  {
+    "url": "https://v0.dev/t/wclRWqXl5FE",
+    "label": "Template for prompt: generate an app home screen for managing hashtag groups. it should include 4 top stats. a list of groups. and input for ai suggestions",
+    "dateAdded": "2024-01-21T23:35:03.989Z"
+  },
+  {
+    "url": "https://v0.dev/t/kQZQD2TeMYs",
+    "label": "Template for prompt: Espadlife.com",
+    "dateAdded": "2024-01-21T23:35:03.989Z"
+  },
+  {
+    "url": "https://v0.dev/t/xU0qxIAeXCF",
+    "label": "Template for prompt: A page for a user \"post\" which contains the following elements: title, creator, updated date, link, visibility indicator (whether it is a public or private post), and a list of cards, each of which has a title, icon, description, and category",
+    "dateAdded": "2024-01-21T23:35:03.989Z"
+  },
+  {
+    "url": "https://v0.dev/t/jsnDzypl5wo",
+    "label": "Template for prompt: I'm building a page to display a magic the gathering trading card and I want to display its title, the set that it came from, the type, mana cost, rarity, collector number and the description text and flavor text. I want this to be laid out nicely and work responsively.",
+    "dateAdded": "2024-01-21T23:35:03.989Z"
+  },
+  {
+    "url": "https://v0.dev/t/QK3Z4vrsgz2",
+    "label": "Template for prompt: a detail page for a countries app",
+    "dateAdded": "2024-01-21T23:35:03.990Z"
+  },
+  {
+    "url": "https://v0.dev/t/zHzI2zGLqwb",
+    "label": "Template for prompt: use bootstrap to generate an html page that is split to half and has a button on each side for 'ChatGPT' and 'Gemini'",
+    "dateAdded": "2024-01-21T23:35:03.990Z"
+  },
+  {
+    "url": "https://v0.dev/t/vSl93LJhEU2",
+    "label": "Template for prompt: Give me a UI with a card in the middle, with an image of the user, their discord tag next to it. Then underneath, have buttons with options for unbinding their license key, resetting their key, and cancel subscription.",
+    "dateAdded": "2024-01-21T23:35:03.990Z"
+  },
+  {
+    "url": "https://v0.dev/t/6hEy3YGmWxD",
+    "label": "Template for prompt: mobile list view of custom content with different possible field types: single selection, multiselection, description, rating, date. Has id and comment button, and an option to expand",
+    "dateAdded": "2024-01-21T23:35:03.990Z"
+  },
+  {
+    "url": "https://v0.dev/t/T4sNdPcGOdX",
+    "label": "Template for prompt: write a simple drop down select element",
+    "dateAdded": "2024-01-21T23:35:03.990Z"
+  },
+  {
+    "url": "https://v0.dev/t/1Sj87Hzubaa",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T23:35:03.990Z"
+  },
+  {
+    "url": "https://v0.dev/t/z9ceGlnhvGt",
+    "label": "Template for prompt: list view of custom content with different possible field types: single selection, multiselection, description, rating, date. Has id and comment button, and an option to expand",
+    "dateAdded": "2024-01-21T23:35:03.990Z"
+  },
+  {
+    "url": "https://v0.dev/t/HxBPTmZd2SN",
+    "label": "Template for prompt: Make a component for a pre-battle character selection screen. The user should be able to pick their own character, and an enemy character, and then click \"Proceed\" to finalize. There should be 12 character options. It should feel similar to Pokemon.",
+    "dateAdded": "2024-01-21T23:35:03.990Z"
+  },
+  {
+    "url": "https://v0.dev/t/CURh5HBpxOW",
+    "label": "Template for prompt: a calendar based to do list",
+    "dateAdded": "2024-01-21T23:35:03.991Z"
+  },
+  {
+    "url": "https://v0.dev/t/l4zGqntkI8f",
+    "label": "Template for prompt: a copy paste squared button that basically copys the text",
+    "dateAdded": "2024-01-21T23:35:03.991Z"
+  },
+  {
+    "url": "https://v0.dev/t/EatDybYIIQi",
+    "label": "Template for prompt: a landing page for a SaaS",
+    "dateAdded": "2024-01-21T23:35:03.991Z"
+  },
+  {
+    "url": "https://v0.dev/t/5nfnxTczZE5",
+    "label": "Template for prompt: a textfield with dropdown menu inside",
+    "dateAdded": "2024-01-21T23:35:03.991Z"
+  },
+  {
+    "url": "https://v0.dev/t/4ru5Y0Ycpfd",
+    "label": "Template for prompt: make this swipeup menu better and more better looking, by using the ui rules ",
+    "dateAdded": "2024-01-21T23:35:03.991Z"
+  },
+  {
+    "url": "https://v0.dev/t/wnQnUP20lPH",
+    "label": "Template for prompt: a calendar app like google calendar",
+    "dateAdded": "2024-01-21T23:35:03.991Z"
+  },
+  {
+    "url": "https://v0.dev/t/5B6ixqWuARr",
+    "label": "Template for prompt: list of user information card with small round image with a x to delete a pen to edit the information",
+    "dateAdded": "2024-01-21T23:35:03.991Z"
+  },
+  {
+    "url": "https://v0.dev/t/p9y1KamWloq",
+    "label": "Template for prompt: create a section similar to this image that is composed by 2 sides",
+    "dateAdded": "2024-01-21T23:35:03.991Z"
+  },
+  {
+    "url": "https://v0.dev/t/sYAuouelIhv",
+    "label": "Template for prompt: twitch streamer event donation page for paypal and venmo donation types to a selection/drop down list of qvailable artists during a 24/7 livestream",
+    "dateAdded": "2024-01-21T23:35:03.992Z"
   }
 ]
