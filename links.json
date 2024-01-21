@@ -14213,5 +14213,125 @@
     "url": "https://v0.dev/t/BGfVoQHJvAW",
     "label": "Template for prompt: interface for adding skills ",
     "dateAdded": "2024-01-21T01:40:03.199Z"
+  },
+  {
+    "url": "https://v0.dev/t/vjlNJUIQBvl",
+    "label": "Template for prompt: a chatgpt ui that responds with UI components",
+    "dateAdded": "2024-01-21T01:45:02.664Z"
+  },
+  {
+    "url": "https://v0.dev/t/R5Q9dZ9T6ev",
+    "label": "Template for prompt: A landing page for an AI app that makes Speech Language lesson plans",
+    "dateAdded": "2024-01-21T01:45:02.664Z"
+  },
+  {
+    "url": "https://v0.dev/t/9D0J9I8Hc13",
+    "label": "Template for prompt: create a construction company website introducing businesses and recent projects",
+    "dateAdded": "2024-01-21T01:45:02.664Z"
+  },
+  {
+    "url": "https://v0.dev/t/t6ImswGLKHL",
+    "label": "Template for prompt: The app helps university students rate and review professors. It's designed to help students choose courses and faculty by giving them detailed insights into teaching styles and course content. \n\nLogin Page: Provides a form for existing users to enter their credentials and log in. Includes options for password recovery and redirection to signup page for new users.",
+    "dateAdded": "2024-01-21T01:45:02.664Z"
+  },
+  {
+    "url": "https://v0.dev/t/lBmIAu5PFVB",
+    "label": "Template for prompt: Modify the live LBPs section to better differentiate the cards",
+    "dateAdded": "2024-01-21T01:45:02.665Z"
+  },
+  {
+    "url": "https://v0.dev/t/fag4X7xwrhp",
+    "label": "Template for prompt: A chatgpt UI ",
+    "dateAdded": "2024-01-21T01:45:02.665Z"
+  },
+  {
+    "url": "https://v0.dev/t/6jLJaNbC7CY",
+    "label": "Template for prompt: Refine this",
+    "dateAdded": "2024-01-21T01:45:02.665Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ekx5oPlSZCb",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T01:45:02.665Z"
+  },
+  {
+    "url": "https://v0.dev/t/iUwIAtmGCOZ",
+    "label": "Template for prompt: i want show my game list",
+    "dateAdded": "2024-01-21T01:45:02.665Z"
+  },
+  {
+    "url": "https://v0.dev/t/jftH6rClXyV",
+    "label": "Template for prompt: A console like chatnot",
+    "dateAdded": "2024-01-21T01:45:02.665Z"
+  },
+  {
+    "url": "https://v0.dev/t/CyOuQbmul5O",
+    "label": "Template for prompt: create a login/signup landing page",
+    "dateAdded": "2024-01-21T01:45:02.666Z"
+  },
+  {
+    "url": "https://v0.dev/t/2PaYg8mMcKO",
+    "label": "Template for prompt: contemporary music library with song art",
+    "dateAdded": "2024-01-21T01:45:02.666Z"
+  },
+  {
+    "url": "https://v0.dev/t/OuerTe8TUrc",
+    "label": "Template for prompt: A Google like search page. It has an image, a search bar below it. After the search is made, it shows a card below the search bar with bold text",
+    "dateAdded": "2024-01-21T01:45:02.666Z"
+  },
+  {
+    "url": "https://v0.dev/t/C7x3jKSbVg8",
+    "label": "Template for prompt: make 3 divs split horizontally each having a table with 3 columns for outfir recommendation. 1st columns is object_type like top, bottom, outer, etc. second is description or name of the object, third is a button to search item on google",
+    "dateAdded": "2024-01-21T01:45:02.666Z"
+  },
+  {
+    "url": "https://v0.dev/t/o4qHF4OtRxt",
+    "label": "Template for prompt: A Login page",
+    "dateAdded": "2024-01-21T01:45:02.666Z"
+  },
+  {
+    "url": "https://v0.dev/t/YTeyrPytLXV",
+    "label": "Template for prompt: a game tool UI for manipulating internal data, load files and show and edit content, similar to notion",
+    "dateAdded": "2024-01-21T01:45:02.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/969lut76tRd",
+    "label": "Template for prompt: transition scrolling",
+    "dateAdded": "2024-01-21T01:45:02.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/s4Le3NFODYd",
+    "label": "Template for prompt: shadcn spotify audio player",
+    "dateAdded": "2024-01-21T01:45:02.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/poB8btrUqAM",
+    "label": "Template for prompt: cretae me a skeletong for this page",
+    "dateAdded": "2024-01-21T01:45:02.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/7l3LsmDsrZW",
+    "label": "Template for prompt: 帮我生成一个和微信一样的界面",
+    "dateAdded": "2024-01-21T01:45:02.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/26ISitbAAwI",
+    "label": "Template for prompt: Wiki-like CMS having header (include menu, search box), sidebar (include navigation links).",
+    "dateAdded": "2024-01-21T01:45:02.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/5wmVKUCywgQ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T01:45:02.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/UXmJY55fZkN",
+    "label": "Template for prompt: An ecommerce website for a meal prep company that serves health and fitness enthusiasts",
+    "dateAdded": "2024-01-21T01:45:02.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/Gf7M0Hbv5CT",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-21T01:45:02.668Z"
   }
 ]
