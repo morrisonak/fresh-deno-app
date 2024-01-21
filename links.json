@@ -23763,5 +23763,125 @@
     "url": "https://v0.dev/t/r5B5IeIbxjQ",
     "label": "Template for prompt: list of previous jobs worked on in a cv style",
     "dateAdded": "2024-01-21T20:15:03.485Z"
+  },
+  {
+    "url": "https://v0.dev/t/F4TMpfSAHlV",
+    "label": "Template for prompt: A home page component for the hero section that uses a Next.js <Image> as the background of the hero section\n\nThe hero section has a menu header on top of it with three parts: menu left, logo middle, menu right\n\nThe hero section has some promo text and button in the middle\n\nThe hero's section background should use the full width of the browser",
+    "dateAdded": "2024-01-21T20:20:03.370Z"
+  },
+  {
+    "url": "https://v0.dev/t/UJzNxzXqNft",
+    "label": "Template for prompt: I've provided an image can you make a copy of the image using code",
+    "dateAdded": "2024-01-21T20:20:03.370Z"
+  },
+  {
+    "url": "https://v0.dev/t/zXKcDpvPTWd",
+    "label": "Template for prompt: create new a chat system UX",
+    "dateAdded": "2024-01-21T20:20:03.370Z"
+  },
+  {
+    "url": "https://v0.dev/t/FaRxA6eLCqj",
+    "label": "Template for prompt: small bar of Icons that when hovered shows the name of the icon, minmalistic, glossy and dark them",
+    "dateAdded": "2024-01-21T20:20:03.371Z"
+  },
+  {
+    "url": "https://v0.dev/t/nEdhW2gm7Xh",
+    "label": "Template for prompt: an ai agency for businesses ",
+    "dateAdded": "2024-01-21T20:20:03.371Z"
+  },
+  {
+    "url": "https://v0.dev/t/4NNEMsxdgKu",
+    "label": "Template for prompt: This will be inside a Card.\nLets have 2 Tabs. Called \"Channels\" and \"Members\".\nInside Channels we need to have 4 channels.\n1 Channel is a row  starting on the left with an icon a name an icon edit icon and on the right we need a icon delete button.\nUnder a Channel we need to have a member which is also a row.\nA Member is an Icon a Name, some space a Badge a Promote Icon button, a demote Icon Button. ",
+    "dateAdded": "2024-01-21T20:20:03.371Z"
+  },
+  {
+    "url": "https://v0.dev/t/X54EKLaODzY",
+    "label": "Template for prompt: A dark login form",
+    "dateAdded": "2024-01-21T20:20:03.371Z"
+  },
+  {
+    "url": "https://v0.dev/t/8F7WSNYjgmG",
+    "label": "Template for prompt: max. 10 small tasks list with pagination and a top button to create a task",
+    "dateAdded": "2024-01-21T20:20:03.372Z"
+  },
+  {
+    "url": "https://v0.dev/t/ceKDfjLYDK1",
+    "label": "Template for prompt: give me a nice linear gradiant purple color for my fitness app",
+    "dateAdded": "2024-01-21T20:20:03.372Z"
+  },
+  {
+    "url": "https://v0.dev/t/eVVlucdYBob",
+    "label": "Template for prompt: animate this",
+    "dateAdded": "2024-01-21T20:20:03.372Z"
+  },
+  {
+    "url": "https://v0.dev/t/XMuNbC10013",
+    "label": "Template for prompt: a split login screen",
+    "dateAdded": "2024-01-21T20:20:03.372Z"
+  },
+  {
+    "url": "https://v0.dev/t/NThqD4AmsIk",
+    "label": "Template for prompt: An web app for managing seen movies",
+    "dateAdded": "2024-01-21T20:20:03.372Z"
+  },
+  {
+    "url": "https://v0.dev/t/Pb6ygjF8agY",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T20:20:03.373Z"
+  },
+  {
+    "url": "https://v0.dev/t/b5rOudAQzsA",
+    "label": "Template for prompt: Generate an offer section with 3 offers, with the premiest in the middle",
+    "dateAdded": "2024-01-21T20:20:03.373Z"
+  },
+  {
+    "url": "https://v0.dev/t/1nXCt5ihxZU",
+    "label": "Template for prompt: A dreamy circular ish colour gradient of violet, white and yellow ",
+    "dateAdded": "2024-01-21T20:20:03.373Z"
+  },
+  {
+    "url": "https://v0.dev/t/V7GbqDDuop5",
+    "label": "Template for prompt: Lets build an page which have a top bar, and 2 section, one section on left is small and on right its more wide, like width is 1:3 ration",
+    "dateAdded": "2024-01-21T20:20:03.373Z"
+  },
+  {
+    "url": "https://v0.dev/t/aGQBH7ab7qU",
+    "label": "Template for prompt: Generate a offer section",
+    "dateAdded": "2024-01-21T20:20:03.373Z"
+  },
+  {
+    "url": "https://v0.dev/t/Sic8Q9HbrNw",
+    "label": "Template for prompt: i want a page with 3 buttons to store blood pressure data. one button to add new data. one button to see the records and one to generate a report",
+    "dateAdded": "2024-01-21T20:20:03.374Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yu8Wz0wfcru",
+    "label": "Template for prompt: create me an app menu dashboard with apps to select from",
+    "dateAdded": "2024-01-21T20:20:03.374Z"
+  },
+  {
+    "url": "https://v0.dev/t/A3S7VLqWFuR",
+    "label": "Template for prompt: can you make an elektron Octatrack",
+    "dateAdded": "2024-01-21T20:20:03.374Z"
+  },
+  {
+    "url": "https://v0.dev/t/79LmeWzVj7W",
+    "label": "Template for prompt: make a compact chat application",
+    "dateAdded": "2024-01-21T20:20:03.374Z"
+  },
+  {
+    "url": "https://v0.dev/t/gKEybOLNVJN",
+    "label": "Template for prompt: outstanding eye catching temazcal web page",
+    "dateAdded": "2024-01-21T20:20:03.374Z"
+  },
+  {
+    "url": "https://v0.dev/t/P64Qj7WNOFH",
+    "label": "Template for prompt: A qr code generator application landing page where the users can instantly generate qr codes. Add a top navigation bar with logo and login / sign up. Beneath that the main components with different data options like url, email, app store link. next to that a preview of the qr code with a download button. beneath all that some space for ads.",
+    "dateAdded": "2024-01-21T20:20:03.375Z"
+  },
+  {
+    "url": "https://v0.dev/t/TaK58TXCryD",
+    "label": "Template for prompt: a navigation bar for a pdf viewer with a page component that displays the page number and a left and right button as well as a zoom component with the ability to zoom in and out. also a switch to change between light and dark mode",
+    "dateAdded": "2024-01-21T20:20:03.375Z"
   }
 ]
