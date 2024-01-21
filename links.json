@@ -25808,5 +25808,130 @@
     "url": "https://v0.dev/t/qbwNoqipGLn",
     "label": "Template for prompt: Card with close ad the top right of the card",
     "dateAdded": "2024-01-21T22:00:03.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/1d0tA7JJw2U",
+    "label": "Template for prompt: a \"product roadmap\" component. Shows the companys products and future plans.",
+    "dateAdded": "2024-01-21T22:05:02.775Z"
+  },
+  {
+    "url": "https://v0.dev/t/zAYi57dWFo7",
+    "label": "Template for prompt: a mobile navigation menu ",
+    "dateAdded": "2024-01-21T22:05:02.775Z"
+  },
+  {
+    "url": "https://v0.dev/t/SaD1UlqLzbI",
+    "label": "Template for prompt: a dashboard to administer a linux server. samba shares management. zfs dataset unlocking, locking, mountin, unmounting. direct access to files and folder.",
+    "dateAdded": "2024-01-21T22:05:02.776Z"
+  },
+  {
+    "url": "https://v0.dev/t/7UfVNqEoiDz",
+    "label": "Template for prompt: Roadmap component: eMedic PIN\n\neMedic API\n\neMedic Chat\n\nAutofyllfunksjonen\n",
+    "dateAdded": "2024-01-21T22:05:02.776Z"
+  },
+  {
+    "url": "https://v0.dev/t/9pxSZUdRgWi",
+    "label": "Template for prompt: create a product page with a selection of different dapps to choose from",
+    "dateAdded": "2024-01-21T22:05:02.776Z"
+  },
+  {
+    "url": "https://v0.dev/t/TAepiYTOyy7",
+    "label": "Template for prompt: 404 not found page for an events web page",
+    "dateAdded": "2024-01-21T22:05:02.776Z"
+  },
+  {
+    "url": "https://v0.dev/t/X4oHXfnpcei",
+    "label": "Template for prompt: Clash royale like homepage for songs albums",
+    "dateAdded": "2024-01-21T22:05:02.776Z"
+  },
+  {
+    "url": "https://v0.dev/t/B5l0xYpcYTu",
+    "label": "Template for prompt: Create a header with like this  ",
+    "dateAdded": "2024-01-21T22:05:02.777Z"
+  },
+  {
+    "url": "https://v0.dev/t/7pdgmA3SyyR",
+    "label": "Template for prompt: A full screen mobile navigation that fits the entire screen. Header a top. A middle section that fills most the screen with accordions for new menu items. And two buttons at the bottom fixed",
+    "dateAdded": "2024-01-21T22:05:02.777Z"
+  },
+  {
+    "url": "https://v0.dev/t/UNBv75xHSzC",
+    "label": "Template for prompt: {\n    \"body\": \"<p>Uma?</p>\\n\",\n    \"solution\": [\"<p>Vamos</svg></p>\\n\"],\n    \"answer\": \"<p style=\\\"text-align:center;\\\"><svg></svg></p>\",\n    \"url\": \"/conteudo/mecanica\"\n}\ncreate a page that request a JSON like this with address\nhttps://www.respondeai.com.br/conteudo/api/frontend/book-exercises/38824\nand return the result rendered in page",
+    "dateAdded": "2024-01-21T22:05:02.777Z"
+  },
+  {
+    "url": "https://v0.dev/t/XR6vZfXCjDo",
+    "label": "Template for prompt: A landing page for an app that allows people to sign up for openings to come over to a friends house for dinner. The app is called \"Cordial Kitchen\"",
+    "dateAdded": "2024-01-21T22:05:02.777Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y3kn7RWEnIt",
+    "label": "Template for prompt: login form: username, password, shadcn ui, typescript",
+    "dateAdded": "2024-01-21T22:05:02.777Z"
+  },
+  {
+    "url": "https://v0.dev/t/wiG4vI1ye9z",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-21T22:05:02.778Z"
+  },
+  {
+    "url": "https://v0.dev/t/k3v6feo0bLA",
+    "label": "Template for prompt: A list of projects that can be either edited or navigated into",
+    "dateAdded": "2024-01-21T22:05:02.778Z"
+  },
+  {
+    "url": "https://v0.dev/t/aWI5a5LMjDb",
+    "label": "Template for prompt: A website for wind surf school ",
+    "dateAdded": "2024-01-21T22:05:02.778Z"
+  },
+  {
+    "url": "https://v0.dev/t/y0mzp1d2iG2",
+    "label": "Template for prompt: a Community Resilience and Adaptation Toolkit dasboard",
+    "dateAdded": "2024-01-21T22:05:02.778Z"
+  },
+  {
+    "url": "https://v0.dev/t/knnlcxzGv6J",
+    "label": "Template for prompt: two buttons, one next to another, where the second one drops down a menu upon clicking and the menu's width is the same as the two buttons width",
+    "dateAdded": "2024-01-21T22:05:02.778Z"
+  },
+  {
+    "url": "https://v0.dev/t/YKlZoP1XF8o",
+    "label": "Template for prompt: saas admin dashboard",
+    "dateAdded": "2024-01-21T22:05:02.779Z"
+  },
+  {
+    "url": "https://v0.dev/t/OVLLDz0AIng",
+    "label": "Template for prompt: A profile picture tester where you upload an imagen and it shows in different formats and sizes to see how it looks in social media",
+    "dateAdded": "2024-01-21T22:05:02.779Z"
+  },
+  {
+    "url": "https://v0.dev/t/ABGpOiptynR",
+    "label": "Template for prompt: a landing page section with an IDE dark mode panel showing some python code with syntax highlighting",
+    "dateAdded": "2024-01-21T22:05:02.779Z"
+  },
+  {
+    "url": "https://v0.dev/t/0pc0bd1DSAL",
+    "label": "Template for prompt: a 403 page using a gif. take this image as reference for colors",
+    "dateAdded": "2024-01-21T22:05:02.779Z"
+  },
+  {
+    "url": "https://v0.dev/t/7A8HER9bCrY",
+    "label": "Template for prompt: a 403 page using a gif. take this image as reference for colors",
+    "dateAdded": "2024-01-21T22:05:02.779Z"
+  },
+  {
+    "url": "https://v0.dev/t/OInM3cQD7I2",
+    "label": "Template for prompt: due payment summary drawer that shows total due, charges, option to select whether to pay with wallet or wallet and card, how much is being paid from the wallet, the net amount to pay and finally the pay button",
+    "dateAdded": "2024-01-21T22:05:02.780Z"
+  },
+  {
+    "url": "https://v0.dev/t/qyS64NXvsxZ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T22:05:02.780Z"
+  },
+  {
+    "url": "https://v0.dev/t/usXnZmE4wlI",
+    "label": "Template for prompt: make a dope responsive page saying \"this user does not exist\" along with a \"go back\" button",
+    "dateAdded": "2024-01-21T22:05:02.780Z"
   }
 ]
