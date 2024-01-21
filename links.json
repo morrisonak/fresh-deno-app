@@ -12478,5 +12478,135 @@
     "url": "https://v0.dev/t/cgI2S3LFXAj",
     "label": "Template for prompt: Home banner for Curriculum website",
     "dateAdded": "2024-01-21T00:30:03.342Z"
+  },
+  {
+    "url": "https://v0.dev/t/SNWSuZchZKG",
+    "label": "Template for prompt: necesito hacer un modal con tailwind en angular",
+    "dateAdded": "2024-01-21T00:35:03.860Z"
+  },
+  {
+    "url": "https://v0.dev/t/Fqh6Fu2WhUk",
+    "label": "Template for prompt: an interface for splitting audio files into its stems, containing an audio player, a dropzone where an audio file can be placed and uploaded.",
+    "dateAdded": "2024-01-21T00:35:03.860Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z0mrDYI5ADg",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-21T00:35:03.860Z"
+  },
+  {
+    "url": "https://v0.dev/t/KdB0YFNZqHM",
+    "label": "Template for prompt: A web app that helps you get better at conversations through speaking at timed intervals",
+    "dateAdded": "2024-01-21T00:35:03.861Z"
+  },
+  {
+    "url": "https://v0.dev/t/1F5vjHdOeHt",
+    "label": "Template for prompt: month year picker",
+    "dateAdded": "2024-01-21T00:35:03.861Z"
+  },
+  {
+    "url": "https://v0.dev/t/kNx4pN1VebJ",
+    "label": "Template for prompt: an introduction slide with a big profile picture, title, and subtitle",
+    "dateAdded": "2024-01-21T00:35:03.861Z"
+  },
+  {
+    "url": "https://v0.dev/t/yl8fzEoJhpu",
+    "label": "Template for prompt: A speedrunning live racing page",
+    "dateAdded": "2024-01-21T00:35:03.861Z"
+  },
+  {
+    "url": "https://v0.dev/t/cma0ymFJOE9",
+    "label": "Template for prompt: crie um painel igual ao da imagem para gerenciamento de Data Sources ",
+    "dateAdded": "2024-01-21T00:35:03.861Z"
+  },
+  {
+    "url": "https://v0.dev/t/qn3Sv8xJ5dD",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T00:35:03.861Z"
+  },
+  {
+    "url": "https://v0.dev/t/xNE1hopvP8W",
+    "label": "Template for prompt: a gameplay page that explains how to play and gives breaf information of each zone of the game",
+    "dateAdded": "2024-01-21T00:35:03.862Z"
+  },
+  {
+    "url": "https://v0.dev/t/dyhIBYhRJq0",
+    "label": "Template for prompt: file upload input",
+    "dateAdded": "2024-01-21T00:35:03.862Z"
+  },
+  {
+    "url": "https://v0.dev/t/62Ewcw8H4Ix",
+    "label": "Template for prompt: a dropzone for fileuploads",
+    "dateAdded": "2024-01-21T00:35:03.862Z"
+  },
+  {
+    "url": "https://v0.dev/t/wLCTv1sR1Tv",
+    "label": "Template for prompt: create a form in dark mode with two input fields: description and origin. The title of the form is \"Create new stream\". There has to be three lines under the fields for explanation. The submit button, on the bottom, should say \"Start stream\" followed by a rocket emoji",
+    "dateAdded": "2024-01-21T00:35:03.862Z"
+  },
+  {
+    "url": "https://v0.dev/t/EAsqa3IHEvp",
+    "label": "Template for prompt: Create login page with black colors: Password, Email, Login with discord",
+    "dateAdded": "2024-01-21T00:35:03.862Z"
+  },
+  {
+    "url": "https://v0.dev/t/h7FEfPFbVVU",
+    "label": "Template for prompt: features page with different sections",
+    "dateAdded": "2024-01-21T00:35:03.863Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wrzp99zNFNk",
+    "label": "Template for prompt: build tinder style swipe prototype for approve or dismiss sorting",
+    "dateAdded": "2024-01-21T00:35:03.863Z"
+  },
+  {
+    "url": "https://v0.dev/t/QKBjbrqdrVM",
+    "label": "Template for prompt: deleted comment ",
+    "dateAdded": "2024-01-21T00:35:03.863Z"
+  },
+  {
+    "url": "https://v0.dev/t/07GyvOaG4qj",
+    "label": "Template for prompt: Tree list with nodes and checkboxes",
+    "dateAdded": "2024-01-21T00:35:03.863Z"
+  },
+  {
+    "url": "https://v0.dev/t/1EqyHUyI0vJ",
+    "label": "Template for prompt: make a better error page",
+    "dateAdded": "2024-01-21T00:35:03.863Z"
+  },
+  {
+    "url": "https://v0.dev/t/LqnivSe9GWC",
+    "label": "Template for prompt: react-flow を使って data diagram をつくります。 user テーブルと account テーブルの依存をレンダリングしたいです。 検索もできるようにしてください",
+    "dateAdded": "2024-01-21T00:35:03.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/5eMxaYz9KBt",
+    "label": "Template for prompt: a responsive dental care landing page",
+    "dateAdded": "2024-01-21T00:35:03.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/fdS7gmeHwyJ",
+    "label": "Template for prompt: Make an interactive page for users to edit their own bios",
+    "dateAdded": "2024-01-21T00:35:03.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/FGpRRw5OGAR",
+    "label": "Template for prompt: a react component showcasing the following data [\n    {\n        \"category\": \"Housing\",\n        \"percentage\": 30,\n        \"amount\": 22800\n    },\n    {\n        \"category\": \"Food\",\n        \"percentage\": 15,\n        \"amount\": 11400\n    },\n    {\n        \"category\": \"Transportation\",\n        \"percentage\": 10,\n        \"amount\": 7600\n    },\n    {\n        \"category\": \"Healthcare\",\n        \"percentage\": 5,\n        \"amount\": 3800\n    },\n    {\n        \"category\": \"Savings\",\n        \"percentage\": 20,\n        \"amount\": 15200\n    },\n    {\n        \"category\": \"Entertainment and Personal\",\n        \"percentage\": 10,\n        \"amount\": 7600\n    },\n    {\n        \"category\": \"Other\",\n        \"percentage\": 10,\n        \"amount\": 7600\n    }\n]",
+    "dateAdded": "2024-01-21T00:35:03.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/AA4XsHOxJ9B",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T00:35:03.865Z"
+  },
+  {
+    "url": "https://v0.dev/t/mcF1SYJpGV0",
+    "label": "Template for prompt: a blog home page with all the posts. The page should be in a darker color",
+    "dateAdded": "2024-01-21T00:35:03.865Z"
+  },
+  {
+    "url": "https://v0.dev/t/JrNp34Uvy0W",
+    "label": "Template for prompt: Give me a simple dashboard, that contains, a top navigation, 3 cards and a datatable",
+    "dateAdded": "2024-01-21T00:35:03.865Z"
   }
 ]
