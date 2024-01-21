@@ -20323,5 +20323,135 @@
     "url": "https://v0.dev/t/U3QzuSl7j4y",
     "label": "Template for prompt: index games",
     "dateAdded": "2024-01-21T18:00:03.433Z"
+  },
+  {
+    "url": "https://v0.dev/t/IpKNBOb4LaZ",
+    "label": "Template for prompt: make a beautiful review section",
+    "dateAdded": "2024-01-21T18:05:02.852Z"
+  },
+  {
+    "url": "https://v0.dev/t/IZ4mQv3LzJH",
+    "label": "Template for prompt: A ui for handling user storage",
+    "dateAdded": "2024-01-21T18:05:02.852Z"
+  },
+  {
+    "url": "https://v0.dev/t/TdPsNe4Rs3t",
+    "label": "Template for prompt: a dashboard similar to trello app for drag and drop components",
+    "dateAdded": "2024-01-21T18:05:02.852Z"
+  },
+  {
+    "url": "https://v0.dev/t/dWfQihYavO1",
+    "label": "Template for prompt: A news slider with the image, title and body that works only in html without react please",
+    "dateAdded": "2024-01-21T18:05:02.852Z"
+  },
+  {
+    "url": "https://v0.dev/t/B6ojXUWDgs4",
+    "label": "Template for prompt: create an exam form page with a countdown timer, title and question form",
+    "dateAdded": "2024-01-21T18:05:02.852Z"
+  },
+  {
+    "url": "https://v0.dev/t/nFl46KmARsx",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T18:05:02.852Z"
+  },
+  {
+    "url": "https://v0.dev/t/ef0SVcQccRp",
+    "label": "Template for prompt: gere a home page da área do cliente de uma plataforma de criação de chatbots com inteligencia artificial que podem ser trienados usando dados privados dos usuários através de integrações diversas, como google driver, notion, pdfs, youtube, websites, etc. ",
+    "dateAdded": "2024-01-21T18:05:02.852Z"
+  },
+  {
+    "url": "https://v0.dev/t/SFZh6PKsGw3",
+    "label": "Template for prompt: Faith Meats\nPremium Halal Beef Jerky\n<img src=\"faithmeats-logo.png\" width=\"200px\"> <h3>Snacking Done Right</h3>\nAt Faith Meats, we are devoted to mindful snacking and transparent sourcing. Our artisanal beef jerky delivers premium nutrition and temptation-worthy flavors inspired by centuries-old culinary traditions worldwide [1].\n\n<button class=\"cta-button\">Shop Now</button>\n\nOur Story\nWe start with quality grass-fed halal beef, ethically raised and processed. Then we handcraft each small batch using real, whole ingredients to create snacks brimming with heritage and passion [2].\n\n<img class=\"right-image\" src=\"founder.jpg\">\nOur founder Sabir Asheed's globally inspired recipes open new worlds in every bite. With an emphasis on premium beef and authentic ethnic flavors, Faith Meats is redefining the jerky market and bringing a spirit of innovation [3].\n\n<div class=\"testimonial\"> <img src=\"customer.jpg\"> <p>\"The flavors are so unique and tasty!\"</p> <p>- Ayesha, Houston TX</p> </div> <h3>",
+    "dateAdded": "2024-01-21T18:05:02.852Z"
+  },
+  {
+    "url": "https://v0.dev/t/GonWer0TiJw",
+    "label": "Template for prompt: Podrias darme unas carsd en donde tengan diseño en puro css en donde unas tengan el icono de oferta, las cards solo llevaran las caracteristicas del producto con boostrap",
+    "dateAdded": "2024-01-21T18:05:02.853Z"
+  },
+  {
+    "url": "https://v0.dev/t/iTn1JmcxlQo",
+    "label": "Template for prompt: Podrias darme unas carsd en donde tengan diseño en puro css en donde unas tengan el icono de oferta, las cards solo llevaran las caracteristicas del producto con boostrap",
+    "dateAdded": "2024-01-21T18:05:02.853Z"
+  },
+  {
+    "url": "https://v0.dev/t/qQyIVfpIqgY",
+    "label": "Template for prompt: Podrias darme unas carsd en donde tengan diseño en puro css en donde unas tengan el icono de oferta, las cards solo llevaran las caracteristicas del producto con boostrap",
+    "dateAdded": "2024-01-21T18:05:02.853Z"
+  },
+  {
+    "url": "https://v0.dev/t/mmShLLpY0lC",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-21T18:05:02.853Z"
+  },
+  {
+    "url": "https://v0.dev/t/49cshq6tiYK",
+    "label": "Template for prompt: An innovative search bar that looks nothing like the past. ",
+    "dateAdded": "2024-01-21T18:05:02.853Z"
+  },
+  {
+    "url": "https://v0.dev/t/MAoReP9WUzp",
+    "label": "Template for prompt: An innovative search bar that looks nothing like the past. ",
+    "dateAdded": "2024-01-21T18:05:02.853Z"
+  },
+  {
+    "url": "https://v0.dev/t/bGckMT0ApG0",
+    "label": "Template for prompt: An innovative search bar that looks nothing like the past. ",
+    "dateAdded": "2024-01-21T18:05:02.853Z"
+  },
+  {
+    "url": "https://v0.dev/t/jYFX60itDtl",
+    "label": "Template for prompt: menu drop down in lef screen",
+    "dateAdded": "2024-01-21T18:05:02.854Z"
+  },
+  {
+    "url": "https://v0.dev/t/CYnYdw2LdF1",
+    "label": "Template for prompt: \nCreating a web application for currency exchange between users involves several key components and considerations. Here's a basic outline of how you might structure and develop such an app:\n\n1. User Interface (UI) Design\nHome Page: A simple and intuitive interface where users can select the currency they want to buy or sell.\nCurrency Selection: Dropdown menus or a search bar for selecting currencies.\nExchange Offers: A section displaying current offers from other users, including the currency and the exchange rate.\nCalculator: An interactive tool for users to calculate their potential profit or loss from a currency exchange.\n2. User Registration and Profile Management\nAllow users to create accounts to manage their offers and transactions.\nProfile pages where users can view their transaction history and current offers.\n3. Currency Exchange Functionality\nPosting Offers: Users should be able to post offers indicating the currency they have and the exchange rate they are willing to accept",
+    "dateAdded": "2024-01-21T18:05:02.854Z"
+  },
+  {
+    "url": "https://v0.dev/t/sVmMoMzVFdu",
+    "label": "Template for prompt: doctors listing in gallery view one page website, footer at bottom, hero image on top and top nav bar",
+    "dateAdded": "2024-01-21T18:05:02.854Z"
+  },
+  {
+    "url": "https://v0.dev/t/DtjGlVIymQE",
+    "label": "Template for prompt: A page to accept an invitation to view a shared document",
+    "dateAdded": "2024-01-21T18:05:02.855Z"
+  },
+  {
+    "url": "https://v0.dev/t/OxSSFXA24ej",
+    "label": "Template for prompt: make a beautyfull gallery",
+    "dateAdded": "2024-01-21T18:05:02.857Z"
+  },
+  {
+    "url": "https://v0.dev/t/ylWo5OSSDaU",
+    "label": "Template for prompt: a tast management website with authentication",
+    "dateAdded": "2024-01-21T18:05:02.858Z"
+  },
+  {
+    "url": "https://v0.dev/t/biM4za8pUfw",
+    "label": "Template for prompt: Create a web application for currency exchange between users",
+    "dateAdded": "2024-01-21T18:05:02.859Z"
+  },
+  {
+    "url": "https://v0.dev/t/gLHjXAWw83h",
+    "label": "Template for prompt: A sign-in page",
+    "dateAdded": "2024-01-21T18:05:02.860Z"
+  },
+  {
+    "url": "https://v0.dev/t/HhnY3D5jfuI",
+    "label": "Template for prompt: create a changelog page",
+    "dateAdded": "2024-01-21T18:05:02.861Z"
+  },
+  {
+    "url": "https://v0.dev/t/1FgZNWDXrag",
+    "label": "Template for prompt: all-natural halal beef jerky landing page ",
+    "dateAdded": "2024-01-21T18:05:02.863Z"
+  },
+  {
+    "url": "https://v0.dev/t/uOg9C8B3vs2",
+    "label": "Template for prompt: a beautiful drag drop dashboard like click with only three headers: todo, in-progress and completed.",
+    "dateAdded": "2024-01-21T18:05:02.864Z"
   }
 ]
