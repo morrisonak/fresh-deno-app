@@ -22093,5 +22093,135 @@
     "url": "https://v0.dev/t/qi8Kq9Machp",
     "label": "Template for prompt: create sidebar",
     "dateAdded": "2024-01-21T19:10:02.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/GWHnq7BTTLT",
+    "label": "Template for prompt: A page of a product",
+    "dateAdded": "2024-01-21T19:15:03.676Z"
+  },
+  {
+    "url": "https://v0.dev/t/SNyqqh49sbv",
+    "label": "Template for prompt: an online course page, where I can see my modules where I can enroll. First is \"Data 101\", second \"Excel\", third is \"SQL Basics\", each module should have 2 buttons: \"Start\" and \"Open Dashboard\"",
+    "dateAdded": "2024-01-21T19:15:03.676Z"
+  },
+  {
+    "url": "https://v0.dev/t/VyLGqnmGYLi",
+    "label": "Template for prompt: A saas application according to the image attached",
+    "dateAdded": "2024-01-21T19:15:03.676Z"
+  },
+  {
+    "url": "https://v0.dev/t/Jv7v0n4HkfF",
+    "label": "Template for prompt: chat page for ecommerce of houses",
+    "dateAdded": "2024-01-21T19:15:03.676Z"
+  },
+  {
+    "url": "https://v0.dev/t/lzWZHl59WZo",
+    "label": "Template for prompt: create a About Us page which looks exactly like this as shown in the image",
+    "dateAdded": "2024-01-21T19:15:03.676Z"
+  },
+  {
+    "url": "https://v0.dev/t/wstjbBEDpWv",
+    "label": "Template for prompt: A landing page for a health service application",
+    "dateAdded": "2024-01-21T19:15:03.676Z"
+  },
+  {
+    "url": "https://v0.dev/t/vgAWl1CHX6W",
+    "label": "Template for prompt: Please create a table with three columns: Name, Members and an Edit Button that displays a Dialog to modify the record",
+    "dateAdded": "2024-01-21T19:15:03.676Z"
+  },
+  {
+    "url": "https://v0.dev/t/vv66347lqpF",
+    "label": "Template for prompt: Customer statement page with balance",
+    "dateAdded": "2024-01-21T19:15:03.676Z"
+  },
+  {
+    "url": "https://v0.dev/t/pRgvpgDNWKj",
+    "label": "Template for prompt: create cool hover efect on this blog post card",
+    "dateAdded": "2024-01-21T19:15:03.677Z"
+  },
+  {
+    "url": "https://v0.dev/t/L95mLflV2dV",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T19:15:03.677Z"
+  },
+  {
+    "url": "https://v0.dev/t/CtXyCEDpGMl",
+    "label": "Template for prompt: create a shadcnui based of this image ",
+    "dateAdded": "2024-01-21T19:15:03.677Z"
+  },
+  {
+    "url": "https://v0.dev/t/YN2xFndrw4p",
+    "label": "Template for prompt: Please create a list with Name, Members and an Edit Button that displays a Dialog to modify",
+    "dateAdded": "2024-01-21T19:15:03.677Z"
+  },
+  {
+    "url": "https://v0.dev/t/8kaR0DXr8kX",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T19:15:03.677Z"
+  },
+  {
+    "url": "https://v0.dev/t/cUEREFgiQ8s",
+    "label": "Template for prompt: A profile page with a form to change the username, profile picture, and showing the email with a read only input, also a back button",
+    "dateAdded": "2024-01-21T19:15:03.677Z"
+  },
+  {
+    "url": "https://v0.dev/t/SxfmcXgAFCu",
+    "label": "Template for prompt: a button that says \"Show More Casinos\" that automatically responds to a disabled prop and shows a loading animation",
+    "dateAdded": "2024-01-21T19:15:03.677Z"
+  },
+  {
+    "url": "https://v0.dev/t/t4XJqjeYLn5",
+    "label": "Template for prompt: create a shadcnui component based on this image now create a component based of this image  ",
+    "dateAdded": "2024-01-21T19:15:03.678Z"
+  },
+  {
+    "url": "https://v0.dev/t/V87JfX8bxuT",
+    "label": "Template for prompt: I need a table with 3 columns: Name, Description, and the third column has a \"Remove\" button",
+    "dateAdded": "2024-01-21T19:15:03.678Z"
+  },
+  {
+    "url": "https://v0.dev/t/o60MJwORn2j",
+    "label": "Template for prompt: can you give me the layout, components and the css variables to achive the dashboard attached on the imgae",
+    "dateAdded": "2024-01-21T19:15:03.678Z"
+  },
+  {
+    "url": "https://v0.dev/t/YJCvbAFWBg3",
+    "label": "Template for prompt: tag based filters for card content",
+    "dateAdded": "2024-01-21T19:15:03.678Z"
+  },
+  {
+    "url": "https://v0.dev/t/zD4PBWtRWc5",
+    "label": "Template for prompt: Update the UI of this component to be clean and well spaced on clickable cards",
+    "dateAdded": "2024-01-21T19:15:03.678Z"
+  },
+  {
+    "url": "https://v0.dev/t/nwoE4CsEUvT",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-21T19:15:03.678Z"
+  },
+  {
+    "url": "https://v0.dev/t/pW7vJQOhZgy",
+    "label": "Template for prompt: Your task is to act as a web designer who specializes in creating interfaces based on visual information. I will provide you with a detailed description of an image, and you will use that information to construct a web interface using HTML. The first image I want you to work on is a series of icons representing different activities and interests, accompanied by captions in Portuguese. The image appears to be an educational resource for presenting extracurricular activity options for children or young people. It consists of twelve white squares, each with a red icon and a caption. For example, Ballet is represented by a ballet shoe icon. The detailed description of the image will be as follows: \"The image consists of twelve white squares, each with a red icon and a caption. The icons and captions represent various activities and interests: Ballet with a ballet shoe icon. Musical Band with icons of people playing instruments. Educommunication with a speech bubble icon with wavy lines ins",
+    "dateAdded": "2024-01-21T19:15:03.678Z"
+  },
+  {
+    "url": "https://v0.dev/t/UazRTnk9NOD",
+    "label": "Template for prompt: a card for game with game title game image and game info and number of folowers for that card",
+    "dateAdded": "2024-01-21T19:15:03.678Z"
+  },
+  {
+    "url": "https://v0.dev/t/HwayeiNcTKq",
+    "label": "Template for prompt: Create a login page with I'd number and password",
+    "dateAdded": "2024-01-21T19:15:03.679Z"
+  },
+  {
+    "url": "https://v0.dev/t/dmXuQQzd8gE",
+    "label": "Template for prompt: Build me a Smart Home Dashboard that allows to interact with different data sources",
+    "dateAdded": "2024-01-21T19:15:03.679Z"
+  },
+  {
+    "url": "https://v0.dev/t/5LHJwC2CGra",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-21T19:15:03.679Z"
   }
 ]
