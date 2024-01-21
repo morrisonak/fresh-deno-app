@@ -25173,5 +25173,135 @@
     "url": "https://v0.dev/t/gxFr9EnwQl2",
     "label": "Template for prompt: Create a rectangler card that has a image on the left side. Headline with product name and short description",
     "dateAdded": "2024-01-21T21:35:03.469Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZLshL5aMCZt",
+    "label": "Template for prompt: cloud hosting company website dark login page ",
+    "dateAdded": "2024-01-21T21:40:03.072Z"
+  },
+  {
+    "url": "https://v0.dev/t/g5aZKfxrDz5",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T21:40:03.072Z"
+  },
+  {
+    "url": "https://v0.dev/t/vq1m1Jum05Y",
+    "label": "Template for prompt: an order confirmation email template. it should thank the customer for the order and say that it has been processed. it should provide the following details: order number, purchase order number, scheduled delivery date, account number, delivery address and order status. it should contain a table listing the order lines with product number, product description and quantity. ",
+    "dateAdded": "2024-01-21T21:40:03.072Z"
+  },
+  {
+    "url": "https://v0.dev/t/q93hSGhME2i",
+    "label": "Template for prompt: wygeneruj mi sidebar z linkami nextjs ktory przyjmuje tablice elementow z labelem, linkiem oraz ikoną z react-icons i generuje listę sidebar, przeźroczyste tło, active stan linku ma byc glass backgroundem",
+    "dateAdded": "2024-01-21T21:40:03.072Z"
+  },
+  {
+    "url": "https://v0.dev/t/0gekGodIZbA",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-21T21:40:03.072Z"
+  },
+  {
+    "url": "https://v0.dev/t/hdIOOwROcpf",
+    "label": "Template for prompt: A recipe screen for an iphone app. It shows :\n-title\n-prep and cook time\n- ingredients\n- intructions",
+    "dateAdded": "2024-01-21T21:40:03.072Z"
+  },
+  {
+    "url": "https://v0.dev/t/bYv1Uwpwl5C",
+    "label": "Template for prompt: create a signup form for fittest app with a login link",
+    "dateAdded": "2024-01-21T21:40:03.072Z"
+  },
+  {
+    "url": "https://v0.dev/t/kexqTv9zFXG",
+    "label": "Template for prompt: A list of invoices from stripe data",
+    "dateAdded": "2024-01-21T21:40:03.073Z"
+  },
+  {
+    "url": "https://v0.dev/t/qrGmD3PO1Gn",
+    "label": "Template for prompt: \nThis SaaS roadmap component is a tool with a simple, clear layout. It has areas where you can drag and drop items to make a plan for a project. The plan is made of different parts, each with its own color for easy identification. Key points in the project, like important dates, are marked clearly. The tool adjusts its size to fit different screens like computers or tablets. It updates in real time and lets multiple people work on it together without confusion. This is helpful for keeping a project organized and on track.",
+    "dateAdded": "2024-01-21T21:40:03.073Z"
+  },
+  {
+    "url": "https://v0.dev/t/1BFMIeuQumm",
+    "label": "Template for prompt: Projects page on a dev personal web page",
+    "dateAdded": "2024-01-21T21:40:03.073Z"
+  },
+  {
+    "url": "https://v0.dev/t/lihE8xzDd7W",
+    "label": "Template for prompt: a donation screen for a chess club to support it",
+    "dateAdded": "2024-01-21T21:40:03.073Z"
+  },
+  {
+    "url": "https://v0.dev/t/KzOyPXILVP8",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-21T21:40:03.073Z"
+  },
+  {
+    "url": "https://v0.dev/t/H0eCymF5TZI",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text. Crow-pirate themed guild from an MMORPG",
+    "dateAdded": "2024-01-21T21:40:03.073Z"
+  },
+  {
+    "url": "https://v0.dev/t/tCyWU0HiCaW",
+    "label": "Template for prompt: faced filters",
+    "dateAdded": "2024-01-21T21:40:03.073Z"
+  },
+  {
+    "url": "https://v0.dev/t/N3YvnTkj53U",
+    "label": "Template for prompt: A vertical card with child cards that auto scrolls in horizontal directions through the parent card;",
+    "dateAdded": "2024-01-21T21:40:03.074Z"
+  },
+  {
+    "url": "https://v0.dev/t/AKvlz5o25Kz",
+    "label": "Template for prompt: select element with default value \"Alle Jahre\" and title \"Jahre sortieren\". add some sample values as well",
+    "dateAdded": "2024-01-21T21:40:03.074Z"
+  },
+  {
+    "url": "https://v0.dev/t/6wc3JjQqFNK",
+    "label": "Template for prompt: create a landing page for an web app that gives an ai summary of your spotify taste and provides a shareable image for social media",
+    "dateAdded": "2024-01-21T21:40:03.074Z"
+  },
+  {
+    "url": "https://v0.dev/t/x79QnfW4gv7",
+    "label": "Template for prompt: responsive analytics dashboard or ecommerce, collapsable side bar and the main dash starts are: \"Customs Total\", \"Phone Cases Total\", \"Unfulfilled Total, \"Fullfillable Total\"",
+    "dateAdded": "2024-01-21T21:40:03.074Z"
+  },
+  {
+    "url": "https://v0.dev/t/dzaZWD8dojE",
+    "label": "Template for prompt: I designed a page like Google",
+    "dateAdded": "2024-01-21T21:40:03.074Z"
+  },
+  {
+    "url": "https://v0.dev/t/vp46DJHeM63",
+    "label": "Template for prompt: A stocks, cryptocurrency and cash portfolio interface where I can add and remove different portfolio items and view a gain and loss overview using charts and graphs",
+    "dateAdded": "2024-01-21T21:40:03.074Z"
+  },
+  {
+    "url": "https://v0.dev/t/KCIMZ0TSdF8",
+    "label": "Template for prompt: Login page for ACAEM is a site for courses and students ",
+    "dateAdded": "2024-01-21T21:40:03.074Z"
+  },
+  {
+    "url": "https://v0.dev/t/5Ivb3QSpSUp",
+    "label": "Template for prompt: Bank app",
+    "dateAdded": "2024-01-21T21:40:03.074Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zpt8spnYYCn",
+    "label": "Template for prompt: add select and input same line in form",
+    "dateAdded": "2024-01-21T21:40:03.074Z"
+  },
+  {
+    "url": "https://v0.dev/t/NEoEj2MaYk7",
+    "label": "Template for prompt: a saas admin page that has a geographic map heatmap of user visit traffic",
+    "dateAdded": "2024-01-21T21:40:03.075Z"
+  },
+  {
+    "url": "https://v0.dev/t/HpkXnzNwZu4",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-21T21:40:03.075Z"
+  },
+  {
+    "url": "https://v0.dev/t/YxAEXrQPmR5",
+    "label": "Template for prompt: form with datetime",
+    "dateAdded": "2024-01-21T21:40:03.075Z"
   }
 ]
