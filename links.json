@@ -16508,5 +16508,135 @@
     "url": "https://v0.dev/t/Z4uvgj2G1ZB",
     "label": "Template for prompt: una aplicacion de fidelizacion de usuarios, donde puedan registrar sus facturas",
     "dateAdded": "2024-01-21T15:30:03.149Z"
+  },
+  {
+    "url": "https://v0.dev/t/RphReYeRQrS",
+    "label": "Template for prompt: product information landing page with a buy form",
+    "dateAdded": "2024-01-21T15:35:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/630ywIdCVan",
+    "label": "Template for prompt: edit profile section in the middle of the page on card covering the page, modern and elegant. ",
+    "dateAdded": "2024-01-21T15:35:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/GpvtruzLwUY",
+    "label": "Template for prompt: landing page for an ai saas product in dark mode with a primary color of orange with use of gradients and a spotlight effect on the hero section title",
+    "dateAdded": "2024-01-21T15:35:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/d99Xs4R4Yez",
+    "label": "Template for prompt: Create a responsive admin panel where there should be features of viewing the registered emails, upload logo, button txt update",
+    "dateAdded": "2024-01-21T15:35:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/GFp7mLEgSxK",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T15:35:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/lODMB95vicv",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T15:35:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zbr1gh7VlOJ",
+    "label": "Template for prompt: landing page for a website about playing board games online",
+    "dateAdded": "2024-01-21T15:35:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/dwXQS5RE6uB",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T15:35:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/bExyejdwhRn",
+    "label": "Template for prompt: سورس chat gpt بات تلگرام پایتون",
+    "dateAdded": "2024-01-21T15:35:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/hJ9xbQM2Qpy",
+    "label": "Template for prompt: Create an dating app landing page with animation of love ",
+    "dateAdded": "2024-01-21T15:35:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/qhWrPnaXvqt",
+    "label": "Template for prompt: overlay for displaying side information for game",
+    "dateAdded": "2024-01-21T15:35:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/tWOq2Q1tgYF",
+    "label": "Template for prompt: create a landing page for a beautiful portfolio website for a frontend developer, include ui elements for projects, about, tech stack etc. make it beautiful!",
+    "dateAdded": "2024-01-21T15:35:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/vopLl0VE42S",
+    "label": "Template for prompt: create a landing page for a beautiful portfolio website for a frontend developer, include ui elements for projects, about, tech stack etc. make it beautiful!",
+    "dateAdded": "2024-01-21T15:35:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/4pOe448x02S",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T15:35:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZY5i1g2lAwe",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T15:35:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/k96J3z2epYe",
+    "label": "Template for prompt: Create a responsive admin panel where there should be features of viewing the registered emails, upload logo, button txt update",
+    "dateAdded": "2024-01-21T15:35:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/XGvNmnBvrSI",
+    "label": "Template for prompt: A freelancer webpage",
+    "dateAdded": "2024-01-21T15:35:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/kt96642HQAw",
+    "label": "Template for prompt: create a dashboard sidebar",
+    "dateAdded": "2024-01-21T15:35:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/nsGOohmU3Kh",
+    "label": "Template for prompt: no-code UI component builder",
+    "dateAdded": "2024-01-21T15:35:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/bIdbvKAtTKq",
+    "label": "Template for prompt: Design a homepage with a image background. Overlay a navigation bar with Home, About, Contact, and Login options. Ensure the video complements the overall theme.",
+    "dateAdded": "2024-01-21T15:35:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/3MPRm9XeLFy",
+    "label": "Template for prompt: give me a responsive 50/50 tailwind layout the left part contains a chat UI and the right part contains a 3 tab with content",
+    "dateAdded": "2024-01-21T15:35:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/nSuIGJ1gw9D",
+    "label": "Template for prompt: can you make a beautifl style for this header \n<header className=\"header\">\n    <div className=\"logo\">\n      <img src={logo} alt=\"Logo\" />\n    </div>\n    <div className=\"content\">\n      <div className=\"description\">\n        <h3>Hi,I am</h3>\n        <h1>Sabri Chetouane</h1>\n        <span>Front-end Developer</span>\n        <span>multi Designer</span>\n      </div>\n      <div className=\"profile-picture\">\n        <img src={profile} alt=\"Picture\" />\n      </div>\n    </div>\n  </header>",
+    "dateAdded": "2024-01-21T15:35:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/IPPCuGlWPbr",
+    "label": "Template for prompt: fais moi un site internet protfolio pour un étudiant en réseaux informatique",
+    "dateAdded": "2024-01-21T15:35:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/Bzb2Wmpnpz4",
+    "label": "Template for prompt: A catalog of programming resources, each resource in a block",
+    "dateAdded": "2024-01-21T15:35:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/uDtqRBVjAXg",
+    "label": "Template for prompt: Make a UI for showing revenue data from my mechanic shop",
+    "dateAdded": "2024-01-21T15:35:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/nHLR14eCyU4",
+    "label": "Template for prompt: 实现一个简单的通知页面",
+    "dateAdded": "2024-01-21T15:35:03.305Z"
   }
 ]
