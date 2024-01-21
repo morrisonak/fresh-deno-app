@@ -18438,5 +18438,135 @@
     "url": "https://v0.dev/t/ESm5ypJkUCz",
     "label": "Template for prompt: Create a post with an image. The post with the image consists of the image, a title and some body text. please display the date of the create prominent, the image should be in the focus",
     "dateAdded": "2024-01-21T16:45:03.247Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZRaoXH5rptb",
+    "label": "Template for prompt: make a page in react called enhanse. should be beautiful \none div in the left for uploading image by user and displaying and second div for api response imge .\n ",
+    "dateAdded": "2024-01-21T16:50:03.596Z"
+  },
+  {
+    "url": "https://v0.dev/t/cwPWs9kzcz6",
+    "label": "Template for prompt: I want to create a website for uploading data matching, where multiple data items need to be selected and matched by myself",
+    "dateAdded": "2024-01-21T16:50:03.596Z"
+  },
+  {
+    "url": "https://v0.dev/t/1BafQvwg6vj",
+    "label": "Template for prompt: genere moi la siderbar un site de video pour adult",
+    "dateAdded": "2024-01-21T16:50:03.596Z"
+  },
+  {
+    "url": "https://v0.dev/t/U3umnvLSBZa",
+    "label": "Template for prompt: form user update infomation",
+    "dateAdded": "2024-01-21T16:50:03.597Z"
+  },
+  {
+    "url": "https://v0.dev/t/hq2zjRcVpv5",
+    "label": "Template for prompt: a home page for the cloud platform an area with a blog page with services etc.",
+    "dateAdded": "2024-01-21T16:50:03.597Z"
+  },
+  {
+    "url": "https://v0.dev/t/s4b0Grp4dMl",
+    "label": "Template for prompt: https://masonmarinko.github.io/myportfolio/",
+    "dateAdded": "2024-01-21T16:50:03.597Z"
+  },
+  {
+    "url": "https://v0.dev/t/vwKXhsgl8LF",
+    "label": "Template for prompt: form user",
+    "dateAdded": "2024-01-21T16:50:03.597Z"
+  },
+  {
+    "url": "https://v0.dev/t/S7rVhnygRgB",
+    "label": "Template for prompt: An order form that takes customer detail and order items which includes the item name,price and quantity.\nImplement this using shadcn and nextjs app router with server actions.",
+    "dateAdded": "2024-01-21T16:50:03.597Z"
+  },
+  {
+    "url": "https://v0.dev/t/6bTtuS7sRyu",
+    "label": "Template for prompt: video call page",
+    "dateAdded": "2024-01-21T16:50:03.597Z"
+  },
+  {
+    "url": "https://v0.dev/t/n2nSvmYZkJT",
+    "label": "Template for prompt: 一个招新系统，作用是筛选学生简历，发送邮件，查看详情，查看私信。",
+    "dateAdded": "2024-01-21T16:50:03.597Z"
+  },
+  {
+    "url": "https://v0.dev/t/xKTFTPJfOgy",
+    "label": "Template for prompt: webdeveloper about me page",
+    "dateAdded": "2024-01-21T16:50:03.598Z"
+  },
+  {
+    "url": "https://v0.dev/t/1P2XtTXpioU",
+    "label": "Template for prompt: replicate the design and layout in the image as closely as possible",
+    "dateAdded": "2024-01-21T16:50:03.598Z"
+  },
+  {
+    "url": "https://v0.dev/t/aBhSDI8gM0C",
+    "label": "Template for prompt: create a developer main page ",
+    "dateAdded": "2024-01-21T16:50:03.598Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ceo6tgWwPVw",
+    "label": "Template for prompt: simple corporate landing page ",
+    "dateAdded": "2024-01-21T16:50:03.598Z"
+  },
+  {
+    "url": "https://v0.dev/t/5YrFGwrsjFS",
+    "label": "Template for prompt: Two-steps form user data: profile and interests",
+    "dateAdded": "2024-01-21T16:50:03.598Z"
+  },
+  {
+    "url": "https://v0.dev/t/An4I9jkqvX4",
+    "label": "Template for prompt: web chat app",
+    "dateAdded": "2024-01-21T16:50:03.598Z"
+  },
+  {
+    "url": "https://v0.dev/t/O9drEMJrqJe",
+    "label": "Template for prompt: portfolio page",
+    "dateAdded": "2024-01-21T16:50:03.598Z"
+  },
+  {
+    "url": "https://v0.dev/t/CRGUITz2lOw",
+    "label": "Template for prompt: Platform for meetings",
+    "dateAdded": "2024-01-21T16:50:03.598Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZfadDp9js9G",
+    "label": "Template for prompt: A quiz app",
+    "dateAdded": "2024-01-21T16:50:03.599Z"
+  },
+  {
+    "url": "https://v0.dev/t/xqn5jJ8Iu7Q",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-21T16:50:03.599Z"
+  },
+  {
+    "url": "https://v0.dev/t/uTBnItQ2B98",
+    "label": "Template for prompt: An Onboarding Application for New Hires joining a company. Each candidate will get tasks starting for the day of offer acceptance to 10 days after joining regarding onboarding formalites and information regarding company values and regulaltory information",
+    "dateAdded": "2024-01-21T16:50:03.599Z"
+  },
+  {
+    "url": "https://v0.dev/t/ApKpBFIsz3V",
+    "label": "Template for prompt: A sass admin dashboard",
+    "dateAdded": "2024-01-21T16:50:03.599Z"
+  },
+  {
+    "url": "https://v0.dev/t/Rcc5udpcCKO",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T16:50:03.599Z"
+  },
+  {
+    "url": "https://v0.dev/t/8wQgupmiT3X",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T16:50:03.599Z"
+  },
+  {
+    "url": "https://v0.dev/t/sKJJffezDsQ",
+    "label": "Template for prompt: dashboard page for add product ",
+    "dateAdded": "2024-01-21T16:50:03.599Z"
+  },
+  {
+    "url": "https://v0.dev/t/Vv4nZoCZxPk",
+    "label": "Template for prompt: a project card that has name, tech stack, project url, source and a show more button",
+    "dateAdded": "2024-01-21T16:50:03.600Z"
   }
 ]
