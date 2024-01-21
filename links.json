@@ -26183,5 +26183,135 @@
     "url": "https://v0.dev/t/UNBv75xHSzC",
     "label": "Template for prompt: {\n    \"body\": \"<p>Uma?</p>\\n\",\n    \"solution\": [\"<p>Vamos</svg></p>\\n\"],\n    \"answer\": \"<p style=\\\"text-align:center;\\\"><svg></svg></p>\",\n    \"url\": \"/conteudo/mecanica\"\n}\ncreate a page that request a JSON like this with address\nhttps://www.respondeai.com.br/conteudo/api/frontend/book-exercises/38824\nand return the result rendered in page",
     "dateAdded": "2024-01-21T22:15:02.947Z"
+  },
+  {
+    "url": "https://v0.dev/t/cEHHFUGKeT7",
+    "label": "Template for prompt: radix-ui search-bar",
+    "dateAdded": "2024-01-21T22:20:03.043Z"
+  },
+  {
+    "url": "https://v0.dev/t/LPSu7j8jZAN",
+    "label": "Template for prompt: simple page with header fixed on the top and footer on the boom, and the content on the middle if overflow, put a scrollbar for it",
+    "dateAdded": "2024-01-21T22:20:03.043Z"
+  },
+  {
+    "url": "https://v0.dev/t/rvsd7PcJLfI",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T22:20:03.043Z"
+  },
+  {
+    "url": "https://v0.dev/t/mATqXhwLHbn",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and a get started button",
+    "dateAdded": "2024-01-21T22:20:03.044Z"
+  },
+  {
+    "url": "https://v0.dev/t/kNHxFqDVNf6",
+    "label": "Template for prompt: a code input card that has each digit as its own square",
+    "dateAdded": "2024-01-21T22:20:03.044Z"
+  },
+  {
+    "url": "https://v0.dev/t/FwhY06Pw7zu",
+    "label": "Template for prompt: A text input that when focused displays a container directly beneath it which displays some extra information",
+    "dateAdded": "2024-01-21T22:20:03.044Z"
+  },
+  {
+    "url": "https://v0.dev/t/jUMrkYBNqyO",
+    "label": "Template for prompt: A landing page to show the results of the different lotteries in each country, with an implemented calendar.",
+    "dateAdded": "2024-01-21T22:20:03.044Z"
+  },
+  {
+    "url": "https://v0.dev/t/cHLw5vV94hk",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T22:20:03.045Z"
+  },
+  {
+    "url": "https://v0.dev/t/cLEDuyoAnK1",
+    "label": "Template for prompt: Can you take this current front page and extend it further making it look nicer?",
+    "dateAdded": "2024-01-21T22:20:03.045Z"
+  },
+  {
+    "url": "https://v0.dev/t/VZnCwE6yb4d",
+    "label": "Template for prompt: kpop social website homepage",
+    "dateAdded": "2024-01-21T22:20:03.045Z"
+  },
+  {
+    "url": "https://v0.dev/t/CaH8XPjyjZr",
+    "label": "Template for prompt: site similar to twitch",
+    "dateAdded": "2024-01-21T22:20:03.045Z"
+  },
+  {
+    "url": "https://v0.dev/t/POfLB5URkNe",
+    "label": "Template for prompt: Multi tenant dashboard left side navigation with dropdown to select different account. Mobile responsive, modern.",
+    "dateAdded": "2024-01-21T22:20:03.046Z"
+  },
+  {
+    "url": "https://v0.dev/t/yi4fmoazJhu",
+    "label": "Template for prompt: make me a login page, dark theme, with the text \"bf pred wtv\"",
+    "dateAdded": "2024-01-21T22:20:03.046Z"
+  },
+  {
+    "url": "https://v0.dev/t/x3mM6LCdvOj",
+    "label": "Template for prompt: create colorfull header icons to represent energy, coins, streak",
+    "dateAdded": "2024-01-21T22:20:03.046Z"
+  },
+  {
+    "url": "https://v0.dev/t/CMTB4MPqLrR",
+    "label": "Template for prompt: create colorfull header icons to represent energy, coins, streak",
+    "dateAdded": "2024-01-21T22:20:03.046Z"
+  },
+  {
+    "url": "https://v0.dev/t/1ptk5EPj50s",
+    "label": "Template for prompt: radix-ui search",
+    "dateAdded": "2024-01-21T22:20:03.046Z"
+  },
+  {
+    "url": "https://v0.dev/t/Blhpm6neDvY",
+    "label": "Template for prompt: Create a modern mobile payment interface with the following elements centered on the screen on a dark background: 1. A small logo named 'Tippy' at the top. 2. Below the logo, the text 'Obsługa: Kasia' in a medium-sized font. 3. A large display of the tip amount '5 PLN' with a smaller minus '-' button on the left and a plus '+' button on the right, both circular. 4. Below the tip amount, three smaller circular buttons '10', '+15', '+20'. 5. A large, prominent 'Daj napiwek' button below the increment buttons. 6. Below that, a stylized dropdown for selecting the payment method, labeled 'Pay with Pay' with apple logo. All elements should have a modern, clean look with sufficient spacing and a focus on usability for touch devices.",
+    "dateAdded": "2024-01-21T22:20:03.047Z"
+  },
+  {
+    "url": "https://v0.dev/t/M3tZMJHV7MN",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T22:20:03.047Z"
+  },
+  {
+    "url": "https://v0.dev/t/zOP1zv9TerQ",
+    "label": "Template for prompt: website for road maps generator ",
+    "dateAdded": "2024-01-21T22:20:03.047Z"
+  },
+  {
+    "url": "https://v0.dev/t/uP0lLaXD42I",
+    "label": "Template for prompt: table element with avatars and action button on the right",
+    "dateAdded": "2024-01-21T22:20:03.047Z"
+  },
+  {
+    "url": "https://v0.dev/t/scMQVOC4lve",
+    "label": "Template for prompt: create a navbar in tailwind",
+    "dateAdded": "2024-01-21T22:20:03.047Z"
+  },
+  {
+    "url": "https://v0.dev/t/yRZ4Jt9pNY8",
+    "label": "Template for prompt: Create a list of products where each item displays a photo, name, price, a button to view more, and a purchase option.",
+    "dateAdded": "2024-01-21T22:20:03.048Z"
+  },
+  {
+    "url": "https://v0.dev/t/v2rnKNmmi2l",
+    "label": "Template for prompt: a login screen with diagonal background split",
+    "dateAdded": "2024-01-21T22:20:03.048Z"
+  },
+  {
+    "url": "https://v0.dev/t/DP1DqdyuTRq",
+    "label": "Template for prompt: write a blog post page, a logo should be on top, than the title, than body",
+    "dateAdded": "2024-01-21T22:20:03.048Z"
+  },
+  {
+    "url": "https://v0.dev/t/Uuktke1GXnY",
+    "label": "Template for prompt: UI for an exercise tracker application to select and add an exercise to your workout",
+    "dateAdded": "2024-01-21T22:20:03.048Z"
+  },
+  {
+    "url": "https://v0.dev/t/srm9JBIkBBu",
+    "label": "Template for prompt: Design a form that can create a URL link card when a URL is entered, based on the \"しずかなインターネット\" design.",
+    "dateAdded": "2024-01-21T22:20:03.049Z"
   }
 ]
