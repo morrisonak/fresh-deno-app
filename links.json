@@ -11568,5 +11568,135 @@
     "url": "https://v0.dev/t/XGvJtJEeoHe",
     "label": "Template for prompt: Image battle for evaluation",
     "dateAdded": "2024-01-20T23:55:03.271Z"
+  },
+  {
+    "url": "https://v0.dev/t/TwW8jW2HLfZ",
+    "label": "Template for prompt: Create a dashboard for an application that contains a list of the users decks. Decks act as folders for other content, such as notes and flashcards",
+    "dateAdded": "2024-01-21T00:00:03.118Z"
+  },
+  {
+    "url": "https://v0.dev/t/4MaAa6OAsEY",
+    "label": "Template for prompt: Make a modern version of this. It should be a hero secion to place at the top of the list.",
+    "dateAdded": "2024-01-21T00:00:03.119Z"
+  },
+  {
+    "url": "https://v0.dev/t/Et42hC97yOK",
+    "label": "Template for prompt: chat application",
+    "dateAdded": "2024-01-21T00:00:03.119Z"
+  },
+  {
+    "url": "https://v0.dev/t/yRFda3byqms",
+    "label": "Template for prompt: chat application",
+    "dateAdded": "2024-01-21T00:00:03.119Z"
+  },
+  {
+    "url": "https://v0.dev/t/J6zIBBwQPxi",
+    "label": "Template for prompt: create like this",
+    "dateAdded": "2024-01-21T00:00:03.119Z"
+  },
+  {
+    "url": "https://v0.dev/t/lkyTEGsbLmw",
+    "label": "Template for prompt: Make a modern version of this. It should be a hero secion to place at the top of the list.",
+    "dateAdded": "2024-01-21T00:00:03.120Z"
+  },
+  {
+    "url": "https://v0.dev/t/0hFsH4QduUE",
+    "label": "Template for prompt: preciso de uma tela de login simples com uma logomarca em cima",
+    "dateAdded": "2024-01-21T00:00:03.120Z"
+  },
+  {
+    "url": "https://v0.dev/t/tPl0wtrpimA",
+    "label": "Template for prompt: create a modal that will be use to select payment method to be used in purchase",
+    "dateAdded": "2024-01-21T00:00:03.120Z"
+  },
+  {
+    "url": "https://v0.dev/t/5vHYgnYMQYq",
+    "label": "Template for prompt: beautiful fullscreen loader page, a card at the middle of screen with icon and funny sentence",
+    "dateAdded": "2024-01-21T00:00:03.121Z"
+  },
+  {
+    "url": "https://v0.dev/t/hRsbFffSWaT",
+    "label": "Template for prompt: A dashboard for my coworking room meeting so people know if they are available or not",
+    "dateAdded": "2024-01-21T00:00:03.121Z"
+  },
+  {
+    "url": "https://v0.dev/t/97Qa9gwuMgj",
+    "label": "Template for prompt: Make a simple order book for stocks",
+    "dateAdded": "2024-01-21T00:00:03.121Z"
+  },
+  {
+    "url": "https://v0.dev/t/6sUieT8RjRx",
+    "label": "Template for prompt: add edit and delete buttons to the bottom of this",
+    "dateAdded": "2024-01-21T00:00:03.121Z"
+  },
+  {
+    "url": "https://v0.dev/t/XwmWkILmu2B",
+    "label": "Template for prompt: A social media mobile app for gamers",
+    "dateAdded": "2024-01-21T00:00:03.125Z"
+  },
+  {
+    "url": "https://v0.dev/t/WHGgUEXU0Oo",
+    "label": "Template for prompt: create a page with a centered login form",
+    "dateAdded": "2024-01-21T00:00:03.125Z"
+  },
+  {
+    "url": "https://v0.dev/t/UEZO1HeM4K7",
+    "label": "Template for prompt: Nextjs typescript frontend code that communicates with a backend api (http://localhost:8000/api/login/ ) created with Django drf. Google OAuth login supported. ",
+    "dateAdded": "2024-01-21T00:00:03.126Z"
+  },
+  {
+    "url": "https://v0.dev/t/P4k3E5vXqN1",
+    "label": "Template for prompt: An \"I agree\" or \"I authorize\" disclosure card with a disclosure document that must be read and accepted before continuing.",
+    "dateAdded": "2024-01-21T00:00:03.126Z"
+  },
+  {
+    "url": "https://v0.dev/t/i410giq5YJa",
+    "label": "Template for prompt: create a page with a centered login screen",
+    "dateAdded": "2024-01-21T00:00:03.126Z"
+  },
+  {
+    "url": "https://v0.dev/t/jWnhwJAIOHX",
+    "label": "Template for prompt: gere um svg do whatsapp com width=\"24\" height=\"24\"",
+    "dateAdded": "2024-01-21T00:00:03.126Z"
+  },
+  {
+    "url": "https://v0.dev/t/L9mUigYU8m4",
+    "label": "Template for prompt: A card for a \"hunch\". A hunch has a \"possible problem\", a \"possible solution\", and a \"possible user\"",
+    "dateAdded": "2024-01-21T00:00:03.126Z"
+  },
+  {
+    "url": "https://v0.dev/t/3P5PGplAkq3",
+    "label": "Template for prompt: An \"I agree\" or \"I authorize\" disclosure form with a disclosure document that must be read and accepted before continuing.",
+    "dateAdded": "2024-01-21T00:00:03.126Z"
+  },
+  {
+    "url": "https://v0.dev/t/KUR7E1Gap8t",
+    "label": "Template for prompt: make a modern but minimal portfolio",
+    "dateAdded": "2024-01-21T00:00:03.127Z"
+  },
+  {
+    "url": "https://v0.dev/t/z548juO7F5f",
+    "label": "Template for prompt: make me a landing page for a two sided marketplace. On one side, collect users who want to sell a product. on the other side, collect users who want to buy products. Products are pick-up only so focus on finding location",
+    "dateAdded": "2024-01-21T00:00:03.127Z"
+  },
+  {
+    "url": "https://v0.dev/t/k9XjkFN3aRs",
+    "label": "Template for prompt: Le site est une plateforme interactive où les utilisateurs peuvent comparer et sélectionner leurs images préférées générées par différents modèles d'intelligence artificielle à partir de prompts textuels spécifiques.\n\n\n\n\n\n",
+    "dateAdded": "2024-01-21T00:00:03.127Z"
+  },
+  {
+    "url": "https://v0.dev/t/DMd5ug8TO4d",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T00:00:03.127Z"
+  },
+  {
+    "url": "https://v0.dev/t/7CF7Pv6fXyd",
+    "label": "Template for prompt: design a similar component to turbo.build which switches site from turborepo to turbopack",
+    "dateAdded": "2024-01-21T00:00:03.127Z"
+  },
+  {
+    "url": "https://v0.dev/t/vQDZ1tgK4RH",
+    "label": "Template for prompt: company profile page (name, website, market cap, employees, description, news section)",
+    "dateAdded": "2024-01-21T00:00:03.128Z"
   }
 ]
