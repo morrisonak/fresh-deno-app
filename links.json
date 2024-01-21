@@ -27998,5 +27998,125 @@
     "url": "https://v0.dev/t/aeTIqTqAO8h",
     "label": "Template for prompt: a weather app looks like a nice IOS weather app",
     "dateAdded": "2024-01-21T23:25:02.748Z"
+  },
+  {
+    "url": "https://v0.dev/t/vSl93LJhEU2",
+    "label": "Template for prompt: Give me a UI with a card in the middle, with an image of the user, their discord tag next to it. Then underneath, have buttons with options for unbinding their license key, resetting their key, and cancel subscription.",
+    "dateAdded": "2024-01-21T23:30:03.294Z"
+  },
+  {
+    "url": "https://v0.dev/t/6hEy3YGmWxD",
+    "label": "Template for prompt: mobile list view of custom content with different possible field types: single selection, multiselection, description, rating, date. Has id and comment button, and an option to expand",
+    "dateAdded": "2024-01-21T23:30:03.294Z"
+  },
+  {
+    "url": "https://v0.dev/t/T4sNdPcGOdX",
+    "label": "Template for prompt: write a simple drop down select element",
+    "dateAdded": "2024-01-21T23:30:03.294Z"
+  },
+  {
+    "url": "https://v0.dev/t/1Sj87Hzubaa",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T23:30:03.294Z"
+  },
+  {
+    "url": "https://v0.dev/t/z9ceGlnhvGt",
+    "label": "Template for prompt: list view of custom content with different possible field types: single selection, multiselection, description, rating, date. Has id and comment button, and an option to expand",
+    "dateAdded": "2024-01-21T23:30:03.295Z"
+  },
+  {
+    "url": "https://v0.dev/t/HxBPTmZd2SN",
+    "label": "Template for prompt: Make a component for a pre-battle character selection screen. The user should be able to pick their own character, and an enemy character, and then click \"Proceed\" to finalize. There should be 12 character options. It should feel similar to Pokemon.",
+    "dateAdded": "2024-01-21T23:30:03.295Z"
+  },
+  {
+    "url": "https://v0.dev/t/CURh5HBpxOW",
+    "label": "Template for prompt: a calendar based to do list",
+    "dateAdded": "2024-01-21T23:30:03.295Z"
+  },
+  {
+    "url": "https://v0.dev/t/l4zGqntkI8f",
+    "label": "Template for prompt: a copy paste squared button that basically copys the text",
+    "dateAdded": "2024-01-21T23:30:03.295Z"
+  },
+  {
+    "url": "https://v0.dev/t/EatDybYIIQi",
+    "label": "Template for prompt: a landing page for a SaaS",
+    "dateAdded": "2024-01-21T23:30:03.295Z"
+  },
+  {
+    "url": "https://v0.dev/t/5nfnxTczZE5",
+    "label": "Template for prompt: a textfield with dropdown menu inside",
+    "dateAdded": "2024-01-21T23:30:03.295Z"
+  },
+  {
+    "url": "https://v0.dev/t/4ru5Y0Ycpfd",
+    "label": "Template for prompt: make this swipeup menu better and more better looking, by using the ui rules ",
+    "dateAdded": "2024-01-21T23:30:03.295Z"
+  },
+  {
+    "url": "https://v0.dev/t/wnQnUP20lPH",
+    "label": "Template for prompt: a calendar app like google calendar",
+    "dateAdded": "2024-01-21T23:30:03.295Z"
+  },
+  {
+    "url": "https://v0.dev/t/5B6ixqWuARr",
+    "label": "Template for prompt: list of user information card with small round image with a x to delete a pen to edit the information",
+    "dateAdded": "2024-01-21T23:30:03.296Z"
+  },
+  {
+    "url": "https://v0.dev/t/p9y1KamWloq",
+    "label": "Template for prompt: create a section similar to this image that is composed by 2 sides",
+    "dateAdded": "2024-01-21T23:30:03.296Z"
+  },
+  {
+    "url": "https://v0.dev/t/sYAuouelIhv",
+    "label": "Template for prompt: twitch streamer event donation page for paypal and venmo donation types to a selection/drop down list of qvailable artists during a 24/7 livestream",
+    "dateAdded": "2024-01-21T23:30:03.296Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ct7TWwi5Jbv",
+    "label": "Template for prompt: A chat application",
+    "dateAdded": "2024-01-21T23:30:03.296Z"
+  },
+  {
+    "url": "https://v0.dev/t/22AyKemRr6k",
+    "label": "Template for prompt: recreate this leaderboard homepage",
+    "dateAdded": "2024-01-21T23:30:03.296Z"
+  },
+  {
+    "url": "https://v0.dev/t/wV5nvT1M4gw",
+    "label": "Template for prompt: can you help me build this into code",
+    "dateAdded": "2024-01-21T23:30:03.296Z"
+  },
+  {
+    "url": "https://v0.dev/t/oq51jZFOUMM",
+    "label": "Template for prompt: can you help me build this into code",
+    "dateAdded": "2024-01-21T23:30:03.296Z"
+  },
+  {
+    "url": "https://v0.dev/t/yutTUvOtR4t",
+    "label": "Template for prompt: can you help me build this into code",
+    "dateAdded": "2024-01-21T23:30:03.296Z"
+  },
+  {
+    "url": "https://v0.dev/t/wBB0tZlqrJ1",
+    "label": "Template for prompt: kanban board",
+    "dateAdded": "2024-01-21T23:30:03.297Z"
+  },
+  {
+    "url": "https://v0.dev/t/jGCW9x3Wm3A",
+    "label": "Template for prompt: Give me a UI with a modern sidebar, and a card based system for monitoring websites",
+    "dateAdded": "2024-01-21T23:30:03.297Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZxFwq2UKrc1",
+    "label": "Template for prompt: create a bottom mobile swipe up menu that have:\n\nname, number, description fields inputs, and a button with a GPS logo to go to another view to select the point on map to create",
+    "dateAdded": "2024-01-21T23:30:03.297Z"
+  },
+  {
+    "url": "https://v0.dev/t/ck3uJmEyWgP",
+    "label": "Template for prompt: get a detailed component from the image",
+    "dateAdded": "2024-01-21T23:30:03.297Z"
   }
 ]
