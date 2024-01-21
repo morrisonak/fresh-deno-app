@@ -17278,5 +17278,135 @@
     "url": "https://v0.dev/t/ysnz34cM8AQ",
     "label": "Template for prompt: make a card for price-presentation",
     "dateAdded": "2024-01-21T16:00:03.427Z"
+  },
+  {
+    "url": "https://v0.dev/t/uvcp7HVBpHu",
+    "label": "Template for prompt: user page for logged in users. top navigation but parallax effect with moving rectangular cards",
+    "dateAdded": "2024-01-21T16:05:03.848Z"
+  },
+  {
+    "url": "https://v0.dev/t/jOtHG7tea5P",
+    "label": "Template for prompt: create documentation style website with red and blue accent and search bar on navbar",
+    "dateAdded": "2024-01-21T16:05:03.848Z"
+  },
+  {
+    "url": "https://v0.dev/t/cWadNbnf1o8",
+    "label": "Template for prompt: a worship page that has a banner, author, and a list (playlist like) of worship contents (each worship_content can either be a song, scripture, or prayer)",
+    "dateAdded": "2024-01-21T16:05:03.848Z"
+  },
+  {
+    "url": "https://v0.dev/t/2TqN2LkePVr",
+    "label": "Template for prompt: icons for Cloud-Provide, Databases, Scipting-/Programming languages, CI/CD, Infrastructure as Code",
+    "dateAdded": "2024-01-21T16:05:03.848Z"
+  },
+  {
+    "url": "https://v0.dev/t/iFstbV0CcSK",
+    "label": "Template for prompt: give me side bar like img",
+    "dateAdded": "2024-01-21T16:05:03.848Z"
+  },
+  {
+    "url": "https://v0.dev/t/TOBvCqGFq5v",
+    "label": "Template for prompt: make cards with background #111B1D",
+    "dateAdded": "2024-01-21T16:05:03.849Z"
+  },
+  {
+    "url": "https://v0.dev/t/TxqUlBjYMaQ",
+    "label": "Template for prompt: I need to include a map with link and description in a page",
+    "dateAdded": "2024-01-21T16:05:03.849Z"
+  },
+  {
+    "url": "https://v0.dev/t/suWOZi5irIk",
+    "label": "Template for prompt: flight search homepage",
+    "dateAdded": "2024-01-21T16:05:03.849Z"
+  },
+  {
+    "url": "https://v0.dev/t/tzvaMav4KWL",
+    "label": "Template for prompt: ui for creating a notification mapping between categories, departments or groups, and services. Each service can be notified either through email or sms. Services list include asset management, fault reports, desk booking, meeting rooms booking, visitor management. Category will be common and mandatory for all services, one category can be selected from a list of existing categories. Either departments or groups can be selected for creating a notification map. Both cannot be selected at a time. If mapping departments, multiple departments can be selected from exisiting list of departments. If mapping groups, multiple groups can be selected from existing list of groups, also including a location and it's buildings. One location can be selected from list of locations, multiple buildings related to that location can be selected.",
+    "dateAdded": "2024-01-21T16:05:03.849Z"
+  },
+  {
+    "url": "https://v0.dev/t/or4QLjvdiYb",
+    "label": "Template for prompt: I need to create a page like this one, but with a few differences",
+    "dateAdded": "2024-01-21T16:05:03.849Z"
+  },
+  {
+    "url": "https://v0.dev/t/EGQzTnPSL0S",
+    "label": "Template for prompt: generate two buttons with an open eye on one and a closed eye on the other",
+    "dateAdded": "2024-01-21T16:05:03.849Z"
+  },
+  {
+    "url": "https://v0.dev/t/wOy8scJ79Hg",
+    "label": "Template for prompt: app download page ,color green",
+    "dateAdded": "2024-01-21T16:05:03.849Z"
+  },
+  {
+    "url": "https://v0.dev/t/42cYeqedh2j",
+    "label": "Template for prompt: I want to create a website for uploading data matching, where multiple data items need to be selected and matched by myself",
+    "dateAdded": "2024-01-21T16:05:03.850Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZFDTog9jsB5",
+    "label": "Template for prompt: create a dashboard for sending emails with an API, Show balance for emails that can be sent, send emails count, 10 last sent email",
+    "dateAdded": "2024-01-21T16:05:03.850Z"
+  },
+  {
+    "url": "https://v0.dev/t/BPEiILhUJ1v",
+    "label": "Template for prompt: Add another set of options named \"Calculation Settings\" which include a set of options with calculation settings. Also rethink the current layout of this form",
+    "dateAdded": "2024-01-21T16:05:03.850Z"
+  },
+  {
+    "url": "https://v0.dev/t/PHJk2zdBbCB",
+    "label": "Template for prompt: Add another set of options named \"Calculation Settings\" which include a set of options with calculation settings. Also rethink the current layout of this form",
+    "dateAdded": "2024-01-21T16:05:03.850Z"
+  },
+  {
+    "url": "https://v0.dev/t/T2mdfCqaGto",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-21T16:05:03.850Z"
+  },
+  {
+    "url": "https://v0.dev/t/kBBWjr5dxRg",
+    "label": "Template for prompt: Youtube copy",
+    "dateAdded": "2024-01-21T16:05:03.850Z"
+  },
+  {
+    "url": "https://v0.dev/t/3N4vRFww4aH",
+    "label": "Template for prompt: clone spotify",
+    "dateAdded": "2024-01-21T16:05:03.850Z"
+  },
+  {
+    "url": "https://v0.dev/t/VJWXRtVnTAq",
+    "label": "Template for prompt: input with autocomplete",
+    "dateAdded": "2024-01-21T16:05:03.850Z"
+  },
+  {
+    "url": "https://v0.dev/t/ogSJo9YKM4a",
+    "label": "Template for prompt: create me a website to show the techno events that are going to take place in my city",
+    "dateAdded": "2024-01-21T16:05:03.851Z"
+  },
+  {
+    "url": "https://v0.dev/t/TuBKXZ9TdGn",
+    "label": "Template for prompt: a social login page",
+    "dateAdded": "2024-01-21T16:05:03.851Z"
+  },
+  {
+    "url": "https://v0.dev/t/FK5tVYtvnB4",
+    "label": "Template for prompt: create a section in a how it works page using steps to narrate how a rental assistance work in the real world make good use of subtle cards, and also create another section showing what theyll need to apply for the rental assistance, make good use of icons on each card and lastly add a nice apply now button beneath all",
+    "dateAdded": "2024-01-21T16:05:03.851Z"
+  },
+  {
+    "url": "https://v0.dev/t/FwMkWpuEdes",
+    "label": "Template for prompt: I want to create a website for uploading data matching, where multiple data items need to be selected and matched by myself",
+    "dateAdded": "2024-01-21T16:05:03.851Z"
+  },
+  {
+    "url": "https://v0.dev/t/w9bfxrBzAUo",
+    "label": "Template for prompt: create this by tailwind css",
+    "dateAdded": "2024-01-21T16:05:03.851Z"
+  },
+  {
+    "url": "https://v0.dev/t/QuROkQD1Igj",
+    "label": "Template for prompt: filter by date input",
+    "dateAdded": "2024-01-21T16:05:03.851Z"
   }
 ]
