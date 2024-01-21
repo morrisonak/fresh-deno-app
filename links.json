@@ -12848,5 +12848,125 @@
     "url": "https://v0.dev/t/h7FEfPFbVVU",
     "label": "Template for prompt: features page with different sections",
     "dateAdded": "2024-01-21T00:45:03.538Z"
+  },
+  {
+    "url": "https://v0.dev/t/rQvnjts4ofq",
+    "label": "Template for prompt: a scroll-friendly menu",
+    "dateAdded": "2024-01-21T00:50:03.473Z"
+  },
+  {
+    "url": "https://v0.dev/t/DcodwGqUdQP",
+    "label": "Template for prompt: a points referral system ui where the user gets points for referring ",
+    "dateAdded": "2024-01-21T00:50:03.473Z"
+  },
+  {
+    "url": "https://v0.dev/t/7c2amfUaoe8",
+    "label": "Template for prompt: not found page",
+    "dateAdded": "2024-01-21T00:50:03.473Z"
+  },
+  {
+    "url": "https://v0.dev/t/nNMVeIoOLkJ",
+    "label": "Template for prompt: simple blog detail page",
+    "dateAdded": "2024-01-21T00:50:03.473Z"
+  },
+  {
+    "url": "https://v0.dev/t/swbP5yoVsyi",
+    "label": "Template for prompt: a scroll-friendly menu",
+    "dateAdded": "2024-01-21T00:50:03.474Z"
+  },
+  {
+    "url": "https://v0.dev/t/BqsK7YVwHm8",
+    "label": "Template for prompt: A page in a workout tracker app, where a user can create or edit a workout. The workout should have inputs for the name of the workout, a text area for warmups, the ability to add multiple exercises where each exercise should have a name input and a description input, then a text area for cooldown. The user should also be able to delete exercises from the list",
+    "dateAdded": "2024-01-21T00:50:03.474Z"
+  },
+  {
+    "url": "https://v0.dev/t/JjLGgenQ4k8",
+    "label": "Template for prompt: a welcome page for a health saas project",
+    "dateAdded": "2024-01-21T00:50:03.474Z"
+  },
+  {
+    "url": "https://v0.dev/t/lq1qOQPJIAR",
+    "label": "Template for prompt: create me a draggable invoice table",
+    "dateAdded": "2024-01-21T00:50:03.474Z"
+  },
+  {
+    "url": "https://v0.dev/t/L7KA3ymrEcj",
+    "label": "Template for prompt: create me a login page",
+    "dateAdded": "2024-01-21T00:50:03.475Z"
+  },
+  {
+    "url": "https://v0.dev/t/vTU01PfUABV",
+    "label": "Template for prompt: create a design for popup on the side top of the website ",
+    "dateAdded": "2024-01-21T00:50:03.475Z"
+  },
+  {
+    "url": "https://v0.dev/t/f7YScv193nx",
+    "label": "Template for prompt: Let's design the interface for a badminton match. There are the following parameters, Names of athletes, their scores.",
+    "dateAdded": "2024-01-21T00:50:03.475Z"
+  },
+  {
+    "url": "https://v0.dev/t/8OLlNgeYFDd",
+    "label": "Template for prompt: A website inspired by Zara",
+    "dateAdded": "2024-01-21T00:50:03.475Z"
+  },
+  {
+    "url": "https://v0.dev/t/tupROadN1vj",
+    "label": "Template for prompt: about page for a comapny",
+    "dateAdded": "2024-01-21T00:50:03.476Z"
+  },
+  {
+    "url": "https://v0.dev/t/gGGyFwCCd9U",
+    "label": "Template for prompt: web app for creating posters, upload photos, choose from beautiful themes ",
+    "dateAdded": "2024-01-21T00:50:03.476Z"
+  },
+  {
+    "url": "https://v0.dev/t/LXJM4YwwW6w",
+    "label": "Template for prompt: crie um painel igual ao da imagem para gerenciamento de Data Sources ",
+    "dateAdded": "2024-01-21T00:50:03.476Z"
+  },
+  {
+    "url": "https://v0.dev/t/5uqs0n180xP",
+    "label": "Template for prompt: An Azure themed Login page",
+    "dateAdded": "2024-01-21T00:50:03.476Z"
+  },
+  {
+    "url": "https://v0.dev/t/BwnpBGtb446",
+    "label": "Template for prompt: A home page for a sass application",
+    "dateAdded": "2024-01-21T00:50:03.476Z"
+  },
+  {
+    "url": "https://v0.dev/t/kWsBPDbL7Sw",
+    "label": "Template for prompt: a modern page where homeroom teachers can select the multiple classrooms that they would like to view the pickup lines for. it would need to have a nice header on the top with the logo of the school, the name of the teacher and their picture. there would need to be a search function for searching by the name of the homeroom teacher, the room number, or filtering by the grade",
+    "dateAdded": "2024-01-21T00:50:03.476Z"
+  },
+  {
+    "url": "https://v0.dev/t/5kV2yCr7giH",
+    "label": "Template for prompt: an ai virtual person to talk to inorder to get better at casual conversations; create a timed speaking screen with a prompt, a feedback and metric screen",
+    "dateAdded": "2024-01-21T00:50:03.477Z"
+  },
+  {
+    "url": "https://v0.dev/t/Fqh6Fu2WhUk",
+    "label": "Template for prompt: an interface for splitting audio files into its stems, containing an audio player, a dropzone where an audio file can be placed and uploaded.",
+    "dateAdded": "2024-01-21T00:50:03.477Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z0mrDYI5ADg",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-21T00:50:03.477Z"
+  },
+  {
+    "url": "https://v0.dev/t/KdB0YFNZqHM",
+    "label": "Template for prompt: A web app that helps you get better at conversations through speaking at timed intervals",
+    "dateAdded": "2024-01-21T00:50:03.477Z"
+  },
+  {
+    "url": "https://v0.dev/t/1F5vjHdOeHt",
+    "label": "Template for prompt: month year picker",
+    "dateAdded": "2024-01-21T00:50:03.477Z"
+  },
+  {
+    "url": "https://v0.dev/t/kNx4pN1VebJ",
+    "label": "Template for prompt: an introduction slide with a big profile picture, title, and subtitle",
+    "dateAdded": "2024-01-21T00:50:03.478Z"
   }
 ]
