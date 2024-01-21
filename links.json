@@ -21963,5 +21963,135 @@
     "url": "https://v0.dev/t/AeKho5m2E0I",
     "label": "Template for prompt: a chat application ",
     "dateAdded": "2024-01-21T19:05:03.323Z"
+  },
+  {
+    "url": "https://v0.dev/t/t4XJqjeYLn5",
+    "label": "Template for prompt: create a shadcnui component based on this image now create a component based of this image  ",
+    "dateAdded": "2024-01-21T19:10:02.818Z"
+  },
+  {
+    "url": "https://v0.dev/t/V87JfX8bxuT",
+    "label": "Template for prompt: I need a table with 3 columns: Name, Description, and the third column has a \"Remove\" button",
+    "dateAdded": "2024-01-21T19:10:02.818Z"
+  },
+  {
+    "url": "https://v0.dev/t/o60MJwORn2j",
+    "label": "Template for prompt: can you give me the layout, components and the css variables to achive the dashboard attached on the imgae",
+    "dateAdded": "2024-01-21T19:10:02.818Z"
+  },
+  {
+    "url": "https://v0.dev/t/YJCvbAFWBg3",
+    "label": "Template for prompt: tag based filters for card content",
+    "dateAdded": "2024-01-21T19:10:02.818Z"
+  },
+  {
+    "url": "https://v0.dev/t/zD4PBWtRWc5",
+    "label": "Template for prompt: Update the UI of this component to be clean and well spaced on clickable cards",
+    "dateAdded": "2024-01-21T19:10:02.818Z"
+  },
+  {
+    "url": "https://v0.dev/t/SLqGHiYyhbc",
+    "label": "Template for prompt: Update the UI of this component to be clean and well spaced on clickable cards",
+    "dateAdded": "2024-01-21T19:10:02.819Z"
+  },
+  {
+    "url": "https://v0.dev/t/nwoE4CsEUvT",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-21T19:10:02.819Z"
+  },
+  {
+    "url": "https://v0.dev/t/pW7vJQOhZgy",
+    "label": "Template for prompt: Your task is to act as a web designer who specializes in creating interfaces based on visual information. I will provide you with a detailed description of an image, and you will use that information to construct a web interface using HTML. The first image I want you to work on is a series of icons representing different activities and interests, accompanied by captions in Portuguese. The image appears to be an educational resource for presenting extracurricular activity options for children or young people. It consists of twelve white squares, each with a red icon and a caption. For example, Ballet is represented by a ballet shoe icon. The detailed description of the image will be as follows: \"The image consists of twelve white squares, each with a red icon and a caption. The icons and captions represent various activities and interests: Ballet with a ballet shoe icon. Musical Band with icons of people playing instruments. Educommunication with a speech bubble icon with wavy lines ins",
+    "dateAdded": "2024-01-21T19:10:02.819Z"
+  },
+  {
+    "url": "https://v0.dev/t/UazRTnk9NOD",
+    "label": "Template for prompt: a card for game with game title game image and game info and number of folowers for that card",
+    "dateAdded": "2024-01-21T19:10:02.819Z"
+  },
+  {
+    "url": "https://v0.dev/t/HwayeiNcTKq",
+    "label": "Template for prompt: Create a login page with I'd number and password",
+    "dateAdded": "2024-01-21T19:10:02.819Z"
+  },
+  {
+    "url": "https://v0.dev/t/dmXuQQzd8gE",
+    "label": "Template for prompt: Build me a Smart Home Dashboard that allows to interact with different data sources",
+    "dateAdded": "2024-01-21T19:10:02.819Z"
+  },
+  {
+    "url": "https://v0.dev/t/5LHJwC2CGra",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-21T19:10:02.820Z"
+  },
+  {
+    "url": "https://v0.dev/t/S3KWcHksnwn",
+    "label": "Template for prompt: form form card add",
+    "dateAdded": "2024-01-21T19:10:02.820Z"
+  },
+  {
+    "url": "https://v0.dev/t/tvjFx8MN9c8",
+    "label": "Template for prompt: a card for game with game title and game info and number of folowers for that card",
+    "dateAdded": "2024-01-21T19:10:02.820Z"
+  },
+  {
+    "url": "https://v0.dev/t/nQhzy607ISd",
+    "label": "Template for prompt: incoming feautres page",
+    "dateAdded": "2024-01-21T19:10:02.820Z"
+  },
+  {
+    "url": "https://v0.dev/t/WT2ZH1eZspE",
+    "label": "Template for prompt: red button",
+    "dateAdded": "2024-01-21T19:10:02.820Z"
+  },
+  {
+    "url": "https://v0.dev/t/abnn6ZV4mXZ",
+    "label": "Template for prompt: A form for tracking exercise",
+    "dateAdded": "2024-01-21T19:10:02.821Z"
+  },
+  {
+    "url": "https://v0.dev/t/M9YH15lNcbk",
+    "label": "Template for prompt: Address page for ecommerce user",
+    "dateAdded": "2024-01-21T19:10:02.821Z"
+  },
+  {
+    "url": "https://v0.dev/t/TQVWcy7s16u",
+    "label": "Template for prompt: A travel planning summary page for the city of Mobile, Alabama. It should have sections for Transportation, Climate and Events, Accommodations, Itinerary, Dining, Activities & Attractions, Local Tips & Etiquette, Safety and Emergency Info, Conclusion",
+    "dateAdded": "2024-01-21T19:10:02.821Z"
+  },
+  {
+    "url": "https://v0.dev/t/HkyuiXJsRck",
+    "label": "Template for prompt: create chat botlike chtagpt ",
+    "dateAdded": "2024-01-21T19:10:02.821Z"
+  },
+  {
+    "url": "https://v0.dev/t/HQAaukX2F3C",
+    "label": "Template for prompt: I'm working on a daily email digest that summarizes updates for an investor in private markets. Please provide a mock up of the email with the following sections: Outstanding tasks, upcoming cash flows, account statements, financial statements, investor letters, quarterly reports, tax documents, and other updates",
+    "dateAdded": "2024-01-21T19:10:02.821Z"
+  },
+  {
+    "url": "https://v0.dev/t/GWXIhgXcklN",
+    "label": "Template for prompt: A data charts builder",
+    "dateAdded": "2024-01-21T19:10:02.821Z"
+  },
+  {
+    "url": "https://v0.dev/t/5pkEa4CpxrS",
+    "label": "Template for prompt: subscription check out screen. The subscription is for an author of good artifical intelligence content designed for big corporations. The value of the subscription is 980 dollars a month",
+    "dateAdded": "2024-01-21T19:10:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/zMaY6tKHpFT",
+    "label": "Template for prompt: genarate a feature section for an event booking application, the cards should be music, dance, festivals ",
+    "dateAdded": "2024-01-21T19:10:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ko6Bo2mQxfN",
+    "label": "Template for prompt: Create one informational import export site",
+    "dateAdded": "2024-01-21T19:10:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/qi8Kq9Machp",
+    "label": "Template for prompt: create sidebar",
+    "dateAdded": "2024-01-21T19:10:02.823Z"
   }
 ]
