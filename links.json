@@ -23883,5 +23883,135 @@
     "url": "https://v0.dev/t/TaK58TXCryD",
     "label": "Template for prompt: a navigation bar for a pdf viewer with a page component that displays the page number and a left and right button as well as a zoom component with the ability to zoom in and out. also a switch to change between light and dark mode",
     "dateAdded": "2024-01-21T20:20:03.375Z"
+  },
+  {
+    "url": "https://v0.dev/t/zZbhcgL0AvA",
+    "label": "Template for prompt: a landingspage for a blog. add a main blog article as a hero",
+    "dateAdded": "2024-01-21T20:25:02.625Z"
+  },
+  {
+    "url": "https://v0.dev/t/f5D5bvcf1AN",
+    "label": "Template for prompt: show me a stock manager dashboard that shows stores",
+    "dateAdded": "2024-01-21T20:25:02.626Z"
+  },
+  {
+    "url": "https://v0.dev/t/GsUEYuZ8a9Q",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T20:25:02.626Z"
+  },
+  {
+    "url": "https://v0.dev/t/Fzt0ANVPr7V",
+    "label": "Template for prompt: Make me a website called eternalwords.ai\nIt's an obituary service using ai to write it.",
+    "dateAdded": "2024-01-21T20:25:02.626Z"
+  },
+  {
+    "url": "https://v0.dev/t/v1nrh6CyPzS",
+    "label": "Template for prompt: our brands section for industrial supply ",
+    "dateAdded": "2024-01-21T20:25:02.626Z"
+  },
+  {
+    "url": "https://v0.dev/t/yz9TLuEKIgQ",
+    "label": "Template for prompt: svg pic with brain",
+    "dateAdded": "2024-01-21T20:25:02.626Z"
+  },
+  {
+    "url": "https://v0.dev/t/y0Qadq7ndhd",
+    "label": "Template for prompt: a financial trading dashboard",
+    "dateAdded": "2024-01-21T20:25:02.627Z"
+  },
+  {
+    "url": "https://v0.dev/t/iAS2Xwe8uwV",
+    "label": "Template for prompt: generate a nice project section",
+    "dateAdded": "2024-01-21T20:25:02.627Z"
+  },
+  {
+    "url": "https://v0.dev/t/mghbTat5yeF",
+    "label": "Template for prompt: animate this ",
+    "dateAdded": "2024-01-21T20:25:02.627Z"
+  },
+  {
+    "url": "https://v0.dev/t/NpIt53nDEMC",
+    "label": "Template for prompt: Generate a login box, including fields: username, password, options to log in with 3rd party accounts: google and oauth. ",
+    "dateAdded": "2024-01-21T20:25:02.627Z"
+  },
+  {
+    "url": "https://v0.dev/t/vCIaXGXa3Uj",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-21T20:25:02.627Z"
+  },
+  {
+    "url": "https://v0.dev/t/kKXuSGHiyLx",
+    "label": "Template for prompt: create form with inputs of righ and left and button of submit",
+    "dateAdded": "2024-01-21T20:25:02.628Z"
+  },
+  {
+    "url": "https://v0.dev/t/F4TMpfSAHlV",
+    "label": "Template for prompt: A home page component for the hero section that uses a Next.js <Image> as the background of the hero section\n\nThe hero section has a menu header on top of it with three parts: menu left, logo middle, menu right\n\nThe hero section has some promo text and button in the middle\n\nThe hero's section background should use the full width of the browser",
+    "dateAdded": "2024-01-21T20:25:02.628Z"
+  },
+  {
+    "url": "https://v0.dev/t/UJzNxzXqNft",
+    "label": "Template for prompt: I've provided an image can you make a copy of the image using code",
+    "dateAdded": "2024-01-21T20:25:02.628Z"
+  },
+  {
+    "url": "https://v0.dev/t/zXKcDpvPTWd",
+    "label": "Template for prompt: create new a chat system UX",
+    "dateAdded": "2024-01-21T20:25:02.628Z"
+  },
+  {
+    "url": "https://v0.dev/t/FaRxA6eLCqj",
+    "label": "Template for prompt: small bar of Icons that when hovered shows the name of the icon, minmalistic, glossy and dark them",
+    "dateAdded": "2024-01-21T20:25:02.628Z"
+  },
+  {
+    "url": "https://v0.dev/t/nEdhW2gm7Xh",
+    "label": "Template for prompt: an ai agency for businesses ",
+    "dateAdded": "2024-01-21T20:25:02.628Z"
+  },
+  {
+    "url": "https://v0.dev/t/4NNEMsxdgKu",
+    "label": "Template for prompt: This will be inside a Card.\nLets have 2 Tabs. Called \"Channels\" and \"Members\".\nInside Channels we need to have 4 channels.\n1 Channel is a row  starting on the left with an icon a name an icon edit icon and on the right we need a icon delete button.\nUnder a Channel we need to have a member which is also a row.\nA Member is an Icon a Name, some space a Badge a Promote Icon button, a demote Icon Button. ",
+    "dateAdded": "2024-01-21T20:25:02.629Z"
+  },
+  {
+    "url": "https://v0.dev/t/X54EKLaODzY",
+    "label": "Template for prompt: A dark login form",
+    "dateAdded": "2024-01-21T20:25:02.629Z"
+  },
+  {
+    "url": "https://v0.dev/t/8F7WSNYjgmG",
+    "label": "Template for prompt: max. 10 small tasks list with pagination and a top button to create a task",
+    "dateAdded": "2024-01-21T20:25:02.629Z"
+  },
+  {
+    "url": "https://v0.dev/t/ceKDfjLYDK1",
+    "label": "Template for prompt: give me a nice linear gradiant purple color for my fitness app",
+    "dateAdded": "2024-01-21T20:25:02.629Z"
+  },
+  {
+    "url": "https://v0.dev/t/eVVlucdYBob",
+    "label": "Template for prompt: animate this",
+    "dateAdded": "2024-01-21T20:25:02.629Z"
+  },
+  {
+    "url": "https://v0.dev/t/XMuNbC10013",
+    "label": "Template for prompt: a split login screen",
+    "dateAdded": "2024-01-21T20:25:02.630Z"
+  },
+  {
+    "url": "https://v0.dev/t/NThqD4AmsIk",
+    "label": "Template for prompt: An web app for managing seen movies",
+    "dateAdded": "2024-01-21T20:25:02.630Z"
+  },
+  {
+    "url": "https://v0.dev/t/Pb6ygjF8agY",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T20:25:02.630Z"
+  },
+  {
+    "url": "https://v0.dev/t/b5rOudAQzsA",
+    "label": "Template for prompt: Generate an offer section with 3 offers, with the premiest in the middle",
+    "dateAdded": "2024-01-21T20:25:02.630Z"
   }
 ]
