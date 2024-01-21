@@ -22223,5 +22223,135 @@
     "url": "https://v0.dev/t/5LHJwC2CGra",
     "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
     "dateAdded": "2024-01-21T19:15:03.679Z"
+  },
+  {
+    "url": "https://v0.dev/t/mmUZO9d5FHm",
+    "label": "Template for prompt: pagina de login y registro con animacion para saber si estoy en login o registro esto para react",
+    "dateAdded": "2024-01-21T19:20:03.149Z"
+  },
+  {
+    "url": "https://v0.dev/t/ev10pIMFfQp",
+    "label": "Template for prompt: {Data.social.map((social) => (\n          <Button\n            key={social.name}\n              className=\"size-4\"\n              variant=\"outline\"\n              size=\"icon\"\n              asChild\n            >\n            <a href={social.url}>\n              <social.icon className=\"size-2\" />\n            </a>\n          </Button>\n        ))} make these buttons appear at the top right corner ",
+    "dateAdded": "2024-01-21T19:20:03.150Z"
+  },
+  {
+    "url": "https://v0.dev/t/QNnADr2Oojl",
+    "label": "Template for prompt: an ecommerce dashboard with a sidebar and a table with created houses",
+    "dateAdded": "2024-01-21T19:20:03.150Z"
+  },
+  {
+    "url": "https://v0.dev/t/2ufZucIvRst",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-21T19:20:03.150Z"
+  },
+  {
+    "url": "https://v0.dev/t/Cp7TLQbQZlD",
+    "label": "Template for prompt:  a beautiful minimal landing page for a stock market portfolio tracker(managing system for normal people) with black being the background main colour, and violet and white as the secondary and tertiary colour design, with trendy design and icons like stars and cubes and Great content to attract and sign up",
+    "dateAdded": "2024-01-21T19:20:03.150Z"
+  },
+  {
+    "url": "https://v0.dev/t/B27TpJpqiRg",
+    "label": "Template for prompt: Product app",
+    "dateAdded": "2024-01-21T19:20:03.150Z"
+  },
+  {
+    "url": "https://v0.dev/t/K6nfY5hmRp5",
+    "label": "Template for prompt: a social media named esgi",
+    "dateAdded": "2024-01-21T19:20:03.150Z"
+  },
+  {
+    "url": "https://v0.dev/t/C4wbSgzCHmC",
+    "label": "Template for prompt: a social media named esgi",
+    "dateAdded": "2024-01-21T19:20:03.150Z"
+  },
+  {
+    "url": "https://v0.dev/t/7tAwPoO3394",
+    "label": "Template for prompt: Design a clean, user-friendly homepage for an electrician's website featuring a prominent call-to-action for booking services, a brief introduction of the electrician's expertise, a showcase of services offered, and easy navigation to contact information and customer testimonials.",
+    "dateAdded": "2024-01-21T19:20:03.151Z"
+  },
+  {
+    "url": "https://v0.dev/t/aH1STnnlVAZ",
+    "label": "Template for prompt: A form page where each field allows speech-to-text capabilities in real-time.",
+    "dateAdded": "2024-01-21T19:20:03.151Z"
+  },
+  {
+    "url": "https://v0.dev/t/Owy9BJN1ic4",
+    "label": "Template for prompt: a dashboard similar to trello app for drag and drop components",
+    "dateAdded": "2024-01-21T19:20:03.151Z"
+  },
+  {
+    "url": "https://v0.dev/t/xGsa2JRtQuV",
+    "label": "Template for prompt: Magic mushrooms store",
+    "dateAdded": "2024-01-21T19:20:03.151Z"
+  },
+  {
+    "url": "https://v0.dev/t/G6Ys8iLAF1J",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T19:20:03.151Z"
+  },
+  {
+    "url": "https://v0.dev/t/GWHnq7BTTLT",
+    "label": "Template for prompt: A page of a product",
+    "dateAdded": "2024-01-21T19:20:03.151Z"
+  },
+  {
+    "url": "https://v0.dev/t/SNyqqh49sbv",
+    "label": "Template for prompt: an online course page, where I can see my modules where I can enroll. First is \"Data 101\", second \"Excel\", third is \"SQL Basics\", each module should have 2 buttons: \"Start\" and \"Open Dashboard\"",
+    "dateAdded": "2024-01-21T19:20:03.151Z"
+  },
+  {
+    "url": "https://v0.dev/t/VyLGqnmGYLi",
+    "label": "Template for prompt: A saas application according to the image attached",
+    "dateAdded": "2024-01-21T19:20:03.152Z"
+  },
+  {
+    "url": "https://v0.dev/t/Jv7v0n4HkfF",
+    "label": "Template for prompt: chat page for ecommerce of houses",
+    "dateAdded": "2024-01-21T19:20:03.152Z"
+  },
+  {
+    "url": "https://v0.dev/t/lzWZHl59WZo",
+    "label": "Template for prompt: create a About Us page which looks exactly like this as shown in the image",
+    "dateAdded": "2024-01-21T19:20:03.152Z"
+  },
+  {
+    "url": "https://v0.dev/t/wstjbBEDpWv",
+    "label": "Template for prompt: A landing page for a health service application",
+    "dateAdded": "2024-01-21T19:20:03.152Z"
+  },
+  {
+    "url": "https://v0.dev/t/vgAWl1CHX6W",
+    "label": "Template for prompt: Please create a table with three columns: Name, Members and an Edit Button that displays a Dialog to modify the record",
+    "dateAdded": "2024-01-21T19:20:03.152Z"
+  },
+  {
+    "url": "https://v0.dev/t/vv66347lqpF",
+    "label": "Template for prompt: Customer statement page with balance",
+    "dateAdded": "2024-01-21T19:20:03.152Z"
+  },
+  {
+    "url": "https://v0.dev/t/pRgvpgDNWKj",
+    "label": "Template for prompt: create cool hover efect on this blog post card",
+    "dateAdded": "2024-01-21T19:20:03.152Z"
+  },
+  {
+    "url": "https://v0.dev/t/L95mLflV2dV",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T19:20:03.153Z"
+  },
+  {
+    "url": "https://v0.dev/t/CtXyCEDpGMl",
+    "label": "Template for prompt: create a shadcnui based of this image ",
+    "dateAdded": "2024-01-21T19:20:03.153Z"
+  },
+  {
+    "url": "https://v0.dev/t/YN2xFndrw4p",
+    "label": "Template for prompt: Please create a list with Name, Members and an Edit Button that displays a Dialog to modify",
+    "dateAdded": "2024-01-21T19:20:03.153Z"
+  },
+  {
+    "url": "https://v0.dev/t/8kaR0DXr8kX",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T19:20:03.153Z"
   }
 ]
