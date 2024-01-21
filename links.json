@@ -21588,5 +21588,120 @@
     "url": "https://v0.dev/t/ZKIWKphX6eU",
     "label": "Template for prompt: A landing page hero section with a heading, leading text and subpages.",
     "dateAdded": "2024-01-21T18:50:02.605Z"
+  },
+  {
+    "url": "https://v0.dev/t/hSQCI6LJEik",
+    "label": "Template for prompt:  a beautifullanding page for a stock market portfolio tracker(managing system for normal people) with black being the background main colour, and violet and white as the secondary and tertiary colour design, with trendy design and icons like stars and cubes",
+    "dateAdded": "2024-01-21T18:55:03.039Z"
+  },
+  {
+    "url": "https://v0.dev/t/5hLUiNg2Ot7",
+    "label": "Template for prompt: view login with two apart, email and password. Below the forms a text (\"CLICLK HERE to log in\")",
+    "dateAdded": "2024-01-21T18:55:03.039Z"
+  },
+  {
+    "url": "https://v0.dev/t/SoBdHM9Lfjc",
+    "label": "Template for prompt: An assessment result page",
+    "dateAdded": "2024-01-21T18:55:03.040Z"
+  },
+  {
+    "url": "https://v0.dev/t/D7050Ledb3l",
+    "label": "Template for prompt: can you make me a cv Canadian my job is croissant",
+    "dateAdded": "2024-01-21T18:55:03.040Z"
+  },
+  {
+    "url": "https://v0.dev/t/4p9Ifu5KSbd",
+    "label": "Template for prompt: Pricing component with 3 options middle one highlighted ",
+    "dateAdded": "2024-01-21T18:55:03.040Z"
+  },
+  {
+    "url": "https://v0.dev/t/pzEUfXR1o9a",
+    "label": "Template for prompt: Number only input keyboard for workout set ",
+    "dateAdded": "2024-01-21T18:55:03.040Z"
+  },
+  {
+    "url": "https://v0.dev/t/jhL1XgJUas3",
+    "label": "Template for prompt: I want to design a template like this photo for the site whose programming language is java and cms platform liferay 7.1.3. Please give me the template file based on this output photo so that I can design the site based on it",
+    "dateAdded": "2024-01-21T18:55:03.041Z"
+  },
+  {
+    "url": "https://v0.dev/t/jacdYsqJtGQ",
+    "label": "Template for prompt: make a navbar with transparent backround and on the right a theme toggler",
+    "dateAdded": "2024-01-21T18:55:03.041Z"
+  },
+  {
+    "url": "https://v0.dev/t/twXHuttVXCf",
+    "label": "Template for prompt: loading animation bootstrap",
+    "dateAdded": "2024-01-21T18:55:03.041Z"
+  },
+  {
+    "url": "https://v0.dev/t/ShUSAuy1z3R",
+    "label": "Template for prompt: todo app, at the top of the page there should be a form for creating todos with the field: description and deadline (datetime-local format). Under the form there should be a list of todos without a deadline, then a list of todos for today, then tomorrow and then the day after that, there should be a maximum of five todos in each list and if there are more there should be a show more todos button.",
+    "dateAdded": "2024-01-21T18:55:03.041Z"
+  },
+  {
+    "url": "https://v0.dev/t/edXGAwxYoT7",
+    "label": "Template for prompt: Make a web version of this scoresheet with modern UX and some pastel colors that remind us beer.",
+    "dateAdded": "2024-01-21T18:55:03.041Z"
+  },
+  {
+    "url": "https://v0.dev/t/Sp9uy7euWQN",
+    "label": "Template for prompt: Make a web version of this scoresheet with modern UX and some pastel colors that remind us beer.",
+    "dateAdded": "2024-01-21T18:55:03.042Z"
+  },
+  {
+    "url": "https://v0.dev/t/ggE8KJ9AqGO",
+    "label": "Template for prompt: make a footer",
+    "dateAdded": "2024-01-21T18:55:03.042Z"
+  },
+  {
+    "url": "https://v0.dev/t/7VBltQ4wWC3",
+    "label": "Template for prompt: A presentations and posters management console for academic conference",
+    "dateAdded": "2024-01-21T18:55:03.042Z"
+  },
+  {
+    "url": "https://v0.dev/t/64yubRXikXn",
+    "label": "Template for prompt: login and register for a email platform",
+    "dateAdded": "2024-01-21T18:55:03.042Z"
+  },
+  {
+    "url": "https://v0.dev/t/8pzFiSHzzZk",
+    "label": "Template for prompt: can you give me the layout, components and the css variables to achive the dashboard attached on the imgae",
+    "dateAdded": "2024-01-21T18:55:03.042Z"
+  },
+  {
+    "url": "https://v0.dev/t/JUzWehFgad5",
+    "label": "Template for prompt: a fashboard with a sidebar nav and a table",
+    "dateAdded": "2024-01-21T18:55:03.043Z"
+  },
+  {
+    "url": "https://v0.dev/t/1L97EprUvhC",
+    "label": "Template for prompt: A dashboard where user can record himself and the audio hits an api every few seconds that gives top three detected accents. Then, we show him in real time these accents. It is supposed to be an entertainment app for people to practice accents such as jamaican, scottish etc ..",
+    "dateAdded": "2024-01-21T18:55:03.043Z"
+  },
+  {
+    "url": "https://v0.dev/t/6XTTS84pxE8",
+    "label": "Template for prompt: blog post card with title, tags, first two sentences, date and link to the post",
+    "dateAdded": "2024-01-21T18:55:03.043Z"
+  },
+  {
+    "url": "https://v0.dev/t/4iCNBRCQFby",
+    "label": "Template for prompt: emails interface",
+    "dateAdded": "2024-01-21T18:55:03.043Z"
+  },
+  {
+    "url": "https://v0.dev/t/VSKHnpRli6s",
+    "label": "Template for prompt: A dope responsive movie search results page",
+    "dateAdded": "2024-01-21T18:55:03.043Z"
+  },
+  {
+    "url": "https://v0.dev/t/F56rPlljLrs",
+    "label": "Template for prompt: a details page with cover page and profile picture",
+    "dateAdded": "2024-01-21T18:55:03.043Z"
+  },
+  {
+    "url": "https://v0.dev/t/TtAy4rlhn61",
+    "label": "Template for prompt:  a landing page for a stock market portfolio tracker with black being the background main colour, and violet and white as the secondary and tertiary colour design, with trendy design and icons",
+    "dateAdded": "2024-01-21T18:55:03.044Z"
   }
 ]
