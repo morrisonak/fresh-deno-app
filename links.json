@@ -21333,5 +21333,135 @@
     "url": "https://v0.dev/t/A2yuVLQwXhO",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2024-01-21T18:40:03.778Z"
+  },
+  {
+    "url": "https://v0.dev/t/DQukfcgLhU9",
+    "label": "Template for prompt: Excel add-in that has 3 inputs. Amount 1  (USD numerical input with $ and commas), Amount 2 (USD numerical input with $ and commas), Date (Date picker)",
+    "dateAdded": "2024-01-21T18:45:03.299Z"
+  },
+  {
+    "url": "https://v0.dev/t/kDvevz7pGla",
+    "label": "Template for prompt: a page with a list of links that have a title, description, url, sort order and an image. include the ability to create new links",
+    "dateAdded": "2024-01-21T18:45:03.300Z"
+  },
+  {
+    "url": "https://v0.dev/t/lktPCiMIUKy",
+    "label": "Template for prompt: subscription gallery with different options and review controls",
+    "dateAdded": "2024-01-21T18:45:03.300Z"
+  },
+  {
+    "url": "https://v0.dev/t/lCB11LVU3rL",
+    "label": "Template for prompt: Create this page",
+    "dateAdded": "2024-01-21T18:45:03.300Z"
+  },
+  {
+    "url": "https://v0.dev/t/PikyzAphY5p",
+    "label": "Template for prompt:   a landing page for a stck market portfolio tracker with black, violet and white as the main colour design",
+    "dateAdded": "2024-01-21T18:45:03.300Z"
+  },
+  {
+    "url": "https://v0.dev/t/GuIwPlf1Xmz",
+    "label": "Template for prompt: a landing page for opensource project with \"download\" and \"github\" button, the top navbar have \"Home, Changelog, Docs, Blog\" menu items, and the right side of the navbar have \"Login\" Button",
+    "dateAdded": "2024-01-21T18:45:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/XTCussv6wKB",
+    "label": "Template for prompt: drag and drop login form",
+    "dateAdded": "2024-01-21T18:45:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/XJQ7HiSnK07",
+    "label": "Template for prompt: Could you create for me blogpost card that contains title, first two sentences from post, date, tags and link to post?",
+    "dateAdded": "2024-01-21T18:45:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/naODmxilj7U",
+    "label": "Template for prompt: reolicate and make respoinsive",
+    "dateAdded": "2024-01-21T18:45:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZKIWKphX6eU",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and subpages.",
+    "dateAdded": "2024-01-21T18:45:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/HKTh8p5RZls",
+    "label": "Template for prompt: a landing page to present a series of link",
+    "dateAdded": "2024-01-21T18:45:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/XyZLxH4K6Im",
+    "label": "Template for prompt: i want the init visualization for mi iptv app",
+    "dateAdded": "2024-01-21T18:45:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/26O1la8hmSp",
+    "label": "Template for prompt: A dropdown using html select with tailwindcss and icons next to each item",
+    "dateAdded": "2024-01-21T18:45:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/hQdm8xXrgwQ",
+    "label": "Template for prompt: I need a layout for a job application form for the app targeting horeca industry, it shoud have a progress bar, and also it should be one question per page",
+    "dateAdded": "2024-01-21T18:45:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/G4yYgLM8XnT",
+    "label": "Template for prompt: generate a responsive centered container",
+    "dateAdded": "2024-01-21T18:45:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/FjjEUe8G0CE",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T18:45:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/zbtVMbCgzFJ",
+    "label": "Template for prompt: Make a 15×15 gridded go board game",
+    "dateAdded": "2024-01-21T18:45:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/1CBBgV54yZK",
+    "label": "Template for prompt: a table with a list of invoices to be paid. when you click on an invoice, it opens a new page with the details of the invoice and the ability to pay it.",
+    "dateAdded": "2024-01-21T18:45:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/cZcrYzyEY9E",
+    "label": "Template for prompt: A tailwind select with icons next to items",
+    "dateAdded": "2024-01-21T18:45:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/UB6jlPj4m1G",
+    "label": "Template for prompt: create a table where you can filter by name or manager, columns should be broken down by day of the week and be able to select a time in the cell for the associated day and employee",
+    "dateAdded": "2024-01-21T18:45:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/IJIhGbsF6ie",
+    "label": "Template for prompt: a business website with great looking visuals and different colors like yellow, blue , green and use great looking svgs to design the page the header should be fixed add about, services, pricing, case studies, developers and team, blogs, testimonials, contact, get a quote should have many input fields like name, email, company, title, selections etc. and customer portal",
+    "dateAdded": "2024-01-21T18:45:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/nmjmZbGd2MV",
+    "label": "Template for prompt: Make this board for gomoku",
+    "dateAdded": "2024-01-21T18:45:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/9aH1V6bi46a",
+    "label": "Template for prompt: present in a pleasant manner a series of links of timings in a youtube video",
+    "dateAdded": "2024-01-21T18:45:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/XhLpUJruJBx",
+    "label": "Template for prompt: Generate an interface for this BJCP scoresheet",
+    "dateAdded": "2024-01-21T18:45:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/Je6AL2vgbdq",
+    "label": "Template for prompt: Landing page for a e-commerce website. With product display section.",
+    "dateAdded": "2024-01-21T18:45:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/JAtsUgI9Lm5",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T18:45:03.305Z"
   }
 ]
