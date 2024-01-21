@@ -28353,5 +28353,130 @@
     "url": "https://v0.dev/t/HxBPTmZd2SN",
     "label": "Template for prompt: Make a component for a pre-battle character selection screen. The user should be able to pick their own character, and an enemy character, and then click \"Proceed\" to finalize. There should be 12 character options. It should feel similar to Pokemon.",
     "dateAdded": "2024-01-21T23:40:03.791Z"
+  },
+  {
+    "url": "https://v0.dev/t/nYncT6V9MW5",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-21T23:45:03.386Z"
+  },
+  {
+    "url": "https://v0.dev/t/vo0216mVbid",
+    "label": "Template for prompt: An app that keeps track of debt friends have to one another.",
+    "dateAdded": "2024-01-21T23:45:03.386Z"
+  },
+  {
+    "url": "https://v0.dev/t/0xvt0cYAvOR",
+    "label": "Template for prompt: side menu bar that initially renders with icons as menu items. on hover of the bar, expand outward as a drawer to display text next to each icon",
+    "dateAdded": "2024-01-21T23:45:03.386Z"
+  },
+  {
+    "url": "https://v0.dev/t/Emk1HDgBu7i",
+    "label": "Template for prompt: side menu bar that initially renders with icons as menu items. on hover of the bar, expand outward as a drawer to display text next to each icon",
+    "dateAdded": "2024-01-21T23:45:03.386Z"
+  },
+  {
+    "url": "https://v0.dev/t/whgPajltG53",
+    "label": "Template for prompt: A section that explains how an POST api endpoint works with a code block demonstrating a fetch call to the endpoint with syntax highlighting",
+    "dateAdded": "2024-01-21T23:45:03.386Z"
+  },
+  {
+    "url": "https://v0.dev/t/NuGzbQQD5n1",
+    "label": "Template for prompt: Sports league schedule page",
+    "dateAdded": "2024-01-21T23:45:03.386Z"
+  },
+  {
+    "url": "https://v0.dev/t/kLUdml1wgKc",
+    "label": "Template for prompt: using bootstrap, generate a great home page that will allow the customer to sign up, register or just view different web sections",
+    "dateAdded": "2024-01-21T23:45:03.386Z"
+  },
+  {
+    "url": "https://v0.dev/t/JoCe2n5V7BI",
+    "label": "Template for prompt: hero carousel on the top of a web gaming platform homepage",
+    "dateAdded": "2024-01-21T23:45:03.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/XXnH3eJ1GFP",
+    "label": "Template for prompt: a vc fund landing page, very simple, logo, huge title and a subtitle, left-aligned. small footer. ",
+    "dateAdded": "2024-01-21T23:45:03.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/ym1mKG2Lgh8",
+    "label": "Template for prompt: Exam with problem",
+    "dateAdded": "2024-01-21T23:45:03.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/sZRNyvDvFU5",
+    "label": "Template for prompt: adventure listing card component",
+    "dateAdded": "2024-01-21T23:45:03.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/WZzOiUBq7fS",
+    "label": "Template for prompt: i need a homepage for an adventure booking site with listings of various categories and a homepage carousel",
+    "dateAdded": "2024-01-21T23:45:03.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/YIjzwDpkp7J",
+    "label": "Template for prompt: i need a homepage for an adventure booking site with listings of various categories and a homepage carousel",
+    "dateAdded": "2024-01-21T23:45:03.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/xQOYPdt3W83",
+    "label": "Template for prompt: Beautiful \"Service\" page, describing a single service for physiotherapeutical website with photos and in modern design",
+    "dateAdded": "2024-01-21T23:45:03.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/hwyyC8D2KGL",
+    "label": "Template for prompt: generate image gallary with swiping function",
+    "dateAdded": "2024-01-21T23:45:03.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/SEzoJvvnLeA",
+    "label": "Template for prompt: generate image gallary with swiping function",
+    "dateAdded": "2024-01-21T23:45:03.388Z"
+  },
+  {
+    "url": "https://v0.dev/t/9aYgxnukAaL",
+    "label": "Template for prompt: An eye catching nav bar",
+    "dateAdded": "2024-01-21T23:45:03.388Z"
+  },
+  {
+    "url": "https://v0.dev/t/mQmNUPkPPig",
+    "label": "Template for prompt: create a form that request Identity information like passport number or government-issued ID",
+    "dateAdded": "2024-01-21T23:45:03.388Z"
+  },
+  {
+    "url": "https://v0.dev/t/vC0ig2bKNqY",
+    "label": "Template for prompt: Dashboard page for a specific project that is subdivided into majort part, each major part is show on a grid card with progress bar showing the evolution of this part. Each major part contain one or many task that need to be completed",
+    "dateAdded": "2024-01-21T23:45:03.388Z"
+  },
+  {
+    "url": "https://v0.dev/t/JOEK8neePqy",
+    "label": "Template for prompt: create a page where a user creates a token this page will contain 4 fields (symbol, name, decimals, and supply)",
+    "dateAdded": "2024-01-21T23:45:03.388Z"
+  },
+  {
+    "url": "https://v0.dev/t/saKur3xenob",
+    "label": "Template for prompt: A file upload dropzone",
+    "dateAdded": "2024-01-21T23:45:03.388Z"
+  },
+  {
+    "url": "https://v0.dev/t/WmxNieQW3rF",
+    "label": "Template for prompt: Dashboard page for retailers ",
+    "dateAdded": "2024-01-21T23:45:03.388Z"
+  },
+  {
+    "url": "https://v0.dev/t/wclRWqXl5FE",
+    "label": "Template for prompt: generate an app home screen for managing hashtag groups. it should include 4 top stats. a list of groups. and input for ai suggestions",
+    "dateAdded": "2024-01-21T23:45:03.388Z"
+  },
+  {
+    "url": "https://v0.dev/t/kQZQD2TeMYs",
+    "label": "Template for prompt: Espadlife.com",
+    "dateAdded": "2024-01-21T23:45:03.388Z"
+  },
+  {
+    "url": "https://v0.dev/t/xU0qxIAeXCF",
+    "label": "Template for prompt: A page for a user \"post\" which contains the following elements: title, creator, updated date, link, visibility indicator (whether it is a public or private post), and a list of cards, each of which has a title, icon, description, and category",
+    "dateAdded": "2024-01-21T23:45:03.389Z"
   }
 ]
