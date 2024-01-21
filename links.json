@@ -12218,5 +12218,135 @@
     "url": "https://v0.dev/t/FFHitLOdVas",
     "label": "Template for prompt: A todo section that allows you to swipe to complete for the day",
     "dateAdded": "2024-01-21T00:20:03.299Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wrzp99zNFNk",
+    "label": "Template for prompt: build tinder style swipe prototype for approve or dismiss sorting",
+    "dateAdded": "2024-01-21T00:25:03.074Z"
+  },
+  {
+    "url": "https://v0.dev/t/QKBjbrqdrVM",
+    "label": "Template for prompt: deleted comment ",
+    "dateAdded": "2024-01-21T00:25:03.075Z"
+  },
+  {
+    "url": "https://v0.dev/t/07GyvOaG4qj",
+    "label": "Template for prompt: Tree list with nodes and checkboxes",
+    "dateAdded": "2024-01-21T00:25:03.075Z"
+  },
+  {
+    "url": "https://v0.dev/t/1EqyHUyI0vJ",
+    "label": "Template for prompt: make a better error page",
+    "dateAdded": "2024-01-21T00:25:03.075Z"
+  },
+  {
+    "url": "https://v0.dev/t/LqnivSe9GWC",
+    "label": "Template for prompt: react-flow を使って data diagram をつくります。 user テーブルと account テーブルの依存をレンダリングしたいです。 検索もできるようにしてください",
+    "dateAdded": "2024-01-21T00:25:03.075Z"
+  },
+  {
+    "url": "https://v0.dev/t/5eMxaYz9KBt",
+    "label": "Template for prompt: a responsive dental care landing page",
+    "dateAdded": "2024-01-21T00:25:03.075Z"
+  },
+  {
+    "url": "https://v0.dev/t/fdS7gmeHwyJ",
+    "label": "Template for prompt: Make an interactive page for users to edit their own bios",
+    "dateAdded": "2024-01-21T00:25:03.076Z"
+  },
+  {
+    "url": "https://v0.dev/t/FGpRRw5OGAR",
+    "label": "Template for prompt: a react component showcasing the following data [\n    {\n        \"category\": \"Housing\",\n        \"percentage\": 30,\n        \"amount\": 22800\n    },\n    {\n        \"category\": \"Food\",\n        \"percentage\": 15,\n        \"amount\": 11400\n    },\n    {\n        \"category\": \"Transportation\",\n        \"percentage\": 10,\n        \"amount\": 7600\n    },\n    {\n        \"category\": \"Healthcare\",\n        \"percentage\": 5,\n        \"amount\": 3800\n    },\n    {\n        \"category\": \"Savings\",\n        \"percentage\": 20,\n        \"amount\": 15200\n    },\n    {\n        \"category\": \"Entertainment and Personal\",\n        \"percentage\": 10,\n        \"amount\": 7600\n    },\n    {\n        \"category\": \"Other\",\n        \"percentage\": 10,\n        \"amount\": 7600\n    }\n]",
+    "dateAdded": "2024-01-21T00:25:03.076Z"
+  },
+  {
+    "url": "https://v0.dev/t/AA4XsHOxJ9B",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T00:25:03.076Z"
+  },
+  {
+    "url": "https://v0.dev/t/mcF1SYJpGV0",
+    "label": "Template for prompt: a blog home page with all the posts. The page should be in a darker color",
+    "dateAdded": "2024-01-21T00:25:03.076Z"
+  },
+  {
+    "url": "https://v0.dev/t/JrNp34Uvy0W",
+    "label": "Template for prompt: Give me a simple dashboard, that contains, a top navigation, 3 cards and a datatable",
+    "dateAdded": "2024-01-21T00:25:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/vr73cKcWZQT",
+    "label": "Template for prompt: A new account card",
+    "dateAdded": "2024-01-21T00:25:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/bsOUbJa2k5H",
+    "label": "Template for prompt: dating app send a meetup invite",
+    "dateAdded": "2024-01-21T00:25:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/b9WvfJwDuF9",
+    "label": "Template for prompt: and edit bio page",
+    "dateAdded": "2024-01-21T00:25:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/C7usRNI5t5L",
+    "label": "Template for prompt: Generate me a dashboard for my crypto application",
+    "dateAdded": "2024-01-21T00:25:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/xXu97AXkbh9",
+    "label": "Template for prompt: small ejs file for a small profile page that will display a pfp, a username and display name, and an in-game name, make it adaptative to device width and height",
+    "dateAdded": "2024-01-21T00:25:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/cgI2S3LFXAj",
+    "label": "Template for prompt: Home banner for Curriculum website",
+    "dateAdded": "2024-01-21T00:25:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/6YWCnfCNX2f",
+    "label": "Template for prompt: A page in a workout app, which displays a list of workouts to choose from. Each workout has only a name. The workout is a link and clicking it would take the user to the workout details page. There should also be a button for creating a new workout",
+    "dateAdded": "2024-01-21T00:25:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/4DAWrCuyW1k",
+    "label": "Template for prompt: A directory of agents, grid of cards showing agent's name, address, buttons for contacting them, scheduling appointments and showing how far away they are from a selected area",
+    "dateAdded": "2024-01-21T00:25:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/C2gWnkknTPD",
+    "label": "Template for prompt: Reference Importer UI",
+    "dateAdded": "2024-01-21T00:25:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/lYGqbZUTaxs",
+    "label": "Template for prompt: create a nice events section",
+    "dateAdded": "2024-01-21T00:25:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/3IluCxJRNOH",
+    "label": "Template for prompt: replicate the sidebar",
+    "dateAdded": "2024-01-21T00:25:03.079Z"
+  },
+  {
+    "url": "https://v0.dev/t/mdawxbIYjLZ",
+    "label": "Template for prompt: necesito hacer un modal con multiples steps en Angular",
+    "dateAdded": "2024-01-21T00:25:03.079Z"
+  },
+  {
+    "url": "https://v0.dev/t/rDted3kxmMu",
+    "label": "Template for prompt: A user dashboard",
+    "dateAdded": "2024-01-21T00:25:03.079Z"
+  },
+  {
+    "url": "https://v0.dev/t/zJMvA0B48kb",
+    "label": "Template for prompt: Can you generate two inputs arranged side by side for the purpose of comparing two profiles?",
+    "dateAdded": "2024-01-21T00:25:03.079Z"
+  },
+  {
+    "url": "https://v0.dev/t/Hm4rDiWV395",
+    "label": "Template for prompt: build me a dashboard landing page, do not include a header or footer, but do include a side menu bar that will popout on hover",
+    "dateAdded": "2024-01-21T00:25:03.080Z"
   }
 ]
