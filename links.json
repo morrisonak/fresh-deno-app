@@ -20953,5 +20953,130 @@
     "url": "https://v0.dev/t/1QFXOeejHoh",
     "label": "Template for prompt: A login mobile ui with orange and blue theme ",
     "dateAdded": "2024-01-21T18:25:03.765Z"
+  },
+  {
+    "url": "https://v0.dev/t/6L8N5GfC3RE",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T18:30:02.934Z"
+  },
+  {
+    "url": "https://v0.dev/t/jCB4VXuezC0",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T18:30:02.934Z"
+  },
+  {
+    "url": "https://v0.dev/t/A2yuVLQwXhO",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T18:30:02.935Z"
+  },
+  {
+    "url": "https://v0.dev/t/2EnaVjazY5z",
+    "label": "Template for prompt: design a form confir,ation page to display the final details of the form being submitted. Include the seller, date, items in details, payment info and method, shipping info and method, label count ",
+    "dateAdded": "2024-01-21T18:30:02.935Z"
+  },
+  {
+    "url": "https://v0.dev/t/dv1QR89moAN",
+    "label": "Template for prompt: create a minimlistic card component using tailwind css that includes stripe subscription details that is currently subscribed. including product name, price, start date, current_billing_cycle start and end date",
+    "dateAdded": "2024-01-21T18:30:02.935Z"
+  },
+  {
+    "url": "https://v0.dev/t/b0vcu8swNBe",
+    "label": "Template for prompt: Create a gomoku playing website ",
+    "dateAdded": "2024-01-21T18:30:02.935Z"
+  },
+  {
+    "url": "https://v0.dev/t/BaFouLCY5fN",
+    "label": "Template for prompt: Create a gomoku playing website ",
+    "dateAdded": "2024-01-21T18:30:02.935Z"
+  },
+  {
+    "url": "https://v0.dev/t/xlCchZJgbKl",
+    "label": "Template for prompt: wishlist pop in from right, module when u add someting to ur wishlist",
+    "dateAdded": "2024-01-21T18:30:02.935Z"
+  },
+  {
+    "url": "https://v0.dev/t/CpXDTzhMyU1",
+    "label": "Template for prompt: product descripton",
+    "dateAdded": "2024-01-21T18:30:02.935Z"
+  },
+  {
+    "url": "https://v0.dev/t/AZGtJpID799",
+    "label": "Template for prompt: security audit log list with user avatar that performed the action, what the action was, the email of the user that performed it, the date they performed it and the ip address of who performed the action.",
+    "dateAdded": "2024-01-21T18:30:02.936Z"
+  },
+  {
+    "url": "https://v0.dev/t/YPujgkowwSe",
+    "label": "Template for prompt: a folder explorer, display list a folders in grid with folder icon and folder name under it, every folder in nice card look and minimal",
+    "dateAdded": "2024-01-21T18:30:02.936Z"
+  },
+  {
+    "url": "https://v0.dev/t/QHpkpFk7mGp",
+    "label": "Template for prompt: Movie page with download, watch online and preview tabs",
+    "dateAdded": "2024-01-21T18:30:02.936Z"
+  },
+  {
+    "url": "https://v0.dev/t/236jiyzIF38",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T18:30:02.936Z"
+  },
+  {
+    "url": "https://v0.dev/t/aQPhn7Apccg",
+    "label": "Template for prompt: create an about us page",
+    "dateAdded": "2024-01-21T18:30:02.936Z"
+  },
+  {
+    "url": "https://v0.dev/t/XPxu60ZABO1",
+    "label": "Template for prompt: A simple example app that has rows of buttons with a gap of 5, each button has text inside that says, \"Bump Count - Local Count: 0\" and next to each button is a piece of text that says: \"Server Count: 0\"",
+    "dateAdded": "2024-01-21T18:30:02.936Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q82pD7ma3nr",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-21T18:30:02.936Z"
+  },
+  {
+    "url": "https://v0.dev/t/zayAa2uSuT3",
+    "label": "Template for prompt: a page for a programming course counselling event with the agenda and a registration form",
+    "dateAdded": "2024-01-21T18:30:02.937Z"
+  },
+  {
+    "url": "https://v0.dev/t/uY7eqZ3EorD",
+    "label": "Template for prompt: an admin page that displays a table of new accounts that need to be verified",
+    "dateAdded": "2024-01-21T18:30:02.937Z"
+  },
+  {
+    "url": "https://v0.dev/t/2lBk95eCcSm",
+    "label": "Template for prompt: video carousel player that plays the video that is in focus",
+    "dateAdded": "2024-01-21T18:30:02.937Z"
+  },
+  {
+    "url": "https://v0.dev/t/rJdnShKCyH2",
+    "label": "Template for prompt: generate a form with the following model: \n\nmodel Tender {\n    number      String            @unique\n    description String            @db.Text\n    closingDate DateTime          @default(now())\n    closingTime String            @default(\"10:00\")\n    Status      TenderStatus      @default(OPEN)\n    client      String            @db.VarChar(255)\n    hasBriefing BriefingStatus    @default(NO)\n    briefing    Briefing? // Link to Briefing model\n    companies   TenderToCompany[]\n}\n\non company I shoud be able to secect multiple companies, use the following companies (Sithembe Transportation and Projects, Livhu and Musa Enterprise)",
+    "dateAdded": "2024-01-21T18:30:02.937Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ze2i2CnkhV1",
+    "label": "Template for prompt: a dashboard list component to display questions and options with CRUD action buttons on the end of question and a searchbar on the too",
+    "dateAdded": "2024-01-21T18:30:02.937Z"
+  },
+  {
+    "url": "https://v0.dev/t/RSVreoYSixH",
+    "label": "Template for prompt: Create a Covid Tracking Page",
+    "dateAdded": "2024-01-21T18:30:02.937Z"
+  },
+  {
+    "url": "https://v0.dev/t/c89iJcKQgLM",
+    "label": "Template for prompt: an page for a programming course counselling event",
+    "dateAdded": "2024-01-21T18:30:02.937Z"
+  },
+  {
+    "url": "https://v0.dev/t/kAQNfUie9mw",
+    "label": "Template for prompt: A notification bell icon with a counter on it",
+    "dateAdded": "2024-01-21T18:30:02.937Z"
+  },
+  {
+    "url": "https://v0.dev/t/5dFNnNwMFL9",
+    "label": "Template for prompt: Create an amazon page",
+    "dateAdded": "2024-01-21T18:30:02.938Z"
   }
 ]
