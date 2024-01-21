@@ -18568,5 +18568,135 @@
     "url": "https://v0.dev/t/Vv4nZoCZxPk",
     "label": "Template for prompt: a project card that has name, tech stack, project url, source and a show more button",
     "dateAdded": "2024-01-21T16:50:03.600Z"
+  },
+  {
+    "url": "https://v0.dev/t/8lxmqd7koKz",
+    "label": "Template for prompt: Popover icon setting ",
+    "dateAdded": "2024-01-21T16:55:02.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/rqWLzVTxAI1",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-21T16:55:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/IMcdDM85UdO",
+    "label": "Template for prompt: A website element that looks like a store receipt but for statistics",
+    "dateAdded": "2024-01-21T16:55:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/evu093NslRr",
+    "label": "Template for prompt: A list of blog posts",
+    "dateAdded": "2024-01-21T16:55:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/BM3HPAL3ctf",
+    "label": "Template for prompt: Svg of person sitting at a desk",
+    "dateAdded": "2024-01-21T16:55:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/QEfuC5lZRPr",
+    "label": "Template for prompt: Header with animation",
+    "dateAdded": "2024-01-21T16:55:02.713Z"
+  },
+  {
+    "url": "https://v0.dev/t/NfNzIRVsNcC",
+    "label": "Template for prompt: employee handbook/document",
+    "dateAdded": "2024-01-21T16:55:02.713Z"
+  },
+  {
+    "url": "https://v0.dev/t/xU4WbbaloiK",
+    "label": "Template for prompt: make a iphone app for plants store",
+    "dateAdded": "2024-01-21T16:55:02.713Z"
+  },
+  {
+    "url": "https://v0.dev/t/VRrNZ5DZBCU",
+    "label": "Template for prompt: user profile page in admin dashboard",
+    "dateAdded": "2024-01-21T16:55:02.713Z"
+  },
+  {
+    "url": "https://v0.dev/t/I3Si49fVIdB",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T16:55:02.714Z"
+  },
+  {
+    "url": "https://v0.dev/t/kw4Hp6yOHKS",
+    "label": "Template for prompt: video call page",
+    "dateAdded": "2024-01-21T16:55:02.714Z"
+  },
+  {
+    "url": "https://v0.dev/t/6bTtuS7sRyu",
+    "label": "Template for prompt: video call page",
+    "dateAdded": "2024-01-21T16:55:02.714Z"
+  },
+  {
+    "url": "https://v0.dev/t/OmJFJA0WG1g",
+    "label": "Template for prompt: create saas dashboard to create tax invoices",
+    "dateAdded": "2024-01-21T16:55:02.714Z"
+  },
+  {
+    "url": "https://v0.dev/t/aTn06Z7huvy",
+    "label": "Template for prompt: I want to create a website for uploading data matching, where multiple data items need to be selected and matched by myself",
+    "dateAdded": "2024-01-21T16:55:02.714Z"
+  },
+  {
+    "url": "https://v0.dev/t/cwPWs9kzcz6",
+    "label": "Template for prompt: I want to create a website for uploading data matching, where multiple data items need to be selected and matched by myself",
+    "dateAdded": "2024-01-21T16:55:02.714Z"
+  },
+  {
+    "url": "https://v0.dev/t/kDKE3dD62ie",
+    "label": "Template for prompt: landing page, header and a button, navigation bar on the top and the picture to the right from header",
+    "dateAdded": "2024-01-21T16:55:02.714Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZRaoXH5rptb",
+    "label": "Template for prompt: make a page in react called enhanse. should be beautiful \none div in the left for uploading image by user and displaying and second div for api response imge .\n ",
+    "dateAdded": "2024-01-21T16:55:02.715Z"
+  },
+  {
+    "url": "https://v0.dev/t/1BafQvwg6vj",
+    "label": "Template for prompt: genere moi la siderbar un site de video pour adult",
+    "dateAdded": "2024-01-21T16:55:02.715Z"
+  },
+  {
+    "url": "https://v0.dev/t/U3umnvLSBZa",
+    "label": "Template for prompt: form user update infomation",
+    "dateAdded": "2024-01-21T16:55:02.715Z"
+  },
+  {
+    "url": "https://v0.dev/t/hq2zjRcVpv5",
+    "label": "Template for prompt: a home page for the cloud platform an area with a blog page with services etc.",
+    "dateAdded": "2024-01-21T16:55:02.715Z"
+  },
+  {
+    "url": "https://v0.dev/t/s4b0Grp4dMl",
+    "label": "Template for prompt: https://masonmarinko.github.io/myportfolio/",
+    "dateAdded": "2024-01-21T16:55:02.715Z"
+  },
+  {
+    "url": "https://v0.dev/t/vwKXhsgl8LF",
+    "label": "Template for prompt: form user",
+    "dateAdded": "2024-01-21T16:55:02.715Z"
+  },
+  {
+    "url": "https://v0.dev/t/S7rVhnygRgB",
+    "label": "Template for prompt: An order form that takes customer detail and order items which includes the item name,price and quantity.\nImplement this using shadcn and nextjs app router with server actions.",
+    "dateAdded": "2024-01-21T16:55:02.715Z"
+  },
+  {
+    "url": "https://v0.dev/t/n2nSvmYZkJT",
+    "label": "Template for prompt: 一个招新系统，作用是筛选学生简历，发送邮件，查看详情，查看私信。",
+    "dateAdded": "2024-01-21T16:55:02.715Z"
+  },
+  {
+    "url": "https://v0.dev/t/xKTFTPJfOgy",
+    "label": "Template for prompt: webdeveloper about me page",
+    "dateAdded": "2024-01-21T16:55:02.716Z"
+  },
+  {
+    "url": "https://v0.dev/t/1P2XtTXpioU",
+    "label": "Template for prompt: replicate the design and layout in the image as closely as possible",
+    "dateAdded": "2024-01-21T16:55:02.716Z"
   }
 ]
