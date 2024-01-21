@@ -13458,5 +13458,130 @@
     "url": "https://v0.dev/t/crEis9xKFSe",
     "label": "Template for prompt: a desktop screen with popup on top right",
     "dateAdded": "2024-01-21T01:10:03.028Z"
+  },
+  {
+    "url": "https://v0.dev/t/rG8zGLUjJ2P",
+    "label": "Template for prompt: an arcade where players scan switch between some online small games",
+    "dateAdded": "2024-01-21T01:15:03.529Z"
+  },
+  {
+    "url": "https://v0.dev/t/UFWaBZVYjor",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-21T01:15:03.529Z"
+  },
+  {
+    "url": "https://v0.dev/t/YdBIJBuwid5",
+    "label": "Template for prompt: develop a modal where you will import  a new schedule from uninorte where you explain why you need the uninorte user credentials and explain that won't be saved and onl be used to fetch the schedule",
+    "dateAdded": "2024-01-21T01:15:03.529Z"
+  },
+  {
+    "url": "https://v0.dev/t/5stBE9xeLTn",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T01:15:03.529Z"
+  },
+  {
+    "url": "https://v0.dev/t/abiCTdDuJkO",
+    "label": "Template for prompt: Create a design concept for a productivity app that transforms spoken or written input into an organized daily plan. The app's interface should reflect a seamless flow from speech or text input to a structured to-do list, integrated with Google Calendar for task scheduling",
+    "dateAdded": "2024-01-21T01:15:03.530Z"
+  },
+  {
+    "url": "https://v0.dev/t/7eBzyLJ9JRu",
+    "label": "Template for prompt: create me an under maintenance page component",
+    "dateAdded": "2024-01-21T01:15:03.530Z"
+  },
+  {
+    "url": "https://v0.dev/t/hvbeRSj1qjQ",
+    "label": "Template for prompt: un menu collant qui apparait lorsqu'on scroll après un landing page",
+    "dateAdded": "2024-01-21T01:15:03.530Z"
+  },
+  {
+    "url": "https://v0.dev/t/FWSLqHKmRdw",
+    "label": "Template for prompt: un menu collant",
+    "dateAdded": "2024-01-21T01:15:03.530Z"
+  },
+  {
+    "url": "https://v0.dev/t/w2qxgqsNeL9",
+    "label": "Template for prompt: react component for onboarding on a mobile app. A large photo with a title and then some subtext and a button to go to the next or previous onboarding screen. ",
+    "dateAdded": "2024-01-21T01:15:03.530Z"
+  },
+  {
+    "url": "https://v0.dev/t/EbnGNQxMdqR",
+    "label": "Template for prompt: League of legends team display both teams players stats side by side",
+    "dateAdded": "2024-01-21T01:15:03.531Z"
+  },
+  {
+    "url": "https://v0.dev/t/o6dXXtcftOX",
+    "label": "Template for prompt: Azure themed login page using #0078D4 colour",
+    "dateAdded": "2024-01-21T01:15:03.531Z"
+  },
+  {
+    "url": "https://v0.dev/t/iUukBco1dhZ",
+    "label": "Template for prompt: a landing page with a scroll-friendly menu and when we scroll the sticky menu display block with transition",
+    "dateAdded": "2024-01-21T01:15:03.531Z"
+  },
+  {
+    "url": "https://v0.dev/t/YR9KGJYcRww",
+    "label": "Template for prompt: an status page aplication to monitor if site or api is online/offiline. ",
+    "dateAdded": "2024-01-21T01:15:03.531Z"
+  },
+  {
+    "url": "https://v0.dev/t/t0MHTjCLEjO",
+    "label": "Template for prompt: League of legends player display stats",
+    "dateAdded": "2024-01-21T01:15:03.531Z"
+  },
+  {
+    "url": "https://v0.dev/t/6rjK7PaxtJ3",
+    "label": "Template for prompt: Create a blog like page for todo list, which\n- Diplays image on the top \n- Displays headline: e.g.  Taylor Swift's Morning Routine To Do List: A Glimpse into the Pop Icon's Day\n- Display description of the todo list: e.g.  Taylor Swift, the multi-award-winning singer-songwriter, has a morning routine that reflects her dedication to her craft and personal well-being. Known for her catchy tunes and narrative songwriting, Swift's daily schedule is as intriguing as her music. This report delves into the intricacies of her morning activities, providing a comprehensive look at how she starts her day.\n- Display to-do list items with time of the day, title, description and sub items. e.g. 1. 7.00 am Wake up early (he first moments of her morning are spent in the company of her beloved cats) 2. 8:30 am Excercise  3. Healthy meal and hydration",
+    "dateAdded": "2024-01-21T01:15:03.531Z"
+  },
+  {
+    "url": "https://v0.dev/t/uiLQVvKenI2",
+    "label": "Template for prompt: apage where you can search for cards, given a few filters",
+    "dateAdded": "2024-01-21T01:15:03.531Z"
+  },
+  {
+    "url": "https://v0.dev/t/8dUp9Zdcxg8",
+    "label": "Template for prompt: use thie thema rgb(5,179,131) and create not found page",
+    "dateAdded": "2024-01-21T01:15:03.532Z"
+  },
+  {
+    "url": "https://v0.dev/t/IoDKLsEZ1FA",
+    "label": "Template for prompt: nextjs dashboard layout with header and sidebar",
+    "dateAdded": "2024-01-21T01:15:03.532Z"
+  },
+  {
+    "url": "https://v0.dev/t/DllUiyhxVCu",
+    "label": "Template for prompt: A left side component and right side component, where the left side component is takes up 30% of the screen and right side 70%",
+    "dateAdded": "2024-01-21T01:15:03.532Z"
+  },
+  {
+    "url": "https://v0.dev/t/EbUEphxcmyE",
+    "label": "Template for prompt: a welcome page for a wedding gift list",
+    "dateAdded": "2024-01-21T01:15:03.532Z"
+  },
+  {
+    "url": "https://v0.dev/t/Bo3U7kgGBi4",
+    "label": "Template for prompt: Make this settings page look better.",
+    "dateAdded": "2024-01-21T01:15:03.532Z"
+  },
+  {
+    "url": "https://v0.dev/t/OpkYFebXzB1",
+    "label": "Template for prompt: A chrome extension named \"Poly+\"'s website homepage",
+    "dateAdded": "2024-01-21T01:15:03.532Z"
+  },
+  {
+    "url": "https://v0.dev/t/ByZh8PajemU",
+    "label": "Template for prompt: minimalistic pomodoro timer.",
+    "dateAdded": "2024-01-21T01:15:03.533Z"
+  },
+  {
+    "url": "https://v0.dev/t/hOBwZw7Cl2q",
+    "label": "Template for prompt: Make a storefront with html and css only",
+    "dateAdded": "2024-01-21T01:15:03.533Z"
+  },
+  {
+    "url": "https://v0.dev/t/cUod9Tw8IJf",
+    "label": "Template for prompt: not found",
+    "dateAdded": "2024-01-21T01:15:03.533Z"
   }
 ]
