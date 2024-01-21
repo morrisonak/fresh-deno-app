@@ -27353,5 +27353,135 @@
     "url": "https://v0.dev/t/5r7PB0PHLle",
     "label": "Template for prompt: masterclass screen showing cards of classes with a search bar alligned in the center",
     "dateAdded": "2024-01-21T23:00:02.965Z"
+  },
+  {
+    "url": "https://v0.dev/t/fjBzyKTWE3E",
+    "label": "Template for prompt: A page for a user \"post\" which contains the following elements: title, creator, updated date, link, visibility indicator (whether it is a public or private post), and a list of cards, each of which has a title, icon, description, and category",
+    "dateAdded": "2024-01-21T23:05:03.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/pWoq6KKoluE",
+    "label": "Template for prompt: a weather app looks like a nice IOS weather app",
+    "dateAdded": "2024-01-21T23:05:03.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/Axn0Atq83TK",
+    "label": "Template for prompt: a weather app looks like a nice IOS weather app",
+    "dateAdded": "2024-01-21T23:05:03.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/d2zcsX3TR1o",
+    "label": "Template for prompt: make a copy of amazon.",
+    "dateAdded": "2024-01-21T23:05:03.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/ky6X6Zl3D2Z",
+    "label": "Template for prompt: A grid of cards where each card has a title, creator, updated date, description, and a list of icons ",
+    "dateAdded": "2024-01-21T23:05:03.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/Sm9bp0MS09p",
+    "label": "Template for prompt: A grid of cards where each card has a title, creator, updated date, description, and a list of icons ",
+    "dateAdded": "2024-01-21T23:05:03.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/CoH1Lvr3gTH",
+    "label": "Template for prompt: i want a div which have three section od todo list all, checked and unchecked",
+    "dateAdded": "2024-01-21T23:05:03.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/AJ56IGMIowt",
+    "label": "Template for prompt: an rpg with inventory ",
+    "dateAdded": "2024-01-21T23:05:03.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/bukONGFYGqY",
+    "label": "Template for prompt: The image contains a side bar navigation menu and a main page. Ensure there is a button to toggle the sidebar from open to minimised state.\nThe button should always be displayed. And should be on the sidebar, not the main page",
+    "dateAdded": "2024-01-21T23:05:03.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/jGTmhsTYPz6",
+    "label": "Template for prompt: Saas Landing Page",
+    "dateAdded": "2024-01-21T23:05:03.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/VCvTGfUzKcH",
+    "label": "Template for prompt: a weather app looks like a nice weather app",
+    "dateAdded": "2024-01-21T23:05:03.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/sbPZngGbsvC",
+    "label": "Template for prompt: footer",
+    "dateAdded": "2024-01-21T23:05:03.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/ayrbugXnyxb",
+    "label": "Template for prompt: Saas Admin dashboard",
+    "dateAdded": "2024-01-21T23:05:03.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/Cxn5xj1p3HN",
+    "label": "Template for prompt: make a ranking score top 5 with profile picture for user",
+    "dateAdded": "2024-01-21T23:05:03.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/MZuqTA5ssIL",
+    "label": "Template for prompt: layout of 30 percent sidebar other 70 percent viewer \ncan you design sidebar for me that has 1 heading and 5 dropdowns i wanna use dark gary and off white colors dar color for bg ",
+    "dateAdded": "2024-01-21T23:05:03.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/30pD88fa2Hx",
+    "label": "Template for prompt: Category labels for blog post previews. Sleek, minimal and color accents to indicate the category",
+    "dateAdded": "2024-01-21T23:05:03.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/3h5bPtdqJW0",
+    "label": "Template for prompt: Collapsible side bar navigation and main page layout. ",
+    "dateAdded": "2024-01-21T23:05:03.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/fm9vP1Zf0mS",
+    "label": "Template for prompt: roadmap cards with linetime, icon, text, description, date ",
+    "dateAdded": "2024-01-21T23:05:03.384Z"
+  },
+  {
+    "url": "https://v0.dev/t/DS4qGTueEE2",
+    "label": "Template for prompt: A dashboard for a file management software with a prominent search and filter bar floating at the bottom center of the interface. The files are in list format with a detailed view that shows a preview of the file and presents additional information",
+    "dateAdded": "2024-01-21T23:05:03.384Z"
+  },
+  {
+    "url": "https://v0.dev/t/DjXV35wSLiV",
+    "label": "Template for prompt: create a saas totalproject overview",
+    "dateAdded": "2024-01-21T23:05:03.384Z"
+  },
+  {
+    "url": "https://v0.dev/t/rvEZBRSG3w4",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-21T23:05:03.384Z"
+  },
+  {
+    "url": "https://v0.dev/t/aoyMrGX7VUv",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-21T23:05:03.384Z"
+  },
+  {
+    "url": "https://v0.dev/t/rTntNZPQ6r7",
+    "label": "Template for prompt: sidebar vertical menu. open secondary menu when hovering links in sidebar menu",
+    "dateAdded": "2024-01-21T23:05:03.384Z"
+  },
+  {
+    "url": "https://v0.dev/t/p9qGds9x8Ni",
+    "label": "Template for prompt: A tanstack react data table to search for college courses to register for, with the following columns: Course Number (e.g. CSE101, MAT102), Title, Credits, Instructor Name, Start Date, End Date. Should include a search bar.",
+    "dateAdded": "2024-01-21T23:05:03.384Z"
+  },
+  {
+    "url": "https://v0.dev/t/s9GXYPLnJV9",
+    "label": "Template for prompt: create a roadmap cards with icon, tittle, text, responsive with react",
+    "dateAdded": "2024-01-21T23:05:03.385Z"
+  },
+  {
+    "url": "https://v0.dev/t/efX6L5GlTd5",
+    "label": "Template for prompt: A flow chart display for a project management tool",
+    "dateAdded": "2024-01-21T23:05:03.385Z"
   }
 ]
