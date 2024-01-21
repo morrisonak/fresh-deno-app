@@ -20703,5 +20703,135 @@
     "url": "https://v0.dev/t/0G7wR7z5pUe",
     "label": "Template for prompt: a frontpage for a apex legends esports website",
     "dateAdded": "2024-01-21T18:15:03.634Z"
+  },
+  {
+    "url": "https://v0.dev/t/5dFNnNwMFL9",
+    "label": "Template for prompt: Create an amazon page",
+    "dateAdded": "2024-01-21T18:20:03.549Z"
+  },
+  {
+    "url": "https://v0.dev/t/3UikjGehDgK",
+    "label": "Template for prompt: generate a form with the following model: \n\nmodel Tender {\n    number      String            @unique\n    description String            @db.Text\n    closingDate DateTime          @default(now())\n    closingTime String            @default(\"10:00\")\n    Status      TenderStatus      @default(OPEN)\n    client      String            @db.VarChar(255)\n    hasBriefing BriefingStatus    @default(NO)\n    briefing    Briefing? // Link to Briefing model\n    companies   TenderToCompany[]\n}\n\non company I shoud be able to secect multiple companies, use the following companies (Sithembe Transportation and Projects, Livhu and Musa Enterprise)",
+    "dateAdded": "2024-01-21T18:20:03.549Z"
+  },
+  {
+    "url": "https://v0.dev/t/5vcJe3eRmWC",
+    "label": "Template for prompt: A grid with equally sized square cell divs, to the right of the grid is a control panel to change settings",
+    "dateAdded": "2024-01-21T18:20:03.549Z"
+  },
+  {
+    "url": "https://v0.dev/t/ajbyby84W6H",
+    "label": "Template for prompt: a event page",
+    "dateAdded": "2024-01-21T18:20:03.550Z"
+  },
+  {
+    "url": "https://v0.dev/t/AldDyUrb8yk",
+    "label": "Template for prompt: a coaching website with amazon affiliation page",
+    "dateAdded": "2024-01-21T18:20:03.550Z"
+  },
+  {
+    "url": "https://v0.dev/t/93kWLYQ0uIt",
+    "label": "Template for prompt: a modal with three choices: cheap, medium and expensive",
+    "dateAdded": "2024-01-21T18:20:03.550Z"
+  },
+  {
+    "url": "https://v0.dev/t/IPwQU3SKgbm",
+    "label": "Template for prompt: a dashboard list component to display questions and options with CRUD action buttons on the end of question",
+    "dateAdded": "2024-01-21T18:20:03.550Z"
+  },
+  {
+    "url": "https://v0.dev/t/mPQoSwtTf0j",
+    "label": "Template for prompt: a dashboard list component to display questions and options with CRUD action buttons on the end of question",
+    "dateAdded": "2024-01-21T18:20:03.551Z"
+  },
+  {
+    "url": "https://v0.dev/t/5jDghXcVnQ1",
+    "label": "Template for prompt: a dashboard list component to display questions and options with CRUD action buttons on the end of question",
+    "dateAdded": "2024-01-21T18:20:03.551Z"
+  },
+  {
+    "url": "https://v0.dev/t/CdFPCwdmGig",
+    "label": "Template for prompt: A gomoku game",
+    "dateAdded": "2024-01-21T18:20:03.551Z"
+  },
+  {
+    "url": "https://v0.dev/t/x9thURmkehG",
+    "label": "Template for prompt: a page for a listing of investments for a property investment portal",
+    "dateAdded": "2024-01-21T18:20:03.551Z"
+  },
+  {
+    "url": "https://v0.dev/t/OcgEcqeQUEW",
+    "label": "Template for prompt: Login ios screen",
+    "dateAdded": "2024-01-21T18:20:03.552Z"
+  },
+  {
+    "url": "https://v0.dev/t/0GP6FniXASf",
+    "label": "Template for prompt: Application des gestion des notes",
+    "dateAdded": "2024-01-21T18:20:03.552Z"
+  },
+  {
+    "url": "https://v0.dev/t/s7xMuOnljkf",
+    "label": "Template for prompt: Application des gestion des notes",
+    "dateAdded": "2024-01-21T18:20:03.552Z"
+  },
+  {
+    "url": "https://v0.dev/t/GkFaksl7OnL",
+    "label": "Template for prompt: a restaurant seating floor plan app",
+    "dateAdded": "2024-01-21T18:20:03.552Z"
+  },
+  {
+    "url": "https://v0.dev/t/M5Pr4OfhdzJ",
+    "label": "Template for prompt: puedes hacer un apartado de about con fotos y nombre de la persona y puesto de este",
+    "dateAdded": "2024-01-21T18:20:03.553Z"
+  },
+  {
+    "url": "https://v0.dev/t/GXMlRKAsHwZ",
+    "label": "Template for prompt: A collection of categories in a sidebar",
+    "dateAdded": "2024-01-21T18:20:03.553Z"
+  },
+  {
+    "url": "https://v0.dev/t/hb2dpSUdn5t",
+    "label": "Template for prompt: Image gallery of architect projects",
+    "dateAdded": "2024-01-21T18:20:03.553Z"
+  },
+  {
+    "url": "https://v0.dev/t/1QFXOeejHoh",
+    "label": "Template for prompt: A login mobile ui with orange and blue theme ",
+    "dateAdded": "2024-01-21T18:20:03.553Z"
+  },
+  {
+    "url": "https://v0.dev/t/ubleDKvgWr2",
+    "label": "Template for prompt: a app for gym booking",
+    "dateAdded": "2024-01-21T18:20:03.553Z"
+  },
+  {
+    "url": "https://v0.dev/t/uHD5SbAXp8k",
+    "label": "Template for prompt: create a counter session with 4 columns and decription to each above number",
+    "dateAdded": "2024-01-21T18:20:03.553Z"
+  },
+  {
+    "url": "https://v0.dev/t/phtof582wn7",
+    "label": "Template for prompt: vertical stepper form of 3 inputs, the first is a file drop area, second is simple input, and the thired is a dropdown selection",
+    "dateAdded": "2024-01-21T18:20:03.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/XEqBkb0P2Sr",
+    "label": "Template for prompt: profile management section, with a sidebar, and a password management section",
+    "dateAdded": "2024-01-21T18:20:03.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/VloGIrwo4jR",
+    "label": "Template for prompt: A Next.js and Tailwind static sign in page for GitHub that explains you need to be signed into GitHub in order to access and purchase courses. Branded for Zachary Proser's school for Hackers",
+    "dateAdded": "2024-01-21T18:20:03.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/4VGB98KRSrP",
+    "label": "Template for prompt: generate a form with the following inputs: model Tender {     id          String            @id @default(uuid())     number      String            @unique     description String            @db.Text     closingDate DateTime          @default(now())     closingTime String            @default(\"10:00\")     Status      Status            @default(OPEN)     client      String            @db.VarChar(255)     hasBriefing BriefingStatus    @default(NO)     createdAt   DateTime          @default(now())     updatedAt   DateTime          @updatedAt     briefing    Briefing? // Link to Briefing model     companies   TenderToCompany[]     companyId   String }",
+    "dateAdded": "2024-01-21T18:20:03.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/ju52bjptunf",
+    "label": "Template for prompt: A SaaS home page",
+    "dateAdded": "2024-01-21T18:20:03.555Z"
   }
 ]
