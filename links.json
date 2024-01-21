@@ -23643,5 +23643,125 @@
     "url": "https://v0.dev/t/7HJTSwMOXi7",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2024-01-21T20:10:02.766Z"
+  },
+  {
+    "url": "https://v0.dev/t/Pb6ygjF8agY",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T20:15:03.482Z"
+  },
+  {
+    "url": "https://v0.dev/t/b5rOudAQzsA",
+    "label": "Template for prompt: Generate an offer section with 3 offers, with the premiest in the middle",
+    "dateAdded": "2024-01-21T20:15:03.483Z"
+  },
+  {
+    "url": "https://v0.dev/t/1nXCt5ihxZU",
+    "label": "Template for prompt: A dreamy circular ish colour gradient of violet, white and yellow ",
+    "dateAdded": "2024-01-21T20:15:03.483Z"
+  },
+  {
+    "url": "https://v0.dev/t/V7GbqDDuop5",
+    "label": "Template for prompt: Lets build an page which have a top bar, and 2 section, one section on left is small and on right its more wide, like width is 1:3 ration",
+    "dateAdded": "2024-01-21T20:15:03.483Z"
+  },
+  {
+    "url": "https://v0.dev/t/aGQBH7ab7qU",
+    "label": "Template for prompt: Generate a offer section",
+    "dateAdded": "2024-01-21T20:15:03.483Z"
+  },
+  {
+    "url": "https://v0.dev/t/Sic8Q9HbrNw",
+    "label": "Template for prompt: i want a page with 3 buttons to store blood pressure data. one button to add new data. one button to see the records and one to generate a report",
+    "dateAdded": "2024-01-21T20:15:03.483Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yu8Wz0wfcru",
+    "label": "Template for prompt: create me an app menu dashboard with apps to select from",
+    "dateAdded": "2024-01-21T20:15:03.483Z"
+  },
+  {
+    "url": "https://v0.dev/t/A3S7VLqWFuR",
+    "label": "Template for prompt: can you make an elektron Octatrack",
+    "dateAdded": "2024-01-21T20:15:03.483Z"
+  },
+  {
+    "url": "https://v0.dev/t/79LmeWzVj7W",
+    "label": "Template for prompt: make a compact chat application",
+    "dateAdded": "2024-01-21T20:15:03.483Z"
+  },
+  {
+    "url": "https://v0.dev/t/gKEybOLNVJN",
+    "label": "Template for prompt: outstanding eye catching temazcal web page",
+    "dateAdded": "2024-01-21T20:15:03.484Z"
+  },
+  {
+    "url": "https://v0.dev/t/P64Qj7WNOFH",
+    "label": "Template for prompt: A qr code generator application landing page where the users can instantly generate qr codes. Add a top navigation bar with logo and login / sign up. Beneath that the main components with different data options like url, email, app store link. next to that a preview of the qr code with a download button. beneath all that some space for ads.",
+    "dateAdded": "2024-01-21T20:15:03.484Z"
+  },
+  {
+    "url": "https://v0.dev/t/TaK58TXCryD",
+    "label": "Template for prompt: a navigation bar for a pdf viewer with a page component that displays the page number and a left and right button as well as a zoom component with the ability to zoom in and out. also a switch to change between light and dark mode",
+    "dateAdded": "2024-01-21T20:15:03.484Z"
+  },
+  {
+    "url": "https://v0.dev/t/LP7tUowJfSE",
+    "label": "Template for prompt: ecommer header horizontal category list like button",
+    "dateAdded": "2024-01-21T20:15:03.484Z"
+  },
+  {
+    "url": "https://v0.dev/t/jLa1ERLIPi6",
+    "label": "Template for prompt: velog",
+    "dateAdded": "2024-01-21T20:15:03.484Z"
+  },
+  {
+    "url": "https://v0.dev/t/zaCNYbwOf8L",
+    "label": "Template for prompt: \nApp Tech Services Landing Page\nHeadline: Turn your app vision into reality.\n\nSubheadline: We provide expert app development, design, and marketing services to help you launch and grow your app.\n\nHero image: A split-screen image showcasing a stunning mobile app design on one side and a team of developers working on code on the other side.\n\nValue proposition:\n\nExperienced developers: Our team of skilled developers has built hundreds of successful apps across various platforms and industries.\nBeautiful design: We create user-friendly and visually appealing interfaces that drive engagement.\nData-driven marketing: We use proven strategies to get your app in front of the right users and grow your user base.\nAgile approach: We work closely with you throughout the development process to ensure your app meets your expectations.\nServices:\n\nApp development: Native and cross-platform app development for iOS, Android, and web.\nUI/UX design: Creating intuitive and user-friendly interfaces that driv",
+    "dateAdded": "2024-01-21T20:15:03.484Z"
+  },
+  {
+    "url": "https://v0.dev/t/zBDmWLCSQe8",
+    "label": "Template for prompt: A landing page hero section with with text on the left and a bento grid on the right",
+    "dateAdded": "2024-01-21T20:15:03.484Z"
+  },
+  {
+    "url": "https://v0.dev/t/t31S53spoLy",
+    "label": "Template for prompt: Make this form with a table where you can add, modify an remove records in row",
+    "dateAdded": "2024-01-21T20:15:03.484Z"
+  },
+  {
+    "url": "https://v0.dev/t/c2eKwpttVmt",
+    "label": "Template for prompt: A tonte task module has a task title, creator user, assigned user, bool status to indicate whether it is complete or not, date created and date completed, where you can create tasks, edit, delete and mark completed.",
+    "dateAdded": "2024-01-21T20:15:03.485Z"
+  },
+  {
+    "url": "https://v0.dev/t/glVlLbQGti0",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-21T20:15:03.485Z"
+  },
+  {
+    "url": "https://v0.dev/t/4ZOrikkeuNq",
+    "label": "Template for prompt: cv experience list",
+    "dateAdded": "2024-01-21T20:15:03.485Z"
+  },
+  {
+    "url": "https://v0.dev/t/z7KDK1TB5kh",
+    "label": "Template for prompt: a file manager",
+    "dateAdded": "2024-01-21T20:15:03.485Z"
+  },
+  {
+    "url": "https://v0.dev/t/hvgMCXOIi4r",
+    "label": "Template for prompt: A List view of question with edit, delete and view functions",
+    "dateAdded": "2024-01-21T20:15:03.485Z"
+  },
+  {
+    "url": "https://v0.dev/t/9npBFITxUEt",
+    "label": "Template for prompt: a overview screen for a gamemaster, where they can see important information about the players in a pen and paper rpg",
+    "dateAdded": "2024-01-21T20:15:03.485Z"
+  },
+  {
+    "url": "https://v0.dev/t/r5B5IeIbxjQ",
+    "label": "Template for prompt: list of previous jobs worked on in a cv style",
+    "dateAdded": "2024-01-21T20:15:03.485Z"
   }
 ]
