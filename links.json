@@ -12608,5 +12608,125 @@
     "url": "https://v0.dev/t/JrNp34Uvy0W",
     "label": "Template for prompt: Give me a simple dashboard, that contains, a top navigation, 3 cards and a datatable",
     "dateAdded": "2024-01-21T00:35:03.865Z"
+  },
+  {
+    "url": "https://v0.dev/t/LXJM4YwwW6w",
+    "label": "Template for prompt: crie um painel igual ao da imagem para gerenciamento de Data Sources ",
+    "dateAdded": "2024-01-21T00:40:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/5uqs0n180xP",
+    "label": "Template for prompt: An Azure themed Login page",
+    "dateAdded": "2024-01-21T00:40:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/BwnpBGtb446",
+    "label": "Template for prompt: A home page for a sass application",
+    "dateAdded": "2024-01-21T00:40:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/kWsBPDbL7Sw",
+    "label": "Template for prompt: a modern page where homeroom teachers can select the multiple classrooms that they would like to view the pickup lines for. it would need to have a nice header on the top with the logo of the school, the name of the teacher and their picture. there would need to be a search function for searching by the name of the homeroom teacher, the room number, or filtering by the grade",
+    "dateAdded": "2024-01-21T00:40:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/5kV2yCr7giH",
+    "label": "Template for prompt: an ai virtual person to talk to inorder to get better at casual conversations; create a timed speaking screen with a prompt, a feedback and metric screen",
+    "dateAdded": "2024-01-21T00:40:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/Fqh6Fu2WhUk",
+    "label": "Template for prompt: an interface for splitting audio files into its stems, containing an audio player, a dropzone where an audio file can be placed and uploaded.",
+    "dateAdded": "2024-01-21T00:40:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z0mrDYI5ADg",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-21T00:40:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/KdB0YFNZqHM",
+    "label": "Template for prompt: A web app that helps you get better at conversations through speaking at timed intervals",
+    "dateAdded": "2024-01-21T00:40:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/1F5vjHdOeHt",
+    "label": "Template for prompt: month year picker",
+    "dateAdded": "2024-01-21T00:40:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/kNx4pN1VebJ",
+    "label": "Template for prompt: an introduction slide with a big profile picture, title, and subtitle",
+    "dateAdded": "2024-01-21T00:40:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/yl8fzEoJhpu",
+    "label": "Template for prompt: A speedrunning live racing page",
+    "dateAdded": "2024-01-21T00:40:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/cma0ymFJOE9",
+    "label": "Template for prompt: crie um painel igual ao da imagem para gerenciamento de Data Sources ",
+    "dateAdded": "2024-01-21T00:40:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/qn3Sv8xJ5dD",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T00:40:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/xNE1hopvP8W",
+    "label": "Template for prompt: a gameplay page that explains how to play and gives breaf information of each zone of the game",
+    "dateAdded": "2024-01-21T00:40:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/dyhIBYhRJq0",
+    "label": "Template for prompt: file upload input",
+    "dateAdded": "2024-01-21T00:40:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/62Ewcw8H4Ix",
+    "label": "Template for prompt: a dropzone for fileuploads",
+    "dateAdded": "2024-01-21T00:40:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/wLCTv1sR1Tv",
+    "label": "Template for prompt: create a form in dark mode with two input fields: description and origin. The title of the form is \"Create new stream\". There has to be three lines under the fields for explanation. The submit button, on the bottom, should say \"Start stream\" followed by a rocket emoji",
+    "dateAdded": "2024-01-21T00:40:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/EAsqa3IHEvp",
+    "label": "Template for prompt: Create login page with black colors: Password, Email, Login with discord",
+    "dateAdded": "2024-01-21T00:40:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/h7FEfPFbVVU",
+    "label": "Template for prompt: features page with different sections",
+    "dateAdded": "2024-01-21T00:40:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wrzp99zNFNk",
+    "label": "Template for prompt: build tinder style swipe prototype for approve or dismiss sorting",
+    "dateAdded": "2024-01-21T00:40:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/QKBjbrqdrVM",
+    "label": "Template for prompt: deleted comment ",
+    "dateAdded": "2024-01-21T00:40:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/07GyvOaG4qj",
+    "label": "Template for prompt: Tree list with nodes and checkboxes",
+    "dateAdded": "2024-01-21T00:40:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/1EqyHUyI0vJ",
+    "label": "Template for prompt: make a better error page",
+    "dateAdded": "2024-01-21T00:40:02.983Z"
+  },
+  {
+    "url": "https://v0.dev/t/LqnivSe9GWC",
+    "label": "Template for prompt: react-flow を使って data diagram をつくります。 user テーブルと account テーブルの依存をレンダリングしたいです。 検索もできるようにしてください",
+    "dateAdded": "2024-01-21T00:40:02.983Z"
   }
 ]
