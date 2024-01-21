@@ -19698,5 +19698,130 @@
     "url": "https://v0.dev/t/lWrRIkEsNhr",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2024-01-21T17:35:03.079Z"
+  },
+  {
+    "url": "https://v0.dev/t/kIKSINuI3U0",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T17:40:02.949Z"
+  },
+  {
+    "url": "https://v0.dev/t/sf3xP0mFlO6",
+    "label": "Template for prompt: tinder but for dogs",
+    "dateAdded": "2024-01-21T17:40:02.949Z"
+  },
+  {
+    "url": "https://v0.dev/t/H5CH0AAz9mk",
+    "label": "Template for prompt: reimagine current twitter's ui",
+    "dateAdded": "2024-01-21T17:40:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/zz786bzVndi",
+    "label": "Template for prompt: design a landing with precisely the same looking background and  the second one as its dark version you can place the one after another",
+    "dateAdded": "2024-01-21T17:40:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/BRbKH1pa6Yq",
+    "label": "Template for prompt: \n\n// Blog routes\nrouter.post('/new-blog', BlogPost)\nrouter.get('/all-blogs', GetAllBlogs)\nrouter.get('/all-blogs/:id', GetBlogById)\nrouter.put('/blog', UpdateBlog)\nrouter.delete('/blog', DeleteBlog)\nrouter.put('/blog/update-blog/:id', UpdateBlogInfo)\n\n// Category routes\nrouter.get('/category', GetAllCategory)\nrouter.post('/category', AddCategory)\nrouter.delete('/category', DeleteCategory)\n\n// Pricing routes\nrouter.get('/pricing', AllPrice)\nrouter.post('/pricing', AddPrice)\nrouter.put('/pricing/status/:id', UpdateStatus)\nrouter.put('/pricing/unstatus/:id', UpdateStatusFalse)\nrouter.delete('/pricing/delete/:id', DeletePrice)\nrouter.put('/price/update-price/:id', UpdatePrice)\n\n// FAQ routes\nrouter.post('/newfaq', AddFAQ)\nrouter.get('/faq', AllFaq)\nrouter.get('/faq/:id', FAQById)\nrouter.put('/faq/status/:id', UpdateFAQ)\nrouter.put('/faq/unstatus/:id', StatusUpdate)\nrouter.delete('/faq/delete/:id', DeleteFAQ)\nrouter.put('/faq/update-faq/:id', UpdateFAQInfo)",
+    "dateAdded": "2024-01-21T17:40:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ek5GuoqgM3o",
+    "label": "Template for prompt: dashboard ui for email scheduling",
+    "dateAdded": "2024-01-21T17:40:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/UaXzMeAvrRn",
+    "label": "Template for prompt: can you make this desing of ui with next js ",
+    "dateAdded": "2024-01-21T17:40:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/3bd7NcChQA3",
+    "label": "Template for prompt: A mobile app showing a list of coffee ingredients with sliding input for amounts",
+    "dateAdded": "2024-01-21T17:40:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/46MiKM7R1I1",
+    "label": "Template for prompt: make this funnel chart",
+    "dateAdded": "2024-01-21T17:40:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/geOtcQ9zTJR",
+    "label": "Template for prompt: api docomentation",
+    "dateAdded": "2024-01-21T17:40:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/2au7ao2Pkb9",
+    "label": "Template for prompt: give react code fro this chart",
+    "dateAdded": "2024-01-21T17:40:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/z4fTUPuSbwi",
+    "label": "Template for prompt: generate a content page that contains a form where user can put information like: name, surname, email and message content. there should be also send button.",
+    "dateAdded": "2024-01-21T17:40:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/Djgz8rGKq6U",
+    "label": "Template for prompt: A card showing information about analog film, it contains film name and film brand, a badge if it's active or completed. Which development process and type it is. And dates for loaded and completed. It also should have a toggable section for notes",
+    "dateAdded": "2024-01-21T17:40:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/7yUBxFC5hFh",
+    "label": "Template for prompt: iOS app login screen",
+    "dateAdded": "2024-01-21T17:40:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/lMKoOtzTOG7",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-21T17:40:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/fS9Wuvub9Rw",
+    "label": "Template for prompt: chat",
+    "dateAdded": "2024-01-21T17:40:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/UZXsGCcxlXI",
+    "label": "Template for prompt: a fintech dashboard",
+    "dateAdded": "2024-01-21T17:40:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/9OIUjBgOkhM",
+    "label": "Template for prompt: A blog list page for react learning platform",
+    "dateAdded": "2024-01-21T17:40:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/4ti5YpOlM62",
+    "label": "Template for prompt: Please make a website for the music YouTube channel",
+    "dateAdded": "2024-01-21T17:40:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/QGtFtt3HaIW",
+    "label": "Template for prompt: GiToDoc이라는 서버의 로그인 페이지를 만들어줘",
+    "dateAdded": "2024-01-21T17:40:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zdpsn1OzQgb",
+    "label": "Template for prompt: Pet profile editing page with name, breed, bio, image, and pet id",
+    "dateAdded": "2024-01-21T17:40:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/WqlHbNtMRfh",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-21T17:40:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/dyRRFe0gbey",
+    "label": "Template for prompt: The SpeakEasy app is a unique dating and social platform with a focus on hot-button topics. The MVP of the app should offer core functionalities that enable users to find matches based on their political views, social interests, and over personal criteria.\n",
+    "dateAdded": "2024-01-21T17:40:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/KViXVBQJB5k",
+    "label": "Template for prompt: create me this type of ui",
+    "dateAdded": "2024-01-21T17:40:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/QtjMCMW5JLm",
+    "label": "Template for prompt: make a component that links to github account",
+    "dateAdded": "2024-01-21T17:40:02.954Z"
   }
 ]
