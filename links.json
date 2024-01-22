@@ -36183,5 +36183,125 @@
     "url": "https://v0.dev/t/JvMCpWnV0BD",
     "label": "Template for prompt: create a dashboard with a side bar holds two tabs \nreports and my ads",
     "dateAdded": "2024-01-22T17:10:03.080Z"
+  },
+  {
+    "url": "https://v0.dev/t/iEPPDi4Ac4K",
+    "label": "Template for prompt: An inspiring and very legible character sheet with tabs. Under each tab there's a list/table of items. In the sheet there should be a side panel for portrait and important information like Endurance, Body Stun (with editable current value and maximum) A list of important values and buttons for \"Take recovery\" \"Presence attack\" \"Full health\" and \"Actor Description\"",
+    "dateAdded": "2024-01-22T17:15:03.271Z"
+  },
+  {
+    "url": "https://v0.dev/t/M4xbqCycbov",
+    "label": "Template for prompt: a game about virus",
+    "dateAdded": "2024-01-22T17:15:03.271Z"
+  },
+  {
+    "url": "https://v0.dev/t/UezZySyZJdl",
+    "label": "Template for prompt: write the react code for this",
+    "dateAdded": "2024-01-22T17:15:03.271Z"
+  },
+  {
+    "url": "https://v0.dev/t/az2OWGhenSb",
+    "label": "Template for prompt: write the react code for this",
+    "dateAdded": "2024-01-22T17:15:03.271Z"
+  },
+  {
+    "url": "https://v0.dev/t/WRZwmoBOclx",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T17:15:03.271Z"
+  },
+  {
+    "url": "https://v0.dev/t/2CML4geCOIk",
+    "label": "Template for prompt: A modern hero section with dynamic elements",
+    "dateAdded": "2024-01-22T17:15:03.271Z"
+  },
+  {
+    "url": "https://v0.dev/t/J270xBnKnBT",
+    "label": "Template for prompt: want the 100 % exact ui in react code.",
+    "dateAdded": "2024-01-22T17:15:03.272Z"
+  },
+  {
+    "url": "https://v0.dev/t/oltyOXwRQdA",
+    "label": "Template for prompt: want the 100 % exact ui in react code.",
+    "dateAdded": "2024-01-22T17:15:03.272Z"
+  },
+  {
+    "url": "https://v0.dev/t/vFVo2Fo4AFC",
+    "label": "Template for prompt: want the 100 % exact ui in react code.",
+    "dateAdded": "2024-01-22T17:15:03.272Z"
+  },
+  {
+    "url": "https://v0.dev/t/iUyKaTuyrUj",
+    "label": "Template for prompt: im creating a crm that has a cute pastel color scheme. build me a all contacts list where there will be a side panel on the left with parmanent info like name, address, contact info, birthday etc. on the rest of the screen there'll be the option to create notes, activities, reminders and debts",
+    "dateAdded": "2024-01-22T17:15:03.272Z"
+  },
+  {
+    "url": "https://v0.dev/t/ikI3m1iSFUI",
+    "label": "Template for prompt: A dashboard for a mobile fantasy football app where the top section shows babsic information about the user including an avatar with their name, their league position, and their total number of points.",
+    "dateAdded": "2024-01-22T17:15:03.272Z"
+  },
+  {
+    "url": "https://v0.dev/t/bQ8ruHVJ3DX",
+    "label": "Template for prompt: a market platform for car mechanics",
+    "dateAdded": "2024-01-22T17:15:03.273Z"
+  },
+  {
+    "url": "https://v0.dev/t/JWA3G0MLcnF",
+    "label": "Template for prompt: create a modal that says to users they need to enter a subscription plan to access this feature. Also, provide a button that goes to the settings page to purchase a plan",
+    "dateAdded": "2024-01-22T17:15:03.273Z"
+  },
+  {
+    "url": "https://v0.dev/t/fmrgSQ1Uzl1",
+    "label": "Template for prompt: A banking UI. Your component will go where \"UI goes here\" is.",
+    "dateAdded": "2024-01-22T17:15:03.273Z"
+  },
+  {
+    "url": "https://v0.dev/t/49lMC9MpUoH",
+    "label": "Template for prompt: fix the width of the messages ",
+    "dateAdded": "2024-01-22T17:15:03.273Z"
+  },
+  {
+    "url": "https://v0.dev/t/P3kBWW3tvDa",
+    "label": "Template for prompt: list of people, divided by day and place, with personal informationa and a qrcode to link to a phone contact",
+    "dateAdded": "2024-01-22T17:15:03.273Z"
+  },
+  {
+    "url": "https://v0.dev/t/EKt7DVRYp0r",
+    "label": "Template for prompt: Game of cards with inspiring cards",
+    "dateAdded": "2024-01-22T17:15:03.274Z"
+  },
+  {
+    "url": "https://v0.dev/t/SUVcFXJVxFK",
+    "label": "Template for prompt: make it looks better",
+    "dateAdded": "2024-01-22T17:15:03.274Z"
+  },
+  {
+    "url": "https://v0.dev/t/7tfjxvfBk3s",
+    "label": "Template for prompt: login form page",
+    "dateAdded": "2024-01-22T17:15:03.274Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ej2QQWzP5YX",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T17:15:03.274Z"
+  },
+  {
+    "url": "https://v0.dev/t/VfR3ujiaQ1Z",
+    "label": "Template for prompt: timeline",
+    "dateAdded": "2024-01-22T17:15:03.274Z"
+  },
+  {
+    "url": "https://v0.dev/t/AuMdWTu6rrg",
+    "label": "Template for prompt: Hi, I need to write a landing page code for a company called \"SoftPro\"\nSingle-page landing page\nThe following blocks should be: \nHeader with fixed navigation\nHome page (info) \nPrice list for programs\nThe section dedicated to the developed programs\nAbout the company\nContacts\n\nIt should all be in a stylish design, use only html, css, js \n3 different files\n\nThe text of your choice\n, each block except the header should occupy the entire height of the screen in styles",
+    "dateAdded": "2024-01-22T17:15:03.274Z"
+  },
+  {
+    "url": "https://v0.dev/t/F9ETA5NUfjQ",
+    "label": "Template for prompt: create a resource page that provides a brief, technically sound overview initiates each section, setting the tone for the subsequent sub-sections. These sub-sections, encompassing documentation, tutorials, community engagement, and more, follow a structured grid system, ensuring a consistent and predictable user experience.\n\nVisual elements, carefully chosen for their relevance, include icons and graphics to augment the page's aesthetics. Typography considerations prioritize legibility, with fonts chosen to align with best practices in frontend design. Navigational elements, designed with a mobile-first approach, present a clean menu structure and strategically placed anchor links to facilitate efficient in-page navigation.\n\nThe call-to-action (CTA), strategically positioned at the conclusion, serves as a visual endpoint, encouraging users to engage further, provide feedback, or connect via social media.",
+    "dateAdded": "2024-01-22T17:15:03.275Z"
+  },
+  {
+    "url": "https://v0.dev/t/xELpeF1iXa7",
+    "label": "Template for prompt: i want the landing page for my blog/portfolio website. It is supposed to be minimal and inspired by gruvbox ",
+    "dateAdded": "2024-01-22T17:15:03.275Z"
   }
 ]
