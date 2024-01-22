@@ -35693,5 +35693,125 @@
     "url": "https://v0.dev/t/AuqE2WjCA82",
     "label": "Template for prompt: Create HomPage Ecommerce",
     "dateAdded": "2024-01-22T16:50:02.998Z"
+  },
+  {
+    "url": "https://v0.dev/t/Xm3g7ZVqFFo",
+    "label": "Template for prompt: a button with a loading spinner",
+    "dateAdded": "2024-01-22T16:55:02.506Z"
+  },
+  {
+    "url": "https://v0.dev/t/TlrifAFsqgR",
+    "label": "Template for prompt: An audience query builder which allows users to construct complex segmentations of pets using infinite data points and conditionals",
+    "dateAdded": "2024-01-22T16:55:02.506Z"
+  },
+  {
+    "url": "https://v0.dev/t/pfhF8u8gbBT",
+    "label": "Template for prompt: form for input details of multiple employees having title and name",
+    "dateAdded": "2024-01-22T16:55:02.506Z"
+  },
+  {
+    "url": "https://v0.dev/t/012FTLHW8O0",
+    "label": "Template for prompt: presenting different rpg abilities with name, description, base stat and requirement",
+    "dateAdded": "2024-01-22T16:55:02.507Z"
+  },
+  {
+    "url": "https://v0.dev/t/F5kQSnThrRs",
+    "label": "Template for prompt: A landing page for a ui library called aaron-ui",
+    "dateAdded": "2024-01-22T16:55:02.507Z"
+  },
+  {
+    "url": "https://v0.dev/t/FMJI5zarXPu",
+    "label": "Template for prompt: a kanban board",
+    "dateAdded": "2024-01-22T16:55:02.507Z"
+  },
+  {
+    "url": "https://v0.dev/t/NzNjA9NjzPS",
+    "label": "Template for prompt: users table inside a dashboard",
+    "dateAdded": "2024-01-22T16:55:02.507Z"
+  },
+  {
+    "url": "https://v0.dev/t/CJcND1pLkhd",
+    "label": "Template for prompt: A 'Profile' page with a left navigation and the content on the right.\nthose are the sections and related content:\n{\ngenerale:{\n",
+    "dateAdded": "2024-01-22T16:55:02.507Z"
+  },
+  {
+    "url": "https://v0.dev/t/eZwXQyq3RXM",
+    "label": "Template for prompt: A SaaS dashboard",
+    "dateAdded": "2024-01-22T16:55:02.507Z"
+  },
+  {
+    "url": "https://v0.dev/t/Uf04q6F8W98",
+    "label": "Template for prompt: create a page using below points\nThis page will be shown after collecting all the required information from the user\n1. Now user will be redirected to this page\n2. This page should show, we have collected your information, we are still working on it",
+    "dateAdded": "2024-01-22T16:55:02.507Z"
+  },
+  {
+    "url": "https://v0.dev/t/NqPlagMbdaZ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T16:55:02.508Z"
+  },
+  {
+    "url": "https://v0.dev/t/Lf4RPo3ePjf",
+    "label": "Template for prompt: modern loading page",
+    "dateAdded": "2024-01-22T16:55:02.508Z"
+  },
+  {
+    "url": "https://v0.dev/t/5U86nIOsaYN",
+    "label": "Template for prompt: Table with users for administration",
+    "dateAdded": "2024-01-22T16:55:02.508Z"
+  },
+  {
+    "url": "https://v0.dev/t/pl23jQ10Ta1",
+    "label": "Template for prompt: an audience segmentation builder",
+    "dateAdded": "2024-01-22T16:55:02.508Z"
+  },
+  {
+    "url": "https://v0.dev/t/9FL5h1N9xKi",
+    "label": "Template for prompt: I want a centered navbar. 1280px width. Log on the left, followed by 3 nav components, Play, Leaderboards and About. Then Sign In button on the right",
+    "dateAdded": "2024-01-22T16:55:02.508Z"
+  },
+  {
+    "url": "https://v0.dev/t/CBsenr1Oys5",
+    "label": "Template for prompt: I want a centered navbar. 1280px width. Log on the left, followed by 3 nav components, Play, Leaderboards and About. Then Sign In button on the right",
+    "dateAdded": "2024-01-22T16:55:02.508Z"
+  },
+  {
+    "url": "https://v0.dev/t/aTngCJT41Tz",
+    "label": "Template for prompt: An bulk image review page with a main image at the top and table of images below. The images below are selectable, and when it is selected it will replace the top main image. Meta data for the images shoul be displayed in the table alongside each image, for that given image. ",
+    "dateAdded": "2024-01-22T16:55:02.508Z"
+  },
+  {
+    "url": "https://v0.dev/t/tTwcH3tmACX",
+    "label": "Template for prompt: write react code for this right sidebar on clicking hamberger menu it goes to right, and on appearing it comes from right, just write component for right side menu bar",
+    "dateAdded": "2024-01-22T16:55:02.508Z"
+  },
+  {
+    "url": "https://v0.dev/t/gTrMIp6VFrD",
+    "label": "Template for prompt: dashboard and artwork svg with sharp corners",
+    "dateAdded": "2024-01-22T16:55:02.509Z"
+  },
+  {
+    "url": "https://v0.dev/t/UXRpLA7mOcp",
+    "label": "Template for prompt: a sidebar with a svg logo and multiples items",
+    "dateAdded": "2024-01-22T16:55:02.509Z"
+  },
+  {
+    "url": "https://v0.dev/t/kzzv5yNc16T",
+    "label": "Template for prompt: event card showing ride details and date",
+    "dateAdded": "2024-01-22T16:55:02.509Z"
+  },
+  {
+    "url": "https://v0.dev/t/0QmUfqVckcC",
+    "label": "Template for prompt: Create a dashboard for doctors that generates a patient's medical history summary using GenAI. Display the patient's medical history in text format on the left. In the header, include a patient selector. In the middle, show the summary of the medical history, preliminary diagnosis, and medical test results in the form of metrics.",
+    "dateAdded": "2024-01-22T16:55:02.509Z"
+  },
+  {
+    "url": "https://v0.dev/t/8vRWeuxuPI9",
+    "label": "Template for prompt: create a landing page for a single technology like typescript. this page will have a grid of resources and links, each section of the grid should have different topics ofthe technology such as typescript. on the top of the page should be a tab component with \"easy\", \"medium\" and \"hard\" showing content based on the tabs easy, medium and hard topics.",
+    "dateAdded": "2024-01-22T16:55:02.509Z"
+  },
+  {
+    "url": "https://v0.dev/t/D9xC502YuxU",
+    "label": "Template for prompt: dialog box",
+    "dateAdded": "2024-01-22T16:55:02.509Z"
   }
 ]
