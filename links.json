@@ -34523,5 +34523,135 @@
     "url": "https://v0.dev/t/4iQy3QqrBEi",
     "label": "Template for prompt: A SaaS admin dashboard. It has action buttons that control the application like refreshing orders, unbanning accounts, etc, and some cards with key metrics",
     "dateAdded": "2024-01-22T16:05:03.104Z"
+  },
+  {
+    "url": "https://v0.dev/t/95fmptFhw15",
+    "label": "Template for prompt: a pop out menu with an input at the top, items in the middle (some being able to open a new set of options, and at the bottom there's a toggle",
+    "dateAdded": "2024-01-22T16:10:04.162Z"
+  },
+  {
+    "url": "https://v0.dev/t/vJm1h1xXhCX",
+    "label": "Template for prompt: Can you create me a hero page with a dog that barks?",
+    "dateAdded": "2024-01-22T16:10:04.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/mSec1AS45pu",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-22T16:10:04.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/jQJErpNYs52",
+    "label": "Template for prompt: table with filter",
+    "dateAdded": "2024-01-22T16:10:04.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/Efvx59gmDIy",
+    "label": "Template for prompt: ta e",
+    "dateAdded": "2024-01-22T16:10:04.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/5WDpZfXHglC",
+    "label": "Template for prompt: create a landing page for the SAT Test Preparation website featuring: \n\n- Heading\n- Subheading\n- Image on the right\n- Features list\n- Login, Sign Up, Preview buttons",
+    "dateAdded": "2024-01-22T16:10:04.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/dLkxBpo2Epf",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-22T16:10:04.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/oDmvGSWEKZp",
+    "label": "Template for prompt: temazcal web page",
+    "dateAdded": "2024-01-22T16:10:04.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/c1cYgyS511O",
+    "label": "Template for prompt: Make this page more professional",
+    "dateAdded": "2024-01-22T16:10:04.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/TlKCw2pGS0x",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-22T16:10:04.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/ayHf7sXoI9J",
+    "label": "Template for prompt: me interesa el codigo para esta pagina de la foto",
+    "dateAdded": "2024-01-22T16:10:04.165Z"
+  },
+  {
+    "url": "https://v0.dev/t/JQo3S4HyWVy",
+    "label": "Template for prompt: Desenvolva uma tela de autenticação de uma clínica médica para atendimento online",
+    "dateAdded": "2024-01-22T16:10:04.165Z"
+  },
+  {
+    "url": "https://v0.dev/t/X8O43JFVD1x",
+    "label": "Template for prompt: Database of classical music scores.",
+    "dateAdded": "2024-01-22T16:10:04.165Z"
+  },
+  {
+    "url": "https://v0.dev/t/VbM1jim5KMB",
+    "label": "Template for prompt: A form to input song information from spotify",
+    "dateAdded": "2024-01-22T16:10:04.165Z"
+  },
+  {
+    "url": "https://v0.dev/t/kLGlFKwVA3a",
+    "label": "Template for prompt: necesito el html ",
+    "dateAdded": "2024-01-22T16:10:04.165Z"
+  },
+  {
+    "url": "https://v0.dev/t/eCRfy79MtUI",
+    "label": "Template for prompt: an articles platform website with 3 columns",
+    "dateAdded": "2024-01-22T16:10:04.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/uVdOMjeY2A8",
+    "label": "Template for prompt: product cards that zoom into the image and display a icon  on the top left when hovered  ",
+    "dateAdded": "2024-01-22T16:10:04.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yg1zUIRmqrc",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-22T16:10:04.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/nQnSRFnfIqu",
+    "label": "Template for prompt: A cryptocurrency tax service transaction list",
+    "dateAdded": "2024-01-22T16:10:04.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/xESFEnbbCKw",
+    "label": "Template for prompt: Step 1: Profile Picture\n\"First impressions matter! Upload a clear and friendly profile picture that reflects the real you. Show off your smile or share a photo doing something you love. Remember, a picture is worth a thousand words!\"\n\n[Image Upload Button]\n\nStep 2: About You\n\"Tell others about yourself! Share your interests, hobbies, and what makes you unique. A great profile is the key to attracting the right matches. Be genuine and let your personality shine!\"\n\n[Text Box for About Me]\n\nStep 3: Your Passions\n\"Let's find common ground! Tell us about your passions and what excites you. Whether it's exploring new places, trying exotic foods, or enjoying a good book – share what makes your heart race.\"\n\n[Checkbox options for Passions]\n\nStep 4: Preferences\n\"Help us tailor your matches! Specify your preferences, from age range to location. The more details you provide, the better we can connect you with someone truly special.\"\n\n[Dropdowns and Sliders for Preferences]\n",
+    "dateAdded": "2024-01-22T16:10:04.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/8Sqwcdcqvpq",
+    "label": "Template for prompt: A blog Page with 4 blog section",
+    "dateAdded": "2024-01-22T16:10:04.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/T7DCxfFflEi",
+    "label": "Template for prompt: Make this transaction representation for a cryptocurrency tax service more professional",
+    "dateAdded": "2024-01-22T16:10:04.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/CvrergNAgaY",
+    "label": "Template for prompt: Make this transaction representation for a cryptocurrency tax service more professional",
+    "dateAdded": "2024-01-22T16:10:04.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/37snk5N3JCl",
+    "label": "Template for prompt: a components that displays colors in bullets style",
+    "dateAdded": "2024-01-22T16:10:04.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/MgSCljiglMm",
+    "label": "Template for prompt: Login form",
+    "dateAdded": "2024-01-22T16:10:04.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/YrJfD1vtJWM",
+    "label": "Template for prompt: Multiform with left sidebar and 3 button prev next and save to late ",
+    "dateAdded": "2024-01-22T16:10:04.168Z"
   }
 ]
