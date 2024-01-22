@@ -29628,5 +29628,115 @@
     "url": "https://v0.dev/t/54pwcgGJqtK",
     "label": "Template for prompt: A Lego Radar app for searching legos in other marketplaces (like amazon)",
     "dateAdded": "2024-01-22T00:30:03.178Z"
+  },
+  {
+    "url": "https://v0.dev/t/hxX7H34YxO7",
+    "label": "Template for prompt: features section",
+    "dateAdded": "2024-01-22T00:35:03.228Z"
+  },
+  {
+    "url": "https://v0.dev/t/Muj248TpS7C",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-22T00:35:03.229Z"
+  },
+  {
+    "url": "https://v0.dev/t/f1rQTjLV2vx",
+    "label": "Template for prompt: social media feed based on pictures, comments and likes",
+    "dateAdded": "2024-01-22T00:35:03.229Z"
+  },
+  {
+    "url": "https://v0.dev/t/Mnm4DkGf5c2",
+    "label": "Template for prompt: Create a minimalistic landing page for a developer with the Astro framework",
+    "dateAdded": "2024-01-22T00:35:03.229Z"
+  },
+  {
+    "url": "https://v0.dev/t/U0gPKrusivo",
+    "label": "Template for prompt: fix the code that will calculate for the net \"<?php include('db_connect.php'); \n\n\n?>\n<?php include('./header.php'); ?>\n\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Payroll</title>\n    <!-- Add Bootstrap CSS link -->\n    <link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css\">\n    <style>\n        /* Add your custom CSS styles here */\n        .container-fluid {\n            padding: 20px;\n        }\n\n        .card {\n            margin-bottom: 20px;\n        }\n\n        .card-header {\n            background-color: #007bff;\n            color: white;\n        }\n\n        .card-body {\n            padding: 20px;\n        }\n\n        /* Add more styles as needed */\n    </style>\n</head>\n<body>\n\n<div class=\"container-fluid\">\n    <div class=\"col-lg-12\">\n        <br>\n        <br>\n        <a href=\"index.php?page=payroll\" class=\"btn btn-primary\">Back</a>",
+    "dateAdded": "2024-01-22T00:35:03.229Z"
+  },
+  {
+    "url": "https://v0.dev/t/B559K50q8KR",
+    "label": "Template for prompt: clone reddit and make it dark mode",
+    "dateAdded": "2024-01-22T00:35:03.229Z"
+  },
+  {
+    "url": "https://v0.dev/t/hNZZ7i2Sg2v",
+    "label": "Template for prompt: Chatgpt like audio input audio bar for a speech recognition application. Include a timer and an animation that responds to how loud an audio gets",
+    "dateAdded": "2024-01-22T00:35:03.230Z"
+  },
+  {
+    "url": "https://v0.dev/t/aMwnKeZGPOj",
+    "label": "Template for prompt: Chatgpt like audio input audio bar for a speech recognition application. Include a timer and an animation that responds to how loud an audio gets",
+    "dateAdded": "2024-01-22T00:35:03.230Z"
+  },
+  {
+    "url": "https://v0.dev/t/dz2pf8krtFN",
+    "label": "Template for prompt: a time table generator page with the design shown in the picture above ,keep design in mind and follow unique and elegent colors and styles with animaions",
+    "dateAdded": "2024-01-22T00:35:03.230Z"
+  },
+  {
+    "url": "https://v0.dev/t/LjQQxsvXFOu",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of products.",
+    "dateAdded": "2024-01-22T00:35:03.230Z"
+  },
+  {
+    "url": "https://v0.dev/t/NMraRA5P1ET",
+    "label": "Template for prompt: make this better",
+    "dateAdded": "2024-01-22T00:35:03.230Z"
+  },
+  {
+    "url": "https://v0.dev/t/8tlyR6SB0iW",
+    "label": "Template for prompt: make this better",
+    "dateAdded": "2024-01-22T00:35:03.230Z"
+  },
+  {
+    "url": "https://v0.dev/t/wN8AVdrc9FX",
+    "label": "Template for prompt: a table of SKUs, each row has various other attributes and the rightmost column of the table has a checkbox. Buttons to confirm my selection",
+    "dateAdded": "2024-01-22T00:35:03.230Z"
+  },
+  {
+    "url": "https://v0.dev/t/z2awAYcMDfa",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-22T00:35:03.231Z"
+  },
+  {
+    "url": "https://v0.dev/t/vlvujej7Q0f",
+    "label": "Template for prompt: HRSaaSのダッシュボード画面",
+    "dateAdded": "2024-01-22T00:35:03.231Z"
+  },
+  {
+    "url": "https://v0.dev/t/kohBIKKFq6K",
+    "label": "Template for prompt: A small form that takes the following params:  givenName: string;\n  familyName: string;\n  birthdate: string;\n  gender: string;\n  email: string;\n  password: string,\n  contactConsent: boolean;\n  dataConsent: boolean;",
+    "dateAdded": "2024-01-22T00:35:03.231Z"
+  },
+  {
+    "url": "https://v0.dev/t/35C0d7kP6wb",
+    "label": "Template for prompt: analyze this code and make a code to calculate for the net base on the value of grosspay and total deductions",
+    "dateAdded": "2024-01-22T00:35:03.231Z"
+  },
+  {
+    "url": "https://v0.dev/t/vW6nDbDZE8f",
+    "label": "Template for prompt: the UI will need to list reports with filters to control to the period of time of interest, score thresholds, and geographical boundaries based on lon and lat delineated quadrants\nthe user can select any individual report and request the AI to run further analysis.\nAlso, the user can run the same AI analysis on any selection of reports which the user can either select individually or collectively from the filtered list ",
+    "dateAdded": "2024-01-22T00:35:03.231Z"
+  },
+  {
+    "url": "https://v0.dev/t/FeNZikzwiWb",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T00:35:03.232Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yyo3fAfHubx",
+    "label": "Template for prompt: clone this design for a week time table shaduling app",
+    "dateAdded": "2024-01-22T00:35:03.232Z"
+  },
+  {
+    "url": "https://v0.dev/t/Cq3Bqgx7Bb3",
+    "label": "Template for prompt: crie uma página de site",
+    "dateAdded": "2024-01-22T00:35:03.232Z"
+  },
+  {
+    "url": "https://v0.dev/t/SdxBEGf2XcS",
+    "label": "Template for prompt: popup modal that shows when the user wants to exit the site. This will contain copy indicating they have a coupon, a coupon code they can copy that is for stripe, a timer that is ticking down (3 minutes to take), show that x number of users are looking at this offer now",
+    "dateAdded": "2024-01-22T00:35:03.232Z"
   }
 ]
