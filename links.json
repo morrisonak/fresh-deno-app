@@ -41053,5 +41053,135 @@
     "url": "https://v0.dev/t/dWYUDpIlfjY",
     "label": "Template for prompt: datagrid with options",
     "dateAdded": "2024-01-22T20:20:03.150Z"
+  },
+  {
+    "url": "https://v0.dev/t/yHgsgChgKh5",
+    "label": "Template for prompt: Grid\nInner Container max-width 920px | 12 column | 24px gutters.\nOn smaller screens 40px padding on the sides",
+    "dateAdded": "2024-01-22T20:25:02.839Z"
+  },
+  {
+    "url": "https://v0.dev/t/zR6ipPAoA0L",
+    "label": "Template for prompt: create a minimal chat room page",
+    "dateAdded": "2024-01-22T20:25:02.839Z"
+  },
+  {
+    "url": "https://v0.dev/t/zPR1VAMvSwm",
+    "label": "Template for prompt: This is a dashboard for SocialSync which is a web portal for digital marketing experts to manage and improve their workflow. Kinda like a CMS.\n\nCreate a dashboard which has a sidebar, header and a footer, it should have breadcrumbs.\n\nThe sidebar contains following options:\n * Dashboard - Should contain analytics data from social media api of meta, linkedin, etc.\n * Profile - Should contain the profile of the user\n * Employees - List of employees in a table form and redirects to their profile\n * Clients - List of clients in a table form and redirects to their accounts page\n * Events - A calendar view which highlights the upcoming events and tasks\n * Tasks - A list of tasks with all the functionalities of a todo app in a single page with task deadline setting and all\n\nThere should be the company logo on the intersection of header and sidebar",
+    "dateAdded": "2024-01-22T20:25:02.839Z"
+  },
+  {
+    "url": "https://v0.dev/t/yp2QFtzgXWz",
+    "label": "Template for prompt: emterprise application",
+    "dateAdded": "2024-01-22T20:25:02.840Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zo3rGD0bPO5",
+    "label": "Template for prompt: a landing page for a gpt that can answer law questions, create a preview of the chat application on the right of the landing page, create a navbar at the top with a login and profile version, add testimonials when you scroll past the initial view",
+    "dateAdded": "2024-01-22T20:25:02.840Z"
+  },
+  {
+    "url": "https://v0.dev/t/osQhjwFgo1n",
+    "label": "Template for prompt: create a layout svg icon to using in next js. The background should be light gray and the content a darker gray. The svg will be a button that toggles the screen layout",
+    "dateAdded": "2024-01-22T20:25:02.840Z"
+  },
+  {
+    "url": "https://v0.dev/t/i1sZY93xjEP",
+    "label": "Template for prompt: I need to add instructions for this. add some lorem ipsum instructions",
+    "dateAdded": "2024-01-22T20:25:02.840Z"
+  },
+  {
+    "url": "https://v0.dev/t/FZgRSZw3cfV",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form. with colors #AA5E19 #2EABD0 #1C3545 #DCE9EA #17678E",
+    "dateAdded": "2024-01-22T20:25:02.840Z"
+  },
+  {
+    "url": "https://v0.dev/t/u4eUndbxKY9",
+    "label": "Template for prompt: login page",
+    "dateAdded": "2024-01-22T20:25:02.841Z"
+  },
+  {
+    "url": "https://v0.dev/t/mC45oGKpdXQ",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-22T20:25:02.841Z"
+  },
+  {
+    "url": "https://v0.dev/t/qKfHT369huF",
+    "label": "Template for prompt: a skelaton for interactive value chain for a company called SIDPEC with petrochemical background",
+    "dateAdded": "2024-01-22T20:25:02.841Z"
+  },
+  {
+    "url": "https://v0.dev/t/0AYM1YyZWF2",
+    "label": "Template for prompt: a skelaton for interactive value chain for a company called SIDPEC with petrochemical background",
+    "dateAdded": "2024-01-22T20:25:02.841Z"
+  },
+  {
+    "url": "https://v0.dev/t/NuesFBo81BW",
+    "label": "Template for prompt: Gauge progress circle",
+    "dateAdded": "2024-01-22T20:25:02.841Z"
+  },
+  {
+    "url": "https://v0.dev/t/EajVeKlbpB8",
+    "label": "Template for prompt: A landing page for my design portfolio",
+    "dateAdded": "2024-01-22T20:25:02.841Z"
+  },
+  {
+    "url": "https://v0.dev/t/cB5gj1nfrJJ",
+    "label": "Template for prompt: form with a input, checkbox, and text area",
+    "dateAdded": "2024-01-22T20:25:02.841Z"
+  },
+  {
+    "url": "https://v0.dev/t/AefZ5PMpbtQ",
+    "label": "Template for prompt: student page",
+    "dateAdded": "2024-01-22T20:25:02.842Z"
+  },
+  {
+    "url": "https://v0.dev/t/mNxUcTXCW42",
+    "label": "Template for prompt: An application to automatically label images with owlv2. you can drag and drop or select an image. You have 3 inputs: text prompt, threshold and nms tresholds. The thresholds are sliders from 0-1. Then you have a button to process the image and then when processed you get the image back with labels",
+    "dateAdded": "2024-01-22T20:25:02.842Z"
+  },
+  {
+    "url": "https://v0.dev/t/clqwlALIfYx",
+    "label": "Template for prompt: similar landing page  section",
+    "dateAdded": "2024-01-22T20:25:02.842Z"
+  },
+  {
+    "url": "https://v0.dev/t/uRiCAM02jM2",
+    "label": "Template for prompt: financial analytics dashboard visually similar to stripe",
+    "dateAdded": "2024-01-22T20:25:02.842Z"
+  },
+  {
+    "url": "https://v0.dev/t/vn1l5RRGjyf",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T20:25:02.842Z"
+  },
+  {
+    "url": "https://v0.dev/t/t5NEjEemv2g",
+    "label": "Template for prompt: Accepted popup",
+    "dateAdded": "2024-01-22T20:25:02.842Z"
+  },
+  {
+    "url": "https://v0.dev/t/6tVxNz8h8S5",
+    "label": "Template for prompt: a modern product display page for a heavy equipment construction dealer",
+    "dateAdded": "2024-01-22T20:25:02.842Z"
+  },
+  {
+    "url": "https://v0.dev/t/oPrKruEy9nX",
+    "label": "Template for prompt: blog site with tags, latest post, featured posts ",
+    "dateAdded": "2024-01-22T20:25:02.843Z"
+  },
+  {
+    "url": "https://v0.dev/t/LC34NedFntD",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T20:25:02.843Z"
+  },
+  {
+    "url": "https://v0.dev/t/VkssdoWPIou",
+    "label": "Template for prompt: A kanban board for DevOps developers to manage their tasks and have a global view on their progress.",
+    "dateAdded": "2024-01-22T20:25:02.843Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZP8Cl5rOyCV",
+    "label": "Template for prompt: A customizable bullet chart with one lien",
+    "dateAdded": "2024-01-22T20:25:02.843Z"
   }
 ]
