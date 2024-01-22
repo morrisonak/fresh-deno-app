@@ -30238,5 +30238,130 @@
     "url": "https://v0.dev/t/vPAdre7tsPz",
     "label": "Template for prompt: ask for love",
     "dateAdded": "2024-01-22T00:55:03.698Z"
+  },
+  {
+    "url": "https://v0.dev/t/t2l1MiJbOut",
+    "label": "Template for prompt: could you remake this in tailwind",
+    "dateAdded": "2024-01-22T01:00:02.862Z"
+  },
+  {
+    "url": "https://v0.dev/t/D9BLuh5n2Hn",
+    "label": "Template for prompt: could you remake this in tailwind",
+    "dateAdded": "2024-01-22T01:00:02.863Z"
+  },
+  {
+    "url": "https://v0.dev/t/bTrsg7Oj9pn",
+    "label": "Template for prompt: my page ui for upload/delete profile pic & account info",
+    "dateAdded": "2024-01-22T01:00:02.863Z"
+  },
+  {
+    "url": "https://v0.dev/t/SG3mBmDQo59",
+    "label": "Template for prompt: inline dropdown menu item loading icon with spinner",
+    "dateAdded": "2024-01-22T01:00:02.863Z"
+  },
+  {
+    "url": "https://v0.dev/t/KRClLfvdvct",
+    "label": "Template for prompt: I'm building a combobox, could you design an item that has an image to the left and text to the right, I want it to look cool",
+    "dateAdded": "2024-01-22T01:00:02.863Z"
+  },
+  {
+    "url": "https://v0.dev/t/UMg6ipjHgIH",
+    "label": "Template for prompt: Create a popup with three tabs (songs, scriptures, and prayers) that you can add to your worships (prayers can either be custom made or from a pre-existing list like \"Our Father\")",
+    "dateAdded": "2024-01-22T01:00:02.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/MXVXRKx4g80",
+    "label": "Template for prompt: I want to build a simple portfolio page",
+    "dateAdded": "2024-01-22T01:00:02.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/Eoi1t8WCSMH",
+    "label": "Template for prompt: Build a homelab dashboard that groups the list of services by their types, and shows the preview/stats at the same time. Make it a 2-columned page, with 7:5 ratio spans. The layout of the left column should look like the upload image. The right column should be a preview box with some description texts below",
+    "dateAdded": "2024-01-22T01:00:02.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/9XKnzVjiPvl",
+    "label": "Template for prompt: Great to hear that you already have a user panel UI! Now, you'd like to add a section for posts below, along with a button for creating a new post. Here's a suggestion for adding that to your UI:\n\nPosts Section:\n\nBelow the user description section, create a new area to display posts.\nArrange posts in a visually appealing way, with each post having its content, timestamp, and any other relevant information.\nCreate New Post Button:\n\nPlace a button labeled \"Create New Post\" next to or below the posts section.\nBy doing this, users can easily navigate through posts, and the \"Create New Post\" button provides a straightforward way for them to add new content. Make sure to implement the necessary functionality to handle post creation when the button is clicked.",
+    "dateAdded": "2024-01-22T01:00:02.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/w0HSMkW893o",
+    "label": "Template for prompt: could you recreate this in tailwind\n\n<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Disect - Home</title>\n  <link rel=\"stylesheet\" href=\"/src/style.css\">\n  <link href=\"https://cdn.jsdelivr.net/npm/@sweetalert2/theme-dark@4/dark.css\" rel=\"stylesheet\">\n  <link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css\">\n</head>\n\n<body>\n\n  <style>\n    :root {\n      --var-col: 1fr;\n      -webkit-font-smoothing: antialiased;\n      -moz-osx-font-smoothing: grayscale;\n      text-rendering: optimizeLegibility;\n      --white: #f5f5f5;\n      --lightgrey: #dadada;\n      --midgrey: #b4b2b2;\n      --darkgrey: #554842;\n      --red: #f01a19;\n      --darkred: #a75248;\n      --hue: 223;\n      --bg: hsl(var(--hue), 90%, 80%);\n      --fg: hsl(var(--hue), 90%, 10%);\n      --radio-off: rgba(23, 23, 23, 0.5);\n      --radio-on: rgba(215, 215, 215, 0.7);\n      --radio-down: hsl(var(--hue), 90%, 70%);\n      --trans-dur: 0.3s;\n      --trans-t",
+    "dateAdded": "2024-01-22T01:00:02.865Z"
+  },
+  {
+    "url": "https://v0.dev/t/UNIizanhKBN",
+    "label": "Template for prompt: temazcal webpage",
+    "dateAdded": "2024-01-22T01:00:02.865Z"
+  },
+  {
+    "url": "https://v0.dev/t/ufhQlD0MkKK",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T01:00:02.865Z"
+  },
+  {
+    "url": "https://v0.dev/t/GD4up5P6ltK",
+    "label": "Template for prompt: hi, i would like to develop a website to convert urls to pdf, could you show me the framework structures? thanks.",
+    "dateAdded": "2024-01-22T01:00:02.865Z"
+  },
+  {
+    "url": "https://v0.dev/t/z7yAS6IfLCd",
+    "label": "Template for prompt: Create a post list page; pagination possible in 3x4",
+    "dateAdded": "2024-01-22T01:00:02.865Z"
+  },
+  {
+    "url": "https://v0.dev/t/plNdm1Kq1Gq",
+    "label": "Template for prompt: generate login panel",
+    "dateAdded": "2024-01-22T01:00:02.866Z"
+  },
+  {
+    "url": "https://v0.dev/t/fXAvdy21hFH",
+    "label": "Template for prompt: A page for billing message sends that allows past invoices to be downloaded as well as showing current month cost.  ",
+    "dateAdded": "2024-01-22T01:00:02.866Z"
+  },
+  {
+    "url": "https://v0.dev/t/P5iOLW8mrx7",
+    "label": "Template for prompt: A Saas landing page Hero with navbar. Provide diverse solutions",
+    "dateAdded": "2024-01-22T01:00:02.866Z"
+  },
+  {
+    "url": "https://v0.dev/t/9evtGBijudM",
+    "label": "Template for prompt: Dashboard with list of your pets with only their name and a link to edit their profile",
+    "dateAdded": "2024-01-22T01:00:02.866Z"
+  },
+  {
+    "url": "https://v0.dev/t/8LFs2jcQPN6",
+    "label": "Template for prompt: a user-card with photo, name, description, progress based on level & xp, and edit button. sleek design, elegant",
+    "dateAdded": "2024-01-22T01:00:02.866Z"
+  },
+  {
+    "url": "https://v0.dev/t/ToErp4rIcSV",
+    "label": "Template for prompt: a node editor",
+    "dateAdded": "2024-01-22T01:00:02.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/PMHSeAYlw2T",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T01:00:02.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/CF3eysAROFm",
+    "label": "Template for prompt: a home page for a website, that talk about the features (Blog and Calculators), like the image uploaded",
+    "dateAdded": "2024-01-22T01:00:02.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/LoxBHx1XKol",
+    "label": "Template for prompt: Create a desing of landing page for a developer in software",
+    "dateAdded": "2024-01-22T01:00:02.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/5rdmhSbQvXG",
+    "label": "Template for prompt: give me a section on my landing page that shows my recent courses and classes, and a button that takes them to all classes or all courses",
+    "dateAdded": "2024-01-22T01:00:02.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/eegmGQBnIPy",
+    "label": "Template for prompt: a node editor",
+    "dateAdded": "2024-01-22T01:00:02.868Z"
   }
 ]
