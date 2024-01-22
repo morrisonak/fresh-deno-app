@@ -39003,5 +39003,135 @@
     "url": "https://v0.dev/t/aKYXqhPJ8Vb",
     "label": "Template for prompt: a quiz app with music player and an input for a song/artist name with suggestions. under music player there is a play button that changes to stop when clicked and a reset button next to it. ",
     "dateAdded": "2024-01-22T19:00:04.113Z"
+  },
+  {
+    "url": "https://v0.dev/t/TY9SkKomyPZ",
+    "label": "Template for prompt: create a button like dropdown select with the options of bar chart and line chart. make the button color be `#da324d` . on the right side of the dropdown put a dropdown carret.",
+    "dateAdded": "2024-01-22T19:05:02.641Z"
+  },
+  {
+    "url": "https://v0.dev/t/S6tRHlKCwYA",
+    "label": "Template for prompt: can you design me a small radio for in the metaverse. I need to pop it in and out the screen at will.",
+    "dateAdded": "2024-01-22T19:05:02.642Z"
+  },
+  {
+    "url": "https://v0.dev/t/d1YbDQLB2ms",
+    "label": "Template for prompt: A login page with plain html, css and javascript",
+    "dateAdded": "2024-01-22T19:05:02.642Z"
+  },
+  {
+    "url": "https://v0.dev/t/2lwJpwdAjuI",
+    "label": "Template for prompt: i have a task as a react developer , i want to make chart preview in horizontal line date and its change by input controlled by react hook form and the vertical the count of fighters that i get from backend and i have one value fighter count i want to preview it in the chart and the time i want to show it under the horizontal line and on top of the vertical line i want to put the fighter count value",
+    "dateAdded": "2024-01-22T19:05:02.642Z"
+  },
+  {
+    "url": "https://v0.dev/t/JllQsOnxD7L",
+    "label": "Template for prompt: A page to manage a battery station, with 10 slots where batteries can be plugged",
+    "dateAdded": "2024-01-22T19:05:02.642Z"
+  },
+  {
+    "url": "https://v0.dev/t/vzGMo0tBUSe",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T19:05:02.642Z"
+  },
+  {
+    "url": "https://v0.dev/t/rrDhlM2QVt3",
+    "label": "Template for prompt: not found page for a wedding page",
+    "dateAdded": "2024-01-22T19:05:02.642Z"
+  },
+  {
+    "url": "https://v0.dev/t/0R4RpH3GRV2",
+    "label": "Template for prompt: not found page for a wedding page",
+    "dateAdded": "2024-01-22T19:05:02.643Z"
+  },
+  {
+    "url": "https://v0.dev/t/HagKJNs62Vb",
+    "label": "Template for prompt: a legend component to show what the colors in a chart mean",
+    "dateAdded": "2024-01-22T19:05:02.643Z"
+  },
+  {
+    "url": "https://v0.dev/t/gM2WMoeypBd",
+    "label": "Template for prompt: asset management",
+    "dateAdded": "2024-01-22T19:05:02.643Z"
+  },
+  {
+    "url": "https://v0.dev/t/UI6gLq5560r",
+    "label": "Template for prompt: Create a main page. The requirements are as follows\n\n- The main page has the service name \"Drawer\" in the center. \n- On the top left is the logo and on the top right are the features related to user authentication.",
+    "dateAdded": "2024-01-22T19:05:02.643Z"
+  },
+  {
+    "url": "https://v0.dev/t/O4wg4wEp2bX",
+    "label": "Template for prompt: create vps panel with sidebar and navbar",
+    "dateAdded": "2024-01-22T19:05:02.643Z"
+  },
+  {
+    "url": "https://v0.dev/t/N0OqUetgY3K",
+    "label": "Template for prompt: make this table with tailwind css and react",
+    "dateAdded": "2024-01-22T19:05:02.643Z"
+  },
+  {
+    "url": "https://v0.dev/t/V5hnaSFMZW9",
+    "label": "Template for prompt: Generate a React component for a responsive sidebar navigation with two states for desktop (collapsed with icons only and expanded showing icons with text labels and submenus) and two states for mobile (collapsed with a hamburger menu icon and expanded as a full-screen overlay with a close button), featuring user profile information at the bottom, styled with interactive hover effects, and active item highlighting, ensuring accessibility compliance with aria-labels.",
+    "dateAdded": "2024-01-22T19:05:02.644Z"
+  },
+  {
+    "url": "https://v0.dev/t/4AqpW0I4BoN",
+    "label": "Template for prompt: Create a minimalistic information page where I tell the user that this app is a very early version for testing and list some limitations",
+    "dateAdded": "2024-01-22T19:05:02.644Z"
+  },
+  {
+    "url": "https://v0.dev/t/N8Jc4fhvA67",
+    "label": "Template for prompt: make me an page called mines",
+    "dateAdded": "2024-01-22T19:05:02.644Z"
+  },
+  {
+    "url": "https://v0.dev/t/VmyCjHIpbLm",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T19:05:02.644Z"
+  },
+  {
+    "url": "https://v0.dev/t/p8IQPWVEglz",
+    "label": "Template for prompt: create a button like dropdown select with the options of bar chart and line chart. make the button background color be `#da324d` with white text",
+    "dateAdded": "2024-01-22T19:05:02.644Z"
+  },
+  {
+    "url": "https://v0.dev/t/RRhQNYfH8b2",
+    "label": "Template for prompt: create a dashboard page with a sidebar navigation. on the main page there should be a grid with tiles. the tiles present should be: last login date with online status, 3d minecraft skin, table with top ratings, the active rank of the user eg. VIP/SVIP/SWAGGER, time played on the server, registration date.",
+    "dateAdded": "2024-01-22T19:05:02.644Z"
+  },
+  {
+    "url": "https://v0.dev/t/PKmTwImpr5T",
+    "label": "Template for prompt: Resume site",
+    "dateAdded": "2024-01-22T19:05:02.644Z"
+  },
+  {
+    "url": "https://v0.dev/t/Fr2HOfIgvrL",
+    "label": "Template for prompt: overview of upcoming speedrun races, with game name, category name, game image, ",
+    "dateAdded": "2024-01-22T19:05:02.645Z"
+  },
+  {
+    "url": "https://v0.dev/t/HPuKbwUzqLX",
+    "label": "Template for prompt: a content template for a short blog post (300 words) and an image. Modern, responsive design",
+    "dateAdded": "2024-01-22T19:05:02.645Z"
+  },
+  {
+    "url": "https://v0.dev/t/W9d4oCiCtfR",
+    "label": "Template for prompt: create a modern software engineer portfolio website with blogs",
+    "dateAdded": "2024-01-22T19:05:02.645Z"
+  },
+  {
+    "url": "https://v0.dev/t/E3x32gDzG6Z",
+    "label": "Template for prompt: a create task form with title, description, attachments, toDo, image, assigned, team assigned, label, priority",
+    "dateAdded": "2024-01-22T19:05:02.645Z"
+  },
+  {
+    "url": "https://v0.dev/t/iNQythbuvk5",
+    "label": "Template for prompt: a card in the style of gumroads blog cards",
+    "dateAdded": "2024-01-22T19:05:02.645Z"
+  },
+  {
+    "url": "https://v0.dev/t/cvr3JceQIfE",
+    "label": "Template for prompt: A login page",
+    "dateAdded": "2024-01-22T19:05:02.646Z"
   }
 ]
