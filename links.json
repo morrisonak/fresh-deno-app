@@ -34653,5 +34653,135 @@
     "url": "https://v0.dev/t/YrJfD1vtJWM",
     "label": "Template for prompt: Multiform with left sidebar and 3 button prev next and save to late ",
     "dateAdded": "2024-01-22T16:10:04.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/sVXiZYcFpQ0",
+    "label": "Template for prompt: Create a blog landing page with a short bio section and two article preview slots",
+    "dateAdded": "2024-01-22T16:15:03.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/cy6PA9jmN9e",
+    "label": "Template for prompt: i need a email template to offer a new customer deal using email html valid tags so its fully compatible",
+    "dateAdded": "2024-01-22T16:15:03.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/zCRLzRv9348",
+    "label": "Template for prompt: Dashboard visualization with charts of indoor air quality data",
+    "dateAdded": "2024-01-22T16:15:03.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZMCacI5Elt3",
+    "label": "Template for prompt: meme coin homepage",
+    "dateAdded": "2024-01-22T16:15:03.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/mzIfDIqckV5",
+    "label": "Template for prompt: Create me a beautifull login page with the login being in the middle of the screen and also the same but with sign up, please also create some alternatives for sign in like user password or google/phone",
+    "dateAdded": "2024-01-22T16:15:03.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/GhVLmHf1ETy",
+    "label": "Template for prompt: progress bar",
+    "dateAdded": "2024-01-22T16:15:03.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/KIL6aDEIwSw",
+    "label": "Template for prompt: crée moi cette navbar",
+    "dateAdded": "2024-01-22T16:15:03.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/vbuHHdDfbhF",
+    "label": "Template for prompt: a minimal card component with an image on the left and a bunch of info on the right",
+    "dateAdded": "2024-01-22T16:15:03.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/UtJtJBOUSz1",
+    "label": "Template for prompt: a project page with a description, todos and comments",
+    "dateAdded": "2024-01-22T16:15:03.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/sVJOgHqYt2V",
+    "label": "Template for prompt: create this",
+    "dateAdded": "2024-01-22T16:15:03.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/1I3uRHslbUy",
+    "label": "Template for prompt: sick leave template with logo in top and doctor name in bottom right",
+    "dateAdded": "2024-01-22T16:15:03.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/lgQG6MFrHC7",
+    "label": "Template for prompt: me interesa el codigo para esta pagina de la foto",
+    "dateAdded": "2024-01-22T16:15:03.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/cCPntQKdJSy",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T16:15:03.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/gACAHPwBFbA",
+    "label": "Template for prompt: An admin dashboard for a POS system. This should be a modern, classic and expensive look.",
+    "dateAdded": "2024-01-22T16:15:03.438Z"
+  },
+  {
+    "url": "https://v0.dev/t/QDafSREsp09",
+    "label": "Template for prompt: use this image",
+    "dateAdded": "2024-01-22T16:15:03.438Z"
+  },
+  {
+    "url": "https://v0.dev/t/D7LTAfhsNPU",
+    "label": "Template for prompt: Necesito un codigo para biografia, Debe tener lo siguiente import React from 'react';\nimport '../../components/biografia/Biografia.css'; // Asegúrate de ajustar la ruta según sea necesario\nimport miImagen from '../../assets/imgs/Group 158.png'; // Ajusta la ruta de tu imagen\n\nfunction Biografia() {\n  return (\n    <div className=\"biografia-container\">\n        <h2 className=\"title\">DADA MEMPHIS</h2>\n        \n        <div className=\"text-container\">\n            \n            <p className=\"paragraph\">\n            <p className='subtitle'>UN POCO SOBRE</p>\n            <p className='subtitle1'>DADA MEMPHIS</p>\n            <div className=\"linea-blanca\"></div>\n            <p className='parrafo'>Muy poquitos me conocen por mi nombre real a día de hoy... Dada es fuerza, carisma, iniciativa y sobre todo, ganas de vivir.... \n\n              Componiendo desde que tengo uso de razón, bebiendo de diferentes corrientes y culturas durante toda mi vida. \n              Hace apenas dos años me lancé y compus",
+    "dateAdded": "2024-01-22T16:15:03.438Z"
+  },
+  {
+    "url": "https://v0.dev/t/C0IhRqM0CA7",
+    "label": "Template for prompt: Windows UI dashboard",
+    "dateAdded": "2024-01-22T16:15:03.438Z"
+  },
+  {
+    "url": "https://v0.dev/t/CXSuDJKdOB7",
+    "label": "Template for prompt: A banking application with some crypto features",
+    "dateAdded": "2024-01-22T16:15:03.438Z"
+  },
+  {
+    "url": "https://v0.dev/t/Hbytcky7Wdb",
+    "label": "Template for prompt: list products which have image, title and a short description",
+    "dateAdded": "2024-01-22T16:15:03.438Z"
+  },
+  {
+    "url": "https://v0.dev/t/lveYqHkAPUv",
+    "label": "Template for prompt: trivia game multiplayer",
+    "dateAdded": "2024-01-22T16:15:03.438Z"
+  },
+  {
+    "url": "https://v0.dev/t/vM4GZ46qYE9",
+    "label": "Template for prompt: cool elegant Footer with some soshial media icons ",
+    "dateAdded": "2024-01-22T16:15:03.438Z"
+  },
+  {
+    "url": "https://v0.dev/t/95fmptFhw15",
+    "label": "Template for prompt: a pop out menu with an input at the top, items in the middle (some being able to open a new set of options, and at the bottom there's a toggle",
+    "dateAdded": "2024-01-22T16:15:03.438Z"
+  },
+  {
+    "url": "https://v0.dev/t/vJm1h1xXhCX",
+    "label": "Template for prompt: Can you create me a hero page with a dog that barks?",
+    "dateAdded": "2024-01-22T16:15:03.439Z"
+  },
+  {
+    "url": "https://v0.dev/t/mSec1AS45pu",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-22T16:15:03.439Z"
+  },
+  {
+    "url": "https://v0.dev/t/jQJErpNYs52",
+    "label": "Template for prompt: table with filter",
+    "dateAdded": "2024-01-22T16:15:03.439Z"
+  },
+  {
+    "url": "https://v0.dev/t/Efvx59gmDIy",
+    "label": "Template for prompt: ta e",
+    "dateAdded": "2024-01-22T16:15:03.439Z"
   }
 ]
