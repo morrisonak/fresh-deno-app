@@ -37053,5 +37053,135 @@
     "url": "https://v0.dev/t/O0V4XODMY9U",
     "label": "Template for prompt: Add details who paid, me or my friend, and how much i owe him, or how much i borrowed",
     "dateAdded": "2024-01-22T17:45:03.341Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZTMyW0tK3OP",
+    "label": "Template for prompt: shadcn rss reader",
+    "dateAdded": "2024-01-22T17:50:37.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/898OhFcOO1E",
+    "label": "Template for prompt: a peronsal blog",
+    "dateAdded": "2024-01-22T17:50:37.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/pgLGGEJqEtB",
+    "label": "Template for prompt: using shadcn create a contact form",
+    "dateAdded": "2024-01-22T17:50:37.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/NqIEJeAb898",
+    "label": "Template for prompt: ai slack bot creator",
+    "dateAdded": "2024-01-22T17:50:37.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/LiSBky4iDFV",
+    "label": "Template for prompt: A \"report an issue\" modal",
+    "dateAdded": "2024-01-22T17:50:37.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/yesDfTIt9EO",
+    "label": "Template for prompt: A wedding website for alex and kristen. in the desert",
+    "dateAdded": "2024-01-22T17:50:37.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/99Upu4Yt9dX",
+    "label": "Template for prompt: something like this but make it a mono font",
+    "dateAdded": "2024-01-22T17:50:37.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wv6PYfzGtCG",
+    "label": "Template for prompt: simple 3d button",
+    "dateAdded": "2024-01-22T17:50:37.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/awMLu1wqPNP",
+    "label": "Template for prompt: section window with a datagrid (sorting by clicking on the column header, freezing the first columns), where testing results by user will be shown",
+    "dateAdded": "2024-01-22T17:50:37.890Z"
+  },
+  {
+    "url": "https://v0.dev/t/YBpYu6i9nwD",
+    "label": "Template for prompt: a beautiful and minimalist background for a request-ride small app with only 1 card component",
+    "dateAdded": "2024-01-22T17:50:37.890Z"
+  },
+  {
+    "url": "https://v0.dev/t/SxgSje6BPQe",
+    "label": "Template for prompt: ai slack bot creator wizard",
+    "dateAdded": "2024-01-22T17:50:37.890Z"
+  },
+  {
+    "url": "https://v0.dev/t/rDdSMejHvBK",
+    "label": "Template for prompt: make a part of multi-step form where user can enter details about their professional experience. User should be able to use a rich text editor like quilljs",
+    "dateAdded": "2024-01-22T17:50:37.890Z"
+  },
+  {
+    "url": "https://v0.dev/t/KXleNijt7Wc",
+    "label": "Template for prompt: A cloudflare workers tenant manager",
+    "dateAdded": "2024-01-22T17:50:37.890Z"
+  },
+  {
+    "url": "https://v0.dev/t/6piEI4pneBn",
+    "label": "Template for prompt: A marketing website page for a cross platform syncronisation application",
+    "dateAdded": "2024-01-22T17:50:37.890Z"
+  },
+  {
+    "url": "https://v0.dev/t/X3xAJIOTpdo",
+    "label": "Template for prompt: mobile app ",
+    "dateAdded": "2024-01-22T17:50:37.890Z"
+  },
+  {
+    "url": "https://v0.dev/t/fB9eLqzb4KO",
+    "label": "Template for prompt: I want a UI component that lists the maintenance contracts for a property with due dates, a status indicator and a button to notify the contractor",
+    "dateAdded": "2024-01-22T17:50:37.890Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZJVjVozMjQp",
+    "label": "Template for prompt: Admin dashboard for an enterprise",
+    "dateAdded": "2024-01-22T17:50:37.891Z"
+  },
+  {
+    "url": "https://v0.dev/t/q0m2GS2Ux0R",
+    "label": "Template for prompt: floating navbar with logo, menu items and profile, which profile is the actual profile image",
+    "dateAdded": "2024-01-22T17:50:37.891Z"
+  },
+  {
+    "url": "https://v0.dev/t/yxtnitAlRAG",
+    "label": "Template for prompt: Create a page for a gaming project containing information about the start and end date as well as a graph showing progress and a list of youtube videos",
+    "dateAdded": "2024-01-22T17:50:37.891Z"
+  },
+  {
+    "url": "https://v0.dev/t/lNmIz6ykpIE",
+    "label": "Template for prompt: generate a div like this with the exact same components and change the color of the icons to #00adb5c4",
+    "dateAdded": "2024-01-22T17:50:37.891Z"
+  },
+  {
+    "url": "https://v0.dev/t/r724jnblj3L",
+    "label": "Template for prompt: Animated loading screen",
+    "dateAdded": "2024-01-22T17:50:37.891Z"
+  },
+  {
+    "url": "https://v0.dev/t/pkxg3dwsqip",
+    "label": "Template for prompt: a card for creating notes with a title and description and a option to add tags",
+    "dateAdded": "2024-01-22T17:50:37.891Z"
+  },
+  {
+    "url": "https://v0.dev/t/b4amDA0kEiW",
+    "label": "Template for prompt: build me a circular red button that has animation to indicate it is pressed and released",
+    "dateAdded": "2024-01-22T17:50:37.891Z"
+  },
+  {
+    "url": "https://v0.dev/t/P9xOHEF3ENZ",
+    "label": "Template for prompt: need a single page large font weather display",
+    "dateAdded": "2024-01-22T17:50:37.891Z"
+  },
+  {
+    "url": "https://v0.dev/t/uG0qzix8avX",
+    "label": "Template for prompt: Can you create me an admin dashboard for my discord bot include ways to select server / manage subscription / manage status(if banned/suspended ect) include a way to manage settings ",
+    "dateAdded": "2024-01-22T17:50:37.892Z"
+  },
+  {
+    "url": "https://v0.dev/t/NvmOyg6KqWZ",
+    "label": "Template for prompt: a \"lobby for a card game\" they should be list of players and number of playres needed ",
+    "dateAdded": "2024-01-22T17:50:37.892Z"
   }
 ]
