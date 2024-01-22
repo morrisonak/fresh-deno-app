@@ -29388,5 +29388,130 @@
     "url": "https://v0.dev/t/4EZSkMlRAoh",
     "label": "Template for prompt: product with image at the top, the name below the image and below a \"Details\" button that occupies the width of the card",
     "dateAdded": "2024-01-22T00:20:03.362Z"
+  },
+  {
+    "url": "https://v0.dev/t/Cq3Bqgx7Bb3",
+    "label": "Template for prompt: crie uma página de site",
+    "dateAdded": "2024-01-22T00:25:02.464Z"
+  },
+  {
+    "url": "https://v0.dev/t/SdxBEGf2XcS",
+    "label": "Template for prompt: popup modal that shows when the user wants to exit the site. This will contain copy indicating they have a coupon, a coupon code they can copy that is for stripe, a timer that is ticking down (3 minutes to take), show that x number of users are looking at this offer now",
+    "dateAdded": "2024-01-22T00:25:02.464Z"
+  },
+  {
+    "url": "https://v0.dev/t/k7Aj3DhkLNC",
+    "label": "Template for prompt: tour web that map components in the middle",
+    "dateAdded": "2024-01-22T00:25:02.464Z"
+  },
+  {
+    "url": "https://v0.dev/t/0NnPUvFStuW",
+    "label": "Template for prompt: I want to create a user panel that includes a form where, in the left corner, there is a round image with the label \"Profile Picture\" below. Then, below that, a small section displaying the user's description and any necessary information.\n\n\n\n\n\n\n",
+    "dateAdded": "2024-01-22T00:25:02.464Z"
+  },
+  {
+    "url": "https://v0.dev/t/JaKI5tNIdqo",
+    "label": "Template for prompt: create design of the leader board section for a website",
+    "dateAdded": "2024-01-22T00:25:02.465Z"
+  },
+  {
+    "url": "https://v0.dev/t/CenexhOwveJ",
+    "label": "Template for prompt: create design of the leader board section for a website",
+    "dateAdded": "2024-01-22T00:25:02.465Z"
+  },
+  {
+    "url": "https://v0.dev/t/avTs1OUVgep",
+    "label": "Template for prompt: a colourful contrasty landing page for a makeup artist based on modern neo-brutalistic design",
+    "dateAdded": "2024-01-22T00:25:02.465Z"
+  },
+  {
+    "url": "https://v0.dev/t/OK1O6vPaoyp",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T00:25:02.465Z"
+  },
+  {
+    "url": "https://v0.dev/t/3xBRxXJmKte",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T00:25:02.465Z"
+  },
+  {
+    "url": "https://v0.dev/t/XrlCVhBnVR0",
+    "label": "Template for prompt: digital id card\n",
+    "dateAdded": "2024-01-22T00:25:02.465Z"
+  },
+  {
+    "url": "https://v0.dev/t/DLW8u76wWmr",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-22T00:25:02.466Z"
+  },
+  {
+    "url": "https://v0.dev/t/Iib38N49aHT",
+    "label": "Template for prompt: product datatabe page",
+    "dateAdded": "2024-01-22T00:25:02.466Z"
+  },
+  {
+    "url": "https://v0.dev/t/snC8xSGqhG1",
+    "label": "Template for prompt: Improve this design",
+    "dateAdded": "2024-01-22T00:25:02.466Z"
+  },
+  {
+    "url": "https://v0.dev/t/hWIHQ1lTKgC",
+    "label": "Template for prompt: minimalist slack clone",
+    "dateAdded": "2024-01-22T00:25:02.466Z"
+  },
+  {
+    "url": "https://v0.dev/t/TNrJNqzJmNM",
+    "label": "Template for prompt: dqwd",
+    "dateAdded": "2024-01-22T00:25:02.466Z"
+  },
+  {
+    "url": "https://v0.dev/t/eq47xhluhsr",
+    "label": "Template for prompt: A homepage for NYC Basketball Club — the title and description of the basketball club + a list of a few upcoming events as rows below the title",
+    "dateAdded": "2024-01-22T00:25:02.467Z"
+  },
+  {
+    "url": "https://v0.dev/t/Rd1dRkcrl90",
+    "label": "Template for prompt: QR code generator",
+    "dateAdded": "2024-01-22T00:25:02.467Z"
+  },
+  {
+    "url": "https://v0.dev/t/TxGnjk9B12q",
+    "label": "Template for prompt: Slick looking flight search component",
+    "dateAdded": "2024-01-22T00:25:02.467Z"
+  },
+  {
+    "url": "https://v0.dev/t/54pwcgGJqtK",
+    "label": "Template for prompt: A Lego Radar app for searching legos in other marketplaces (like amazon)",
+    "dateAdded": "2024-01-22T00:25:02.467Z"
+  },
+  {
+    "url": "https://v0.dev/t/H4Yljv6YQCY",
+    "label": "Template for prompt: datatable with search function",
+    "dateAdded": "2024-01-22T00:25:02.467Z"
+  },
+  {
+    "url": "https://v0.dev/t/8CA8MrUnejX",
+    "label": "Template for prompt: Una página web con temática de terminal.",
+    "dateAdded": "2024-01-22T00:25:02.467Z"
+  },
+  {
+    "url": "https://v0.dev/t/5da2gA7u2fl",
+    "label": "Template for prompt: A scientific calculator",
+    "dateAdded": "2024-01-22T00:25:02.468Z"
+  },
+  {
+    "url": "https://v0.dev/t/hn3I1pdRPDv",
+    "label": "Template for prompt: A two column feature on a website with and image on one side and the other side includes title, subtitle, content, and a call to action button",
+    "dateAdded": "2024-01-22T00:25:02.468Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yn7wGw1zaMf",
+    "label": "Template for prompt: \n",
+    "dateAdded": "2024-01-22T00:25:02.468Z"
+  },
+  {
+    "url": "https://v0.dev/t/MuPHfZiOkh1",
+    "label": "Template for prompt: A pokedex with the first generation",
+    "dateAdded": "2024-01-22T00:25:02.468Z"
   }
 ]
