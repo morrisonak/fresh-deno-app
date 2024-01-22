@@ -35043,5 +35043,135 @@
     "url": "https://v0.dev/t/IBwoL5Br935",
     "label": "Template for prompt: nabvar with facebook ui",
     "dateAdded": "2024-01-22T16:25:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/1InX2vK5AH4",
+    "label": "Template for prompt: give me todo dashboard in tailwind css ",
+    "dateAdded": "2024-01-22T16:30:03.413Z"
+  },
+  {
+    "url": "https://v0.dev/t/pgxVWjLo9X3",
+    "label": "Template for prompt: subscription plan selection",
+    "dateAdded": "2024-01-22T16:30:03.413Z"
+  },
+  {
+    "url": "https://v0.dev/t/B0zvZVpuFGS",
+    "label": "Template for prompt: create UI with 1. Dataset Input:\nOptions:\nUpload Dataset\nConnect to Cloud Storage\nFeatures:\nSupport for various file formats (CSV, Excel, etc.).\nDirect integration with cloud platforms (AWS, Azure, Google Cloud).\n2. Tool Configuration:\nOptions:\nSelect Target Variable\nChoose Preprocessing Steps\nFeatures:\nCustomizable preprocessing options (handle missing values, feature scaling, etc.).\nUser-defined target variable selection.\n3. AutoML Integration:\nOptions:\nEnable AutoML\nChoose Algorithms to Include\nFeatures:\nAutomated model selection based on dataset characteristics.\nUser-controlled algorithm inclusion/exclusion.\n4. Feature Engineering:\nOptions:\nAutomatic Feature Engineering\nManual Feature Selection\nFeatures:\nAutomated creation of new features.\nUser-driven feature selection.\n5. Model Evaluation:\nOptions:\nCross-Validation\nPerformance Metrics Selection\nFeatures:\nCross-validation for robust model evaluation.\nCustomizable performance metric selection",
+    "dateAdded": "2024-01-22T16:30:03.413Z"
+  },
+  {
+    "url": "https://v0.dev/t/NoNMNUe0FLe",
+    "label": "Template for prompt: create datatable that include pagination, search, filter, sorting, selector",
+    "dateAdded": "2024-01-22T16:30:03.413Z"
+  },
+  {
+    "url": "https://v0.dev/t/JWf1dVGRQIZ",
+    "label": "Template for prompt: give me a quiz app website with a home page and question page and lively background. cyberpunk aesthetics",
+    "dateAdded": "2024-01-22T16:30:03.413Z"
+  },
+  {
+    "url": "https://v0.dev/t/zCHXm161j2t",
+    "label": "Template for prompt: A new dashboard for parents and teachers where they can see all the news and relevant information of the school",
+    "dateAdded": "2024-01-22T16:30:03.413Z"
+  },
+  {
+    "url": "https://v0.dev/t/ixLulXah4Ne",
+    "label": "Template for prompt: the component for display a tweet for our twitter clone litter.  avatar, username under (example ek223ur) and under that full name (example erik kroon) in a column on the left side and the right side should be displaying the text content of the tweet. \n\ncolor:   #F6AE28\n",
+    "dateAdded": "2024-01-22T16:30:03.413Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZOozT2YSo27",
+    "label": "Template for prompt: API documentation",
+    "dateAdded": "2024-01-22T16:30:03.414Z"
+  },
+  {
+    "url": "https://v0.dev/t/Kzbe55Rjspj",
+    "label": "Template for prompt: A simple and modern dashboard for fan management of a sports club",
+    "dateAdded": "2024-01-22T16:30:03.414Z"
+  },
+  {
+    "url": "https://v0.dev/t/FwnBb04WWnQ",
+    "label": "Template for prompt: a login form with option to sign in with google and apple",
+    "dateAdded": "2024-01-22T16:30:03.414Z"
+  },
+  {
+    "url": "https://v0.dev/t/po6EZ2DA2dN",
+    "label": "Template for prompt: bLUE PROGRESS BAR",
+    "dateAdded": "2024-01-22T16:30:03.414Z"
+  },
+  {
+    "url": "https://v0.dev/t/kR6gcuxRZjl",
+    "label": "Template for prompt: a card component. left half space with a photo, right half space with a bunch of info ",
+    "dateAdded": "2024-01-22T16:30:03.414Z"
+  },
+  {
+    "url": "https://v0.dev/t/STQkFeRhGqZ",
+    "label": "Template for prompt: create a div with a row of items, if the row width decrease, then the items will enter in an dropdown ",
+    "dateAdded": "2024-01-22T16:30:03.414Z"
+  },
+  {
+    "url": "https://v0.dev/t/wqpP6nLnPiI",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T16:30:03.414Z"
+  },
+  {
+    "url": "https://v0.dev/t/KNBbxFGoCfn",
+    "label": "Template for prompt: Product card with image, price, brand, add cart button, category, discount percentage, name",
+    "dateAdded": "2024-01-22T16:30:03.415Z"
+  },
+  {
+    "url": "https://v0.dev/t/wjfWv7mof26",
+    "label": "Template for prompt: redesign with animation on the chevron",
+    "dateAdded": "2024-01-22T16:30:03.415Z"
+  },
+  {
+    "url": "https://v0.dev/t/3UhuVDVOcC3",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-22T16:30:03.415Z"
+  },
+  {
+    "url": "https://v0.dev/t/IKOTosOT5r8",
+    "label": "Template for prompt: create a popup for the user button with links with icons to\nprofile\nmy ads \nfavorite \nlogout ",
+    "dateAdded": "2024-01-22T16:30:03.415Z"
+  },
+  {
+    "url": "https://v0.dev/t/vWNGU89qixa",
+    "label": "Template for prompt: accordeon",
+    "dateAdded": "2024-01-22T16:30:03.415Z"
+  },
+  {
+    "url": "https://v0.dev/t/1ctnGZx5jZY",
+    "label": "Template for prompt: create a form with three input number named in order: Focus Time (minutes), Rest Time (minutes) , Extended Rest Time (minutes). and a text area named \"Block List (each entry in a new line)\"",
+    "dateAdded": "2024-01-22T16:30:03.415Z"
+  },
+  {
+    "url": "https://v0.dev/t/wKPXbJzwXK3",
+    "label": "Template for prompt: dashboard with charts for a mes application",
+    "dateAdded": "2024-01-22T16:30:03.415Z"
+  },
+  {
+    "url": "https://v0.dev/t/PxBrXPpIip1",
+    "label": "Template for prompt: a customizable toggle button component",
+    "dateAdded": "2024-01-22T16:30:03.415Z"
+  },
+  {
+    "url": "https://v0.dev/t/0RFHa8ocYfh",
+    "label": "Template for prompt: landing page for my ai startup",
+    "dateAdded": "2024-01-22T16:30:03.415Z"
+  },
+  {
+    "url": "https://v0.dev/t/iIuJ4RlqGJK",
+    "label": "Template for prompt: A table to manage reservations.\n\nVertically, each row is dedicated to a date and time\n\nHorizontally, each column is dedicated to a service\n\nEach cell contains FREE or the name of the customer\n\n\nUI must be state of the art, pleasant, and mobile friendly\n\n\nIt is visually pleasant to see when a cell is FREE because it has a freen light background",
+    "dateAdded": "2024-01-22T16:30:03.416Z"
+  },
+  {
+    "url": "https://v0.dev/t/825I9IfL6FO",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T16:30:03.416Z"
+  },
+  {
+    "url": "https://v0.dev/t/LimOoJEgwju",
+    "label": "Template for prompt: temazcal web page",
+    "dateAdded": "2024-01-22T16:30:03.416Z"
   }
 ]
