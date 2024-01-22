@@ -37183,5 +37183,135 @@
     "url": "https://v0.dev/t/NvmOyg6KqWZ",
     "label": "Template for prompt: a \"lobby for a card game\" they should be list of players and number of playres needed ",
     "dateAdded": "2024-01-22T17:50:37.892Z"
+  },
+  {
+    "url": "https://v0.dev/t/FUK1LP5WQgZ",
+    "label": "Template for prompt: create a navbar \n1. should follow a veritcal navbar on the left that is 252px (approx) wide \n\n2. until screen width reaches 744px (and below), where it will switch to a top nav item",
+    "dateAdded": "2024-01-22T17:55:03.875Z"
+  },
+  {
+    "url": "https://v0.dev/t/jzNoyQj23sG",
+    "label": "Template for prompt: create a navbar \n1. should follow a veritcal navbar on the left that is 252px (approx) wide \n\n2. until screen width reaches 744px (and below), where it will switch to a top nav item",
+    "dateAdded": "2024-01-22T17:55:03.875Z"
+  },
+  {
+    "url": "https://v0.dev/t/TesTyhKOBxY",
+    "label": "Template for prompt: a recipe repository for a customer data platform. the page displays a recipe that sends Objects from Salesforce into Mixpanel",
+    "dateAdded": "2024-01-22T17:55:03.876Z"
+  },
+  {
+    "url": "https://v0.dev/t/HEJrAm9r7sU",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-22T17:55:03.876Z"
+  },
+  {
+    "url": "https://v0.dev/t/OnBZMiEoJCb",
+    "label": "Template for prompt: /**\n * v0 by Vercel.\n * @see https://v0.dev/t/DVl1x0sWHjv\n */\nexport default function Component() {\n  return (\n    <div key=\"1\" className=\"bg-black text-white w-full h-screen flex flex-col items-center justify-center\">\n      <header className=\"absolute top-0 left-0 w-full flex justify-between items-center p-4\">\n        <div className=\"text-xl\">\n          <span className=\"font-bold\">Trug</span>\n          <span>TECHNOLOGIES</span>\n        </div>\n        <div className=\"text-sm\">\n          <span>21-01-2024</span>\n          <span className=\"mx-4\">|</span>\n          <span>12.43 PM</span>\n          <WifiIcon className=\"ml-4 text-white\" />\n        </div>\n      </header>\n      <div className=\"flex items-center justify-center space-x-8\">\n        <div className=\"circle-container\">\n          <div className=\"bg-[#0d7377] rounded-full p-6 flex flex-col items-center justify-center border-4\" style=\"border-image: linear-gradient(to right, #110b0f, #1c1a1d, #272629, #333336, #3f4043, #43484f, #44515b, ",
+    "dateAdded": "2024-01-22T17:55:03.876Z"
+  },
+  {
+    "url": "https://v0.dev/t/xbzuD3mX7NV",
+    "label": "Template for prompt: music portfolio website",
+    "dateAdded": "2024-01-22T17:55:03.876Z"
+  },
+  {
+    "url": "https://v0.dev/t/Tk3igX9VTsr",
+    "label": "Template for prompt: create a hero section for a book renting/selling website",
+    "dateAdded": "2024-01-22T17:55:03.876Z"
+  },
+  {
+    "url": "https://v0.dev/t/COViw5iTdR2",
+    "label": "Template for prompt: Payment Success Page",
+    "dateAdded": "2024-01-22T17:55:03.877Z"
+  },
+  {
+    "url": "https://v0.dev/t/EKZf5oFmXdx",
+    "label": "Template for prompt: using lage font, create a large time of day clock on screen.  dark theme.",
+    "dateAdded": "2024-01-22T17:55:03.877Z"
+  },
+  {
+    "url": "https://v0.dev/t/RdhBKXoUCq7",
+    "label": "Template for prompt: The landing page for a Chinese/Japanese language learning software. It should feature a clear value prop.",
+    "dateAdded": "2024-01-22T17:55:03.877Z"
+  },
+  {
+    "url": "https://v0.dev/t/DJv4XpdnFs4",
+    "label": "Template for prompt: full page clock display - with large fonts",
+    "dateAdded": "2024-01-22T17:55:03.877Z"
+  },
+  {
+    "url": "https://v0.dev/t/u0yn8sCfk4U",
+    "label": "Template for prompt: create a page with a header with and sections in a grid. it is a page that users can go and get a breakdown of the topic, make the layout easy to naviagte and informational.",
+    "dateAdded": "2024-01-22T17:55:03.877Z"
+  },
+  {
+    "url": "https://v0.dev/t/GgsZfOh51B2",
+    "label": "Template for prompt: sr.ht style rss reader",
+    "dateAdded": "2024-01-22T17:55:03.877Z"
+  },
+  {
+    "url": "https://v0.dev/t/6uW3NxpSuW3",
+    "label": "Template for prompt: Crea un Zoom de imagen de página de producto de sitio web de comercio electrónico | lupa de imagen al pasar el mouse | ampliar la imagen al pasar el cursor por la imagen principal y mostrar al lado derecho. Tal como se muestra en la imagen compartida.",
+    "dateAdded": "2024-01-22T17:55:03.878Z"
+  },
+  {
+    "url": "https://v0.dev/t/yiOqNN8loTs",
+    "label": "Template for prompt: create a minimal opengraph image with a header with a bottom border that shows my name and under it the blog title and a short description",
+    "dateAdded": "2024-01-22T17:55:03.878Z"
+  },
+  {
+    "url": "https://v0.dev/t/VKC0FxG9BEa",
+    "label": "Template for prompt: ai slack bot creator wizard",
+    "dateAdded": "2024-01-22T17:55:03.878Z"
+  },
+  {
+    "url": "https://v0.dev/t/QdFUzIqnOJe",
+    "label": "Template for prompt: need a full page clock with time zone display",
+    "dateAdded": "2024-01-22T17:55:03.878Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZTMyW0tK3OP",
+    "label": "Template for prompt: shadcn rss reader",
+    "dateAdded": "2024-01-22T17:55:03.878Z"
+  },
+  {
+    "url": "https://v0.dev/t/898OhFcOO1E",
+    "label": "Template for prompt: a peronsal blog",
+    "dateAdded": "2024-01-22T17:55:03.878Z"
+  },
+  {
+    "url": "https://v0.dev/t/pgLGGEJqEtB",
+    "label": "Template for prompt: using shadcn create a contact form",
+    "dateAdded": "2024-01-22T17:55:03.879Z"
+  },
+  {
+    "url": "https://v0.dev/t/NqIEJeAb898",
+    "label": "Template for prompt: ai slack bot creator",
+    "dateAdded": "2024-01-22T17:55:03.879Z"
+  },
+  {
+    "url": "https://v0.dev/t/LiSBky4iDFV",
+    "label": "Template for prompt: A \"report an issue\" modal",
+    "dateAdded": "2024-01-22T17:55:03.879Z"
+  },
+  {
+    "url": "https://v0.dev/t/yesDfTIt9EO",
+    "label": "Template for prompt: A wedding website for alex and kristen. in the desert",
+    "dateAdded": "2024-01-22T17:55:03.879Z"
+  },
+  {
+    "url": "https://v0.dev/t/99Upu4Yt9dX",
+    "label": "Template for prompt: something like this but make it a mono font",
+    "dateAdded": "2024-01-22T17:55:03.879Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wv6PYfzGtCG",
+    "label": "Template for prompt: simple 3d button",
+    "dateAdded": "2024-01-22T17:55:03.879Z"
+  },
+  {
+    "url": "https://v0.dev/t/awMLu1wqPNP",
+    "label": "Template for prompt: section window with a datagrid (sorting by clicking on the column header, freezing the first columns), where testing results by user will be shown",
+    "dateAdded": "2024-01-22T17:55:03.880Z"
   }
 ]
