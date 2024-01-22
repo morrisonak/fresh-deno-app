@@ -36923,5 +36923,135 @@
     "url": "https://v0.dev/t/OjIkvQXq6nf",
     "label": "Template for prompt: create a UI in react component",
     "dateAdded": "2024-01-22T17:40:04.009Z"
+  },
+  {
+    "url": "https://v0.dev/t/8CwAVWPeqBv",
+    "label": "Template for prompt: landing page tech startup coming soon with hero section, menu bar, social media icons, form to be put on waiting list",
+    "dateAdded": "2024-01-22T17:45:03.336Z"
+  },
+  {
+    "url": "https://v0.dev/t/GG5UuoEw3h6",
+    "label": "Template for prompt: A music details page with album cover lyrics and other details",
+    "dateAdded": "2024-01-22T17:45:03.337Z"
+  },
+  {
+    "url": "https://v0.dev/t/KOnFbkqSF5z",
+    "label": "Template for prompt: need a company public kiosk type dashboard to show events, a small carousel, date, time and weather",
+    "dateAdded": "2024-01-22T17:45:03.337Z"
+  },
+  {
+    "url": "https://v0.dev/t/0jM2EHsgXs2",
+    "label": "Template for prompt: crea una inicio de pagina para un cuestionario y su link ",
+    "dateAdded": "2024-01-22T17:45:03.337Z"
+  },
+  {
+    "url": "https://v0.dev/t/A0bqDs8c4l5",
+    "label": "Template for prompt: create a website like this",
+    "dateAdded": "2024-01-22T17:45:03.337Z"
+  },
+  {
+    "url": "https://v0.dev/t/ymkyha4NCVT",
+    "label": "Template for prompt: Changer le mot de passe\n\nAncien mot de passe\nAncien mot de passe\nNouveau mot de passe\nNouveau mot de passe\nRéécrivez le nouveau mot de passe\nNouveau mot de passe\n\nEnregistrer\nModifications profil\n\nPseudo\n\nEmail\n\nDevise\nSelect...\n\nEnregistrer\n\n\n\nclassic profile page",
+    "dateAdded": "2024-01-22T17:45:03.337Z"
+  },
+  {
+    "url": "https://v0.dev/t/B6a8GTYw1xY",
+    "label": "Template for prompt: build me a circular red button that has animation to indicate it is pressed and released",
+    "dateAdded": "2024-01-22T17:45:03.337Z"
+  },
+  {
+    "url": "https://v0.dev/t/WxthTbQXjgw",
+    "label": "Template for prompt: A awesome beautiful card for a rider waiting for a driver accept his ride with something like \"We are searching available drivers\"",
+    "dateAdded": "2024-01-22T17:45:03.338Z"
+  },
+  {
+    "url": "https://v0.dev/t/KAuCUQkBBmA",
+    "label": "Template for prompt: a slick shadcnui/tailwind ui with structure inspired by django admin but use new york style.  There should be a navbar, a collabsible sidebar and and a table/list view of items with a filtering text serch bar in the top right of the content pane/above the table the table",
+    "dateAdded": "2024-01-22T17:45:03.338Z"
+  },
+  {
+    "url": "https://v0.dev/t/leNIvNShOyE",
+    "label": "Template for prompt: make a navigation bar like the windows verkenner. It should have the back, next up and refresh buttons. Make them all svgs",
+    "dateAdded": "2024-01-22T17:45:03.338Z"
+  },
+  {
+    "url": "https://v0.dev/t/8KeNwMjZENW",
+    "label": "Template for prompt: create a dashboard for parts in an invetory, on the left side we need some component like a tree view to choose between categories, and on the right part we need a table with the parts under that category and the details of the category",
+    "dateAdded": "2024-01-22T17:45:03.338Z"
+  },
+  {
+    "url": "https://v0.dev/t/w1PBaTJ3DE8",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-22T17:45:03.338Z"
+  },
+  {
+    "url": "https://v0.dev/t/UIprTCovwCv",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-22T17:45:03.339Z"
+  },
+  {
+    "url": "https://v0.dev/t/1oCwASP0zZG",
+    "label": "Template for prompt: briefcase element that will have collapsable tabs that show users uploaded documents",
+    "dateAdded": "2024-01-22T17:45:03.339Z"
+  },
+  {
+    "url": "https://v0.dev/t/fhfZyiZ5gSC",
+    "label": "Template for prompt: a list of videos with setting like 2d or 3d, 360 or 180 or plane, if selected for playing",
+    "dateAdded": "2024-01-22T17:45:03.339Z"
+  },
+  {
+    "url": "https://v0.dev/t/gmGmFJkyEO5",
+    "label": "Template for prompt: a dashboard for a file reader, with three recent opened files and a button for read a new file from storage",
+    "dateAdded": "2024-01-22T17:45:03.339Z"
+  },
+  {
+    "url": "https://v0.dev/t/MEUfkut0JJB",
+    "label": "Template for prompt: Add the standard deviation for the average lateness",
+    "dateAdded": "2024-01-22T17:45:03.339Z"
+  },
+  {
+    "url": "https://v0.dev/t/aJ1O4p0vVtz",
+    "label": "Template for prompt: plans page buy credits",
+    "dateAdded": "2024-01-22T17:45:03.339Z"
+  },
+  {
+    "url": "https://v0.dev/t/qIFrQ3Be0vx",
+    "label": "Template for prompt: make a payment page which shows the order summary as done in the screenshot, essentially just copy the screenshot ",
+    "dateAdded": "2024-01-22T17:45:03.339Z"
+  },
+  {
+    "url": "https://v0.dev/t/DZnJiKhoBVq",
+    "label": "Template for prompt: a dashboard for a document file reader",
+    "dateAdded": "2024-01-22T17:45:03.339Z"
+  },
+  {
+    "url": "https://v0.dev/t/m0TsIkfhng4",
+    "label": "Template for prompt: an interactive list of synonyms for a word that people can submit and then upvote",
+    "dateAdded": "2024-01-22T17:45:03.340Z"
+  },
+  {
+    "url": "https://v0.dev/t/c1g9XtHAFh8",
+    "label": "Template for prompt: help me create e-learning interface",
+    "dateAdded": "2024-01-22T17:45:03.340Z"
+  },
+  {
+    "url": "https://v0.dev/t/N7fQCwuvQiq",
+    "label": "Template for prompt: Payments list, include icon, payment date, payment name, who paid, me or my friend, how much i owe or borrowed",
+    "dateAdded": "2024-01-22T17:45:03.340Z"
+  },
+  {
+    "url": "https://v0.dev/t/7mkbPt18paH",
+    "label": "Template for prompt: landing page for a tech start up based on the layout of https://thewebsitearchitect.com/",
+    "dateAdded": "2024-01-22T17:45:03.340Z"
+  },
+  {
+    "url": "https://v0.dev/t/HpQdZm3QNLx",
+    "label": "Template for prompt: A dashboard component using shad cn resizable. The horizontal parent panel group has two panels.  The first panel on the left has an example dashboard. The second panel contains a vertical panel group with two panels inside.",
+    "dateAdded": "2024-01-22T17:45:03.340Z"
+  },
+  {
+    "url": "https://v0.dev/t/O0V4XODMY9U",
+    "label": "Template for prompt: Add details who paid, me or my friend, and how much i owe him, or how much i borrowed",
+    "dateAdded": "2024-01-22T17:45:03.341Z"
   }
 ]
