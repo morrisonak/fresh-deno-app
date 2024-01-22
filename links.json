@@ -32263,5 +32263,125 @@
     "url": "https://v0.dev/t/viqYHkFHFIL",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2024-01-22T14:35:03.871Z"
+  },
+  {
+    "url": "https://v0.dev/t/G5WY1Fuyj6o",
+    "label": "Template for prompt: list of items, with the name of a folder, a button to see more options to trigger a submenu, and an Icon to grab it to reorder the items list",
+    "dateAdded": "2024-01-22T14:40:03.495Z"
+  },
+  {
+    "url": "https://v0.dev/t/z5IUIDNsxGp",
+    "label": "Template for prompt: Build a page where users can edit their integration settings like api keys, name of the integration, disabled or enabled etc",
+    "dateAdded": "2024-01-22T14:40:03.495Z"
+  },
+  {
+    "url": "https://v0.dev/t/OvQ9mJz0WYu",
+    "label": "Template for prompt: create the same template",
+    "dateAdded": "2024-01-22T14:40:03.495Z"
+  },
+  {
+    "url": "https://v0.dev/t/IswUsCp09P7",
+    "label": "Template for prompt: Creat layout from image",
+    "dateAdded": "2024-01-22T14:40:03.496Z"
+  },
+  {
+    "url": "https://v0.dev/t/0pnOXOtubsp",
+    "label": "Template for prompt: A browser of game templates",
+    "dateAdded": "2024-01-22T14:40:03.496Z"
+  },
+  {
+    "url": "https://v0.dev/t/IRvZyCXKPkf",
+    "label": "Template for prompt: An auto-generated checklist page for grain inspections with a couple of sections. You can upload photos, complete assigned measurements and more",
+    "dateAdded": "2024-01-22T14:40:03.496Z"
+  },
+  {
+    "url": "https://v0.dev/t/kLrJXgsZReC",
+    "label": "Template for prompt: i have a list of 200+ skills, i.e stone masonry, adobe photohop, drivers licensce etc. they are weighted with relevance towards a education that they relate too, i.e computer science 101. Design a view that lists these in a user friendly way",
+    "dateAdded": "2024-01-22T14:40:03.496Z"
+  },
+  {
+    "url": "https://v0.dev/t/jojhe5wtKsP",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T14:40:03.496Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZGnNlyuoBH3",
+    "label": "Template for prompt: A multi-step progress bar with animated stripes",
+    "dateAdded": "2024-01-22T14:40:03.496Z"
+  },
+  {
+    "url": "https://v0.dev/t/PkbzIeMRD2k",
+    "label": "Template for prompt: Tiktok UI",
+    "dateAdded": "2024-01-22T14:40:03.496Z"
+  },
+  {
+    "url": "https://v0.dev/t/7UW3o6RpzBV",
+    "label": "Template for prompt: Mon utilisateur va crée un compte en rentrant son nom et je veux qu'un qrcode soit généré quand il crée son compte et je veux que son qrcode soit enregistrer et qu'il y est un boutton qui affiche le qrcode de l'utilisateur quand j'appui dessus.",
+    "dateAdded": "2024-01-22T14:40:03.496Z"
+  },
+  {
+    "url": "https://v0.dev/t/H8Pw35p5ZkP",
+    "label": "Template for prompt: A home page to give status of all virtual machines",
+    "dateAdded": "2024-01-22T14:40:03.497Z"
+  },
+  {
+    "url": "https://v0.dev/t/hWciM96vQdn",
+    "label": "Template for prompt: genrate me navbar for eCommerce website logo should be suprema. get me the search bar and login option on smaller screen logo should be at center and login option should be at the right and hamburger should be display when i click on it i got a the options like Home category and other this and when i click on close hamburger should be close",
+    "dateAdded": "2024-01-22T14:40:03.497Z"
+  },
+  {
+    "url": "https://v0.dev/t/eFbh0gaz3PL",
+    "label": "Template for prompt: Card with header that has a date and id.\n\nThen inside the card we have username and gender below that we have the users age, id and life expectancy\n\nFinally we have three other related numbers somewhere else below",
+    "dateAdded": "2024-01-22T14:40:03.497Z"
+  },
+  {
+    "url": "https://v0.dev/t/evkNwkKHkYm",
+    "label": "Template for prompt: a page for editing the PHP configuration file (php.ini) from the browser and saving it",
+    "dateAdded": "2024-01-22T14:40:03.497Z"
+  },
+  {
+    "url": "https://v0.dev/t/Lv4Eary2tNn",
+    "label": "Template for prompt: create a mobile app page that have 5 dropdowns selects and it displays a table after selecting",
+    "dateAdded": "2024-01-22T14:40:03.497Z"
+  },
+  {
+    "url": "https://v0.dev/t/eulzpV9Iia2",
+    "label": "Template for prompt: Make it dynamic with carousel function",
+    "dateAdded": "2024-01-22T14:40:03.497Z"
+  },
+  {
+    "url": "https://v0.dev/t/nUMqOA44yK7",
+    "label": "Template for prompt: A minimal dark theme page redirecting to a documnettaion",
+    "dateAdded": "2024-01-22T14:40:03.497Z"
+  },
+  {
+    "url": "https://v0.dev/t/rxF6xaAZ31f",
+    "label": "Template for prompt: make a banner as same as the image provided please do not make any changes from the image maintain the spacing and text sizes as well",
+    "dateAdded": "2024-01-22T14:40:03.497Z"
+  },
+  {
+    "url": "https://v0.dev/t/hx2l8g79ny1",
+    "label": "Template for prompt: a card component with a title and three sections for rates",
+    "dateAdded": "2024-01-22T14:40:03.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/owh3517IRuC",
+    "label": "Template for prompt: comment faire un générateur de qrcode en fonction d'un cookie ",
+    "dateAdded": "2024-01-22T14:40:03.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/ObVtIEciLA9",
+    "label": "Template for prompt: a signup form with 10 fields for contract workers",
+    "dateAdded": "2024-01-22T14:40:03.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/IwOWbbFmnGh",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-22T14:40:03.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/tgHyawuhDjs",
+    "label": "Template for prompt: Welcome to Restaker, your specialized dashboard for managing and optimizing restaking on Eigenlayer protocols. Tailored for blockchain enthusiasts and savvy investors, Restaker provides a sophisticated yet user-friendly platform to monitor, analyze, and enhance your Eigenlayer restaking strategies.\n\nKey Features:\n\nTop Menu Navigation:\n\nHome: Get a holistic view of your Eigenlayer restaking activities, featuring an overview of all potential rewards and performance insights for your investments.\nProtocols: Explore in-depth information about Eigenlayer protocols, including their unique staking mechanisms, risk assessment, and past performance data.\nRewards: Track your earned rewards in real-time, view projections for future earnings, and explore options for automatic reinvestment or withdrawal.\nSettings: Personalize your dashboard experience, adjust notification settings, and manage your account's security preferences.\nHome View:\n\nThe Home view serves as the central hub of Restaker. It pr",
+    "dateAdded": "2024-01-22T14:40:03.498Z"
   }
 ]
