@@ -29858,5 +29858,130 @@
     "url": "https://v0.dev/t/kohBIKKFq6K",
     "label": "Template for prompt: A small form that takes the following params:  givenName: string;\n  familyName: string;\n  birthdate: string;\n  gender: string;\n  email: string;\n  password: string,\n  contactConsent: boolean;\n  dataConsent: boolean;",
     "dateAdded": "2024-01-22T00:40:03.454Z"
+  },
+  {
+    "url": "https://v0.dev/t/ODNChax9nrI",
+    "label": "Template for prompt: Flight Search home page",
+    "dateAdded": "2024-01-22T00:45:03.941Z"
+  },
+  {
+    "url": "https://v0.dev/t/brkFIlUSfGz",
+    "label": "Template for prompt: Flight Search home page",
+    "dateAdded": "2024-01-22T00:45:03.941Z"
+  },
+  {
+    "url": "https://v0.dev/t/vQjbiXL7aaL",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T00:45:03.941Z"
+  },
+  {
+    "url": "https://v0.dev/t/IzXQj1DQUs8",
+    "label": "Template for prompt: I'm a web developer and I need a landing page for my portfolio to introduce myself. I'm a backend developer.",
+    "dateAdded": "2024-01-22T00:45:03.941Z"
+  },
+  {
+    "url": "https://v0.dev/t/bNvIXHHApeY",
+    "label": "Template for prompt: a node based canvas",
+    "dateAdded": "2024-01-22T00:45:03.941Z"
+  },
+  {
+    "url": "https://v0.dev/t/TuWtc3rP2Fb",
+    "label": "Template for prompt: form with cancel and submit button",
+    "dateAdded": "2024-01-22T00:45:03.942Z"
+  },
+  {
+    "url": "https://v0.dev/t/Jwllf9FGZxa",
+    "label": "Template for prompt: an input slider with two handles that selects a portion from an audio clip",
+    "dateAdded": "2024-01-22T00:45:03.942Z"
+  },
+  {
+    "url": "https://v0.dev/t/cfTq15zrfXB",
+    "label": "Template for prompt: an input slider with two handles that selects a portion from an audio clip",
+    "dateAdded": "2024-01-22T00:45:03.942Z"
+  },
+  {
+    "url": "https://v0.dev/t/q6FQO1IczCF",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T00:45:03.942Z"
+  },
+  {
+    "url": "https://v0.dev/t/sQC3q0o3hq6",
+    "label": "Template for prompt: 인스타그램처럼 만들어줘",
+    "dateAdded": "2024-01-22T00:45:03.942Z"
+  },
+  {
+    "url": "https://v0.dev/t/LUbnnbTxlm0",
+    "label": "Template for prompt: a home page for a website, that talk about the features (Blog and Calculators)",
+    "dateAdded": "2024-01-22T00:45:03.943Z"
+  },
+  {
+    "url": "https://v0.dev/t/guJsMSLzoLn",
+    "label": "Template for prompt: make this look better",
+    "dateAdded": "2024-01-22T00:45:03.943Z"
+  },
+  {
+    "url": "https://v0.dev/t/s9s7EV2Y3Yy",
+    "label": "Template for prompt: make this look better",
+    "dateAdded": "2024-01-22T00:45:03.943Z"
+  },
+  {
+    "url": "https://v0.dev/t/r3g07yysPrF",
+    "label": "Template for prompt: make this look better",
+    "dateAdded": "2024-01-22T00:45:03.943Z"
+  },
+  {
+    "url": "https://v0.dev/t/JmkPBMN6cuX",
+    "label": "Template for prompt: make this look better",
+    "dateAdded": "2024-01-22T00:45:03.943Z"
+  },
+  {
+    "url": "https://v0.dev/t/6zfiqGGAj4T",
+    "label": "Template for prompt: hover card for ai prompt saying \"Enter what you want your question to be about\"",
+    "dateAdded": "2024-01-22T00:45:03.944Z"
+  },
+  {
+    "url": "https://v0.dev/t/vPAdre7tsPz",
+    "label": "Template for prompt: ask for love",
+    "dateAdded": "2024-01-22T00:45:03.944Z"
+  },
+  {
+    "url": "https://v0.dev/t/cn7EB8LNPVc",
+    "label": "Template for prompt: \n",
+    "dateAdded": "2024-01-22T00:45:03.944Z"
+  },
+  {
+    "url": "https://v0.dev/t/kS3h7qyd0Ni",
+    "label": "Template for prompt: A general landing page",
+    "dateAdded": "2024-01-22T00:45:03.944Z"
+  },
+  {
+    "url": "https://v0.dev/t/udQQIYu4fo4",
+    "label": "Template for prompt: A rental reservation card ",
+    "dateAdded": "2024-01-22T00:45:03.944Z"
+  },
+  {
+    "url": "https://v0.dev/t/sAWQvW4oTRe",
+    "label": "Template for prompt: Use JavaScript libraries to create charts and graphs from a data set.",
+    "dateAdded": "2024-01-22T00:45:03.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/2vxJxRaRz1c",
+    "label": "Template for prompt: the UI will need to list reports with filters to control to the period of time of interest (user picks a date range), score thresholds (between -1 and 1, with one labelled handle for the lower and one for the upper bound, which the user can drag), and geographical boundaries based on lon and lat delineated quadrants (user can enter 4 points to describe this area and a dropdown listing continents at the top and then countries below) the user can select any individual report and request the AI to run further analysis. Also, the user can run the same AI analysis on any selection of reports which the user can either select individually or collectively from the filtered list",
+    "dateAdded": "2024-01-22T00:45:03.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/PjXVPmW5Otz",
+    "label": "Template for prompt: A landing page for a construction machine brand",
+    "dateAdded": "2024-01-22T00:45:03.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/poOK0SIIMrb",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-22T00:45:03.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/ABZz7jL6JhY",
+    "label": "Template for prompt: 제목은 AI Test 좌측에는 멀티라인 메시지를 입력할 수 있고 힌트는 \"테스트 문자 메시지를 입력하세요\"인 인풋 박스, 오른쪽은 테스트 결과 그리고 아래쪽에는 테스트 실행 버튼이 있는 컴포넌트",
+    "dateAdded": "2024-01-22T00:45:03.946Z"
   }
 ]
