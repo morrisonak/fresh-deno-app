@@ -41183,5 +41183,130 @@
     "url": "https://v0.dev/t/ZP8Cl5rOyCV",
     "label": "Template for prompt: A customizable bullet chart with one lien",
     "dateAdded": "2024-01-22T20:25:02.843Z"
+  },
+  {
+    "url": "https://v0.dev/t/bItPSIxY7vY",
+    "label": "Template for prompt: Document page viewer with a grid of pages to select to the left and the page viewer on the right",
+    "dateAdded": "2024-01-22T20:30:03.380Z"
+  },
+  {
+    "url": "https://v0.dev/t/guCT6Qwzu7m",
+    "label": "Template for prompt: An application to automatically label images with owlv2. you can drag and drop or select an image. You have 3 inputs: text prompt, threshold and nms tresholds. The thresholds are sliders from 0-1. Then you have a button to process the image and then when processed you get the image back with labels",
+    "dateAdded": "2024-01-22T20:30:03.380Z"
+  },
+  {
+    "url": "https://v0.dev/t/oNR1MCmKNJE",
+    "label": "Template for prompt: Please develop this mobile version in react and tailwind",
+    "dateAdded": "2024-01-22T20:30:03.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/xWhD0vFXB28",
+    "label": "Template for prompt: give me a portal layout with navigation bar on left side and header which contains the logged in user information and the notification button",
+    "dateAdded": "2024-01-22T20:30:03.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZurByGvKAls",
+    "label": "Template for prompt: Page of sign in and sign up",
+    "dateAdded": "2024-01-22T20:30:03.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/I3LhM8LeGNZ",
+    "label": "Template for prompt: admin statistic ui",
+    "dateAdded": "2024-01-22T20:30:03.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/NK2FWiFwbKN",
+    "label": "Template for prompt: Create an Event organizer page for a profissional business platform where founders and startup can choose a venue from collection of venues provided from the community for free and hire volaunteer and find sponser for thier event and speakers, industry leaders, investors and media and influncers or any other service needed to create an event for free where founders and proffisional community help each other ",
+    "dateAdded": "2024-01-22T20:30:03.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/WotIJvlFtSI",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T20:30:03.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/OkEPhHhq71k",
+    "label": "Template for prompt: create a card for notes-app that has title, description, tags, and buttons for edit, delete, archive/unarchive",
+    "dateAdded": "2024-01-22T20:30:03.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/g20PzCqksi7",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-22T20:30:03.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/ELATkI3JJo4",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T20:30:03.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/ngJ4AWeF4Vu",
+    "label": "Template for prompt: An \"edit user details\" modal which includes name, date-of-birth, email, tags, employer timzone, contact numbers notification preferences and address",
+    "dateAdded": "2024-01-22T20:30:03.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/HA8wJNVNOzd",
+    "label": "Template for prompt: cics like web page",
+    "dateAdded": "2024-01-22T20:30:03.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZPz3ZB3rv69",
+    "label": "Template for prompt: Create a split bill website where people can invite and manage their group expenses",
+    "dateAdded": "2024-01-22T20:30:03.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/yHgsgChgKh5",
+    "label": "Template for prompt: Grid\nInner Container max-width 920px | 12 column | 24px gutters.\nOn smaller screens 40px padding on the sides",
+    "dateAdded": "2024-01-22T20:30:03.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/zR6ipPAoA0L",
+    "label": "Template for prompt: create a minimal chat room page",
+    "dateAdded": "2024-01-22T20:30:03.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/zPR1VAMvSwm",
+    "label": "Template for prompt: This is a dashboard for SocialSync which is a web portal for digital marketing experts to manage and improve their workflow. Kinda like a CMS.\n\nCreate a dashboard which has a sidebar, header and a footer, it should have breadcrumbs.\n\nThe sidebar contains following options:\n * Dashboard - Should contain analytics data from social media api of meta, linkedin, etc.\n * Profile - Should contain the profile of the user\n * Employees - List of employees in a table form and redirects to their profile\n * Clients - List of clients in a table form and redirects to their accounts page\n * Events - A calendar view which highlights the upcoming events and tasks\n * Tasks - A list of tasks with all the functionalities of a todo app in a single page with task deadline setting and all\n\nThere should be the company logo on the intersection of header and sidebar",
+    "dateAdded": "2024-01-22T20:30:03.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/yp2QFtzgXWz",
+    "label": "Template for prompt: emterprise application",
+    "dateAdded": "2024-01-22T20:30:03.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zo3rGD0bPO5",
+    "label": "Template for prompt: a landing page for a gpt that can answer law questions, create a preview of the chat application on the right of the landing page, create a navbar at the top with a login and profile version, add testimonials when you scroll past the initial view",
+    "dateAdded": "2024-01-22T20:30:03.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/osQhjwFgo1n",
+    "label": "Template for prompt: create a layout svg icon to using in next js. The background should be light gray and the content a darker gray. The svg will be a button that toggles the screen layout",
+    "dateAdded": "2024-01-22T20:30:03.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/i1sZY93xjEP",
+    "label": "Template for prompt: I need to add instructions for this. add some lorem ipsum instructions",
+    "dateAdded": "2024-01-22T20:30:03.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/FZgRSZw3cfV",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form. with colors #AA5E19 #2EABD0 #1C3545 #DCE9EA #17678E",
+    "dateAdded": "2024-01-22T20:30:03.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/u4eUndbxKY9",
+    "label": "Template for prompt: login page",
+    "dateAdded": "2024-01-22T20:30:03.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/mC45oGKpdXQ",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-22T20:30:03.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/qKfHT369huF",
+    "label": "Template for prompt: a skelaton for interactive value chain for a company called SIDPEC with petrochemical background",
+    "dateAdded": "2024-01-22T20:30:03.383Z"
   }
 ]
