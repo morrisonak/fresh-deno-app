@@ -40793,5 +40793,135 @@
     "url": "https://v0.dev/t/TbTr34xUSi3",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2024-01-22T20:10:02.891Z"
+  },
+  {
+    "url": "https://v0.dev/t/itDsIYaqCBr",
+    "label": "Template for prompt: student page",
+    "dateAdded": "2024-01-22T20:15:03.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/R1rMdBiPBXZ",
+    "label": "Template for prompt: create a sidebar on the left with 5 options. I want it to be sticky on the left and then i click the sandwich button it will expand and show the selected tab content of those 5 that is selected currently",
+    "dateAdded": "2024-01-22T20:15:03.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/q6RAqgiYQgC",
+    "label": "Template for prompt: Create me a dashboard layout where you can choose what subreddit you want and then what background of the video you want and and place where to choose the font you want ",
+    "dateAdded": "2024-01-22T20:15:03.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/pAgboYDBIBA",
+    "label": "Template for prompt: a todoist clone",
+    "dateAdded": "2024-01-22T20:15:03.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/d9uJqkJXosy",
+    "label": "Template for prompt: can you build me a sidebar component with shadcn components",
+    "dateAdded": "2024-01-22T20:15:03.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/SgUpY6gfbrv",
+    "label": "Template for prompt: a page with three sections: 1. a drag and drop file upload box 2. a chatgpt field for interacting with the uploaded results 3. a \"publish\" button",
+    "dateAdded": "2024-01-22T20:15:03.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/fuzjzUoeMmY",
+    "label": "Template for prompt: drag and drop image libraury",
+    "dateAdded": "2024-01-22T20:15:03.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/pfymlF82puh",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-22T20:15:03.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/huPuDdbvX1u",
+    "label": "Template for prompt: create a dropdown list of categories. some categories are not available yet and should be selectable but show copy that it's not ready ",
+    "dateAdded": "2024-01-22T20:15:03.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/6yzg1HmrjCu",
+    "label": "Template for prompt: a user profile header display user image and name. contains follow message buttons  ",
+    "dateAdded": "2024-01-22T20:15:03.824Z"
+  },
+  {
+    "url": "https://v0.dev/t/e6SZoHEvnea",
+    "label": "Template for prompt: Create an Event organizer page for a profissional business platform where founders and startup can choose a venue from collection of venues provided from the community for free and hire volaunteer and find sponser for thier event and speakers, industry leaders, investors and media and influncers or any other service needed to create an event for free where founders and proffisional community help each other ",
+    "dateAdded": "2024-01-22T20:15:03.824Z"
+  },
+  {
+    "url": "https://v0.dev/t/JK5dYHc9T0i",
+    "label": "Template for prompt: a landing page for home decor ecommerce",
+    "dateAdded": "2024-01-22T20:15:03.824Z"
+  },
+  {
+    "url": "https://v0.dev/t/vjwXmjYCfQC",
+    "label": "Template for prompt: Discord-like UI",
+    "dateAdded": "2024-01-22T20:15:03.824Z"
+  },
+  {
+    "url": "https://v0.dev/t/dWYUDpIlfjY",
+    "label": "Template for prompt: datagrid with options",
+    "dateAdded": "2024-01-22T20:15:03.824Z"
+  },
+  {
+    "url": "https://v0.dev/t/FiQdQVRYBig",
+    "label": "Template for prompt: Make the same as the image.",
+    "dateAdded": "2024-01-22T20:15:03.825Z"
+  },
+  {
+    "url": "https://v0.dev/t/If5UIuwLzQk",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T20:15:03.825Z"
+  },
+  {
+    "url": "https://v0.dev/t/L4xdGpGhpqg",
+    "label": "Template for prompt: Learning fun korean page",
+    "dateAdded": "2024-01-22T20:15:03.825Z"
+  },
+  {
+    "url": "https://v0.dev/t/uUrBfs4UBWI",
+    "label": "Template for prompt: late 1980s themed secret service chatroom page",
+    "dateAdded": "2024-01-22T20:15:03.825Z"
+  },
+  {
+    "url": "https://v0.dev/t/N4I9ZCnvXwH",
+    "label": "Template for prompt: a landing page with three sections:drag and drop file upload section",
+    "dateAdded": "2024-01-22T20:15:03.825Z"
+  },
+  {
+    "url": "https://v0.dev/t/gCknX8DWpBM",
+    "label": "Template for prompt: a page for uploading json data to make spreadsheets",
+    "dateAdded": "2024-01-22T20:15:03.825Z"
+  },
+  {
+    "url": "https://v0.dev/t/JcMmdRG4B0r",
+    "label": "Template for prompt: create me an ant design based react dashboard",
+    "dateAdded": "2024-01-22T20:15:03.826Z"
+  },
+  {
+    "url": "https://v0.dev/t/ns2HdEjrNz3",
+    "label": "Template for prompt: create a ui to help vote among 3 parties 1, 2, 3 and show response after vote as vote recoreded or error occured",
+    "dateAdded": "2024-01-22T20:15:03.826Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ks5jxLrajDs",
+    "label": "Template for prompt:  html و cssرا بژن",
+    "dateAdded": "2024-01-22T20:15:03.826Z"
+  },
+  {
+    "url": "https://v0.dev/t/djLlhUI38CY",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T20:15:03.826Z"
+  },
+  {
+    "url": "https://v0.dev/t/u2mU8oztDWL",
+    "label": "Template for prompt: Create a web page ux for logging in",
+    "dateAdded": "2024-01-22T20:15:03.826Z"
+  },
+  {
+    "url": "https://v0.dev/t/44ZqaWn139j",
+    "label": "Template for prompt: A form with First Name, Last Name, Email, Message (vertical resize).",
+    "dateAdded": "2024-01-22T20:15:03.827Z"
   }
 ]
