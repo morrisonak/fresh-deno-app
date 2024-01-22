@@ -36663,5 +36663,135 @@
     "url": "https://v0.dev/t/AHC0CeYCbtF",
     "label": "Template for prompt: landing page to promote photographic courses in studio",
     "dateAdded": "2024-01-22T17:30:03.019Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZrcYJuS65Wg",
+    "label": "Template for prompt: using shadcn create a footer",
+    "dateAdded": "2024-01-22T17:35:03.299Z"
+  },
+  {
+    "url": "https://v0.dev/t/kAX5Uvafdky",
+    "label": "Template for prompt: write me language dropdown for czech and english",
+    "dateAdded": "2024-01-22T17:35:03.299Z"
+  },
+  {
+    "url": "https://v0.dev/t/KJsjvV0UmFx",
+    "label": "Template for prompt: a from with phone input to sent predefined text to Watsapp",
+    "dateAdded": "2024-01-22T17:35:03.299Z"
+  },
+  {
+    "url": "https://v0.dev/t/meCPAMmJJtK",
+    "label": "Template for prompt: give me a nav which has buttons for login and register and the title which locates to the root /",
+    "dateAdded": "2024-01-22T17:35:03.299Z"
+  },
+  {
+    "url": "https://v0.dev/t/JFkbgbEfr91",
+    "label": "Template for prompt: login page inspired by apple's login page",
+    "dateAdded": "2024-01-22T17:35:03.299Z"
+  },
+  {
+    "url": "https://v0.dev/t/d8irMOWfhce",
+    "label": "Template for prompt: Pricing page with starter, standard, and enterprise pricing tiers",
+    "dateAdded": "2024-01-22T17:35:03.300Z"
+  },
+  {
+    "url": "https://v0.dev/t/jwcV1aZF7qG",
+    "label": "Template for prompt: The UI from the Screenshot. That is a hero section with a grid gallery below it. The Grid gallery must show squared images with a title as an overlay.",
+    "dateAdded": "2024-01-22T17:35:03.300Z"
+  },
+  {
+    "url": "https://v0.dev/t/Md50Jj5h9So",
+    "label": "Template for prompt: Landing page with a big header and a subheader. input to collect emails ",
+    "dateAdded": "2024-01-22T17:35:03.300Z"
+  },
+  {
+    "url": "https://v0.dev/t/XrnGUB1O9hk",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T17:35:03.300Z"
+  },
+  {
+    "url": "https://v0.dev/t/GxxLoKZFjKw",
+    "label": "Template for prompt: portfolio for a react developer with an attractive look and options for about, skills, projects and contact ",
+    "dateAdded": "2024-01-22T17:35:03.300Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qpk1xZTJWyF",
+    "label": "Template for prompt: create a modal with check",
+    "dateAdded": "2024-01-22T17:35:03.300Z"
+  },
+  {
+    "url": "https://v0.dev/t/QkanOFDH0pv",
+    "label": "Template for prompt: a taxi operator admin dashboard",
+    "dateAdded": "2024-01-22T17:35:03.300Z"
+  },
+  {
+    "url": "https://v0.dev/t/OjIkvQXq6nf",
+    "label": "Template for prompt: create a UI in react component",
+    "dateAdded": "2024-01-22T17:35:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/UDiZV6fUGEe",
+    "label": "Template for prompt: Skeleton loading screen for a blog post",
+    "dateAdded": "2024-01-22T17:35:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/UsGOByrRIVn",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-22T17:35:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/us8M8rM7uc7",
+    "label": "Template for prompt: A page with the countdown in the center, with live stream status for 3 services under",
+    "dateAdded": "2024-01-22T17:35:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/nXAssbi5PYC",
+    "label": "Template for prompt: Make an UI with 4 switches, for on/off,voltage/current,singlePhase/triplePhase, and AC/DC.\nIt should also have 6 text boxes where I can place the value of the voltage in each phase, and the angle of each phase. This should be modern and fit for a web page. ",
+    "dateAdded": "2024-01-22T17:35:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/YzEPOQRf50b",
+    "label": "Template for prompt: login form page",
+    "dateAdded": "2024-01-22T17:35:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/402vKzsf4kM",
+    "label": "Template for prompt: Generate an image of an ui with 4 switches, for on/off,voltage/current,singlePhase/triplePhase, and AC/DC.\nIt should also have 6 text boxes where I can place the value of the voltage in each phase, and the angle of each phase. This should be modern and fit for a web page. ",
+    "dateAdded": "2024-01-22T17:35:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/vkyW1kGAZvm",
+    "label": "Template for prompt: create a component in React using MUI",
+    "dateAdded": "2024-01-22T17:35:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/U9669MDzU4e",
+    "label": "Template for prompt: Create a feedback modal",
+    "dateAdded": "2024-01-22T17:35:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yaj8DSll8s2",
+    "label": "Template for prompt: write html,css, js code for card animation code for website",
+    "dateAdded": "2024-01-22T17:35:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/0myZFQVTkRF",
+    "label": "Template for prompt: generate a pop-up section for when i click an order to show what products were bought, the price of the order, the adress",
+    "dateAdded": "2024-01-22T17:35:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/tIgqQAWkZrr",
+    "label": "Template for prompt: Here's a current version of a character sheet. It has a character portraits and a side panel, tabs, buttons a table with various information. I would like it to look much more inspiring though and not bland.",
+    "dateAdded": "2024-01-22T17:35:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/DSOLzcfaKTV",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-22T17:35:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/BKiStPq5PtY",
+    "label": "Template for prompt: Create the styles in css for the boxes",
+    "dateAdded": "2024-01-22T17:35:03.302Z"
   }
 ]
