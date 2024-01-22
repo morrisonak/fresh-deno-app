@@ -41693,5 +41693,135 @@
     "url": "https://v0.dev/t/7NLwluD3GAP",
     "label": "Template for prompt: Create a web page layout where the left side contains a long essay, and the right side features multiple multiple-choice questions with five options each.",
     "dateAdded": "2024-01-22T20:45:02.731Z"
+  },
+  {
+    "url": "https://v0.dev/t/hvmHESxd8nr",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T20:50:03.454Z"
+  },
+  {
+    "url": "https://v0.dev/t/Aio0gEAKDh2",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T20:50:03.454Z"
+  },
+  {
+    "url": "https://v0.dev/t/PexWgPQifgZ",
+    "label": "Template for prompt: A website to compare yolov8 models performance on real data and synthetic data. The models are trained on fire and smoke images. First of all an intro that shows examples of real data. Next is a short video of how I generated the synthetic data. Then a small application to automatically label images with owlv2. you can drag and drop or select an image. You have 3 inputs: text prompt, threshold and nms tresholds. The thresholds are sliders from 0-1. Then you have a button to process the image and then when processed you get the image back with labels. The next thing is the comparison of models itself",
+    "dateAdded": "2024-01-22T20:50:03.454Z"
+  },
+  {
+    "url": "https://v0.dev/t/6143Ks0xTVW",
+    "label": "Template for prompt: witty blog design",
+    "dateAdded": "2024-01-22T20:50:03.454Z"
+  },
+  {
+    "url": "https://v0.dev/t/ElQak2bSCBg",
+    "label": "Template for prompt: Crear un formulario de registro de usuario",
+    "dateAdded": "2024-01-22T20:50:03.455Z"
+  },
+  {
+    "url": "https://v0.dev/t/CwAem8PLZLs",
+    "label": "Template for prompt: multi step form to gather client info",
+    "dateAdded": "2024-01-22T20:50:03.455Z"
+  },
+  {
+    "url": "https://v0.dev/t/L7jNbQzVlz9",
+    "label": "Template for prompt: a footer with multiple columms for link section and social media icons",
+    "dateAdded": "2024-01-22T20:50:03.455Z"
+  },
+  {
+    "url": "https://v0.dev/t/NWTvBNBYTWH",
+    "label": "Template for prompt: Generate an fantasy inventory interface for a role playing game like the pillars of eternity franchise",
+    "dateAdded": "2024-01-22T20:50:03.455Z"
+  },
+  {
+    "url": "https://v0.dev/t/7NDPzBOKute",
+    "label": "Template for prompt: A control panel page, with a slider at the top. and Accordions that open up to have items to check whether we need or not. Same visuals as the image",
+    "dateAdded": "2024-01-22T20:50:03.455Z"
+  },
+  {
+    "url": "https://v0.dev/t/zaIy1mvMS8Q",
+    "label": "Template for prompt: design me a sidebar list of cards that include stop details for a FedEx driver making deliveries\nEach card should show the stop type (pickup/delivery), address, apartment #, signature required, stop id, time window, and a gate code",
+    "dateAdded": "2024-01-22T20:50:03.456Z"
+  },
+  {
+    "url": "https://v0.dev/t/vCKftVyY9Wy",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T20:50:03.456Z"
+  },
+  {
+    "url": "https://v0.dev/t/yRkjltmKMhm",
+    "label": "Template for prompt: countdown page for a freelancer",
+    "dateAdded": "2024-01-22T20:50:03.456Z"
+  },
+  {
+    "url": "https://v0.dev/t/rqMmeWS1Pek",
+    "label": "Template for prompt: create 2 tables on one page",
+    "dateAdded": "2024-01-22T20:50:03.456Z"
+  },
+  {
+    "url": "https://v0.dev/t/bPMOJ7ZcWkp",
+    "label": "Template for prompt: A dashboard for a teacher that has multiple courses with multiple students enrolled in them and the amount of money that he has out of courses ",
+    "dateAdded": "2024-01-22T20:50:03.456Z"
+  },
+  {
+    "url": "https://v0.dev/t/pWLMVs1ecIh",
+    "label": "Template for prompt: Create a feed of chat messages between a person looking for customer support and a support agent. Each message should show an avatar and the message content. At the bottom should be a text box for the agent to compose a new message.",
+    "dateAdded": "2024-01-22T20:50:03.456Z"
+  },
+  {
+    "url": "https://v0.dev/t/2m214CzAZHN",
+    "label": "Template for prompt: A dashboard for a smart plug. The smart plug measures the current Power. This should be displayed in a line chart. The smart plug provides total energy consumption. The latest measurement should be provided as a single value. ",
+    "dateAdded": "2024-01-22T20:50:03.457Z"
+  },
+  {
+    "url": "https://v0.dev/t/6ieLORzjXD8",
+    "label": "Template for prompt: hero section",
+    "dateAdded": "2024-01-22T20:50:03.457Z"
+  },
+  {
+    "url": "https://v0.dev/t/kniWkSHqKMG",
+    "label": "Template for prompt: make a template homepage for a keysmith",
+    "dateAdded": "2024-01-22T20:50:03.457Z"
+  },
+  {
+    "url": "https://v0.dev/t/S7V5Fq2cxYj",
+    "label": "Template for prompt: A ui to manage kubernetes clusters",
+    "dateAdded": "2024-01-22T20:50:03.457Z"
+  },
+  {
+    "url": "https://v0.dev/t/n90HVqMROTc",
+    "label": "Template for prompt: i need nice grid galery for my dynamic content",
+    "dateAdded": "2024-01-22T20:50:03.457Z"
+  },
+  {
+    "url": "https://v0.dev/t/19dpTkIjbFa",
+    "label": "Template for prompt: 1. Cabeçalho (Header)\nElementos: Logo \"HubRápido\", menu de navegação simplificado (Início, Recursos, Planos, Suporte), botões para \"Login\" e \"Cadastre-se\".\nChamada para Ação: Um botão destacado \"Teste Grátis por 7 Dias\".\nDesign: Limpo, moderno, com fácil acesso às principais áreas do site.\n2. Banner Principal (Seção Hero)\nSlogan Impactante: \"Venda Mais, Gerencie Melhor\".\nSubtítulo: \"Tudo o que você precisa para gerenciar vendas em marketplaces, em um único lugar.\"\nBotão de Ação: \"Inicie Seu Teste Gratuito Agora\".\nImagem de Fundo: Visual dinâmico e moderno, representando a integração de marketplaces.\n3. Vantagens Únicas\nIntrodução Breve: \"Por que HubRápido é a escolha certa para você?\"\nPontos Chave:\n\"Integração Simples e Poderosa\".\n\"Análise de Dados em Tempo Real\".\n\"Suporte que Entende do seu Negócio\".\n4. Oferta de Plano Único\nDestaque: \"Após o teste, continue por apenas R$ 50/mês. Sem surpresas, sem complicações.\"\nBotão de Informação: \"Saiba Mais sobre Nosso Plano\".",
+    "dateAdded": "2024-01-22T20:50:03.457Z"
+  },
+  {
+    "url": "https://v0.dev/t/NRha1auU3fv",
+    "label": "Template for prompt: A marketplace dashboard to select influencers for paid advertisements",
+    "dateAdded": "2024-01-22T20:50:03.457Z"
+  },
+  {
+    "url": "https://v0.dev/t/ISBrvjb4mQA",
+    "label": "Template for prompt: Rating & Review for a provider",
+    "dateAdded": "2024-01-22T20:50:03.457Z"
+  },
+  {
+    "url": "https://v0.dev/t/gj3CKR2rMn9",
+    "label": "Template for prompt: Page forms using material ui components",
+    "dateAdded": "2024-01-22T20:50:03.457Z"
+  },
+  {
+    "url": "https://v0.dev/t/2D5Fbidho36",
+    "label": "Template for prompt: A form with some parts of it locked that can be unlocked by a toggle. Make it so its obvious that its looked. Also make it in a popup modal",
+    "dateAdded": "2024-01-22T20:50:03.458Z"
+  },
+  {
+    "url": "https://v0.dev/t/bWSHbx3BLE3",
+    "label": "Template for prompt: i need a scroll area on the left field, where fetched posts names ar listed. in the main area the post should be displayed to edit in a editing tool.",
+    "dateAdded": "2024-01-22T20:50:03.458Z"
   }
 ]
