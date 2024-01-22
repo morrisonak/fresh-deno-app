@@ -37703,5 +37703,135 @@
     "url": "https://v0.dev/t/sdiZrC5nFqA",
     "label": "Template for prompt: quiz template form",
     "dateAdded": "2024-01-22T18:10:02.958Z"
+  },
+  {
+    "url": "https://v0.dev/t/80rg7BueETL",
+    "label": "Template for prompt: A page with five cards, each linking to a different route",
+    "dateAdded": "2024-01-22T18:15:04.519Z"
+  },
+  {
+    "url": "https://v0.dev/t/iEpUP3xfqxF",
+    "label": "Template for prompt: generate a navigation menu with a square logo first and a Home link aligned to the left and a sign in button aligned to the right",
+    "dateAdded": "2024-01-22T18:15:04.519Z"
+  },
+  {
+    "url": "https://v0.dev/t/tBqbWiwWWL9",
+    "label": "Template for prompt: create public dashboard display with event list on left and a small photo slideshow / carousel on right.  date, time and weahter also on right.  use dark theme.",
+    "dateAdded": "2024-01-22T18:15:04.520Z"
+  },
+  {
+    "url": "https://v0.dev/t/32rjlfUqFQn",
+    "label": "Template for prompt: A beautiful card for a rider waiting for ride requests with a beautiful and minimalist background",
+    "dateAdded": "2024-01-22T18:15:04.520Z"
+  },
+  {
+    "url": "https://v0.dev/t/bgRlfbDuUkX",
+    "label": "Template for prompt: Simple modern clean popup with slight overlay behind it centered on the screen with a sentence header of medium size and the word \"here\" in the sentence should be a link.",
+    "dateAdded": "2024-01-22T18:15:04.520Z"
+  },
+  {
+    "url": "https://v0.dev/t/wBBYn8r4fGv",
+    "label": "Template for prompt: re-create this interface",
+    "dateAdded": "2024-01-22T18:15:04.520Z"
+  },
+  {
+    "url": "https://v0.dev/t/86RHTuqCErE",
+    "label": "Template for prompt: can you please generate me a application where I have different meal cards",
+    "dateAdded": "2024-01-22T18:15:04.520Z"
+  },
+  {
+    "url": "https://v0.dev/t/1weHhwO2354",
+    "label": "Template for prompt: marketing website for SaaS for freight forwarders",
+    "dateAdded": "2024-01-22T18:15:04.521Z"
+  },
+  {
+    "url": "https://v0.dev/t/DJVxsQ9J6bv",
+    "label": "Template for prompt: give me a responsive horizontal form. the fields are:\nselect - status\nselect - type\ncombobox - country\nreset button\nsubmit button",
+    "dateAdded": "2024-01-22T18:15:04.521Z"
+  },
+  {
+    "url": "https://v0.dev/t/wuzFBG55kj7",
+    "label": "Template for prompt: a porfolio in one page",
+    "dateAdded": "2024-01-22T18:15:04.521Z"
+  },
+  {
+    "url": "https://v0.dev/t/P8fgDWyinXJ",
+    "label": "Template for prompt: Give me a table with patients that have name, insruance carrier, maximum insurance amount and insurance deductible ",
+    "dateAdded": "2024-01-22T18:15:04.521Z"
+  },
+  {
+    "url": "https://v0.dev/t/OfQfhMDSSSy",
+    "label": "Template for prompt: Create a landing page for JS community that organizes meetups and is called \"rz.js\". Use flat colors with dark theme, remember to put some things which will catch the eye of tech-savvy people",
+    "dateAdded": "2024-01-22T18:15:04.521Z"
+  },
+  {
+    "url": "https://v0.dev/t/qn6n5mrYbcm",
+    "label": "Template for prompt: create list room chat",
+    "dateAdded": "2024-01-22T18:15:04.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/heS6aOeO2OG",
+    "label": "Template for prompt: make me a card component for a book, i want it to have a picture of the book cover, title, price, author description, and a button to buy now",
+    "dateAdded": "2024-01-22T18:15:04.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/MjzzyR7xvDY",
+    "label": "Template for prompt: Please build my a responsive application layer with a sidebar on the left",
+    "dateAdded": "2024-01-22T18:15:04.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/OtU2Yh2eIqR",
+    "label": "Template for prompt: An interface for managing app environments on cloudflare workers",
+    "dateAdded": "2024-01-22T18:15:04.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/BgSa5H0YhKC",
+    "label": "Template for prompt: a clean, minimalist search engine hero UI",
+    "dateAdded": "2024-01-22T18:15:04.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/rHucOFXeBmz",
+    "label": "Template for prompt: a component showing a graph diagram where each node is representing a hot topic linked to other node and topics",
+    "dateAdded": "2024-01-22T18:15:04.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/YPdVU0FeB1b",
+    "label": "Template for prompt: page where user select from a list of categories and each category has several items where he can select the item and enter details about it ( name, number, occupation )",
+    "dateAdded": "2024-01-22T18:15:04.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/QaWvmomwuxS",
+    "label": "Template for prompt: Products page in a ecommerce website. I want to also have nice design for out of stock text for unavailable products",
+    "dateAdded": "2024-01-22T18:15:04.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/k0AT5KLQsCJ",
+    "label": "Template for prompt: i need a profile page for a logged in user where they can see each of their social media accounts and whether they are connected (with a button to disconnect), or not connect (with a button to connect)",
+    "dateAdded": "2024-01-22T18:15:04.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/W0L6W374rAL",
+    "label": "Template for prompt: A card github repositories with the following details. \n\n    {\n        \"created\": \"25/04/22\",\n        \"forks\": 30,\n        \"indexed_on\": \"21/01/24\",\n        \"open_issues\": 4,\n        \"repo_description\": \"Long-Inference, High Quality Synthetic Speaker (AI avatar/ AI presenter)\",\n        \"repo_ingestion_status\": \"Code Files Indexed\",\n        \"repo_name\": \"LIHQ\",\n        \"repo_org_name\": \"johnGettings\",\n        \"repo_url\": \"https://github.com/johnGettings/LIHQ\",\n        \"stars\": 197\n    }\n",
+    "dateAdded": "2024-01-22T18:15:04.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/QdGwg5oZy2g",
+    "label": "Template for prompt: multilingual web page dedicated to missing children assistance. It features a top navigation bar with a left-aligned logo, center-aligned navigation links, and a right  English language toggle. The main banner below poses a large question for user engagement. Below this, three icon-based call-to-action buttons correspond to different user needs, likely leading to more information. These icons are a question mark (my child is missing), an exclamation mark (i'm worried my child may go missing), and a group of figures (someone i know has a missing child), each accompanied by brief text.The lower section, set against a white background, offers expandable information categories related to missing children cases (Runaway, Abduction,..), indicated by a plus sign. These are neatly arranged for quick navigation.The sidebar on the left provides main content. The design employs a dark blue and white color scheme, with a clear, clean layout emphasizing ease of access and clarity. ",
+    "dateAdded": "2024-01-22T18:15:04.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/FysywcTMagQ",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-22T18:15:04.524Z"
+  },
+  {
+    "url": "https://v0.dev/t/NDBItMErmKR",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T18:15:04.524Z"
+  },
+  {
+    "url": "https://v0.dev/t/q78pHFv96qt",
+    "label": "Template for prompt: make a linkedin resume finder",
+    "dateAdded": "2024-01-22T18:15:04.524Z"
   }
 ]
