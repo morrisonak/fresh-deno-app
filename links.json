@@ -40023,5 +40023,135 @@
     "url": "https://v0.dev/t/a2gmEs0ClFs",
     "label": "Template for prompt: Dashboard like attached picture",
     "dateAdded": "2024-01-22T19:40:03.026Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yx3u7wxptSR",
+    "label": "Template for prompt: CREATE UI WITH TOP BAR: RECENT WORK OR SAVED WORK,\n\nMENU LIST:\nDEVELOPMENT\nLEARNING\nSETTING\nHELP\nCONTACT\n\nBOTTOM BAR WITH LIVE RUNNING AND SHOW THE NAME OF TOOL: AK ANALYSIS\n ",
+    "dateAdded": "2024-01-22T19:45:03.315Z"
+  },
+  {
+    "url": "https://v0.dev/t/YphhJI6Unno",
+    "label": "Template for prompt: make a blog page for private jet using react tailwindCSS",
+    "dateAdded": "2024-01-22T19:45:03.315Z"
+  },
+  {
+    "url": "https://v0.dev/t/kVYnlyZ2qv4",
+    "label": "Template for prompt: upload and preivew lottie files tailwind",
+    "dateAdded": "2024-01-22T19:45:03.315Z"
+  },
+  {
+    "url": "https://v0.dev/t/z2wXhHzN6Bg",
+    "label": "Template for prompt: marketplace",
+    "dateAdded": "2024-01-22T19:45:03.316Z"
+  },
+  {
+    "url": "https://v0.dev/t/YZETxvz20AR",
+    "label": "Template for prompt: A user settings edit page with uisername , dispalyanme , emailadres and iuser avatar anad a submit button. The avatar should be draggable, and the emailadres input field should be disabled ",
+    "dateAdded": "2024-01-22T19:45:03.316Z"
+  },
+  {
+    "url": "https://v0.dev/t/Eo1BoG8Q0Nw",
+    "label": "Template for prompt: a login/signup page to interchange between both entries",
+    "dateAdded": "2024-01-22T19:45:03.316Z"
+  },
+  {
+    "url": "https://v0.dev/t/f7HCflc4pqx",
+    "label": "Template for prompt: portfolio website with this image as the hero",
+    "dateAdded": "2024-01-22T19:45:03.316Z"
+  },
+  {
+    "url": "https://v0.dev/t/6u5xMLLBUfn",
+    "label": "Template for prompt: portfolio website with this image as the hero",
+    "dateAdded": "2024-01-22T19:45:03.316Z"
+  },
+  {
+    "url": "https://v0.dev/t/u2RFHBBHmHg",
+    "label": "Template for prompt: I need the frontend for an AI based chat app (similar to chat gpt interface) but use comfortable colors. This app is targeted to people that arent super smart but are looking for relationship advice. maybe targeting men that dont like to talk about their feelings but rather have an assistant that keeps the data private and provides some advice for them. in the design there should already be a message being sent that is associated with the issue of relationship advice so it can ask a typical question that causes relationship crisises. ",
+    "dateAdded": "2024-01-22T19:45:03.317Z"
+  },
+  {
+    "url": "https://v0.dev/t/DGxfNh3zxm5",
+    "label": "Template for prompt: a fintech app for newbies",
+    "dateAdded": "2024-01-22T19:45:03.317Z"
+  },
+  {
+    "url": "https://v0.dev/t/wA3VfgpA4vB",
+    "label": "Template for prompt: I want to build a page like attached for patients who have booked appointments with a therapist, I want a mordern way to show past and upcoming appointments. include adddress of the practice in the card with the possibility to click and move to google maps.  add image of doctor. use orange as the main colors",
+    "dateAdded": "2024-01-22T19:45:03.317Z"
+  },
+  {
+    "url": "https://v0.dev/t/zKQnG9cPwMF",
+    "label": "Template for prompt: make a bento grid template for 5 div elements with an image inside",
+    "dateAdded": "2024-01-22T19:45:03.317Z"
+  },
+  {
+    "url": "https://v0.dev/t/RRg9xIDRqhB",
+    "label": "Template for prompt: make an insights dashboard that joins financial and social media stats to show visualizations, include a chat interface for an AI powered assistant",
+    "dateAdded": "2024-01-22T19:45:03.317Z"
+  },
+  {
+    "url": "https://v0.dev/t/Aeb58zgTkL5",
+    "label": "Template for prompt: Page with user log details",
+    "dateAdded": "2024-01-22T19:45:03.318Z"
+  },
+  {
+    "url": "https://v0.dev/t/GFQZI7dbbKB",
+    "label": "Template for prompt: A small user information panel displaying a name and brief welcom",
+    "dateAdded": "2024-01-22T19:45:03.318Z"
+  },
+  {
+    "url": "https://v0.dev/t/k9vDC96ujCO",
+    "label": "Template for prompt: Bento grid for 5 elements",
+    "dateAdded": "2024-01-22T19:45:03.318Z"
+  },
+  {
+    "url": "https://v0.dev/t/kikKZq2QtDP",
+    "label": "Template for prompt: A new and improved twitter tweet in the usecase of a blog",
+    "dateAdded": "2024-01-22T19:45:03.318Z"
+  },
+  {
+    "url": "https://v0.dev/t/83byaZ1stPO",
+    "label": "Template for prompt: create a minimalist dashboard for starting a bot and then a window that tracks transactions. This will need a button to kick off a flow, a status bar that shows the progress of the flow, and then a transaction log that shows specific transactions",
+    "dateAdded": "2024-01-22T19:45:03.318Z"
+  },
+  {
+    "url": "https://v0.dev/t/0AARNXn6690",
+    "label": "Template for prompt: a signin component that looks good both in a page and a modal. include sign in with password, magiclink and google",
+    "dateAdded": "2024-01-22T19:45:03.319Z"
+  },
+  {
+    "url": "https://v0.dev/t/oTf6iktH9yX",
+    "label": "Template for prompt: A home page for a course platform, with a navbar with 4 options aligned to the left, and a profile icon on the right side, which activates a drop-down menu to log out or select the \"My profile\" option. In the body of the page I want a card that shows my profile information, and the last course the user took, with a button that says \"Resume\".\nBelow the card I want a gallery that shows 4 courses with a picture and a small description. All this applying the Material UI styles.",
+    "dateAdded": "2024-01-22T19:45:03.319Z"
+  },
+  {
+    "url": "https://v0.dev/t/JZwuoXoY7Dr",
+    "label": "Template for prompt: 1200px per 630px div with 20px padding an inside contained div ",
+    "dateAdded": "2024-01-22T19:45:03.319Z"
+  },
+  {
+    "url": "https://v0.dev/t/seIenmE6IJP",
+    "label": "Template for prompt: card e commerce",
+    "dateAdded": "2024-01-22T19:45:03.319Z"
+  },
+  {
+    "url": "https://v0.dev/t/AHlnbJWJO5P",
+    "label": "Template for prompt: i need a landing page design for an ai-based chat app. the target group are people in relationships that need advice on problems or issues they might have at the moment. the message that should be on the mockup should also be associated with that topic. I want the colors to be Soft blues, greens, and neutral tones to get a comfortable atmosphere",
+    "dateAdded": "2024-01-22T19:45:03.319Z"
+  },
+  {
+    "url": "https://v0.dev/t/mOCCNoCTXxr",
+    "label": "Template for prompt: A dashboard for our app where we can add schools see schools add drivers see drivers add children assign children slots for picking up them for school",
+    "dateAdded": "2024-01-22T19:45:03.320Z"
+  },
+  {
+    "url": "https://v0.dev/t/iPfI2e79TgX",
+    "label": "Template for prompt: a terminal like window for logs with colors ",
+    "dateAdded": "2024-01-22T19:45:03.320Z"
+  },
+  {
+    "url": "https://v0.dev/t/lln0QoTwi58",
+    "label": "Template for prompt:  a screen recording web app to create loom like videos instantly",
+    "dateAdded": "2024-01-22T19:45:03.320Z"
   }
 ]
