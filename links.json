@@ -34913,5 +34913,135 @@
     "url": "https://v0.dev/t/UtJtJBOUSz1",
     "label": "Template for prompt: a project page with a description, todos and comments",
     "dateAdded": "2024-01-22T16:20:03.096Z"
+  },
+  {
+    "url": "https://v0.dev/t/KNBbxFGoCfn",
+    "label": "Template for prompt: Product card with image, price, brand, add cart button, category, discount percentage, name",
+    "dateAdded": "2024-01-22T16:25:03.575Z"
+  },
+  {
+    "url": "https://v0.dev/t/wjfWv7mof26",
+    "label": "Template for prompt: redesign with animation on the chevron",
+    "dateAdded": "2024-01-22T16:25:03.575Z"
+  },
+  {
+    "url": "https://v0.dev/t/3UhuVDVOcC3",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-22T16:25:03.575Z"
+  },
+  {
+    "url": "https://v0.dev/t/IKOTosOT5r8",
+    "label": "Template for prompt: create a popup for the user button with links with icons to\nprofile\nmy ads \nfavorite \nlogout ",
+    "dateAdded": "2024-01-22T16:25:03.575Z"
+  },
+  {
+    "url": "https://v0.dev/t/vWNGU89qixa",
+    "label": "Template for prompt: accordeon",
+    "dateAdded": "2024-01-22T16:25:03.576Z"
+  },
+  {
+    "url": "https://v0.dev/t/1ctnGZx5jZY",
+    "label": "Template for prompt: create a form with three input number named in order: Focus Time (minutes), Rest Time (minutes) , Extended Rest Time (minutes). and a text area named \"Block List (each entry in a new line)\"",
+    "dateAdded": "2024-01-22T16:25:03.576Z"
+  },
+  {
+    "url": "https://v0.dev/t/wKPXbJzwXK3",
+    "label": "Template for prompt: dashboard with charts for a mes application",
+    "dateAdded": "2024-01-22T16:25:03.576Z"
+  },
+  {
+    "url": "https://v0.dev/t/PxBrXPpIip1",
+    "label": "Template for prompt: a customizable toggle button component",
+    "dateAdded": "2024-01-22T16:25:03.576Z"
+  },
+  {
+    "url": "https://v0.dev/t/0RFHa8ocYfh",
+    "label": "Template for prompt: landing page for my ai startup",
+    "dateAdded": "2024-01-22T16:25:03.576Z"
+  },
+  {
+    "url": "https://v0.dev/t/iIuJ4RlqGJK",
+    "label": "Template for prompt: A table to manage reservations.\n\nVertically, each row is dedicated to a date and time\n\nHorizontally, each column is dedicated to a service\n\nEach cell contains FREE or the name of the customer\n\n\nUI must be state of the art, pleasant, and mobile friendly\n\n\nIt is visually pleasant to see when a cell is FREE because it has a freen light background",
+    "dateAdded": "2024-01-22T16:25:03.576Z"
+  },
+  {
+    "url": "https://v0.dev/t/825I9IfL6FO",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T16:25:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/LimOoJEgwju",
+    "label": "Template for prompt: temazcal web page",
+    "dateAdded": "2024-01-22T16:25:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/qNeGd9fCjUR",
+    "label": "Template for prompt: page avec la caméra au milieu de l'écran qui lis et affiche le contenue a l'écran",
+    "dateAdded": "2024-01-22T16:25:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/8XJcPcwn84m",
+    "label": "Template for prompt: Create a calendar component where each month is shown in the screen view",
+    "dateAdded": "2024-01-22T16:25:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/8e6mpC9hxm8",
+    "label": "Template for prompt: i want to display a table with Merchant Country\t, Merchant URL,\tMerchant Name,\tTerminal Label and \tVerification Ok fields",
+    "dateAdded": "2024-01-22T16:25:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/mm5rPjlrFn6",
+    "label": "Template for prompt: a profile page where users can see their name, email and change their password",
+    "dateAdded": "2024-01-22T16:25:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/2bxR4IDgQJV",
+    "label": "Template for prompt: A SaaS dashboard ",
+    "dateAdded": "2024-01-22T16:25:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/psSqq017uXV",
+    "label": "Template for prompt: mobile bazaar app\n - A search box\n- The results list\n- Detailed product description",
+    "dateAdded": "2024-01-22T16:25:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/vgvWVSUbfx1",
+    "label": "Template for prompt: a file upload and preview of the file using shadcn ",
+    "dateAdded": "2024-01-22T16:25:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/OJMNwZ0wM8z",
+    "label": "Template for prompt: A table to manage reservations.\n\nVertically, each row is dedicated to a date and time\n\nHorizontally, each column is dedicated to a service\n\nEach cell contains FREE or the name of the customer\n\n\nUI must be state of the art, pleasant, and mobile friendly",
+    "dateAdded": "2024-01-22T16:25:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/PJ9c0Eqov7w",
+    "label": "Template for prompt: genera un grafico de fondo negro",
+    "dateAdded": "2024-01-22T16:25:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/jWHg9cJMb25",
+    "label": "Template for prompt: a login form",
+    "dateAdded": "2024-01-22T16:25:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/L4OoKoqIcSI",
+    "label": "Template for prompt: bazar app mivil\n - Una caja de búsqueda\n- La lista de resultados\n- Descripción del detalle del producto",
+    "dateAdded": "2024-01-22T16:25:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/O0xVE9nCi2o",
+    "label": "Template for prompt: Login page where you can register and log in using Google, Apple, or email address",
+    "dateAdded": "2024-01-22T16:25:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/h3yvPLfWQ5Q",
+    "label": "Template for prompt: I want to create a webpage that will be a report. the report will be data on the user's smart bird feeder. The key metrics will be numberOfUniqueSpecies, busiestHourOfDay overall, number of times each species visited, and the bussies hour for each species  ",
+    "dateAdded": "2024-01-22T16:25:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/IBwoL5Br935",
+    "label": "Template for prompt: nabvar with facebook ui",
+    "dateAdded": "2024-01-22T16:25:03.579Z"
   }
 ]
