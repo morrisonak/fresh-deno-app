@@ -41563,5 +41563,135 @@
     "url": "https://v0.dev/t/r4XgUMYjE5K",
     "label": "Template for prompt: landing page for a startup called kanun ai",
     "dateAdded": "2024-01-22T20:40:02.643Z"
+  },
+  {
+    "url": "https://v0.dev/t/pWLMVs1ecIh",
+    "label": "Template for prompt: Create a feed of chat messages between a person looking for customer support and a support agent. Each message should show an avatar and the message content. At the bottom should be a text box for the agent to compose a new message.",
+    "dateAdded": "2024-01-22T20:45:02.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/2m214CzAZHN",
+    "label": "Template for prompt: A dashboard for a smart plug. The smart plug measures the current Power. This should be displayed in a line chart. The smart plug provides total energy consumption. The latest measurement should be provided as a single value. ",
+    "dateAdded": "2024-01-22T20:45:02.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/6ieLORzjXD8",
+    "label": "Template for prompt: hero section",
+    "dateAdded": "2024-01-22T20:45:02.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/kniWkSHqKMG",
+    "label": "Template for prompt: make a template homepage for a keysmith",
+    "dateAdded": "2024-01-22T20:45:02.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/S7V5Fq2cxYj",
+    "label": "Template for prompt: A ui to manage kubernetes clusters",
+    "dateAdded": "2024-01-22T20:45:02.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/n90HVqMROTc",
+    "label": "Template for prompt: i need nice grid galery for my dynamic content",
+    "dateAdded": "2024-01-22T20:45:02.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/19dpTkIjbFa",
+    "label": "Template for prompt: 1. Cabeçalho (Header)\nElementos: Logo \"HubRápido\", menu de navegação simplificado (Início, Recursos, Planos, Suporte), botões para \"Login\" e \"Cadastre-se\".\nChamada para Ação: Um botão destacado \"Teste Grátis por 7 Dias\".\nDesign: Limpo, moderno, com fácil acesso às principais áreas do site.\n2. Banner Principal (Seção Hero)\nSlogan Impactante: \"Venda Mais, Gerencie Melhor\".\nSubtítulo: \"Tudo o que você precisa para gerenciar vendas em marketplaces, em um único lugar.\"\nBotão de Ação: \"Inicie Seu Teste Gratuito Agora\".\nImagem de Fundo: Visual dinâmico e moderno, representando a integração de marketplaces.\n3. Vantagens Únicas\nIntrodução Breve: \"Por que HubRápido é a escolha certa para você?\"\nPontos Chave:\n\"Integração Simples e Poderosa\".\n\"Análise de Dados em Tempo Real\".\n\"Suporte que Entende do seu Negócio\".\n4. Oferta de Plano Único\nDestaque: \"Após o teste, continue por apenas R$ 50/mês. Sem surpresas, sem complicações.\"\nBotão de Informação: \"Saiba Mais sobre Nosso Plano\".",
+    "dateAdded": "2024-01-22T20:45:02.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/NRha1auU3fv",
+    "label": "Template for prompt: A marketplace dashboard to select influencers for paid advertisements",
+    "dateAdded": "2024-01-22T20:45:02.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/ISBrvjb4mQA",
+    "label": "Template for prompt: Rating & Review for a provider",
+    "dateAdded": "2024-01-22T20:45:02.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/gj3CKR2rMn9",
+    "label": "Template for prompt: Page forms using material ui components",
+    "dateAdded": "2024-01-22T20:45:02.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/r7Rsdu51Pgb",
+    "label": "Template for prompt: Page forms using material ui components",
+    "dateAdded": "2024-01-22T20:45:02.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/2D5Fbidho36",
+    "label": "Template for prompt: A form with some parts of it locked that can be unlocked by a toggle. Make it so its obvious that its looked. Also make it in a popup modal",
+    "dateAdded": "2024-01-22T20:45:02.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/bWSHbx3BLE3",
+    "label": "Template for prompt: i need a scroll area on the left field, where fetched posts names ar listed. in the main area the post should be displayed to edit in a editing tool.",
+    "dateAdded": "2024-01-22T20:45:02.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/DOZ17qAib5s",
+    "label": "Template for prompt: Course page like in Exercism.io",
+    "dateAdded": "2024-01-22T20:45:02.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/FclZCIU3amn",
+    "label": "Template for prompt: Give me a minimalistic page listing various item cards",
+    "dateAdded": "2024-01-22T20:45:02.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/OP0E799pqNy",
+    "label": "Template for prompt: An admin dashboard that handles bookings on a car shipping website",
+    "dateAdded": "2024-01-22T20:45:02.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/kYoyaKvuS1W",
+    "label": "Template for prompt: create a checkbox that is 20px in height and width scaling the tick to match the box size",
+    "dateAdded": "2024-01-22T20:45:02.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/LuM4QowE166",
+    "label": "Template for prompt: create ma a prcing page where were you can buy our ai video creating service depending on the minute add a scroll bar to adjust how many minutes you want. But we don't charge by month we charge only buy how many minutes you use",
+    "dateAdded": "2024-01-22T20:45:02.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/5Cx7MxtSX9C",
+    "label": "Template for prompt: create a table with a search bar which allows to search rows by name. The table is part of dashboard",
+    "dateAdded": "2024-01-22T20:45:02.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/lhVJMCcF7UE",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-22T20:45:02.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/SgJQhCIdF42",
+    "label": "Template for prompt: Create a dashboard page that contains a table with columns name, version, and last upgrade date. Also, add a search above this.",
+    "dateAdded": "2024-01-22T20:45:02.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/XQcFcr2HiAu",
+    "label": "Template for prompt: modernize this",
+    "dateAdded": "2024-01-22T20:45:02.731Z"
+  },
+  {
+    "url": "https://v0.dev/t/jcjD48NRUWE",
+    "label": "Template for prompt: Create a date picker with time range but without inputs",
+    "dateAdded": "2024-01-22T20:45:02.731Z"
+  },
+  {
+    "url": "https://v0.dev/t/1RvEwXtrdnh",
+    "label": "Template for prompt: create a loading component or page ",
+    "dateAdded": "2024-01-22T20:45:02.731Z"
+  },
+  {
+    "url": "https://v0.dev/t/iIvfxLAwHBK",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T20:45:02.731Z"
+  },
+  {
+    "url": "https://v0.dev/t/7NLwluD3GAP",
+    "label": "Template for prompt: Create a web page layout where the left side contains a long essay, and the right side features multiple multiple-choice questions with five options each.",
+    "dateAdded": "2024-01-22T20:45:02.731Z"
   }
 ]
