@@ -33633,5 +33633,130 @@
     "url": "https://v0.dev/t/1WegB03huHS",
     "label": "Template for prompt: create a page to make a form for a travel plan for my girl friend website",
     "dateAdded": "2024-01-22T15:30:03.517Z"
+  },
+  {
+    "url": "https://v0.dev/t/J2BM8xPCvsF",
+    "label": "Template for prompt: \nGenerate a comprehensive design concept for the homepage of a handyman services marketplace app. Consider a color scheme that exudes professionalism and warmth, creating a trustworthy and inviting atmosphere. Design a logo that captures the essence of connecting handymen with users seeking manual services. Develop a header with intuitive navigation, a prominent search bar, and quick access to essential features. Create a section highlighting featured services to attract user attention, emphasizing variety and relevance. Devise a user-friendly onboarding process guiding users through profile setup and preferences.\n\nDesign a search bar and filtering options facilitating easy discovery of specific services, handymen, or locations. Develop individual handyman profiles showcasing skills, reviews, and previous work to build trust. Design an intuitive booking and scheduling interface allowing users to select services, choose time slots, and confirm appointments.",
+    "dateAdded": "2024-01-22T15:35:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/3NgK33IMH4F",
+    "label": "Template for prompt: A multi level sidebar menu",
+    "dateAdded": "2024-01-22T15:35:03.454Z"
+  },
+  {
+    "url": "https://v0.dev/t/WjL4SguP4R8",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T15:35:03.454Z"
+  },
+  {
+    "url": "https://v0.dev/t/zRKGfWS6ROu",
+    "label": "Template for prompt: dashboard for products tab for a stock management webapp where i can see the products in a data table, add, modify and delete them",
+    "dateAdded": "2024-01-22T15:35:03.454Z"
+  },
+  {
+    "url": "https://v0.dev/t/rzTuOGLUyN0",
+    "label": "Template for prompt: can you create an e-commerce dashboard welcome screen",
+    "dateAdded": "2024-01-22T15:35:03.455Z"
+  },
+  {
+    "url": "https://v0.dev/t/KgKmr5gY4RJ",
+    "label": "Template for prompt: candidat profile to view here infos and to comment ",
+    "dateAdded": "2024-01-22T15:35:03.455Z"
+  },
+  {
+    "url": "https://v0.dev/t/1R1BZbfw3fZ",
+    "label": "Template for prompt: candidat profile to view here infos and to comment ",
+    "dateAdded": "2024-01-22T15:35:03.455Z"
+  },
+  {
+    "url": "https://v0.dev/t/nWvni2OpFA8",
+    "label": "Template for prompt: Social login button",
+    "dateAdded": "2024-01-22T15:35:03.456Z"
+  },
+  {
+    "url": "https://v0.dev/t/sFGFyD279d6",
+    "label": "Template for prompt: bilingual French-English web page dedicated to missing children assistance. It features a top navigation bar with a left-aligned logo, center-aligned navigation links, and a right-aligned \"Donate Now\" button with an English language toggle. The main banner below poses a large question for user engagement. Below this, three icon-based call-to-action buttons correspond to different user needs, likely leading to more information. These icons are a question mark, an exclamation mark, and a group of figures, each accompanied by brief text.\n\nThe lower section, set against a white background, offers expandable information categories related to missing children cases, indicated by a plus sign. These are neatly arranged for quick navigation.\n\nThe sidebar on the left provides mission information and a prominent support phone number. The design employs a dark blue and white color scheme, with a clear, clean layout emphasizing ease of access and clarity. The interface balances visual elements with",
+    "dateAdded": "2024-01-22T15:35:03.458Z"
+  },
+  {
+    "url": "https://v0.dev/t/l2HHvH1fQhH",
+    "label": "Template for prompt: a links/action board where user can click link or buttons that fun some functionality: \ttype Link = {\n\t\tlabel: string\n\t\ticon: typeof FileText\n\t\thref?: string\n\t\tallowedRoles?: UserRole[]\n\t\taction?: () => void\n\t}",
+    "dateAdded": "2024-01-22T15:35:03.458Z"
+  },
+  {
+    "url": "https://v0.dev/t/GJYHwBbpdcT",
+    "label": "Template for prompt: a simple intuitive crypto staking interface with\nStake Tokens\nUnstake Tokens\nUnstake Cooldown\nClaim Reward\nClaim Reward Cooldown\nStake End Date\nStake Running Time\nTotal Eth Claimed\nAddToStake Tokens\nTotal Stake Value",
+    "dateAdded": "2024-01-22T15:35:03.458Z"
+  },
+  {
+    "url": "https://v0.dev/t/10vWs6kVmI3",
+    "label": "Template for prompt: create a page to plan my trip with a lot feature and spearate by day follow like day 1 day 2 and some place to go with day 1 and day 2",
+    "dateAdded": "2024-01-22T15:35:03.459Z"
+  },
+  {
+    "url": "https://v0.dev/t/HoetGvbpPyk",
+    "label": "Template for prompt: simple habit tracker",
+    "dateAdded": "2024-01-22T15:35:03.459Z"
+  },
+  {
+    "url": "https://v0.dev/t/aXnCIqyA3aU",
+    "label": "Template for prompt: UI to link accounts. Display of two vertically aligned accounts with a key icon in between. Button to confirm the link.",
+    "dateAdded": "2024-01-22T15:35:03.459Z"
+  },
+  {
+    "url": "https://v0.dev/t/94uNr6fWpE7",
+    "label": "Template for prompt: a webapp that converts uploaded ics file (ical format into json format",
+    "dateAdded": "2024-01-22T15:35:03.459Z"
+  },
+  {
+    "url": "https://v0.dev/t/kD0i2XFG4eR",
+    "label": "Template for prompt: a app about car crashes where users can interact",
+    "dateAdded": "2024-01-22T15:35:03.459Z"
+  },
+  {
+    "url": "https://v0.dev/t/M6vdiQXbxlz",
+    "label": "Template for prompt: login form",
+    "dateAdded": "2024-01-22T15:35:03.459Z"
+  },
+  {
+    "url": "https://v0.dev/t/YHyOQke7UhH",
+    "label": "Template for prompt: invoice page",
+    "dateAdded": "2024-01-22T15:35:03.459Z"
+  },
+  {
+    "url": "https://v0.dev/t/zFa1303Cmqe",
+    "label": "Template for prompt: A details view for a recipe, allowing the user to follow the recipe while always having easy access to the ingredients. It should be possible to mark completed steps in the recipe.",
+    "dateAdded": "2024-01-22T15:35:03.460Z"
+  },
+  {
+    "url": "https://v0.dev/t/YvfeL5o4OwI",
+    "label": "Template for prompt: a worldmap depicting all the single countries, clickable",
+    "dateAdded": "2024-01-22T15:35:03.460Z"
+  },
+  {
+    "url": "https://v0.dev/t/yfC9JkZBJL9",
+    "label": "Template for prompt: Tree nested card display info",
+    "dateAdded": "2024-01-22T15:35:03.460Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wqzs7SB3H5F",
+    "label": "Template for prompt: kanban view for status on todos",
+    "dateAdded": "2024-01-22T15:35:03.460Z"
+  },
+  {
+    "url": "https://v0.dev/t/epppaIyc2xR",
+    "label": "Template for prompt: A landing page for photographers designer portfolio ",
+    "dateAdded": "2024-01-22T15:35:03.460Z"
+  },
+  {
+    "url": "https://v0.dev/t/2jVsIyQT4oh",
+    "label": "Template for prompt: A list of invoices in a collapsible card",
+    "dateAdded": "2024-01-22T15:35:03.460Z"
+  },
+  {
+    "url": "https://v0.dev/t/BRVd5StrzqP",
+    "label": "Template for prompt: desktop sidebar with a toggle to keep it fixed (expanded)",
+    "dateAdded": "2024-01-22T15:35:03.460Z"
   }
 ]
