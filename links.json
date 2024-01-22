@@ -33253,5 +33253,135 @@
     "url": "https://v0.dev/t/RUXUOZIbqKP",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2024-01-22T15:15:04.121Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y5BYiIcsSej",
+    "label": "Template for prompt: Minimalistic login-screen, with header, that features provided logo and text \"Magma\", fixed footer with copyright, and login form in the middle",
+    "dateAdded": "2024-01-22T15:20:03.745Z"
+  },
+  {
+    "url": "https://v0.dev/t/ax5aV8Ez5z4",
+    "label": "Template for prompt: CSIS 5857: Encoding and Encryption\n\nAssignment 1: Symmetric Key Encryption\n\nDue Friday, Feb. 16\n\nThese problems will give you experience with thinking about certain problems, attacks, and other security issues related to symmetric block ciphers, as well as experience with using AES.\n•\tGive your answers using a word processor (such as Word), instead of hand-written form. I require it in some sort of editable form so that I can insert grades and comments, and then send it back to you.\n•\tGive your Banner ID at the top of your answers, as you will be using it in a couple of the questions.\n•\tShow your work whenever possible (it will help greatly with any partial credit).\n\n\n\n1.\tUse the following permutation box to encrypt the last two digits of your Banner ID (adding 2 to each digit first):\n\n7\t6\t1\t3\t5\t8\t2\t4\n\nSpecifically:\n\na)\tAdd 2 to each of your last 2 digits and then compute the 4 bit binary numbers for those values.\nFor example, if the last two digits were 94, this would be 11 and 6, whi",
+    "dateAdded": "2024-01-22T15:20:03.746Z"
+  },
+  {
+    "url": "https://v0.dev/t/U1c5wpQfA5E",
+    "label": "Template for prompt: a simple intuitive user interface for staking, 3 main tabs - my stake, my history, all stats\nclaim button\nstake amount\nadd to stake amount\ntimer for claim etc",
+    "dateAdded": "2024-01-22T15:20:03.746Z"
+  },
+  {
+    "url": "https://v0.dev/t/7YhRscSPCok",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-22T15:20:03.746Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q9jvrXVsewI",
+    "label": "Template for prompt: necesito una tabla con datos y alfinal 3 botones de acciones",
+    "dateAdded": "2024-01-22T15:20:03.746Z"
+  },
+  {
+    "url": "https://v0.dev/t/cs1v1273PJL",
+    "label": "Template for prompt: como mejorarias esa vista?",
+    "dateAdded": "2024-01-22T15:20:03.746Z"
+  },
+  {
+    "url": "https://v0.dev/t/pW9EvYKH0pf",
+    "label": "Template for prompt: イベントのスピーカーの紹介カードを作成してください。\n構成要素は下記の四つです。\n- 顔写真\n- 氏名\n- 所属企業\n- 役職名\n\n",
+    "dateAdded": "2024-01-22T15:20:03.746Z"
+  },
+  {
+    "url": "https://v0.dev/t/SSG1sMNaN6E",
+    "label": "Template for prompt: discussion forum dashboard",
+    "dateAdded": "2024-01-22T15:20:03.747Z"
+  },
+  {
+    "url": "https://v0.dev/t/MIQ0XkrSXdT",
+    "label": "Template for prompt: a minimalist blog post template",
+    "dateAdded": "2024-01-22T15:20:03.747Z"
+  },
+  {
+    "url": "https://v0.dev/t/YNwWoVyQr6c",
+    "label": "Template for prompt: Crea una navbar que sea un imput y abajo un recaudro que quede bien esteticamente",
+    "dateAdded": "2024-01-22T15:20:03.747Z"
+  },
+  {
+    "url": "https://v0.dev/t/8e6NKzQ1tST",
+    "label": "Template for prompt: A landing page for a Component Library for internal teams",
+    "dateAdded": "2024-01-22T15:20:03.747Z"
+  },
+  {
+    "url": "https://v0.dev/t/uMvjII9h2ya",
+    "label": "Template for prompt: An product landing page for a perfume brand",
+    "dateAdded": "2024-01-22T15:20:03.748Z"
+  },
+  {
+    "url": "https://v0.dev/t/wPXoH2tqNP6",
+    "label": "Template for prompt: create this button",
+    "dateAdded": "2024-01-22T15:20:03.748Z"
+  },
+  {
+    "url": "https://v0.dev/t/6irUSXYwmYY",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-22T15:20:03.748Z"
+  },
+  {
+    "url": "https://v0.dev/t/OL3sDJQM21F",
+    "label": "Template for prompt: java program - Archan is a professor at the Academy Of Technology. One day he calls his student Niladri to play an interesting game. He asked Niladri to imagine an empty bucket. He then does k queries. In each query he asks Niladri to do either of the following operations:\n\nAdd a number v to the bucket.\nGet the median of all numbers added to the bucket.\nNiladri needs to answer Archan only in the type 2 query. Can you help Niladri to do so?\n\nNote: Answer within 10-5 of the actual answer will be accepted.",
+    "dateAdded": "2024-01-22T15:20:03.748Z"
+  },
+  {
+    "url": "https://v0.dev/t/FBGk2MoYC3O",
+    "label": "Template for prompt: NFTマーケットプレイスのトップページのUIをSF映画風に考えてください",
+    "dateAdded": "2024-01-22T15:20:03.748Z"
+  },
+  {
+    "url": "https://v0.dev/t/fJDkzKXMaeh",
+    "label": "Template for prompt: give me mobile book reading app homepage",
+    "dateAdded": "2024-01-22T15:20:03.749Z"
+  },
+  {
+    "url": "https://v0.dev/t/6mwhHDZuVNy",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-22T15:20:03.749Z"
+  },
+  {
+    "url": "https://v0.dev/t/KovymDM0Icp",
+    "label": "Template for prompt: dashboard with left panel",
+    "dateAdded": "2024-01-22T15:20:03.749Z"
+  },
+  {
+    "url": "https://v0.dev/t/8aeNEzOn3oR",
+    "label": "Template for prompt: a voice ui gui",
+    "dateAdded": "2024-01-22T15:20:03.749Z"
+  },
+  {
+    "url": "https://v0.dev/t/XvQ1hxOu4ui",
+    "label": "Template for prompt: restaker.xyz is an aggregated dashboard for all restaking protocols built on Eigenlayer. It lists in rows all protocols you have staked in. Also has a unified UI for staking eth in any of the restaking protocols",
+    "dateAdded": "2024-01-22T15:20:03.749Z"
+  },
+  {
+    "url": "https://v0.dev/t/r9Up9U81eRr",
+    "label": "Template for prompt: retail pos screen",
+    "dateAdded": "2024-01-22T15:20:03.749Z"
+  },
+  {
+    "url": "https://v0.dev/t/jFXfs0HPOmN",
+    "label": "Template for prompt: contact us form ",
+    "dateAdded": "2024-01-22T15:20:03.750Z"
+  },
+  {
+    "url": "https://v0.dev/t/aewr2m5O9pO",
+    "label": "Template for prompt: A tooltip component",
+    "dateAdded": "2024-01-22T15:20:03.750Z"
+  },
+  {
+    "url": "https://v0.dev/t/C67J1lkYT8h",
+    "label": "Template for prompt: candidat profile ",
+    "dateAdded": "2024-01-22T15:20:03.750Z"
+  },
+  {
+    "url": "https://v0.dev/t/44k2IbJgSAO",
+    "label": "Template for prompt: instagram reels",
+    "dateAdded": "2024-01-22T15:20:03.751Z"
   }
 ]
