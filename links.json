@@ -32753,5 +32753,125 @@
     "url": "https://v0.dev/t/qnOWKcwTVLx",
     "label": "Template for prompt: make a netflix like login page, dark theme",
     "dateAdded": "2024-01-22T14:55:03.158Z"
+  },
+  {
+    "url": "https://v0.dev/t/uzjuAUVfAmz",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-22T15:00:04.053Z"
+  },
+  {
+    "url": "https://v0.dev/t/DGnx7ZGM8X2",
+    "label": "Template for prompt: A responsive table containing 5 columns: id, status, created at time, request (json), response (plain text), and ip address",
+    "dateAdded": "2024-01-22T15:00:04.053Z"
+  },
+  {
+    "url": "https://v0.dev/t/L7lrPQsQOhe",
+    "label": "Template for prompt: Tree view",
+    "dateAdded": "2024-01-22T15:00:04.053Z"
+  },
+  {
+    "url": "https://v0.dev/t/PTy6y7Sk3OV",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T15:00:04.054Z"
+  },
+  {
+    "url": "https://v0.dev/t/doC3jutqiK8",
+    "label": "Template for prompt: a stock web page in the form of a table with a small image in the left-hand column followed by some text in the second column",
+    "dateAdded": "2024-01-22T15:00:04.054Z"
+  },
+  {
+    "url": "https://v0.dev/t/rUJ2pla7Jug",
+    "label": "Template for prompt: footer",
+    "dateAdded": "2024-01-22T15:00:04.054Z"
+  },
+  {
+    "url": "https://v0.dev/t/p0VUFBZTyj6",
+    "label": "Template for prompt: no-code app to build pages with drag and drop component, resizable grid",
+    "dateAdded": "2024-01-22T15:00:04.054Z"
+  },
+  {
+    "url": "https://v0.dev/t/oF32SU7jqNJ",
+    "label": "Template for prompt: product detail page",
+    "dateAdded": "2024-01-22T15:00:04.054Z"
+  },
+  {
+    "url": "https://v0.dev/t/lTmNf8bxm55",
+    "label": "Template for prompt: write html and css code of the provided pictures with responsiveness",
+    "dateAdded": "2024-01-22T15:00:04.054Z"
+  },
+  {
+    "url": "https://v0.dev/t/q9k1mNlTtUy",
+    "label": "Template for prompt: login and signup form",
+    "dateAdded": "2024-01-22T15:00:04.055Z"
+  },
+  {
+    "url": "https://v0.dev/t/8XRDbx4yHw4",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-22T15:00:04.055Z"
+  },
+  {
+    "url": "https://v0.dev/t/sLpWjIUUgZV",
+    "label": "Template for prompt: no-code app, drag and drop component, resizable grid",
+    "dateAdded": "2024-01-22T15:00:04.055Z"
+  },
+  {
+    "url": "https://v0.dev/t/lyco8HjIomH",
+    "label": "Template for prompt: Create de code for this screenshot",
+    "dateAdded": "2024-01-22T15:00:04.055Z"
+  },
+  {
+    "url": "https://v0.dev/t/oFwREb2ZlGQ",
+    "label": "Template for prompt: generate modern ui application status/title bar in shadcn",
+    "dateAdded": "2024-01-22T15:00:04.055Z"
+  },
+  {
+    "url": "https://v0.dev/t/UcrgUCIEHXF",
+    "label": "Template for prompt: create me a settings page where someone can change their display name",
+    "dateAdded": "2024-01-22T15:00:04.056Z"
+  },
+  {
+    "url": "https://v0.dev/t/t3Gal3qns1e",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T15:00:04.056Z"
+  },
+  {
+    "url": "https://v0.dev/t/U1qEoAIqevo",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T15:00:04.056Z"
+  },
+  {
+    "url": "https://v0.dev/t/UO7mZlbNwqL",
+    "label": "Template for prompt: Product Requirements Document (PRD) for Aiode Lead Sheet System\n\nIntroduction:\nThis PRD details the creation of the Aiode Lead Sheet System, focusing on a new producer environment for composing session instructions and a musician interface for a graphical lead sheet representation. The system is designed to transform project data into JSON format and represent it as a graphical lead sheet, hosted online and accessible through a unique URL. \n\nThis system is an enabler for us to create training datasets for future musicians.\n\nThe Problem: \nIn the current state of the Aiode platform, there is a communication gap between producers and musicians regarding the delivery of session instructions. Producers lack a streamlined method to express musical instructions such as dynamics, complexities, fills, special effects and group parameters in a format that musicians can quickly interpret and apply. The existing system does not support an easy-to-understand, graphical representation of these instr",
+    "dateAdded": "2024-01-22T15:00:04.056Z"
+  },
+  {
+    "url": "https://v0.dev/t/Je4Dd8jRYdy",
+    "label": "Template for prompt: image database layout with navigation and categories",
+    "dateAdded": "2024-01-22T15:00:04.056Z"
+  },
+  {
+    "url": "https://v0.dev/t/QqN1lzDhZJ3",
+    "label": "Template for prompt: make me an interface inspired from spotify interface",
+    "dateAdded": "2024-01-22T15:00:04.056Z"
+  },
+  {
+    "url": "https://v0.dev/t/ShStNJdOOLn",
+    "label": "Template for prompt: A landing page hero section of the website about a mobile app that includes google play store and apple appstore buttons",
+    "dateAdded": "2024-01-22T15:00:04.057Z"
+  },
+  {
+    "url": "https://v0.dev/t/j93t4TFGrez",
+    "label": "Template for prompt: [\n    {\n        tramo: 'A',\n        ncantidanecesaria: 6,\n        productos: [\n            { cnombreproducto: 'Producto A', valor: 1 },\n            { cnombreproducto: 'Producto B', valor: 1 },\n            { cnombreproducto: 'Producto C', valor: 0.25 },\n        ],\n    },\n    {\n        tramo: 'B',\n        ncantidanecesaria: 1,\n        productos: [\n            { cnombreproducto: 'Producto D', valor: 1 },\n        ],\n    },\n    {\n        tramo: 'C',\n        ncantidanecesaria: 0,\n        productos: [\n            { cnombreproducto: 'Producto E', valor: 0 },\n        ],\n    },\n   ] crea una tabla que muestre cada dato en una celda propia, y agrupa por la filas de la columna tramos",
+    "dateAdded": "2024-01-22T15:00:04.057Z"
+  },
+  {
+    "url": "https://v0.dev/t/dCAWsUOKjjy",
+    "label": "Template for prompt: give me ui for use cases ",
+    "dateAdded": "2024-01-22T15:00:04.057Z"
+  },
+  {
+    "url": "https://v0.dev/t/XOJ3Xyaf9aa",
+    "label": "Template for prompt: I need a subscription model landing page with a free, pro and enterprise option",
+    "dateAdded": "2024-01-22T15:00:04.057Z"
   }
 ]
