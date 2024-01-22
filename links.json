@@ -37573,5 +37573,135 @@
     "url": "https://v0.dev/t/v3aF3TwB03E",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2024-01-22T18:05:03.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/rHucOFXeBmz",
+    "label": "Template for prompt: a component showing a graph diagram where each node is representing a hot topic linked to other node and topics",
+    "dateAdded": "2024-01-22T18:10:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/YPdVU0FeB1b",
+    "label": "Template for prompt: page where user select from a list of categories and each category has several items where he can select the item and enter details about it ( name, number, occupation )",
+    "dateAdded": "2024-01-22T18:10:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/QaWvmomwuxS",
+    "label": "Template for prompt: Products page in a ecommerce website. I want to also have nice design for out of stock text for unavailable products",
+    "dateAdded": "2024-01-22T18:10:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/k0AT5KLQsCJ",
+    "label": "Template for prompt: i need a profile page for a logged in user where they can see each of their social media accounts and whether they are connected (with a button to disconnect), or not connect (with a button to connect)",
+    "dateAdded": "2024-01-22T18:10:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/W0L6W374rAL",
+    "label": "Template for prompt: A card github repositories with the following details. \n\n    {\n        \"created\": \"25/04/22\",\n        \"forks\": 30,\n        \"indexed_on\": \"21/01/24\",\n        \"open_issues\": 4,\n        \"repo_description\": \"Long-Inference, High Quality Synthetic Speaker (AI avatar/ AI presenter)\",\n        \"repo_ingestion_status\": \"Code Files Indexed\",\n        \"repo_name\": \"LIHQ\",\n        \"repo_org_name\": \"johnGettings\",\n        \"repo_url\": \"https://github.com/johnGettings/LIHQ\",\n        \"stars\": 197\n    }\n",
+    "dateAdded": "2024-01-22T18:10:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/QdGwg5oZy2g",
+    "label": "Template for prompt: multilingual web page dedicated to missing children assistance. It features a top navigation bar with a left-aligned logo, center-aligned navigation links, and a right  English language toggle. The main banner below poses a large question for user engagement. Below this, three icon-based call-to-action buttons correspond to different user needs, likely leading to more information. These icons are a question mark (my child is missing), an exclamation mark (i'm worried my child may go missing), and a group of figures (someone i know has a missing child), each accompanied by brief text.The lower section, set against a white background, offers expandable information categories related to missing children cases (Runaway, Abduction,..), indicated by a plus sign. These are neatly arranged for quick navigation.The sidebar on the left provides main content. The design employs a dark blue and white color scheme, with a clear, clean layout emphasizing ease of access and clarity. ",
+    "dateAdded": "2024-01-22T18:10:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/FysywcTMagQ",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-22T18:10:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/NDBItMErmKR",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T18:10:02.955Z"
+  },
+  {
+    "url": "https://v0.dev/t/q78pHFv96qt",
+    "label": "Template for prompt: make a linkedin resume finder",
+    "dateAdded": "2024-01-22T18:10:02.955Z"
+  },
+  {
+    "url": "https://v0.dev/t/R1K96vK67De",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T18:10:02.955Z"
+  },
+  {
+    "url": "https://v0.dev/t/A6x2GJC49Ck",
+    "label": "Template for prompt: create a minimalist VC portfolio main page. black background, logo, portoflio companies and a contact us button",
+    "dateAdded": "2024-01-22T18:10:02.955Z"
+  },
+  {
+    "url": "https://v0.dev/t/gyfycpHMGbB",
+    "label": "Template for prompt: url shortener landing page with url input in the middle minimalist",
+    "dateAdded": "2024-01-22T18:10:02.955Z"
+  },
+  {
+    "url": "https://v0.dev/t/Oxeq7ubZACe",
+    "label": "Template for prompt: task card, with title, and little description under title",
+    "dateAdded": "2024-01-22T18:10:02.955Z"
+  },
+  {
+    "url": "https://v0.dev/t/3mOtDDQ7Kui",
+    "label": "Template for prompt: I need to build a dashboard for tracking personal finance data",
+    "dateAdded": "2024-01-22T18:10:02.956Z"
+  },
+  {
+    "url": "https://v0.dev/t/clkSIMaymY0",
+    "label": "Template for prompt: Website for the technology conference",
+    "dateAdded": "2024-01-22T18:10:02.956Z"
+  },
+  {
+    "url": "https://v0.dev/t/K9QSgKPVDKw",
+    "label": "Template for prompt: create a full screen photo display",
+    "dateAdded": "2024-01-22T18:10:02.956Z"
+  },
+  {
+    "url": "https://v0.dev/t/jM4F8pBe7Wv",
+    "label": "Template for prompt: create a minimalist VC portfolio main page. black background, logo, portoflio companies and a contact us button",
+    "dateAdded": "2024-01-22T18:10:02.956Z"
+  },
+  {
+    "url": "https://v0.dev/t/fw7HoAOz3R4",
+    "label": "Template for prompt: i need a home page of restaurant web site, you can use de color same black and orange",
+    "dateAdded": "2024-01-22T18:10:02.956Z"
+  },
+  {
+    "url": "https://v0.dev/t/w4H5XdiYbJL",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-22T18:10:02.957Z"
+  },
+  {
+    "url": "https://v0.dev/t/LlmIFENsr9I",
+    "label": "Template for prompt: i need home page for restaruant web site static",
+    "dateAdded": "2024-01-22T18:10:02.957Z"
+  },
+  {
+    "url": "https://v0.dev/t/gwXUdV4FnUg",
+    "label": "Template for prompt: create a full screen photo display frame in dark theme",
+    "dateAdded": "2024-01-22T18:10:02.957Z"
+  },
+  {
+    "url": "https://v0.dev/t/H3OkXJODMyz",
+    "label": "Template for prompt: re-create this interface, ",
+    "dateAdded": "2024-01-22T18:10:02.957Z"
+  },
+  {
+    "url": "https://v0.dev/t/rWhe8ohCHED",
+    "label": "Template for prompt: create a quiz template form",
+    "dateAdded": "2024-01-22T18:10:02.957Z"
+  },
+  {
+    "url": "https://v0.dev/t/SNE3xORXIgD",
+    "label": "Template for prompt: input box with a static suffix",
+    "dateAdded": "2024-01-22T18:10:02.958Z"
+  },
+  {
+    "url": "https://v0.dev/t/rMLIFRJCcVA",
+    "label": "Template for prompt: a coming soon landing page with a hero and tagline with a textbox to subscribe when its ready.  It needs to have a logo on the top left of the page. The logo can be a text with WorkTrust",
+    "dateAdded": "2024-01-22T18:10:02.958Z"
+  },
+  {
+    "url": "https://v0.dev/t/sdiZrC5nFqA",
+    "label": "Template for prompt: quiz template form",
+    "dateAdded": "2024-01-22T18:10:02.958Z"
   }
 ]
