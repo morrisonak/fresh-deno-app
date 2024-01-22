@@ -36053,5 +36053,135 @@
     "url": "https://v0.dev/t/We5Juvna511",
     "label": "Template for prompt: A 'Profile' page with a left navigation and the content on the right.\nthose are the sections and related content:\n\n{\n    generale: \"informazioni generali dell'utente\",\n    \"impostazioni\": \"impostazioni dell'utente\",\n    \"organizzazioni\": \"organizzazioni a cui l'utente appartiene\",\n    \"organizzazione\": \"organizzazione selezionata\",\n    \"abbonamento\": \"abbonamento dell'utente\",\n}",
     "dateAdded": "2024-01-22T17:05:03.393Z"
+  },
+  {
+    "url": "https://v0.dev/t/SUVcFXJVxFK",
+    "label": "Template for prompt: make it looks better",
+    "dateAdded": "2024-01-22T17:10:03.076Z"
+  },
+  {
+    "url": "https://v0.dev/t/7tfjxvfBk3s",
+    "label": "Template for prompt: login form page",
+    "dateAdded": "2024-01-22T17:10:03.076Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ej2QQWzP5YX",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T17:10:03.076Z"
+  },
+  {
+    "url": "https://v0.dev/t/VfR3ujiaQ1Z",
+    "label": "Template for prompt: timeline",
+    "dateAdded": "2024-01-22T17:10:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/AuMdWTu6rrg",
+    "label": "Template for prompt: Hi, I need to write a landing page code for a company called \"SoftPro\"\nSingle-page landing page\nThe following blocks should be: \nHeader with fixed navigation\nHome page (info) \nPrice list for programs\nThe section dedicated to the developed programs\nAbout the company\nContacts\n\nIt should all be in a stylish design, use only html, css, js \n3 different files\n\nThe text of your choice\n, each block except the header should occupy the entire height of the screen in styles",
+    "dateAdded": "2024-01-22T17:10:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/F9ETA5NUfjQ",
+    "label": "Template for prompt: create a resource page that provides a brief, technically sound overview initiates each section, setting the tone for the subsequent sub-sections. These sub-sections, encompassing documentation, tutorials, community engagement, and more, follow a structured grid system, ensuring a consistent and predictable user experience.\n\nVisual elements, carefully chosen for their relevance, include icons and graphics to augment the page's aesthetics. Typography considerations prioritize legibility, with fonts chosen to align with best practices in frontend design. Navigational elements, designed with a mobile-first approach, present a clean menu structure and strategically placed anchor links to facilitate efficient in-page navigation.\n\nThe call-to-action (CTA), strategically positioned at the conclusion, serves as a visual endpoint, encouraging users to engage further, provide feedback, or connect via social media.",
+    "dateAdded": "2024-01-22T17:10:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/xELpeF1iXa7",
+    "label": "Template for prompt: i want the landing page for my blog/portfolio website. It is supposed to be minimal and inspired by gruvbox ",
+    "dateAdded": "2024-01-22T17:10:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/jT33c876RZH",
+    "label": "Template for prompt: League leaderboard for a group of about 20 players with unique names, including current position (1st, 2nd, etc), games played and point total",
+    "dateAdded": "2024-01-22T17:10:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/BvdMgeE5uEv",
+    "label": "Template for prompt: •\tThe tool is created to store the inventory data (FAR) and to validate the items using QR code scanning.\n•\tUser flow:\no\tThe user adds their existing FAR to the system.\no\tThe user generates the required number of QR codes and prints them.\no\tThe QR codes are tagged to items in FAR using scanning.\no\tThe user sticks these codes to the items in the warehouse.\no\tThe user then scans each item code in any time interval to validate the items' presence in the inventory/warehouse.\n",
+    "dateAdded": "2024-01-22T17:10:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/4WjdixHdhIJ",
+    "label": "Template for prompt: a landing page with form",
+    "dateAdded": "2024-01-22T17:10:03.077Z"
+  },
+  {
+    "url": "https://v0.dev/t/WSXSkKc3CVw",
+    "label": "Template for prompt: a DJ directory ",
+    "dateAdded": "2024-01-22T17:10:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/GTEHFdfO61v",
+    "label": "Template for prompt: a cart for my ecomerce website we can see price id product id category and we can set the number of product we can command",
+    "dateAdded": "2024-01-22T17:10:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/PkxKnVwvO1e",
+    "label": "Template for prompt: Improve this UI",
+    "dateAdded": "2024-01-22T17:10:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/aMwDhlAm8u6",
+    "label": "Template for prompt: An page with written AnkiGPD on top left corner, with an chat input with an select file",
+    "dateAdded": "2024-01-22T17:10:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/RFRya8F4p5W",
+    "label": "Template for prompt: a file dropzone",
+    "dateAdded": "2024-01-22T17:10:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/NKYMqpLZSPE",
+    "label": "Template for prompt: create a dashboard kinda page like the image for a company LinkInBio. User is creating all in one link page, user will have the option add different kind of links",
+    "dateAdded": "2024-01-22T17:10:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/OVOKNh9eKgA",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-22T17:10:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/D5rQ8BajnWQ",
+    "label": "Template for prompt: a dashboard with a sidebar and a top navigation menu",
+    "dateAdded": "2024-01-22T17:10:03.078Z"
+  },
+  {
+    "url": "https://v0.dev/t/yKJztKcuien",
+    "label": "Template for prompt: Hero section for website, which is directory of different design assets like 3D icons, illustrations, etc.",
+    "dateAdded": "2024-01-22T17:10:03.079Z"
+  },
+  {
+    "url": "https://v0.dev/t/dzP7tHNbffg",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T17:10:03.079Z"
+  },
+  {
+    "url": "https://v0.dev/t/pG9hx5bqj4U",
+    "label": "Template for prompt: ecommerce about page",
+    "dateAdded": "2024-01-22T17:10:03.079Z"
+  },
+  {
+    "url": "https://v0.dev/t/X9XXhDzQhKP",
+    "label": "Template for prompt: give me a form with a search term input, horizontal",
+    "dateAdded": "2024-01-22T17:10:03.079Z"
+  },
+  {
+    "url": "https://v0.dev/t/tUH5BO8lTto",
+    "label": "Template for prompt: give me layout for order list with this item:\n\"items\": [\n      {\n        \"id\": 1,\n        \"Pharmacy\": {\n          \"id\": 1,\n          \"name\": \"Kimia Farma Kuningan\"\n        },\n        \"date\": \"2024-01-18T12:33:16.108335+07:00\",\n        \"no_of_items\": 2,\n        \"total_payment\": \"10000\",\n        \"transaction_id\": 1,\n        \"Status\": {\n          \"id\": 2,\n          \"name\": \"Processed\"\n        }\n      }\n    ]",
+    "dateAdded": "2024-01-22T17:10:03.079Z"
+  },
+  {
+    "url": "https://v0.dev/t/wJFVDXvHo7y",
+    "label": "Template for prompt: create a contact form with this: Contact us\nAmet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis.\n\n+1-316-555-0116\n\n+1-446-526-0117\n\ncontact@example.com\n\nhr@example.com\n\n8502 Preston Rd. Ingle, Maine 98380, USA\n\nSend us a message\nYour name\nEnter your full name\nEmail address\nEnter your full name\nPhone number\nEnter your full name\nCompany name\nEnter your full name\nMessage\nSend",
+    "dateAdded": "2024-01-22T17:10:03.079Z"
+  },
+  {
+    "url": "https://v0.dev/t/rb4oX3NeqcZ",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form for a kids toy store",
+    "dateAdded": "2024-01-22T17:10:03.080Z"
+  },
+  {
+    "url": "https://v0.dev/t/JvMCpWnV0BD",
+    "label": "Template for prompt: create a dashboard with a side bar holds two tabs \nreports and my ads",
+    "dateAdded": "2024-01-22T17:10:03.080Z"
   }
 ]
