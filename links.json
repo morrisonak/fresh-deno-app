@@ -42703,5 +42703,135 @@
     "url": "https://v0.dev/t/MMwimc5GDIH",
     "label": "Template for prompt: A basic subscribe pricing page to show off the features you get between a free tier plan and a paid plan.",
     "dateAdded": "2024-01-22T21:25:03.854Z"
+  },
+  {
+    "url": "https://v0.dev/t/2vAYzDelQBC",
+    "label": "Template for prompt: chat history like chatgpt with new chat button with menu button to delete chat dropdown for each chat",
+    "dateAdded": "2024-01-22T21:30:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/6dFzBiEMsaX",
+    "label": "Template for prompt: A contact form with first name, last name, email, tel, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-22T21:30:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/1CWyc30pNYK",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-22T21:30:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/AUtPjgLxsu7",
+    "label": "Template for prompt: Imagine a web application called \"CollaboraNews.\" It serves as a centralized platform for journalists, proofreaders, and editors to streamline the newspaper creation process.Key features:Article Submission and Tracking:Journalists can submit their articles through the platform, allowing editors to easily track and manage contributions.Collaborative Editing:Proofreaders and editors can collaboratively edit articles in real-time, providing feedback and suggestions within the platform.Version Control:Maintain a version history for each article, enabling teams to revert to previous versions if needed and track changes made during the editing process.Task Management:Editors can assign tasks, set deadlines, and track progress to ensure efficient collaboration and timely publication.Communication Hub:Integrated messaging and commenting system for seamless communication between journalists, proofreaders, and editors. Notifications for important updates.Automatic Formatting and Styling:The plat",
+    "dateAdded": "2024-01-22T21:30:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/ipZfMIo7BbD",
+    "label": "Template for prompt: an app that has a main live video feed and a side section of controls with a dark futuristic vibe",
+    "dateAdded": "2024-01-22T21:30:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/kpNzxQMKNJI",
+    "label": "Template for prompt: html & CSS",
+    "dateAdded": "2024-01-22T21:30:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/U1NjnFlnhpu",
+    "label": "Template for prompt: html & CSS",
+    "dateAdded": "2024-01-22T21:30:03.165Z"
+  },
+  {
+    "url": "https://v0.dev/t/V4PWTcdJ7KE",
+    "label": "Template for prompt: loader spinner component ",
+    "dateAdded": "2024-01-22T21:30:03.165Z"
+  },
+  {
+    "url": "https://v0.dev/t/8IPrBXm7Y3C",
+    "label": "Template for prompt: create shadecn dialog component called \"Get Started\" which shows sign up area when u open it.\ncreate shadecn dialog component called \"Get In Touch\" which shows contact area - email message and send when u open it.",
+    "dateAdded": "2024-01-22T21:30:03.165Z"
+  },
+  {
+    "url": "https://v0.dev/t/wxSL8Due4MC",
+    "label": "Template for prompt: add a title and update to make this a landing page\n",
+    "dateAdded": "2024-01-22T21:30:03.165Z"
+  },
+  {
+    "url": "https://v0.dev/t/CFDMgM9OhjZ",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-22T21:30:03.165Z"
+  },
+  {
+    "url": "https://v0.dev/t/ntAptvwZQPn",
+    "label": "Template for prompt: a dark NFT dashboard",
+    "dateAdded": "2024-01-22T21:30:03.165Z"
+  },
+  {
+    "url": "https://v0.dev/t/Fx7zCvWY167",
+    "label": "Template for prompt: container that tells the user that they haven't made any notes yet, with a cute svg icon and a button to make a new note",
+    "dateAdded": "2024-01-22T21:30:03.165Z"
+  },
+  {
+    "url": "https://v0.dev/t/ym0Nz0M9kEs",
+    "label": "Template for prompt: A login flow for a elephant daycare facility",
+    "dateAdded": "2024-01-22T21:30:03.165Z"
+  },
+  {
+    "url": "https://v0.dev/t/tlTJhhRjnFD",
+    "label": "Template for prompt: A 3 step registration page. Only css, no tailwind",
+    "dateAdded": "2024-01-22T21:30:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/IZ5msn2bvRi",
+    "label": "Template for prompt: homepage with hero section",
+    "dateAdded": "2024-01-22T21:30:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/QF2urVkqhtJ",
+    "label": "Template for prompt: page for writing notes",
+    "dateAdded": "2024-01-22T21:30:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/tTCTrlmLk4H",
+    "label": "Template for prompt: make a ui where user can input patient name, description, comment and below that show a collapsible list for each name to show cards in it",
+    "dateAdded": "2024-01-22T21:30:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/gqc581Dnhgp",
+    "label": "Template for prompt: minimalistic side panel with routing",
+    "dateAdded": "2024-01-22T21:30:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/GneNxVH5skP",
+    "label": "Template for prompt: Administration page consisting of:\na List of cameras added from the administration page. b \"Add cameras\" button, that when clicked opens a form to input the\ncameras URLs and allows to enter the same configuration parameters for all of them or customized for each camera.\nc Confirm button to add the cameras.\nd Display a progress bar to see the GPU server creation progress. e Automatically refresh the list of cameras to see the new ones added. i want to to this web aplication with nextjs and shadcn ui. only make frontend, taking data from json or hardcoded.",
+    "dateAdded": "2024-01-22T21:30:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qx2NLHAwKKU",
+    "label": "Template for prompt: página de protocolo após finalizar pagamento",
+    "dateAdded": "2024-01-22T21:30:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/grbMrrP3RBZ",
+    "label": "Template for prompt: write this in js",
+    "dateAdded": "2024-01-22T21:30:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/99oFMyQvu67",
+    "label": "Template for prompt: project card for navigation bar entry, FCFF6C as primary color, use primary color for hover effect, add devices list where each device is separated with /",
+    "dateAdded": "2024-01-22T21:30:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/N8fYCq0JUbm",
+    "label": "Template for prompt: A list of employees to select from, include an avatar, first name, last name, and an email",
+    "dateAdded": "2024-01-22T21:30:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/dkA3PEv42Eg",
+    "label": "Template for prompt: make me a calendar of february 2024 for upcoming delivery in my warehouse. everyday should be filled with time slots",
+    "dateAdded": "2024-01-22T21:30:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/RWH9leew1Mi",
+    "label": "Template for prompt: An empty requests screen ",
+    "dateAdded": "2024-01-22T21:30:03.167Z"
   }
 ]
