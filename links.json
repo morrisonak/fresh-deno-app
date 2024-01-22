@@ -42453,5 +42453,130 @@
     "url": "https://v0.dev/t/EJ0pELlIPCV",
     "label": "Template for prompt: please turn off proxy or vpn and try again page with html css only",
     "dateAdded": "2024-01-22T21:15:03.613Z"
+  },
+  {
+    "url": "https://v0.dev/t/iDRh2Dtinh6",
+    "label": "Template for prompt: cms with a nested category editor",
+    "dateAdded": "2024-01-22T21:20:03.019Z"
+  },
+  {
+    "url": "https://v0.dev/t/oRcnJ8AlApe",
+    "label": "Template for prompt: make this design",
+    "dateAdded": "2024-01-22T21:20:03.020Z"
+  },
+  {
+    "url": "https://v0.dev/t/wfNw8VMjw9B",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T21:20:03.020Z"
+  },
+  {
+    "url": "https://v0.dev/t/hu9VFreIm9n",
+    "label": "Template for prompt: 3 sections one to show chat histories, second to enter a blog to load it up along with a showcase of the loaded blog, third to chat with ai model ",
+    "dateAdded": "2024-01-22T21:20:03.020Z"
+  },
+  {
+    "url": "https://v0.dev/t/oyI9Ph8PAmE",
+    "label": "Template for prompt: i want to have my booked services card as dasgboard",
+    "dateAdded": "2024-01-22T21:20:03.020Z"
+  },
+  {
+    "url": "https://v0.dev/t/oTmGXkZCJYb",
+    "label": "Template for prompt: dashboard with sidebar",
+    "dateAdded": "2024-01-22T21:20:03.020Z"
+  },
+  {
+    "url": "https://v0.dev/t/jzj94NjEEkT",
+    "label": "Template for prompt: A landing page with hero section, info cards, and a features section. hero section should be a gradient that fades from light blue to black.",
+    "dateAdded": "2024-01-22T21:20:03.020Z"
+  },
+  {
+    "url": "https://v0.dev/t/931aJRG883h",
+    "label": "Template for prompt: a div with 2 child divs. one with an image and one with text",
+    "dateAdded": "2024-01-22T21:20:03.020Z"
+  },
+  {
+    "url": "https://v0.dev/t/kToITSl1hmx",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T21:20:03.020Z"
+  },
+  {
+    "url": "https://v0.dev/t/locBv3Ya2kT",
+    "label": "Template for prompt: create a neobrutal notes taking page similar to notion",
+    "dateAdded": "2024-01-22T21:20:03.021Z"
+  },
+  {
+    "url": "https://v0.dev/t/zqqfqbnhFph",
+    "label": "Template for prompt: a chatgpt like sidebar with conversations and new chat button, a chat interface for chatting  along with a section to show the blog to chat with resizable",
+    "dateAdded": "2024-01-22T21:20:03.021Z"
+  },
+  {
+    "url": "https://v0.dev/t/MMwimc5GDIH",
+    "label": "Template for prompt: A basic subscribe pricing page to show off the features you get between a free tier plan and a paid plan.",
+    "dateAdded": "2024-01-22T21:20:03.021Z"
+  },
+  {
+    "url": "https://v0.dev/t/F5wIvH5heoO",
+    "label": "Template for prompt: Podrías crear un botón utilizando el componente Link de Next junto con la palabra Pagar y la flecha de la derecha de heroicons?",
+    "dateAdded": "2024-01-22T21:20:03.021Z"
+  },
+  {
+    "url": "https://v0.dev/t/eXCA61NmsQ8",
+    "label": "Template for prompt: a hip form",
+    "dateAdded": "2024-01-22T21:20:03.021Z"
+  },
+  {
+    "url": "https://v0.dev/t/eZZxps7px3K",
+    "label": "Template for prompt: make a checkout interface with a list of items selected from a cart shopping, divide every element with a divider and show his price, his amount  and selection option to increase and a delete of that item",
+    "dateAdded": "2024-01-22T21:20:03.021Z"
+  },
+  {
+    "url": "https://v0.dev/t/Vj59p3T7DhW",
+    "label": "Template for prompt: generate animated sidebar",
+    "dateAdded": "2024-01-22T21:20:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/mRqmGlr35nS",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-22T21:20:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/3kI6s66YtvV",
+    "label": "Template for prompt: make a dashboard page for my booking list",
+    "dateAdded": "2024-01-22T21:20:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/eoyQ0RTOxZu",
+    "label": "Template for prompt: generame una seccion de perfil de un doctory con su foto, rol especialdiad, etc en html y tailwindcss\n",
+    "dateAdded": "2024-01-22T21:20:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/XyTBbZSW5JN",
+    "label": "Template for prompt: I need you to create a dashboard to see how \"page views\", \"orders\" and \"units sold\" evolved over time for differetn products.\nData will come from a csv that looks kind of like this:\nProduct name,SKU,Type,Page views,Orders,Units sold\n\"Eloise Leather Wallet\",\"Multiple\",\"Clutches\",\"617\",\"46\",\"188\"",
+    "dateAdded": "2024-01-22T21:20:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/QSF45xdiBeT",
+    "label": "Template for prompt: I want to create a game for my typescript, nextjs, fastapi postgres app. The app should be a simple 1v1 or 2v2 or more game. It should present a short story in norwegian consisting of 2 to 10 lines of text. Text should be generated by chatgpt, by getting a list of tuples where first object is the Word and the second is the word class. Both in norwegian. Then the words should be presented as clickable or selectable words in a frame / div so pupils can mark the words with correct Word class. Different wordclass give different points. ",
+    "dateAdded": "2024-01-22T21:20:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/qbTEvbiICN0",
+    "label": "Template for prompt: A wireframe landing page for an educational platform containing two sections advertising new features and an about section below.",
+    "dateAdded": "2024-01-22T21:20:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/xTh1hensAIX",
+    "label": "Template for prompt: what is meaning of gross 3D shapes",
+    "dateAdded": "2024-01-22T21:20:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/kIku0pUqvEQ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T21:20:03.023Z"
+  },
+  {
+    "url": "https://v0.dev/t/eg6zNhHejWB",
+    "label": "Template for prompt: genera un sodebar desplegable",
+    "dateAdded": "2024-01-22T21:20:03.023Z"
   }
 ]
