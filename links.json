@@ -42203,5 +42203,130 @@
     "url": "https://v0.dev/t/EfpUQh1fdlb",
     "label": "Template for prompt: create a Spinner loader \nIndicate an action running in the background.",
     "dateAdded": "2024-01-22T21:05:03.065Z"
+  },
+  {
+    "url": "https://v0.dev/t/MAHVZGyJOTS",
+    "label": "Template for prompt: dashboard",
+    "dateAdded": "2024-01-22T21:10:03.843Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zt0xcRfJDzo",
+    "label": "Template for prompt: A loading indicator for a connection to our servers. Handle statuses like Connecting, open, closing, closed and Uninstantiated",
+    "dateAdded": "2024-01-22T21:10:03.844Z"
+  },
+  {
+    "url": "https://v0.dev/t/cG2QiOXPGei",
+    "label": "Template for prompt: generame una seccion de perfil de un docotor y paciente en html y tailwindcss",
+    "dateAdded": "2024-01-22T21:10:03.844Z"
+  },
+  {
+    "url": "https://v0.dev/t/OpmJzCWSu3I",
+    "label": "Template for prompt: An email verification page",
+    "dateAdded": "2024-01-22T21:10:03.844Z"
+  },
+  {
+    "url": "https://v0.dev/t/IMmWligFz5Z",
+    "label": "Template for prompt: sidebar left with contain anime, manga, manwa, manhua",
+    "dateAdded": "2024-01-22T21:10:03.844Z"
+  },
+  {
+    "url": "https://v0.dev/t/fAXjWBTDtkl",
+    "label": "Template for prompt: HTML/CSS of this section",
+    "dateAdded": "2024-01-22T21:10:03.844Z"
+  },
+  {
+    "url": "https://v0.dev/t/OS2AdNdnPNX",
+    "label": "Template for prompt: a funny website for a meme token called dogisinthepool",
+    "dateAdded": "2024-01-22T21:10:03.844Z"
+  },
+  {
+    "url": "https://v0.dev/t/hOSBAoXWMsk",
+    "label": "Template for prompt: game launcher with selector servers, and last connection server, with navbar, profile, money, avatar, button play, online on servers and etc.",
+    "dateAdded": "2024-01-22T21:10:03.844Z"
+  },
+  {
+    "url": "https://v0.dev/t/UjK4smkeS4o",
+    "label": "Template for prompt: wine product card with zoom on image",
+    "dateAdded": "2024-01-22T21:10:03.845Z"
+  },
+  {
+    "url": "https://v0.dev/t/HENks9JF9V5",
+    "label": "Template for prompt: please turn off proxy or vpn and try again page",
+    "dateAdded": "2024-01-22T21:10:03.845Z"
+  },
+  {
+    "url": "https://v0.dev/t/5Q8IEIKhmGM",
+    "label": "Template for prompt: For a wiki page, i need to show child pages for each section, but they need to be low key, or expandable, not always displayed",
+    "dateAdded": "2024-01-22T21:10:03.845Z"
+  },
+  {
+    "url": "https://v0.dev/t/I1kEMZeM1H9",
+    "label": "Template for prompt: For a wiki page, i need to show child pages for each section, but they need to be low key, or expandable, not always displayed",
+    "dateAdded": "2024-01-22T21:10:03.845Z"
+  },
+  {
+    "url": "https://v0.dev/t/caoNbT3PLMs",
+    "label": "Template for prompt: styles for a 3 column table to fit inside a modal",
+    "dateAdded": "2024-01-22T21:10:03.845Z"
+  },
+  {
+    "url": "https://v0.dev/t/EJ0pELlIPCV",
+    "label": "Template for prompt: please turn off proxy or vpn and try again page with html css only",
+    "dateAdded": "2024-01-22T21:10:03.845Z"
+  },
+  {
+    "url": "https://v0.dev/t/jVDyHqNYKWT",
+    "label": "Template for prompt: creat chsdcn button with loadin spinner when submitting",
+    "dateAdded": "2024-01-22T21:10:03.845Z"
+  },
+  {
+    "url": "https://v0.dev/t/214LFxdrQZ7",
+    "label": "Template for prompt: wine product card with zoom on image",
+    "dateAdded": "2024-01-22T21:10:03.845Z"
+  },
+  {
+    "url": "https://v0.dev/t/YmoCJTFi1qD",
+    "label": "Template for prompt: a dashboard with a realtime linechart",
+    "dateAdded": "2024-01-22T21:10:03.846Z"
+  },
+  {
+    "url": "https://v0.dev/t/54du7JYo4ap",
+    "label": "Template for prompt: an enterprise cx dashboard for managers and directors",
+    "dateAdded": "2024-01-22T21:10:03.846Z"
+  },
+  {
+    "url": "https://v0.dev/t/lan1ZGxJVZ4",
+    "label": "Template for prompt: create an epub reader",
+    "dateAdded": "2024-01-22T21:10:03.846Z"
+  },
+  {
+    "url": "https://v0.dev/t/s8mNuT82tRc",
+    "label": "Template for prompt: An small form with two inputs to save faqs",
+    "dateAdded": "2024-01-22T21:10:03.846Z"
+  },
+  {
+    "url": "https://v0.dev/t/Fv37fGwydxj",
+    "label": "Template for prompt: what is Closure in gestalt with eample",
+    "dateAdded": "2024-01-22T21:10:03.846Z"
+  },
+  {
+    "url": "https://v0.dev/t/YGgTw4Ct87F",
+    "label": "Template for prompt: A cool breadcrumb for a site ",
+    "dateAdded": "2024-01-22T21:10:03.846Z"
+  },
+  {
+    "url": "https://v0.dev/t/P83oBoefp24",
+    "label": "Template for prompt: please turn off proxy or vpn and try again page",
+    "dateAdded": "2024-01-22T21:10:03.846Z"
+  },
+  {
+    "url": "https://v0.dev/t/VRsGxF8OCDC",
+    "label": "Template for prompt: create a shadecn dialog \"Sign In\" on which we click and it shows  options to sign",
+    "dateAdded": "2024-01-22T21:10:03.846Z"
+  },
+  {
+    "url": "https://v0.dev/t/u31vIM8nMLX",
+    "label": "Template for prompt: A blog platform with a playful design used by subculture users",
+    "dateAdded": "2024-01-22T21:10:03.846Z"
   }
 ]
