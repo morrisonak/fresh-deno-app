@@ -36533,5 +36533,135 @@
     "url": "https://v0.dev/t/aOYPq3SfEWz",
     "label": "Template for prompt: a party event ticket managing dashboard for promoters",
     "dateAdded": "2024-01-22T17:25:03.252Z"
+  },
+  {
+    "url": "https://v0.dev/t/OjIkvQXq6nf",
+    "label": "Template for prompt: create a UI in react component",
+    "dateAdded": "2024-01-22T17:30:03.014Z"
+  },
+  {
+    "url": "https://v0.dev/t/UDiZV6fUGEe",
+    "label": "Template for prompt: Skeleton loading screen for a blog post",
+    "dateAdded": "2024-01-22T17:30:03.014Z"
+  },
+  {
+    "url": "https://v0.dev/t/UsGOByrRIVn",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-22T17:30:03.014Z"
+  },
+  {
+    "url": "https://v0.dev/t/us8M8rM7uc7",
+    "label": "Template for prompt: A page with the countdown in the center, with live stream status for 3 services under",
+    "dateAdded": "2024-01-22T17:30:03.014Z"
+  },
+  {
+    "url": "https://v0.dev/t/nXAssbi5PYC",
+    "label": "Template for prompt: Make an UI with 4 switches, for on/off,voltage/current,singlePhase/triplePhase, and AC/DC.\nIt should also have 6 text boxes where I can place the value of the voltage in each phase, and the angle of each phase. This should be modern and fit for a web page. ",
+    "dateAdded": "2024-01-22T17:30:03.014Z"
+  },
+  {
+    "url": "https://v0.dev/t/YzEPOQRf50b",
+    "label": "Template for prompt: login form page",
+    "dateAdded": "2024-01-22T17:30:03.015Z"
+  },
+  {
+    "url": "https://v0.dev/t/402vKzsf4kM",
+    "label": "Template for prompt: Generate an image of an ui with 4 switches, for on/off,voltage/current,singlePhase/triplePhase, and AC/DC.\nIt should also have 6 text boxes where I can place the value of the voltage in each phase, and the angle of each phase. This should be modern and fit for a web page. ",
+    "dateAdded": "2024-01-22T17:30:03.015Z"
+  },
+  {
+    "url": "https://v0.dev/t/vkyW1kGAZvm",
+    "label": "Template for prompt: create a component in React using MUI",
+    "dateAdded": "2024-01-22T17:30:03.015Z"
+  },
+  {
+    "url": "https://v0.dev/t/U9669MDzU4e",
+    "label": "Template for prompt: Create a feedback modal",
+    "dateAdded": "2024-01-22T17:30:03.015Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yaj8DSll8s2",
+    "label": "Template for prompt: write html,css, js code for card animation code for website",
+    "dateAdded": "2024-01-22T17:30:03.015Z"
+  },
+  {
+    "url": "https://v0.dev/t/0myZFQVTkRF",
+    "label": "Template for prompt: generate a pop-up section for when i click an order to show what products were bought, the price of the order, the adress",
+    "dateAdded": "2024-01-22T17:30:03.016Z"
+  },
+  {
+    "url": "https://v0.dev/t/tIgqQAWkZrr",
+    "label": "Template for prompt: Here's a current version of a character sheet. It has a character portraits and a side panel, tabs, buttons a table with various information. I would like it to look much more inspiring though and not bland.",
+    "dateAdded": "2024-01-22T17:30:03.016Z"
+  },
+  {
+    "url": "https://v0.dev/t/DSOLzcfaKTV",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-22T17:30:03.016Z"
+  },
+  {
+    "url": "https://v0.dev/t/BKiStPq5PtY",
+    "label": "Template for prompt: Create the styles in css for the boxes",
+    "dateAdded": "2024-01-22T17:30:03.016Z"
+  },
+  {
+    "url": "https://v0.dev/t/qT4AmHkSfTK",
+    "label": "Template for prompt: Give me a ui where I will display a sentence. \nI will write the sentence and if there is a correction, I'll strike down the sentence and show the correction below it. Something like this image. Design the elements with divs so that I can insert each word with javascript. Try to make the ui elegant",
+    "dateAdded": "2024-01-22T17:30:03.017Z"
+  },
+  {
+    "url": "https://v0.dev/t/tS39hKPJCnA",
+    "label": "Template for prompt: news",
+    "dateAdded": "2024-01-22T17:30:03.017Z"
+  },
+  {
+    "url": "https://v0.dev/t/KH68QfcyxU1",
+    "label": "Template for prompt: Crea la interfaz gráfica con React de login con tailwind, boton de cambio de tema oscuro y claro y responsive",
+    "dateAdded": "2024-01-22T17:30:03.017Z"
+  },
+  {
+    "url": "https://v0.dev/t/yTGFePsftl5",
+    "label": "Template for prompt: A daily login rewards page for a web3 game",
+    "dateAdded": "2024-01-22T17:30:03.017Z"
+  },
+  {
+    "url": "https://v0.dev/t/v3F85WFsTK1",
+    "label": "Template for prompt: Chat interface for a working with an AI model focusing on action sport( MotoGP) stroytelling based in real data",
+    "dateAdded": "2024-01-22T17:30:03.017Z"
+  },
+  {
+    "url": "https://v0.dev/t/g1TgkGBvsLN",
+    "label": "Template for prompt: an event promoter dashboard to manage event cashless recharges and spendings, also manage agents responsible for sales. create agents, give them roles and names",
+    "dateAdded": "2024-01-22T17:30:03.017Z"
+  },
+  {
+    "url": "https://v0.dev/t/swGLj0ArZfK",
+    "label": "Template for prompt: Give me a ui where I will display a sentence. \nI will write the sentence and if there is a correction, I'll strike down the sentence and show the correction below it. Something like this image ",
+    "dateAdded": "2024-01-22T17:30:03.018Z"
+  },
+  {
+    "url": "https://v0.dev/t/XUTVRI6NAcQ",
+    "label": "Template for prompt: Faça um modelo parecido com essas informações acima",
+    "dateAdded": "2024-01-22T17:30:03.018Z"
+  },
+  {
+    "url": "https://v0.dev/t/LcnEWgcRBic",
+    "label": "Template for prompt: table with filter dropdown row and pagination",
+    "dateAdded": "2024-01-22T17:30:03.018Z"
+  },
+  {
+    "url": "https://v0.dev/t/F5EDVZ9NQq3",
+    "label": "Template for prompt: Twitter login ",
+    "dateAdded": "2024-01-22T17:30:03.018Z"
+  },
+  {
+    "url": "https://v0.dev/t/wV3JLA3aKtv",
+    "label": "Template for prompt: a explore page for a travel website",
+    "dateAdded": "2024-01-22T17:30:03.019Z"
+  },
+  {
+    "url": "https://v0.dev/t/AHC0CeYCbtF",
+    "label": "Template for prompt: landing page to promote photographic courses in studio",
+    "dateAdded": "2024-01-22T17:30:03.019Z"
   }
 ]
