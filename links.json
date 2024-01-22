@@ -37443,5 +37443,135 @@
     "url": "https://v0.dev/t/6uW3NxpSuW3",
     "label": "Template for prompt: Crea un Zoom de imagen de página de producto de sitio web de comercio electrónico | lupa de imagen al pasar el mouse | ampliar la imagen al pasar el cursor por la imagen principal y mostrar al lado derecho. Tal como se muestra en la imagen compartida.",
     "dateAdded": "2024-01-22T18:00:04.273Z"
+  },
+  {
+    "url": "https://v0.dev/t/K9QSgKPVDKw",
+    "label": "Template for prompt: create a full screen photo display",
+    "dateAdded": "2024-01-22T18:05:03.832Z"
+  },
+  {
+    "url": "https://v0.dev/t/jM4F8pBe7Wv",
+    "label": "Template for prompt: create a minimalist VC portfolio main page. black background, logo, portoflio companies and a contact us button",
+    "dateAdded": "2024-01-22T18:05:03.832Z"
+  },
+  {
+    "url": "https://v0.dev/t/fw7HoAOz3R4",
+    "label": "Template for prompt: i need a home page of restaurant web site, you can use de color same black and orange",
+    "dateAdded": "2024-01-22T18:05:03.832Z"
+  },
+  {
+    "url": "https://v0.dev/t/w4H5XdiYbJL",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-22T18:05:03.832Z"
+  },
+  {
+    "url": "https://v0.dev/t/LlmIFENsr9I",
+    "label": "Template for prompt: i need home page for restaruant web site static",
+    "dateAdded": "2024-01-22T18:05:03.832Z"
+  },
+  {
+    "url": "https://v0.dev/t/gwXUdV4FnUg",
+    "label": "Template for prompt: create a full screen photo display frame in dark theme",
+    "dateAdded": "2024-01-22T18:05:03.832Z"
+  },
+  {
+    "url": "https://v0.dev/t/H3OkXJODMyz",
+    "label": "Template for prompt: re-create this interface, ",
+    "dateAdded": "2024-01-22T18:05:03.833Z"
+  },
+  {
+    "url": "https://v0.dev/t/rWhe8ohCHED",
+    "label": "Template for prompt: create a quiz template form",
+    "dateAdded": "2024-01-22T18:05:03.833Z"
+  },
+  {
+    "url": "https://v0.dev/t/SNE3xORXIgD",
+    "label": "Template for prompt: input box with a static suffix",
+    "dateAdded": "2024-01-22T18:05:03.833Z"
+  },
+  {
+    "url": "https://v0.dev/t/rMLIFRJCcVA",
+    "label": "Template for prompt: a coming soon landing page with a hero and tagline with a textbox to subscribe when its ready.  It needs to have a logo on the top left of the page. The logo can be a text with WorkTrust",
+    "dateAdded": "2024-01-22T18:05:03.833Z"
+  },
+  {
+    "url": "https://v0.dev/t/sdiZrC5nFqA",
+    "label": "Template for prompt: quiz template form",
+    "dateAdded": "2024-01-22T18:05:03.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/oqDGCnHCMhc",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-22T18:05:03.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/7BcFOTkqpuT",
+    "label": "Template for prompt: suit for sale page display suit information and payment form\ntype Suit = {\n    id: string\n    suitName: string\n    suitCat: SuitCat\n    suitQnt: number\n    suitPrice: number\n    thumbnail: string\n    Images?: string[]\n}",
+    "dateAdded": "2024-01-22T18:05:03.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/Bmabm22b64k",
+    "label": "Template for prompt: a map application using deck.gl and it's corresponding trips layer and polygon layer",
+    "dateAdded": "2024-01-22T18:05:03.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/BZfB0u9GGtr",
+    "label": "Template for prompt: a map application using deck.gl and it's corresponding trips layer and polygon layer",
+    "dateAdded": "2024-01-22T18:05:03.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/kKxQOKuPuIa",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T18:05:03.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/sifiAppMQp4",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-22T18:05:03.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/xH2Q5wX4h2r",
+    "label": "Template for prompt: ai slack bot creator wizard",
+    "dateAdded": "2024-01-22T18:05:03.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/NyOcTmntLV1",
+    "label": "Template for prompt: a coming soon landing page with a hero and tagline with a textbox to subscribe when its ready. ",
+    "dateAdded": "2024-01-22T18:05:03.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/7yXXs6yFP4b",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-22T18:05:03.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/dHbb1PShsX4",
+    "label": "Template for prompt: An internal tools dashboard for viewing a list of apps and some data about them",
+    "dateAdded": "2024-01-22T18:05:03.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/F5RHtZj9tdC",
+    "label": "Template for prompt: Create a page with a table and search where you can search customers",
+    "dateAdded": "2024-01-22T18:05:03.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/DUI12VLIcu5",
+    "label": "Template for prompt: I need the HTML and CSS code for this layout. You can use the following image image for the banner at the top of layout: https://placehold.co/1022x136",
+    "dateAdded": "2024-01-22T18:05:03.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/UhR2NwTlOui",
+    "label": "Template for prompt: main page that shows comunity highlights",
+    "dateAdded": "2024-01-22T18:05:03.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/z5iyx5TW3v0",
+    "label": "Template for prompt: page for small shop owner with form for entering sold items where he gets to pick the item sold, the variant ( like different colors ) and number of items , as well as source of sale. with the ability to add another entry on the same form",
+    "dateAdded": "2024-01-22T18:05:03.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/v3aF3TwB03E",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T18:05:03.836Z"
   }
 ]
