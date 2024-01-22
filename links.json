@@ -31513,5 +31513,135 @@
     "url": "https://v0.dev/t/b3ZC0PFqFhP",
     "label": "Template for prompt: A list where items can have sub-items",
     "dateAdded": "2024-01-22T01:45:03.743Z"
+  },
+  {
+    "url": "https://v0.dev/t/FyCdzjJxV0R",
+    "label": "Template for prompt: Pet profile editing page that has toggle buttons for which fields are private and which are public",
+    "dateAdded": "2024-01-22T01:50:03.116Z"
+  },
+  {
+    "url": "https://v0.dev/t/tg2KwfpKSgM",
+    "label": "Template for prompt: create a shadcnui component based of this image ",
+    "dateAdded": "2024-01-22T01:50:03.117Z"
+  },
+  {
+    "url": "https://v0.dev/t/X4Dy76LHPLh",
+    "label": "Template for prompt: something similar",
+    "dateAdded": "2024-01-22T01:50:03.117Z"
+  },
+  {
+    "url": "https://v0.dev/t/6wI9PeolphD",
+    "label": "Template for prompt: love for girlfriend",
+    "dateAdded": "2024-01-22T01:50:03.117Z"
+  },
+  {
+    "url": "https://v0.dev/t/aBP07qYphT1",
+    "label": "Template for prompt: create a minimalistic search box for job postings. it should have two inputs. one for searching job title and another for location. it should also have a button to view more filters",
+    "dateAdded": "2024-01-22T01:50:03.117Z"
+  },
+  {
+    "url": "https://v0.dev/t/DgjAxoxELGb",
+    "label": "Template for prompt: make me a table with collapsable rows ",
+    "dateAdded": "2024-01-22T01:50:03.117Z"
+  },
+  {
+    "url": "https://v0.dev/t/bRVhB6I1Jj1",
+    "label": "Template for prompt: drama",
+    "dateAdded": "2024-01-22T01:50:03.117Z"
+  },
+  {
+    "url": "https://v0.dev/t/8D6vByBIo3e",
+    "label": "Template for prompt: A really beautiful small user card containing image of the user, name of the user, 5 stars and a dropdown with options to change the user if wants",
+    "dateAdded": "2024-01-22T01:50:03.117Z"
+  },
+  {
+    "url": "https://v0.dev/t/aMbA0LcrNUr",
+    "label": "Template for prompt: create admin left menu and example 5 menu",
+    "dateAdded": "2024-01-22T01:50:03.118Z"
+  },
+  {
+    "url": "https://v0.dev/t/9l69F9DTNeZ",
+    "label": "Template for prompt: Tailwind and NextJS: A form pulls data from API url https://api.com/record/123 via GET request. The record has these properties: Name, Email, Phone. Email should be validated. After the form is submitted, the data is sent to this APi URL via PUT request https://api.com/record/123",
+    "dateAdded": "2024-01-22T01:50:03.118Z"
+  },
+  {
+    "url": "https://v0.dev/t/QwWWEAnaCIo",
+    "label": "Template for prompt: a discussions board similar to reddit, use shopify deisng system",
+    "dateAdded": "2024-01-22T01:50:03.118Z"
+  },
+  {
+    "url": "https://v0.dev/t/iEFzT9NyJvp",
+    "label": "Template for prompt: design me a card that has a cool design and 1 button that is inviting a user to make a payment",
+    "dateAdded": "2024-01-22T01:50:03.118Z"
+  },
+  {
+    "url": "https://v0.dev/t/7g6J85yanSs",
+    "label": "Template for prompt: A sleek landing page for a marketplace boilerplate template built in next.js / supabase / stripe. ",
+    "dateAdded": "2024-01-22T01:50:03.118Z"
+  },
+  {
+    "url": "https://v0.dev/t/vAFsnyt60Iv",
+    "label": "Template for prompt: ui for a note taking application",
+    "dateAdded": "2024-01-22T01:50:03.118Z"
+  },
+  {
+    "url": "https://v0.dev/t/x9qn2UEWXvR",
+    "label": "Template for prompt: create me a ui for an ai application that parses org charts into a set of individual agents for each role in the org chart",
+    "dateAdded": "2024-01-22T01:50:03.119Z"
+  },
+  {
+    "url": "https://v0.dev/t/P4HEd7FSYD5",
+    "label": "Template for prompt: Mobike page,  top left is current day, middle is timeline , bottom is input erea ",
+    "dateAdded": "2024-01-22T01:50:03.119Z"
+  },
+  {
+    "url": "https://v0.dev/t/3GUI923N4Ur",
+    "label": "Template for prompt: can you design me a form that invites the user to make a payment",
+    "dateAdded": "2024-01-22T01:50:03.119Z"
+  },
+  {
+    "url": "https://v0.dev/t/WzfDL4UzVZX",
+    "label": "Template for prompt: An AI dictionary and translator for traditional Chinese web extension that generates a card when the user highlights Chinese text. The card should include the following: word, AI-generated definition in English, Zhuyin, example sentence, and equivalent nuanced phrases in English. ",
+    "dateAdded": "2024-01-22T01:50:03.119Z"
+  },
+  {
+    "url": "https://v0.dev/t/MKPCrZzeCJX",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T01:50:03.119Z"
+  },
+  {
+    "url": "https://v0.dev/t/FgKZKKO8tkf",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T01:50:03.119Z"
+  },
+  {
+    "url": "https://v0.dev/t/6n7Z2mamVq4",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-22T01:50:03.120Z"
+  },
+  {
+    "url": "https://v0.dev/t/TwPGewNBCb6",
+    "label": "Template for prompt: a page with input to import blog, some parts of blog visible with an expander and chat interface where i can chat with ai about the blog content",
+    "dateAdded": "2024-01-22T01:50:03.120Z"
+  },
+  {
+    "url": "https://v0.dev/t/SJYjOFHjpIR",
+    "label": "Template for prompt: user configuration inside a dashboard",
+    "dateAdded": "2024-01-22T01:50:03.120Z"
+  },
+  {
+    "url": "https://v0.dev/t/L0ybhx7riBD",
+    "label": "Template for prompt: A toggle between \"A\" and \"B\"",
+    "dateAdded": "2024-01-22T01:50:03.120Z"
+  },
+  {
+    "url": "https://v0.dev/t/NnLfGErm0zv",
+    "label": "Template for prompt: user settings with avatar ",
+    "dateAdded": "2024-01-22T01:50:03.120Z"
+  },
+  {
+    "url": "https://v0.dev/t/lZeVcu5pew2",
+    "label": "Template for prompt: a dashboard with a sidebar and 4 elements in it, each of those element with more nested",
+    "dateAdded": "2024-01-22T01:50:03.121Z"
   }
 ]
