@@ -33888,5 +33888,135 @@
     "url": "https://v0.dev/t/nWvni2OpFA8",
     "label": "Template for prompt: Social login button",
     "dateAdded": "2024-01-22T15:40:03.544Z"
+  },
+  {
+    "url": "https://v0.dev/t/SCkAKwVTXLE",
+    "label": "Template for prompt: chat detail with messages and simple message form",
+    "dateAdded": "2024-01-22T15:45:03.427Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZU5XIFeudA2",
+    "label": "Template for prompt: A 3 Pane Dashboard with navigation on the left and a master-detail pane with a dynamic details pane that changes based on input in the master pane. There are 4 navigational items, 1) Home, 2) Orders, 3) Customers, 4) Product. Home is a dashboard view with analytic cards as well as paginated tables. Orders is a list of orders. Customers I'm unsure, be creative not just cards or lists maybe a combination of both? Product should a grid of products, filters on the left as well as categories at the top.",
+    "dateAdded": "2024-01-22T15:45:03.427Z"
+  },
+  {
+    "url": "https://v0.dev/t/e81sfyW2jdJ",
+    "label": "Template for prompt: A 3 Pane Dashboard with navigation on the left and a master-detail pane with a dynamic details pane that changes based on input in the master pane. There are 4 navigational items, 1) Home, 2) Orders, 3) Customers, 4) Product. Home is a dashboard view with analytic cards as well as paginated tables. Orders is a list of orders. Customers I'm unsure, be creative not just cards or lists maybe a combination of both? Product should a grid of products, filters on the left as well as categories at the top.",
+    "dateAdded": "2024-01-22T15:45:03.427Z"
+  },
+  {
+    "url": "https://v0.dev/t/MZbc7TCNrB6",
+    "label": "Template for prompt: userpanel rtl  with Bootstrap  and 1 drapdown menu",
+    "dateAdded": "2024-01-22T15:45:03.427Z"
+  },
+  {
+    "url": "https://v0.dev/t/izTSSFIyDyk",
+    "label": "Template for prompt: A landing page for a web development agency focusing on web3 and smart contracts. The agency is called Blockchain Sherpa.",
+    "dateAdded": "2024-01-22T15:45:03.428Z"
+  },
+  {
+    "url": "https://v0.dev/t/cY9bG5Eh9GJ",
+    "label": "Template for prompt: create a grid layout with 2 areas above each other vertically",
+    "dateAdded": "2024-01-22T15:45:03.428Z"
+  },
+  {
+    "url": "https://v0.dev/t/HHCDmW7BHEU",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-22T15:45:03.428Z"
+  },
+  {
+    "url": "https://v0.dev/t/p6iyxxBVOF2",
+    "label": "Template for prompt: login form",
+    "dateAdded": "2024-01-22T15:45:03.428Z"
+  },
+  {
+    "url": "https://v0.dev/t/aeQ6l9NOeY2",
+    "label": "Template for prompt: login form",
+    "dateAdded": "2024-01-22T15:45:03.428Z"
+  },
+  {
+    "url": "https://v0.dev/t/JQr7ruyNvrW",
+    "label": "Template for prompt: login form",
+    "dateAdded": "2024-01-22T15:45:03.428Z"
+  },
+  {
+    "url": "https://v0.dev/t/kf0Bmqqo4aY",
+    "label": "Template for prompt: user panel with bootstrap",
+    "dateAdded": "2024-01-22T15:45:03.428Z"
+  },
+  {
+    "url": "https://v0.dev/t/cpF9bk3qQtl",
+    "label": "Template for prompt: todo app mobile view tailwind colorful with data",
+    "dateAdded": "2024-01-22T15:45:03.429Z"
+  },
+  {
+    "url": "https://v0.dev/t/GxxUH7v3o0j",
+    "label": "Template for prompt: design me a page like that:\n",
+    "dateAdded": "2024-01-22T15:45:03.429Z"
+  },
+  {
+    "url": "https://v0.dev/t/UEdQ4ly0oix",
+    "label": "Template for prompt: Make me a mobile app onboarding for dog walker finding application. Not web!",
+    "dateAdded": "2024-01-22T15:45:03.429Z"
+  },
+  {
+    "url": "https://v0.dev/t/Bzd9HABgG2h",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T15:45:03.429Z"
+  },
+  {
+    "url": "https://v0.dev/t/QsEbuCIQ2YZ",
+    "label": "Template for prompt: A fitness app with a graph of the past 7 days of combined exercise and nutrician points. A section for starting a guided workout and a section for logging nutrician.",
+    "dateAdded": "2024-01-22T15:45:03.429Z"
+  },
+  {
+    "url": "https://v0.dev/t/rBOYTm0B20w",
+    "label": "Template for prompt: Create a fully responsive sidebar for all devices that is not connected to the top and bottom of the page, 50 pixels away from each side, connected to 5 items, one of which is a drop-down and 2 sub-sets, remember that the page is rtl and for each Fontawsome icon item, select the coat that is placed on the right side of the item\n1- The side bar must be fixed and can be closed or opened only in reactive mode\n2- It should be 80 pixels away from the right in desktop mode\n3-All items in the hover mode should have a very faint white color\n4- The background color should be purple\n5- This sidebar will be placed in a col-md-3 and col-md-9 will be the main text.\n6- Compliance with all 5 items above is mandatory and only use Bootstrap and Css dont use node js or React",
+    "dateAdded": "2024-01-22T15:45:03.429Z"
+  },
+  {
+    "url": "https://v0.dev/t/o9uOTHjMuqh",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a dashboard with graph of sales and purchase",
+    "dateAdded": "2024-01-22T15:45:03.429Z"
+  },
+  {
+    "url": "https://v0.dev/t/yUxvqxE2SLT",
+    "label": "Template for prompt: A landing page for a tool that analyzes a URL graph to look for language inconsistencies",
+    "dateAdded": "2024-01-22T15:45:03.429Z"
+  },
+  {
+    "url": "https://v0.dev/t/W2c6sW0qn50",
+    "label": "Template for prompt: An application that manages the history of parameter sets for ML models.\nYou can view the bugged history of parameter sets for each model, and select a parameter set to visualize the values inside the parameter set.",
+    "dateAdded": "2024-01-22T15:45:03.429Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yjvl7Rf4CS8",
+    "label": "Template for prompt: a website that displays a countdown for releasing a website on the 10th feb 2024",
+    "dateAdded": "2024-01-22T15:45:03.429Z"
+  },
+  {
+    "url": "https://v0.dev/t/PxrLd54YW0s",
+    "label": "Template for prompt: a paywall above a blog post that fade to whie at the bottom",
+    "dateAdded": "2024-01-22T15:45:03.430Z"
+  },
+  {
+    "url": "https://v0.dev/t/5jiXfwBuc7k",
+    "label": "Template for prompt: todo app beautiful colorful minimal",
+    "dateAdded": "2024-01-22T15:45:03.430Z"
+  },
+  {
+    "url": "https://v0.dev/t/n0yHB1j2eQG",
+    "label": "Template for prompt: create me a page to complete profile after signing up like in github profile",
+    "dateAdded": "2024-01-22T15:45:03.430Z"
+  },
+  {
+    "url": "https://v0.dev/t/hcXgDw3EgNv",
+    "label": "Template for prompt: a top header menu for desktop and responsive for mobile ",
+    "dateAdded": "2024-01-22T15:45:03.430Z"
+  },
+  {
+    "url": "https://v0.dev/t/rjGW72rVckq",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T15:45:03.430Z"
   }
 ]
