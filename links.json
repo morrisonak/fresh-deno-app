@@ -33383,5 +33383,135 @@
     "url": "https://v0.dev/t/44k2IbJgSAO",
     "label": "Template for prompt: instagram reels",
     "dateAdded": "2024-01-22T15:20:03.751Z"
+  },
+  {
+    "url": "https://v0.dev/t/awuTCDjZzuR",
+    "label": "Template for prompt: An web-app with a input field for adding a link to your personal calendar and importing the calender",
+    "dateAdded": "2024-01-22T15:25:03.755Z"
+  },
+  {
+    "url": "https://v0.dev/t/H5gg7JGT30G",
+    "label": "Template for prompt: 使用bootstrap 设计一个飞机维修项目控制的页面",
+    "dateAdded": "2024-01-22T15:25:03.756Z"
+  },
+  {
+    "url": "https://v0.dev/t/T45bSAq3rW6",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T15:25:03.756Z"
+  },
+  {
+    "url": "https://v0.dev/t/99BJco1pJuF",
+    "label": "Template for prompt: candidat profile edit",
+    "dateAdded": "2024-01-22T15:25:03.756Z"
+  },
+  {
+    "url": "https://v0.dev/t/5x7icJdl4QI",
+    "label": "Template for prompt: a simple token staking interface, user should be able to open/close a stake, claim rewards and add to the stake",
+    "dateAdded": "2024-01-22T15:25:03.757Z"
+  },
+  {
+    "url": "https://v0.dev/t/fQ1A9wtSx1k",
+    "label": "Template for prompt: A dark landing page with gradient and transparency effects for modern look, add a feature list and pricing plans, The project is called PyProtect and it helps you protect your python applications against reverse engineers",
+    "dateAdded": "2024-01-22T15:25:03.757Z"
+  },
+  {
+    "url": "https://v0.dev/t/4fLtAwxzEOg",
+    "label": "Template for prompt: a wizard form with submit button on top",
+    "dateAdded": "2024-01-22T15:25:03.757Z"
+  },
+  {
+    "url": "https://v0.dev/t/lDeo5VPWCBT",
+    "label": "Template for prompt: A form that represents a blueprint for creating coupons",
+    "dateAdded": "2024-01-22T15:25:03.757Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZVVG6vp541F",
+    "label": "Template for prompt: スマートコントラクトのノーコードツール",
+    "dateAdded": "2024-01-22T15:25:03.758Z"
+  },
+  {
+    "url": "https://v0.dev/t/UbbSG1ldOuz",
+    "label": "Template for prompt: generate me a page for the user after sign up to complete his profile. these are the fields:\nfirst_name String\n  last_name  String\n  email      String   @unique\n  gender     String\n  job        String\n  jobDes     String\n  avatar_url String\n  birth      Date\n  country    String\n  city       String\n  about      String\n  skills     Skill[]\n  socials    Social[]\n\nfor the skills display a list of skills for the user to select",
+    "dateAdded": "2024-01-22T15:25:03.758Z"
+  },
+  {
+    "url": "https://v0.dev/t/EizGulkMSNa",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T15:25:03.758Z"
+  },
+  {
+    "url": "https://v0.dev/t/RaszBiyVafw",
+    "label": "Template for prompt: Small blog about music",
+    "dateAdded": "2024-01-22T15:25:03.759Z"
+  },
+  {
+    "url": "https://v0.dev/t/oeDeBoowR18",
+    "label": "Template for prompt: Small blod about music",
+    "dateAdded": "2024-01-22T15:25:03.759Z"
+  },
+  {
+    "url": "https://v0.dev/t/U8g679Uy2wp",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.Beautiful Tailwind CSS hero section with gradient overlay and wavy bottom\nanimation ,txt animation ,image ",
+    "dateAdded": "2024-01-22T15:25:03.759Z"
+  },
+  {
+    "url": "https://v0.dev/t/OuYO5tgcHS3",
+    "label": "Template for prompt: Can you make it as a flowhart? Core Marketing Tools:\n\nPositioned as the foundational elements that support SEO optimization, market analysis, and brand presence.\nIncludes AdCreative.ai, Brandwatch, Typeform, Outgrow, SEMrush, Hootsuite, SharpSpring (Email Marketing), and Microsoft Teams (Webinars).\nContent Creation Tools:\n\nCentral to the diagram, emphasizing their role in content strategy and creation.\nComprises Canva, Pictory, and AdCreative.ai, with the Departmental Marketing GPT serving as the creative engine.\nAutomation and Analysis with Generative AI Support:\n\nHighlighted for their contribution to operational efficiency and data analysis.\nFeatures Power Platform and Azure Functions with OpenAI API and Azure Open AI API.\nSales Tools:\n\nConnected to the CRM and customer feedback mechanisms to optimize sales processes.\nIncludes Gong, Qwilr, and Microsoft CoPilot Studio.\nMarketing Central Engine:\n\nDepartmental Marketing GPT with Advanced Prompting is showcased as a pivotal element for ",
+    "dateAdded": "2024-01-22T15:25:03.759Z"
+  },
+  {
+    "url": "https://v0.dev/t/OxGQTItnhfL",
+    "label": "Template for prompt: travel planner",
+    "dateAdded": "2024-01-22T15:25:03.760Z"
+  },
+  {
+    "url": "https://v0.dev/t/88BumNjnb3y",
+    "label": "Template for prompt: design sidebar as present in youtube website",
+    "dateAdded": "2024-01-22T15:25:03.760Z"
+  },
+  {
+    "url": "https://v0.dev/t/33GDJ941oMa",
+    "label": "Template for prompt: سلام",
+    "dateAdded": "2024-01-22T15:25:03.760Z"
+  },
+  {
+    "url": "https://v0.dev/t/IaukIReuYDb",
+    "label": "Template for prompt: A list of outstanding tasks for the day including overdue ones from previous days clearly marked and details on each task including 4-5 pieces of information and a button to take you to the relevant entity",
+    "dateAdded": "2024-01-22T15:25:03.760Z"
+  },
+  {
+    "url": "https://v0.dev/t/cmFrhNeLj4W",
+    "label": "Template for prompt: Create me a retro game console interface with buttons and a screen",
+    "dateAdded": "2024-01-22T15:25:03.760Z"
+  },
+  {
+    "url": "https://v0.dev/t/UNJKwIEzjyn",
+    "label": "Template for prompt: redesign this dashboard",
+    "dateAdded": "2024-01-22T15:25:03.761Z"
+  },
+  {
+    "url": "https://v0.dev/t/mdS3WVe24LT",
+    "label": "Template for prompt: Create a landing page for Ravel. \nThe landing page is a simple page in modern stylish grayscale design with the name of the company, once sentence that give a hint as to what Ravel does, an indication that the company is in stealth mode, and an option to “Join Waitlist” by entering an email and clicking submit.\n\nRavel company description:\n\nRavel helps revenue teams drive bigger pipeline and faster sales cycle by delivering prospects that are most likely to buy. \n\nWhenever your customers change their jobs, Ravel automatically surfaces them as new leads to your sales reps. This is because past customers are four times more likely to convert if approached in a timely manner, leading to a 2.5 times increase in the average win rate of the deal.\n\nIn addition, customer success reps use our system to identify opportunities and threats when new stakeholders join or leave their account , and revops teams rely on us to ensure contacts are always up-to-date and actionable.\n\nOur customers see immed",
+    "dateAdded": "2024-01-22T15:25:03.761Z"
+  },
+  {
+    "url": "https://v0.dev/t/lAcSaYk2ZXe",
+    "label": "Template for prompt: Make me a landing page similar to this, add a feature list and a price list",
+    "dateAdded": "2024-01-22T15:25:03.761Z"
+  },
+  {
+    "url": "https://v0.dev/t/8csFGjhUGkG",
+    "label": "Template for prompt: A Rental Management tool with a sidebar navigation in a ShadcnUI-like look",
+    "dateAdded": "2024-01-22T15:25:03.761Z"
+  },
+  {
+    "url": "https://v0.dev/t/ur3X2bZUSLr",
+    "label": "Template for prompt: A mobile application promotion page, single page. Privacy, EULA links. App Store Download button.",
+    "dateAdded": "2024-01-22T15:25:03.762Z"
+  },
+  {
+    "url": "https://v0.dev/t/ms76fowwGU7",
+    "label": "Template for prompt: Design a web page for a care homes marketing website Our Services page. The services are: Assisted Living Service, Medical and Health Care Services, Memory Care, Rehabilitation Services, Nutritional Services, Social and Recreational Activities, Housekeeping and Maintenance, End-of-Life Care",
+    "dateAdded": "2024-01-22T15:25:03.762Z"
   }
 ]
