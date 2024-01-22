@@ -36793,5 +36793,135 @@
     "url": "https://v0.dev/t/BKiStPq5PtY",
     "label": "Template for prompt: Create the styles in css for the boxes",
     "dateAdded": "2024-01-22T17:35:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/mlX4K55NKlE",
+    "label": "Template for prompt: create a dashboard page with color black and orange for createing order and making order for code that page would have avatar of user and log out button / change account",
+    "dateAdded": "2024-01-22T17:40:04.003Z"
+  },
+  {
+    "url": "https://v0.dev/t/sT6kujD6o6m",
+    "label": "Template for prompt: I want a model card for an AI model that shows five categories on the right, a star rating on the left and the name of the model at the top of the card",
+    "dateAdded": "2024-01-22T17:40:04.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/1IZuC4nX2MG",
+    "label": "Template for prompt: Payments list, including icon, who paid, you or your friend, how much was paid, how much i owe someone or someone me",
+    "dateAdded": "2024-01-22T17:40:04.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/KVdqia61cTT",
+    "label": "Template for prompt: a textbox with a button inside",
+    "dateAdded": "2024-01-22T17:40:04.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/1OmHdusKY5D",
+    "label": "Template for prompt: re-create this interface",
+    "dateAdded": "2024-01-22T17:40:04.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/3OMDVUhVhYq",
+    "label": "Template for prompt: Crea un Zoom de imagen de página de producto de sitio web de comercio electrónico | lupa de imagen al pasar el mouse | ampliar la imagen al pasar el cursor por la imagen principal. Tal como se muestra en la imagen compartida",
+    "dateAdded": "2024-01-22T17:40:04.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/nbmRiTKEsCd",
+    "label": "Template for prompt: Create a table with adjustable columns. There should be pagination on the table of 10, 20, and 50 results. It should display the total as well. There should be a filters button that allows the selection of filters based on the kind selected. The kind selected should be outside of the filter and provide an easy way to toggle between different kinds within this system - Let's first say the kinds are: \"Services\", \"Applications\", \"Deployments\", and \"Builds\". Make columns A-Z and make them swappable using a columns button that allows you to show or hide columns from a list (the list should be intuitive and easy to use even with large amounts of options). We will want to use the theme: Use the theme of Black #000000 for text, OffWhite: #E5EAE1 for background, Ink #062FAF for buttons, Posy #813772 for accents, and Embers #882601 for selections to liven up the design.",
+    "dateAdded": "2024-01-22T17:40:04.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/YdbTzXUkEBl",
+    "label": "Template for prompt: create an event countdown page",
+    "dateAdded": "2024-01-22T17:40:04.005Z"
+  },
+  {
+    "url": "https://v0.dev/t/LmXAmMzCG1Q",
+    "label": "Template for prompt: using shadcn create a hero section",
+    "dateAdded": "2024-01-22T17:40:04.005Z"
+  },
+  {
+    "url": "https://v0.dev/t/KbS63eT8IKH",
+    "label": "Template for prompt: Give me a ui where I will display a sentence. \nI will write the sentence and if there is a correction, I'll strike down the sentence and show the correction below it. Something like this image \n\nMake sure to show the correction exactly below the original sentence. Try to make the ui look good and modern. Maybe you can use curly braces instead of lines to show the error something like this",
+    "dateAdded": "2024-01-22T17:40:04.005Z"
+  },
+  {
+    "url": "https://v0.dev/t/CQQXclilHW1",
+    "label": "Template for prompt: how to create a section component of two images horizontally equal in two parts, but when hover over one image then its width will increase little (70%) and other one will(30%), and vice versa",
+    "dateAdded": "2024-01-22T17:40:04.005Z"
+  },
+  {
+    "url": "https://v0.dev/t/gTFwVVhB6PD",
+    "label": "Template for prompt: A feature to create and display snippets / diary",
+    "dateAdded": "2024-01-22T17:40:04.006Z"
+  },
+  {
+    "url": "https://v0.dev/t/QrHaTL6Sryn",
+    "label": "Template for prompt: create me a dashboard for completed tasks, in process tasks, not started tasks",
+    "dateAdded": "2024-01-22T17:40:04.006Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZrcYJuS65Wg",
+    "label": "Template for prompt: using shadcn create a footer",
+    "dateAdded": "2024-01-22T17:40:04.006Z"
+  },
+  {
+    "url": "https://v0.dev/t/kAX5Uvafdky",
+    "label": "Template for prompt: write me language dropdown for czech and english",
+    "dateAdded": "2024-01-22T17:40:04.006Z"
+  },
+  {
+    "url": "https://v0.dev/t/KJsjvV0UmFx",
+    "label": "Template for prompt: a from with phone input to sent predefined text to Watsapp",
+    "dateAdded": "2024-01-22T17:40:04.006Z"
+  },
+  {
+    "url": "https://v0.dev/t/meCPAMmJJtK",
+    "label": "Template for prompt: give me a nav which has buttons for login and register and the title which locates to the root /",
+    "dateAdded": "2024-01-22T17:40:04.006Z"
+  },
+  {
+    "url": "https://v0.dev/t/JFkbgbEfr91",
+    "label": "Template for prompt: login page inspired by apple's login page",
+    "dateAdded": "2024-01-22T17:40:04.007Z"
+  },
+  {
+    "url": "https://v0.dev/t/d8irMOWfhce",
+    "label": "Template for prompt: Pricing page with starter, standard, and enterprise pricing tiers",
+    "dateAdded": "2024-01-22T17:40:04.007Z"
+  },
+  {
+    "url": "https://v0.dev/t/jwcV1aZF7qG",
+    "label": "Template for prompt: The UI from the Screenshot. That is a hero section with a grid gallery below it. The Grid gallery must show squared images with a title as an overlay.",
+    "dateAdded": "2024-01-22T17:40:04.007Z"
+  },
+  {
+    "url": "https://v0.dev/t/Md50Jj5h9So",
+    "label": "Template for prompt: Landing page with a big header and a subheader. input to collect emails ",
+    "dateAdded": "2024-01-22T17:40:04.007Z"
+  },
+  {
+    "url": "https://v0.dev/t/XrnGUB1O9hk",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T17:40:04.008Z"
+  },
+  {
+    "url": "https://v0.dev/t/GxxLoKZFjKw",
+    "label": "Template for prompt: portfolio for a react developer with an attractive look and options for about, skills, projects and contact ",
+    "dateAdded": "2024-01-22T17:40:04.008Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qpk1xZTJWyF",
+    "label": "Template for prompt: create a modal with check",
+    "dateAdded": "2024-01-22T17:40:04.008Z"
+  },
+  {
+    "url": "https://v0.dev/t/QkanOFDH0pv",
+    "label": "Template for prompt: a taxi operator admin dashboard",
+    "dateAdded": "2024-01-22T17:40:04.008Z"
+  },
+  {
+    "url": "https://v0.dev/t/OjIkvQXq6nf",
+    "label": "Template for prompt: create a UI in react component",
+    "dateAdded": "2024-01-22T17:40:04.009Z"
   }
 ]
