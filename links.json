@@ -32873,5 +32873,125 @@
     "url": "https://v0.dev/t/XOJ3Xyaf9aa",
     "label": "Template for prompt: I need a subscription model landing page with a free, pro and enterprise option",
     "dateAdded": "2024-01-22T15:00:04.057Z"
+  },
+  {
+    "url": "https://v0.dev/t/82upcuVxQ5F",
+    "label": "Template for prompt: create a hamburger menu",
+    "dateAdded": "2024-01-22T15:05:03.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/P4KIR6eEhpD",
+    "label": "Template for prompt: [\n    {\n        tramo: 'A',\n        ncantidanecesaria: 6,\n        productos: [\n            { cnombreproducto: 'Producto A', valor: 1 },\n            { cnombreproducto: 'Producto B', valor: 1 },\n            { cnombreproducto: 'Producto C', valor: 0.25 },\n        ],\n    },\n    {\n        tramo: 'B',\n        ncantidanecesaria: 1,\n        productos: [\n            { cnombreproducto: 'Producto D', valor: 1 },\n        ],\n    },\n    {\n        tramo: 'C',\n        ncantidanecesaria: 0,\n        productos: [\n            { cnombreproducto: 'Producto E', valor: 0 },\n        ],\n    },\n   ] crea una tabla que muestre cada dato en una celda propia, y agrupa por la filas de la columna tramos",
+    "dateAdded": "2024-01-22T15:05:03.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/oi9bJb9qZbP",
+    "label": "Template for prompt: build 5 responsive content in one div using flex-wrap",
+    "dateAdded": "2024-01-22T15:05:03.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/38l1T20Gf3p",
+    "label": "Template for prompt: radio cards",
+    "dateAdded": "2024-01-22T15:05:03.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/tYfI0UczInj",
+    "label": "Template for prompt: make  music player for astro.js",
+    "dateAdded": "2024-01-22T15:05:03.384Z"
+  },
+  {
+    "url": "https://v0.dev/t/RsVSRtEY5il",
+    "label": "Template for prompt: make a netflix like login page, dark theme",
+    "dateAdded": "2024-01-22T15:05:03.384Z"
+  },
+  {
+    "url": "https://v0.dev/t/s59mrpuffyc",
+    "label": "Template for prompt: John was learning arrays data structure when his friend Ram arrived. Seeing John, Ram thought of a challenge for John. He challenged him to calculate the measurement of the array.\n\nGiven a 0 indexed array Ram defined the measurement of the array as the sum of sanities of all the elements in the array. The sanity of an element in the array was defined as the sum of its index and the index of its last occurrence in the array.\n\nNote that duplicate elements may exist in the array.\n\nGiven an array, your task is to help John in calculating the measurement of the array. Since the output may be too large therefore print it modulo 1000000007.",
+    "dateAdded": "2024-01-22T15:05:03.384Z"
+  },
+  {
+    "url": "https://v0.dev/t/O5hgw7QyBCh",
+    "label": "Template for prompt: A real-time collaborative tool such as Figma, provides for users to enter individual prompts as multiple inputs such as promopts to a single generative AI and this generative AI will then consolidate and output an image from those users",
+    "dateAdded": "2024-01-22T15:05:03.384Z"
+  },
+  {
+    "url": "https://v0.dev/t/af9Mh1XScKa",
+    "label": "Template for prompt: collapsible sidebar with a fix button at the top",
+    "dateAdded": "2024-01-22T15:05:03.384Z"
+  },
+  {
+    "url": "https://v0.dev/t/JGZ5qrL9rjR",
+    "label": "Template for prompt: a content bar with three elements that has plain text that becomes a button when hovered ",
+    "dateAdded": "2024-01-22T15:05:03.384Z"
+  },
+  {
+    "url": "https://v0.dev/t/i2ptZfNgKPH",
+    "label": "Template for prompt: 3 column grid layout with a left and a ride sidepanel where the center column grows to fit the available horizontal space, and the left panel has a fixed width of 240px and the right panel has a fixed width of 300px. The page layout should also make the columns full viewport height and overflowing content of any column should be scrollable with that column being the container. There should be a button to toggle displaying the left side panel and a button to toggle displaying the right one. ",
+    "dateAdded": "2024-01-22T15:05:03.384Z"
+  },
+  {
+    "url": "https://v0.dev/t/RjORpZl2hDP",
+    "label": "Template for prompt: a transactions page for a cryptocurrency tax software",
+    "dateAdded": "2024-01-22T15:05:03.385Z"
+  },
+  {
+    "url": "https://v0.dev/t/Vni08DMMJJt",
+    "label": "Template for prompt: Process diagrammer tool using shadcn. There is a title, a prompt card and a card with a diagram",
+    "dateAdded": "2024-01-22T15:05:03.385Z"
+  },
+  {
+    "url": "https://v0.dev/t/gpyY6dZJn7Y",
+    "label": "Template for prompt: A task manager with dark mode, as a kanban style",
+    "dateAdded": "2024-01-22T15:05:03.385Z"
+  },
+  {
+    "url": "https://v0.dev/t/uzjuAUVfAmz",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-22T15:05:03.385Z"
+  },
+  {
+    "url": "https://v0.dev/t/DGnx7ZGM8X2",
+    "label": "Template for prompt: A responsive table containing 5 columns: id, status, created at time, request (json), response (plain text), and ip address",
+    "dateAdded": "2024-01-22T15:05:03.385Z"
+  },
+  {
+    "url": "https://v0.dev/t/L7lrPQsQOhe",
+    "label": "Template for prompt: Tree view",
+    "dateAdded": "2024-01-22T15:05:03.385Z"
+  },
+  {
+    "url": "https://v0.dev/t/PTy6y7Sk3OV",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T15:05:03.385Z"
+  },
+  {
+    "url": "https://v0.dev/t/doC3jutqiK8",
+    "label": "Template for prompt: a stock web page in the form of a table with a small image in the left-hand column followed by some text in the second column",
+    "dateAdded": "2024-01-22T15:05:03.385Z"
+  },
+  {
+    "url": "https://v0.dev/t/p0VUFBZTyj6",
+    "label": "Template for prompt: no-code app to build pages with drag and drop component, resizable grid",
+    "dateAdded": "2024-01-22T15:05:03.385Z"
+  },
+  {
+    "url": "https://v0.dev/t/oF32SU7jqNJ",
+    "label": "Template for prompt: product detail page",
+    "dateAdded": "2024-01-22T15:05:03.386Z"
+  },
+  {
+    "url": "https://v0.dev/t/lTmNf8bxm55",
+    "label": "Template for prompt: write html and css code of the provided pictures with responsiveness",
+    "dateAdded": "2024-01-22T15:05:03.386Z"
+  },
+  {
+    "url": "https://v0.dev/t/q9k1mNlTtUy",
+    "label": "Template for prompt: login and signup form",
+    "dateAdded": "2024-01-22T15:05:03.386Z"
+  },
+  {
+    "url": "https://v0.dev/t/8XRDbx4yHw4",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-22T15:05:03.386Z"
   }
 ]
