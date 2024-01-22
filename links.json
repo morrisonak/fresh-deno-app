@@ -38093,5 +38093,135 @@
     "url": "https://v0.dev/t/iSYQo6GFUDK",
     "label": "Template for prompt: re-create this interface, re-designing it in the process",
     "dateAdded": "2024-01-22T18:25:03.404Z"
+  },
+  {
+    "url": "https://v0.dev/t/NyFw91z11AP",
+    "label": "Template for prompt: a mobile app design DutyDuo, it is an app distribute house chores between couples",
+    "dateAdded": "2024-01-22T18:30:03.519Z"
+  },
+  {
+    "url": "https://v0.dev/t/B8f0r3EznYA",
+    "label": "Template for prompt: virtual table component",
+    "dateAdded": "2024-01-22T18:30:03.519Z"
+  },
+  {
+    "url": "https://v0.dev/t/ipNWOXGCQai",
+    "label": "Template for prompt: A rank and review album databse. based on progarchives. I need a very good UX album list table like with album cover, rating, album title, band, release year, etc. I want a very good highlight on the album cover but very usable. make it dark by default",
+    "dateAdded": "2024-01-22T18:30:03.519Z"
+  },
+  {
+    "url": "https://v0.dev/t/5EMNK4yjkkx",
+    "label": "Template for prompt: csv upload failures line wise design logger",
+    "dateAdded": "2024-01-22T18:30:03.519Z"
+  },
+  {
+    "url": "https://v0.dev/t/n5MImNBhVV4",
+    "label": "Template for prompt: A list of recipes but not all have featured image",
+    "dateAdded": "2024-01-22T18:30:03.520Z"
+  },
+  {
+    "url": "https://v0.dev/t/NHQAjssgUVR",
+    "label": "Template for prompt: dame un componente de preview with code",
+    "dateAdded": "2024-01-22T18:30:03.520Z"
+  },
+  {
+    "url": "https://v0.dev/t/sS7xZ2Etc0P",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-22T18:30:03.520Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yk4RIbJujAh",
+    "label": "Template for prompt: a design properties panel for a web page builder",
+    "dateAdded": "2024-01-22T18:30:03.520Z"
+  },
+  {
+    "url": "https://v0.dev/t/IeJPh0p2jwD",
+    "label": "Template for prompt: create a comment section",
+    "dateAdded": "2024-01-22T18:30:03.520Z"
+  },
+  {
+    "url": "https://v0.dev/t/meSNX0Thct6",
+    "label": "Template for prompt: Generate all separate C# code entity classes for EF Core from the following information, using the table name, its column, and data types as a reference. I also want you to relate the classes that match to see the navigation properties. Put the names of the properties in Pascal case, separate all classes, and use the following namespace \"Models.Entities\" for each individual class and the names of the entities that only have \": BaseEntity\" apply the inheritance.",
+    "dateAdded": "2024-01-22T18:30:03.521Z"
+  },
+  {
+    "url": "https://v0.dev/t/YB5CmlfsUCg",
+    "label": "Template for prompt: a phone number input with country code and flag as a dropdown",
+    "dateAdded": "2024-01-22T18:30:03.521Z"
+  },
+  {
+    "url": "https://v0.dev/t/vxXQ6vpGlrL",
+    "label": "Template for prompt: app catalog musculation exercices for phone",
+    "dateAdded": "2024-01-22T18:30:03.521Z"
+  },
+  {
+    "url": "https://v0.dev/t/dFZNe9dXODV",
+    "label": "Template for prompt: Landing page of a food delivery web app",
+    "dateAdded": "2024-01-22T18:30:03.521Z"
+  },
+  {
+    "url": "https://v0.dev/t/mL9ab1W70VL",
+    "label": "Template for prompt: a movie streaming app (mobile)",
+    "dateAdded": "2024-01-22T18:30:03.521Z"
+  },
+  {
+    "url": "https://v0.dev/t/QUi1HlWNblu",
+    "label": "Template for prompt: stylish, thin slanted marquee element spanning the width of the page",
+    "dateAdded": "2024-01-22T18:30:03.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/WZOWVaC5E2w",
+    "label": "Template for prompt: portfolio for react developer with attractive look and about options with contact button, skills, projects and contact",
+    "dateAdded": "2024-01-22T18:30:03.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/qhXt0WL5cxW",
+    "label": "Template for prompt: From this screenshot, I need a component with two tab controls.\n\n\nFor the new page section, we require two tabs, which maintain the current visible state to filter content in the views below it.\n\nCreate a GroupStageTabs component to the view elements\n\nStandings/Matchups\n\nThese tables will control whether or not the user is seeing the GroupStageStandings view, or the GroupStageMathes up view\n\nGroups\n\nEach group from the  data will be connected to various results across both views.\n\nThe state for these tabs can live in the TournamentsContainer and pass down current/setters into GroupStageTabs component for rendering, and triggering the state in the parent so the views access it.",
+    "dateAdded": "2024-01-22T18:30:03.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/kIPC67reS75",
+    "label": "Template for prompt: A rank and review album databse. based on progarchives. I need a very good UX album list table like with album cover, rating, album title, band, release year.",
+    "dateAdded": "2024-01-22T18:30:03.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/MltgtOIRGf8",
+    "label": "Template for prompt: A landing page for my SaaS start up. \nA hero line that says \"The ultimate post-purchase tool-kit... for free.\"\nThen 2 buttons below that say: Join Beta & Watch Demo",
+    "dateAdded": "2024-01-22T18:30:03.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/DqWXLCHuPhP",
+    "label": "Template for prompt: make the font more sleek",
+    "dateAdded": "2024-01-22T18:30:03.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/vdXdTo6sRx6",
+    "label": "Template for prompt: I want to create a website for users to have their wishlist. When you are authenticated, you have an input to insert an url for the product you want. When you submit, the backend will fetch the product information and then refresh the list that apears bellow the input. Each user can have multiple wishlists. Each wishlist can either be public, private or shared with chosen users",
+    "dateAdded": "2024-01-22T18:30:03.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/KpM1Cr3Mwqs",
+    "label": "Template for prompt: a groceries list dashboard",
+    "dateAdded": "2024-01-22T18:30:03.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/qQ0OlwsveYl",
+    "label": "Template for prompt: create a landing page containing a table which has CRUD operations on the data of the table",
+    "dateAdded": "2024-01-22T18:30:03.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/kZAChe9Hwub",
+    "label": "Template for prompt: An onboarding email",
+    "dateAdded": "2024-01-22T18:30:03.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/HkOlXrvWe02",
+    "label": "Template for prompt: Can you create minimal expansion panels, with title and subtitle at the left and an icon at the right that changes when panel is expanded or not. The content of the expanded panel can be regular HTML",
+    "dateAdded": "2024-01-22T18:30:03.524Z"
+  },
+  {
+    "url": "https://v0.dev/t/4Hxqc6cCwke",
+    "label": "Template for prompt: Slanted, stylish marquee ribbon element spanning the width of the page, yellow",
+    "dateAdded": "2024-01-22T18:30:03.524Z"
   }
 ]
