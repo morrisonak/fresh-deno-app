@@ -41308,5 +41308,135 @@
     "url": "https://v0.dev/t/qKfHT369huF",
     "label": "Template for prompt: a skelaton for interactive value chain for a company called SIDPEC with petrochemical background",
     "dateAdded": "2024-01-22T20:30:03.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/HWIl8biWoHt",
+    "label": "Template for prompt: create a table (we use meterial-ui component library) with a search bar to search by name",
+    "dateAdded": "2024-01-22T20:35:02.933Z"
+  },
+  {
+    "url": "https://v0.dev/t/f4TYEKVapbg",
+    "label": "Template for prompt: Create a landing page for an information technology department similar to the image provided",
+    "dateAdded": "2024-01-22T20:35:02.933Z"
+  },
+  {
+    "url": "https://v0.dev/t/zuUWN1JVHRd",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-22T20:35:02.933Z"
+  },
+  {
+    "url": "https://v0.dev/t/P1e55kGLH4u",
+    "label": "Template for prompt: a project tracker",
+    "dateAdded": "2024-01-22T20:35:02.933Z"
+  },
+  {
+    "url": "https://v0.dev/t/kfW7KmFhDcz",
+    "label": "Template for prompt: An empty page with not found like type",
+    "dateAdded": "2024-01-22T20:35:02.933Z"
+  },
+  {
+    "url": "https://v0.dev/t/dtJO3JGViPv",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T20:35:02.933Z"
+  },
+  {
+    "url": "https://v0.dev/t/zpfbqTNKcho",
+    "label": "Template for prompt: Create an Event organizer page for a profissional business platform where founders and startup can choose a venue from collection of venues provided from the community for free and hire volaunteer and find sponser for thier event and speakers, industry leaders, investors and media and influncers or any other service needed to create an event for free where founders and proffisional community help each other ",
+    "dateAdded": "2024-01-22T20:35:02.933Z"
+  },
+  {
+    "url": "https://v0.dev/t/qFGZDT7G4Xp",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T20:35:02.933Z"
+  },
+  {
+    "url": "https://v0.dev/t/r4XgUMYjE5K",
+    "label": "Template for prompt: landing page for a startup called kanun ai",
+    "dateAdded": "2024-01-22T20:35:02.934Z"
+  },
+  {
+    "url": "https://v0.dev/t/s1uJbTteMV6",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T20:35:02.934Z"
+  },
+  {
+    "url": "https://v0.dev/t/C04PHXf2o3I",
+    "label": "Template for prompt: Admin page to orders, with the fields (Marketplace ID, Canal, Produtos, Data, Ações), should be able to filter, paginate, select multiple rows. Filter, pagination are made by a backend request",
+    "dateAdded": "2024-01-22T20:35:02.934Z"
+  },
+  {
+    "url": "https://v0.dev/t/X2XRbqKTXZU",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T20:35:02.934Z"
+  },
+  {
+    "url": "https://v0.dev/t/PuwUdv3X1NY",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-22T20:35:02.934Z"
+  },
+  {
+    "url": "https://v0.dev/t/b5gAs9WUNb6",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T20:35:02.934Z"
+  },
+  {
+    "url": "https://v0.dev/t/i14s5kkxWyS",
+    "label": "Template for prompt: I need a modern header for an authenticated user",
+    "dateAdded": "2024-01-22T20:35:02.934Z"
+  },
+  {
+    "url": "https://v0.dev/t/9FhWOEXsZwK",
+    "label": "Template for prompt: do a react tailwind component using recharts using the image as example",
+    "dateAdded": "2024-01-22T20:35:02.935Z"
+  },
+  {
+    "url": "https://v0.dev/t/bItPSIxY7vY",
+    "label": "Template for prompt: Document page viewer with a grid of pages to select to the left and the page viewer on the right",
+    "dateAdded": "2024-01-22T20:35:02.935Z"
+  },
+  {
+    "url": "https://v0.dev/t/guCT6Qwzu7m",
+    "label": "Template for prompt: An application to automatically label images with owlv2. you can drag and drop or select an image. You have 3 inputs: text prompt, threshold and nms tresholds. The thresholds are sliders from 0-1. Then you have a button to process the image and then when processed you get the image back with labels",
+    "dateAdded": "2024-01-22T20:35:02.935Z"
+  },
+  {
+    "url": "https://v0.dev/t/oNR1MCmKNJE",
+    "label": "Template for prompt: Please develop this mobile version in react and tailwind",
+    "dateAdded": "2024-01-22T20:35:02.935Z"
+  },
+  {
+    "url": "https://v0.dev/t/xWhD0vFXB28",
+    "label": "Template for prompt: give me a portal layout with navigation bar on left side and header which contains the logged in user information and the notification button",
+    "dateAdded": "2024-01-22T20:35:02.935Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZurByGvKAls",
+    "label": "Template for prompt: Page of sign in and sign up",
+    "dateAdded": "2024-01-22T20:35:02.935Z"
+  },
+  {
+    "url": "https://v0.dev/t/I3LhM8LeGNZ",
+    "label": "Template for prompt: admin statistic ui",
+    "dateAdded": "2024-01-22T20:35:02.935Z"
+  },
+  {
+    "url": "https://v0.dev/t/NK2FWiFwbKN",
+    "label": "Template for prompt: Create an Event organizer page for a profissional business platform where founders and startup can choose a venue from collection of venues provided from the community for free and hire volaunteer and find sponser for thier event and speakers, industry leaders, investors and media and influncers or any other service needed to create an event for free where founders and proffisional community help each other ",
+    "dateAdded": "2024-01-22T20:35:02.935Z"
+  },
+  {
+    "url": "https://v0.dev/t/WotIJvlFtSI",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T20:35:02.936Z"
+  },
+  {
+    "url": "https://v0.dev/t/OkEPhHhq71k",
+    "label": "Template for prompt: create a card for notes-app that has title, description, tags, and buttons for edit, delete, archive/unarchive",
+    "dateAdded": "2024-01-22T20:35:02.936Z"
+  },
+  {
+    "url": "https://v0.dev/t/g20PzCqksi7",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-22T20:35:02.936Z"
   }
 ]
