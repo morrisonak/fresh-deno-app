@@ -37833,5 +37833,135 @@
     "url": "https://v0.dev/t/q78pHFv96qt",
     "label": "Template for prompt: make a linkedin resume finder",
     "dateAdded": "2024-01-22T18:15:04.524Z"
+  },
+  {
+    "url": "https://v0.dev/t/LirX9eyXjHK",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders. with a customer star rating next to each order . the ratings should range from 1-5 and use a star svg icon",
+    "dateAdded": "2024-01-22T18:20:03.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/iSYQo6GFUDK",
+    "label": "Template for prompt: re-create this interface, re-designing it in the process",
+    "dateAdded": "2024-01-22T18:20:03.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/XO9bAyuhEUR",
+    "label": "Template for prompt: An onboarding email to welcome new sales reps",
+    "dateAdded": "2024-01-22T18:20:03.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/XSm0DvXyCGM",
+    "label": "Template for prompt: create me a Customer Page where people can come an see what all customer i have worked with ",
+    "dateAdded": "2024-01-22T18:20:03.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/h9TKQBITWMv",
+    "label": "Template for prompt: An interactive query builder for pets on my veterinary care app. I select filters (like pet species, last time seen in clinic) and it populates a table of pets below that meet those filters. Filters can be thought of as logical operations eg (dog OR cat, AND last seen 30 days ago). From this view I can start an SMS chat with any of these pets, or send all of them an email campaign",
+    "dateAdded": "2024-01-22T18:20:03.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/LJkOmbSOGLE",
+    "label": "Template for prompt: A section with contact informations like whatsapp and cellphone of two enterprises/options",
+    "dateAdded": "2024-01-22T18:20:03.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/FygODSwzRMS",
+    "label": "Template for prompt: create a marketplace page with filters on the left, product lists on the right and a search for product",
+    "dateAdded": "2024-01-22T18:20:03.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/zLyEZUdT0Db",
+    "label": "Template for prompt:  AI search engine for marketers and business professionals that looks like Perpexlity AI",
+    "dateAdded": "2024-01-22T18:20:03.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/OrSH6nBxbru",
+    "label": "Template for prompt: a landing page for a next-level cryptocurrency-infused hot dog",
+    "dateAdded": "2024-01-22T18:20:03.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/w66isiFXPAk",
+    "label": "Template for prompt: A library site",
+    "dateAdded": "2024-01-22T18:20:03.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/qNybrJ1dZoE",
+    "label": "Template for prompt: A card for a github repository with the following details. \n\n    {\n        \"created\": \"25/04/22\",\n        \"forks\": 30,\n        \"indexed_on\": \"21/01/24\",\n        \"open_issues\": 4,\n        \"repo_description\": \"Long-Inference, High Quality Synthetic Speaker (AI avatar/ AI presenter)\",\n        \"repo_ingestion_status\": \"Code Files Indexed\",\n        \"repo_name\": \"LIHQ\",\n        \"repo_org_name\": \"johnGettings\",\n        \"repo_url\": \"https://github.com/johnGettings/LIHQ\",\n        \"stars\": 197\n    }\n\nWith two buttons \"Talk to Repo\" on the right and bottom of the card and \"View Repo Deep Dive\" on the left bottom. \n\nUse the image for inspiration. ",
+    "dateAdded": "2024-01-22T18:20:03.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/rQtk1m15ZDb",
+    "label": "Template for prompt: A portfolio website with hero cards and animations",
+    "dateAdded": "2024-01-22T18:20:03.669Z"
+  },
+  {
+    "url": "https://v0.dev/t/0oXBq8wZegT",
+    "label": "Template for prompt: A card for a github repository with the following details. \n\n    {\n        \"created\": \"25/04/22\",\n        \"forks\": 30,\n        \"indexed_on\": \"21/01/24\",\n        \"open_issues\": 4,\n        \"repo_description\": \"Long-Inference, High Quality Synthetic Speaker (AI avatar/ AI presenter)\",\n        \"repo_ingestion_status\": \"Code Files Indexed\",\n        \"repo_name\": \"LIHQ\",\n        \"repo_org_name\": \"johnGettings\",\n        \"repo_url\": \"https://github.com/johnGettings/LIHQ\",\n        \"stars\": 197\n    }\n\nWith two buttons \"Talk to Repo\" on the right and bottom of the card and \"View Repo Deep Dive\" on the left bottom. \n\nUse the image for inspiration. ",
+    "dateAdded": "2024-01-22T18:20:03.669Z"
+  },
+  {
+    "url": "https://v0.dev/t/9FhWJ70SJNF",
+    "label": "Template for prompt: a dashboard of todos for couples(2 people)",
+    "dateAdded": "2024-01-22T18:20:03.669Z"
+  },
+  {
+    "url": "https://v0.dev/t/sMDpdH3o2uo",
+    "label": "Template for prompt: a landing page for a site similar to airbnb but for office rentals with a location and date selector",
+    "dateAdded": "2024-01-22T18:20:03.669Z"
+  },
+  {
+    "url": "https://v0.dev/t/kom96O0xq5R",
+    "label": "Template for prompt: make this layout responsive and make it more bettter looking ",
+    "dateAdded": "2024-01-22T18:20:03.669Z"
+  },
+  {
+    "url": "https://v0.dev/t/JogwQLuUbqM",
+    "label": "Template for prompt: cattle monitoring app that gives statistics/charts on lameness of cows",
+    "dateAdded": "2024-01-22T18:20:03.669Z"
+  },
+  {
+    "url": "https://v0.dev/t/zmiePpcTgki",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T18:20:03.669Z"
+  },
+  {
+    "url": "https://v0.dev/t/80rg7BueETL",
+    "label": "Template for prompt: A page with five cards, each linking to a different route",
+    "dateAdded": "2024-01-22T18:20:03.669Z"
+  },
+  {
+    "url": "https://v0.dev/t/iEpUP3xfqxF",
+    "label": "Template for prompt: generate a navigation menu with a square logo first and a Home link aligned to the left and a sign in button aligned to the right",
+    "dateAdded": "2024-01-22T18:20:03.670Z"
+  },
+  {
+    "url": "https://v0.dev/t/tBqbWiwWWL9",
+    "label": "Template for prompt: create public dashboard display with event list on left and a small photo slideshow / carousel on right.  date, time and weahter also on right.  use dark theme.",
+    "dateAdded": "2024-01-22T18:20:03.670Z"
+  },
+  {
+    "url": "https://v0.dev/t/32rjlfUqFQn",
+    "label": "Template for prompt: A beautiful card for a rider waiting for ride requests with a beautiful and minimalist background",
+    "dateAdded": "2024-01-22T18:20:03.670Z"
+  },
+  {
+    "url": "https://v0.dev/t/bgRlfbDuUkX",
+    "label": "Template for prompt: Simple modern clean popup with slight overlay behind it centered on the screen with a sentence header of medium size and the word \"here\" in the sentence should be a link.",
+    "dateAdded": "2024-01-22T18:20:03.670Z"
+  },
+  {
+    "url": "https://v0.dev/t/wBBYn8r4fGv",
+    "label": "Template for prompt: re-create this interface",
+    "dateAdded": "2024-01-22T18:20:03.670Z"
+  },
+  {
+    "url": "https://v0.dev/t/86RHTuqCErE",
+    "label": "Template for prompt: can you please generate me a application where I have different meal cards",
+    "dateAdded": "2024-01-22T18:20:03.670Z"
+  },
+  {
+    "url": "https://v0.dev/t/1weHhwO2354",
+    "label": "Template for prompt: marketing website for SaaS for freight forwarders",
+    "dateAdded": "2024-01-22T18:20:03.670Z"
   }
 ]
