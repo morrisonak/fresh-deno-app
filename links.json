@@ -34018,5 +34018,135 @@
     "url": "https://v0.dev/t/rjGW72rVckq",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2024-01-22T15:45:03.430Z"
+  },
+  {
+    "url": "https://v0.dev/t/CZ3tT61AfK6",
+    "label": "Template for prompt: create me a page exactely like that",
+    "dateAdded": "2024-01-22T15:50:03.189Z"
+  },
+  {
+    "url": "https://v0.dev/t/chmohzEN2GS",
+    "label": "Template for prompt: create me a page exactely like that",
+    "dateAdded": "2024-01-22T15:50:03.189Z"
+  },
+  {
+    "url": "https://v0.dev/t/eSd38evb0xK",
+    "label": "Template for prompt: A component for compact transaction representation for a cryptocurrency tax platform Each transaction has to represent the following:\n\n1. Date&time\n2. Outgoing cryptocurrency (type, amount, wallet)\n3. Incoming cryptocurrency (type, amount, wallet)\n4. Transactions type (like deposit, withdraw, trade). Preferably, it will be easy for the visual system to distinguish between these, with color codes for example. The current colored arrow system doesn’t quite cut through the clutter.\n5. Value ($)\n6 Gains ($)\n7 Fee ($)\n",
+    "dateAdded": "2024-01-22T15:50:03.189Z"
+  },
+  {
+    "url": "https://v0.dev/t/DIjiy8XhfDk",
+    "label": "Template for prompt: cv generator app",
+    "dateAdded": "2024-01-22T15:50:03.189Z"
+  },
+  {
+    "url": "https://v0.dev/t/jfip0HXBJHg",
+    "label": "Template for prompt: cv generator app",
+    "dateAdded": "2024-01-22T15:50:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/nSMdS9bnB3L",
+    "label": "Template for prompt: A blog page containing 4 blog sections",
+    "dateAdded": "2024-01-22T15:50:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/Tm6LwT0TlZs",
+    "label": "Template for prompt: podrias generar los componentes de la imaggen tal cual se ven",
+    "dateAdded": "2024-01-22T15:50:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/3kWEy0huetC",
+    "label": "Template for prompt: A dark landing page with gradient and transparency effects for modern look, add a feature list and pricing plans, The project is called PyProtect and it helps you protect your python applications against reverse engineers",
+    "dateAdded": "2024-01-22T15:50:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/tB4cpe19yZa",
+    "label": "Template for prompt: A 3 Pane Dashboard with navigation on the left and a master-detail pane with a dynamic details pane that changes based on input in the master pane. There are 4 navigational items, 1) Home, 2) Orders, 3) Customers, 4) Product. Home is a dashboard view with analytic cards as well as paginated tables. Orders is a list of orders. Customers I'm unsure, be creative not just cards or lists maybe a combination of both? Product should a grid of products, filters on the left as well as categories at the top.",
+    "dateAdded": "2024-01-22T15:50:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/sbnyJQ3ScIE",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T15:50:03.191Z"
+  },
+  {
+    "url": "https://v0.dev/t/YW0Efof7QT7",
+    "label": "Template for prompt: a filter popup for a workspace marketplace that lets users filter 1) amenities 2) neighborhood 3) price range (from $ to $$$$) 4) vibe 5) if it is part of a workspace chain or an independent workspace 6) a checkbox for workspace types (meeting rooms, day passes, private offices) 7) ",
+    "dateAdded": "2024-01-22T15:50:03.191Z"
+  },
+  {
+    "url": "https://v0.dev/t/ilDXAZ9TLwA",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T15:50:03.191Z"
+  },
+  {
+    "url": "https://v0.dev/t/7fUCChioEQs",
+    "label": "Template for prompt: A dialpad application",
+    "dateAdded": "2024-01-22T15:50:03.191Z"
+  },
+  {
+    "url": "https://v0.dev/t/RxKavXuVRrw",
+    "label": "Template for prompt: 비슷하게 만들어줘",
+    "dateAdded": "2024-01-22T15:50:03.191Z"
+  },
+  {
+    "url": "https://v0.dev/t/d4Fb149mXhT",
+    "label": "Template for prompt: Page d'accueil pour un site web de studio de musique",
+    "dateAdded": "2024-01-22T15:50:03.191Z"
+  },
+  {
+    "url": "https://v0.dev/t/AsfLIOkKBFQ",
+    "label": "Template for prompt: a lean and mobile friendly article page",
+    "dateAdded": "2024-01-22T15:50:03.191Z"
+  },
+  {
+    "url": "https://v0.dev/t/9CFwIqPXuSy",
+    "label": "Template for prompt: create a page named question banks which holds 2 pdf fieles",
+    "dateAdded": "2024-01-22T15:50:03.191Z"
+  },
+  {
+    "url": "https://v0.dev/t/cGA02h3pLLh",
+    "label": "Template for prompt: An in-app notifications component",
+    "dateAdded": "2024-01-22T15:50:03.192Z"
+  },
+  {
+    "url": "https://v0.dev/t/sb1ToNozQGe",
+    "label": "Template for prompt: tickets list view for an event management dashboard",
+    "dateAdded": "2024-01-22T15:50:03.192Z"
+  },
+  {
+    "url": "https://v0.dev/t/MaGvLhPW9pA",
+    "label": "Template for prompt: a landing page for a tool that analyzes a URL graph to look for language inconsistencies",
+    "dateAdded": "2024-01-22T15:50:03.192Z"
+  },
+  {
+    "url": "https://v0.dev/t/0tNM5Okl6ma",
+    "label": "Template for prompt: one page resume",
+    "dateAdded": "2024-01-22T15:50:03.192Z"
+  },
+  {
+    "url": "https://v0.dev/t/Nl2W4KWRouL",
+    "label": "Template for prompt: Create a landing page for a company called CoachTec that makes work out programming lools for coaches",
+    "dateAdded": "2024-01-22T15:50:03.192Z"
+  },
+  {
+    "url": "https://v0.dev/t/ckU4xerNVHi",
+    "label": "Template for prompt: An ecommerce store for snowboards",
+    "dateAdded": "2024-01-22T15:50:03.193Z"
+  },
+  {
+    "url": "https://v0.dev/t/koC3xU1ldci",
+    "label": "Template for prompt: simple navbar",
+    "dateAdded": "2024-01-22T15:50:03.193Z"
+  },
+  {
+    "url": "https://v0.dev/t/pn8GBCrSLhI",
+    "label": "Template for prompt: a simple react component using tailwind with 2 columns. the 2nd column should be twice the width of the first. the first column shows a basic form with three text inputs for a profile. the second column shows a list of cards. each card has some space in between, white background and rounded edges",
+    "dateAdded": "2024-01-22T15:50:03.193Z"
+  },
+  {
+    "url": "https://v0.dev/t/yPHEuZLGjjR",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-22T15:50:03.194Z"
   }
 ]
