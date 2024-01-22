@@ -39133,5 +39133,135 @@
     "url": "https://v0.dev/t/cvr3JceQIfE",
     "label": "Template for prompt: A login page",
     "dateAdded": "2024-01-22T19:05:02.646Z"
+  },
+  {
+    "url": "https://v0.dev/t/w1J6HQ56Uvd",
+    "label": "Template for prompt: Copied to clipboard component",
+    "dateAdded": "2024-01-22T19:10:04.093Z"
+  },
+  {
+    "url": "https://v0.dev/t/RtD1pTBcoZb",
+    "label": "Template for prompt: i want to create a screen for managing a wait list of a restaurant. On the left side there is pane that goes from top to bottom with a icon for going to the wait list screen and other icon for settings. on the central pane we will have to waiting list. each item is ordered by the time they were added to the queue. On each item the party size is highlited. Also the name under the reservation is. Also how many minutes they are currently waiting on the queue. On each item you have two buttons, one for calling the group and the other to seat the group.",
+    "dateAdded": "2024-01-22T19:10:04.093Z"
+  },
+  {
+    "url": "https://v0.dev/t/elXDAwHGDNq",
+    "label": "Template for prompt: build me a group buttons with two buttons and with transition and animation if active in tailwind css",
+    "dateAdded": "2024-01-22T19:10:04.093Z"
+  },
+  {
+    "url": "https://v0.dev/t/gVkI6PAcjpY",
+    "label": "Template for prompt: An interactive genealogy tree",
+    "dateAdded": "2024-01-22T19:10:04.093Z"
+  },
+  {
+    "url": "https://v0.dev/t/vc7oiI5Uh82",
+    "label": "Template for prompt: A dashboard card which has a list of users, each user has an option to be assigned to a particular project ",
+    "dateAdded": "2024-01-22T19:10:04.094Z"
+  },
+  {
+    "url": "https://v0.dev/t/wnr9te5uEwn",
+    "label": "Template for prompt: a minimalist sign up page",
+    "dateAdded": "2024-01-22T19:10:04.094Z"
+  },
+  {
+    "url": "https://v0.dev/t/rqet0nVeFHa",
+    "label": "Template for prompt: not found page for a wedding page",
+    "dateAdded": "2024-01-22T19:10:04.094Z"
+  },
+  {
+    "url": "https://v0.dev/t/rrDhlM2QVt3",
+    "label": "Template for prompt: not found page for a wedding page",
+    "dateAdded": "2024-01-22T19:10:04.094Z"
+  },
+  {
+    "url": "https://v0.dev/t/0R4RpH3GRV2",
+    "label": "Template for prompt: not found page for a wedding page",
+    "dateAdded": "2024-01-22T19:10:04.094Z"
+  },
+  {
+    "url": "https://v0.dev/t/65ZpNMPs8S5",
+    "label": "Template for prompt: Create a simple sign up screen with name, email and password fields, it should be centered",
+    "dateAdded": "2024-01-22T19:10:04.095Z"
+  },
+  {
+    "url": "https://v0.dev/t/3496YfUV29n",
+    "label": "Template for prompt: I want to create a website about myslef showing my characteristics, linking to some pages which are my hobbies and display a picture or two of mine",
+    "dateAdded": "2024-01-22T19:10:04.095Z"
+  },
+  {
+    "url": "https://v0.dev/t/DClWCW3qU4V",
+    "label": "Template for prompt: screen to search a linkedin profile and retrieve the resume",
+    "dateAdded": "2024-01-22T19:10:04.095Z"
+  },
+  {
+    "url": "https://v0.dev/t/UwsOO2JCkHC",
+    "label": "Template for prompt: a responsive ui with two tables like the image uploaded",
+    "dateAdded": "2024-01-22T19:10:04.095Z"
+  },
+  {
+    "url": "https://v0.dev/t/5LXh1SsWJta",
+    "label": "Template for prompt: Build me a table with side bar navigation",
+    "dateAdded": "2024-01-22T19:10:04.095Z"
+  },
+  {
+    "url": "https://v0.dev/t/Se26kiBTwGb",
+    "label": "Template for prompt: a documents app with a sidebar navigation, a list of documents that can be filtered and searched, a create new button and some quick-start actions",
+    "dateAdded": "2024-01-22T19:10:04.096Z"
+  },
+  {
+    "url": "https://v0.dev/t/DIOqJXnmQyt",
+    "label": "Template for prompt: A minimal battery management system",
+    "dateAdded": "2024-01-22T19:10:04.096Z"
+  },
+  {
+    "url": "https://v0.dev/t/RF2HVIbvypl",
+    "label": "Template for prompt: resume site for github pages",
+    "dateAdded": "2024-01-22T19:10:04.096Z"
+  },
+  {
+    "url": "https://v0.dev/t/kpyf8uPJ0No",
+    "label": "Template for prompt: make me an login page for my predictor called \"Disect\"",
+    "dateAdded": "2024-01-22T19:10:04.096Z"
+  },
+  {
+    "url": "https://v0.dev/t/v9F6utJ7qsr",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T19:10:04.096Z"
+  },
+  {
+    "url": "https://v0.dev/t/NbELPOmfjW5",
+    "label": "Template for prompt: An ecommerce dashboard landing page with initial sidebar on the left. ",
+    "dateAdded": "2024-01-22T19:10:04.096Z"
+  },
+  {
+    "url": "https://v0.dev/t/TY9SkKomyPZ",
+    "label": "Template for prompt: create a button like dropdown select with the options of bar chart and line chart. make the button color be `#da324d` . on the right side of the dropdown put a dropdown carret.",
+    "dateAdded": "2024-01-22T19:10:04.097Z"
+  },
+  {
+    "url": "https://v0.dev/t/S6tRHlKCwYA",
+    "label": "Template for prompt: can you design me a small radio for in the metaverse. I need to pop it in and out the screen at will.",
+    "dateAdded": "2024-01-22T19:10:04.097Z"
+  },
+  {
+    "url": "https://v0.dev/t/d1YbDQLB2ms",
+    "label": "Template for prompt: A login page with plain html, css and javascript",
+    "dateAdded": "2024-01-22T19:10:04.097Z"
+  },
+  {
+    "url": "https://v0.dev/t/2lwJpwdAjuI",
+    "label": "Template for prompt: i have a task as a react developer , i want to make chart preview in horizontal line date and its change by input controlled by react hook form and the vertical the count of fighters that i get from backend and i have one value fighter count i want to preview it in the chart and the time i want to show it under the horizontal line and on top of the vertical line i want to put the fighter count value",
+    "dateAdded": "2024-01-22T19:10:04.097Z"
+  },
+  {
+    "url": "https://v0.dev/t/JllQsOnxD7L",
+    "label": "Template for prompt: A page to manage a battery station, with 10 slots where batteries can be plugged",
+    "dateAdded": "2024-01-22T19:10:04.097Z"
+  },
+  {
+    "url": "https://v0.dev/t/vzGMo0tBUSe",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T19:10:04.098Z"
   }
 ]
