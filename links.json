@@ -43593,5 +43593,135 @@
     "url": "https://v0.dev/t/kiOmf8sH3iF",
     "label": "Template for prompt: login",
     "dateAdded": "2024-01-22T22:00:02.681Z"
+  },
+  {
+    "url": "https://v0.dev/t/tgaJEFi2JfR",
+    "label": "Template for prompt: Create the same login page ",
+    "dateAdded": "2024-01-22T22:05:03.153Z"
+  },
+  {
+    "url": "https://v0.dev/t/94puowCCBkG",
+    "label": "Template for prompt: a mobile navigation bar that pops out from the left side",
+    "dateAdded": "2024-01-22T22:05:03.153Z"
+  },
+  {
+    "url": "https://v0.dev/t/IdFwoIipVJx",
+    "label": "Template for prompt: space game user interface for pvp showing target and ship systems staatus",
+    "dateAdded": "2024-01-22T22:05:03.153Z"
+  },
+  {
+    "url": "https://v0.dev/t/5jtXZcgHLMJ",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form. for a portofolio",
+    "dateAdded": "2024-01-22T22:05:03.153Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qpt9LA5VFmK",
+    "label": "Template for prompt: left-side sidebar",
+    "dateAdded": "2024-01-22T22:05:03.154Z"
+  },
+  {
+    "url": "https://v0.dev/t/T62gy2tddRq",
+    "label": "Template for prompt: billing secction in admin site",
+    "dateAdded": "2024-01-22T22:05:03.154Z"
+  },
+  {
+    "url": "https://v0.dev/t/9Z4wDpKNlrC",
+    "label": "Template for prompt: Create a dashboard",
+    "dateAdded": "2024-01-22T22:05:03.154Z"
+  },
+  {
+    "url": "https://v0.dev/t/yJBOsM30lln",
+    "label": "Template for prompt: a simple intuitive minimalistic user interface for staking which should have all of these:\nAccount Connected;\nETH Balance;\nTEST Balance;\nStake Tokens Amount;\nTokens Staked Amount;\nStake Start Date;\nStake End Time;\nUnstake Tokens Amount;\nUnclaimed ETH Rewards;\nClaim Rewards;\nLast Claim Date;\nNext Claim Date;\nTotal Eth Claimed;\n\n",
+    "dateAdded": "2024-01-22T22:05:03.154Z"
+  },
+  {
+    "url": "https://v0.dev/t/RVoKFeOWIMD",
+    "label": "Template for prompt: Create a session 'user events' screen, have a card with metadata alongside. An example would be: 'user-session: started, user-session: entered form, user-session: ended-end.' Context would be a tool for analysiing a users journey",
+    "dateAdded": "2024-01-22T22:05:03.154Z"
+  },
+  {
+    "url": "https://v0.dev/t/jGpEKNsF2hc",
+    "label": "Template for prompt: ok so basically the way the ui is gonna work is the page is gonna be open, the user scans a card and then depending on if the user is signed in to the location that has been selected for that page (via a dropdown or something (set prior to scanning)) it will intelligently either start the sign in flow ui or sign out flow ui and then for the sign in flow ui it needs to show the state of the sign in (which step) and have fields for visit purposes, machines used as well as offering a rep sign in option if the user is a rep, sign out ui should just show a message tbh",
+    "dateAdded": "2024-01-22T22:05:03.155Z"
+  },
+  {
+    "url": "https://v0.dev/t/7eoQbnFDzvS",
+    "label": "Template for prompt: A dashboard for a recipe generator application that lists basic user information, the number of generation tokens the user has, and their 5 most recently saved recipes, and 5 most recently generated recipes.",
+    "dateAdded": "2024-01-22T22:05:03.155Z"
+  },
+  {
+    "url": "https://v0.dev/t/mKK1LCrXzqw",
+    "label": "Template for prompt: search bar to search for doctor names",
+    "dateAdded": "2024-01-22T22:05:03.155Z"
+  },
+  {
+    "url": "https://v0.dev/t/veqGVLqfzfE",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T22:05:03.155Z"
+  },
+  {
+    "url": "https://v0.dev/t/NDa1A4L0xRX",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T22:05:03.155Z"
+  },
+  {
+    "url": "https://v0.dev/t/W3Hkl66I6Je",
+    "label": "Template for prompt: make a text area look like a terminal",
+    "dateAdded": "2024-01-22T22:05:03.155Z"
+  },
+  {
+    "url": "https://v0.dev/t/adJ3yYtcIuh",
+    "label": "Template for prompt: page to compare 2 deductibles options that show pros and cons",
+    "dateAdded": "2024-01-22T22:05:03.156Z"
+  },
+  {
+    "url": "https://v0.dev/t/d0clJsA80If",
+    "label": "Template for prompt: Create a signin page, dark theme, shadcn, linear; gradient ",
+    "dateAdded": "2024-01-22T22:05:03.156Z"
+  },
+  {
+    "url": "https://v0.dev/t/slWatwmJcNl",
+    "label": "Template for prompt: A page with list severl cars with represents robots from bosten dynamics and show theire status",
+    "dateAdded": "2024-01-22T22:05:03.156Z"
+  },
+  {
+    "url": "https://v0.dev/t/SL2Ns2Ln7Wm",
+    "label": "Template for prompt: login ",
+    "dateAdded": "2024-01-22T22:05:03.156Z"
+  },
+  {
+    "url": "https://v0.dev/t/OQ6uwZrb1vt",
+    "label": "Template for prompt: A section for a home page for a realtor, two columns, the left should have a heading, paragraph, and a button, the right column should be a placeholder image for the body shot of the realtor.",
+    "dateAdded": "2024-01-22T22:05:03.156Z"
+  },
+  {
+    "url": "https://v0.dev/t/wR5EVmvsDfD",
+    "label": "Template for prompt: a text area that forces the user to a line, when the user presses enter it will go down a line and send a post request",
+    "dateAdded": "2024-01-22T22:05:03.157Z"
+  },
+  {
+    "url": "https://v0.dev/t/SBAENszky8Q",
+    "label": "Template for prompt: Imagine a web application called \"CollaboraNews.\" It serves as a centralized platform for journalists, proofreaders, and editors to streamline the newspaper creation process.Key features:Article Submission and Tracking:Journalists can submit their articles through the platform, allowing editors to easily track and manage contributions.Collaborative Editing:Proofreaders and editors can collaboratively edit articles in real-time, providing feedback and suggestions within the platform.Version Control:Maintain a version history for each article, enabling teams to revert to previous versions if needed and track changes made during the editing process.Task Management:Editors can assign tasks, set deadlines, and track progress to ensure efficient collaboration and timely publication.Communication Hub:Integrated messaging and commenting system for seamless communication between journalists, proofreaders, and editors. Notifications for important updates.Automatic Formatting and Styling:The plat",
+    "dateAdded": "2024-01-22T22:05:03.157Z"
+  },
+  {
+    "url": "https://v0.dev/t/nDh9f8L3IZb",
+    "label": "Template for prompt: image upload ui window",
+    "dateAdded": "2024-01-22T22:05:03.157Z"
+  },
+  {
+    "url": "https://v0.dev/t/oYvBlIlaLzr",
+    "label": "Template for prompt: make an ui for company internal erp just for employee ",
+    "dateAdded": "2024-01-22T22:05:03.157Z"
+  },
+  {
+    "url": "https://v0.dev/t/83pmLlHmr8b",
+    "label": "Template for prompt: an events search that also lists categories, filters by date and time, topic and looks modern",
+    "dateAdded": "2024-01-22T22:05:03.158Z"
+  },
+  {
+    "url": "https://v0.dev/t/yb1sefoHOza",
+    "label": "Template for prompt: A choir hallmark page",
+    "dateAdded": "2024-01-22T22:05:03.158Z"
   }
 ]
