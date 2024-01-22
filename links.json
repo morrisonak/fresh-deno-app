@@ -32508,5 +32508,130 @@
     "url": "https://v0.dev/t/ZGbO6T3Advo",
     "label": "Template for prompt: i have a list of 200+ skills, i.e stone masonry, adobe photohop, drivers licensce etc. they are weighted with relevance towards a education that they relate too, i.e computer science 101. Design a view that lists these in a user friendly way",
     "dateAdded": "2024-01-22T14:45:03.512Z"
+  },
+  {
+    "url": "https://v0.dev/t/qnOWKcwTVLx",
+    "label": "Template for prompt: make a netflix like login page, dark theme",
+    "dateAdded": "2024-01-22T14:50:02.686Z"
+  },
+  {
+    "url": "https://v0.dev/t/uFinJsspVCa",
+    "label": "Template for prompt: [\n    {\n        tramo: 'A',\n        ncantidanecesaria: 6,\n        productos: [\n            { cnombreproducto: 'Producto A', valor: 1 },\n            { cnombreproducto: 'Producto B', valor: 1 },\n            { cnombreproducto: 'Producto C', valor: 0.25 },\n        ],\n    },\n    {\n        tramo: 'B',\n        ncantidanecesaria: 1,\n        productos: [\n            { cnombreproducto: 'Producto D', valor: 1 },\n        ],\n    },\n    {\n        tramo: 'C',\n        ncantidanecesaria: 0,\n        productos: [\n            { cnombreproducto: 'Producto E', valor: 0 },\n        ],\n    },\n   ] crea una tabla que muestre cada dato en una celda propia, y agrupa por la filas de la columna tramos",
+    "dateAdded": "2024-01-22T14:50:02.686Z"
+  },
+  {
+    "url": "https://v0.dev/t/DmGWEQ65H6U",
+    "label": "Template for prompt: Landing home page for car detailing company with a list of services, a map and a gallery",
+    "dateAdded": "2024-01-22T14:50:02.686Z"
+  },
+  {
+    "url": "https://v0.dev/t/FXJ854u8xLA",
+    "label": "Template for prompt: A website where I can compare the performance of difference yolov8 models that i trained. I'm comparing models that were trained with real image data of fire and smoke and synthetic data of fire and smoke. also a tab where i can put an image or a video in and then my model returns an image/video with a prediction. On the website i place for code examples, videos, images, charts",
+    "dateAdded": "2024-01-22T14:50:02.687Z"
+  },
+  {
+    "url": "https://v0.dev/t/33kOhRqZVQY",
+    "label": "Template for prompt: Design a Navbar with a logo, then Dashboad, Admin, Training and Donate options, and lastly, profile and logout.",
+    "dateAdded": "2024-01-22T14:50:02.687Z"
+  },
+  {
+    "url": "https://v0.dev/t/3mWl0YOzSeK",
+    "label": "Template for prompt: make a shadcnui input box for slug, with a predefined prefix that is chooseable from a dropdown",
+    "dateAdded": "2024-01-22T14:50:02.687Z"
+  },
+  {
+    "url": "https://v0.dev/t/PNo1JdflIXN",
+    "label": "Template for prompt: 3 column grid layout with a left and a ride sidepanel where the center column grows to fit the available horizontal space, and the left panel has a fixed width of 240px and the right panel has a fixed width of 300px. The page layout should also make the columns full viewport height and overflowing content of any column should be scrollable with that column being the container",
+    "dateAdded": "2024-01-22T14:50:02.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/RN0aWEeELQT",
+    "label": "Template for prompt: need a UI for note note-taking app with calculations for mobile-specific screen size input bar can be switchable from form with item name, qty, price and a simple text box, on bottom there should be table if entries are from form .App named Noted+ ",
+    "dateAdded": "2024-01-22T14:50:02.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/OrvuNe9yUow",
+    "label": "Template for prompt: Build a software project roadmap that separates features into already delivered, 'soon', and 'later' categories",
+    "dateAdded": "2024-01-22T14:50:02.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/ddF2XBZPnGH",
+    "label": "Template for prompt: Use Bootstrap 3 to create a view page of the coupon list I have",
+    "dateAdded": "2024-01-22T14:50:02.689Z"
+  },
+  {
+    "url": "https://v0.dev/t/eETKEnpGSDo",
+    "label": "Template for prompt: [\n    {\n        tramo: 'A',\n        ncantidanecesaria: 6,\n        productos: [\n            { cnombreproducto: 'Producto A', valor: 1 },\n            { cnombreproducto: 'Producto B', valor: 1 },\n            { cnombreproducto: 'Producto C', valor: 0.25 },\n        ],\n    },\n    {\n        tramo: 'B',\n        ncantidanecesaria: 1,\n        productos: [\n            { cnombreproducto: 'Producto D', valor: 1 },\n        ],\n    },\n    {\n        tramo: 'C',\n        ncantidanecesaria: 0,\n        productos: [\n            { cnombreproducto: 'Producto E', valor: 0 },\n        ],\n    },\n   ] crea una tabla que muestre cada dato en una celda propia",
+    "dateAdded": "2024-01-22T14:50:02.689Z"
+  },
+  {
+    "url": "https://v0.dev/t/1U6uwSOGQ7Z",
+    "label": "Template for prompt: aesthetic search input",
+    "dateAdded": "2024-01-22T14:50:02.689Z"
+  },
+  {
+    "url": "https://v0.dev/t/FkuQuzqpazQ",
+    "label": "Template for prompt: css",
+    "dateAdded": "2024-01-22T14:50:02.689Z"
+  },
+  {
+    "url": "https://v0.dev/t/HIGZ2MwdYVs",
+    "label": "Template for prompt: make a homepage banner like monstercat music website",
+    "dateAdded": "2024-01-22T14:50:02.689Z"
+  },
+  {
+    "url": "https://v0.dev/t/69oftCPcBk7",
+    "label": "Template for prompt: card swap interactive like tinder",
+    "dateAdded": "2024-01-22T14:50:02.690Z"
+  },
+  {
+    "url": "https://v0.dev/t/UfHaNhrom1y",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T14:50:02.690Z"
+  },
+  {
+    "url": "https://v0.dev/t/sts9p2WuOCU",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-22T14:50:02.690Z"
+  },
+  {
+    "url": "https://v0.dev/t/EbclplSH8UB",
+    "label": "Template for prompt: Give Java program for above question",
+    "dateAdded": "2024-01-22T14:50:02.690Z"
+  },
+  {
+    "url": "https://v0.dev/t/stbxoEHoVJB",
+    "label": "Template for prompt: make it so that when i click on a different component it changes the variables and outputs that are related to the cloud resource. ",
+    "dateAdded": "2024-01-22T14:50:02.690Z"
+  },
+  {
+    "url": "https://v0.dev/t/wgXwA3cAJYB",
+    "label": "Template for prompt: landing page for ## skillsplice\n\nQuizes in different software engineering areas. (e.g. backend, db management, mobile development, webdev, devops, datastructures, algorithms, etc etc) - Built in answers & explanations that can be revealed (Along with *Read more* links to subject). \n\nUsers/profiles for saving user progress in each quiz. (to allow Resume quiz / restart etc)\n\n\n\n## to implement:\n\n- Difficulty filter through multi-select dropdown? (Beginner, Medium, Hard)\n- Sub categories - frontend > react/angular/js/css\n- Custom quiz (Category selector - eg combine React and DevOps)\n- Admin panel that serves as CMS for handling site (issues, quizzes, questions, users etc)\n  - Issues reported by users by clicking 'Report Question' on a question.",
+    "dateAdded": "2024-01-22T14:50:02.690Z"
+  },
+  {
+    "url": "https://v0.dev/t/wDAfh6lFWfN",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T14:50:02.691Z"
+  },
+  {
+    "url": "https://v0.dev/t/ezct2xBzuTT",
+    "label": "Template for prompt: generate css",
+    "dateAdded": "2024-01-22T14:50:02.691Z"
+  },
+  {
+    "url": "https://v0.dev/t/O4o71STeGA1",
+    "label": "Template for prompt: Random joke generator app",
+    "dateAdded": "2024-01-22T14:50:02.691Z"
+  },
+  {
+    "url": "https://v0.dev/t/OdZGHZLo3gh",
+    "label": "Template for prompt: create a page which shows many people speaking in a channel similar to discord",
+    "dateAdded": "2024-01-22T14:50:02.691Z"
+  },
+  {
+    "url": "https://v0.dev/t/bZEnjvRv5Ct",
+    "label": "Template for prompt: 3 cards, each with a question",
+    "dateAdded": "2024-01-22T14:50:02.691Z"
   }
 ]
