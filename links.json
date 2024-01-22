@@ -29738,5 +29738,125 @@
     "url": "https://v0.dev/t/SdxBEGf2XcS",
     "label": "Template for prompt: popup modal that shows when the user wants to exit the site. This will contain copy indicating they have a coupon, a coupon code they can copy that is for stripe, a timer that is ticking down (3 minutes to take), show that x number of users are looking at this offer now",
     "dateAdded": "2024-01-22T00:35:03.232Z"
+  },
+  {
+    "url": "https://v0.dev/t/sAWQvW4oTRe",
+    "label": "Template for prompt: Use JavaScript libraries to create charts and graphs from a data set.",
+    "dateAdded": "2024-01-22T00:40:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/mIKnZDiyyd9",
+    "label": "Template for prompt: make image responsive",
+    "dateAdded": "2024-01-22T00:40:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/n9e3tzEBLx7",
+    "label": "Template for prompt: make image responsive",
+    "dateAdded": "2024-01-22T00:40:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/r3g07yysPrF",
+    "label": "Template for prompt: make this look better",
+    "dateAdded": "2024-01-22T00:40:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/JmkPBMN6cuX",
+    "label": "Template for prompt: make this look better",
+    "dateAdded": "2024-01-22T00:40:03.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/2vxJxRaRz1c",
+    "label": "Template for prompt: the UI will need to list reports with filters to control to the period of time of interest (user picks a date range), score thresholds (between -1 and 1, with one labelled handle for the lower and one for the upper bound, which the user can drag), and geographical boundaries based on lon and lat delineated quadrants (user can enter 4 points to describe this area and a dropdown listing continents at the top and then countries below) the user can select any individual report and request the AI to run further analysis. Also, the user can run the same AI analysis on any selection of reports which the user can either select individually or collectively from the filtered list",
+    "dateAdded": "2024-01-22T00:40:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/PjXVPmW5Otz",
+    "label": "Template for prompt: A landing page for a construction machine brand",
+    "dateAdded": "2024-01-22T00:40:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/poOK0SIIMrb",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-22T00:40:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/ABZz7jL6JhY",
+    "label": "Template for prompt: 제목은 AI Test 좌측에는 멀티라인 메시지를 입력할 수 있고 힌트는 \"테스트 문자 메시지를 입력하세요\"인 인풋 박스, 오른쪽은 테스트 결과 그리고 아래쪽에는 테스트 실행 버튼이 있는 컴포넌트",
+    "dateAdded": "2024-01-22T00:40:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/hxX7H34YxO7",
+    "label": "Template for prompt: features section",
+    "dateAdded": "2024-01-22T00:40:03.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/Muj248TpS7C",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-22T00:40:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/f1rQTjLV2vx",
+    "label": "Template for prompt: social media feed based on pictures, comments and likes",
+    "dateAdded": "2024-01-22T00:40:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/Mnm4DkGf5c2",
+    "label": "Template for prompt: Create a minimalistic landing page for a developer with the Astro framework",
+    "dateAdded": "2024-01-22T00:40:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/U0gPKrusivo",
+    "label": "Template for prompt: fix the code that will calculate for the net \"<?php include('db_connect.php'); \n\n\n?>\n<?php include('./header.php'); ?>\n\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Payroll</title>\n    <!-- Add Bootstrap CSS link -->\n    <link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css\">\n    <style>\n        /* Add your custom CSS styles here */\n        .container-fluid {\n            padding: 20px;\n        }\n\n        .card {\n            margin-bottom: 20px;\n        }\n\n        .card-header {\n            background-color: #007bff;\n            color: white;\n        }\n\n        .card-body {\n            padding: 20px;\n        }\n\n        /* Add more styles as needed */\n    </style>\n</head>\n<body>\n\n<div class=\"container-fluid\">\n    <div class=\"col-lg-12\">\n        <br>\n        <br>\n        <a href=\"index.php?page=payroll\" class=\"btn btn-primary\">Back</a>",
+    "dateAdded": "2024-01-22T00:40:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/B559K50q8KR",
+    "label": "Template for prompt: clone reddit and make it dark mode",
+    "dateAdded": "2024-01-22T00:40:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/hNZZ7i2Sg2v",
+    "label": "Template for prompt: Chatgpt like audio input audio bar for a speech recognition application. Include a timer and an animation that responds to how loud an audio gets",
+    "dateAdded": "2024-01-22T00:40:03.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/aMwnKeZGPOj",
+    "label": "Template for prompt: Chatgpt like audio input audio bar for a speech recognition application. Include a timer and an animation that responds to how loud an audio gets",
+    "dateAdded": "2024-01-22T00:40:03.454Z"
+  },
+  {
+    "url": "https://v0.dev/t/dz2pf8krtFN",
+    "label": "Template for prompt: a time table generator page with the design shown in the picture above ,keep design in mind and follow unique and elegent colors and styles with animaions",
+    "dateAdded": "2024-01-22T00:40:03.454Z"
+  },
+  {
+    "url": "https://v0.dev/t/LjQQxsvXFOu",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of products.",
+    "dateAdded": "2024-01-22T00:40:03.454Z"
+  },
+  {
+    "url": "https://v0.dev/t/NMraRA5P1ET",
+    "label": "Template for prompt: make this better",
+    "dateAdded": "2024-01-22T00:40:03.454Z"
+  },
+  {
+    "url": "https://v0.dev/t/wN8AVdrc9FX",
+    "label": "Template for prompt: a table of SKUs, each row has various other attributes and the rightmost column of the table has a checkbox. Buttons to confirm my selection",
+    "dateAdded": "2024-01-22T00:40:03.454Z"
+  },
+  {
+    "url": "https://v0.dev/t/z2awAYcMDfa",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-22T00:40:03.454Z"
+  },
+  {
+    "url": "https://v0.dev/t/vlvujej7Q0f",
+    "label": "Template for prompt: HRSaaSのダッシュボード画面",
+    "dateAdded": "2024-01-22T00:40:03.454Z"
+  },
+  {
+    "url": "https://v0.dev/t/kohBIKKFq6K",
+    "label": "Template for prompt: A small form that takes the following params:  givenName: string;\n  familyName: string;\n  birthdate: string;\n  gender: string;\n  email: string;\n  password: string,\n  contactConsent: boolean;\n  dataConsent: boolean;",
+    "dateAdded": "2024-01-22T00:40:03.454Z"
   }
 ]
