@@ -33513,5 +33513,125 @@
     "url": "https://v0.dev/t/ms76fowwGU7",
     "label": "Template for prompt: Design a web page for a care homes marketing website Our Services page. The services are: Assisted Living Service, Medical and Health Care Services, Memory Care, Rehabilitation Services, Nutritional Services, Social and Recreational Activities, Housekeeping and Maintenance, End-of-Life Care",
     "dateAdded": "2024-01-22T15:25:03.762Z"
+  },
+  {
+    "url": "https://v0.dev/t/yfC9JkZBJL9",
+    "label": "Template for prompt: Tree nested card display info",
+    "dateAdded": "2024-01-22T15:30:03.512Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wqzs7SB3H5F",
+    "label": "Template for prompt: kanban view for status on todos",
+    "dateAdded": "2024-01-22T15:30:03.512Z"
+  },
+  {
+    "url": "https://v0.dev/t/epppaIyc2xR",
+    "label": "Template for prompt: A landing page for photographers designer portfolio ",
+    "dateAdded": "2024-01-22T15:30:03.512Z"
+  },
+  {
+    "url": "https://v0.dev/t/2jVsIyQT4oh",
+    "label": "Template for prompt: A list of invoices in a collapsible card",
+    "dateAdded": "2024-01-22T15:30:03.513Z"
+  },
+  {
+    "url": "https://v0.dev/t/BRVd5StrzqP",
+    "label": "Template for prompt: desktop sidebar with a toggle to keep it fixed (expanded)",
+    "dateAdded": "2024-01-22T15:30:03.513Z"
+  },
+  {
+    "url": "https://v0.dev/t/lRPFlMjZL1I",
+    "label": "Template for prompt: button that goto google",
+    "dateAdded": "2024-01-22T15:30:03.513Z"
+  },
+  {
+    "url": "https://v0.dev/t/9DYUZ6bucM1",
+    "label": "Template for prompt: French-language webpage is designed to support individuals dealing with missing children cases in Canada. The top of the page has a logo to the left, central navigation links, and a prominent \"Donate Now\" button with a language toggle option to the right. Below this, a banner with a large, central question engages users, flanked by three clickable icons with labels that lead to different support services. The color scheme is primarily dark blue and white, setting a serious tone appropriate for the subject matter.\n\nThe lower section displays interactive elements like plus signs next to categories such as \"Runaway\" and \"Abduction,\" suggesting expandable content for various missing children scenarios. A sidebar offers immediate assistance with a mission statement and a phone number to contact a specialist. The design is clean and user-centric, with clear navigation and resources for affected individuals, emphasizing ease of access and support.",
+    "dateAdded": "2024-01-22T15:30:03.513Z"
+  },
+  {
+    "url": "https://v0.dev/t/RDO3Xc1DORM",
+    "label": "Template for prompt: social media dashboard",
+    "dateAdded": "2024-01-22T15:30:03.514Z"
+  },
+  {
+    "url": "https://v0.dev/t/VwPBZNW4EiG",
+    "label": "Template for prompt: dashboard for products tab for a stock management webapp where i can see the products in a data table, add, modify and delete them",
+    "dateAdded": "2024-01-22T15:30:03.514Z"
+  },
+  {
+    "url": "https://v0.dev/t/vQiC4juokeA",
+    "label": "Template for prompt: a competition check in dashboard. it should have table for the team list and entry times, and then to check in a team there is a checklist that has to be confirmed for each competitor in the team, their photos match themselves in person and  verified and checked off, and then each competitor initial. There should also be a place for the check-in manager to put the time that the team went into the competition.",
+    "dateAdded": "2024-01-22T15:30:03.514Z"
+  },
+  {
+    "url": "https://v0.dev/t/fJJ75PsjcYD",
+    "label": "Template for prompt: Small blog about music",
+    "dateAdded": "2024-01-22T15:30:03.514Z"
+  },
+  {
+    "url": "https://v0.dev/t/KsDzi9kQ4XZ",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-22T15:30:03.515Z"
+  },
+  {
+    "url": "https://v0.dev/t/6C9Vs51O9gs",
+    "label": "Template for prompt: A leaderboard",
+    "dateAdded": "2024-01-22T15:30:03.515Z"
+  },
+  {
+    "url": "https://v0.dev/t/Hhc4XaVwfdp",
+    "label": "Template for prompt: A form for creating a recipe",
+    "dateAdded": "2024-01-22T15:30:03.515Z"
+  },
+  {
+    "url": "https://v0.dev/t/3egRo0oBNtI",
+    "label": "Template for prompt: Tu es [Designer d'Interface Utilisateur], tu maîtrises [conception d'interfaces conviviales, utilisation d'outils de conception]. Mon contexte est [je souhaite concevoir une interface utilisateur pour une application mobile d'emprunt de machine .\nTu vas [concevoir une interface utilisateur]",
+    "dateAdded": "2024-01-22T15:30:03.515Z"
+  },
+  {
+    "url": "https://v0.dev/t/NWN8yzUsjc2",
+    "label": "Template for prompt: generate me a page for the user after sign up to complete his profile. these are the fields:\nfirst_name String\n  last_name  String\n  email      String   @unique\n  gender     String\n  job        String\n  jobDes     String\n  avatar_url Image\n  birth      Date\n  country    String\n  city       String\n  about      String\n  skills     Skill[]\n  socials    Social[]\nfor the avatar let the user upload photo and display it",
+    "dateAdded": "2024-01-22T15:30:03.515Z"
+  },
+  {
+    "url": "https://v0.dev/t/bgBwzoqz1v1",
+    "label": "Template for prompt: a landing page for a portifolio. The name of the project is DevDreamers",
+    "dateAdded": "2024-01-22T15:30:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/X9gmTUYeZ6B",
+    "label": "Template for prompt: candidat profile to view here infos and to comment ",
+    "dateAdded": "2024-01-22T15:30:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/fkXNYwSq4o3",
+    "label": "Template for prompt: create this type of block for my website to enter in my posts make samke button and also give me placeholder to add links on text",
+    "dateAdded": "2024-01-22T15:30:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/kaPSg6zhkfO",
+    "label": "Template for prompt: create a modal for error",
+    "dateAdded": "2024-01-22T15:30:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/47YBSX2clS4",
+    "label": "Template for prompt: weather dashboard",
+    "dateAdded": "2024-01-22T15:30:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/lJpP1DQGgLX",
+    "label": "Template for prompt: Create a pricing page with Free, Premium, and Enterprise options for a tax software application",
+    "dateAdded": "2024-01-22T15:30:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/m8OMhVcGNo8",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T15:30:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/1WegB03huHS",
+    "label": "Template for prompt: create a page to make a form for a travel plan for my girl friend website",
+    "dateAdded": "2024-01-22T15:30:03.517Z"
   }
 ]
