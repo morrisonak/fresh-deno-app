@@ -30483,5 +30483,125 @@
     "url": "https://v0.dev/t/9XKnzVjiPvl",
     "label": "Template for prompt: Great to hear that you already have a user panel UI! Now, you'd like to add a section for posts below, along with a button for creating a new post. Here's a suggestion for adding that to your UI:\n\nPosts Section:\n\nBelow the user description section, create a new area to display posts.\nArrange posts in a visually appealing way, with each post having its content, timestamp, and any other relevant information.\nCreate New Post Button:\n\nPlace a button labeled \"Create New Post\" next to or below the posts section.\nBy doing this, users can easily navigate through posts, and the \"Create New Post\" button provides a straightforward way for them to add new content. Make sure to implement the necessary functionality to handle post creation when the button is clicked.",
     "dateAdded": "2024-01-22T01:05:03.082Z"
+  },
+  {
+    "url": "https://v0.dev/t/OccjDu2IALm",
+    "label": "Template for prompt: A multi step form with four steps",
+    "dateAdded": "2024-01-22T01:10:03.548Z"
+  },
+  {
+    "url": "https://v0.dev/t/sC6k282excg",
+    "label": "Template for prompt:  A chat ui with history sidebar",
+    "dateAdded": "2024-01-22T01:10:03.548Z"
+  },
+  {
+    "url": "https://v0.dev/t/Cf40TAVqr2B",
+    "label": "Template for prompt: 롤 전적검색 사이트",
+    "dateAdded": "2024-01-22T01:10:03.549Z"
+  },
+  {
+    "url": "https://v0.dev/t/wmFHnk8WfzY",
+    "label": "Template for prompt: A landing page for a lottery business that allows people to give money for the purposes of playing the lottery",
+    "dateAdded": "2024-01-22T01:10:03.549Z"
+  },
+  {
+    "url": "https://v0.dev/t/q4rZPxVPJq4",
+    "label": "Template for prompt: shadcn/ui dismissable badge",
+    "dateAdded": "2024-01-22T01:10:03.549Z"
+  },
+  {
+    "url": "https://v0.dev/t/CBUO9nDWEie",
+    "label": "Template for prompt: slick login and register form",
+    "dateAdded": "2024-01-22T01:10:03.549Z"
+  },
+  {
+    "url": "https://v0.dev/t/byeQ8yVi6kC",
+    "label": "Template for prompt: Simple homepage which has three categories",
+    "dateAdded": "2024-01-22T01:10:03.549Z"
+  },
+  {
+    "url": "https://v0.dev/t/O5eh5Pal0v7",
+    "label": "Template for prompt: a ticketing webiste for entertainment events",
+    "dateAdded": "2024-01-22T01:10:03.549Z"
+  },
+  {
+    "url": "https://v0.dev/t/3CGX32MqO5F",
+    "label": "Template for prompt: Ecommerce order history",
+    "dateAdded": "2024-01-22T01:10:03.550Z"
+  },
+  {
+    "url": "https://v0.dev/t/egmlMUkGn0l",
+    "label": "Template for prompt: make a chrome extension window that pulls up a chatGPT like form ",
+    "dateAdded": "2024-01-22T01:10:03.550Z"
+  },
+  {
+    "url": "https://v0.dev/t/pQT54j1RRSR",
+    "label": "Template for prompt: build a pricing page for saas, the background is #131221, and the primary color is #DBBFFF\nthere are two plans, one is called Starter which is free and the other is Pro which is 5$ per month",
+    "dateAdded": "2024-01-22T01:10:03.550Z"
+  },
+  {
+    "url": "https://v0.dev/t/KmfaeG1s9SR",
+    "label": "Template for prompt: An admin screen with a fixed side navigation",
+    "dateAdded": "2024-01-22T01:10:03.550Z"
+  },
+  {
+    "url": "https://v0.dev/t/PrfsZrCq1lV",
+    "label": "Template for prompt: Portfolio ui. ",
+    "dateAdded": "2024-01-22T01:10:03.550Z"
+  },
+  {
+    "url": "https://v0.dev/t/TW9ssGJPdWc",
+    "label": "Template for prompt: Portfolio website 3d",
+    "dateAdded": "2024-01-22T01:10:03.551Z"
+  },
+  {
+    "url": "https://v0.dev/t/nX2avOCtFvK",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a card based grid layout showing key performance indicators in a minimalistic and concise way",
+    "dateAdded": "2024-01-22T01:10:03.551Z"
+  },
+  {
+    "url": "https://v0.dev/t/yK7oKnJt4Md",
+    "label": "Template for prompt: write a single NextJS component what takes a text input and also a submit button which serves the functionality to send the taking text input content to the backend server. ",
+    "dateAdded": "2024-01-22T01:10:03.551Z"
+  },
+  {
+    "url": "https://v0.dev/t/oeranU14nrP",
+    "label": "Template for prompt: could you remake this in tailwind",
+    "dateAdded": "2024-01-22T01:10:03.551Z"
+  },
+  {
+    "url": "https://v0.dev/t/wJ7auTMJb7d",
+    "label": "Template for prompt: Authentication page with login, and animated gradient background ",
+    "dateAdded": "2024-01-22T01:10:03.551Z"
+  },
+  {
+    "url": "https://v0.dev/t/TrGtl6rVGJ7",
+    "label": "Template for prompt: \ngenerate shadcnui code based based on the design of this landing page, provide a downloadable file https://polkastarter.com/projects/cryptocitizen\n\nReplace the content with made up content for project called MasterBots\n\nMasterBots is a chatbot platform optimized for user experience, utilizing prompt-engineering to create specialized bots. It features a real-time prompt adjustment mechanism, enabling the refinement and customization of interactions based on user input. This approach ensures coherent, context-aware responses throughout dialogue chains.\n\nThe token is called MBOTS, same team you see here under core partners section https://bitcash.org/\n\nplease use javascript object for content and reusable components",
+    "dateAdded": "2024-01-22T01:10:03.551Z"
+  },
+  {
+    "url": "https://v0.dev/t/gMG7EQWhtZ2",
+    "label": "Template for prompt: 회원가입 페이지",
+    "dateAdded": "2024-01-22T01:10:03.551Z"
+  },
+  {
+    "url": "https://v0.dev/t/kKzklqbU7ty",
+    "label": "Template for prompt: create a minimalistic page for a job listing. it should have the company name, job title, time posted. a short bio about the company. and a job description",
+    "dateAdded": "2024-01-22T01:10:03.552Z"
+  },
+  {
+    "url": "https://v0.dev/t/WBUP1zTPUUn",
+    "label": "Template for prompt: video player with basic contol and responsive design",
+    "dateAdded": "2024-01-22T01:10:03.552Z"
+  },
+  {
+    "url": "https://v0.dev/t/Hr1sEUBYVe8",
+    "label": "Template for prompt: iPhone like music player",
+    "dateAdded": "2024-01-22T01:10:03.552Z"
+  },
+  {
+    "url": "https://v0.dev/t/qUqsZN7Arts",
+    "label": "Template for prompt: 请帮我绘制一个成绩查询页面，通过学号、姓名、手机号和短信验证码查询",
+    "dateAdded": "2024-01-22T01:10:03.552Z"
   }
 ]
