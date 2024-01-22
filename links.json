@@ -40663,5 +40663,135 @@
     "url": "https://v0.dev/t/O61kXFInYi2",
     "label": "Template for prompt: create a responsive layout page using tailwind",
     "dateAdded": "2024-01-22T20:05:04.165Z"
+  },
+  {
+    "url": "https://v0.dev/t/44ZqaWn139j",
+    "label": "Template for prompt: A form with First Name, Last Name, Email, Message (vertical resize).",
+    "dateAdded": "2024-01-22T20:10:02.886Z"
+  },
+  {
+    "url": "https://v0.dev/t/MLqXbfonhrN",
+    "label": "Template for prompt: server control panel with different tabs (interactive console, file browsing, etc.) and login system",
+    "dateAdded": "2024-01-22T20:10:02.887Z"
+  },
+  {
+    "url": "https://v0.dev/t/PaMoui6vbgw",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-22T20:10:02.887Z"
+  },
+  {
+    "url": "https://v0.dev/t/h94YgpC11I2",
+    "label": "Template for prompt: temazcal webpage with navigation bar on top",
+    "dateAdded": "2024-01-22T20:10:02.887Z"
+  },
+  {
+    "url": "https://v0.dev/t/fX3U4wOvUks",
+    "label": "Template for prompt: list of phone logs and messages log for crm system",
+    "dateAdded": "2024-01-22T20:10:02.887Z"
+  },
+  {
+    "url": "https://v0.dev/t/bhD0gDyqEB2",
+    "label": "Template for prompt: create a react leaflet map in full screen",
+    "dateAdded": "2024-01-22T20:10:02.887Z"
+  },
+  {
+    "url": "https://v0.dev/t/WAI3y1IaRr4",
+    "label": "Template for prompt: Create me a dashboard layout where you can choose what subreddit you want and then what background of the video you want and and place where to choose the font you want ",
+    "dateAdded": "2024-01-22T20:10:02.887Z"
+  },
+  {
+    "url": "https://v0.dev/t/hEJY5xg6TN4",
+    "label": "Template for prompt: button which is invisibe but its text (in white) is visible, and on hovering it it should have a cool animation i.e  the animation on hover should display a button with no background color but has border radius of linier color gradient of #cf35ca and #e77c4b. The border radius should look like neon effect, and also while hovering the button should have zoom out effect along with neon gradient border effect",
+    "dateAdded": "2024-01-22T20:10:02.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/j0eybm1rGe5",
+    "label": "Template for prompt: A mobile focused checkout page using stripe for customers to pay sellers",
+    "dateAdded": "2024-01-22T20:10:02.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/4UByqZ6B0Eq",
+    "label": "Template for prompt: an ecommerce",
+    "dateAdded": "2024-01-22T20:10:02.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/0eB8UT0SH7u",
+    "label": "Template for prompt: Create a page that contains a big calendar widget with events below it. Days on the calendar on which the event is occurring are replaced with icons.",
+    "dateAdded": "2024-01-22T20:10:02.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/pp77fzV808n",
+    "label": "Template for prompt: A blog create form with image",
+    "dateAdded": "2024-01-22T20:10:02.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/Oo7x2Sw7J7G",
+    "label": "Template for prompt: communicator like discord ",
+    "dateAdded": "2024-01-22T20:10:02.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/1BMQZkY3Unw",
+    "label": "Template for prompt: A paginated sign-up hero component with 5 pages with one input field and button per page",
+    "dateAdded": "2024-01-22T20:10:02.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y0YH0ESbStN",
+    "label": "Template for prompt: اريد مثل التصميم على الصورة التي قدمتها لك",
+    "dateAdded": "2024-01-22T20:10:02.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/mRSNzLzNHDv",
+    "label": "Template for prompt: Build a new website landing page with a header at the top with the titles \"our projects\" \"Features\" Contact\" and \"About us\"  and with a hero section and text inside.",
+    "dateAdded": "2024-01-22T20:10:02.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/lAN75wZwaYz",
+    "label": "Template for prompt: give me a design for input file with delete option for uploaded file ",
+    "dateAdded": "2024-01-22T20:10:02.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/fayYex23X3W",
+    "label": "Template for prompt: \nThumbnail for prompt: i want a modal that have a support ticket data (ticket created by which user (a discord user), and the admin that claimed the ticket). i want the user interface with tailwind css \ni want a modal that have a support ticket data (ticket created by which user (a discord user), and the admin that claimed the ticket). i want the user interface with tailwind css.\nin the modal of the user created the ticket section. i want to display the user id and username and the avatar of the user  ",
+    "dateAdded": "2024-01-22T20:10:02.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/cG5NBYBKCf9",
+    "label": "Template for prompt: imageboard",
+    "dateAdded": "2024-01-22T20:10:02.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/hzcIwPpQNqM",
+    "label": "Template for prompt: Create a dashboard for a miles rewards buy and sell app. There should be filters at the top, and the main content is a grid of cards containing information about the offers. The offers must show the user who made the offer, if he is selling or buying, the price, the reward program, the amount of miles, and when the offer gets expired.",
+    "dateAdded": "2024-01-22T20:10:02.890Z"
+  },
+  {
+    "url": "https://v0.dev/t/IlOvUn9laOe",
+    "label": "Template for prompt: a wordle grid like this one ",
+    "dateAdded": "2024-01-22T20:10:02.890Z"
+  },
+  {
+    "url": "https://v0.dev/t/oLhG9ehQEcL",
+    "label": "Template for prompt: create website like this in tailwind",
+    "dateAdded": "2024-01-22T20:10:02.890Z"
+  },
+  {
+    "url": "https://v0.dev/t/SCjQXOALY5S",
+    "label": "Template for prompt: side bar navigation",
+    "dateAdded": "2024-01-22T20:10:02.890Z"
+  },
+  {
+    "url": "https://v0.dev/t/zo1cQW3HKFy",
+    "label": "Template for prompt: a pricing tier, free and pro. this is for FunSpeechTherapy, with the free version allowing 2 free AI generations per day. Pro is $27/month, with unlimited generations and photo generations.",
+    "dateAdded": "2024-01-22T20:10:02.890Z"
+  },
+  {
+    "url": "https://v0.dev/t/wKYeckGFCRK",
+    "label": "Template for prompt: saas dashboard with notification in navbar with hover effect showing the notifications",
+    "dateAdded": "2024-01-22T20:10:02.890Z"
+  },
+  {
+    "url": "https://v0.dev/t/TbTr34xUSi3",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T20:10:02.891Z"
   }
 ]
