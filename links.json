@@ -31253,5 +31253,135 @@
     "url": "https://v0.dev/t/UzyTqrXqUVH",
     "label": "Template for prompt: make a clone of google calendar",
     "dateAdded": "2024-01-22T01:35:02.819Z"
+  },
+  {
+    "url": "https://v0.dev/t/SJYjOFHjpIR",
+    "label": "Template for prompt: user configuration inside a dashboard",
+    "dateAdded": "2024-01-22T01:40:02.886Z"
+  },
+  {
+    "url": "https://v0.dev/t/L0ybhx7riBD",
+    "label": "Template for prompt: A toggle between \"A\" and \"B\"",
+    "dateAdded": "2024-01-22T01:40:02.886Z"
+  },
+  {
+    "url": "https://v0.dev/t/NnLfGErm0zv",
+    "label": "Template for prompt: user settings with avatar ",
+    "dateAdded": "2024-01-22T01:40:02.886Z"
+  },
+  {
+    "url": "https://v0.dev/t/lZeVcu5pew2",
+    "label": "Template for prompt: a dashboard with a sidebar and 4 elements in it, each of those element with more nested",
+    "dateAdded": "2024-01-22T01:40:02.887Z"
+  },
+  {
+    "url": "https://v0.dev/t/24m1UwWlgSM",
+    "label": "Template for prompt: user settings",
+    "dateAdded": "2024-01-22T01:40:02.887Z"
+  },
+  {
+    "url": "https://v0.dev/t/toWlNTOLV1f",
+    "label": "Template for prompt: a landing page with a picture card at the center.(like a polaroid picture card). It should also have a circle plus button under ther card and when thatb is pressed another picture card is added to the center. If its pressed multiple times, it should scroll horizontally",
+    "dateAdded": "2024-01-22T01:40:02.887Z"
+  },
+  {
+    "url": "https://v0.dev/t/MCgzZ18JurP",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-22T01:40:02.887Z"
+  },
+  {
+    "url": "https://v0.dev/t/GghtImVQCSI",
+    "label": "Template for prompt: form",
+    "dateAdded": "2024-01-22T01:40:02.887Z"
+  },
+  {
+    "url": "https://v0.dev/t/qOZsMGRAIf5",
+    "label": "Template for prompt: Animated ui landing page with full of content interactive ",
+    "dateAdded": "2024-01-22T01:40:02.887Z"
+  },
+  {
+    "url": "https://v0.dev/t/zEZRPK6NI9c",
+    "label": "Template for prompt: Design a three-dimensional background for the login screen.",
+    "dateAdded": "2024-01-22T01:40:02.887Z"
+  },
+  {
+    "url": "https://v0.dev/t/LywHl6vMAYH",
+    "label": "Template for prompt: 구글 배경 만들어줘",
+    "dateAdded": "2024-01-22T01:40:02.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/H7XLFI69WIc",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-22T01:40:02.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/AfwtgkRlI9c",
+    "label": "Template for prompt: CV generator application ",
+    "dateAdded": "2024-01-22T01:40:02.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/6oTVB6ryk6b",
+    "label": "Template for prompt: list of saved bank account\n\n  bankName: string;\n    accountNumber: string;\n    countryCode: string;\n    accountName: string;\n    currency: string;\n    verified: boolean;\n    createdAt: Date;",
+    "dateAdded": "2024-01-22T01:40:02.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/b3ZC0PFqFhP",
+    "label": "Template for prompt: A list where items can have sub-items",
+    "dateAdded": "2024-01-22T01:40:02.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/IybN8NoqTr4",
+    "label": "Template for prompt: a radio group component that looks like the following image",
+    "dateAdded": "2024-01-22T01:40:02.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/tYXj5oK25Yt",
+    "label": "Template for prompt: Login form",
+    "dateAdded": "2024-01-22T01:40:02.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/2prtFZxlP7q",
+    "label": "Template for prompt: Minimalist  portfolio website landing page with animation ",
+    "dateAdded": "2024-01-22T01:40:02.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/xn451LSKhZs",
+    "label": "Template for prompt: landing page and navbar hero for a saas tool. Provide different design patterns",
+    "dateAdded": "2024-01-22T01:40:02.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q2gOYbouoK5",
+    "label": "Template for prompt: a page where i can enter a blog link and import the blog with a expander and then have a chat interface where i can chat with the whole blog that i imported and ask it questions",
+    "dateAdded": "2024-01-22T01:40:02.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/zhrradNSk8C",
+    "label": "Template for prompt: 어떤 웹사이트의 /events를 만들어줘",
+    "dateAdded": "2024-01-22T01:40:02.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/Jyj8ETX9Tc2",
+    "label": "Template for prompt: website restaurant",
+    "dateAdded": "2024-01-22T01:40:02.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/5DinM1SSyfY",
+    "label": "Template for prompt: Design it like a Google search bar",
+    "dateAdded": "2024-01-22T01:40:02.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/2GJT541MGFg",
+    "label": "Template for prompt: Make me 3 place holder images in the same pattern ",
+    "dateAdded": "2024-01-22T01:40:02.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/yTJqqjzoHhu",
+    "label": "Template for prompt: Make the background look like a Google background",
+    "dateAdded": "2024-01-22T01:40:02.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/Fiw9mTiJE4q",
+    "label": "Template for prompt:  One piece loading spinner",
+    "dateAdded": "2024-01-22T01:40:02.889Z"
   }
 ]
