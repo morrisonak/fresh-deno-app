@@ -32383,5 +32383,130 @@
     "url": "https://v0.dev/t/tgHyawuhDjs",
     "label": "Template for prompt: Welcome to Restaker, your specialized dashboard for managing and optimizing restaking on Eigenlayer protocols. Tailored for blockchain enthusiasts and savvy investors, Restaker provides a sophisticated yet user-friendly platform to monitor, analyze, and enhance your Eigenlayer restaking strategies.\n\nKey Features:\n\nTop Menu Navigation:\n\nHome: Get a holistic view of your Eigenlayer restaking activities, featuring an overview of all potential rewards and performance insights for your investments.\nProtocols: Explore in-depth information about Eigenlayer protocols, including their unique staking mechanisms, risk assessment, and past performance data.\nRewards: Track your earned rewards in real-time, view projections for future earnings, and explore options for automatic reinvestment or withdrawal.\nSettings: Personalize your dashboard experience, adjust notification settings, and manage your account's security preferences.\nHome View:\n\nThe Home view serves as the central hub of Restaker. It pr",
     "dateAdded": "2024-01-22T14:40:03.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/stbxoEHoVJB",
+    "label": "Template for prompt: make it so that when i click on a different component it changes the variables and outputs that are related to the cloud resource. ",
+    "dateAdded": "2024-01-22T14:45:03.507Z"
+  },
+  {
+    "url": "https://v0.dev/t/wgXwA3cAJYB",
+    "label": "Template for prompt: landing page for ## skillsplice\n\nQuizes in different software engineering areas. (e.g. backend, db management, mobile development, webdev, devops, datastructures, algorithms, etc etc) - Built in answers & explanations that can be revealed (Along with *Read more* links to subject). \n\nUsers/profiles for saving user progress in each quiz. (to allow Resume quiz / restart etc)\n\n\n\n## to implement:\n\n- Difficulty filter through multi-select dropdown? (Beginner, Medium, Hard)\n- Sub categories - frontend > react/angular/js/css\n- Custom quiz (Category selector - eg combine React and DevOps)\n- Admin panel that serves as CMS for handling site (issues, quizzes, questions, users etc)\n  - Issues reported by users by clicking 'Report Question' on a question.",
+    "dateAdded": "2024-01-22T14:45:03.507Z"
+  },
+  {
+    "url": "https://v0.dev/t/wDAfh6lFWfN",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T14:45:03.507Z"
+  },
+  {
+    "url": "https://v0.dev/t/ezct2xBzuTT",
+    "label": "Template for prompt: generate css",
+    "dateAdded": "2024-01-22T14:45:03.508Z"
+  },
+  {
+    "url": "https://v0.dev/t/wnZRQkV4xts",
+    "label": "Template for prompt: generate css",
+    "dateAdded": "2024-01-22T14:45:03.508Z"
+  },
+  {
+    "url": "https://v0.dev/t/O4o71STeGA1",
+    "label": "Template for prompt: Random joke generator app",
+    "dateAdded": "2024-01-22T14:45:03.508Z"
+  },
+  {
+    "url": "https://v0.dev/t/OdZGHZLo3gh",
+    "label": "Template for prompt: create a page which shows many people speaking in a channel similar to discord",
+    "dateAdded": "2024-01-22T14:45:03.508Z"
+  },
+  {
+    "url": "https://v0.dev/t/bZEnjvRv5Ct",
+    "label": "Template for prompt: 3 cards, each with a question",
+    "dateAdded": "2024-01-22T14:45:03.508Z"
+  },
+  {
+    "url": "https://v0.dev/t/Igf1BDtxkd4",
+    "label": "Template for prompt: Write me a view using Bootstrap and jQuery that shows the initial screen for the app. To refresh your memory, this is what it should do:\n\nThe app allows you to micro-learn something new every day. It does so by opening a simple screen with 1 question and input \"What would you like to learn today?\".\n\nThe user punches in their study subject and using ChatGPT through OpenAI's API, the app requests information about the subject and turns it into a small amount of digestable modules.\n\nThe user can then tap one of these modules after which again OpenAI's API is leveraged to gather more information on that subject's module.\n\nStart by writing the landing screen with the question and input field. Style it heavily to make it look awesome!",
+    "dateAdded": "2024-01-22T14:45:03.509Z"
+  },
+  {
+    "url": "https://v0.dev/t/6pkiTD49rAj",
+    "label": "Template for prompt: design a list of badge showing opening hours of a restaurant",
+    "dateAdded": "2024-01-22T14:45:03.509Z"
+  },
+  {
+    "url": "https://v0.dev/t/8gGEYOc92un",
+    "label": "Template for prompt: Build a page where users can edit their integration settings like api keys, name of the integration, disabled or enabled etc",
+    "dateAdded": "2024-01-22T14:45:03.509Z"
+  },
+  {
+    "url": "https://v0.dev/t/LtrdYTCcMjE",
+    "label": "Template for prompt: hamburger animated menu",
+    "dateAdded": "2024-01-22T14:45:03.509Z"
+  },
+  {
+    "url": "https://v0.dev/t/nRqaV4wKPc1",
+    "label": "Template for prompt: hamburger animated menu",
+    "dateAdded": "2024-01-22T14:45:03.510Z"
+  },
+  {
+    "url": "https://v0.dev/t/z6qGOgg2sOm",
+    "label": "Template for prompt: restaker.xyz is an aggregated dashboard for all restaking protocols built on Eigenlayer. It lists in rows all protocols you have staked in. Also has a unified UI for staking eth in any of the restaking protocols",
+    "dateAdded": "2024-01-22T14:45:03.510Z"
+  },
+  {
+    "url": "https://v0.dev/t/SGo57rDbjUE",
+    "label": "Template for prompt: Build the Inkdrop Dashboard:\n- White Logo for the Navbar https://inkdrop.ai/wp-content/uploads/2022/03/cropped-Inkdrop_White-removebg-preview-300x54.png\n- Show a grid of Cloud Resource Modules with their respective Variables & Outputs. On click of a Module I should get a highlight of their respective variables and outputs in the UI\n\n## Inkdrop Dashboard UI Build Instructions\n\n### Objective:\nCreate a user interface for the Inkdrop Dashboard that visually represents Cloud Resource Modules, their associated Variables, and Outputs. This dashboard should allow users to interact with the modules to see related details.\n\n### Layout:\n- The main area of the dashboard will present a grid layout.\n- Each grid cell will represent a Cloud Resource Module.\n- Below the grid, there will be a dedicated area to display Variables and Outputs.\n\n### Module Representation:\n- Every Module should be represented as a card within the grid.\n- Each card should have a clear label indicating it is a \"related resourc",
+    "dateAdded": "2024-01-22T14:45:03.510Z"
+  },
+  {
+    "url": "https://v0.dev/t/7pvoGSFUQmB",
+    "label": "Template for prompt: a label that displays inline with an input and shows a spinner and the text \"saving\" when saving the field, and then shows a checkmark and the text \"saved\" when the value is saved. It should only display the spinner and checkmark on smaller screen devices and should hide the text then.",
+    "dateAdded": "2024-01-22T14:45:03.510Z"
+  },
+  {
+    "url": "https://v0.dev/t/3pUU4HcCTcf",
+    "label": "Template for prompt: Text to tweet ui",
+    "dateAdded": "2024-01-22T14:45:03.510Z"
+  },
+  {
+    "url": "https://v0.dev/t/GPxAjATOtau",
+    "label": "Template for prompt: Dropdown selector with 4 options. Every optiona has an icon.",
+    "dateAdded": "2024-01-22T14:45:03.511Z"
+  },
+  {
+    "url": "https://v0.dev/t/SDVizmXfSSy",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T14:45:03.511Z"
+  },
+  {
+    "url": "https://v0.dev/t/GulIFd35ZPs",
+    "label": "Template for prompt: create a standard table in a card component",
+    "dateAdded": "2024-01-22T14:45:03.511Z"
+  },
+  {
+    "url": "https://v0.dev/t/utkbavaWKUv",
+    "label": "Template for prompt: design a little badge with minor animation saying live",
+    "dateAdded": "2024-01-22T14:45:03.511Z"
+  },
+  {
+    "url": "https://v0.dev/t/qWKXWSIqPbR",
+    "label": "Template for prompt: Tiktok UI",
+    "dateAdded": "2024-01-22T14:45:03.511Z"
+  },
+  {
+    "url": "https://v0.dev/t/qiaNxRjg2bN",
+    "label": "Template for prompt: 이 사진대로 디자인을 더욱 아름답게 개선해서 html 코드를 작성해줘",
+    "dateAdded": "2024-01-22T14:45:03.511Z"
+  },
+  {
+    "url": "https://v0.dev/t/m69wQ40nNIP",
+    "label": "Template for prompt: split screen card where one half is a textarea and the other half is an image",
+    "dateAdded": "2024-01-22T14:45:03.512Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZGbO6T3Advo",
+    "label": "Template for prompt: i have a list of 200+ skills, i.e stone masonry, adobe photohop, drivers licensce etc. they are weighted with relevance towards a education that they relate too, i.e computer science 101. Design a view that lists these in a user friendly way",
+    "dateAdded": "2024-01-22T14:45:03.512Z"
   }
 ]
