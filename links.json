@@ -32993,5 +32993,135 @@
     "url": "https://v0.dev/t/8XRDbx4yHw4",
     "label": "Template for prompt: A list of product categories with image, name and description.",
     "dateAdded": "2024-01-22T15:05:03.386Z"
+  },
+  {
+    "url": "https://v0.dev/t/bmLoD9JoQju",
+    "label": "Template for prompt: create an organisation switcher in a dropdown menu",
+    "dateAdded": "2024-01-22T15:10:04.025Z"
+  },
+  {
+    "url": "https://v0.dev/t/auS1yxY0Kyq",
+    "label": "Template for prompt: candidat profile ",
+    "dateAdded": "2024-01-22T15:10:04.025Z"
+  },
+  {
+    "url": "https://v0.dev/t/N0hqWPRb7We",
+    "label": "Template for prompt: A landing page with a chat bot in the middle",
+    "dateAdded": "2024-01-22T15:10:04.025Z"
+  },
+  {
+    "url": "https://v0.dev/t/LrEQlXRRSql",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T15:10:04.026Z"
+  },
+  {
+    "url": "https://v0.dev/t/NNUaqXuDic7",
+    "label": "Template for prompt: a ring that looks like the image",
+    "dateAdded": "2024-01-22T15:10:04.026Z"
+  },
+  {
+    "url": "https://v0.dev/t/Bmxzi43XWBY",
+    "label": "Template for prompt: I want to have a dashboard page for a schools student app which has the analytics for the student's test grades, students attendance, and the timetable for the student's class. Make it in dark mode",
+    "dateAdded": "2024-01-22T15:10:04.026Z"
+  },
+  {
+    "url": "https://v0.dev/t/qDmhsGMbiqu",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-22T15:10:04.026Z"
+  },
+  {
+    "url": "https://v0.dev/t/7Kj7sN9vz7Q",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-22T15:10:04.026Z"
+  },
+  {
+    "url": "https://v0.dev/t/HQxpyvVvGFI",
+    "label": "Template for prompt: make it with just html and css",
+    "dateAdded": "2024-01-22T15:10:04.026Z"
+  },
+  {
+    "url": "https://v0.dev/t/BVfYRwE9hKf",
+    "label": "Template for prompt: List of notes taken by a user",
+    "dateAdded": "2024-01-22T15:10:04.026Z"
+  },
+  {
+    "url": "https://v0.dev/t/2g8XrqeNtTq",
+    "label": "Template for prompt: hero section for a mobile app about users meeting in real life",
+    "dateAdded": "2024-01-22T15:10:04.027Z"
+  },
+  {
+    "url": "https://v0.dev/t/RUXUOZIbqKP",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T15:10:04.027Z"
+  },
+  {
+    "url": "https://v0.dev/t/nAziRqDzZzO",
+    "label": "Template for prompt: Create a landing page for a fun game using a crayon and artsy and funky style. The title should be \"Pictionary\" and have a button that says Play Game.",
+    "dateAdded": "2024-01-22T15:10:04.027Z"
+  },
+  {
+    "url": "https://v0.dev/t/ig2soCSkFN0",
+    "label": "Template for prompt: Create a 'compact mode' representation of the transactions, for a cryptocurrency tax service",
+    "dateAdded": "2024-01-22T15:10:04.027Z"
+  },
+  {
+    "url": "https://v0.dev/t/9KxYcThIQlJ",
+    "label": "Template for prompt: Generate a Hosting PaaS Landingpage",
+    "dateAdded": "2024-01-22T15:10:04.027Z"
+  },
+  {
+    "url": "https://v0.dev/t/xMeUa36XWUy",
+    "label": "Template for prompt: bingo.com is a modern design site that lets you import a csv file and play bingo with it",
+    "dateAdded": "2024-01-22T15:10:04.027Z"
+  },
+  {
+    "url": "https://v0.dev/t/82upcuVxQ5F",
+    "label": "Template for prompt: create a hamburger menu",
+    "dateAdded": "2024-01-22T15:10:04.027Z"
+  },
+  {
+    "url": "https://v0.dev/t/P4KIR6eEhpD",
+    "label": "Template for prompt: [\n    {\n        tramo: 'A',\n        ncantidanecesaria: 6,\n        productos: [\n            { cnombreproducto: 'Producto A', valor: 1 },\n            { cnombreproducto: 'Producto B', valor: 1 },\n            { cnombreproducto: 'Producto C', valor: 0.25 },\n        ],\n    },\n    {\n        tramo: 'B',\n        ncantidanecesaria: 1,\n        productos: [\n            { cnombreproducto: 'Producto D', valor: 1 },\n        ],\n    },\n    {\n        tramo: 'C',\n        ncantidanecesaria: 0,\n        productos: [\n            { cnombreproducto: 'Producto E', valor: 0 },\n        ],\n    },\n   ] crea una tabla que muestre cada dato en una celda propia, y agrupa por la filas de la columna tramos",
+    "dateAdded": "2024-01-22T15:10:04.027Z"
+  },
+  {
+    "url": "https://v0.dev/t/oi9bJb9qZbP",
+    "label": "Template for prompt: build 5 responsive content in one div using flex-wrap",
+    "dateAdded": "2024-01-22T15:10:04.027Z"
+  },
+  {
+    "url": "https://v0.dev/t/38l1T20Gf3p",
+    "label": "Template for prompt: radio cards",
+    "dateAdded": "2024-01-22T15:10:04.027Z"
+  },
+  {
+    "url": "https://v0.dev/t/tYfI0UczInj",
+    "label": "Template for prompt: make  music player for astro.js",
+    "dateAdded": "2024-01-22T15:10:04.028Z"
+  },
+  {
+    "url": "https://v0.dev/t/RsVSRtEY5il",
+    "label": "Template for prompt: make a netflix like login page, dark theme",
+    "dateAdded": "2024-01-22T15:10:04.028Z"
+  },
+  {
+    "url": "https://v0.dev/t/s59mrpuffyc",
+    "label": "Template for prompt: John was learning arrays data structure when his friend Ram arrived. Seeing John, Ram thought of a challenge for John. He challenged him to calculate the measurement of the array.\n\nGiven a 0 indexed array Ram defined the measurement of the array as the sum of sanities of all the elements in the array. The sanity of an element in the array was defined as the sum of its index and the index of its last occurrence in the array.\n\nNote that duplicate elements may exist in the array.\n\nGiven an array, your task is to help John in calculating the measurement of the array. Since the output may be too large therefore print it modulo 1000000007.",
+    "dateAdded": "2024-01-22T15:10:04.028Z"
+  },
+  {
+    "url": "https://v0.dev/t/O5hgw7QyBCh",
+    "label": "Template for prompt: A real-time collaborative tool such as Figma, provides for users to enter individual prompts as multiple inputs such as promopts to a single generative AI and this generative AI will then consolidate and output an image from those users",
+    "dateAdded": "2024-01-22T15:10:04.028Z"
+  },
+  {
+    "url": "https://v0.dev/t/af9Mh1XScKa",
+    "label": "Template for prompt: collapsible sidebar with a fix button at the top",
+    "dateAdded": "2024-01-22T15:10:04.028Z"
+  },
+  {
+    "url": "https://v0.dev/t/JGZ5qrL9rjR",
+    "label": "Template for prompt: a content bar with three elements that has plain text that becomes a button when hovered ",
+    "dateAdded": "2024-01-22T15:10:04.028Z"
   }
 ]
