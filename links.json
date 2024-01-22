@@ -29128,5 +29128,135 @@
     "url": "https://v0.dev/t/NuGzbQQD5n1",
     "label": "Template for prompt: Sports league schedule page",
     "dateAdded": "2024-01-22T00:10:02.931Z"
+  },
+  {
+    "url": "https://v0.dev/t/eq47xhluhsr",
+    "label": "Template for prompt: A homepage for NYC Basketball Club — the title and description of the basketball club + a list of a few upcoming events as rows below the title",
+    "dateAdded": "2024-01-22T00:15:03.208Z"
+  },
+  {
+    "url": "https://v0.dev/t/Rd1dRkcrl90",
+    "label": "Template for prompt: QR code generator",
+    "dateAdded": "2024-01-22T00:15:03.208Z"
+  },
+  {
+    "url": "https://v0.dev/t/TxGnjk9B12q",
+    "label": "Template for prompt: Slick looking flight search component",
+    "dateAdded": "2024-01-22T00:15:03.208Z"
+  },
+  {
+    "url": "https://v0.dev/t/54pwcgGJqtK",
+    "label": "Template for prompt: A Lego Radar app for searching legos in other marketplaces (like amazon)",
+    "dateAdded": "2024-01-22T00:15:03.208Z"
+  },
+  {
+    "url": "https://v0.dev/t/H4Yljv6YQCY",
+    "label": "Template for prompt: datatable with search function",
+    "dateAdded": "2024-01-22T00:15:03.209Z"
+  },
+  {
+    "url": "https://v0.dev/t/8CA8MrUnejX",
+    "label": "Template for prompt: Una página web con temática de terminal.",
+    "dateAdded": "2024-01-22T00:15:03.209Z"
+  },
+  {
+    "url": "https://v0.dev/t/5da2gA7u2fl",
+    "label": "Template for prompt: A scientific calculator",
+    "dateAdded": "2024-01-22T00:15:03.209Z"
+  },
+  {
+    "url": "https://v0.dev/t/hn3I1pdRPDv",
+    "label": "Template for prompt: A two column feature on a website with and image on one side and the other side includes title, subtitle, content, and a call to action button",
+    "dateAdded": "2024-01-22T00:15:03.209Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yn7wGw1zaMf",
+    "label": "Template for prompt: \n",
+    "dateAdded": "2024-01-22T00:15:03.209Z"
+  },
+  {
+    "url": "https://v0.dev/t/MuPHfZiOkh1",
+    "label": "Template for prompt: A pokedex with the first generation",
+    "dateAdded": "2024-01-22T00:15:03.209Z"
+  },
+  {
+    "url": "https://v0.dev/t/fJPx6GBML3A",
+    "label": "Template for prompt: A banking portfolio component for a trust fund",
+    "dateAdded": "2024-01-22T00:15:03.209Z"
+  },
+  {
+    "url": "https://v0.dev/t/71QY5v4krui",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T00:15:03.210Z"
+  },
+  {
+    "url": "https://v0.dev/t/Nu7yvQf8P74",
+    "label": "Template for prompt: A page with question and answers like Stackoverflow",
+    "dateAdded": "2024-01-22T00:15:03.210Z"
+  },
+  {
+    "url": "https://v0.dev/t/iF20CmeBrUZ",
+    "label": "Template for prompt: A ui for review abd approval service for video",
+    "dateAdded": "2024-01-22T00:15:03.210Z"
+  },
+  {
+    "url": "https://v0.dev/t/XgKPkwLPonf",
+    "label": "Template for prompt: 색칠할 수 있는 캔버스를 만들어줘",
+    "dateAdded": "2024-01-22T00:15:03.210Z"
+  },
+  {
+    "url": "https://v0.dev/t/4EZSkMlRAoh",
+    "label": "Template for prompt: product with image at the top, the name below the image and below a \"Details\" button that occupies the width of the card",
+    "dateAdded": "2024-01-22T00:15:03.210Z"
+  },
+  {
+    "url": "https://v0.dev/t/zZHhTG3EWet",
+    "label": "Template for prompt: dashboard for sleep activity metrics",
+    "dateAdded": "2024-01-22T00:15:03.210Z"
+  },
+  {
+    "url": "https://v0.dev/t/JER571fpHH7",
+    "label": "Template for prompt: a carousel for adventure booking site homepage, each image should be clickable",
+    "dateAdded": "2024-01-22T00:15:03.210Z"
+  },
+  {
+    "url": "https://v0.dev/t/pwhykTTcI8H",
+    "label": "Template for prompt: a landing pague funel",
+    "dateAdded": "2024-01-22T00:15:03.210Z"
+  },
+  {
+    "url": "https://v0.dev/t/tTJ0KGsb6p4",
+    "label": "Template for prompt: hospital automation",
+    "dateAdded": "2024-01-22T00:15:03.211Z"
+  },
+  {
+    "url": "https://v0.dev/t/y0sYzQaZCWn",
+    "label": "Template for prompt: a minimalist portfolio tracker that keeps track of my crypto assets and Binance futures & options PNL different and portfolio value difference displayed on a line chart in black and white",
+    "dateAdded": "2024-01-22T00:15:03.211Z"
+  },
+  {
+    "url": "https://v0.dev/t/GN9OinOK7nq",
+    "label": "Template for prompt: create a box with 50% width and height of a screen and place it center",
+    "dateAdded": "2024-01-22T00:15:03.211Z"
+  },
+  {
+    "url": "https://v0.dev/t/rEvqnw5GJQN",
+    "label": "Template for prompt: \"Create a web application for item price tracking. Features include:\n\nIntuitive Home Page that displays item initial price and current lowest price.\nFunctionality to create an item tracking signal by entering product name and urls to track.\nStrong security measures for data protection, complying with regulations like GDPR.\nPay per post.”",
+    "dateAdded": "2024-01-22T00:15:03.211Z"
+  },
+  {
+    "url": "https://v0.dev/t/Dx6yvXjTff1",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-22T00:15:03.211Z"
+  },
+  {
+    "url": "https://v0.dev/t/AbAlhgVSPmt",
+    "label": "Template for prompt: make a backend UI in bootstrap for editing a bands profile - Must include name description photo, photo gallery location genre widgets and more",
+    "dateAdded": "2024-01-22T00:15:03.211Z"
+  },
+  {
+    "url": "https://v0.dev/t/ymuZLhPkIe0",
+    "label": "Template for prompt: interface for minting a NFT in atom punk style",
+    "dateAdded": "2024-01-22T00:15:03.212Z"
   }
 ]
