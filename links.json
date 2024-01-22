@@ -35813,5 +35813,125 @@
     "url": "https://v0.dev/t/D9xC502YuxU",
     "label": "Template for prompt: dialog box",
     "dateAdded": "2024-01-22T16:55:02.509Z"
+  },
+  {
+    "url": "https://v0.dev/t/YtlP62iWluu",
+    "label": "Template for prompt: A form which allows building SQL queries for audience segmentation",
+    "dateAdded": "2024-01-22T17:00:02.901Z"
+  },
+  {
+    "url": "https://v0.dev/t/HByGuMVlYAs",
+    "label": "Template for prompt: create a wordpress style ecommerce website, with top and bottom header, add menue on top header, use the picture as guide",
+    "dateAdded": "2024-01-22T17:00:02.901Z"
+  },
+  {
+    "url": "https://v0.dev/t/3AtGTNYUnQP",
+    "label": "Template for prompt: I need an accordion component that will have a title, e.g.: Works 2.0, and inside it will have project cards that will contain the following information: Project name, project date, list of representatives, list of participants and also a property that can be true or false that must be displayed a judiciary icon.",
+    "dateAdded": "2024-01-22T17:00:02.901Z"
+  },
+  {
+    "url": "https://v0.dev/t/We5Juvna511",
+    "label": "Template for prompt: A 'Profile' page with a left navigation and the content on the right.\nthose are the sections and related content:\n\n{\n    generale: \"informazioni generali dell'utente\",\n    \"impostazioni\": \"impostazioni dell'utente\",\n    \"organizzazioni\": \"organizzazioni a cui l'utente appartiene\",\n    \"organizzazione\": \"organizzazione selezionata\",\n    \"abbonamento\": \"abbonamento dell'utente\",\n}",
+    "dateAdded": "2024-01-22T17:00:02.901Z"
+  },
+  {
+    "url": "https://v0.dev/t/L3PQk0ismSi",
+    "label": "Template for prompt: Tengo una web sobre deportes, ya tengo el siedbar y el header. necesito que se pueda ver una especie de catalogo de eventos a realizar, un marco que muestre donde practicar el deporte y abajo tutoriales de deportes en ypoutube",
+    "dateAdded": "2024-01-22T17:00:02.902Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ezha6u3E2sf",
+    "label": "Template for prompt: marketing front page for my nextjs with navbar on top with signin signup buttons",
+    "dateAdded": "2024-01-22T17:00:02.902Z"
+  },
+  {
+    "url": "https://v0.dev/t/rr5E4R5Wi0m",
+    "label": "Template for prompt: social media management dashboard",
+    "dateAdded": "2024-01-22T17:00:02.902Z"
+  },
+  {
+    "url": "https://v0.dev/t/UdCNy6OOL2x",
+    "label": "Template for prompt: form for input details of multiple employees having title and name",
+    "dateAdded": "2024-01-22T17:00:02.902Z"
+  },
+  {
+    "url": "https://v0.dev/t/pfhF8u8gbBT",
+    "label": "Template for prompt: form for input details of multiple employees having title and name",
+    "dateAdded": "2024-01-22T17:00:02.902Z"
+  },
+  {
+    "url": "https://v0.dev/t/tWp4Ie8jl8N",
+    "label": "Template for prompt: clone it",
+    "dateAdded": "2024-01-22T17:00:02.903Z"
+  },
+  {
+    "url": "https://v0.dev/t/uC4Fc9wtMix",
+    "label": "Template for prompt: A list of product categories with image, name and description. using simple ui",
+    "dateAdded": "2024-01-22T17:00:02.903Z"
+  },
+  {
+    "url": "https://v0.dev/t/KqWey5fet5Q",
+    "label": "Template for prompt: a shadcn card for a rpg character with image name and hp and mana bars",
+    "dateAdded": "2024-01-22T17:00:02.903Z"
+  },
+  {
+    "url": "https://v0.dev/t/EobCO2rMe6V",
+    "label": "Template for prompt: Functional Understanding:\n•\tThe tool is created to store the inventory data (FAR) and to validate the items using QR code scanning.\n•\tUser flow:\no\tThe user adds their existing FAR to the system.\no\tThe user generates the required number of QR codes and prints them.\no\tThe QR codes are tagged to items in FAR using scanning.\no\tThe user sticks these codes to the items in the warehouse.\no\tThe user then scans each item code in any time interval to validate the items' presence in the inventory/warehouse.\n•\tAdmin user: (General Manager)\no\tAdmin user has the right to create new Worker users in their organization. \no\tAdmin has access to the entire FAR and to add/import new items into the system.\no\tAdmin user can start and end verification (scanning) sessions for different locations.\no\tAdmin user has access to all locations of the organization.\no\tAdmin has full access to QR generation, tagging, and scanning.\no\tAdmin has access to reports of all verification sessions.",
+    "dateAdded": "2024-01-22T17:00:02.903Z"
+  },
+  {
+    "url": "https://v0.dev/t/EweJRXaeEnv",
+    "label": "Template for prompt: svg loader icon",
+    "dateAdded": "2024-01-22T17:00:02.903Z"
+  },
+  {
+    "url": "https://v0.dev/t/mcuuqWNkJ12",
+    "label": "Template for prompt: build a onboarding page that has 4 stages, greeting, personalize, set up the teams, ready to go!",
+    "dateAdded": "2024-01-22T17:00:02.904Z"
+  },
+  {
+    "url": "https://v0.dev/t/lRDO0rdnfNg",
+    "label": "Template for prompt: Make me a landing page for a robotics startup called \"Terravision\" that makes robots that clean the planet",
+    "dateAdded": "2024-01-22T17:00:02.904Z"
+  },
+  {
+    "url": "https://v0.dev/t/06kMfkCtHh8",
+    "label": "Template for prompt: An ecommerce store for Soy Wax Artesan Candles",
+    "dateAdded": "2024-01-22T17:00:02.904Z"
+  },
+  {
+    "url": "https://v0.dev/t/QXqUusGhVtN",
+    "label": "Template for prompt: and ecomerce store for a flower with led being sold",
+    "dateAdded": "2024-01-22T17:00:02.904Z"
+  },
+  {
+    "url": "https://v0.dev/t/DbgUKtiNCX2",
+    "label": "Template for prompt: A profile section that show the user info and the subscriptions info",
+    "dateAdded": "2024-01-22T17:00:02.904Z"
+  },
+  {
+    "url": "https://v0.dev/t/Xm3g7ZVqFFo",
+    "label": "Template for prompt: a button with a loading spinner",
+    "dateAdded": "2024-01-22T17:00:02.905Z"
+  },
+  {
+    "url": "https://v0.dev/t/TlrifAFsqgR",
+    "label": "Template for prompt: An audience query builder which allows users to construct complex segmentations of pets using infinite data points and conditionals",
+    "dateAdded": "2024-01-22T17:00:02.905Z"
+  },
+  {
+    "url": "https://v0.dev/t/012FTLHW8O0",
+    "label": "Template for prompt: presenting different rpg abilities with name, description, base stat and requirement",
+    "dateAdded": "2024-01-22T17:00:02.905Z"
+  },
+  {
+    "url": "https://v0.dev/t/F5kQSnThrRs",
+    "label": "Template for prompt: A landing page for a ui library called aaron-ui",
+    "dateAdded": "2024-01-22T17:00:02.905Z"
+  },
+  {
+    "url": "https://v0.dev/t/FMJI5zarXPu",
+    "label": "Template for prompt: a kanban board",
+    "dateAdded": "2024-01-22T17:00:02.905Z"
   }
 ]
