@@ -35933,5 +35933,125 @@
     "url": "https://v0.dev/t/FMJI5zarXPu",
     "label": "Template for prompt: a kanban board",
     "dateAdded": "2024-01-22T17:00:02.905Z"
+  },
+  {
+    "url": "https://v0.dev/t/tUH5BO8lTto",
+    "label": "Template for prompt: give me layout for order list with this item:\n\"items\": [\n      {\n        \"id\": 1,\n        \"Pharmacy\": {\n          \"id\": 1,\n          \"name\": \"Kimia Farma Kuningan\"\n        },\n        \"date\": \"2024-01-18T12:33:16.108335+07:00\",\n        \"no_of_items\": 2,\n        \"total_payment\": \"10000\",\n        \"transaction_id\": 1,\n        \"Status\": {\n          \"id\": 2,\n          \"name\": \"Processed\"\n        }\n      }\n    ]",
+    "dateAdded": "2024-01-22T17:05:03.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/wJFVDXvHo7y",
+    "label": "Template for prompt: create a contact form with this: Contact us\nAmet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis.\n\n+1-316-555-0116\n\n+1-446-526-0117\n\ncontact@example.com\n\nhr@example.com\n\n8502 Preston Rd. Ingle, Maine 98380, USA\n\nSend us a message\nYour name\nEnter your full name\nEmail address\nEnter your full name\nPhone number\nEnter your full name\nCompany name\nEnter your full name\nMessage\nSend",
+    "dateAdded": "2024-01-22T17:05:03.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/rb4oX3NeqcZ",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form for a kids toy store",
+    "dateAdded": "2024-01-22T17:05:03.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/JvMCpWnV0BD",
+    "label": "Template for prompt: create a dashboard with a side bar holds two tabs \nreports and my ads",
+    "dateAdded": "2024-01-22T17:05:03.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/8M8RXXm0CNF",
+    "label": "Template for prompt: a landingpage for a learning institue",
+    "dateAdded": "2024-01-22T17:05:03.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/7AZNjYbkIav",
+    "label": "Template for prompt: Blog pagination. It should show a left and right arrow at either end to go forwards and backwards. It should display the current page with some sort of highlighting, then 2 pages back and 2 pages forward, and finally an ellipse for any pages being missed, and then the last page displayed as a number.",
+    "dateAdded": "2024-01-22T17:05:03.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/KgEwgfdoFfy",
+    "label": "Template for prompt: Jewelry homepage",
+    "dateAdded": "2024-01-22T17:05:03.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/u0uesOp6qgu",
+    "label": "Template for prompt: an input that autosaves on blur and shows saving saved status using an inline icon animation ",
+    "dateAdded": "2024-01-22T17:05:03.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/yofmHXZ5iEa",
+    "label": "Template for prompt: build a dashboard panel that has a tickets page that i created or assign to me",
+    "dateAdded": "2024-01-22T17:05:03.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/GfUxvsOIx2M",
+    "label": "Template for prompt: create a movies webside userfrandly degian",
+    "dateAdded": "2024-01-22T17:05:03.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/IwJ64qyl0NH",
+    "label": "Template for prompt: Header responsive with logo and 3 menus (about, local and button called inscrições) ",
+    "dateAdded": "2024-01-22T17:05:03.392Z"
+  },
+  {
+    "url": "https://v0.dev/t/kvwcx7U9Hgk",
+    "label": "Template for prompt: a mobile friendly table ",
+    "dateAdded": "2024-01-22T17:05:03.392Z"
+  },
+  {
+    "url": "https://v0.dev/t/e0t8ItTzmfX",
+    "label": "Template for prompt: dashboard template with a sidebar and top menu",
+    "dateAdded": "2024-01-22T17:05:03.392Z"
+  },
+  {
+    "url": "https://v0.dev/t/Vkkqzg7BJlI",
+    "label": "Template for prompt: a lean and mobile friendly form",
+    "dateAdded": "2024-01-22T17:05:03.392Z"
+  },
+  {
+    "url": "https://v0.dev/t/FIOpyOVKTED",
+    "label": "Template for prompt: an input that autosaves on blur",
+    "dateAdded": "2024-01-22T17:05:03.392Z"
+  },
+  {
+    "url": "https://v0.dev/t/5BT5ll9vOIx",
+    "label": "Template for prompt: event card for a bike ride with an image, ride details, a list of participants, and a button to join",
+    "dateAdded": "2024-01-22T17:05:03.392Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZsULlEJ5F6c",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-22T17:05:03.392Z"
+  },
+  {
+    "url": "https://v0.dev/t/MbsFeVbyRHr",
+    "label": "Template for prompt: Generate a \"choose a subscribtion\" page the options Free, Premium, Enterprise",
+    "dateAdded": "2024-01-22T17:05:03.393Z"
+  },
+  {
+    "url": "https://v0.dev/t/Fq4ieoTFMjs",
+    "label": "Template for prompt: Create a modern SignIn component with all necessary details/information + also make an option to login with google ",
+    "dateAdded": "2024-01-22T17:05:03.393Z"
+  },
+  {
+    "url": "https://v0.dev/t/KbxlxU35OWv",
+    "label": "Template for prompt: create two tabs reports and my ads",
+    "dateAdded": "2024-01-22T17:05:03.393Z"
+  },
+  {
+    "url": "https://v0.dev/t/YtlP62iWluu",
+    "label": "Template for prompt: A form which allows building SQL queries for audience segmentation",
+    "dateAdded": "2024-01-22T17:05:03.393Z"
+  },
+  {
+    "url": "https://v0.dev/t/HByGuMVlYAs",
+    "label": "Template for prompt: create a wordpress style ecommerce website, with top and bottom header, add menue on top header, use the picture as guide",
+    "dateAdded": "2024-01-22T17:05:03.393Z"
+  },
+  {
+    "url": "https://v0.dev/t/3AtGTNYUnQP",
+    "label": "Template for prompt: I need an accordion component that will have a title, e.g.: Works 2.0, and inside it will have project cards that will contain the following information: Project name, project date, list of representatives, list of participants and also a property that can be true or false that must be displayed a judiciary icon.",
+    "dateAdded": "2024-01-22T17:05:03.393Z"
+  },
+  {
+    "url": "https://v0.dev/t/We5Juvna511",
+    "label": "Template for prompt: A 'Profile' page with a left navigation and the content on the right.\nthose are the sections and related content:\n\n{\n    generale: \"informazioni generali dell'utente\",\n    \"impostazioni\": \"impostazioni dell'utente\",\n    \"organizzazioni\": \"organizzazioni a cui l'utente appartiene\",\n    \"organizzazione\": \"organizzazione selezionata\",\n    \"abbonamento\": \"abbonamento dell'utente\",\n}",
+    "dateAdded": "2024-01-22T17:05:03.393Z"
   }
 ]
