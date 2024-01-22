@@ -33758,5 +33758,135 @@
     "url": "https://v0.dev/t/BRVd5StrzqP",
     "label": "Template for prompt: desktop sidebar with a toggle to keep it fixed (expanded)",
     "dateAdded": "2024-01-22T15:35:03.460Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yjvl7Rf4CS8",
+    "label": "Template for prompt: a website that displays a countdown for releasing a website on the 10th feb 2024",
+    "dateAdded": "2024-01-22T15:40:03.537Z"
+  },
+  {
+    "url": "https://v0.dev/t/PxrLd54YW0s",
+    "label": "Template for prompt: a paywall above a blog post that fade to whie at the bottom",
+    "dateAdded": "2024-01-22T15:40:03.537Z"
+  },
+  {
+    "url": "https://v0.dev/t/5jiXfwBuc7k",
+    "label": "Template for prompt: todo app beautiful colorful minimal",
+    "dateAdded": "2024-01-22T15:40:03.537Z"
+  },
+  {
+    "url": "https://v0.dev/t/n0yHB1j2eQG",
+    "label": "Template for prompt: create me a page to complete profile after signing up like in github profile",
+    "dateAdded": "2024-01-22T15:40:03.537Z"
+  },
+  {
+    "url": "https://v0.dev/t/e81sfyW2jdJ",
+    "label": "Template for prompt: A 3 Pane Dashboard with navigation on the left and a master-detail pane with a dynamic details pane that changes based on input in the master pane. There are 4 navigational items, 1) Home, 2) Orders, 3) Customers, 4) Product. Home is a dashboard view with analytic cards as well as paginated tables. Orders is a list of orders. Customers I'm unsure, be creative not just cards or lists maybe a combination of both? Product should a grid of products, filters on the left as well as categories at the top.",
+    "dateAdded": "2024-01-22T15:40:03.537Z"
+  },
+  {
+    "url": "https://v0.dev/t/hcXgDw3EgNv",
+    "label": "Template for prompt: a top header menu for desktop and responsive for mobile ",
+    "dateAdded": "2024-01-22T15:40:03.538Z"
+  },
+  {
+    "url": "https://v0.dev/t/rjGW72rVckq",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T15:40:03.538Z"
+  },
+  {
+    "url": "https://v0.dev/t/UUkS1ZA7b3U",
+    "label": "Template for prompt: web developer portfolio",
+    "dateAdded": "2024-01-22T15:40:03.538Z"
+  },
+  {
+    "url": "https://v0.dev/t/hZj8CiU6cem",
+    "label": "Template for prompt: https://5scontent.com/",
+    "dateAdded": "2024-01-22T15:40:03.538Z"
+  },
+  {
+    "url": "https://v0.dev/t/Xgl5QNONXRh",
+    "label": "Template for prompt: 이름, 학번, 이메일, 비밀번호를 받는 회원가입 페이지를 만들어줘, html의 form tag는 사용하지 말아줘. ",
+    "dateAdded": "2024-01-22T15:40:03.539Z"
+  },
+  {
+    "url": "https://v0.dev/t/WSI98tTJ169",
+    "label": "Template for prompt: A Dog Walker finder application onboarding for mobile app",
+    "dateAdded": "2024-01-22T15:40:03.539Z"
+  },
+  {
+    "url": "https://v0.dev/t/ELp3fH59oIT",
+    "label": "Template for prompt: simple habit tracker that focuses on a week view with the habits as rows and the days as columns\n\nyou have the ability to say you completed habit or not or partially completed a habit",
+    "dateAdded": "2024-01-22T15:40:03.539Z"
+  },
+  {
+    "url": "https://v0.dev/t/EbLHGdrYUdg",
+    "label": "Template for prompt: 1. Monochromatic aesthetic\n",
+    "dateAdded": "2024-01-22T15:40:03.539Z"
+  },
+  {
+    "url": "https://v0.dev/t/XgA4lZ4XR5B",
+    "label": "Template for prompt: a page library of multiple objects",
+    "dateAdded": "2024-01-22T15:40:03.540Z"
+  },
+  {
+    "url": "https://v0.dev/t/cq9RE2jFLQs",
+    "label": "Template for prompt: A dog finder application onboarding",
+    "dateAdded": "2024-01-22T15:40:03.540Z"
+  },
+  {
+    "url": "https://v0.dev/t/0ttsHlf55kO",
+    "label": "Template for prompt: Make me a dashboard for medical imaging app",
+    "dateAdded": "2024-01-22T15:40:03.541Z"
+  },
+  {
+    "url": "https://v0.dev/t/aXDawvKmtUx",
+    "label": "Template for prompt: a notification bell with notifications",
+    "dateAdded": "2024-01-22T15:40:03.541Z"
+  },
+  {
+    "url": "https://v0.dev/t/hHZHWUFRbBn",
+    "label": "Template for prompt: using shadcn ui, create a beautiful card. The card should have image, title, little description and tags",
+    "dateAdded": "2024-01-22T15:40:03.542Z"
+  },
+  {
+    "url": "https://v0.dev/t/2E6GjOGFyKh",
+    "label": "Template for prompt: simple habit tracker that focuses on a week view with the habits as rows and the days as columns\n\nyou have the ability to say you completed habit or not or partially completed a habit\n\n",
+    "dateAdded": "2024-01-22T15:40:03.542Z"
+  },
+  {
+    "url": "https://v0.dev/t/J2BM8xPCvsF",
+    "label": "Template for prompt: \nGenerate a comprehensive design concept for the homepage of a handyman services marketplace app. Consider a color scheme that exudes professionalism and warmth, creating a trustworthy and inviting atmosphere. Design a logo that captures the essence of connecting handymen with users seeking manual services. Develop a header with intuitive navigation, a prominent search bar, and quick access to essential features. Create a section highlighting featured services to attract user attention, emphasizing variety and relevance. Devise a user-friendly onboarding process guiding users through profile setup and preferences.\n\nDesign a search bar and filtering options facilitating easy discovery of specific services, handymen, or locations. Develop individual handyman profiles showcasing skills, reviews, and previous work to build trust. Design an intuitive booking and scheduling interface allowing users to select services, choose time slots, and confirm appointments.",
+    "dateAdded": "2024-01-22T15:40:03.542Z"
+  },
+  {
+    "url": "https://v0.dev/t/3NgK33IMH4F",
+    "label": "Template for prompt: A multi level sidebar menu",
+    "dateAdded": "2024-01-22T15:40:03.542Z"
+  },
+  {
+    "url": "https://v0.dev/t/WjL4SguP4R8",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T15:40:03.543Z"
+  },
+  {
+    "url": "https://v0.dev/t/zRKGfWS6ROu",
+    "label": "Template for prompt: dashboard for products tab for a stock management webapp where i can see the products in a data table, add, modify and delete them",
+    "dateAdded": "2024-01-22T15:40:03.543Z"
+  },
+  {
+    "url": "https://v0.dev/t/rzTuOGLUyN0",
+    "label": "Template for prompt: can you create an e-commerce dashboard welcome screen",
+    "dateAdded": "2024-01-22T15:40:03.543Z"
+  },
+  {
+    "url": "https://v0.dev/t/KgKmr5gY4RJ",
+    "label": "Template for prompt: candidat profile to view here infos and to comment ",
+    "dateAdded": "2024-01-22T15:40:03.543Z"
+  },
+  {
+    "url": "https://v0.dev/t/nWvni2OpFA8",
+    "label": "Template for prompt: Social login button",
+    "dateAdded": "2024-01-22T15:40:03.544Z"
   }
 ]
