@@ -34148,5 +34148,135 @@
     "url": "https://v0.dev/t/yPHEuZLGjjR",
     "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
     "dateAdded": "2024-01-22T15:50:03.194Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZAlJEWjKE4O",
+    "label": "Template for prompt: hero section for a health consulting business",
+    "dateAdded": "2024-01-22T15:55:03.686Z"
+  },
+  {
+    "url": "https://v0.dev/t/wnSB2BCXEf6",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-22T15:55:03.687Z"
+  },
+  {
+    "url": "https://v0.dev/t/rQHDnjWuVVX",
+    "label": "Template for prompt: create a page called Resources which holds 2 pdf files first file contains Learning Licence Test Questions – 2024 and second file contain Road Safety Signs ",
+    "dateAdded": "2024-01-22T15:55:03.687Z"
+  },
+  {
+    "url": "https://v0.dev/t/TASYMYpgsT7",
+    "label": "Template for prompt: I have word within span, which is selectable. I would like to create functionality, where upon clicking, a dialog or popup or similar would open and allow user to change metadata of the word, such as category of the word. It should also allow user to create a new category for the word and also remove existing category for the word",
+    "dateAdded": "2024-01-22T15:55:03.687Z"
+  },
+  {
+    "url": "https://v0.dev/t/XkwvxSP2pHQ",
+    "label": "Template for prompt: a dashboard with a nav section for api key management, and a history section with various dropdown groupings. History section should be searchable",
+    "dateAdded": "2024-01-22T15:55:03.687Z"
+  },
+  {
+    "url": "https://v0.dev/t/f9pGJf1vNbY",
+    "label": "Template for prompt: Landing page",
+    "dateAdded": "2024-01-22T15:55:03.687Z"
+  },
+  {
+    "url": "https://v0.dev/t/rwvbguZXWiu",
+    "label": "Template for prompt: A SaaS admin dashboard",
+    "dateAdded": "2024-01-22T15:55:03.687Z"
+  },
+  {
+    "url": "https://v0.dev/t/NETJhklM5XC",
+    "label": "Template for prompt: make a material design contact form",
+    "dateAdded": "2024-01-22T15:55:03.687Z"
+  },
+  {
+    "url": "https://v0.dev/t/AgOI5JjHwuY",
+    "label": "Template for prompt: A SaaS profile dashboard. It allows creating API keys, viewing total sales and comission revenue, and the paginated list of orders",
+    "dateAdded": "2024-01-22T15:55:03.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/ckHCMrgzq8z",
+    "label": "Template for prompt: generate this page using shadcn ui and the theme light blue",
+    "dateAdded": "2024-01-22T15:55:03.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/DicnDQAdINw",
+    "label": "Template for prompt: portfolio",
+    "dateAdded": "2024-01-22T15:55:03.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/76hcUSfSCHr",
+    "label": "Template for prompt: a classifides site for selling and buying board games",
+    "dateAdded": "2024-01-22T15:55:03.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/3bkt9vSEPh1",
+    "label": "Template for prompt: A D3 svg hero section and blog post underneath with left panel for table of contents",
+    "dateAdded": "2024-01-22T15:55:03.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/gbcKoxXuduX",
+    "label": "Template for prompt: habit tracker",
+    "dateAdded": "2024-01-22T15:55:03.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/O5x0csgloRR",
+    "label": "Template for prompt: create userpanel  with rtl sidebar with 4 item  and 1 drapdown item in sidebar  have 2 subitem ",
+    "dateAdded": "2024-01-22T15:55:03.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/FAHRGURibdm",
+    "label": "Template for prompt: i need a minimalistic portfolio of me and my projects and known programing languages",
+    "dateAdded": "2024-01-22T15:55:03.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/fT7UEeVJFea",
+    "label": "Template for prompt: A dark landing page with gradient and transparency effects for modern look, add a feature list and pricing plans, The project is called PyProtect and it helps you protect your python applications against reverse engineers, Features are: code obfuscation, anti tampering, authentication system, anti debugging, automatic compilation to an exe",
+    "dateAdded": "2024-01-22T15:55:03.689Z"
+  },
+  {
+    "url": "https://v0.dev/t/XLo9s36XhvY",
+    "label": "Template for prompt: Make me a black and white component where I can showcase projects, based on title and description",
+    "dateAdded": "2024-01-22T15:55:03.689Z"
+  },
+  {
+    "url": "https://v0.dev/t/cYzhKgapZbY",
+    "label": "Template for prompt: login page",
+    "dateAdded": "2024-01-22T15:55:03.689Z"
+  },
+  {
+    "url": "https://v0.dev/t/CZ3tT61AfK6",
+    "label": "Template for prompt: create me a page exactely like that",
+    "dateAdded": "2024-01-22T15:55:03.689Z"
+  },
+  {
+    "url": "https://v0.dev/t/eSd38evb0xK",
+    "label": "Template for prompt: A component for compact transaction representation for a cryptocurrency tax platform Each transaction has to represent the following:\n\n1. Date&time\n2. Outgoing cryptocurrency (type, amount, wallet)\n3. Incoming cryptocurrency (type, amount, wallet)\n4. Transactions type (like deposit, withdraw, trade). Preferably, it will be easy for the visual system to distinguish between these, with color codes for example. The current colored arrow system doesn’t quite cut through the clutter.\n5. Value ($)\n6 Gains ($)\n7 Fee ($)\n",
+    "dateAdded": "2024-01-22T15:55:03.689Z"
+  },
+  {
+    "url": "https://v0.dev/t/DIjiy8XhfDk",
+    "label": "Template for prompt: cv generator app",
+    "dateAdded": "2024-01-22T15:55:03.689Z"
+  },
+  {
+    "url": "https://v0.dev/t/nSMdS9bnB3L",
+    "label": "Template for prompt: A blog page containing 4 blog sections",
+    "dateAdded": "2024-01-22T15:55:03.689Z"
+  },
+  {
+    "url": "https://v0.dev/t/Tm6LwT0TlZs",
+    "label": "Template for prompt: podrias generar los componentes de la imaggen tal cual se ven",
+    "dateAdded": "2024-01-22T15:55:03.689Z"
+  },
+  {
+    "url": "https://v0.dev/t/3kWEy0huetC",
+    "label": "Template for prompt: A dark landing page with gradient and transparency effects for modern look, add a feature list and pricing plans, The project is called PyProtect and it helps you protect your python applications against reverse engineers",
+    "dateAdded": "2024-01-22T15:55:03.690Z"
+  },
+  {
+    "url": "https://v0.dev/t/tB4cpe19yZa",
+    "label": "Template for prompt: A 3 Pane Dashboard with navigation on the left and a master-detail pane with a dynamic details pane that changes based on input in the master pane. There are 4 navigational items, 1) Home, 2) Orders, 3) Customers, 4) Product. Home is a dashboard view with analytic cards as well as paginated tables. Orders is a list of orders. Customers I'm unsure, be creative not just cards or lists maybe a combination of both? Product should a grid of products, filters on the left as well as categories at the top.",
+    "dateAdded": "2024-01-22T15:55:03.690Z"
   }
 ]
