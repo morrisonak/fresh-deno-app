@@ -42958,5 +42958,125 @@
     "url": "https://v0.dev/t/Fx7zCvWY167",
     "label": "Template for prompt: container that tells the user that they haven't made any notes yet, with a cute svg icon and a button to make a new note",
     "dateAdded": "2024-01-22T21:35:03.116Z"
+  },
+  {
+    "url": "https://v0.dev/t/DBgv8grXVW8",
+    "label": "Template for prompt: a one page bio with an reactive background with a discord link",
+    "dateAdded": "2024-01-22T21:40:02.626Z"
+  },
+  {
+    "url": "https://v0.dev/t/RkUqhHVAuNE",
+    "label": "Template for prompt: a landing page for a photography nextjs",
+    "dateAdded": "2024-01-22T21:40:02.627Z"
+  },
+  {
+    "url": "https://v0.dev/t/oYGVY8Y90Wo",
+    "label": "Template for prompt: make it look exactly like the picture especially the colors",
+    "dateAdded": "2024-01-22T21:40:02.627Z"
+  },
+  {
+    "url": "https://v0.dev/t/i8XoIytwArU",
+    "label": "Template for prompt: a hero section for a book website with a buy now button, a pricing text, and a note about the digital book format",
+    "dateAdded": "2024-01-22T21:40:02.627Z"
+  },
+  {
+    "url": "https://v0.dev/t/ECx7qFGEpyy",
+    "label": "Template for prompt: loading icon",
+    "dateAdded": "2024-01-22T21:40:02.627Z"
+  },
+  {
+    "url": "https://v0.dev/t/qGcpJc56ZPq",
+    "label": "Template for prompt: Landing page for curtains shop",
+    "dateAdded": "2024-01-22T21:40:02.628Z"
+  },
+  {
+    "url": "https://v0.dev/t/3Gng6YJisyP",
+    "label": "Template for prompt: A user role management page,search for name userid role and id edit and delete users add new users or export users colors dark green modern clean user friendly design. ",
+    "dateAdded": "2024-01-22T21:40:02.628Z"
+  },
+  {
+    "url": "https://v0.dev/t/sSyHj5biHeW",
+    "label": "Template for prompt: a beautyful login form with email and password fields and login button with dark/ligth theme",
+    "dateAdded": "2024-01-22T21:40:02.628Z"
+  },
+  {
+    "url": "https://v0.dev/t/ASxuGeCibgR",
+    "label": "Template for prompt: Make me an online store for burning man style jackets",
+    "dateAdded": "2024-01-22T21:40:02.628Z"
+  },
+  {
+    "url": "https://v0.dev/t/2rwEnM07QW1",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T21:40:02.628Z"
+  },
+  {
+    "url": "https://v0.dev/t/xtD9la28F1T",
+    "label": "Template for prompt: A changelog popup modal with some emojis and a list of new things",
+    "dateAdded": "2024-01-22T21:40:02.628Z"
+  },
+  {
+    "url": "https://v0.dev/t/80AOwUfhMZ1",
+    "label": "Template for prompt: modren portfolio ",
+    "dateAdded": "2024-01-22T21:40:02.629Z"
+  },
+  {
+    "url": "https://v0.dev/t/o2MKAazlSJY",
+    "label": "Template for prompt: Recreate this screenshot in HTML",
+    "dateAdded": "2024-01-22T21:40:02.629Z"
+  },
+  {
+    "url": "https://v0.dev/t/0pCdYFbxrOR",
+    "label": "Template for prompt: Create like linketree with a list of contacts like Skype, Telegram, Whatsapp, Instagram",
+    "dateAdded": "2024-01-22T21:40:02.629Z"
+  },
+  {
+    "url": "https://v0.dev/t/8aTassYFcBu",
+    "label": "Template for prompt: A page to display a list of team members and a button to add a team member. This page is under the tab \"team\"",
+    "dateAdded": "2024-01-22T21:40:02.629Z"
+  },
+  {
+    "url": "https://v0.dev/t/u41ao2poVCh",
+    "label": "Template for prompt: calculator",
+    "dateAdded": "2024-01-22T21:40:02.630Z"
+  },
+  {
+    "url": "https://v0.dev/t/8hffSPfNxXw",
+    "label": "Template for prompt: container that tells the user that they haven't selected any notes yet, with a cute svg icon and a button to make a new note separated by a \"OR\"",
+    "dateAdded": "2024-01-22T21:40:02.630Z"
+  },
+  {
+    "url": "https://v0.dev/t/ppUI4HE1KBs",
+    "label": "Template for prompt: create a row-based user interface like a spreadsheet that allows for in-browser editing of each cell independently. The first column should be labeled \"agent id\" and take a GUID as a parameter, the second column should be labeled \"agent token\", the third column should be labeled \"auth token\", the fourth column should be labeled \"api key\" and the fifth column should be labeled \"agent yaml\"",
+    "dateAdded": "2024-01-22T21:40:02.630Z"
+  },
+  {
+    "url": "https://v0.dev/t/UDnpJJLo8cs",
+    "label": "Template for prompt: a karaoke webapp that play musics from youtube",
+    "dateAdded": "2024-01-22T21:40:02.630Z"
+  },
+  {
+    "url": "https://v0.dev/t/n6XcBU6wPIm",
+    "label": "Template for prompt: gallary page,map different pics that when i click it full screen",
+    "dateAdded": "2024-01-22T21:40:02.630Z"
+  },
+  {
+    "url": "https://v0.dev/t/tBjfeSwXja5",
+    "label": "Template for prompt: A full page contact, with two columns, and a white background.",
+    "dateAdded": "2024-01-22T21:40:02.631Z"
+  },
+  {
+    "url": "https://v0.dev/t/mPUSXalpTMj",
+    "label": "Template for prompt: a sidebar that has a vertical list view of user created notes, each note should contain a title, size on the disk, and a star if it is added to favourites",
+    "dateAdded": "2024-01-22T21:40:02.631Z"
+  },
+  {
+    "url": "https://v0.dev/t/MmIsHakYCha",
+    "label": "Template for prompt: design a card with a list of alerts and a dropdown",
+    "dateAdded": "2024-01-22T21:40:02.631Z"
+  },
+  {
+    "url": "https://v0.dev/t/c69kiXrgkWP",
+    "label": "Template for prompt: a product for an ecommerce app",
+    "dateAdded": "2024-01-22T21:40:02.632Z"
   }
 ]
