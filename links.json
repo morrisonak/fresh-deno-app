@@ -39633,5 +39633,135 @@
     "url": "https://v0.dev/t/lzycRrvuxlr",
     "label": "Template for prompt: A dashboard for our app where we can add schools see schools add drivers see drivers add children assign children slots for picking up them for school",
     "dateAdded": "2024-01-22T19:25:03.344Z"
+  },
+  {
+    "url": "https://v0.dev/t/cHyOz2SLgMm",
+    "label": "Template for prompt: genera un formulario de pago con tarjeta de credito con nombre en la tarjeta, numero de tarjeta, CVV, correo y monto",
+    "dateAdded": "2024-01-22T19:30:03.394Z"
+  },
+  {
+    "url": "https://v0.dev/t/ypRFvwBTxGf",
+    "label": "Template for prompt: profile page for a classroom/tasks app for children, with profile image, name, email and password input fields",
+    "dateAdded": "2024-01-22T19:30:03.395Z"
+  },
+  {
+    "url": "https://v0.dev/t/eKvvOmifTGM",
+    "label": "Template for prompt: button which is invisibe but its text (in white) is visible, and on hovering it it should have a cool animation, and the only color to be used is white and blue",
+    "dateAdded": "2024-01-22T19:30:03.395Z"
+  },
+  {
+    "url": "https://v0.dev/t/fDcWgVaRYmL",
+    "label": "Template for prompt: give html code for this",
+    "dateAdded": "2024-01-22T19:30:03.395Z"
+  },
+  {
+    "url": "https://v0.dev/t/L4P95nVDVJ5",
+    "label": "Template for prompt: Follow-up Items with header filter and detail and lines",
+    "dateAdded": "2024-01-22T19:30:03.395Z"
+  },
+  {
+    "url": "https://v0.dev/t/dRf23yV5OvR",
+    "label": "Template for prompt: Bento grid for 5 cards with a question mark as cover of the card",
+    "dateAdded": "2024-01-22T19:30:03.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/Gnbvfc3OKoS",
+    "label": "Template for prompt: an product card in minimalistic design containing the need things like title, description, price, and more",
+    "dateAdded": "2024-01-22T19:30:03.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/8fCDMfQ1RLw",
+    "label": "Template for prompt: A beautiful UI for an AI chatbot",
+    "dateAdded": "2024-01-22T19:30:03.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/IEOMDEpXRHn",
+    "label": "Template for prompt: folowup list",
+    "dateAdded": "2024-01-22T19:30:03.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/1aXFUDjv6QN",
+    "label": "Template for prompt: chat app",
+    "dateAdded": "2024-01-22T19:30:03.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/feVfMT1aAP9",
+    "label": "Template for prompt: A dashbaord for 3D Printers, that displays their name, model, and statuses",
+    "dateAdded": "2024-01-22T19:30:03.397Z"
+  },
+  {
+    "url": "https://v0.dev/t/CUnMd8JAbpZ",
+    "label": "Template for prompt: sass layout with sidebar and topbar",
+    "dateAdded": "2024-01-22T19:30:03.397Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZUvakmYhFxp",
+    "label": "Template for prompt: create a stunning \"new\" design to show a product is new",
+    "dateAdded": "2024-01-22T19:30:03.397Z"
+  },
+  {
+    "url": "https://v0.dev/t/EPQkqGDYuwI",
+    "label": "Template for prompt: a form ",
+    "dateAdded": "2024-01-22T19:30:03.397Z"
+  },
+  {
+    "url": "https://v0.dev/t/IWbqYfN2HlC",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-22T19:30:03.397Z"
+  },
+  {
+    "url": "https://v0.dev/t/IgfDPFSSOpS",
+    "label": "Template for prompt: a dashboard that gathers uniswap data gathered from The Graph",
+    "dateAdded": "2024-01-22T19:30:03.398Z"
+  },
+  {
+    "url": "https://v0.dev/t/xLA7VADKU8G",
+    "label": "Template for prompt: make a login/signup page ",
+    "dateAdded": "2024-01-22T19:30:03.398Z"
+  },
+  {
+    "url": "https://v0.dev/t/U2jNEzefp03",
+    "label": "Template for prompt: An interface to query data from a Motogp database and AI model to get info about a race or racers.  The user will be contrained to drop down menu with different catagories of questions to ask.",
+    "dateAdded": "2024-01-22T19:30:03.398Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zivh2uLiKqF",
+    "label": "Template for prompt: Do this website for me",
+    "dateAdded": "2024-01-22T19:30:03.398Z"
+  },
+  {
+    "url": "https://v0.dev/t/irU5Jze0naP",
+    "label": "Template for prompt: A user dashboard for our VPN-service. User dashboard should have simple managment functions, like subscription management, traffic usage, settings\nMobile first design.",
+    "dateAdded": "2024-01-22T19:30:03.398Z"
+  },
+  {
+    "url": "https://v0.dev/t/bpZJt6jQpi1",
+    "label": "Template for prompt: Create a webpage with a list of videos in cards",
+    "dateAdded": "2024-01-22T19:30:03.398Z"
+  },
+  {
+    "url": "https://v0.dev/t/a1ni9vi3qvl",
+    "label": "Template for prompt: a copy profile link component",
+    "dateAdded": "2024-01-22T19:30:03.402Z"
+  },
+  {
+    "url": "https://v0.dev/t/kHQihHdRHgJ",
+    "label": "Template for prompt: I want to add a voting section and a comment section to this",
+    "dateAdded": "2024-01-22T19:30:03.403Z"
+  },
+  {
+    "url": "https://v0.dev/t/uUOTljvIh1q",
+    "label": "Template for prompt: make a sign up/ login page with a darker theme",
+    "dateAdded": "2024-01-22T19:30:03.404Z"
+  },
+  {
+    "url": "https://v0.dev/t/ufJrssMC120",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T19:30:03.404Z"
+  },
+  {
+    "url": "https://v0.dev/t/VEmn6nem94i",
+    "label": "Template for prompt: A wildlife photography portfolio and print shop for a wildlife photographer specializing in photos from africa and airzona",
+    "dateAdded": "2024-01-22T19:30:03.405Z"
   }
 ]
