@@ -38353,5 +38353,135 @@
     "url": "https://v0.dev/t/IeJPh0p2jwD",
     "label": "Template for prompt: create a comment section",
     "dateAdded": "2024-01-22T18:35:02.914Z"
+  },
+  {
+    "url": "https://v0.dev/t/w36pvoxty4P",
+    "label": "Template for prompt: Document information table with 10 rows, showing the name of the document, its size and last modified date",
+    "dateAdded": "2024-01-22T18:40:03.459Z"
+  },
+  {
+    "url": "https://v0.dev/t/sptvoVKN3rg",
+    "label": "Template for prompt: a mobile app design DutyDuo, it is an app distribute house chores between couples",
+    "dateAdded": "2024-01-22T18:40:03.460Z"
+  },
+  {
+    "url": "https://v0.dev/t/fYCUaIc7S1N",
+    "label": "Template for prompt: A really beautiful and minimalist Select component to choose between users",
+    "dateAdded": "2024-01-22T18:40:03.460Z"
+  },
+  {
+    "url": "https://v0.dev/t/h4gPrFiQSeZ",
+    "label": "Template for prompt: Create a Carousel with cards. The cards should have image, title, description and tags. Everything should be responsive",
+    "dateAdded": "2024-01-22T18:40:03.460Z"
+  },
+  {
+    "url": "https://v0.dev/t/5fGH1xrvviQ",
+    "label": "Template for prompt: a preview component to show code like shadcn ui ",
+    "dateAdded": "2024-01-22T18:40:03.460Z"
+  },
+  {
+    "url": "https://v0.dev/t/ieOYQ8vOAgm",
+    "label": "Template for prompt: create a similiar hero component",
+    "dateAdded": "2024-01-22T18:40:03.460Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZamFDwloYgz",
+    "label": "Template for prompt: Restaurant order cart items",
+    "dateAdded": "2024-01-22T18:40:03.461Z"
+  },
+  {
+    "url": "https://v0.dev/t/E5uHvmSICXw",
+    "label": "Template for prompt: top navigation with megamenus ",
+    "dateAdded": "2024-01-22T18:40:03.461Z"
+  },
+  {
+    "url": "https://v0.dev/t/uNtnt4p6YRA",
+    "label": "Template for prompt: A guided step by step business plan editor",
+    "dateAdded": "2024-01-22T18:40:03.461Z"
+  },
+  {
+    "url": "https://v0.dev/t/N1DvBQdaWYH",
+    "label": "Template for prompt: Make hero section for website that sells online courses",
+    "dateAdded": "2024-01-22T18:40:03.461Z"
+  },
+  {
+    "url": "https://v0.dev/t/0JudPWIdPiG",
+    "label": "Template for prompt: make login page with bootstrap",
+    "dateAdded": "2024-01-22T18:40:03.461Z"
+  },
+  {
+    "url": "https://v0.dev/t/afJBsWXPLfz",
+    "label": "Template for prompt: A user onboarding interview flow, fullscreen",
+    "dateAdded": "2024-01-22T18:40:03.462Z"
+  },
+  {
+    "url": "https://v0.dev/t/W64KKkiwVgl",
+    "label": "Template for prompt: customer onboarding form",
+    "dateAdded": "2024-01-22T18:40:03.462Z"
+  },
+  {
+    "url": "https://v0.dev/t/6bSD7Xhc032",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T18:40:03.462Z"
+  },
+  {
+    "url": "https://v0.dev/t/sR8H6cClEl7",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T18:40:03.462Z"
+  },
+  {
+    "url": "https://v0.dev/t/3Rf4HYSZ4sB",
+    "label": "Template for prompt: A restaurant booking application landing page with the ability to capture a booking with a date and time picker, and the number of people.",
+    "dateAdded": "2024-01-22T18:40:03.462Z"
+  },
+  {
+    "url": "https://v0.dev/t/4DcdhzfZAtt",
+    "label": "Template for prompt: make a album page with a song list in dark mode",
+    "dateAdded": "2024-01-22T18:40:03.462Z"
+  },
+  {
+    "url": "https://v0.dev/t/dwNbC3fGXrq",
+    "label": "Template for prompt: Chat application with threads on left",
+    "dateAdded": "2024-01-22T18:40:03.462Z"
+  },
+  {
+    "url": "https://v0.dev/t/s43l0ehC7tQ",
+    "label": "Template for prompt: An onboarding email welcoming sales reps",
+    "dateAdded": "2024-01-22T18:40:03.463Z"
+  },
+  {
+    "url": "https://v0.dev/t/nchL1C9ac4W",
+    "label": "Template for prompt: a login form ",
+    "dateAdded": "2024-01-22T18:40:03.463Z"
+  },
+  {
+    "url": "https://v0.dev/t/YyOcWyqjIZk",
+    "label": "Template for prompt: a round checkbox with a custom svg, the svg is a check icon insde a circle. the check icon must have round borders",
+    "dateAdded": "2024-01-22T18:40:03.463Z"
+  },
+  {
+    "url": "https://v0.dev/t/mPX6Yi2N1fe",
+    "label": "Template for prompt: A CRUD yo users, with name, email, hender & pais",
+    "dateAdded": "2024-01-22T18:40:03.463Z"
+  },
+  {
+    "url": "https://v0.dev/t/LsenddJCmYk",
+    "label": "Template for prompt: quiero un pagina de login con el campo del correo y contraseña centrado a la pantalla",
+    "dateAdded": "2024-01-22T18:40:03.463Z"
+  },
+  {
+    "url": "https://v0.dev/t/NfWnomQrXjO",
+    "label": "Template for prompt: a round checkbox that uses a fontawesome with a custom svg check icon with a circular border",
+    "dateAdded": "2024-01-22T18:40:03.464Z"
+  },
+  {
+    "url": "https://v0.dev/t/zRaOvV78SdD",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T18:40:03.464Z"
+  },
+  {
+    "url": "https://v0.dev/t/JRte3TJjPmN",
+    "label": "Template for prompt: make thyis page with bootstrap",
+    "dateAdded": "2024-01-22T18:40:03.464Z"
   }
 ]
