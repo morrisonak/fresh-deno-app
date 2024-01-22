@@ -32133,5 +32133,135 @@
     "url": "https://v0.dev/t/cugtRVWzsu6",
     "label": "Template for prompt: Make a page that is meant to deploy development servers. The sidebar should have a form to provision the servers, and the main part of the page should contain a table of the current running servers",
     "dateAdded": "2024-01-22T14:30:03.100Z"
+  },
+  {
+    "url": "https://v0.dev/t/eulzpV9Iia2",
+    "label": "Template for prompt: Make it dynamic with carousel function",
+    "dateAdded": "2024-01-22T14:35:03.866Z"
+  },
+  {
+    "url": "https://v0.dev/t/nUMqOA44yK7",
+    "label": "Template for prompt: A minimal dark theme page redirecting to a documnettaion",
+    "dateAdded": "2024-01-22T14:35:03.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/rxF6xaAZ31f",
+    "label": "Template for prompt: make a banner as same as the image provided please do not make any changes from the image maintain the spacing and text sizes as well",
+    "dateAdded": "2024-01-22T14:35:03.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/hx2l8g79ny1",
+    "label": "Template for prompt: a card component with a title and three sections for rates",
+    "dateAdded": "2024-01-22T14:35:03.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/owh3517IRuC",
+    "label": "Template for prompt: comment faire un générateur de qrcode en fonction d'un cookie ",
+    "dateAdded": "2024-01-22T14:35:03.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/ObVtIEciLA9",
+    "label": "Template for prompt: a signup form with 10 fields for contract workers",
+    "dateAdded": "2024-01-22T14:35:03.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/IwOWbbFmnGh",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-22T14:35:03.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/tgHyawuhDjs",
+    "label": "Template for prompt: Welcome to Restaker, your specialized dashboard for managing and optimizing restaking on Eigenlayer protocols. Tailored for blockchain enthusiasts and savvy investors, Restaker provides a sophisticated yet user-friendly platform to monitor, analyze, and enhance your Eigenlayer restaking strategies.\n\nKey Features:\n\nTop Menu Navigation:\n\nHome: Get a holistic view of your Eigenlayer restaking activities, featuring an overview of all potential rewards and performance insights for your investments.\nProtocols: Explore in-depth information about Eigenlayer protocols, including their unique staking mechanisms, risk assessment, and past performance data.\nRewards: Track your earned rewards in real-time, view projections for future earnings, and explore options for automatic reinvestment or withdrawal.\nSettings: Personalize your dashboard experience, adjust notification settings, and manage your account's security preferences.\nHome View:\n\nThe Home view serves as the central hub of Restaker. It pr",
+    "dateAdded": "2024-01-22T14:35:03.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/PkCTWFqW0va",
+    "label": "Template for prompt: candidat profile to view here infos and to comment ",
+    "dateAdded": "2024-01-22T14:35:03.868Z"
+  },
+  {
+    "url": "https://v0.dev/t/7NWBtWlWpAl",
+    "label": "Template for prompt: make a sidebar that pops in and out",
+    "dateAdded": "2024-01-22T14:35:03.868Z"
+  },
+  {
+    "url": "https://v0.dev/t/RgWVtJT8vvs",
+    "label": "Template for prompt: a connferance project next js with livekit client package like livekit meet sample project but only javascript and dont use typescript ",
+    "dateAdded": "2024-01-22T14:35:03.868Z"
+  },
+  {
+    "url": "https://v0.dev/t/YKTG4f8PIbf",
+    "label": "Template for prompt: barbershop front page",
+    "dateAdded": "2024-01-22T14:35:03.868Z"
+  },
+  {
+    "url": "https://v0.dev/t/aoRfe5DmCBT",
+    "label": "Template for prompt: create task form which fields are: title and description",
+    "dateAdded": "2024-01-22T14:35:03.868Z"
+  },
+  {
+    "url": "https://v0.dev/t/vx4awNrgGtV",
+    "label": "Template for prompt: 차트 를 만들어줘",
+    "dateAdded": "2024-01-22T14:35:03.869Z"
+  },
+  {
+    "url": "https://v0.dev/t/2oYYyut9jBm",
+    "label": "Template for prompt: improve this and make this in black",
+    "dateAdded": "2024-01-22T14:35:03.869Z"
+  },
+  {
+    "url": "https://v0.dev/t/DDOqyF0nNgI",
+    "label": "Template for prompt: project main where i can see all the information",
+    "dateAdded": "2024-01-22T14:35:03.869Z"
+  },
+  {
+    "url": "https://v0.dev/t/HWA6m1drkzm",
+    "label": "Template for prompt: I would need a project page for modern web dancer portfolio, it should have the following sections:\nTitle of the show, The production company, premiere date and location, image gallery, description of the project, video gallery, a credits section and a link to official website of the event.",
+    "dateAdded": "2024-01-22T14:35:03.869Z"
+  },
+  {
+    "url": "https://v0.dev/t/O5MvWrV4inp",
+    "label": "Template for prompt: Can you make this more appealing?",
+    "dateAdded": "2024-01-22T14:35:03.869Z"
+  },
+  {
+    "url": "https://v0.dev/t/9Opq0REreZG",
+    "label": "Template for prompt: Can you make this more appealing?",
+    "dateAdded": "2024-01-22T14:35:03.869Z"
+  },
+  {
+    "url": "https://v0.dev/t/49GqRzTl1Rj",
+    "label": "Template for prompt: make this in css",
+    "dateAdded": "2024-01-22T14:35:03.869Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q641G8TKPCt",
+    "label": "Template for prompt: Generate a Jewellery landing page",
+    "dateAdded": "2024-01-22T14:35:03.869Z"
+  },
+  {
+    "url": "https://v0.dev/t/Hi5Gm6kdqp1",
+    "label": "Template for prompt: Creat layout from image",
+    "dateAdded": "2024-01-22T14:35:03.869Z"
+  },
+  {
+    "url": "https://v0.dev/t/QLE3j3ceroK",
+    "label": "Template for prompt: create a e-commerce website profile page without using nextjs UI components",
+    "dateAdded": "2024-01-22T14:35:03.870Z"
+  },
+  {
+    "url": "https://v0.dev/t/Rl0BkmSZS1J",
+    "label": "Template for prompt: Can you make this more appealing?",
+    "dateAdded": "2024-01-22T14:35:03.870Z"
+  },
+  {
+    "url": "https://v0.dev/t/BP5RSTrslKB",
+    "label": "Template for prompt: a multi select shadcn component",
+    "dateAdded": "2024-01-22T14:35:03.870Z"
+  },
+  {
+    "url": "https://v0.dev/t/viqYHkFHFIL",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T14:35:03.871Z"
   }
 ]
