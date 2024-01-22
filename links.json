@@ -34278,5 +34278,130 @@
     "url": "https://v0.dev/t/tB4cpe19yZa",
     "label": "Template for prompt: A 3 Pane Dashboard with navigation on the left and a master-detail pane with a dynamic details pane that changes based on input in the master pane. There are 4 navigational items, 1) Home, 2) Orders, 3) Customers, 4) Product. Home is a dashboard view with analytic cards as well as paginated tables. Orders is a list of orders. Customers I'm unsure, be creative not just cards or lists maybe a combination of both? Product should a grid of products, filters on the left as well as categories at the top.",
     "dateAdded": "2024-01-22T15:55:03.690Z"
+  },
+  {
+    "url": "https://v0.dev/t/itJSCHfhZhH",
+    "label": "Template for prompt: login form",
+    "dateAdded": "2024-01-22T16:00:03.281Z"
+  },
+  {
+    "url": "https://v0.dev/t/SZXiRVvvFBQ",
+    "label": "Template for prompt: a modern landing page for a software engineering company, black, blue, and pink, pastel",
+    "dateAdded": "2024-01-22T16:00:03.281Z"
+  },
+  {
+    "url": "https://v0.dev/t/X2qz68GGbNI",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-22T16:00:03.282Z"
+  },
+  {
+    "url": "https://v0.dev/t/LB8Bl5oWFkz",
+    "label": "Template for prompt: do it like that",
+    "dateAdded": "2024-01-22T16:00:03.282Z"
+  },
+  {
+    "url": "https://v0.dev/t/k1PUuECGOf3",
+    "label": "Template for prompt: a card with an image, a primary button called \"Select\" and a secondary action to learn more. ",
+    "dateAdded": "2024-01-22T16:00:03.282Z"
+  },
+  {
+    "url": "https://v0.dev/t/J53D0uBhn1p",
+    "label": "Template for prompt: ridisegan questa schermata",
+    "dateAdded": "2024-01-22T16:00:03.282Z"
+  },
+  {
+    "url": "https://v0.dev/t/TuQI8HEa2a3",
+    "label": "Template for prompt: La maquette comprendra :\n\nPalette de Couleurs : Utilisation de vos couleurs primaires et secondaires (#1693e1, #81C8F8, #FFB132, #81c8f8) dans l'interface.\nNavigation : Une barre de navigation en haut, simple et épurée, conforme aux standards de Tailwind CSS.\nHero Section : Une grande section d'accueil (hero section) avec un titre accrocheur, un sous-titre explicatif, et un bouton d'appel à l'action.\nImage 3D Isométrique : Une image en 3D isométrique d'une voiture dans un parking, placée de manière stratégique sur la page.\nSections de Contenu : Des sections pour présenter les services, les témoignages des utilisateurs, et des informations de contact.\nPied de Page : Un pied de page contenant des liens supplémentaires, des informations légales, et des icônes de réseaux sociaux.",
+    "dateAdded": "2024-01-22T16:00:03.282Z"
+  },
+  {
+    "url": "https://v0.dev/t/XnJlgnhe05E",
+    "label": "Template for prompt: A user ranking for casino crypto online based airdrop (the casino is calle doge gamblers and its based on the doge meme token)  ",
+    "dateAdded": "2024-01-22T16:00:03.282Z"
+  },
+  {
+    "url": "https://v0.dev/t/kABPOdue7U7",
+    "label": "Template for prompt: A component that is a transactions table with a compact transaction representation for a cryptocurrency tax platform Each transaction row has to represent the following:\n\n1. Date&time\n2. Outgoing cryptocurrency (type, amount, wallet)\n3. Incoming cryptocurrency (type, amount, wallet)\n4. Transactions type (like deposit, withdraw, trade). Preferably, it will be easy for the visual system to distinguish between these, with color codes for example. The current colored arrow system doesn’t quite cut through the clutter.\n5. Value ($)\n6 Gains ($)\n7 Fee ($)\n",
+    "dateAdded": "2024-01-22T16:00:03.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/CuKvPN8c4KI",
+    "label": "Template for prompt: Login",
+    "dateAdded": "2024-01-22T16:00:03.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/miXc289VBXT",
+    "label": "Template for prompt: a cta card to signup for a saas ",
+    "dateAdded": "2024-01-22T16:00:03.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/AjXN0yAeHg4",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-22T16:00:03.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/4iQy3QqrBEi",
+    "label": "Template for prompt: A SaaS admin dashboard. It has action buttons that control the application like refreshing orders, unbanning accounts, etc, and some cards with key metrics",
+    "dateAdded": "2024-01-22T16:00:03.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZAlJEWjKE4O",
+    "label": "Template for prompt: hero section for a health consulting business",
+    "dateAdded": "2024-01-22T16:00:03.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/rQHDnjWuVVX",
+    "label": "Template for prompt: create a page called Resources which holds 2 pdf files first file contains Learning Licence Test Questions – 2024 and second file contain Road Safety Signs ",
+    "dateAdded": "2024-01-22T16:00:03.284Z"
+  },
+  {
+    "url": "https://v0.dev/t/TASYMYpgsT7",
+    "label": "Template for prompt: I have word within span, which is selectable. I would like to create functionality, where upon clicking, a dialog or popup or similar would open and allow user to change metadata of the word, such as category of the word. It should also allow user to create a new category for the word and also remove existing category for the word",
+    "dateAdded": "2024-01-22T16:00:03.284Z"
+  },
+  {
+    "url": "https://v0.dev/t/XkwvxSP2pHQ",
+    "label": "Template for prompt: a dashboard with a nav section for api key management, and a history section with various dropdown groupings. History section should be searchable",
+    "dateAdded": "2024-01-22T16:00:03.284Z"
+  },
+  {
+    "url": "https://v0.dev/t/f9pGJf1vNbY",
+    "label": "Template for prompt: Landing page",
+    "dateAdded": "2024-01-22T16:00:03.284Z"
+  },
+  {
+    "url": "https://v0.dev/t/rwvbguZXWiu",
+    "label": "Template for prompt: A SaaS admin dashboard",
+    "dateAdded": "2024-01-22T16:00:03.284Z"
+  },
+  {
+    "url": "https://v0.dev/t/NETJhklM5XC",
+    "label": "Template for prompt: make a material design contact form",
+    "dateAdded": "2024-01-22T16:00:03.284Z"
+  },
+  {
+    "url": "https://v0.dev/t/AgOI5JjHwuY",
+    "label": "Template for prompt: A SaaS profile dashboard. It allows creating API keys, viewing total sales and comission revenue, and the paginated list of orders",
+    "dateAdded": "2024-01-22T16:00:03.284Z"
+  },
+  {
+    "url": "https://v0.dev/t/ckHCMrgzq8z",
+    "label": "Template for prompt: generate this page using shadcn ui and the theme light blue",
+    "dateAdded": "2024-01-22T16:00:03.285Z"
+  },
+  {
+    "url": "https://v0.dev/t/DicnDQAdINw",
+    "label": "Template for prompt: portfolio",
+    "dateAdded": "2024-01-22T16:00:03.285Z"
+  },
+  {
+    "url": "https://v0.dev/t/76hcUSfSCHr",
+    "label": "Template for prompt: a classifides site for selling and buying board games",
+    "dateAdded": "2024-01-22T16:00:03.285Z"
+  },
+  {
+    "url": "https://v0.dev/t/3bkt9vSEPh1",
+    "label": "Template for prompt: A D3 svg hero section and blog post underneath with left panel for table of contents",
+    "dateAdded": "2024-01-22T16:00:03.285Z"
   }
 ]
