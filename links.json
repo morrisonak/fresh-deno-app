@@ -35303,5 +35303,135 @@
     "url": "https://v0.dev/t/Kzbe55Rjspj",
     "label": "Template for prompt: A simple and modern dashboard for fan management of a sports club",
     "dateAdded": "2024-01-22T16:35:03.253Z"
+  },
+  {
+    "url": "https://v0.dev/t/KN99UtEmgN1",
+    "label": "Template for prompt: create a simple soundboard where you can start playing a sound you can pause it, stop it or put in on a loop",
+    "dateAdded": "2024-01-22T16:40:03.553Z"
+  },
+  {
+    "url": "https://v0.dev/t/ETAWR4b7jJY",
+    "label": "Template for prompt: page on ecommerce platform where customer can change his data like address, can look at his latest orders etc.",
+    "dateAdded": "2024-01-22T16:40:03.553Z"
+  },
+  {
+    "url": "https://v0.dev/t/cDYTKopnNhV",
+    "label": "Template for prompt: A landing page with several hero sections",
+    "dateAdded": "2024-01-22T16:40:03.553Z"
+  },
+  {
+    "url": "https://v0.dev/t/D9oQNH2h6hC",
+    "label": "Template for prompt: a left / right choose your own adventure, left side has two option, connect your bank and connect your payroll. right side has one option, upload required financial documents manually",
+    "dateAdded": "2024-01-22T16:40:03.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/9Yjzz4o9tZ9",
+    "label": "Template for prompt: card for sales order lists with sales order id, date, total amount, button invoice",
+    "dateAdded": "2024-01-22T16:40:03.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/IhUC9dmibTt",
+    "label": "Template for prompt: login and signup with a todo app using tailwind css in next js13",
+    "dateAdded": "2024-01-22T16:40:03.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/62Ff9s5x6go",
+    "label": "Template for prompt: An 'Integration' section where users can activate or deactivate the integration with airbnb and booking ical. If the integration is active the ical url must be provided",
+    "dateAdded": "2024-01-22T16:40:03.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/zcxm37s6fKg",
+    "label": "Template for prompt: temazcal web page, create a section with benefits of it and include atleast 6 svgs icons of each benefit",
+    "dateAdded": "2024-01-22T16:40:03.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/HhMnqjOgQ4y",
+    "label": "Template for prompt: complete website for engineering consultants",
+    "dateAdded": "2024-01-22T16:40:03.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/HarMyQK8yEv",
+    "label": "Template for prompt: Newsletter for teachers and parents about revelant school information",
+    "dateAdded": "2024-01-22T16:40:03.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/kzmKiskrTZl",
+    "label": "Template for prompt: Crea una pagina web de libreria de objetos para usar en markdwon simplemente arrastrable, minimalista, y facil de entender, sin mucho ruido visual",
+    "dateAdded": "2024-01-22T16:40:03.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/r10AVGknGja",
+    "label": "Template for prompt: create a skills section for a portfolio for this skills:\nHTML - CSS - Javascript - Reactjs - Next js - TypeScript - Tailwind CSS - JSON  - API - npm - Git - Figma software - Nodejs - nestjs - Socket.io - prisma - C - C++\n",
+    "dateAdded": "2024-01-22T16:40:03.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/tWItfT0SIpK",
+    "label": "Template for prompt: left navigation web app",
+    "dateAdded": "2024-01-22T16:40:03.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/O9w0zRAlmXr",
+    "label": "Template for prompt: Simple todo memo app",
+    "dateAdded": "2024-01-22T16:40:03.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/XBIAzbTOKaN",
+    "label": "Template for prompt: Create a dashboard with a table and a graph",
+    "dateAdded": "2024-01-22T16:40:03.556Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ld8X8RxUYwW",
+    "label": "Template for prompt:  A list of orders with order number, account number, test name and description.",
+    "dateAdded": "2024-01-22T16:40:03.556Z"
+  },
+  {
+    "url": "https://v0.dev/t/S0q47joU9Wa",
+    "label": "Template for prompt:  A list of orders with order number, account number, test name and description.",
+    "dateAdded": "2024-01-22T16:40:03.556Z"
+  },
+  {
+    "url": "https://v0.dev/t/6mBZoS63e6q",
+    "label": "Template for prompt: A page with a multi-stage form, where a single input field is shown on the page at a time. First input field should be email, the scond name, and the third phone number.",
+    "dateAdded": "2024-01-22T16:40:03.556Z"
+  },
+  {
+    "url": "https://v0.dev/t/ODE2R9CuUwl",
+    "label": "Template for prompt: A \"Sign In\" card, with options for both SSO logins (Google, Facebook, and Apple), as well as inputs for Username + Password (with a seperator between the SSO options and input options)",
+    "dateAdded": "2024-01-22T16:40:03.556Z"
+  },
+  {
+    "url": "https://v0.dev/t/0wi1f79WNso",
+    "label": "Template for prompt: ui for login page",
+    "dateAdded": "2024-01-22T16:40:03.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/CXASx0lboiy",
+    "label": "Template for prompt:   <button onClick={handleAddItem}>Add row</button>; make this button blue and good",
+    "dateAdded": "2024-01-22T16:40:03.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/eM7AkSsfljl",
+    "label": "Template for prompt: A code block that has a button for you to prompt an explanation of the code",
+    "dateAdded": "2024-01-22T16:40:03.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/iSz0x4wl5Hs",
+    "label": "Template for prompt: generate app right sidebar that had user avatar, website icon button and social link buttons ",
+    "dateAdded": "2024-01-22T16:40:03.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/x73cNvC6bdb",
+    "label": "Template for prompt: Re desing for movil",
+    "dateAdded": "2024-01-22T16:40:03.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/ViJz8UVyqfo",
+    "label": "Template for prompt: Why us section with animation ",
+    "dateAdded": "2024-01-22T16:40:03.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/8OV9CMlXGv3",
+    "label": "Template for prompt: rediseñalo para moviles mantenlos colores",
+    "dateAdded": "2024-01-22T16:40:03.558Z"
   }
 ]
