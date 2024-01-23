@@ -46723,5 +46723,135 @@
     "url": "https://v0.dev/t/hgfOqqjY8Hz",
     "label": "Template for prompt: igual que la imagen",
     "dateAdded": "2024-01-23T15:05:02.502Z"
+  },
+  {
+    "url": "https://v0.dev/t/CKYNb5eiq9m",
+    "label": "Template for prompt: insta homepage clone with html and css",
+    "dateAdded": "2024-01-23T15:10:03.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/9BigNkN8uHE",
+    "label": "Template for prompt: I'm trying to create a website with community functions similar to Discord and Tumblr. I would like the website to have the following features:\n- It would be nice to have a space at the top that includes search, login, my page, settings, etc.\n- It would be nice to have a space on the right where you can select channels. A channel is the largest category that exists in a community.\n- It would be nice to have a toolbar in the left space where you can select a room. Rooms are a subcategory of channels.\n- In the middle space, it would be nice to have a small space to select a space and a large space to show the feed. Space is a subcategory of room. Spaces are divided into feed spaces and chat spaces. Feeds are displayed in the feed space, and chat is available in the chat space.\n- I wish they would make it a dark mode.\n- I want the design to have great user experience. Users can freely create channels, rooms, and spaces.",
+    "dateAdded": "2024-01-23T15:10:03.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/WvEcKsysuy4",
+    "label": "Template for prompt: Generate a map of Munich in darkmode",
+    "dateAdded": "2024-01-23T15:10:03.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/z2HShpT2k87",
+    "label": "Template for prompt: a web app for stock portfolio monitoring here an example of mockup, can you generate suitable design with all components",
+    "dateAdded": "2024-01-23T15:10:03.388Z"
+  },
+  {
+    "url": "https://v0.dev/t/c8vxdDRpRyz",
+    "label": "Template for prompt: a web app for stock portfolio monitoring here an example of mockup, can you generate suitable design with all components",
+    "dateAdded": "2024-01-23T15:10:03.388Z"
+  },
+  {
+    "url": "https://v0.dev/t/r571EQD57dX",
+    "label": "Template for prompt: layout grid, have sidebar and content, sidebar can scroll, content can scroll",
+    "dateAdded": "2024-01-23T15:10:03.388Z"
+  },
+  {
+    "url": "https://v0.dev/t/VktZc9Y7NZ1",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T15:10:03.388Z"
+  },
+  {
+    "url": "https://v0.dev/t/4AAGzUbDkkr",
+    "label": "Template for prompt: create a form login with recovery password",
+    "dateAdded": "2024-01-23T15:10:03.388Z"
+  },
+  {
+    "url": "https://v0.dev/t/VvxTSCHlEm4",
+    "label": "Template for prompt: A iframe widget which can be implemented on a website.\n\nwhite box with border radius 15px\n\nFirst step shows a message popup with a small lorum ipsum text\n\nStep 2 gets added under the message popup and shows a file upload",
+    "dateAdded": "2024-01-23T15:10:03.389Z"
+  },
+  {
+    "url": "https://v0.dev/t/AXEas4VCv0I",
+    "label": "Template for prompt: product detail",
+    "dateAdded": "2024-01-23T15:10:03.389Z"
+  },
+  {
+    "url": "https://v0.dev/t/22LxiuSk1Cm",
+    "label": "Template for prompt: A hero section for a restaurant website",
+    "dateAdded": "2024-01-23T15:10:03.389Z"
+  },
+  {
+    "url": "https://v0.dev/t/nu3j8xg6ush",
+    "label": "Template for prompt: can you create a simple js file with a html and css having fullname, email, address, contact, create password, confirm password and save button and their validation for interactiveness",
+    "dateAdded": "2024-01-23T15:10:03.389Z"
+  },
+  {
+    "url": "https://v0.dev/t/imTnlamih16",
+    "label": "Template for prompt: e-commerce product page with recommendations",
+    "dateAdded": "2024-01-23T15:10:03.389Z"
+  },
+  {
+    "url": "https://v0.dev/t/ScysUtgcRRV",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T15:10:03.389Z"
+  },
+  {
+    "url": "https://v0.dev/t/9oGDero1195",
+    "label": "Template for prompt: a e-commerce fabric designer layer sidebar",
+    "dateAdded": "2024-01-23T15:10:03.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/Li7AVsK9g1P",
+    "label": "Template for prompt: create landing page enterprise web intelligence",
+    "dateAdded": "2024-01-23T15:10:03.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/UnMaMBcbFJi",
+    "label": "Template for prompt: a interactive drag and drop tshirt designer toolbox sidebar",
+    "dateAdded": "2024-01-23T15:10:03.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/V2HDgTGD7Ly",
+    "label": "Template for prompt: create a privacy-policy page",
+    "dateAdded": "2024-01-23T15:10:03.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/ra0lQpFurk4",
+    "label": "Template for prompt: A page such as LinkedIn profile with a button for an organization to Connect to another",
+    "dateAdded": "2024-01-23T15:10:03.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/LC8Z0mbqUmK",
+    "label": "Template for prompt: An event feed for the next 48 hours",
+    "dateAdded": "2024-01-23T15:10:03.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/8DR9pz964u8",
+    "label": "Template for prompt: give me a website hero section with slider \\",
+    "dateAdded": "2024-01-23T15:10:03.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/ILuAH9KM9R2",
+    "label": "Template for prompt: Generate a map in dark mode",
+    "dateAdded": "2024-01-23T15:10:03.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/DZt9JzF4u0Y",
+    "label": "Template for prompt: Make me a carousel and a bar with elements in the left side",
+    "dateAdded": "2024-01-23T15:10:03.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/72QmIBnvcuR",
+    "label": "Template for prompt: refais moi ce composant ",
+    "dateAdded": "2024-01-23T15:10:03.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/OZbwQivAdG0",
+    "label": "Template for prompt: A contact form with first name and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-23T15:10:03.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/c3Za6hhvGe6",
+    "label": "Template for prompt: a responsive fileupload with preview",
+    "dateAdded": "2024-01-23T15:10:03.391Z"
   }
 ]
