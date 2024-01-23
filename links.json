@@ -47373,5 +47373,135 @@
     "url": "https://v0.dev/t/3ZRKQf5wgie",
     "label": "Template for prompt: Home page for a application where user can report a desire to take part in a match. Contains of multiple matches places in horizontal scroll-bar",
     "dateAdded": "2024-01-23T15:30:03.674Z"
+  },
+  {
+    "url": "https://v0.dev/t/xgBihjomLfI",
+    "label": "Template for prompt: a view that displays a breakdown of costs, grouped by resource type and name",
+    "dateAdded": "2024-01-23T15:35:03.735Z"
+  },
+  {
+    "url": "https://v0.dev/t/7CHDqiKuN01",
+    "label": "Template for prompt: dashboard lottery news",
+    "dateAdded": "2024-01-23T15:35:03.735Z"
+  },
+  {
+    "url": "https://v0.dev/t/UpB0SolMDTf",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T15:35:03.735Z"
+  },
+  {
+    "url": "https://v0.dev/t/9WoNk3qhXWG",
+    "label": "Template for prompt: wise like transactions dashboard, balance and history",
+    "dateAdded": "2024-01-23T15:35:03.735Z"
+  },
+  {
+    "url": "https://v0.dev/t/E5ulCCXS0YW",
+    "label": "Template for prompt: I need a multinline saerach input, especcialy for starting a ai chat bot conversation",
+    "dateAdded": "2024-01-23T15:35:03.735Z"
+  },
+  {
+    "url": "https://v0.dev/t/e9nuGZRtoh3",
+    "label": "Template for prompt: a dashboard that shows resource usage with cost summaries",
+    "dateAdded": "2024-01-23T15:35:03.736Z"
+  },
+  {
+    "url": "https://v0.dev/t/fSh4Zmk9gQk",
+    "label": "Template for prompt: a live chat application for desktop",
+    "dateAdded": "2024-01-23T15:35:03.736Z"
+  },
+  {
+    "url": "https://v0.dev/t/Dn4osXYugQ7",
+    "label": "Template for prompt: dashboard spotify",
+    "dateAdded": "2024-01-23T15:35:03.736Z"
+  },
+  {
+    "url": "https://v0.dev/t/RSlo7CLkwKw",
+    "label": "Template for prompt: shadcn home section Feature syle: title - description - image for nextjs",
+    "dateAdded": "2024-01-23T15:35:03.736Z"
+  },
+  {
+    "url": "https://v0.dev/t/hybNhV7WQmR",
+    "label": "Template for prompt: An ecommerce store for snowboards",
+    "dateAdded": "2024-01-23T15:35:03.736Z"
+  },
+  {
+    "url": "https://v0.dev/t/GmuEZUjWvMF",
+    "label": "Template for prompt: create a blogpost skeleton with the following things:\nHeadings\nParagraphs\nLists (Unordered and Ordered)\nLinks (internal & external)\nImages\nEmphasis (Italic and Bold)\nStrikethrough Text\nBlockquotes\nCode (Inline and Code Block)\nHorizontal Rule\nTables\nTask Lists",
+    "dateAdded": "2024-01-23T15:35:03.737Z"
+  },
+  {
+    "url": "https://v0.dev/t/3yR1dd0iVsx",
+    "label": "Template for prompt: It is like menu drop down",
+    "dateAdded": "2024-01-23T15:35:03.737Z"
+  },
+  {
+    "url": "https://v0.dev/t/nNLkMMKb1yU",
+    "label": "Template for prompt: recreate this with grid in tailwind",
+    "dateAdded": "2024-01-23T15:35:03.737Z"
+  },
+  {
+    "url": "https://v0.dev/t/nX6bahIh4Cf",
+    "label": "Template for prompt: recreate this with grid in tailwind",
+    "dateAdded": "2024-01-23T15:35:03.737Z"
+  },
+  {
+    "url": "https://v0.dev/t/LC5aovEwFGc",
+    "label": "Template for prompt: recreate this with grid in tailwind",
+    "dateAdded": "2024-01-23T15:35:03.737Z"
+  },
+  {
+    "url": "https://v0.dev/t/sluEiURWbDX",
+    "label": "Template for prompt: a tab group of multiple import types",
+    "dateAdded": "2024-01-23T15:35:03.737Z"
+  },
+  {
+    "url": "https://v0.dev/t/1wbVRdtZHz8",
+    "label": "Template for prompt: A card built to link to videos on an external site and displays the video thumbnail and title",
+    "dateAdded": "2024-01-23T15:35:03.738Z"
+  },
+  {
+    "url": "https://v0.dev/t/VRaGORBwWDS",
+    "label": "Template for prompt: a pricing page with 3 different pricing options",
+    "dateAdded": "2024-01-23T15:35:03.738Z"
+  },
+  {
+    "url": "https://v0.dev/t/focEvicSuTz",
+    "label": "Template for prompt: A homepage for a website designer agency",
+    "dateAdded": "2024-01-23T15:35:03.738Z"
+  },
+  {
+    "url": "https://v0.dev/t/Rf44UF4KJV1",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T15:35:03.738Z"
+  },
+  {
+    "url": "https://v0.dev/t/oAclV5ooTVA",
+    "label": "Template for prompt: A minimalistic blog template",
+    "dateAdded": "2024-01-23T15:35:03.738Z"
+  },
+  {
+    "url": "https://v0.dev/t/m7byV2yKYRs",
+    "label": "Template for prompt: A map of Warsaw (or any other city) with pins on places where the upcoming event is going to take place. In left-top corner there is a button that enables user to filter events by the day it will be",
+    "dateAdded": "2024-01-23T15:35:03.738Z"
+  },
+  {
+    "url": "https://v0.dev/t/WQjFWQSwBdv",
+    "label": "Template for prompt: create this UI",
+    "dateAdded": "2024-01-23T15:35:03.739Z"
+  },
+  {
+    "url": "https://v0.dev/t/n7DWF4p7gke",
+    "label": "Template for prompt: A portfolio projects section with a feturead projects area and one other projects area",
+    "dateAdded": "2024-01-23T15:35:03.739Z"
+  },
+  {
+    "url": "https://v0.dev/t/PlojEQd6Fu3",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T15:35:03.739Z"
+  },
+  {
+    "url": "https://v0.dev/t/vjt4dQ91mab",
+    "label": "Template for prompt: recreate this in tailwind",
+    "dateAdded": "2024-01-23T15:35:03.740Z"
   }
 ]
