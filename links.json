@@ -51718,5 +51718,130 @@
     "url": "https://v0.dev/t/SCTewD7Qd5W",
     "label": "Template for prompt: create a vertical experience of a wishlist inspired by the attached. There should be 3 sections rendered in this order: 1. Items added by the customer as favorites\n2. Items recently purchased/viewed\n3. Items recommended by the brand based on preferences and similar styles",
     "dateAdded": "2024-01-23T18:20:03.775Z"
+  },
+  {
+    "url": "https://v0.dev/t/IMgLNEZqBnR",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-23T18:25:03.130Z"
+  },
+  {
+    "url": "https://v0.dev/t/SAdhte0o90w",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T18:25:03.130Z"
+  },
+  {
+    "url": "https://v0.dev/t/IGEgBnak6Hx",
+    "label": "Template for prompt: standing-based prizes input for tournament organizers",
+    "dateAdded": "2024-01-23T18:25:03.130Z"
+  },
+  {
+    "url": "https://v0.dev/t/r4n4XjTWUsF",
+    "label": "Template for prompt: An intenal branding style guide site",
+    "dateAdded": "2024-01-23T18:25:03.130Z"
+  },
+  {
+    "url": "https://v0.dev/t/Fiwba9QXnTv",
+    "label": "Template for prompt: generate home page for my tech company using tailwind css",
+    "dateAdded": "2024-01-23T18:25:03.130Z"
+  },
+  {
+    "url": "https://v0.dev/t/g4aRm0Xbvt1",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T18:25:03.130Z"
+  },
+  {
+    "url": "https://v0.dev/t/dKfZog1rkRg",
+    "label": "Template for prompt: Design a web page for an employer profile with two modes: Display and Edit. Display Mode shows employer details (name, image, contact, industry, ratings) statically with an Edit button. Edit Mode transforms these into editable form fields with Save and Cancel buttons. The design should be clean and modern, using a blue and gray color scheme, and be responsive for all devices",
+    "dateAdded": "2024-01-23T18:25:03.130Z"
+  },
+  {
+    "url": "https://v0.dev/t/PiiIH6coP60",
+    "label": "Template for prompt: en email ui, I want a custom page where I can write an email but I want like a html template just to edit the content",
+    "dateAdded": "2024-01-23T18:25:03.131Z"
+  },
+  {
+    "url": "https://v0.dev/t/IyzyIYiPG45",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-23T18:25:03.131Z"
+  },
+  {
+    "url": "https://v0.dev/t/iEVrrZvhAcB",
+    "label": "Template for prompt: hamburger menu",
+    "dateAdded": "2024-01-23T18:25:03.131Z"
+  },
+  {
+    "url": "https://v0.dev/t/9pPXI8haPnx",
+    "label": "Template for prompt: dashboard for a gamer participating in different tournaments showing their trophies and cash prizes ",
+    "dateAdded": "2024-01-23T18:25:03.131Z"
+  },
+  {
+    "url": "https://v0.dev/t/Dzap33PI0ho",
+    "label": "Template for prompt: create a datetime picker",
+    "dateAdded": "2024-01-23T18:25:03.131Z"
+  },
+  {
+    "url": "https://v0.dev/t/sIIiixYIDbL",
+    "label": "Template for prompt: homepage of dashboard for recruiters to see jobs they've created, number of candidates that have interviewed, number of interview requests sent.",
+    "dateAdded": "2024-01-23T18:25:03.131Z"
+  },
+  {
+    "url": "https://v0.dev/t/wZT0TEeANGt",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T18:25:03.131Z"
+  },
+  {
+    "url": "https://v0.dev/t/HqCrGhjSZDn",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T18:25:03.132Z"
+  },
+  {
+    "url": "https://v0.dev/t/excxWafUYat",
+    "label": "Template for prompt: create blog navbar with search input with search icon and placeholder, login button with icon, category dropdown which should show selected category, Home button, blogs logo",
+    "dateAdded": "2024-01-23T18:25:03.132Z"
+  },
+  {
+    "url": "https://v0.dev/t/otNT35pf1Jf",
+    "label": "Template for prompt: cashout process for gamers",
+    "dateAdded": "2024-01-23T18:25:03.132Z"
+  },
+  {
+    "url": "https://v0.dev/t/f3Ijg5z4Ci3",
+    "label": "Template for prompt: Can you provide mask effect used in this sidebar",
+    "dateAdded": "2024-01-23T18:25:03.132Z"
+  },
+  {
+    "url": "https://v0.dev/t/T4AR3LeL90X",
+    "label": "Template for prompt: can you design a landing page for a livechat service called Chat Line",
+    "dateAdded": "2024-01-23T18:25:03.132Z"
+  },
+  {
+    "url": "https://v0.dev/t/iANy1klpW81",
+    "label": "Template for prompt: index page for game demos replays app",
+    "dateAdded": "2024-01-23T18:25:03.132Z"
+  },
+  {
+    "url": "https://v0.dev/t/o8Z4PuxZ5HY",
+    "label": "Template for prompt: i want to create a page for my nft swapper appliction that would display post details in a screen width card in which image of offering nft with image of desired nft and gain icon , and expiry date ,, Now below this card option to make your offer will be their where you insert your nft , which would be considered as your offering",
+    "dateAdded": "2024-01-23T18:25:03.132Z"
+  },
+  {
+    "url": "https://v0.dev/t/ESzkTGXHezm",
+    "label": "Template for prompt: header that contains logo on the left and on the right it contains 2 links and a cta",
+    "dateAdded": "2024-01-23T18:25:03.132Z"
+  },
+  {
+    "url": "https://v0.dev/t/Bs3mcDNq3pk",
+    "label": "Template for prompt: create react component with tailwind",
+    "dateAdded": "2024-01-23T18:25:03.133Z"
+  },
+  {
+    "url": "https://v0.dev/t/bmDxnNI67nT",
+    "label": "Template for prompt: \"Notification and Communication page\":\n1. Email Templates Section:\n\nThe UI should start with a clean, organized list of existing email templates. Each template can be previewed with a thumbnail next to the template name.\nA prominent \"Create Template\" button allows admins to add new templates.\nWhen creating or editing a template, the admin is taken to a WYSIWYG editor that allows for rich text formatting, insertion of variables (like candidate name, job title), and media embedding. A side panel provides a dropdown of available variables and a real-time preview of the email.\nTemplates should be categorizable with tags or folders for efficient organization.",
+    "dateAdded": "2024-01-23T18:25:03.133Z"
+  },
+  {
+    "url": "https://v0.dev/t/C6wtjXIKjrI",
+    "label": "Template for prompt: linux style close minimize and maximize dark mode buttons",
+    "dateAdded": "2024-01-23T18:25:03.133Z"
   }
 ]
