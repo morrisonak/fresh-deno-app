@@ -54498,5 +54498,130 @@
     "url": "https://v0.dev/t/ePeGk9JmLof",
     "label": "Template for prompt: app to locate something",
     "dateAdded": "2024-01-23T20:10:03.392Z"
+  },
+  {
+    "url": "https://v0.dev/t/ocY2bRI3xh3",
+    "label": "Template for prompt: A whiteboard application like miro",
+    "dateAdded": "2024-01-23T20:15:03.252Z"
+  },
+  {
+    "url": "https://v0.dev/t/g0JgPK7Z8ue",
+    "label": "Template for prompt: A whiteboard application like miro",
+    "dateAdded": "2024-01-23T20:15:03.252Z"
+  },
+  {
+    "url": "https://v0.dev/t/KodoYmQHhdP",
+    "label": "Template for prompt: A whiteboard application like miro",
+    "dateAdded": "2024-01-23T20:15:03.252Z"
+  },
+  {
+    "url": "https://v0.dev/t/MuHCkMKLy8e",
+    "label": "Template for prompt: A whiteboard application like miro",
+    "dateAdded": "2024-01-23T20:15:03.252Z"
+  },
+  {
+    "url": "https://v0.dev/t/gt0lsOzrmwY",
+    "label": "Template for prompt: crud form budget with arrow select ",
+    "dateAdded": "2024-01-23T20:15:03.253Z"
+  },
+  {
+    "url": "https://v0.dev/t/0Cid6JXvbO2",
+    "label": "Template for prompt: Global Cash Management dashboard for Multi-Country Businesses",
+    "dateAdded": "2024-01-23T20:15:03.253Z"
+  },
+  {
+    "url": "https://v0.dev/t/bJQedsEFSry",
+    "label": "Template for prompt: website for danger detection on message, need an input and a result div, make it feels like it's a page that is fill even if there's not a lot of things",
+    "dateAdded": "2024-01-23T20:15:03.253Z"
+  },
+  {
+    "url": "https://v0.dev/t/kUOmcH6D6Ou",
+    "label": "Template for prompt: 创建一个 我爱马六甲 的网页主页，该网页的内容是介绍马六甲的景点，美食和酒店，同时售卖门票，配色以tifanny blue为主",
+    "dateAdded": "2024-01-23T20:15:03.253Z"
+  },
+  {
+    "url": "https://v0.dev/t/xIeFuFVqRIZ",
+    "label": "Template for prompt: improve this page please, specially the form",
+    "dateAdded": "2024-01-23T20:15:03.253Z"
+  },
+  {
+    "url": "https://v0.dev/t/riGapX2k9lF",
+    "label": "Template for prompt: Landing page for notion templates",
+    "dateAdded": "2024-01-23T20:15:03.253Z"
+  },
+  {
+    "url": "https://v0.dev/t/sVJ9X1TeN5c",
+    "label": "Template for prompt: Generate a dashboard for e learning platform like leetcode dashboard with heat map",
+    "dateAdded": "2024-01-23T20:15:03.254Z"
+  },
+  {
+    "url": "https://v0.dev/t/e29yIrrDgcF",
+    "label": "Template for prompt: The front page of a personal portfolio website. It should look modern and contain a picture of the creator.",
+    "dateAdded": "2024-01-23T20:15:03.254Z"
+  },
+  {
+    "url": "https://v0.dev/t/UVct5N8wIfI",
+    "label": "Template for prompt: Responsive personal projects portfolio ,header,hero section,grid style projects section,about me section and a footer",
+    "dateAdded": "2024-01-23T20:15:03.254Z"
+  },
+  {
+    "url": "https://v0.dev/t/ubErneoQ1g6",
+    "label": "Template for prompt: tournament prizes view",
+    "dateAdded": "2024-01-23T20:15:03.254Z"
+  },
+  {
+    "url": "https://v0.dev/t/PX8HmXK2qHz",
+    "label": "Template for prompt: Impactfull homePage for my web developer portfolio",
+    "dateAdded": "2024-01-23T20:15:03.254Z"
+  },
+  {
+    "url": "https://v0.dev/t/nkZUHeM5OTr",
+    "label": "Template for prompt: Make a website for Entrepreneurship Cell,\nInclude Navbar, hero sectio, our team section and contact us section",
+    "dateAdded": "2024-01-23T20:15:03.254Z"
+  },
+  {
+    "url": "https://v0.dev/t/KY8ZTDSFfH8",
+    "label": "Template for prompt: a website for wedding",
+    "dateAdded": "2024-01-23T20:15:03.255Z"
+  },
+  {
+    "url": "https://v0.dev/t/MVOCeTjuicm",
+    "label": "Template for prompt: Crea un main con un grandiente de colores animado y una frase en el centro",
+    "dateAdded": "2024-01-23T20:15:03.255Z"
+  },
+  {
+    "url": "https://v0.dev/t/azMVaIVWwJL",
+    "label": "Template for prompt: large icon badge with color for active state and light grayed out for inactive state",
+    "dateAdded": "2024-01-23T20:15:03.255Z"
+  },
+  {
+    "url": "https://v0.dev/t/mPL6Opzn2pQ",
+    "label": "Template for prompt: create a homepage for a local political candidate. It should include a donate button in the header menu",
+    "dateAdded": "2024-01-23T20:15:03.255Z"
+  },
+  {
+    "url": "https://v0.dev/t/iMoBIUilEi0",
+    "label": "Template for prompt: Checklist with Category Name and list of checks under it. And 'Passed', 'Skipped' and 'Failed' buttons in each check",
+    "dateAdded": "2024-01-23T20:15:03.255Z"
+  },
+  {
+    "url": "https://v0.dev/t/WZ1FBI42zYc",
+    "label": "Template for prompt: a list of orders, each order will contain a list of products, each product will have name, sku, ean, barcode, quantity, each order will have large buttons to set the stage of the order, the stages are : \"Sent\", \"collecting\", \"packed\", \"delivered\"",
+    "dateAdded": "2024-01-23T20:15:03.255Z"
+  },
+  {
+    "url": "https://v0.dev/t/o92Mi78Wt1t",
+    "label": "Template for prompt: a cute pink footer displays instagram and twitter links ",
+    "dateAdded": "2024-01-23T20:15:03.255Z"
+  },
+  {
+    "url": "https://v0.dev/t/N4ZeQvsVDuD",
+    "label": "Template for prompt: Global Cash Management dashboard for Multi-Country Businesses",
+    "dateAdded": "2024-01-23T20:15:03.256Z"
+  },
+  {
+    "url": "https://v0.dev/t/3xTImH6vUWC",
+    "label": "Template for prompt: An astrology home page with planet positions",
+    "dateAdded": "2024-01-23T20:15:03.256Z"
   }
 ]
