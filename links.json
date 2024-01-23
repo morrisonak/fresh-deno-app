@@ -48913,5 +48913,135 @@
     "url": "https://v0.dev/t/p5GfOGqKFwz",
     "label": "Template for prompt: SIMPLE LOGIN section",
     "dateAdded": "2024-01-23T16:30:04.057Z"
+  },
+  {
+    "url": "https://v0.dev/t/ntziUaFQ2hE",
+    "label": "Template for prompt: job listing with cards",
+    "dateAdded": "2024-01-23T16:35:03.444Z"
+  },
+  {
+    "url": "https://v0.dev/t/xcAcqMnv7uW",
+    "label": "Template for prompt: an alert center",
+    "dateAdded": "2024-01-23T16:35:03.444Z"
+  },
+  {
+    "url": "https://v0.dev/t/cr76U319fxb",
+    "label": "Template for prompt: Miller columns that expand on hover and truncate when not",
+    "dateAdded": "2024-01-23T16:35:03.444Z"
+  },
+  {
+    "url": "https://v0.dev/t/GMcLHFKYMwM",
+    "label": "Template for prompt: give me a dashboard layout for a bookkeeping app",
+    "dateAdded": "2024-01-23T16:35:03.445Z"
+  },
+  {
+    "url": "https://v0.dev/t/OA0YlRNGa6d",
+    "label": "Template for prompt: a home page for a therapeutic massage business, with a hero to book a massage, a list of services offered, a testimonials section, and a section for the massage therapist bios",
+    "dateAdded": "2024-01-23T16:35:03.445Z"
+  },
+  {
+    "url": "https://v0.dev/t/L64TQNqknbk",
+    "label": "Template for prompt: UNa pagina de crypto basada en shrek",
+    "dateAdded": "2024-01-23T16:35:03.445Z"
+  },
+  {
+    "url": "https://v0.dev/t/e5JbOGe5ib7",
+    "label": "Template for prompt: First row: textarea with placeholder \"Ask a question\".\n\nNext: 4 rows, each row is a checkbox with a label \"Search query\". Right of the label is an edit button that allows user to change the label. There is also a delete button that removes this item.\n\nBelow checkboxes is a button with text \"add.\". Upon clicking the button, a new item is added to the checkboxes above.\n\nNext row: Bold text \"Select search engines\".\n\nNext: 4 rows, each row is the same component. \nThe component consists of these elements (left to right): Checkbox, search engine title (string that comes from props), clickable text \"(only)\", slider (minimum value 1, maximum value 20, default value 3 comes from props), input number (shows the same value as the slider).\n\nFinal row: 2 buttons (one says \"Select All\", the other \"Select None\"), same slider component as in the 4 rows above and same number component as in in the 4 rows above.",
+    "dateAdded": "2024-01-23T16:35:03.445Z"
+  },
+  {
+    "url": "https://v0.dev/t/h0MNAiMYLQt",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T16:35:03.445Z"
+  },
+  {
+    "url": "https://v0.dev/t/5zFuUWV9VTV",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T16:35:03.445Z"
+  },
+  {
+    "url": "https://v0.dev/t/6D0rQSzkzMV",
+    "label": "Template for prompt: Puedes hacer un Red Social con tematica de programacion",
+    "dateAdded": "2024-01-23T16:35:03.446Z"
+  },
+  {
+    "url": "https://v0.dev/t/qyAfrgAzeTO",
+    "label": "Template for prompt: make a clone image",
+    "dateAdded": "2024-01-23T16:35:03.446Z"
+  },
+  {
+    "url": "https://v0.dev/t/k1p3SwERBqR",
+    "label": "Template for prompt: create a page with dark mode consist of title, search bar that align with reset button and add document button, a table consist of 4 columns, which is document's name, category, combined created by, created at, updated by, and updated at, and finally actions column. in the actions column, on the data row, we have view, edit, and delete button. and last, a limit page select that align with page 1 of total data, go to page select, and pagination button group which consist of 4 button, first, prev, next, and last button. create using tailwindcss only",
+    "dateAdded": "2024-01-23T16:35:03.446Z"
+  },
+  {
+    "url": "https://v0.dev/t/L1kuPJA1oOd",
+    "label": "Template for prompt: order form for online clothing shop",
+    "dateAdded": "2024-01-23T16:35:03.446Z"
+  },
+  {
+    "url": "https://v0.dev/t/eDNbxdbLhER",
+    "label": "Template for prompt: pomodoro timer",
+    "dateAdded": "2024-01-23T16:35:03.446Z"
+  },
+  {
+    "url": "https://v0.dev/t/tG8DhRlzg6P",
+    "label": "Template for prompt: make a hero-section with half of the section being a full size image",
+    "dateAdded": "2024-01-23T16:35:03.446Z"
+  },
+  {
+    "url": "https://v0.dev/t/LZlhzInBCeV",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-23T16:35:03.446Z"
+  },
+  {
+    "url": "https://v0.dev/t/CkrMT4OVTNp",
+    "label": "Template for prompt: Create a user-friendly and informative website for a private paediatric service. The site should convey trust, professionalism, and provide easy access to relevant information and services.\n\nPage Structure:\n\nHeader:\nHome\nWhat we cover (Services)\nAbout us\nHow to book/enquire\nHero Image and Call to Action:\nOption 1: Private Paediatric Service – Learn more about our GPs/clinicians\nOption 2: Book for a Private Paediatric Service\nOption 3: Our Paediatric Service\nServices Pages:\nCreate separate pages for each main condition, covering:\nWhat it is\nWhat can cause it\nMain treatments\nConsultation details\nWhat the clinician will be looking for\nAbout Us:\nHighlight reasons to choose the service\nDisplay qualifications of the team\nExplain the ethos of the service\nDescribe the operational process\nHow to Book/Enquire:\nInclude a section for Reviews/Testimonials\nProvide a Booking Form for a Private Paediatric Service\nFooter:\nInclude necessary contact information\nAdd social media links\nInclude all links ",
+    "dateAdded": "2024-01-23T16:35:03.447Z"
+  },
+  {
+    "url": "https://v0.dev/t/o694Salw8tB",
+    "label": "Template for prompt: A navigation for mobile (<768px) with a logo (use V0 or vercel logo), about., login, contact, kanban, issues and guestbook ",
+    "dateAdded": "2024-01-23T16:35:03.447Z"
+  },
+  {
+    "url": "https://v0.dev/t/0DdB97CTFof",
+    "label": "Template for prompt: a new chrome tab with a search bar, an ai chat, bookmarks, weekly summary, latest emails, this weeks top songs",
+    "dateAdded": "2024-01-23T16:35:03.447Z"
+  },
+  {
+    "url": "https://v0.dev/t/yuEiZU5BLAT",
+    "label": "Template for prompt: weather webpage",
+    "dateAdded": "2024-01-23T16:35:03.447Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ab6yo9WfCZi",
+    "label": "Template for prompt: build a web page to display prices for a stock",
+    "dateAdded": "2024-01-23T16:35:03.447Z"
+  },
+  {
+    "url": "https://v0.dev/t/0AR0qNbx0Bc",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-23T16:35:03.447Z"
+  },
+  {
+    "url": "https://v0.dev/t/9z0txVIxu49",
+    "label": "Template for prompt: a modern minimalist game lore site",
+    "dateAdded": "2024-01-23T16:35:03.448Z"
+  },
+  {
+    "url": "https://v0.dev/t/4tvuOzRoZPn",
+    "label": "Template for prompt: Create a bento box Template for my nextjs app with tailwindCSS wich looks like the image.",
+    "dateAdded": "2024-01-23T16:35:03.448Z"
+  },
+  {
+    "url": "https://v0.dev/t/G3YwBKzOjcA",
+    "label": "Template for prompt: can you make a skeleton with this design ",
+    "dateAdded": "2024-01-23T16:35:03.448Z"
+  },
+  {
+    "url": "https://v0.dev/t/pHLzto7yfyn",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-23T16:35:03.448Z"
   }
 ]
