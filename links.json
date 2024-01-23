@@ -49653,5 +49653,135 @@
     "url": "https://v0.dev/t/bC13MqKjLtE",
     "label": "Template for prompt: replicate",
     "dateAdded": "2024-01-23T17:00:02.520Z"
+  },
+  {
+    "url": "https://v0.dev/t/QL26owwuVht",
+    "label": "Template for prompt: a hero for a nasa app",
+    "dateAdded": "2024-01-23T17:05:03.441Z"
+  },
+  {
+    "url": "https://v0.dev/t/s25DLwsFzp1",
+    "label": "Template for prompt: In react js  create report list item where list item should contain these fields: MRN, Room/Bed, Consultant, Origin Hospital, First Name, Surname, D.O.B, Weight,  NEWS Score, Waterlow Score, MMSE Score, Frailty score, Barthel score, MUST scorfe and list of notes",
+    "dateAdded": "2024-01-23T17:05:03.441Z"
+  },
+  {
+    "url": "https://v0.dev/t/9DKQQm5yT4b",
+    "label": "Template for prompt: Make me a full page WooCommerce page",
+    "dateAdded": "2024-01-23T17:05:03.441Z"
+  },
+  {
+    "url": "https://v0.dev/t/VE1zW1hJuvL",
+    "label": "Template for prompt: make a page that says here's your account info and it displays the email and pass. make it dark mode",
+    "dateAdded": "2024-01-23T17:05:03.441Z"
+  },
+  {
+    "url": "https://v0.dev/t/DzPrxYilNlI",
+    "label": "Template for prompt: next.js floating control panel in cool neon hues with social icons and dark mode toggle ",
+    "dateAdded": "2024-01-23T17:05:03.441Z"
+  },
+  {
+    "url": "https://v0.dev/t/KaqMVudSlQy",
+    "label": "Template for prompt: a dashboard for managing in game servers. it does this by sending specific commands. For example, give money or swithc map. it should implemenet a login page that requires an ip address, port and password. there should be multiple panels for each category of command.",
+    "dateAdded": "2024-01-23T17:05:03.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/jnheEw2jQrk",
+    "label": "Template for prompt: A 10x10 grid for a 2d game that a character can move around in",
+    "dateAdded": "2024-01-23T17:05:03.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/0Q4XTbfHkzt",
+    "label": "Template for prompt: at page login modern beautiful",
+    "dateAdded": "2024-01-23T17:05:03.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/S2ywqvYuL3F",
+    "label": "Template for prompt: at page login modern beautiful full color",
+    "dateAdded": "2024-01-23T17:05:03.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/lu1zGx4fehB",
+    "label": "Template for prompt: a multi step form for onboarding",
+    "dateAdded": "2024-01-23T17:05:03.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/h6jk60NZ0w4",
+    "label": "Template for prompt: Marketing landing page header",
+    "dateAdded": "2024-01-23T17:05:03.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/i7X6bboTRl6",
+    "label": "Template for prompt: create a dashboard to display route53 entry taht you can add, remove edit",
+    "dateAdded": "2024-01-23T17:05:03.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/3zX7DF59k92",
+    "label": "Template for prompt: write a div that would look like this. make the background white though.",
+    "dateAdded": "2024-01-23T17:05:03.443Z"
+  },
+  {
+    "url": "https://v0.dev/t/KH8hjAXdKGh",
+    "label": "Template for prompt: a very simple top bar saying Ticket and Application to the right and with a white background.",
+    "dateAdded": "2024-01-23T17:05:03.443Z"
+  },
+  {
+    "url": "https://v0.dev/t/XfSBcfKOOKR",
+    "label": "Template for prompt: A css grid with a character div and a text input box on the bottom",
+    "dateAdded": "2024-01-23T17:05:03.443Z"
+  },
+  {
+    "url": "https://v0.dev/t/BrXON7bWkmp",
+    "label": "Template for prompt: design a catchy software developer portfolio",
+    "dateAdded": "2024-01-23T17:05:03.443Z"
+  },
+  {
+    "url": "https://v0.dev/t/1nbMLKnp373",
+    "label": "Template for prompt: a page with dark mode for creating document consist of some of inputs such as title, category, and content. the content input is textarea",
+    "dateAdded": "2024-01-23T17:05:03.443Z"
+  },
+  {
+    "url": "https://v0.dev/t/btBHzFuAhYZ",
+    "label": "Template for prompt: a slick and modern datatable with filerable column and export capability",
+    "dateAdded": "2024-01-23T17:05:03.443Z"
+  },
+  {
+    "url": "https://v0.dev/t/idv6La7C1gR",
+    "label": "Template for prompt: a job board that lets the user have a lot of filters",
+    "dateAdded": "2024-01-23T17:05:03.443Z"
+  },
+  {
+    "url": "https://v0.dev/t/vBk7SXojjHp",
+    "label": "Template for prompt: A landing page for architecture and building maintenance solutions",
+    "dateAdded": "2024-01-23T17:05:03.443Z"
+  },
+  {
+    "url": "https://v0.dev/t/Kma2bFZFY0h",
+    "label": "Template for prompt: Create a dashboard for managing college courses including enrolling in classes ",
+    "dateAdded": "2024-01-23T17:05:03.443Z"
+  },
+  {
+    "url": "https://v0.dev/t/FQeZlmVLUpo",
+    "label": "Template for prompt: An About page for a WordPress site with sectional navigation (\"Our Team\", \"Our Story\", \"Join The Team\"), an attractive hero area, a unique looking listing of headshots of team members, and a timeline charting the ten years of the company's history.",
+    "dateAdded": "2024-01-23T17:05:03.444Z"
+  },
+  {
+    "url": "https://v0.dev/t/RAmwHWCP8sj",
+    "label": "Template for prompt: A portfolio for a junior fullstack developer",
+    "dateAdded": "2024-01-23T17:05:03.444Z"
+  },
+  {
+    "url": "https://v0.dev/t/lIPwjK6Hldi",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T17:05:03.444Z"
+  },
+  {
+    "url": "https://v0.dev/t/ScbyqQZGY1w",
+    "label": "Template for prompt: create next js blog homepage",
+    "dateAdded": "2024-01-23T17:05:03.444Z"
+  },
+  {
+    "url": "https://v0.dev/t/vYe64OeuwLg",
+    "label": "Template for prompt: Generate something like ethoslife.com",
+    "dateAdded": "2024-01-23T17:05:03.444Z"
   }
 ]
