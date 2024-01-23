@@ -53233,5 +53233,135 @@
     "url": "https://v0.dev/t/EnhfEvHTBfc",
     "label": "Template for prompt: a chat component where the conversation can be displayed, and messages can be sent. The conversation should distinguish between messages sent by me and messages received from the other user.",
     "dateAdded": "2024-01-23T19:20:03.646Z"
+  },
+  {
+    "url": "https://v0.dev/t/w5tEEjTo2PC",
+    "label": "Template for prompt: A web page in next js for my orders page",
+    "dateAdded": "2024-01-23T19:25:03.194Z"
+  },
+  {
+    "url": "https://v0.dev/t/PtEr6t630Ci",
+    "label": "Template for prompt: A clean game launcher layout with emphasis on Retro Gaming Emulation and storing a collection with as much data about the games as possible",
+    "dateAdded": "2024-01-23T19:25:03.194Z"
+  },
+  {
+    "url": "https://v0.dev/t/NiA89nLp2Dn",
+    "label": "Template for prompt: create small card that has a headline and sub headlines as bullet points, all left aligned",
+    "dateAdded": "2024-01-23T19:25:03.194Z"
+  },
+  {
+    "url": "https://v0.dev/t/QEvO2Id2n3J",
+    "label": "Template for prompt: this is about page from my web game called MapIQ\nMap IQ is a game played on a world map using your mouse\nIt has a maximum of 10 levels which gradually increase in difficulty\nEvery level consists of 5-12 cities\nYou have to score enough points in a level to advance, scores change as game advances\nPlayer has to click on a map as close as he can for a given city\nPoints are calculated based on distance from clicked point and real location of a given city, and click speed\nEvery city has a 10 second limit\nplease generate landing page for it",
+    "dateAdded": "2024-01-23T19:25:03.194Z"
+  },
+  {
+    "url": "https://v0.dev/t/ChdNDYuw9NC",
+    "label": "Template for prompt: try to recreate attached layout using next.js and tailwindcss",
+    "dateAdded": "2024-01-23T19:25:03.195Z"
+  },
+  {
+    "url": "https://v0.dev/t/joVzYFjtV1X",
+    "label": "Template for prompt: mobile scheduler app with purple brand color",
+    "dateAdded": "2024-01-23T19:25:03.195Z"
+  },
+  {
+    "url": "https://v0.dev/t/AaPgcjh7X9K",
+    "label": "Template for prompt: An appointment component with appointment details that enables accept or decline with an optional note that is sent back to the user who requested the appointment",
+    "dateAdded": "2024-01-23T19:25:03.195Z"
+  },
+  {
+    "url": "https://v0.dev/t/qcQLgPRvSIH",
+    "label": "Template for prompt: create a calendar in portuguese thats show the days, week and year. on click on a day, show an modal.",
+    "dateAdded": "2024-01-23T19:25:03.195Z"
+  },
+  {
+    "url": "https://v0.dev/t/bbvqfKSf9u7",
+    "label": "Template for prompt: Mobile website to track expenses. Dark theme. Toolbar at bottom to switch between edit/read view. Modern style but not too much padding so lots of data can be seen.",
+    "dateAdded": "2024-01-23T19:25:03.195Z"
+  },
+  {
+    "url": "https://v0.dev/t/bcBo102m4XE",
+    "label": "Template for prompt: Create a communication configuration page with tabs for email templates, notification settings, and notification mediums. Provide a rich text editor for customizing email templates, a list with checkboxes for notification types, and radio buttons for choosing notification providers. The design should facilitate a smooth setup experience with an intuitive interface",
+    "dateAdded": "2024-01-23T19:25:03.196Z"
+  },
+  {
+    "url": "https://v0.dev/t/ocouiEGTJ8O",
+    "label": "Template for prompt: Create a communication configuration page with tabs for email templates, notification settings, and notification mediums. Provide a rich text editor for customizing email templates, a list with checkboxes for notification types, and radio buttons for choosing notification providers. The design should facilitate a smooth setup experience with an intuitive interface",
+    "dateAdded": "2024-01-23T19:25:03.196Z"
+  },
+  {
+    "url": "https://v0.dev/t/pJpKXrm88vF",
+    "label": "Template for prompt: Create this dashboard",
+    "dateAdded": "2024-01-23T19:25:03.196Z"
+  },
+  {
+    "url": "https://v0.dev/t/N34jmlOIecp",
+    "label": "Template for prompt: a landing page for a serverles functions as a service platform ",
+    "dateAdded": "2024-01-23T19:25:03.196Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZLGM46N9rMI",
+    "label": "Template for prompt: Online second-hand car marketplace",
+    "dateAdded": "2024-01-23T19:25:03.196Z"
+  },
+  {
+    "url": "https://v0.dev/t/SCezT3Tq2Hu",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T19:25:03.196Z"
+  },
+  {
+    "url": "https://v0.dev/t/LiJ9BjKTfdT",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-23T19:25:03.196Z"
+  },
+  {
+    "url": "https://v0.dev/t/FCIPDhwUhB3",
+    "label": "Template for prompt: Based on the screenshot, create a layout using next.js and tailwindcss. Layout need to be responsive.",
+    "dateAdded": "2024-01-23T19:25:03.196Z"
+  },
+  {
+    "url": "https://v0.dev/t/Sa7dP14sO65",
+    "label": "Template for prompt: Based on the screenshot, create a layout using next.js and tailwindcss. Layout need to be responsive.",
+    "dateAdded": "2024-01-23T19:25:03.197Z"
+  },
+  {
+    "url": "https://v0.dev/t/BaZbiWwVxE0",
+    "label": "Template for prompt: A footer for a blog that contains references, and contact information",
+    "dateAdded": "2024-01-23T19:25:03.197Z"
+  },
+  {
+    "url": "https://v0.dev/t/BDm9NP82NGQ",
+    "label": "Template for prompt: mejora esa card",
+    "dateAdded": "2024-01-23T19:25:03.197Z"
+  },
+  {
+    "url": "https://v0.dev/t/xrrukBTTyTW",
+    "label": "Template for prompt: un dashboard donde se vean 6 equipos de trabajo. cada equipo de trabajo debe ser una card con distintos \"agentes\" ",
+    "dateAdded": "2024-01-23T19:25:03.197Z"
+  },
+  {
+    "url": "https://v0.dev/t/4HGkr3UfRuv",
+    "label": "Template for prompt: A form with 6 rows. The first row has the labels and each following row has a checkbox and 4 select boxes. The rows should change color on hover",
+    "dateAdded": "2024-01-23T19:25:03.197Z"
+  },
+  {
+    "url": "https://v0.dev/t/hYyFIcfwDuS",
+    "label": "Template for prompt: A personal website with a news and portfolio section with sky blue as main brand color",
+    "dateAdded": "2024-01-23T19:25:03.197Z"
+  },
+  {
+    "url": "https://v0.dev/t/DvSqcr3ay1q",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T19:25:03.198Z"
+  },
+  {
+    "url": "https://v0.dev/t/nwhdOL5iRRe",
+    "label": "Template for prompt: A coming soon page for a game called hotspot, which lets you play live games with people around you. It should have some cool animations, like a radar spinning around with the flashing dots on it, and a button that says \"Join the Beta.\" It should be in a dark mode theme",
+    "dateAdded": "2024-01-23T19:25:03.198Z"
+  },
+  {
+    "url": "https://v0.dev/t/1lVgiM93PG3",
+    "label": "Template for prompt: a simple sugnup page",
+    "dateAdded": "2024-01-23T19:25:03.198Z"
   }
 ]
