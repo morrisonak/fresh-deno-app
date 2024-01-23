@@ -51463,5 +51463,135 @@
     "url": "https://v0.dev/t/qlonRtSzasA",
     "label": "Template for prompt: can you design a homepage for a livechat service called Chat Line",
     "dateAdded": "2024-01-23T18:10:02.924Z"
+  },
+  {
+    "url": "https://v0.dev/t/ESzkTGXHezm",
+    "label": "Template for prompt: header that contains logo on the left and on the right it contains 2 links and a cta",
+    "dateAdded": "2024-01-23T18:15:02.976Z"
+  },
+  {
+    "url": "https://v0.dev/t/Bs3mcDNq3pk",
+    "label": "Template for prompt: create react component with tailwind",
+    "dateAdded": "2024-01-23T18:15:02.976Z"
+  },
+  {
+    "url": "https://v0.dev/t/bmDxnNI67nT",
+    "label": "Template for prompt: \"Notification and Communication page\":\n1. Email Templates Section:\n\nThe UI should start with a clean, organized list of existing email templates. Each template can be previewed with a thumbnail next to the template name.\nA prominent \"Create Template\" button allows admins to add new templates.\nWhen creating or editing a template, the admin is taken to a WYSIWYG editor that allows for rich text formatting, insertion of variables (like candidate name, job title), and media embedding. A side panel provides a dropdown of available variables and a real-time preview of the email.\nTemplates should be categorizable with tags or folders for efficient organization.",
+    "dateAdded": "2024-01-23T18:15:02.977Z"
+  },
+  {
+    "url": "https://v0.dev/t/C6wtjXIKjrI",
+    "label": "Template for prompt: linux style close minimize and maximize dark mode buttons",
+    "dateAdded": "2024-01-23T18:15:02.977Z"
+  },
+  {
+    "url": "https://v0.dev/t/UBdb4luH4Le",
+    "label": "Template for prompt: Create a card similar to these for users to query a database",
+    "dateAdded": "2024-01-23T18:15:02.977Z"
+  },
+  {
+    "url": "https://v0.dev/t/X6FX5FlMgIM",
+    "label": "Template for prompt: Render the chat UI here",
+    "dateAdded": "2024-01-23T18:15:02.977Z"
+  },
+  {
+    "url": "https://v0.dev/t/v787O9WMdGW",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T18:15:02.978Z"
+  },
+  {
+    "url": "https://v0.dev/t/dLYx0cglcWl",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T18:15:02.978Z"
+  },
+  {
+    "url": "https://v0.dev/t/KtMFSvg6DBn",
+    "label": "Template for prompt: make a better sign in page",
+    "dateAdded": "2024-01-23T18:15:02.978Z"
+  },
+  {
+    "url": "https://v0.dev/t/bA91eYs4I1f",
+    "label": "Template for prompt: a landing page for a physical therapy at home company",
+    "dateAdded": "2024-01-23T18:15:02.978Z"
+  },
+  {
+    "url": "https://v0.dev/t/u601xWhheZn",
+    "label": "Template for prompt: A product categories section with 10 categories. Each category has an icon and a title",
+    "dateAdded": "2024-01-23T18:15:02.979Z"
+  },
+  {
+    "url": "https://v0.dev/t/kUwMGa1OYTW",
+    "label": "Template for prompt: quiero una pagina en donde tenga un formulario por encima que sea para pedir la ubicacion de usuario y la proximidad a un sitio dentro del mapa, y el resto de la pantalla quiero ver google maps con esa ubicacion reflejada ",
+    "dateAdded": "2024-01-23T18:15:02.979Z"
+  },
+  {
+    "url": "https://v0.dev/t/5zW1FhlzMNp",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T18:15:02.979Z"
+  },
+  {
+    "url": "https://v0.dev/t/vMX2FxhiEWn",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T18:15:02.979Z"
+  },
+  {
+    "url": "https://v0.dev/t/kOHBkVVMMuq",
+    "label": "Template for prompt: how can I make the attachments on this notes UI look better?",
+    "dateAdded": "2024-01-23T18:15:02.979Z"
+  },
+  {
+    "url": "https://v0.dev/t/SCTewD7Qd5W",
+    "label": "Template for prompt: create a vertical experience of a wishlist inspired by the attached. There should be 3 sections rendered in this order: 1. Items added by the customer as favorites\n2. Items recently purchased/viewed\n3. Items recommended by the brand based on preferences and similar styles",
+    "dateAdded": "2024-01-23T18:15:02.979Z"
+  },
+  {
+    "url": "https://v0.dev/t/PJYnRyMbLgZ",
+    "label": "Template for prompt: create a electron app similar to local by flywheel to develop wordpress sites locally",
+    "dateAdded": "2024-01-23T18:15:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/QdsR3BHK9fm",
+    "label": "Template for prompt: create nexjjs footer for blog with privacy policy, about us, terms-of use, support, home, social media sections and links",
+    "dateAdded": "2024-01-23T18:15:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/0kZWNbwhR0e",
+    "label": "Template for prompt: login and register pop-up",
+    "dateAdded": "2024-01-23T18:15:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/MjzsWrc3BDW",
+    "label": "Template for prompt: The homepage has five pages, namely mine, his, its, hers, and contact us.",
+    "dateAdded": "2024-01-23T18:15:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/MEGxd5XAwPm",
+    "label": "Template for prompt: The homepage has five pages, namely mine, his, its, hers, and contact us.",
+    "dateAdded": "2024-01-23T18:15:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/0SuZcJbENVr",
+    "label": "Template for prompt: a landing page for unibites, a company that is essentially hellofresh but specialized for college students and dormitories",
+    "dateAdded": "2024-01-23T18:15:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/rY9OKMqF3bc",
+    "label": "Template for prompt: i want to create a page for my nft swapper appliction that would display post details in a screen width card in which image of offering nft with image of desired nft and gain icon , and expiry date ,, Now below this card option to make your offer will be their where you insert your nft , which would be considered as your offering",
+    "dateAdded": "2024-01-23T18:15:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/wvhI43SNlJi",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T18:15:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/ankrMjd6CZr",
+    "label": "Template for prompt: Yoga Art Studio, Fixed Header navigation with Book CTA,  Hero Section, Prices, Instructors, Practices, Contact Form,  and Footer",
+    "dateAdded": "2024-01-23T18:15:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/gOGU00HObTs",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T18:15:02.982Z"
   }
 ]
