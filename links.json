@@ -57038,5 +57038,135 @@
     "url": "https://v0.dev/t/nxDYCCj922m",
     "label": "Template for prompt: create a whatsapp chat inbox",
     "dateAdded": "2024-01-23T21:50:02.450Z"
+  },
+  {
+    "url": "https://v0.dev/t/DzyKqPp5JGw",
+    "label": "Template for prompt: Welcome Screen with premium race bike rental branding and value proposition. Only one type of bike available, user will just select the size and request dates. Rental Details Screen where users can input rental duration and see the price.Payment Screen for processing the rental transaction.Confirmation Screen with rental receipt and pick-up information.User Profile Screen where users can manage their rentals and settings.",
+    "dateAdded": "2024-01-23T21:55:02.703Z"
+  },
+  {
+    "url": "https://v0.dev/t/hMjiu9d4rhK",
+    "label": "Template for prompt: a simple one page for bakery shop",
+    "dateAdded": "2024-01-23T21:55:02.703Z"
+  },
+  {
+    "url": "https://v0.dev/t/gYNiA2fvd89",
+    "label": "Template for prompt: Recreate this",
+    "dateAdded": "2024-01-23T21:55:02.703Z"
+  },
+  {
+    "url": "https://v0.dev/t/PKg3uGXEiZ5",
+    "label": "Template for prompt: an image component that shows the preview in 16 / 9 and has an overlay button with \"View full Image\" when clicked should show the full image in a modal. ",
+    "dateAdded": "2024-01-23T21:55:02.703Z"
+  },
+  {
+    "url": "https://v0.dev/t/QuJwB2MpoYU",
+    "label": "Template for prompt: an e-commerce store for school stationary ",
+    "dateAdded": "2024-01-23T21:55:02.703Z"
+  },
+  {
+    "url": "https://v0.dev/t/2YmnYnJvfVS",
+    "label": "Template for prompt: I want a pricing modal, displaying a lifetime offer of 39 dollars for the first 10 customers that is already oversubscribed and thus canceled. Then another price of 79 dollars for the next 100 customers and monthly price of 15 dollars for the rest",
+    "dateAdded": "2024-01-23T21:55:02.703Z"
+  },
+  {
+    "url": "https://v0.dev/t/WGnmdlsCBrA",
+    "label": "Template for prompt: a github inspired heatmap",
+    "dateAdded": "2024-01-23T21:55:02.703Z"
+  },
+  {
+    "url": "https://v0.dev/t/4rWUOCAwSZF",
+    "label": "Template for prompt: A modern search bar with magnifying glass icon",
+    "dateAdded": "2024-01-23T21:55:02.704Z"
+  },
+  {
+    "url": "https://v0.dev/t/gqHKVrG03Ga",
+    "label": "Template for prompt: a website to look up NAICS codes. It should take a company description and output the proper naics code. THere should be copy that explains how it works and ability to contact for bulk lookup",
+    "dateAdded": "2024-01-23T21:55:02.704Z"
+  },
+  {
+    "url": "https://v0.dev/t/JWc5SwXFYqN",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-23T21:55:02.704Z"
+  },
+  {
+    "url": "https://v0.dev/t/SJPwMmESuFX",
+    "label": "Template for prompt: A landing page for a productivity trackign app called ZenFlow",
+    "dateAdded": "2024-01-23T21:55:02.704Z"
+  },
+  {
+    "url": "https://v0.dev/t/jxTkJmy2h42",
+    "label": "Template for prompt: Generate a light theme UI that is supposed to be a beautiful chat interface which is supposed to represent an interview/meeting so it should have some similarities to Zoom/Google meeting UI",
+    "dateAdded": "2024-01-23T21:55:02.704Z"
+  },
+  {
+    "url": "https://v0.dev/t/RLXVnmn90rc",
+    "label": "Template for prompt: Can you rewrite this as a react component?",
+    "dateAdded": "2024-01-23T21:55:02.704Z"
+  },
+  {
+    "url": "https://v0.dev/t/tqqUT5j5dtf",
+    "label": "Template for prompt: make a webpage which consists of two cards showcasing the difference between the two plans in about three points also add the fees to be 5$ per month and a option to start your free trial now. Make sure the cards to be dark themed and also have a sleek design",
+    "dateAdded": "2024-01-23T21:55:02.704Z"
+  },
+  {
+    "url": "https://v0.dev/t/EyLHFaMphz4",
+    "label": "Template for prompt: a face search preview component to select faces to search",
+    "dateAdded": "2024-01-23T21:55:02.704Z"
+  },
+  {
+    "url": "https://v0.dev/t/NR55zufAADc",
+    "label": "Template for prompt: create a movies and series streaming flex container with items",
+    "dateAdded": "2024-01-23T21:55:02.705Z"
+  },
+  {
+    "url": "https://v0.dev/t/EqvrF7jSo2H",
+    "label": "Template for prompt: Make a dashboard with sidebar on left that is resizeable and collapsible",
+    "dateAdded": "2024-01-23T21:55:02.705Z"
+  },
+  {
+    "url": "https://v0.dev/t/s3oMw8frNdd",
+    "label": "Template for prompt: Landing page for an app that will provide information regarding pollen levels for the day and track history",
+    "dateAdded": "2024-01-23T21:55:02.705Z"
+  },
+  {
+    "url": "https://v0.dev/t/5aRPKMm52Oz",
+    "label": "Template for prompt: A personal blog, with a now page, a photos page, a books page",
+    "dateAdded": "2024-01-23T21:55:02.705Z"
+  },
+  {
+    "url": "https://v0.dev/t/JGhndLlGJLE",
+    "label": "Template for prompt: Timeline view for events",
+    "dateAdded": "2024-01-23T21:55:02.705Z"
+  },
+  {
+    "url": "https://v0.dev/t/CXP8UWw6qjQ",
+    "label": "Template for prompt: Page that shows the configuration status of external services in a two column format, where the first column contains the service logo and status, and the right column shows the description of the service",
+    "dateAdded": "2024-01-23T21:55:02.705Z"
+  },
+  {
+    "url": "https://v0.dev/t/s6TqfpMMmRn",
+    "label": "Template for prompt: A portfolio site with a resume and a section for displaying pet projects",
+    "dateAdded": "2024-01-23T21:55:02.705Z"
+  },
+  {
+    "url": "https://v0.dev/t/pEs741KtRO6",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T21:55:02.705Z"
+  },
+  {
+    "url": "https://v0.dev/t/BTp2MsjsyS0",
+    "label": "Template for prompt: a simple individual contact record in a CRM",
+    "dateAdded": "2024-01-23T21:55:02.706Z"
+  },
+  {
+    "url": "https://v0.dev/t/sB4CT5xCcJJ",
+    "label": "Template for prompt: note taking app",
+    "dateAdded": "2024-01-23T21:55:02.706Z"
+  },
+  {
+    "url": "https://v0.dev/t/9IXfYnaQ2Ry",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T21:55:02.706Z"
   }
 ]
