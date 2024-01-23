@@ -52748,5 +52748,130 @@
     "url": "https://v0.dev/t/y9pCQD1Os7H",
     "label": "Template for prompt: Im a admin who is using my platform for doing tenant configuration. in the tenant configuration journey, im in Notification and communication page.  This page UI should have Email customisation featuresection, where I can set up email tempates for my tenant to send ",
     "dateAdded": "2024-01-23T19:00:03.185Z"
+  },
+  {
+    "url": "https://v0.dev/t/mBeh5nXln9x",
+    "label": "Template for prompt: A openAI chat interface on the left and a rich text editor on the right",
+    "dateAdded": "2024-01-23T19:05:02.596Z"
+  },
+  {
+    "url": "https://v0.dev/t/rSs34lv9KMm",
+    "label": "Template for prompt: create a FAQ section",
+    "dateAdded": "2024-01-23T19:05:02.596Z"
+  },
+  {
+    "url": "https://v0.dev/t/crGXBAH4WBt",
+    "label": "Template for prompt: a page header using tailwind css and react with hav bar for 3 pages on the left an user avatar on the right. max width of innerc container 1600px",
+    "dateAdded": "2024-01-23T19:05:02.596Z"
+  },
+  {
+    "url": "https://v0.dev/t/uBZncXQleg7",
+    "label": "Template for prompt: can u create an event details page where it has an image event date event name, it has a products table(which has a add to card icon), a information card(maybe an accordion)",
+    "dateAdded": "2024-01-23T19:05:02.597Z"
+  },
+  {
+    "url": "https://v0.dev/t/zcAR0jjQQ8K",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-23T19:05:02.597Z"
+  },
+  {
+    "url": "https://v0.dev/t/7OdetNv54IY",
+    "label": "Template for prompt: create the model",
+    "dateAdded": "2024-01-23T19:05:02.597Z"
+  },
+  {
+    "url": "https://v0.dev/t/7JbmJkyvdu9",
+    "label": "Template for prompt: make a pricing page for my Saas producing with pricing cards and a switch to toggle between monthly & yearly pricing. Also, add a table at the bottom to compare all 3 tiers: Free, Pro, Premium",
+    "dateAdded": "2024-01-23T19:05:02.597Z"
+  },
+  {
+    "url": "https://v0.dev/t/RwzUfpTNGZH",
+    "label": "Template for prompt: create me a login page",
+    "dateAdded": "2024-01-23T19:05:02.597Z"
+  },
+  {
+    "url": "https://v0.dev/t/fdks6vGmLrZ",
+    "label": "Template for prompt: Create an invite users modal that defaults to adding one user, but has an add row button that adds another form to the list. Each row should have a delete trash can for removing that specific row. Each invitation info contains a text box for first name, last name, email, and a select box for selecting options. When the add button is clicked another form should be displayed below the last one",
+    "dateAdded": "2024-01-23T19:05:02.598Z"
+  },
+  {
+    "url": "https://v0.dev/t/GUgpeHuCzMD",
+    "label": "Template for prompt: The page should have a clean, uncluttered layout, with a clear distinction between different sections. Use a neutral color palette with brand accents for a professional appearance. All controls should be easily accessible, with tooltips for information and guidance.\n\nTabs Navigation:\nAt the top of the page, there should be a horizontal navigation bar with three tabs, clearly labeled:\n\nEmail Templates\nNotification Settings\nNotification Mediums\nThese tabs will allow the admin to switch between different communication configurations without leaving the page.",
+    "dateAdded": "2024-01-23T19:05:02.598Z"
+  },
+  {
+    "url": "https://v0.dev/t/o6MeySquKMP",
+    "label": "Template for prompt: can u create an event details page where it has an image event date event name(this are editable), it has a products table, a information card(maybe an accordion)",
+    "dateAdded": "2024-01-23T19:05:02.598Z"
+  },
+  {
+    "url": "https://v0.dev/t/fxYeL8syebi",
+    "label": "Template for prompt: UI buy tickets app",
+    "dateAdded": "2024-01-23T19:05:02.598Z"
+  },
+  {
+    "url": "https://v0.dev/t/na60fR4snwE",
+    "label": "Template for prompt: build an events page that has a sidebar has some tabs(Rip And Ship, All and Breaks) and the main page is similar to yotube or whatnot or event twitch and it has a list of videos(once you click them or send to a video) and make a row per seller(that can have multiple events) ina grid format and small images(just like v0.dev)",
+    "dateAdded": "2024-01-23T19:05:02.599Z"
+  },
+  {
+    "url": "https://v0.dev/t/cqv0VEfw296",
+    "label": "Template for prompt: a forgot password prompt",
+    "dateAdded": "2024-01-23T19:05:02.599Z"
+  },
+  {
+    "url": "https://v0.dev/t/ybRBvMFwRKy",
+    "label": "Template for prompt: build an events page that has a sidebar has some tabs(Rip And Ship, All and Breaks) and the main page is similar to yotube or whatnot or event twitch and it has a list of videos(once you click them or send to a video)",
+    "dateAdded": "2024-01-23T19:05:02.599Z"
+  },
+  {
+    "url": "https://v0.dev/t/HVWCz1h0254",
+    "label": "Template for prompt: A video control with an empty 300x300 box where the video would be. On the left of the box should be a set of icons laid out vertically. There should be buttons on the left for stop and start, as well as record.",
+    "dateAdded": "2024-01-23T19:05:02.599Z"
+  },
+  {
+    "url": "https://v0.dev/t/7Bww4BHgies",
+    "label": "Template for prompt: a minimalist website homepage for off leash dog parks in connecticut",
+    "dateAdded": "2024-01-23T19:05:02.599Z"
+  },
+  {
+    "url": "https://v0.dev/t/wfGtYlN5kRf",
+    "label": "Template for prompt: notification button ",
+    "dateAdded": "2024-01-23T19:05:02.599Z"
+  },
+  {
+    "url": "https://v0.dev/t/pFnoAIqXaIU",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T19:05:02.600Z"
+  },
+  {
+    "url": "https://v0.dev/t/B9tvmvF57nS",
+    "label": "Template for prompt: build a cta waitlist landing page",
+    "dateAdded": "2024-01-23T19:05:02.600Z"
+  },
+  {
+    "url": "https://v0.dev/t/X1jg3hKME0A",
+    "label": "Template for prompt: web nails",
+    "dateAdded": "2024-01-23T19:05:02.600Z"
+  },
+  {
+    "url": "https://v0.dev/t/DB7dIgPOQz7",
+    "label": "Template for prompt: Do a multiplayer host/join menu",
+    "dateAdded": "2024-01-23T19:05:02.600Z"
+  },
+  {
+    "url": "https://v0.dev/t/FLGK9UEUMcD",
+    "label": "Template for prompt: We are working on a mobile app. The first page we are going to design in the home page when you open the app. The home page opens up to an empty text document. There are two other import pieces. The bottom nav which has the following\n- Contacts icon\n- Documents icon\n- File icon\n\nThere is also the floating icons on the top right of the screen. There should be a camera icon, an audio icon and a 3 dots icon (denotes “More”)\n",
+    "dateAdded": "2024-01-23T19:05:02.600Z"
+  },
+  {
+    "url": "https://v0.dev/t/M1qOUMT6359",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-23T19:05:02.601Z"
+  },
+  {
+    "url": "https://v0.dev/t/JLZZOtWK0rH",
+    "label": "Template for prompt: A vertical strip of icon buttons for controlling a video feed. It should have buttons for stop and start video. The strip of icons is on the left of the video box.",
+    "dateAdded": "2024-01-23T19:05:02.601Z"
   }
 ]
