@@ -45328,5 +45328,130 @@
     "url": "https://v0.dev/t/xe2X2TKPnGY",
     "label": "Template for prompt: 「今日読んだ技術記事3つ」を投稿できるSNS。1つのPostに3つの記事カードが含まれる。記事カードには記事のタイトル、サムネイル画像、記事の概要が含まれる。画面全体のメインカラーは#5590c9、アクセントカラーは#fdbd9aを使用。",
     "dateAdded": "2024-01-23T14:10:03.869Z"
+  },
+  {
+    "url": "https://v0.dev/t/5QYzAZaVtfn",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T14:15:03.307Z"
+  },
+  {
+    "url": "https://v0.dev/t/CrLAkmwBaC8",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T14:15:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZCUQPP77HB1",
+    "label": "Template for prompt: A page that takes in input(name) submits a form and renders a success message with a block of text printed out. Add a footer and a heading with a logo at the top right with the users profile pic and details at the top left",
+    "dateAdded": "2024-01-23T14:15:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/OXthP3bmELA",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-23T14:15:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/28UgphWT0ak",
+    "label": "Template for prompt: 生成一下它的前端代码",
+    "dateAdded": "2024-01-23T14:15:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/847hRVUAZGD",
+    "label": "Template for prompt: create a shadcn administration page for dealing with sales orders. include a navigation bar and user profile dropdown as well as a left hand menu",
+    "dateAdded": "2024-01-23T14:15:03.308Z"
+  },
+  {
+    "url": "https://v0.dev/t/wmRKA0Y17Q0",
+    "label": "Template for prompt: make a review card which consists of user name his designation and the photo inside a circle, also add 4.5 start rating given by him and a few lines of code, also add some border radius to it to make it look very sleek and also make it in dark theme, ",
+    "dateAdded": "2024-01-23T14:15:03.309Z"
+  },
+  {
+    "url": "https://v0.dev/t/iCorj6TS6ZW",
+    "label": "Template for prompt: keyboard layout",
+    "dateAdded": "2024-01-23T14:15:03.309Z"
+  },
+  {
+    "url": "https://v0.dev/t/A7loEVOJxiN",
+    "label": "Template for prompt: create a form which includes for filling up the form having fields bio, headline, social media links(3 links), and a options to add project , project link, and project image it should be built using tailwind css and make it responsive on all sites",
+    "dateAdded": "2024-01-23T14:15:03.309Z"
+  },
+  {
+    "url": "https://v0.dev/t/h0sdx6QaEKU",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-23T14:15:03.309Z"
+  },
+  {
+    "url": "https://v0.dev/t/JfCMBikpgi7",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T14:15:03.310Z"
+  },
+  {
+    "url": "https://v0.dev/t/M5TZw9Uf9j3",
+    "label": "Template for prompt: a login page in flutter with apple and google options",
+    "dateAdded": "2024-01-23T14:15:03.310Z"
+  },
+  {
+    "url": "https://v0.dev/t/mxkP0IpPtCm",
+    "label": "Template for prompt: bind url to keyboard shortcut",
+    "dateAdded": "2024-01-23T14:15:03.310Z"
+  },
+  {
+    "url": "https://v0.dev/t/KpMVuLyEcXW",
+    "label": "Template for prompt: a cardealership landing page with this footer",
+    "dateAdded": "2024-01-23T14:15:03.310Z"
+  },
+  {
+    "url": "https://v0.dev/t/nBubVHTnBeX",
+    "label": "Template for prompt: copy this website",
+    "dateAdded": "2024-01-23T14:15:03.310Z"
+  },
+  {
+    "url": "https://v0.dev/t/58zOIaofw4M",
+    "label": "Template for prompt: A simple editing dashboard for VFX",
+    "dateAdded": "2024-01-23T14:15:03.311Z"
+  },
+  {
+    "url": "https://v0.dev/t/oQa9Dg0o2gN",
+    "label": "Template for prompt: Make a landing page with option s with treak party meditation as option to choose from ",
+    "dateAdded": "2024-01-23T14:15:03.311Z"
+  },
+  {
+    "url": "https://v0.dev/t/kopD9hzlFa2",
+    "label": "Template for prompt: a card with text and the extreme left has a vertical thick blue line",
+    "dateAdded": "2024-01-23T14:15:03.311Z"
+  },
+  {
+    "url": "https://v0.dev/t/yJcImQ73bGH",
+    "label": "Template for prompt: Show my profecional career section in a portfolio",
+    "dateAdded": "2024-01-23T14:15:03.311Z"
+  },
+  {
+    "url": "https://v0.dev/t/8fAyM3Z5hMC",
+    "label": "Template for prompt: a responsive blog page",
+    "dateAdded": "2024-01-23T14:15:03.311Z"
+  },
+  {
+    "url": "https://v0.dev/t/jS0xawySBxm",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T14:15:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/CiSx37WAbmZ",
+    "label": "Template for prompt: authorization form",
+    "dateAdded": "2024-01-23T14:15:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/xCZWUzKwtnq",
+    "label": "Template for prompt: Design a web page for a care homes marketing website Our Services page. The services are: Assisted Living Service, Medical and Health Care Services, Memory Care, Rehabilitation Services, Nutritional Services, Social and Recreational Activities, Housekeeping and Maintenance, End-of-Life Care. Make the services expandable and animated",
+    "dateAdded": "2024-01-23T14:15:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/xzPJbYEEmEt",
+    "label": "Template for prompt: Please create a design for a social media interface where users can post 'three technology articles they read today.' Each post will include three article cards. Each article card should contain the article title, a thumbnail image, and a summary of the article. Use #5590c9 as the main color for the entire screen, and #fdbd9a as the accent color.",
+    "dateAdded": "2024-01-23T14:15:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/NFxu6bueeBe",
+    "label": "Template for prompt: عوامل تخریب زیست بوم",
+    "dateAdded": "2024-01-23T14:15:03.312Z"
   }
 ]
