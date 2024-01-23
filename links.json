@@ -48658,5 +48658,130 @@
     "url": "https://v0.dev/t/iXUptfMzey7",
     "label": "Template for prompt: contact us form",
     "dateAdded": "2024-01-23T16:20:03.445Z"
+  },
+  {
+    "url": "https://v0.dev/t/5oDFidSH4yL",
+    "label": "Template for prompt: table of recently selected search terms",
+    "dateAdded": "2024-01-23T16:25:02.609Z"
+  },
+  {
+    "url": "https://v0.dev/t/GIbJdQFSif5",
+    "label": "Template for prompt: a responsive navbar with right calendar input form",
+    "dateAdded": "2024-01-23T16:25:02.609Z"
+  },
+  {
+    "url": "https://v0.dev/t/Uae7UbWyOYO",
+    "label": "Template for prompt: an application that will be used by a product manager that help him identify epics required to build a product, based on a product story, and them once approved, they are depicted as user stories ",
+    "dateAdded": "2024-01-23T16:25:02.609Z"
+  },
+  {
+    "url": "https://v0.dev/t/CuSgFuwSjge",
+    "label": "Template for prompt: An healthcare webapp main site",
+    "dateAdded": "2024-01-23T16:25:02.609Z"
+  },
+  {
+    "url": "https://v0.dev/t/uzvs5YiK98g",
+    "label": "Template for prompt: A navigation for mobile (<768px) with a logo (use V0 or vercel logo), about., login, contact, kanban, issues and guestbook ",
+    "dateAdded": "2024-01-23T16:25:02.609Z"
+  },
+  {
+    "url": "https://v0.dev/t/lnxBXD7svTe",
+    "label": "Template for prompt: Crea una pagina de registro",
+    "dateAdded": "2024-01-23T16:25:02.610Z"
+  },
+  {
+    "url": "https://v0.dev/t/s9meUEyU73y",
+    "label": "Template for prompt: a save button",
+    "dateAdded": "2024-01-23T16:25:02.610Z"
+  },
+  {
+    "url": "https://v0.dev/t/wuUoOjDHAHB",
+    "label": "Template for prompt: deisgn for a platfoem where it allows people to automate their gmail. Especially when you are applying jobs.",
+    "dateAdded": "2024-01-23T16:25:02.610Z"
+  },
+  {
+    "url": "https://v0.dev/t/p5GfOGqKFwz",
+    "label": "Template for prompt: SIMPLE LOGIN section",
+    "dateAdded": "2024-01-23T16:25:02.610Z"
+  },
+  {
+    "url": "https://v0.dev/t/JTgOaIq6veo",
+    "label": "Template for prompt: a 2x2 form, first name and last name on top, email and idn on bottom and a button on the right",
+    "dateAdded": "2024-01-23T16:25:02.610Z"
+  },
+  {
+    "url": "https://v0.dev/t/JVMMREz6jYe",
+    "label": "Template for prompt: a range slider for day and night cycles",
+    "dateAdded": "2024-01-23T16:25:02.611Z"
+  },
+  {
+    "url": "https://v0.dev/t/nIcDfvIZ7Vb",
+    "label": "Template for prompt: portfolio hero sections",
+    "dateAdded": "2024-01-23T16:25:02.611Z"
+  },
+  {
+    "url": "https://v0.dev/t/3pck6T6qfwW",
+    "label": "Template for prompt: landing page for treasure hunt based on one piece anime",
+    "dateAdded": "2024-01-23T16:25:02.611Z"
+  },
+  {
+    "url": "https://v0.dev/t/TWeUMssUGqZ",
+    "label": "Template for prompt: a pdf page written in html for an explanation of how to ship products to my store. This should include 3 main steps. names perpare, print and ship",
+    "dateAdded": "2024-01-23T16:25:02.611Z"
+  },
+  {
+    "url": "https://v0.dev/t/bYcZHKrNJ8V",
+    "label": "Template for prompt: Design a streamlined 'Notification and Communication' configuration UI for the tenant management system, focused on enabling administrators to craft and manage all aspects of communication with candidates. Include the following elements:\n\nEmail Templates Editor-\nProvide a rich text editor for crafting email templates, with the ability to insert dynamic placeholders for candidate names, positions, interview times, and other personalized data.\nInclude a template library with categorized default templates for various stages of the recruitment process, such as initial contact, interview invitations, and follow-up emails, with an option to save and organize custom templates.\nThe UI should be organized with a logical flow, clean lines, and an intuitive layout, ensuring that non-technical users can easily navigate and configure complex notification settings. The design should feature confirmatory cues and rollback options for changes.\n\n",
+    "dateAdded": "2024-01-23T16:25:02.612Z"
+  },
+  {
+    "url": "https://v0.dev/t/OhrfJBjHPRP",
+    "label": "Template for prompt: A navigation for mobile (<768px) vercel style. Containing the following links.\n\n-home\n-about \n-issues\n-kanban\n-guestbook\n-contact\n-Login\n\nThe image attached is how my desktop navigation looks like. ",
+    "dateAdded": "2024-01-23T16:25:02.612Z"
+  },
+  {
+    "url": "https://v0.dev/t/6ziIfEJRP9e",
+    "label": "Template for prompt: sticky images on the right text on the left on scroll",
+    "dateAdded": "2024-01-23T16:25:02.612Z"
+  },
+  {
+    "url": "https://v0.dev/t/g6crhXqXwIG",
+    "label": "Template for prompt: make a payment successful page that will inform the user that their payment was successful. It could display an order summary, a thank you message and other relevant information.",
+    "dateAdded": "2024-01-23T16:25:02.612Z"
+  },
+  {
+    "url": "https://v0.dev/t/CuTgvTWhqmF",
+    "label": "Template for prompt: Create a Bentobox Grid for my Tailwind CSS Nextjs project. It should match the attached image. https://cdn.dribbble.com/userupload/5327847/file/original-7b5aea3646f255337d7e9d0e5b25d683.png?resize=1600x1200",
+    "dateAdded": "2024-01-23T16:25:02.612Z"
+  },
+  {
+    "url": "https://v0.dev/t/BapyoZo8K5C",
+    "label": "Template for prompt: application menu sidebar with menu items that open and close",
+    "dateAdded": "2024-01-23T16:25:02.613Z"
+  },
+  {
+    "url": "https://v0.dev/t/GXqy1rzUzo4",
+    "label": "Template for prompt: A hero section for a SAAS landing page",
+    "dateAdded": "2024-01-23T16:25:02.613Z"
+  },
+  {
+    "url": "https://v0.dev/t/NEJ5jOszyJW",
+    "label": "Template for prompt: About me , for a draw website",
+    "dateAdded": "2024-01-23T16:25:02.613Z"
+  },
+  {
+    "url": "https://v0.dev/t/RSjXh3zyHkY",
+    "label": "Template for prompt: need this templete",
+    "dateAdded": "2024-01-23T16:25:02.613Z"
+  },
+  {
+    "url": "https://v0.dev/t/PjnhU34Hpzp",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-23T16:25:02.613Z"
+  },
+  {
+    "url": "https://v0.dev/t/uJA4mSZprnC",
+    "label": "Template for prompt: A pricing page",
+    "dateAdded": "2024-01-23T16:25:02.613Z"
   }
 ]
