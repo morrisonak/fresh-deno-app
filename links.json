@@ -56158,5 +56158,135 @@
     "url": "https://v0.dev/t/EgGXeDesh29",
     "label": "Template for prompt: a \"new contact\" form for submitting a person to a database. Should include fields for: First Name, Last Name, Organization, Email Address, Phone Number, and a multi-select field for type of contact.",
     "dateAdded": "2024-01-23T21:15:02.684Z"
+  },
+  {
+    "url": "https://v0.dev/t/L5xHbg8TM0T",
+    "label": "Template for prompt: tabla minimalista colores azul y naranja",
+    "dateAdded": "2024-01-23T21:20:03.367Z"
+  },
+  {
+    "url": "https://v0.dev/t/QeNHDnNtQY9",
+    "label": "Template for prompt: tabla minimalista colores azul y naranja",
+    "dateAdded": "2024-01-23T21:20:03.368Z"
+  },
+  {
+    "url": "https://v0.dev/t/thVx78XkHSa",
+    "label": "Template for prompt: tabla minimalista colores azul y naranja",
+    "dateAdded": "2024-01-23T21:20:03.368Z"
+  },
+  {
+    "url": "https://v0.dev/t/ty0amqfJ3K0",
+    "label": "Template for prompt: a chrome extension with a logo in the top right, a dropdown for selecting different models on the top left, a large form body for displaying an api response to a gpt chatbot and a smaller but multiline input field with a 'submit' button",
+    "dateAdded": "2024-01-23T21:20:03.368Z"
+  },
+  {
+    "url": "https://v0.dev/t/2GOEBWOG2w1",
+    "label": "Template for prompt: persian tailwind form with 4 checkbox of create,read,update,delete",
+    "dateAdded": "2024-01-23T21:20:03.368Z"
+  },
+  {
+    "url": "https://v0.dev/t/pp6YtoRM6uP",
+    "label": "Template for prompt: autocomplete field to search and select a contact",
+    "dateAdded": "2024-01-23T21:20:03.369Z"
+  },
+  {
+    "url": "https://v0.dev/t/gK4RvA9Olyz",
+    "label": "Template for prompt: Create a form component where a user can upload a PDF and select a tag/category from a dropdown ",
+    "dateAdded": "2024-01-23T21:20:03.369Z"
+  },
+  {
+    "url": "https://v0.dev/t/7ywrnuKO65x",
+    "label": "Template for prompt: can you create me the exact same thing ",
+    "dateAdded": "2024-01-23T21:20:03.369Z"
+  },
+  {
+    "url": "https://v0.dev/t/8uIJiwUMnM0",
+    "label": "Template for prompt: A landing page showing a grid",
+    "dateAdded": "2024-01-23T21:20:03.369Z"
+  },
+  {
+    "url": "https://v0.dev/t/yBf8XQbyZwY",
+    "label": "Template for prompt: A landing page with a grid of buttons that lead to separate computer diagnostic test pages",
+    "dateAdded": "2024-01-23T21:20:03.369Z"
+  },
+  {
+    "url": "https://v0.dev/t/pko5x7WYHgc",
+    "label": "Template for prompt: I want to show cards in a list that will hold projects at the end of the list I want another card with a dotted boarder and says add new project",
+    "dateAdded": "2024-01-23T21:20:03.369Z"
+  },
+  {
+    "url": "https://v0.dev/t/jww59BE4N6t",
+    "label": "Template for prompt: generate a question form. which will include these fields title, hint and questiontype. ensure that i can add options  on button click based on the question type and select the correct answer from a dropdown",
+    "dateAdded": "2024-01-23T21:20:03.370Z"
+  },
+  {
+    "url": "https://v0.dev/t/MdBxM8Ja5LS",
+    "label": "Template for prompt: Create a search ux. There search parameters are four sets of models. There are four classes of models with different selection requirements. There are hundreds of each class to choose from.\n\n1) Investment Universe Models. Limit 1, but selecting one is not required.\n2) Signal Models. Minimum: 1. No upper limit. Include a SELECT ALL button.\n3) Context Models. Minimum: 0. No upper limit. Include a SELECT ALL button.\n4) Trading Tactics. Minimum: 1. No upper limit. Include a SELECT ALL button.\n\nThe final parameter for the search is a timespan. The user must select a start/end date.\n\nKeep it tidy and beautiful. ",
+    "dateAdded": "2024-01-23T21:20:03.370Z"
+  },
+  {
+    "url": "https://v0.dev/t/KaIrFtaJePR",
+    "label": "Template for prompt: A admin dashboard for managing an ecommerce store",
+    "dateAdded": "2024-01-23T21:20:03.370Z"
+  },
+  {
+    "url": "https://v0.dev/t/RY3dibyIoPH",
+    "label": "Template for prompt: make a website personal ",
+    "dateAdded": "2024-01-23T21:20:03.370Z"
+  },
+  {
+    "url": "https://v0.dev/t/OUU8q69hMYg",
+    "label": "Template for prompt: Wiki for Palworld",
+    "dateAdded": "2024-01-23T21:20:03.370Z"
+  },
+  {
+    "url": "https://v0.dev/t/EBSBRQ1hiGb",
+    "label": "Template for prompt: A vertical list of days with a progress bar on how many people are working that day",
+    "dateAdded": "2024-01-23T21:20:03.370Z"
+  },
+  {
+    "url": "https://v0.dev/t/MIIjriMHSoz",
+    "label": "Template for prompt: lav en Om os side",
+    "dateAdded": "2024-01-23T21:20:03.371Z"
+  },
+  {
+    "url": "https://v0.dev/t/7syeSj0oiAx",
+    "label": "Template for prompt: A list of days with an indicator for selected days",
+    "dateAdded": "2024-01-23T21:20:03.371Z"
+  },
+  {
+    "url": "https://v0.dev/t/7UJZTnEtB9W",
+    "label": "Template for prompt: sales team forecast, directors view, form page for team leads to submit SDR KPI, insights page, minimalistic ",
+    "dateAdded": "2024-01-23T21:20:03.371Z"
+  },
+  {
+    "url": "https://v0.dev/t/YfLaDCKp9Dg",
+    "label": "Template for prompt: a list of selectable people with a select dropdown ",
+    "dateAdded": "2024-01-23T21:20:03.371Z"
+  },
+  {
+    "url": "https://v0.dev/t/eSgyxBZBzNM",
+    "label": "Template for prompt: A styled saas with side bar and nav bar to Create flashcards for memorization of topics ",
+    "dateAdded": "2024-01-23T21:20:03.371Z"
+  },
+  {
+    "url": "https://v0.dev/t/2HkRtVDc7d7",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T21:20:03.371Z"
+  },
+  {
+    "url": "https://v0.dev/t/iXnZpu9xiRX",
+    "label": "Template for prompt: Create a search ux. There search parameters are four sets of models. There are four classes of models with different selection requirements. There are hundreds of each class to choose from.\n\n1) Investment Universe Models. Limit 1, but selecting one is not required.\n2) Signal Models. Minimum: 1. No upper limit. Include a SELECT ALL button.\n3) Context Models. Minimum: 0. No upper limit. Include a SELECT ALL button.\n4) Trading Tactics. Minimum: 1. No upper limit. Include a SELECT ALL button.\n\nThe final parameter for the search is a timespan. The user must select a start/end date.\n\nKeep it tidy and beautiful. ",
+    "dateAdded": "2024-01-23T21:20:03.372Z"
+  },
+  {
+    "url": "https://v0.dev/t/syf2AVY3i2y",
+    "label": "Template for prompt: can you build me a simple html version of the old bookmarking service delicio.us that is near mirror image of its former self",
+    "dateAdded": "2024-01-23T21:20:03.372Z"
+  },
+  {
+    "url": "https://v0.dev/t/YHpTUXmLXfg",
+    "label": "Template for prompt: This is a svg element which is used in lottie animation in next js app. Why its not taking full height. I need to use full height",
+    "dateAdded": "2024-01-23T21:20:03.372Z"
   }
 ]
