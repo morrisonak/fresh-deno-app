@@ -50688,5 +50688,135 @@
     "url": "https://v0.dev/t/xUE5RDMB43P",
     "label": "Template for prompt: generate a login page which will allow only outlook authentication",
     "dateAdded": "2024-01-23T17:40:02.984Z"
+  },
+  {
+    "url": "https://v0.dev/t/TC6rPMG83p9",
+    "label": "Template for prompt: make this navbar using tailwind css",
+    "dateAdded": "2024-01-23T17:45:03.376Z"
+  },
+  {
+    "url": "https://v0.dev/t/0FX3st96MUs",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-23T17:45:03.376Z"
+  },
+  {
+    "url": "https://v0.dev/t/JnPrHzYlfGt",
+    "label": "Template for prompt: can u create a custom form (nAV LIKE erp) but details such as general details , et.c seperated by cards",
+    "dateAdded": "2024-01-23T17:45:03.376Z"
+  },
+  {
+    "url": "https://v0.dev/t/wF6vxtpNoZs",
+    "label": "Template for prompt: Make me a login/sign in page for a pizza shop",
+    "dateAdded": "2024-01-23T17:45:03.376Z"
+  },
+  {
+    "url": "https://v0.dev/t/6t2zUMe4u7W",
+    "label": "Template for prompt: Make me a login/sign in page for a pizza shop",
+    "dateAdded": "2024-01-23T17:45:03.376Z"
+  },
+  {
+    "url": "https://v0.dev/t/UdXSTSb0zyi",
+    "label": "Template for prompt: Make me a login/sign in page for a pizza shop",
+    "dateAdded": "2024-01-23T17:45:03.377Z"
+  },
+  {
+    "url": "https://v0.dev/t/3Xse2ys2PCN",
+    "label": "Template for prompt: Generate a visually stimulating and educational assessment interface that incorporates gamification elements. Use vibrant, motivating colors and graphics to create a lively atmosphere. Include progress trackers, badges, and interactive feedback to engage and encourage users throughout the assessment.",
+    "dateAdded": "2024-01-23T17:45:03.377Z"
+  },
+  {
+    "url": "https://v0.dev/t/BYTuTI04PTD",
+    "label": "Template for prompt: Generate a visually stimulating and educational assessment interface that incorporates gamification elements. Use vibrant, motivating colors and graphics to create a lively atmosphere. Include progress trackers, badges, and interactive feedback to engage and encourage users throughout the assessment.",
+    "dateAdded": "2024-01-23T17:45:03.377Z"
+  },
+  {
+    "url": "https://v0.dev/t/7w0Itu0W1o6",
+    "label": "Template for prompt: Make me a horizontal guage that has 33%, 66% and 100% like a progress bar",
+    "dateAdded": "2024-01-23T17:45:03.377Z"
+  },
+  {
+    "url": "https://v0.dev/t/OmsbdeIrHy4",
+    "label": "Template for prompt: create a beautiful purple navbar",
+    "dateAdded": "2024-01-23T17:45:03.378Z"
+  },
+  {
+    "url": "https://v0.dev/t/SmGXqUKE8K6",
+    "label": "Template for prompt: can u create a custom form registration(for ERP systems like NAV)",
+    "dateAdded": "2024-01-23T17:45:03.378Z"
+  },
+  {
+    "url": "https://v0.dev/t/MPwFFZiroDS",
+    "label": "Template for prompt: carousell",
+    "dateAdded": "2024-01-23T17:45:03.378Z"
+  },
+  {
+    "url": "https://v0.dev/t/gqOC92m9sVF",
+    "label": "Template for prompt: create a sidebar that appears and disappears with a button that has a arrow icon",
+    "dateAdded": "2024-01-23T17:45:03.378Z"
+  },
+  {
+    "url": "https://v0.dev/t/t3lnL9q34vJ",
+    "label": "Template for prompt: create a sidebar that appears and disappears with a button that has a arrow icon",
+    "dateAdded": "2024-01-23T17:45:03.378Z"
+  },
+  {
+    "url": "https://v0.dev/t/LxRWN9RPnA7",
+    "label": "Template for prompt: Generate the themeing page of an app designed to allow users to create their own apps. Theming should be simple, and the UI should change automatically as different colours are selected",
+    "dateAdded": "2024-01-23T17:45:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/UBjMc5EtqQt",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-23T17:45:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/ALjTSnhYRee",
+    "label": "Template for prompt: fix select: import React, { useEffect, useState } from 'react';\nimport Select from 'react-select';\nimport { accountsData } from '../storage/chartAccountsData';\n\nexport default function ManualJournal() {\n\n    const journalItems = { description: '', accounting_Code: 'sales', tax_Rate: 0, debit: 0, credit: 0 };\n\n    const [journalData, setJournalData] = useState({\n        jornal_date: '',\n        dueDate: '',\n        contact: '',\n        jornalNo: '',\n        narration: '',\n        items: [journalItems,],\n        subTotal: 0,\n        taxTotal: 0,\n        total: 0,\n    });\n\n    \n\n    useEffect(() => {\n\n        const today = new Date().toISOString().split('T')[0];\n\n        setJournalData(prevData => ({\n            ...prevData,\n            jornal_date: today,\n        }));\n\n    }, []);\n\n    function toTitleCase(str) {\n        return str\n            .toLowerCase()\n            .split('_')\n            .map(word => word.charAt(0).toUpperCase() + word.slice(1))\n            .join(' ');\n    };\n\n   ",
+    "dateAdded": "2024-01-23T17:45:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/vrlivs6TfWl",
+    "label": "Template for prompt: football cards ecommerce store",
+    "dateAdded": "2024-01-23T17:45:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/j6iDQaas2hZ",
+    "label": "Template for prompt: A blog site for building custom mechanical keyboards",
+    "dateAdded": "2024-01-23T17:45:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/T3o71Cj9ior",
+    "label": "Template for prompt: Quiero un diseño hermoso, quiero para responder un correo.\nun h1 que diga en color pastel, \"Gracias por tu mensaje\"\ny un parrafo RECUERDA: \"Nosotros no hacemos entrevistas a las personas que postulan, no recibimos Documentos adjuntados de currículum/hojas de vida, ni tampoco datos personales. Además, NUNCA cobraremos, ni recibiremos dinero alguno de nuestros visitantes por un puesto de trabajo, Solo brindarte la información necesaria sobre los empleos que se encuentran en tu zona o país.\n\n\"\n\ny Un llamado ala acción de BOTON \"POSTULAR\"",
+    "dateAdded": "2024-01-23T17:45:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/FR2dfKcp9cD",
+    "label": "Template for prompt: Add an are you sure modal for delete",
+    "dateAdded": "2024-01-23T17:45:03.380Z"
+  },
+  {
+    "url": "https://v0.dev/t/WgTGU1lwmVK",
+    "label": "Template for prompt: A minimalist signup form",
+    "dateAdded": "2024-01-23T17:45:03.380Z"
+  },
+  {
+    "url": "https://v0.dev/t/ohIcqErfxPH",
+    "label": "Template for prompt: can u create a purchase form",
+    "dateAdded": "2024-01-23T17:45:03.380Z"
+  },
+  {
+    "url": "https://v0.dev/t/bfXlUJEsa0v",
+    "label": "Template for prompt: text editor with undo, redo buttons, font icon, bold and italics",
+    "dateAdded": "2024-01-23T17:45:03.380Z"
+  },
+  {
+    "url": "https://v0.dev/t/xC0D71W6Ox4",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T17:45:03.380Z"
+  },
+  {
+    "url": "https://v0.dev/t/o9Ob4o7y0YM",
+    "label": "Template for prompt: Create a responsive flex box with cards 2x2",
+    "dateAdded": "2024-01-23T17:45:03.381Z"
   }
 ]
