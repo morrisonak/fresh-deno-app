@@ -54253,5 +54253,125 @@
     "url": "https://v0.dev/t/j9WfxnYPEIk",
     "label": "Template for prompt: a website that is similar to BussSumoz monitoring page",
     "dateAdded": "2024-01-23T20:00:02.815Z"
+  },
+  {
+    "url": "https://v0.dev/t/MRBNpUOPIFt",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-23T20:05:02.552Z"
+  },
+  {
+    "url": "https://v0.dev/t/Cy0yBxtZBZB",
+    "label": "Template for prompt: a single page styled like a terminal ui from the 90's",
+    "dateAdded": "2024-01-23T20:05:02.552Z"
+  },
+  {
+    "url": "https://v0.dev/t/wKl87RdUeXs",
+    "label": "Template for prompt: crud form budget for services searching ",
+    "dateAdded": "2024-01-23T20:05:02.552Z"
+  },
+  {
+    "url": "https://v0.dev/t/cXnB4YacCLI",
+    "label": "Template for prompt: crud form budget for services searching ",
+    "dateAdded": "2024-01-23T20:05:02.552Z"
+  },
+  {
+    "url": "https://v0.dev/t/9CSrTKiY0XG",
+    "label": "Template for prompt: a coming soon landing page with a hero and tagline with an email textbox to subscribe when its ready. Add a bege background color with some gradient. Don't use shadcn. Only tailwind",
+    "dateAdded": "2024-01-23T20:05:02.552Z"
+  },
+  {
+    "url": "https://v0.dev/t/ypaNxa3cmef",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-23T20:05:02.552Z"
+  },
+  {
+    "url": "https://v0.dev/t/nmBxDXTi7D7",
+    "label": "Template for prompt: gym, professional",
+    "dateAdded": "2024-01-23T20:05:02.553Z"
+  },
+  {
+    "url": "https://v0.dev/t/ePeGk9JmLof",
+    "label": "Template for prompt: app to locate something",
+    "dateAdded": "2024-01-23T20:05:02.553Z"
+  },
+  {
+    "url": "https://v0.dev/t/E8DaNdDF68L",
+    "label": "Template for prompt: A portfolio for software engineer",
+    "dateAdded": "2024-01-23T20:05:02.553Z"
+  },
+  {
+    "url": "https://v0.dev/t/miWXtccewRJ",
+    "label": "Template for prompt: gym website",
+    "dateAdded": "2024-01-23T20:05:02.553Z"
+  },
+  {
+    "url": "https://v0.dev/t/mUlabXWWoaY",
+    "label": "Template for prompt: landing page for magazine",
+    "dateAdded": "2024-01-23T20:05:02.553Z"
+  },
+  {
+    "url": "https://v0.dev/t/1Jyd54u6qzY",
+    "label": "Template for prompt: do me the exact same thing ",
+    "dateAdded": "2024-01-23T20:05:02.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/CV94VhEZaAI",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T20:05:02.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/s16FvYIrvXJ",
+    "label": "Template for prompt: carousel with pagination  responsive ",
+    "dateAdded": "2024-01-23T20:05:02.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/IOETkXqT5Dv",
+    "label": "Template for prompt: Create a card component to display information about a medical plan, like premium, deductible, carrier, and the plan name",
+    "dateAdded": "2024-01-23T20:05:02.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/SzECL96o35f",
+    "label": "Template for prompt: Generate a dashboard for e learning platform like leetcode dashboard with heat map",
+    "dateAdded": "2024-01-23T20:05:02.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/rwUSiWxazfr",
+    "label": "Template for prompt: give me an example table using this screenshot",
+    "dateAdded": "2024-01-23T20:05:02.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/AtAwewORgWZ",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-23T20:05:02.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/Hfieo5TDIky",
+    "label": "Template for prompt: profile",
+    "dateAdded": "2024-01-23T20:05:02.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/gBWu1jeKUtB",
+    "label": "Template for prompt: create a simple layout which has a left sidebar and a short top bar. \n\ni will be wrapping this with shadcn theme-provider to use dark/ light mode theme\n\nthis should have the following capabilties:\n- light/ dark theme switcher on the top bar\n- navbar links on the left sidebar\n- a place where i can put my logo\n- main body which will render children\n\n",
+    "dateAdded": "2024-01-23T20:05:02.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/oqkdrvmvbSO",
+    "label": "Template for prompt: bill splitting ui with friends",
+    "dateAdded": "2024-01-23T20:05:02.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/YiAZf5CTYYk",
+    "label": "Template for prompt: a coming soon landing page with a hero and tagline with a textbox to subscribe when its ready.  It needs to have a logo on the top left of the page. The logo can be a text with WorkTrust. Add a light background color with some gradient",
+    "dateAdded": "2024-01-23T20:05:02.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/SG7J1ordCXe",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-23T20:05:02.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/RhMqDlFVyy0",
+    "label": "Template for prompt: icon with the letters S and P forming curves. The brand is called StotyPlot.",
+    "dateAdded": "2024-01-23T20:05:02.556Z"
   }
 ]
