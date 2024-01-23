@@ -55638,5 +55638,135 @@
     "url": "https://v0.dev/t/yjEnYU9kiok",
     "label": "Template for prompt: layout with media on the right for larger screens and media below the text on smaller screens.",
     "dateAdded": "2024-01-23T20:55:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/kphxqBGlyOo",
+    "label": "Template for prompt: a login page for claims and invoices. large button to view the page, three boxes at the bottom highlighting features and support",
+    "dateAdded": "2024-01-23T21:00:02.949Z"
+  },
+  {
+    "url": "https://v0.dev/t/kmL66qwB4Os",
+    "label": "Template for prompt: این صفحه از سایت با دقت بالاتر طراحی کن",
+    "dateAdded": "2024-01-23T21:00:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/JIGDPsHqzdV",
+    "label": "Template for prompt: elearning",
+    "dateAdded": "2024-01-23T21:00:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/tNNKIKcLBL5",
+    "label": "Template for prompt: Home Page for Barber",
+    "dateAdded": "2024-01-23T21:00:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/fyWmaonA5Ty",
+    "label": "Template for prompt: create a page for course details which shows the course topics",
+    "dateAdded": "2024-01-23T21:00:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/NxnTVEV1WBO",
+    "label": "Template for prompt: Простой Таймер для Помодоро Техники",
+    "dateAdded": "2024-01-23T21:00:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/5TsmkqZ7tPs",
+    "label": "Template for prompt: create a model of a new gaming website with a nice  T LOGO on the ight top",
+    "dateAdded": "2024-01-23T21:00:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/NcjsUzjUBLd",
+    "label": "Template for prompt: I uploaded an image its s sticky contact bar with three buttons.",
+    "dateAdded": "2024-01-23T21:00:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/GTdW64NQ4At",
+    "label": "Template for prompt: User\nCreate a search ux using daisyUI. We're selecting which \"models\" we'd like to use for our search. There could potentially be hundreds of each model type, so be mindful of that when designing the ux. There are four classes of models with different selection requirements.\n\n1) Investment Universe Models. Limit 1, but selecting one is not required.\n2) Signal Models. Minimum: 1. No upper limit. Include a SELECT ALL button.\n3) Context Models. Minimum: 0. No upper limit. Include a SELECT ALL button.\n4) Trading Tactics. Minimum: 1. No upper limit. Include a SELECT ALL button.\n\nThe final parameter for the search is a timespan. The user must select a start/end date, which will default to the last 90 days.\n\nKeep it simple and beautiful. ",
+    "dateAdded": "2024-01-23T21:00:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/TyzOjxP8b4Y",
+    "label": "Template for prompt: این صفحه از سایت با دقت بالا طراحی کن",
+    "dateAdded": "2024-01-23T21:00:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/B1tHRipSlIS",
+    "label": "Template for prompt: two columns, four rows, in each cell title text and image with a link on the right bottom",
+    "dateAdded": "2024-01-23T21:00:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/BN4XiYIe36i",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T21:00:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/QhIuqmw5lMP",
+    "label": "Template for prompt: a datagrid for adding dooh inventory to address program",
+    "dateAdded": "2024-01-23T21:00:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/BuoCN49UX9Y",
+    "label": "Template for prompt: notion like settings menu",
+    "dateAdded": "2024-01-23T21:00:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/1XEBDhj4KCI",
+    "label": "Template for prompt: A payment application that enables users to pay in installments.",
+    "dateAdded": "2024-01-23T21:00:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/Vz9nFeQa8Hx",
+    "label": "Template for prompt: a page that displays store items with the prices for each store (there can be 1-3 stores for an item). a seperate searchbar and sepeerate navbar at top",
+    "dateAdded": "2024-01-23T21:00:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/kRgSB1KV88O",
+    "label": "Template for prompt: create a cart page, focus on the cart items",
+    "dateAdded": "2024-01-23T21:00:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/NgNqZNvgQ5j",
+    "label": "Template for prompt: introduction section for frontend developer personal blog website",
+    "dateAdded": "2024-01-23T21:00:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/o2YaIIkmx1x",
+    "label": "Template for prompt: landing page for my productivity app",
+    "dateAdded": "2024-01-23T21:00:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/2mOt1DVDDZY",
+    "label": "Template for prompt: A marketplace for scheduling ",
+    "dateAdded": "2024-01-23T21:00:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/VR3fRAXUZRO",
+    "label": "Template for prompt: Header for a blog",
+    "dateAdded": "2024-01-23T21:00:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/kru19sMJoiI",
+    "label": "Template for prompt: Styled Nextjs app to Create memorization flash cards for a given topic ",
+    "dateAdded": "2024-01-23T21:00:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/ALZuhvNe4aX",
+    "label": "Template for prompt: design a student card for school website",
+    "dateAdded": "2024-01-23T21:00:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/2gfzhSCwTZD",
+    "label": "Template for prompt: Скопируй данный сайт - https://zavolga.net/",
+    "dateAdded": "2024-01-23T21:00:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/pexvLBhav5t",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-23T21:00:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/I7IbYHj8qP5",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-23T21:00:02.955Z"
   }
 ]
