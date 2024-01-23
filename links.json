@@ -50563,5 +50563,130 @@
     "url": "https://v0.dev/t/ndhURg3Ry3C",
     "label": "Template for prompt: create a table with filter and search",
     "dateAdded": "2024-01-23T17:35:02.868Z"
+  },
+  {
+    "url": "https://v0.dev/t/xC0D71W6Ox4",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T17:40:02.979Z"
+  },
+  {
+    "url": "https://v0.dev/t/o9Ob4o7y0YM",
+    "label": "Template for prompt: Create a responsive flex box with cards 2x2",
+    "dateAdded": "2024-01-23T17:40:02.979Z"
+  },
+  {
+    "url": "https://v0.dev/t/3rwtjSaA6ov",
+    "label": "Template for prompt: Make me a Typescript 2 x 3 grid with large cards",
+    "dateAdded": "2024-01-23T17:40:02.979Z"
+  },
+  {
+    "url": "https://v0.dev/t/3eKRn9puRJx",
+    "label": "Template for prompt: football cards ecommerce store",
+    "dateAdded": "2024-01-23T17:40:02.979Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q3UZEvMJSk4",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T17:40:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/r8ARiMGAOCW",
+    "label": "Template for prompt: generate code projects",
+    "dateAdded": "2024-01-23T17:40:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y5AtxqCw9dJ",
+    "label": "Template for prompt: Make a Twitter (X) clone. Have a nice blur on the topbar",
+    "dateAdded": "2024-01-23T17:40:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/iAY5jaaDLPF",
+    "label": "Template for prompt: crea un formulario de redes sociales en html y tailwwindcss",
+    "dateAdded": "2024-01-23T17:40:02.980Z"
+  },
+  {
+    "url": "https://v0.dev/t/b803N063qn8",
+    "label": "Template for prompt: Please give me a better UI for this",
+    "dateAdded": "2024-01-23T17:40:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/USGFtdFrzAN",
+    "label": "Template for prompt: Please give me a better UI for this",
+    "dateAdded": "2024-01-23T17:40:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/4zuWoW3U6NZ",
+    "label": "Template for prompt: a beautiful and pixel perfect login form, huge image, apple design",
+    "dateAdded": "2024-01-23T17:40:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/PFmsOhew9J0",
+    "label": "Template for prompt: admin dashboard in orange colors and a list of roles which can be assigned to users",
+    "dateAdded": "2024-01-23T17:40:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/dxQfhHBf8fA",
+    "label": "Template for prompt: A  sidebar at the right and a content section in the middle",
+    "dateAdded": "2024-01-23T17:40:02.981Z"
+  },
+  {
+    "url": "https://v0.dev/t/oVE4ADKFeFG",
+    "label": "Template for prompt: Design a sophisticated yet user-friendly interactive quiz layout that integrates elements of the company's branding. Incorporate a color scheme that reflects professionalism and accessibility, with clear typography and intuitive navigation for a seamless user experience.",
+    "dateAdded": "2024-01-23T17:40:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/BFILOTta2Gd",
+    "label": "Template for prompt: make me a calendar for making appointments with shadcn",
+    "dateAdded": "2024-01-23T17:40:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/xGHYiuwUWk2",
+    "label": "Template for prompt: minimalist page to book time on someone's calendar, great for appointment booking, very similar to calendly, with a suite of generative AI features to simplify and help the process",
+    "dateAdded": "2024-01-23T17:40:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y0SWi1d0RDZ",
+    "label": "Template for prompt: A video player that has an overlay interface for annotations about target language subtitles",
+    "dateAdded": "2024-01-23T17:40:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/XBPwBpMWe66",
+    "label": "Template for prompt: air alert",
+    "dateAdded": "2024-01-23T17:40:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/P3xc9DF9TbZ",
+    "label": "Template for prompt: Make me a 2x3 grid and have the cards be blank",
+    "dateAdded": "2024-01-23T17:40:02.983Z"
+  },
+  {
+    "url": "https://v0.dev/t/HbR4KlhBHqZ",
+    "label": "Template for prompt: A GitHub dashboard can have several features to provide a comprehensive overview of your GitHub activity and repositories. Here are some features you might consider implementing:\n\nRepository Overview:\n\nDisplay a list of your repositories with key information like the repository name, description, stars, forks, and the primary language used.\nRecent Activities:\n\nShow a feed of your recent GitHub activities, including pushes, pull requests, issues opened/closed, and comments.\nIssues and Pull Requests:\n\nProvide a section that lists your open issues and pull requests across all repositories. Include details like the title, status, and last update timestamp.\nContributor Insights:\n\nDisplay statistics on contributors to your repositories, such as the number of commits, pull requests submitted, and issues resolved.\nCode Review Status:\n\nInclude a section that summarizes the status of code reviews for your pull requests, indicating whether they are pending, approved, or need changes.\nCommit Histo",
+    "dateAdded": "2024-01-23T17:40:02.983Z"
+  },
+  {
+    "url": "https://v0.dev/t/k9yn8MoSnCn",
+    "label": "Template for prompt: model overview page for the GMC Sierra 1500",
+    "dateAdded": "2024-01-23T17:40:02.983Z"
+  },
+  {
+    "url": "https://v0.dev/t/CZHIRIeKksi",
+    "label": "Template for prompt: A title bar that says 'AWS Modernization' with a purple gradient background",
+    "dateAdded": "2024-01-23T17:40:02.983Z"
+  },
+  {
+    "url": "https://v0.dev/t/kdUiOqIgsXE",
+    "label": "Template for prompt: create the masnory image grid design with shimmer loading and responsive",
+    "dateAdded": "2024-01-23T17:40:02.983Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q5BmiygoRuI",
+    "label": "Template for prompt: Make me a login/sign in page for a pizza shop",
+    "dateAdded": "2024-01-23T17:40:02.984Z"
+  },
+  {
+    "url": "https://v0.dev/t/xUE5RDMB43P",
+    "label": "Template for prompt: generate a login page which will allow only outlook authentication",
+    "dateAdded": "2024-01-23T17:40:02.984Z"
   }
 ]
