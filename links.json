@@ -56288,5 +56288,135 @@
     "url": "https://v0.dev/t/YHpTUXmLXfg",
     "label": "Template for prompt: This is a svg element which is used in lottie animation in next js app. Why its not taking full height. I need to use full height",
     "dateAdded": "2024-01-23T21:20:03.372Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZmNRyBd6WwI",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-23T21:25:02.644Z"
+  },
+  {
+    "url": "https://v0.dev/t/Plz4oFyeKvu",
+    "label": "Template for prompt: make a crm dashboard",
+    "dateAdded": "2024-01-23T21:25:02.644Z"
+  },
+  {
+    "url": "https://v0.dev/t/AhIGwAY1DZY",
+    "label": "Template for prompt: A home section of a portfolio website",
+    "dateAdded": "2024-01-23T21:25:02.644Z"
+  },
+  {
+    "url": "https://v0.dev/t/mMJdlW7pcIH",
+    "label": "Template for prompt: 一个聊天对话页。上面是聊天记录，一来一回，一边是AI（扮演某个角色），一边是用户。下面是对话框，又一个发送按钮，按钮的图标是笔。",
+    "dateAdded": "2024-01-23T21:25:02.644Z"
+  },
+  {
+    "url": "https://v0.dev/t/wWc9oiLNyqr",
+    "label": "Template for prompt: An SaaS dashboard with a sidebar navigation and a table of contests",
+    "dateAdded": "2024-01-23T21:25:02.644Z"
+  },
+  {
+    "url": "https://v0.dev/t/i08d7eR98kt",
+    "label": "Template for prompt: a landing page for my startup called cloud castle",
+    "dateAdded": "2024-01-23T21:25:02.644Z"
+  },
+  {
+    "url": "https://v0.dev/t/4fOfAaC8ol6",
+    "label": "Template for prompt: fixed navbar with a fixed side panel",
+    "dateAdded": "2024-01-23T21:25:02.644Z"
+  },
+  {
+    "url": "https://v0.dev/t/z2x44RHcgx0",
+    "label": "Template for prompt: can you create a table with this columnds: #ID\tNombre completo\tEstado\tOpciones\tEliminar, need to be responsive to desktop and mobile and use tailwind for the classes. ",
+    "dateAdded": "2024-01-23T21:25:02.644Z"
+  },
+  {
+    "url": "https://v0.dev/t/pYFfytAhZR0",
+    "label": "Template for prompt: create a chatbot",
+    "dateAdded": "2024-01-23T21:25:02.645Z"
+  },
+  {
+    "url": "https://v0.dev/t/B0C4WgoBRs0",
+    "label": "Template for prompt: a modal dialog with a user selector combobox that includes the avatar, name and email address of a list of users.",
+    "dateAdded": "2024-01-23T21:25:02.645Z"
+  },
+  {
+    "url": "https://v0.dev/t/vVQTmHDdbXs",
+    "label": "Template for prompt: I need the information of the first screenshot with the style of the second screenshot, responsive",
+    "dateAdded": "2024-01-23T21:25:02.645Z"
+  },
+  {
+    "url": "https://v0.dev/t/ahDZw0vKE9s",
+    "label": "Template for prompt: An admin dashboard",
+    "dateAdded": "2024-01-23T21:25:02.645Z"
+  },
+  {
+    "url": "https://v0.dev/t/7wlktptbpDX",
+    "label": "Template for prompt: header for a e-commerce that sells art ",
+    "dateAdded": "2024-01-23T21:25:02.645Z"
+  },
+  {
+    "url": "https://v0.dev/t/k45ziSFqvZD",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T21:25:02.645Z"
+  },
+  {
+    "url": "https://v0.dev/t/PpQUZiaafxl",
+    "label": "Template for prompt: una web con una tabla de 14 columnas con colores azul y naranja",
+    "dateAdded": "2024-01-23T21:25:02.645Z"
+  },
+  {
+    "url": "https://v0.dev/t/8DbxddxN7rN",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-23T21:25:02.646Z"
+  },
+  {
+    "url": "https://v0.dev/t/L5xHbg8TM0T",
+    "label": "Template for prompt: tabla minimalista colores azul y naranja",
+    "dateAdded": "2024-01-23T21:25:02.646Z"
+  },
+  {
+    "url": "https://v0.dev/t/QeNHDnNtQY9",
+    "label": "Template for prompt: tabla minimalista colores azul y naranja",
+    "dateAdded": "2024-01-23T21:25:02.646Z"
+  },
+  {
+    "url": "https://v0.dev/t/ty0amqfJ3K0",
+    "label": "Template for prompt: a chrome extension with a logo in the top right, a dropdown for selecting different models on the top left, a large form body for displaying an api response to a gpt chatbot and a smaller but multiline input field with a 'submit' button",
+    "dateAdded": "2024-01-23T21:25:02.646Z"
+  },
+  {
+    "url": "https://v0.dev/t/2GOEBWOG2w1",
+    "label": "Template for prompt: persian tailwind form with 4 checkbox of create,read,update,delete",
+    "dateAdded": "2024-01-23T21:25:02.646Z"
+  },
+  {
+    "url": "https://v0.dev/t/pp6YtoRM6uP",
+    "label": "Template for prompt: autocomplete field to search and select a contact",
+    "dateAdded": "2024-01-23T21:25:02.646Z"
+  },
+  {
+    "url": "https://v0.dev/t/gK4RvA9Olyz",
+    "label": "Template for prompt: Create a form component where a user can upload a PDF and select a tag/category from a dropdown ",
+    "dateAdded": "2024-01-23T21:25:02.646Z"
+  },
+  {
+    "url": "https://v0.dev/t/7ywrnuKO65x",
+    "label": "Template for prompt: can you create me the exact same thing ",
+    "dateAdded": "2024-01-23T21:25:02.646Z"
+  },
+  {
+    "url": "https://v0.dev/t/8uIJiwUMnM0",
+    "label": "Template for prompt: A landing page showing a grid",
+    "dateAdded": "2024-01-23T21:25:02.647Z"
+  },
+  {
+    "url": "https://v0.dev/t/yBf8XQbyZwY",
+    "label": "Template for prompt: A landing page with a grid of buttons that lead to separate computer diagnostic test pages",
+    "dateAdded": "2024-01-23T21:25:02.647Z"
+  },
+  {
+    "url": "https://v0.dev/t/pko5x7WYHgc",
+    "label": "Template for prompt: I want to show cards in a list that will hold projects at the end of the list I want another card with a dotted boarder and says add new project",
+    "dateAdded": "2024-01-23T21:25:02.647Z"
   }
 ]
