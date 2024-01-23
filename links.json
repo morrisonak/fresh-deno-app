@@ -58433,5 +58433,130 @@
     "url": "https://v0.dev/t/DVbijG38ATX",
     "label": "Template for prompt: a chat application",
     "dateAdded": "2024-01-23T22:45:03.072Z"
+  },
+  {
+    "url": "https://v0.dev/t/OWOcxoi1zth",
+    "label": "Template for prompt: simple server that sends a post request with options. \nIt has a log ( request logs ), has a realm code option, and can only crash 3 at  a time.",
+    "dateAdded": "2024-01-23T22:50:02.347Z"
+  },
+  {
+    "url": "https://v0.dev/t/jtJQjXMfWss",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T22:50:02.347Z"
+  },
+  {
+    "url": "https://v0.dev/t/8ODpddAzyEk",
+    "label": "Template for prompt: A landing page for a homecall vet service, call to action to phone",
+    "dateAdded": "2024-01-23T22:50:02.347Z"
+  },
+  {
+    "url": "https://v0.dev/t/rGUpxo1MekX",
+    "label": "Template for prompt: a product list page, showcasing different office spaces for renting, ui similar to zillow",
+    "dateAdded": "2024-01-23T22:50:02.348Z"
+  },
+  {
+    "url": "https://v0.dev/t/Uzd0eU3PW3t",
+    "label": "Template for prompt: a start page for a note manager desktop application",
+    "dateAdded": "2024-01-23T22:50:02.348Z"
+  },
+  {
+    "url": "https://v0.dev/t/CZEeWCBJbQA",
+    "label": "Template for prompt: generate a simple about page using daisy ui",
+    "dateAdded": "2024-01-23T22:50:02.348Z"
+  },
+  {
+    "url": "https://v0.dev/t/MhJrekFrRBd",
+    "label": "Template for prompt: login dashboard form",
+    "dateAdded": "2024-01-23T22:50:02.348Z"
+  },
+  {
+    "url": "https://v0.dev/t/yZSoLzaBn13",
+    "label": "Template for prompt: Help me make a profile dashboard page for a fantasy sports website with a black background and white trimmings",
+    "dateAdded": "2024-01-23T22:50:02.348Z"
+  },
+  {
+    "url": "https://v0.dev/t/VcpBVuUik0M",
+    "label": "Template for prompt: a product list page for multiple real estate listings",
+    "dateAdded": "2024-01-23T22:50:02.349Z"
+  },
+  {
+    "url": "https://v0.dev/t/lAqqUtGxBX1",
+    "label": "Template for prompt: Draggable chart widgets",
+    "dateAdded": "2024-01-23T22:50:02.349Z"
+  },
+  {
+    "url": "https://v0.dev/t/D3RGp9AYjx9",
+    "label": "Template for prompt: grid",
+    "dateAdded": "2024-01-23T22:50:02.349Z"
+  },
+  {
+    "url": "https://v0.dev/t/vgR2VlX1rk2",
+    "label": "Template for prompt: account card for sidebar ",
+    "dateAdded": "2024-01-23T22:50:02.349Z"
+  },
+  {
+    "url": "https://v0.dev/t/5sGh9bDMdat",
+    "label": "Template for prompt: A checkout page to buy cats",
+    "dateAdded": "2024-01-23T22:50:02.350Z"
+  },
+  {
+    "url": "https://v0.dev/t/nJga5mbG6B8",
+    "label": "Template for prompt: language learning app",
+    "dateAdded": "2024-01-23T22:50:02.350Z"
+  },
+  {
+    "url": "https://v0.dev/t/M0AC59uWocn",
+    "label": "Template for prompt: Create me a table with three columns name, surname, birth. Add search and filtering ",
+    "dateAdded": "2024-01-23T22:50:02.350Z"
+  },
+  {
+    "url": "https://v0.dev/t/lmqYgZ6wpU4",
+    "label": "Template for prompt: create me a form wizard first section with 3 fields collecting text input for id and 2 toggle button. For the next 3 section a file upload with drag and drop functionality ",
+    "dateAdded": "2024-01-23T22:50:02.350Z"
+  },
+  {
+    "url": "https://v0.dev/t/Gt72Izs9r7h",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T22:50:02.350Z"
+  },
+  {
+    "url": "https://v0.dev/t/VD9L8vOFrfM",
+    "label": "Template for prompt: food recipes cards",
+    "dateAdded": "2024-01-23T22:50:02.351Z"
+  },
+  {
+    "url": "https://v0.dev/t/ckLneDXUdOG",
+    "label": "Template for prompt: a minimalistit and clean insurance quotation web app, this is the first screen",
+    "dateAdded": "2024-01-23T22:50:02.351Z"
+  },
+  {
+    "url": "https://v0.dev/t/9gOOCAE9uXs",
+    "label": "Template for prompt: inventory ui",
+    "dateAdded": "2024-01-23T22:50:02.351Z"
+  },
+  {
+    "url": "https://v0.dev/t/VvUTi1iYEPo",
+    "label": "Template for prompt: A minimalistic blog",
+    "dateAdded": "2024-01-23T22:50:02.351Z"
+  },
+  {
+    "url": "https://v0.dev/t/2gcUaZdaq4c",
+    "label": "Template for prompt: 그리드 형식으로 만들어줘",
+    "dateAdded": "2024-01-23T22:50:02.351Z"
+  },
+  {
+    "url": "https://v0.dev/t/xX4cFai3Sxi",
+    "label": "Template for prompt: a minimal dark search engine homepage",
+    "dateAdded": "2024-01-23T22:50:02.351Z"
+  },
+  {
+    "url": "https://v0.dev/t/IVDqoYkZSGm",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-23T22:50:02.352Z"
+  },
+  {
+    "url": "https://v0.dev/t/hcMZCtvRj8G",
+    "label": "Template for prompt: create a fully responsice navbar ",
+    "dateAdded": "2024-01-23T22:50:02.352Z"
   }
 ]
