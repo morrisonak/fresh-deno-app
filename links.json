@@ -47628,5 +47628,130 @@
     "url": "https://v0.dev/t/xgBihjomLfI",
     "label": "Template for prompt: a view that displays a breakdown of costs, grouped by resource type and name",
     "dateAdded": "2024-01-23T15:40:04.316Z"
+  },
+  {
+    "url": "https://v0.dev/t/1fclSXfkauK",
+    "label": "Template for prompt: an svelte-kit ecommerce homepage like this",
+    "dateAdded": "2024-01-23T15:45:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/i5MmeRqn5qj",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T15:45:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/RHXBet0hQyK",
+    "label": "Template for prompt: A reservation details page for a car rental website",
+    "dateAdded": "2024-01-23T15:45:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/fS7TdCrsVjN",
+    "label": "Template for prompt: Create a 'Profile' section with information about the user and the subscription plan. The information that we need to display about the user are: name, email, email verified, id. The information that we need to display about the subscription plan are: subscription id, next billing date, next billing total, last invoice link and the subscription items, every item has: name, quantity and price",
+    "dateAdded": "2024-01-23T15:45:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/JnF9IigoXmN",
+    "label": "Template for prompt: make a responsive homepage for an experimental rocketry association in argentina called \"ACEMA\" by its acronym \"Asociación de Cohetería Experimental y Modelista de Argentina\", if possible with the texts in spanish and sections that you think are important for a homepage.",
+    "dateAdded": "2024-01-23T15:45:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/9KXpj3WDJ60",
+    "label": "Template for prompt: i want a card like this thats reponsive for mobile, table and desktop",
+    "dateAdded": "2024-01-23T15:45:03.314Z"
+  },
+  {
+    "url": "https://v0.dev/t/KtlUl98vLAr",
+    "label": "Template for prompt: shadcn home section logo carrusel ",
+    "dateAdded": "2024-01-23T15:45:03.314Z"
+  },
+  {
+    "url": "https://v0.dev/t/mfupnaKZ3hL",
+    "label": "Template for prompt: blog",
+    "dateAdded": "2024-01-23T15:45:03.314Z"
+  },
+  {
+    "url": "https://v0.dev/t/RJ4nwwWGcss",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T15:45:03.314Z"
+  },
+  {
+    "url": "https://v0.dev/t/JdqcUEWZtax",
+    "label": "Template for prompt: modern login page with tailwinds",
+    "dateAdded": "2024-01-23T15:45:03.314Z"
+  },
+  {
+    "url": "https://v0.dev/t/Dd1tlLh3l3s",
+    "label": "Template for prompt: a streaming website with a player in center and navbar",
+    "dateAdded": "2024-01-23T15:45:03.314Z"
+  },
+  {
+    "url": "https://v0.dev/t/XBtYSBhldcs",
+    "label": "Template for prompt: build a responsive header a logo on the left and the notifaction icon and user porfile on the right \nthe notifaction icon must be clicalbe and open a pop with all messages, the user profile also must be clickable and open a menu with contains username, userid and a button for settings",
+    "dateAdded": "2024-01-23T15:45:03.314Z"
+  },
+  {
+    "url": "https://v0.dev/t/iwcCGUesQVT",
+    "label": "Template for prompt: home page portfolio",
+    "dateAdded": "2024-01-23T15:45:03.314Z"
+  },
+  {
+    "url": "https://v0.dev/t/uMMNwvcwQmQ",
+    "label": "Template for prompt: A review section that pulls reviews from google's api",
+    "dateAdded": "2024-01-23T15:45:03.315Z"
+  },
+  {
+    "url": "https://v0.dev/t/fd5rVY8sNzZ",
+    "label": "Template for prompt: a tab group of different import options and a table below",
+    "dateAdded": "2024-01-23T15:45:03.315Z"
+  },
+  {
+    "url": "https://v0.dev/t/6R6Aat3ONoc",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-23T15:45:03.315Z"
+  },
+  {
+    "url": "https://v0.dev/t/oKr6Zr8mreg",
+    "label": "Template for prompt: can you do me the excact same thing ",
+    "dateAdded": "2024-01-23T15:45:03.315Z"
+  },
+  {
+    "url": "https://v0.dev/t/IJYCAjf3n92",
+    "label": "Template for prompt: login page with image on left and form on right",
+    "dateAdded": "2024-01-23T15:45:03.315Z"
+  },
+  {
+    "url": "https://v0.dev/t/nugFNZdZEIj",
+    "label": "Template for prompt: Give me a menu where the user can fill out their full name and upload an avatar",
+    "dateAdded": "2024-01-23T15:45:03.315Z"
+  },
+  {
+    "url": "https://v0.dev/t/pOMTaU566lu",
+    "label": "Template for prompt: a landing page of a website for raffles that has a progress bar that unlocks prizes to be raffled depending on the number of subscribers\n",
+    "dateAdded": "2024-01-23T15:45:03.315Z"
+  },
+  {
+    "url": "https://v0.dev/t/0JxTi2m5DCN",
+    "label": "Template for prompt: Create a centralized 'Integration Settings' UI that facilitates the seamless connection between the platform and various external systems. The design should include the following elements:\nATS Integration Configuration:\n\nA section dedicated to configuring Applicant Tracking Systems (ATS). Include a searchable drop-down list of popular ATS providers, and an option to enter custom API endpoints for less common systems.\nProvide a 'Connect' button that initiates an OAuth flow or a credentials input form for secure API connections, along with clear status indicators showing the connection health\n\nEnsure the UI is intuitive with a clean, professional aesthetic, using modular cards or tabs for each integration type. Include a help icon next to each integration, offering a tooltip or pop-up with detailed instructions. The design should be scalable to accommodate additional integrations in the future without overwhelming the user.",
+    "dateAdded": "2024-01-23T15:45:03.315Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qwt6g0PK1ql",
+    "label": "Template for prompt: lading page with login button",
+    "dateAdded": "2024-01-23T15:45:03.316Z"
+  },
+  {
+    "url": "https://v0.dev/t/qClRFNMETyN",
+    "label": "Template for prompt: design a user-friendly image enhancement web app with an image upload feature. Include an \"Enhance\" button, allowing users to view the enhanced image alongside the original after clicking the button.",
+    "dateAdded": "2024-01-23T15:45:03.316Z"
+  },
+  {
+    "url": "https://v0.dev/t/r5Gjj1tFjHv",
+    "label": "Template for prompt: mordern landing page with tailwinds",
+    "dateAdded": "2024-01-23T15:45:03.316Z"
+  },
+  {
+    "url": "https://v0.dev/t/WO9ZKParEBQ",
+    "label": "Template for prompt: interfaz graficiai para agregar un usuario",
+    "dateAdded": "2024-01-23T15:45:03.316Z"
   }
 ]
