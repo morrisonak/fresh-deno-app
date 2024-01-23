@@ -46853,5 +46853,135 @@
     "url": "https://v0.dev/t/c3Za6hhvGe6",
     "label": "Template for prompt: a responsive fileupload with preview",
     "dateAdded": "2024-01-23T15:10:03.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/rvlh3PAo1MN",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-23T15:15:04.098Z"
+  },
+  {
+    "url": "https://v0.dev/t/uj77QbIpgZZ",
+    "label": "Template for prompt: rocketry asocciation page with membership route and about us and auth and dark theme colors",
+    "dateAdded": "2024-01-23T15:15:04.098Z"
+  },
+  {
+    "url": "https://v0.dev/t/rV3lIL6AsV8",
+    "label": "Template for prompt: A vercel like new project page for connecting Github account, choosing repo and linking to project",
+    "dateAdded": "2024-01-23T15:15:04.098Z"
+  },
+  {
+    "url": "https://v0.dev/t/viJgvXjxLmw",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-23T15:15:04.098Z"
+  },
+  {
+    "url": "https://v0.dev/t/LFztkX8va6q",
+    "label": "Template for prompt: write code in react",
+    "dateAdded": "2024-01-23T15:15:04.098Z"
+  },
+  {
+    "url": "https://v0.dev/t/PB6dAq7oVdN",
+    "label": "Template for prompt: write code in react",
+    "dateAdded": "2024-01-23T15:15:04.099Z"
+  },
+  {
+    "url": "https://v0.dev/t/rp1POXLpugX",
+    "label": "Template for prompt: create this using shadcn ui",
+    "dateAdded": "2024-01-23T15:15:04.099Z"
+  },
+  {
+    "url": "https://v0.dev/t/CKn8dCKzIFk",
+    "label": "Template for prompt: Page like https://vercel.com/new ",
+    "dateAdded": "2024-01-23T15:15:04.099Z"
+  },
+  {
+    "url": "https://v0.dev/t/7DhtpQALP6q",
+    "label": "Template for prompt: a quiz app",
+    "dateAdded": "2024-01-23T15:15:04.099Z"
+  },
+  {
+    "url": "https://v0.dev/t/QLZDSl0EV7B",
+    "label": "Template for prompt: un panel que sea un historial de ventas que tenga como filtros por tienda, por item vendido, item cancelado",
+    "dateAdded": "2024-01-23T15:15:04.099Z"
+  },
+  {
+    "url": "https://v0.dev/t/QUEwdy2VepC",
+    "label": "Template for prompt: một trang câu hỏi trắc nghiệm với 4 đáp án, thiết kế kiểu  hiện đại, bên trên là câu hỏi có nội dung dài, bên dưới là 4 nút bấm",
+    "dateAdded": "2024-01-23T15:15:04.099Z"
+  },
+  {
+    "url": "https://v0.dev/t/2XsT0im6x1T",
+    "label": "Template for prompt: A page where you can track projects. Each project is a card. On the card you can see the different checklists that have to be completed in this project. Each of the projects also has the option to generate a project report and deep dive into the different lab test deliveries that are in progress.",
+    "dateAdded": "2024-01-23T15:15:04.099Z"
+  },
+  {
+    "url": "https://v0.dev/t/Kub9cZfcNX3",
+    "label": "Template for prompt: give the reactjs code for the chatting window ui. use mui component and style it using mui styles",
+    "dateAdded": "2024-01-23T15:15:04.100Z"
+  },
+  {
+    "url": "https://v0.dev/t/fSjbuNrjp0c",
+    "label": "Template for prompt: An ecommerce store",
+    "dateAdded": "2024-01-23T15:15:04.100Z"
+  },
+  {
+    "url": "https://v0.dev/t/qTFVvVQ3oua",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T15:15:04.100Z"
+  },
+  {
+    "url": "https://v0.dev/t/MBE5zxT7TRz",
+    "label": "Template for prompt: Create a profile screen similar to Twitter.\nAlso, please create a UI that allows you to edit your profile.\n\nThe profile screen should consist of the following elements:\n\n- Icon \n- Username and user ID \n- Number of followers/Number of followers \n- Follow buttons for various SNS (Twitter, Instagram, Youtube, Facebook)",
+    "dateAdded": "2024-01-23T15:15:04.100Z"
+  },
+  {
+    "url": "https://v0.dev/t/20fVC1mJdBR",
+    "label": "Template for prompt: a responsive layout for a medical records app with a top nav, a main section, and an aside section. make the aside hidden on mobile. place a data table in the main section that has a side sub-nav, a search, faceted filtering, and pagination. The sub-nav should include links to \"All Records\" and  \"Assigned Records\". the aside section should have a timeline of recent medical records updates made by users.",
+    "dateAdded": "2024-01-23T15:15:04.100Z"
+  },
+  {
+    "url": "https://v0.dev/t/TPFkU1H4a1V",
+    "label": "Template for prompt: create a table with filters. Table content are name, age and address. Filter by name and address",
+    "dateAdded": "2024-01-23T15:15:04.100Z"
+  },
+  {
+    "url": "https://v0.dev/t/69fQUzOh6eV",
+    "label": "Template for prompt: a news aggregator site which shows news articles chronologically grouped by date.",
+    "dateAdded": "2024-01-23T15:15:04.100Z"
+  },
+  {
+    "url": "https://v0.dev/t/VceOiJ77oy0",
+    "label": "Template for prompt: Button with popover",
+    "dateAdded": "2024-01-23T15:15:04.100Z"
+  },
+  {
+    "url": "https://v0.dev/t/gx0LvrDRk33",
+    "label": "Template for prompt: Design a blog landing page for me that has some personal infos like how old im an dhow long im programming a section with pinned posts (3) a section with the latest posts (2) and then a project list in card style with title and short descriptions and preview image",
+    "dateAdded": "2024-01-23T15:15:04.100Z"
+  },
+  {
+    "url": "https://v0.dev/t/0q9VrAISC85",
+    "label": "Template for prompt: 一个黑金风格的在线影院网站的首页",
+    "dateAdded": "2024-01-23T15:15:04.101Z"
+  },
+  {
+    "url": "https://v0.dev/t/CKYNb5eiq9m",
+    "label": "Template for prompt: insta homepage clone with html and css",
+    "dateAdded": "2024-01-23T15:15:04.101Z"
+  },
+  {
+    "url": "https://v0.dev/t/9BigNkN8uHE",
+    "label": "Template for prompt: I'm trying to create a website with community functions similar to Discord and Tumblr. I would like the website to have the following features:\n- It would be nice to have a space at the top that includes search, login, my page, settings, etc.\n- It would be nice to have a space on the right where you can select channels. A channel is the largest category that exists in a community.\n- It would be nice to have a toolbar in the left space where you can select a room. Rooms are a subcategory of channels.\n- In the middle space, it would be nice to have a small space to select a space and a large space to show the feed. Space is a subcategory of room. Spaces are divided into feed spaces and chat spaces. Feeds are displayed in the feed space, and chat is available in the chat space.\n- I wish they would make it a dark mode.\n- I want the design to have great user experience. Users can freely create channels, rooms, and spaces.",
+    "dateAdded": "2024-01-23T15:15:04.101Z"
+  },
+  {
+    "url": "https://v0.dev/t/WvEcKsysuy4",
+    "label": "Template for prompt: Generate a map of Munich in darkmode",
+    "dateAdded": "2024-01-23T15:15:04.101Z"
+  },
+  {
+    "url": "https://v0.dev/t/z2HShpT2k87",
+    "label": "Template for prompt: a web app for stock portfolio monitoring here an example of mockup, can you generate suitable design with all components",
+    "dateAdded": "2024-01-23T15:15:04.102Z"
   }
 ]
