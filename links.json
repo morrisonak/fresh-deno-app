@@ -44458,5 +44458,100 @@
     "url": "https://v0.dev/t/Ordil0vGy28",
     "label": "Template for prompt: design me a signup flow wizard that matches this theme ",
     "dateAdded": "2024-01-22T22:35:02.851Z"
+  },
+  {
+    "url": "https://v0.dev/t/WJ3ePZ0IPtj",
+    "label": "Template for prompt: Build a login page that uses an oAuth login button, and does not use an email or password. The oAuth button is for Azure",
+    "dateAdded": "2024-01-23T00:35:37.487Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yiaxl55eFA3",
+    "label": "Template for prompt: create the navbar using bootstrap",
+    "dateAdded": "2024-01-23T00:35:37.488Z"
+  },
+  {
+    "url": "https://v0.dev/t/ayTuhaqlAQO",
+    "label": "Template for prompt: An invoice page showing line items and a pay now button",
+    "dateAdded": "2024-01-23T00:35:37.488Z"
+  },
+  {
+    "url": "https://v0.dev/t/s1mJMxg8EKq",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T00:35:37.488Z"
+  },
+  {
+    "url": "https://v0.dev/t/57WFrAOJZbb",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-23T00:35:37.488Z"
+  },
+  {
+    "url": "https://v0.dev/t/qnB6S3VpaN7",
+    "label": "Template for prompt: create this page using bootstrap",
+    "dateAdded": "2024-01-23T00:35:37.488Z"
+  },
+  {
+    "url": "https://v0.dev/t/wLFb6xicejH",
+    "label": "Template for prompt: dark header using shadcn for a chrome extension to login logout and various navigation items such as collection friends groups setting n all",
+    "dateAdded": "2024-01-23T00:35:37.488Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZYgNt9mxd23",
+    "label": "Template for prompt: A video pairing app that randomy pairs 2 users with a screen share section in between the two videos and a chat log on the bottom",
+    "dateAdded": "2024-01-23T00:35:37.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qp580ugvZZe",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T00:35:37.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/TedIe16NBxU",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T00:35:37.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/UyPxISG5mwM",
+    "label": "Template for prompt: create a lawyer portal where he can see Case Summary. Case Related Laws, Client's Data: name, email, phone number. Key actions that has to be taken.  Next Meetings. Next Steps. Attached documents (contract, etc.).",
+    "dateAdded": "2024-01-23T00:35:37.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ild2Fax9t26",
+    "label": "Template for prompt: flow banner",
+    "dateAdded": "2024-01-23T00:35:37.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/UuQeCdRhM9v",
+    "label": "Template for prompt: create a login page for Azure AD",
+    "dateAdded": "2024-01-23T00:35:37.490Z"
+  },
+  {
+    "url": "https://v0.dev/t/6bpSbOrcOtx",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T00:35:37.490Z"
+  },
+  {
+    "url": "https://v0.dev/t/5cFuZuBwwpM",
+    "label": "Template for prompt: 404 page",
+    "dateAdded": "2024-01-23T00:35:37.490Z"
+  },
+  {
+    "url": "https://v0.dev/t/I6uLWjQrZl0",
+    "label": "Template for prompt: In product page I have contact us link, when user clicks on it and goes to contact us page, I want to show small box above the contact message input showing a thumbnail of the product and the name of the product with a remove button, in case the customer does not want to inquery about it anymore",
+    "dateAdded": "2024-01-23T00:35:37.490Z"
+  },
+  {
+    "url": "https://v0.dev/t/9dHykDOpXze",
+    "label": "Template for prompt: 로그인 페이지 만들어줘",
+    "dateAdded": "2024-01-23T00:35:37.490Z"
+  },
+  {
+    "url": "https://v0.dev/t/GxAbjRr5kwa",
+    "label": "Template for prompt: A pricing component, minimalist, with a featured or not option",
+    "dateAdded": "2024-01-23T00:35:37.490Z"
+  },
+  {
+    "url": "https://v0.dev/t/3Ft97V15Kg3",
+    "label": "Template for prompt: quiero una home page, con 3 cards, quiero que las cards abarquen toda la pantalla, las cards las quiero de la siguiente manera:\nUna card del lado izquierdo con una imagen y un pequeño titulo debajo de ella, la otra card del lado derecho con un titulo, subtitulo y un boton \ny la otra card denajo de las otras dos y que abarque todo el ancho, todas las card con sombra y que se adapten perfectamente en toda la pantalla y fondo negro",
+    "dateAdded": "2024-01-23T00:35:37.490Z"
   }
 ]
