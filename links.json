@@ -45073,5 +45073,135 @@
     "url": "https://v0.dev/t/TYGmHKTlWNR",
     "label": "Template for prompt: create a drag and drop interface to sort cards vertically in a list",
     "dateAdded": "2024-01-23T14:00:03.217Z"
+  },
+  {
+    "url": "https://v0.dev/t/STBoc2oeA1O",
+    "label": "Template for prompt: Create a sidebar with toggle",
+    "dateAdded": "2024-01-23T14:05:03.521Z"
+  },
+  {
+    "url": "https://v0.dev/t/xe2X2TKPnGY",
+    "label": "Template for prompt: 「今日読んだ技術記事3つ」を投稿できるSNS。1つのPostに3つの記事カードが含まれる。記事カードには記事のタイトル、サムネイル画像、記事の概要が含まれる。画面全体のメインカラーは#5590c9、アクセントカラーは#fdbd9aを使用。",
+    "dateAdded": "2024-01-23T14:05:03.521Z"
+  },
+  {
+    "url": "https://v0.dev/t/08XUtgOCCPs",
+    "label": "Template for prompt: Create this menu bar with nextjs jsx and tailwind css . it should be just for small screen",
+    "dateAdded": "2024-01-23T14:05:03.521Z"
+  },
+  {
+    "url": "https://v0.dev/t/nWIUgnLT2eO",
+    "label": "Template for prompt: a game platform",
+    "dateAdded": "2024-01-23T14:05:03.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/BN9E4fpClsr",
+    "label": "Template for prompt: how to make this section in tailwindcss ",
+    "dateAdded": "2024-01-23T14:05:03.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/6ERHoZfhIh1",
+    "label": "Template for prompt: Shop POS UI with product selection screen with 9 products and a checkout section right besides it",
+    "dateAdded": "2024-01-23T14:05:03.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/NlIWBIRhXSw",
+    "label": "Template for prompt: je veux un site personnel presentant toute mes mtos avec un blog",
+    "dateAdded": "2024-01-23T14:05:03.522Z"
+  },
+  {
+    "url": "https://v0.dev/t/vvaRarI2Av9",
+    "label": "Template for prompt: make me a minimalist portfolio template but with some visual effects and a good UX user experience",
+    "dateAdded": "2024-01-23T14:05:03.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/NBg87Z0NOVI",
+    "label": "Template for prompt: page asking if you are a business or an investor or continue as a guest",
+    "dateAdded": "2024-01-23T14:05:03.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/LK617l0Wox4",
+    "label": "Template for prompt: web page giovana tours, you can book a free tour, show a description of giovana a person who gives free tour, a page where you can see the calendar and you can book a date to have a free tour in oslo",
+    "dateAdded": "2024-01-23T14:05:03.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/mNMmEfClsaL",
+    "label": "Template for prompt: A simple video editor",
+    "dateAdded": "2024-01-23T14:05:03.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/9xM0mDhHmQf",
+    "label": "Template for prompt: I want a card with a spinnear that says loading",
+    "dateAdded": "2024-01-23T14:05:03.523Z"
+  },
+  {
+    "url": "https://v0.dev/t/f9JLGZr1az1",
+    "label": "Template for prompt: A dashboard page containing a table",
+    "dateAdded": "2024-01-23T14:05:03.524Z"
+  },
+  {
+    "url": "https://v0.dev/t/CzuMKugnDEU",
+    "label": "Template for prompt: сделай пожалуйста форму для создания дерево генеологии",
+    "dateAdded": "2024-01-23T14:05:03.524Z"
+  },
+  {
+    "url": "https://v0.dev/t/3yVHH10R6mu",
+    "label": "Template for prompt: create a page (like a dashboard) with a sidebar that shrinks to only show icons and can be expanded. When expanded, it is using absolute positioing. and is shirnk by default",
+    "dateAdded": "2024-01-23T14:05:03.524Z"
+  },
+  {
+    "url": "https://v0.dev/t/NTW1wEIV6YQ",
+    "label": "Template for prompt: Can you create an input file, that only accepts .pdf and only one file. Should be possible to drag and drop the file into the component",
+    "dateAdded": "2024-01-23T14:05:03.524Z"
+  },
+  {
+    "url": "https://v0.dev/t/NI8SjSAqRiA",
+    "label": "Template for prompt: can you make a step footer that displays the steps roadmap as circles with the step number connected by horizontal lines",
+    "dateAdded": "2024-01-23T14:05:03.524Z"
+  },
+  {
+    "url": "https://v0.dev/t/bLArpWqm6Ga",
+    "label": "Template for prompt: a tamper monkey script menu",
+    "dateAdded": "2024-01-23T14:05:03.525Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z2o2S5ALvkj",
+    "label": "Template for prompt: rubiks cube timer with scramble at the top. Should be dark mode with colorful buttons",
+    "dateAdded": "2024-01-23T14:05:03.525Z"
+  },
+  {
+    "url": "https://v0.dev/t/iIidxI3atm2",
+    "label": "Template for prompt: Two big panels to chose from: Search and Create",
+    "dateAdded": "2024-01-23T14:05:03.525Z"
+  },
+  {
+    "url": "https://v0.dev/t/4WjruoHB6s1",
+    "label": "Template for prompt: Peutt tu me faaire un curriculum vitae builder complet en dark mode",
+    "dateAdded": "2024-01-23T14:05:03.525Z"
+  },
+  {
+    "url": "https://v0.dev/t/8Hzua7uXrZJ",
+    "label": "Template for prompt: create modal",
+    "dateAdded": "2024-01-23T14:05:03.525Z"
+  },
+  {
+    "url": "https://v0.dev/t/V38SBR0zp8Q",
+    "label": "Template for prompt: create a simple portfolio",
+    "dateAdded": "2024-01-23T14:05:03.525Z"
+  },
+  {
+    "url": "https://v0.dev/t/6jlLMOAqI70",
+    "label": "Template for prompt: create tasklists table that have add task button",
+    "dateAdded": "2024-01-23T14:05:03.526Z"
+  },
+  {
+    "url": "https://v0.dev/t/jrK2Y05rhdC",
+    "label": "Template for prompt: Create a web page for an \"Our services\" screen for a care homes website. ",
+    "dateAdded": "2024-01-23T14:05:03.526Z"
+  },
+  {
+    "url": "https://v0.dev/t/2bbRy1IaOTI",
+    "label": "Template for prompt: A simple editing dashboard for VFX",
+    "dateAdded": "2024-01-23T14:05:03.526Z"
   }
 ]
