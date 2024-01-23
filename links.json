@@ -53493,5 +53493,135 @@
     "url": "https://v0.dev/t/qcQLgPRvSIH",
     "label": "Template for prompt: create a calendar in portuguese thats show the days, week and year. on click on a day, show an modal.",
     "dateAdded": "2024-01-23T19:30:02.568Z"
+  },
+  {
+    "url": "https://v0.dev/t/iXNV664YIB7",
+    "label": "Template for prompt: A home page for a Fintech product",
+    "dateAdded": "2024-01-23T19:35:02.569Z"
+  },
+  {
+    "url": "https://v0.dev/t/icWXaIdcFfq",
+    "label": "Template for prompt: a wysiwyg editor",
+    "dateAdded": "2024-01-23T19:35:02.569Z"
+  },
+  {
+    "url": "https://v0.dev/t/8ukJNYws1I1",
+    "label": "Template for prompt: create a sticky navbar with a logo (left) and search bar to the right of the logo. and then to the far right add menu items",
+    "dateAdded": "2024-01-23T19:35:02.569Z"
+  },
+  {
+    "url": "https://v0.dev/t/ft11F8DHZ4B",
+    "label": "Template for prompt: design a page using as many color as possible. The page displays incoming loads for a shipping company",
+    "dateAdded": "2024-01-23T19:35:02.569Z"
+  },
+  {
+    "url": "https://v0.dev/t/i5zUz3fpcFt",
+    "label": "Template for prompt: crea un mensaje de verificacion satisfactoria minimalista como esta",
+    "dateAdded": "2024-01-23T19:35:02.570Z"
+  },
+  {
+    "url": "https://v0.dev/t/op4lvwx5VVe",
+    "label": "Template for prompt: Create a page with 2 identical cards. Each card contains:\n- checkbox in the upper left corner\n- title next to the checkbox\n- logo next to the title (for now just add a placeholder text \"LO\" that's bold as this logo)\n- clickable URL in small font below the title\n- description below the URL that can span up to 3 rows. Generate random Lorem ipsum text for the description.\n\nTitle, URL and Description are all aligned and below each other.\n\nBelow the 2 cards there are 2 buttons: \"Select All\" and \"Select None\".\n\nFinally, there is \"Load Content\" button on the very bottom. This button is wide and stretches to full width.",
+    "dateAdded": "2024-01-23T19:35:02.570Z"
+  },
+  {
+    "url": "https://v0.dev/t/6mHsLUf5kIx",
+    "label": "Template for prompt: a pricing table",
+    "dateAdded": "2024-01-23T19:35:02.570Z"
+  },
+  {
+    "url": "https://v0.dev/t/w8vXD3Y6gDE",
+    "label": "Template for prompt: Display boxes with dropdown content full screen",
+    "dateAdded": "2024-01-23T19:35:02.570Z"
+  },
+  {
+    "url": "https://v0.dev/t/4cr1W5nO3Qb",
+    "label": "Template for prompt: a wikipedia alternative where content is organized on a horizontal chronological timeline",
+    "dateAdded": "2024-01-23T19:35:02.570Z"
+  },
+  {
+    "url": "https://v0.dev/t/xYvkEbdYnYg",
+    "label": "Template for prompt: A ProductHunt clone app",
+    "dateAdded": "2024-01-23T19:35:02.570Z"
+  },
+  {
+    "url": "https://v0.dev/t/Uod79kAG8zL",
+    "label": "Template for prompt: code",
+    "dateAdded": "2024-01-23T19:35:02.571Z"
+  },
+  {
+    "url": "https://v0.dev/t/NCPnzW3uTvf",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-23T19:35:02.571Z"
+  },
+  {
+    "url": "https://v0.dev/t/tlvDihuDCM0",
+    "label": "Template for prompt: section with 2 pricing options, should has 2 small illustrations like icons meaning 2 types of heart,\nthe mood of UI is elegant or medical,\nthe illustrations like icons of heart should be in top with the titile of pricing options : lifestyle and medical,\nthe pricing is on middle, then there are features with blue icons check in column,\nthen on the bottom there is action button.\n",
+    "dateAdded": "2024-01-23T19:35:02.571Z"
+  },
+  {
+    "url": "https://v0.dev/t/sGIFYNAfxhZ",
+    "label": "Template for prompt: pricing table",
+    "dateAdded": "2024-01-23T19:35:02.571Z"
+  },
+  {
+    "url": "https://v0.dev/t/4EYnVl8htfH",
+    "label": "Template for prompt: dashboard with a treemap",
+    "dateAdded": "2024-01-23T19:35:02.571Z"
+  },
+  {
+    "url": "https://v0.dev/t/m0a2AC1Xxz6",
+    "label": "Template for prompt: A management modal where I can simply delete and create new records",
+    "dateAdded": "2024-01-23T19:35:02.571Z"
+  },
+  {
+    "url": "https://v0.dev/t/lSxP9wou3ko",
+    "label": "Template for prompt: create the footer which in theme of black",
+    "dateAdded": "2024-01-23T19:35:02.571Z"
+  },
+  {
+    "url": "https://v0.dev/t/IAefukxXPus",
+    "label": "Template for prompt: two pricing options section ",
+    "dateAdded": "2024-01-23T19:35:02.571Z"
+  },
+  {
+    "url": "https://v0.dev/t/UnGsuN6CdKl",
+    "label": "Template for prompt: I want to have an search icon inside my input field",
+    "dateAdded": "2024-01-23T19:35:02.572Z"
+  },
+  {
+    "url": "https://v0.dev/t/bOjp1gVpOF1",
+    "label": "Template for prompt: need about page ",
+    "dateAdded": "2024-01-23T19:35:02.572Z"
+  },
+  {
+    "url": "https://v0.dev/t/vq9m99Z66B8",
+    "label": "Template for prompt: A admin dashboard for different map locations",
+    "dateAdded": "2024-01-23T19:35:02.572Z"
+  },
+  {
+    "url": "https://v0.dev/t/80HWGKvfrbf",
+    "label": "Template for prompt: create a landing page to restaurant page using nav to loguin and register",
+    "dateAdded": "2024-01-23T19:35:02.572Z"
+  },
+  {
+    "url": "https://v0.dev/t/zZEnLHIhY4v",
+    "label": "Template for prompt: generate UI for a hotel booking app",
+    "dateAdded": "2024-01-23T19:35:02.572Z"
+  },
+  {
+    "url": "https://v0.dev/t/IVIc8d4KKKs",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T19:35:02.572Z"
+  },
+  {
+    "url": "https://v0.dev/t/JSALZSwxqBE",
+    "label": "Template for prompt: a clean minimalist login ui ",
+    "dateAdded": "2024-01-23T19:35:02.572Z"
+  },
+  {
+    "url": "https://v0.dev/t/BoQR8tpRtm7",
+    "label": "Template for prompt: desktop scheduler web app with #5A35D7 brand color.",
+    "dateAdded": "2024-01-23T19:35:02.573Z"
   }
 ]
