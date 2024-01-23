@@ -54373,5 +54373,130 @@
     "url": "https://v0.dev/t/RhMqDlFVyy0",
     "label": "Template for prompt: icon with the letters S and P forming curves. The brand is called StotyPlot.",
     "dateAdded": "2024-01-23T20:05:02.556Z"
+  },
+  {
+    "url": "https://v0.dev/t/MVOCeTjuicm",
+    "label": "Template for prompt: Crea un main con un grandiente de colores animado y una frase en el centro",
+    "dateAdded": "2024-01-23T20:10:03.389Z"
+  },
+  {
+    "url": "https://v0.dev/t/azMVaIVWwJL",
+    "label": "Template for prompt: large icon badge with color for active state and light grayed out for inactive state",
+    "dateAdded": "2024-01-23T20:10:03.389Z"
+  },
+  {
+    "url": "https://v0.dev/t/mPL6Opzn2pQ",
+    "label": "Template for prompt: create a homepage for a local political candidate. It should include a donate button in the header menu",
+    "dateAdded": "2024-01-23T20:10:03.389Z"
+  },
+  {
+    "url": "https://v0.dev/t/iMoBIUilEi0",
+    "label": "Template for prompt: Checklist with Category Name and list of checks under it. And 'Passed', 'Skipped' and 'Failed' buttons in each check",
+    "dateAdded": "2024-01-23T20:10:03.389Z"
+  },
+  {
+    "url": "https://v0.dev/t/MuHCkMKLy8e",
+    "label": "Template for prompt: A whiteboard application like miro",
+    "dateAdded": "2024-01-23T20:10:03.389Z"
+  },
+  {
+    "url": "https://v0.dev/t/WZ1FBI42zYc",
+    "label": "Template for prompt: a list of orders, each order will contain a list of products, each product will have name, sku, ean, barcode, quantity, each order will have large buttons to set the stage of the order, the stages are : \"Sent\", \"collecting\", \"packed\", \"delivered\"",
+    "dateAdded": "2024-01-23T20:10:03.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/o92Mi78Wt1t",
+    "label": "Template for prompt: a cute pink footer displays instagram and twitter links ",
+    "dateAdded": "2024-01-23T20:10:03.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/N4ZeQvsVDuD",
+    "label": "Template for prompt: Global Cash Management dashboard for Multi-Country Businesses",
+    "dateAdded": "2024-01-23T20:10:03.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/3xTImH6vUWC",
+    "label": "Template for prompt: An astrology home page with planet positions",
+    "dateAdded": "2024-01-23T20:10:03.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/0q2Lhh3izYz",
+    "label": "Template for prompt: can you generate a table with sort and pagination controls showing a list of inventory items which represent plant species, perhaps with an icon?",
+    "dateAdded": "2024-01-23T20:10:03.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/4i7Dq5aASLN",
+    "label": "Template for prompt: badge with active and inactive state",
+    "dateAdded": "2024-01-23T20:10:03.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/SBbi4KK4wYk",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-23T20:10:03.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/3B3rCDXeRd6",
+    "label": "Template for prompt: auto updated checklist for confirming what is said on call",
+    "dateAdded": "2024-01-23T20:10:03.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/pv9x7cMCLE4",
+    "label": "Template for prompt: A landing page for a Youth directory",
+    "dateAdded": "2024-01-23T20:10:03.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/qXa0gLnHzt0",
+    "label": "Template for prompt: a main page of a ai toolbox online website",
+    "dateAdded": "2024-01-23T20:10:03.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/9zEu53CzWae",
+    "label": "Template for prompt: a coming soon landing page with a hero and tagline with an email textbox to subscribe when its ready. Add a background color with some gradient. Don't use shadcn. Only tailwind",
+    "dateAdded": "2024-01-23T20:10:03.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/PP4YK394Pul",
+    "label": "Template for prompt: A ChatGPT like software in the style of Youtube ",
+    "dateAdded": "2024-01-23T20:10:03.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/WgOrZEKBygy",
+    "label": "Template for prompt: checklist for an on-call flow to make sure inputs are received",
+    "dateAdded": "2024-01-23T20:10:03.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/zyloX4noNlI",
+    "label": "Template for prompt: a minimalist black and white foodblog",
+    "dateAdded": "2024-01-23T20:10:03.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/MRBNpUOPIFt",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-23T20:10:03.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/Cy0yBxtZBZB",
+    "label": "Template for prompt: a single page styled like a terminal ui from the 90's",
+    "dateAdded": "2024-01-23T20:10:03.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/wKl87RdUeXs",
+    "label": "Template for prompt: crud form budget for services searching ",
+    "dateAdded": "2024-01-23T20:10:03.392Z"
+  },
+  {
+    "url": "https://v0.dev/t/9CSrTKiY0XG",
+    "label": "Template for prompt: a coming soon landing page with a hero and tagline with an email textbox to subscribe when its ready. Add a bege background color with some gradient. Don't use shadcn. Only tailwind",
+    "dateAdded": "2024-01-23T20:10:03.392Z"
+  },
+  {
+    "url": "https://v0.dev/t/nmBxDXTi7D7",
+    "label": "Template for prompt: gym, professional",
+    "dateAdded": "2024-01-23T20:10:03.392Z"
+  },
+  {
+    "url": "https://v0.dev/t/ePeGk9JmLof",
+    "label": "Template for prompt: app to locate something",
+    "dateAdded": "2024-01-23T20:10:03.392Z"
   }
 ]
