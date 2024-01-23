@@ -55898,5 +55898,135 @@
     "url": "https://v0.dev/t/kmL66qwB4Os",
     "label": "Template for prompt: این صفحه از سایت با دقت بالاتر طراحی کن",
     "dateAdded": "2024-01-23T21:05:02.359Z"
+  },
+  {
+    "url": "https://v0.dev/t/iXnZpu9xiRX",
+    "label": "Template for prompt: Create a search ux. There search parameters are four sets of models. There are four classes of models with different selection requirements. There are hundreds of each class to choose from.\n\n1) Investment Universe Models. Limit 1, but selecting one is not required.\n2) Signal Models. Minimum: 1. No upper limit. Include a SELECT ALL button.\n3) Context Models. Minimum: 0. No upper limit. Include a SELECT ALL button.\n4) Trading Tactics. Minimum: 1. No upper limit. Include a SELECT ALL button.\n\nThe final parameter for the search is a timespan. The user must select a start/end date.\n\nKeep it tidy and beautiful. ",
+    "dateAdded": "2024-01-23T21:10:03.133Z"
+  },
+  {
+    "url": "https://v0.dev/t/syf2AVY3i2y",
+    "label": "Template for prompt: can you build me a simple html version of the old bookmarking service delicio.us that is near mirror image of its former self",
+    "dateAdded": "2024-01-23T21:10:03.133Z"
+  },
+  {
+    "url": "https://v0.dev/t/YHpTUXmLXfg",
+    "label": "Template for prompt: This is a svg element which is used in lottie animation in next js app. Why its not taking full height. I need to use full height",
+    "dateAdded": "2024-01-23T21:10:03.133Z"
+  },
+  {
+    "url": "https://v0.dev/t/hIZflNxkI8u",
+    "label": "Template for prompt: can you improve this card please?\n",
+    "dateAdded": "2024-01-23T21:10:03.133Z"
+  },
+  {
+    "url": "https://v0.dev/t/9Jzwm5BHziW",
+    "label": "Template for prompt: generate a question form. which will include these fields title, hint and questiontype. ensure that i can add options  on button click based on the question type and select the correct answer from a dropdown",
+    "dateAdded": "2024-01-23T21:10:03.134Z"
+  },
+  {
+    "url": "https://v0.dev/t/vJaPofOBbHX",
+    "label": "Template for prompt: a notification preference screen in a neomorphism style with input for email address as the only preference option for now",
+    "dateAdded": "2024-01-23T21:10:03.134Z"
+  },
+  {
+    "url": "https://v0.dev/t/56e7JZXXAD1",
+    "label": "Template for prompt: A Saas user guiding dashboard",
+    "dateAdded": "2024-01-23T21:10:03.134Z"
+  },
+  {
+    "url": "https://v0.dev/t/TQo7r8mOQB0",
+    "label": "Template for prompt: A job board website",
+    "dateAdded": "2024-01-23T21:10:03.134Z"
+  },
+  {
+    "url": "https://v0.dev/t/I222X40G7pU",
+    "label": "Template for prompt: create a marketing website for a construction tech company called JobXcel.AI",
+    "dateAdded": "2024-01-23T21:10:03.134Z"
+  },
+  {
+    "url": "https://v0.dev/t/raN1gb4tkK2",
+    "label": "Template for prompt: Floating chartz with random",
+    "dateAdded": "2024-01-23T21:10:03.135Z"
+  },
+  {
+    "url": "https://v0.dev/t/lpmYoEd1eI4",
+    "label": "Template for prompt: fullscreen mobile menu with nice animation tailwind only no js",
+    "dateAdded": "2024-01-23T21:10:03.135Z"
+  },
+  {
+    "url": "https://v0.dev/t/wEccQMZJXUa",
+    "label": "Template for prompt: componente de tabla con colores azul y naranja con 14 columnas",
+    "dateAdded": "2024-01-23T21:10:03.135Z"
+  },
+  {
+    "url": "https://v0.dev/t/pBhlf90LHno",
+    "label": "Template for prompt: sales team forecast, directors view, form page for team leads to submit SDR KPI, insights page, minimalistic ",
+    "dateAdded": "2024-01-23T21:10:03.135Z"
+  },
+  {
+    "url": "https://v0.dev/t/DenXUXeTk19",
+    "label": "Template for prompt: Minimalist yet very beautiful landing page for a software engineer's presentation",
+    "dateAdded": "2024-01-23T21:10:03.135Z"
+  },
+  {
+    "url": "https://v0.dev/t/EgGXeDesh29",
+    "label": "Template for prompt: a \"new contact\" form for submitting a person to a database. Should include fields for: First Name, Last Name, Organization, Email Address, Phone Number, and a multi-select field for type of contact.",
+    "dateAdded": "2024-01-23T21:10:03.135Z"
+  },
+  {
+    "url": "https://v0.dev/t/XapKiQkQHXO",
+    "label": "Template for prompt: create a nextjs layout component",
+    "dateAdded": "2024-01-23T21:10:03.135Z"
+  },
+  {
+    "url": "https://v0.dev/t/WJSRr9PsLH7",
+    "label": "Template for prompt: a notification preference screen in a neomorphism style",
+    "dateAdded": "2024-01-23T21:10:03.136Z"
+  },
+  {
+    "url": "https://v0.dev/t/e5YRe8YAKEg",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T21:10:03.136Z"
+  },
+  {
+    "url": "https://v0.dev/t/MSenu4aE95h",
+    "label": "Template for prompt: A form to upload a single image with preview",
+    "dateAdded": "2024-01-23T21:10:03.136Z"
+  },
+  {
+    "url": "https://v0.dev/t/cNTuDHNICKK",
+    "label": "Template for prompt: a website which shows a dashboard fro saas",
+    "dateAdded": "2024-01-23T21:10:03.136Z"
+  },
+  {
+    "url": "https://v0.dev/t/uTJK1ZMDFZn",
+    "label": "Template for prompt: a website with a calender function where users can book a demo",
+    "dateAdded": "2024-01-23T21:10:03.136Z"
+  },
+  {
+    "url": "https://v0.dev/t/hZHGLQOiUPG",
+    "label": "Template for prompt: A home page for my design agency",
+    "dateAdded": "2024-01-23T21:10:03.136Z"
+  },
+  {
+    "url": "https://v0.dev/t/QKqexqzDSM6",
+    "label": "Template for prompt: Create an ecommerce website for me",
+    "dateAdded": "2024-01-23T21:10:03.136Z"
+  },
+  {
+    "url": "https://v0.dev/t/4TrIyPVBjoI",
+    "label": "Template for prompt: dashboard design with charts, and information like contry w flag restaurant name etc",
+    "dateAdded": "2024-01-23T21:10:03.137Z"
+  },
+  {
+    "url": "https://v0.dev/t/oWPdIEk41EO",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T21:10:03.137Z"
+  },
+  {
+    "url": "https://v0.dev/t/JdsKTrQ4062",
+    "label": "Template for prompt: a chat application",
+    "dateAdded": "2024-01-23T21:10:03.137Z"
   }
 ]
