@@ -46593,5 +46593,135 @@
     "url": "https://v0.dev/t/ne1NOkZ6N4H",
     "label": "Template for prompt: hello",
     "dateAdded": "2024-01-23T15:00:02.766Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZQSlTyDgqac",
+    "label": "Template for prompt: create a discord like ui",
+    "dateAdded": "2024-01-23T15:05:02.497Z"
+  },
+  {
+    "url": "https://v0.dev/t/E6QDCuPVrUs",
+    "label": "Template for prompt: make a form with a textarea that says \"insert paragraph\" and add below an input type text asking for badword. should be very very very easy and clean with aggressive design",
+    "dateAdded": "2024-01-23T15:05:02.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/dpeeUYZUOZ7",
+    "label": "Template for prompt: A sign form with first name, last name, date of birth, email, contact, create password, confirm password,  and address. Put the form in a card with a sign up  button. and generate js form of interaction to import the html file of login",
+    "dateAdded": "2024-01-23T15:05:02.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/f6oJWuExA9O",
+    "label": "Template for prompt: a tshirt designer toolbox sidebar",
+    "dateAdded": "2024-01-23T15:05:02.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/goSyj3WIyxV",
+    "label": "Template for prompt: {\n    \"type\": \"array\",\n    \"description\": \"An array of objects where each object represents a question. Each object must specify whether it is a question (`is_question`) and optionally include the actual question string (`question`).\",\n    \"items\": {\n        \"type\": \"object\",\n        \"properties\": {\n            \"is_question\": {\n                \"type\": \"boolean\",\n                \"description\": \"Set to true if the input is a question.\"\n            },\n            \"question\": {\n                \"type\": \"string\",\n                \"description\": \"The actual question string for the input.\"\n            }\n        },\n        \"required\": [\n            \"is_question\"\n        ]\n    }\n}\n\n\nwrite UI to build json schema, for array (nested) and objects",
+    "dateAdded": "2024-01-23T15:05:02.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/jCXlXqnBa2z",
+    "label": "Template for prompt: probleem: moeite met beheren infra\noplossing: cloud dienstverlening\nresultaat: geen zorgen meer",
+    "dateAdded": "2024-01-23T15:05:02.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/AHwEAf9AGIK",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-23T15:05:02.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/0gwWsqv9eFI",
+    "label": "Template for prompt: Make a website that represent insigth from different sources, like twitter, instagram, facebook, websites etc. \nThe user gets insights from text and images, that are cross checked to example a brand manual, the website can then response with different scoring based on how accurate the text is against the brand manual ",
+    "dateAdded": "2024-01-23T15:05:02.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/QMRkJOXHxUA",
+    "label": "Template for prompt: make a store where you can buy old dogs and search for them",
+    "dateAdded": "2024-01-23T15:05:02.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/bTIV6Rr6YsP",
+    "label": "Template for prompt: make a form with a textarea that says \"insert paragraph\" and add below an input type text asking for badword.",
+    "dateAdded": "2024-01-23T15:05:02.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/AZtGjq0CQMD",
+    "label": "Template for prompt: I want a Post component that contains an avatar of the user, the username, the title of the post and the content. I want the content to be of a max length og 200 characters, beyond this length I want the content to be collapsable as I want to add a button \"show more\".",
+    "dateAdded": "2024-01-23T15:05:02.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/cRUti2aA3wS",
+    "label": "Template for prompt: A page such as LinkedIn profile with a button for an organization to Connect to another",
+    "dateAdded": "2024-01-23T15:05:02.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/uyASE2xjwpA",
+    "label": "Template for prompt: create a sidebar that looks like this using shadcn components",
+    "dateAdded": "2024-01-23T15:05:02.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/GlTXJflcTVz",
+    "label": "Template for prompt: A landing page for link shortner webapp with form for creating short link and other hero section and about us content",
+    "dateAdded": "2024-01-23T15:05:02.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/MK9w3InilZd",
+    "label": "Template for prompt: make it responsive too",
+    "dateAdded": "2024-01-23T15:05:02.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/sZ5uchvrE6y",
+    "label": "Template for prompt: create a landinge page hero section for a bike rental business",
+    "dateAdded": "2024-01-23T15:05:02.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/9iUo18WiWkH",
+    "label": "Template for prompt: mejorar estas tarjetas, cambiando colores y diseño a algo mas elegante ajustando la posicion de las imagenes",
+    "dateAdded": "2024-01-23T15:05:02.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/3aBXlTOHi7H",
+    "label": "Template for prompt: user profile with current subscription plan info",
+    "dateAdded": "2024-01-23T15:05:02.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/JA6tWuj479I",
+    "label": "Template for prompt: insta clone",
+    "dateAdded": "2024-01-23T15:05:02.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/YqQrpoAeuPX",
+    "label": "Template for prompt: a requirements checklist in order",
+    "dateAdded": "2024-01-23T15:05:02.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/YYiWioiuRz3",
+    "label": "Template for prompt: A calendar page that indicates the number of events on each day",
+    "dateAdded": "2024-01-23T15:05:02.501Z"
+  },
+  {
+    "url": "https://v0.dev/t/oeUX5wNsGyr",
+    "label": "Template for prompt: Habit builder app mobile dashboard",
+    "dateAdded": "2024-01-23T15:05:02.502Z"
+  },
+  {
+    "url": "https://v0.dev/t/iKLWGZ1bxlL",
+    "label": "Template for prompt: Provide me with a dashboard that has a top nav with a avatar on the right that is a drop down, a few links on the left hand side of it and a company logo on the far left hand side of the nav. In the body, provide a table of company names and details with pagination and the ability to add a new company and edit existing companies.",
+    "dateAdded": "2024-01-23T15:05:02.502Z"
+  },
+  {
+    "url": "https://v0.dev/t/b04qe0UjqCW",
+    "label": "Template for prompt: create this with carosule using react-js",
+    "dateAdded": "2024-01-23T15:05:02.502Z"
+  },
+  {
+    "url": "https://v0.dev/t/f0uIFl4r39C",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-23T15:05:02.502Z"
+  },
+  {
+    "url": "https://v0.dev/t/hgfOqqjY8Hz",
+    "label": "Template for prompt: igual que la imagen",
+    "dateAdded": "2024-01-23T15:05:02.502Z"
   }
 ]
