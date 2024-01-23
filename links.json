@@ -45693,5 +45693,130 @@
     "url": "https://v0.dev/t/peTqRhdx6RX",
     "label": "Template for prompt: create a shadcn admin dashboard",
     "dateAdded": "2024-01-23T14:25:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/a3O0NvXRs8r",
+    "label": "Template for prompt: I want to show the name of the app next to a logo. how you would style that text?",
+    "dateAdded": "2024-01-23T14:30:03.842Z"
+  },
+  {
+    "url": "https://v0.dev/t/rI5NdLpfbbB",
+    "label": "Template for prompt: Question fingerprint on the left, questions on the right",
+    "dateAdded": "2024-01-23T14:30:03.842Z"
+  },
+  {
+    "url": "https://v0.dev/t/UmUGJCw1l4Q",
+    "label": "Template for prompt: I need a page with collapsable cards, which are horizontaly alligned. The content of the card are forms.",
+    "dateAdded": "2024-01-23T14:30:03.842Z"
+  },
+  {
+    "url": "https://v0.dev/t/zRrF3oyryUj",
+    "label": "Template for prompt: Create an Ecommerce Dashboard with pie chart, bar chart",
+    "dateAdded": "2024-01-23T14:30:03.842Z"
+  },
+  {
+    "url": "https://v0.dev/t/1R92TvAQR2u",
+    "label": "Template for prompt: I need a page with collapsable cards, which are vertically alligned. The content of the card are forms. The cards should collaps in the width. The height should stay the same.",
+    "dateAdded": "2024-01-23T14:30:03.843Z"
+  },
+  {
+    "url": "https://v0.dev/t/PzZ97GfR9al",
+    "label": "Template for prompt: a chat ui like intercom",
+    "dateAdded": "2024-01-23T14:30:03.843Z"
+  },
+  {
+    "url": "https://v0.dev/t/Xmd5Nq84sgk",
+    "label": "Template for prompt: learing website dashboard page",
+    "dateAdded": "2024-01-23T14:30:03.843Z"
+  },
+  {
+    "url": "https://v0.dev/t/4aM39QWqHSZ",
+    "label": "Template for prompt: ui in crm app settings to ask account manager for quote on paid feature",
+    "dateAdded": "2024-01-23T14:30:03.843Z"
+  },
+  {
+    "url": "https://v0.dev/t/n4vRTxTypHN",
+    "label": "Template for prompt: choose a symptom of a disease, veterinary system",
+    "dateAdded": "2024-01-23T14:30:03.844Z"
+  },
+  {
+    "url": "https://v0.dev/t/UjNFxSBPmZl",
+    "label": "Template for prompt: Question fingerprint on the left, questionㄴ on the right",
+    "dateAdded": "2024-01-23T14:30:03.844Z"
+  },
+  {
+    "url": "https://v0.dev/t/mKw12PaWW1E",
+    "label": "Template for prompt: This is a hero section, In this hero section It must be dark themed. I Want you to make A Dashboard for my Predictor known as \"Phantom\". Make sure to add \"Predictions\" \"Mines\" \"Towers\" \"Crash\" \"Slides / Roulette\" And make it have  linear gradient look Thanks :)!",
+    "dateAdded": "2024-01-23T14:30:03.844Z"
+  },
+  {
+    "url": "https://v0.dev/t/ROJxEbbFFkC",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-23T14:30:03.844Z"
+  },
+  {
+    "url": "https://v0.dev/t/iHE7XL8dA0e",
+    "label": "Template for prompt: \"Data\" on the leftmost side, suggesting this area is where data input or data display would occur.\n\"Formulaire\" in the center, which translates to \"Form.\" This could be where a user would input information into fields or make selections.\n\"Selection du template\" above the central area, which means \"Template Selection.\" This could indicate a step where the user selects a template.\n\"Preview\" in the top right, indicating an area where previews of the selected templates are displayed.\n\"Selection de l'appareil\" on the far right, which means \"Device Selection.\" This might be where the user selects which device the template is being designed for (like mobile, tablet, desktop, etc.).\n\"Selection des tags\" at the bottom, translating to \"Tag Selection,\" which might be a step where the user selects various tags or categories related to the information or template.",
+    "dateAdded": "2024-01-23T14:30:03.844Z"
+  },
+  {
+    "url": "https://v0.dev/t/Tfp8JnfRw6i",
+    "label": "Template for prompt: create a button",
+    "dateAdded": "2024-01-23T14:30:03.845Z"
+  },
+  {
+    "url": "https://v0.dev/t/9CPctaWWK4G",
+    "label": "Template for prompt: Please generate an order management page for an inventory management and order management system. I would like to show a table of all the orders, as well as allow the user to scan the order and perform different actions after the scan, so when they scan I want it to have a popup window to show buttons such as \"Preview Order on Platform\", \"Preview Order\", \"Edit Personalisation\". Please make the table show example orders with information such as Channel Reference, Despatch Date, Packed By and any other relevant information that you see fit.",
+    "dateAdded": "2024-01-23T14:30:03.845Z"
+  },
+  {
+    "url": "https://v0.dev/t/YVfmpdZUrKB",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T14:30:03.845Z"
+  },
+  {
+    "url": "https://v0.dev/t/ACl3csagawe",
+    "label": "Template for prompt: chat app with list of previous chats",
+    "dateAdded": "2024-01-23T14:30:03.845Z"
+  },
+  {
+    "url": "https://v0.dev/t/gwvMpTbX4nu",
+    "label": "Template for prompt: this if for a web of car dealership landing page, improve this design",
+    "dateAdded": "2024-01-23T14:30:03.845Z"
+  },
+  {
+    "url": "https://v0.dev/t/qNrykXAoTC4",
+    "label": "Template for prompt: product page describing the product (bulk emails) in 4 sections",
+    "dateAdded": "2024-01-23T14:30:03.845Z"
+  },
+  {
+    "url": "https://v0.dev/t/qqOoN2JDXSW",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-23T14:30:03.846Z"
+  },
+  {
+    "url": "https://v0.dev/t/A6hcpQqTv9R",
+    "label": "Template for prompt: genrate me homepage like amazon",
+    "dateAdded": "2024-01-23T14:30:03.846Z"
+  },
+  {
+    "url": "https://v0.dev/t/FMJPgAd2DHk",
+    "label": "Template for prompt: a step-by-step instruction next to a textarea, automatically checking of points as the user types",
+    "dateAdded": "2024-01-23T14:30:03.846Z"
+  },
+  {
+    "url": "https://v0.dev/t/ukIyYfX5Evv",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T14:30:03.846Z"
+  },
+  {
+    "url": "https://v0.dev/t/6Hwjzgj2SOn",
+    "label": "Template for prompt: Plan selection modal ",
+    "dateAdded": "2024-01-23T14:30:03.846Z"
+  },
+  {
+    "url": "https://v0.dev/t/DDn7q55R2Ce",
+    "label": "Template for prompt: Hey i want to create a Promo Bar with the following style props\n\n     id=\"topBanner\"\n        margin={'0'}\n        boxSizing={'border-box'}\n        height={'38px'}\n        padding={'0'}\n        background={'gray.600'}\n        position={isScrolled ? 'fixed' : 'sticky'}\n        top={0}\n        color={'white'}\n        zIndex={9}\n        display={'flex'}\n        alignItems={'center'}\n        justifyContent={isScrolled ? 'space-between' : 'center'}\n        className={isScrolled ? 'scrolled' : ''}\n        width={'100%'}\n        alignContent={'center'}",
+    "dateAdded": "2024-01-23T14:30:03.846Z"
   }
 ]
