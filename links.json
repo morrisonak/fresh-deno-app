@@ -53753,5 +53753,120 @@
     "url": "https://v0.dev/t/NCPnzW3uTvf",
     "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
     "dateAdded": "2024-01-23T19:40:02.765Z"
+  },
+  {
+    "url": "https://v0.dev/t/WYfYrubt8Ky",
+    "label": "Template for prompt: create a form where users can submit a title, description and a link. the form should be modern and have simple validation. create a dialog button that says \"submit a resource\" with a dialog with the form. this is for a resource page for frontend developers.",
+    "dateAdded": "2024-01-23T19:45:03.278Z"
+  },
+  {
+    "url": "https://v0.dev/t/FalsG6hwY8l",
+    "label": "Template for prompt: bento grid of ecommeerce items",
+    "dateAdded": "2024-01-23T19:45:03.278Z"
+  },
+  {
+    "url": "https://v0.dev/t/Rk3Kzm2G6xo",
+    "label": "Template for prompt: Create section with text title and subtitile and on background instead of color, there should be shapes or svg's in form circles randomly located on the background ",
+    "dateAdded": "2024-01-23T19:45:03.278Z"
+  },
+  {
+    "url": "https://v0.dev/t/zcRWijZMxTe",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T19:45:03.278Z"
+  },
+  {
+    "url": "https://v0.dev/t/u6d15lyLCtW",
+    "label": "Template for prompt: svg error icon",
+    "dateAdded": "2024-01-23T19:45:03.278Z"
+  },
+  {
+    "url": "https://v0.dev/t/fcx1s6D836S",
+    "label": "Template for prompt: a sass admin dashboard with metrics and and ai chat component",
+    "dateAdded": "2024-01-23T19:45:03.279Z"
+  },
+  {
+    "url": "https://v0.dev/t/9vQokAXrKDQ",
+    "label": "Template for prompt: Notification area with details of notification",
+    "dateAdded": "2024-01-23T19:45:03.279Z"
+  },
+  {
+    "url": "https://v0.dev/t/921UiIFPUeE",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T19:45:03.279Z"
+  },
+  {
+    "url": "https://v0.dev/t/TcVqooKdMyG",
+    "label": "Template for prompt: Im building a dialogue component to manage a list of bitcoin addresses. Im using shadcn, tailwindcss, and headless ui. I already have an address list component that accepts an array of addresses and renders and list of them, i now want a input element to enter new addresses into with suggestions from a list of suggested addresses. I want when i am typing in the input and hit enter, to submit whats currently typed, and I want when I use my keyboard to navigate suggestions, I want the current highlighted suggestion to replace the content in the main input container",
+    "dateAdded": "2024-01-23T19:45:03.279Z"
+  },
+  {
+    "url": "https://v0.dev/t/zDcxGoG6knq",
+    "label": "Template for prompt: create the dashboad landing for the website which should say for the developer",
+    "dateAdded": "2024-01-23T19:45:03.279Z"
+  },
+  {
+    "url": "https://v0.dev/t/cDpzPmqIHrp",
+    "label": "Template for prompt: Create section with text title and subtitile and on background instead of color, there should be shapes in form of lines or circles ",
+    "dateAdded": "2024-01-23T19:45:03.279Z"
+  },
+  {
+    "url": "https://v0.dev/t/oJBjzZ56jMc",
+    "label": "Template for prompt: 9 block assessment ",
+    "dateAdded": "2024-01-23T19:45:03.279Z"
+  },
+  {
+    "url": "https://v0.dev/t/p9gwUsRXnfv",
+    "label": "Template for prompt: component with data",
+    "dateAdded": "2024-01-23T19:45:03.279Z"
+  },
+  {
+    "url": "https://v0.dev/t/qE4dBmxD65D",
+    "label": "Template for prompt: svg warning icon",
+    "dateAdded": "2024-01-23T19:45:03.280Z"
+  },
+  {
+    "url": "https://v0.dev/t/b91J2FYzQg7",
+    "label": "Template for prompt: reproduzir isso",
+    "dateAdded": "2024-01-23T19:45:03.280Z"
+  },
+  {
+    "url": "https://v0.dev/t/48S5AZ5MMB3",
+    "label": "Template for prompt: i need section with shapes on background , the shaes like curve lines or circles , on the front there are elements  boxes with shadows ",
+    "dateAdded": "2024-01-23T19:45:03.280Z"
+  },
+  {
+    "url": "https://v0.dev/t/6DJ08VQhk2j",
+    "label": "Template for prompt: make the subheader stand out more",
+    "dateAdded": "2024-01-23T19:45:03.280Z"
+  },
+  {
+    "url": "https://v0.dev/t/7s03uKdvQaP",
+    "label": "Template for prompt: website promoting monday app ",
+    "dateAdded": "2024-01-23T19:45:03.280Z"
+  },
+  {
+    "url": "https://v0.dev/t/ljDht3FBTVR",
+    "label": "Template for prompt: Sleek text editor with bold, italic, and link capabilities. Round the borders and provide a divider between utility bar and editor.",
+    "dateAdded": "2024-01-23T19:45:03.280Z"
+  },
+  {
+    "url": "https://v0.dev/t/wYvSCOFBwbp",
+    "label": "Template for prompt: A page with a job proposal, description, salary, country",
+    "dateAdded": "2024-01-23T19:45:03.280Z"
+  },
+  {
+    "url": "https://v0.dev/t/D6xobWBUsvQ",
+    "label": "Template for prompt:  a splash page with paralalex effect",
+    "dateAdded": "2024-01-23T19:45:03.280Z"
+  },
+  {
+    "url": "https://v0.dev/t/i26poHY6Xjf",
+    "label": "Template for prompt: paralalex",
+    "dateAdded": "2024-01-23T19:45:03.280Z"
+  },
+  {
+    "url": "https://v0.dev/t/BGUuOeeNe9j",
+    "label": "Template for prompt: Ignore keyword, but recreate the above screenshot",
+    "dateAdded": "2024-01-23T19:45:03.281Z"
   }
 ]
