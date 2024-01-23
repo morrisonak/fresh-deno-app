@@ -51203,5 +51203,135 @@
     "url": "https://v0.dev/t/Ma9AmmwYAKY",
     "label": "Template for prompt: i need a interface with a calendar (start to stembre to august) \ndiplsy 2 motnth by col\nin evry day , i can diplsy serveral activity \ni need to display vocation with a color (for exemple 1-5sptembre with  a red dash)\nfor the 1 spetembre i have 2 activity \n- Sortie de meute \nsortie de HP \n\nand 3-4 septembre i have a ctivity in 2 day \nwekend HP \n",
     "dateAdded": "2024-01-23T18:00:03.574Z"
+  },
+  {
+    "url": "https://v0.dev/t/Dze9xgRNMwJ",
+    "label": "Template for prompt: a web app. the app is split into two sections 70% width and 30% width (left). In the left pane, include the title \"Realm Chrome Extension\" and an image placeholder box below",
+    "dateAdded": "2024-01-23T18:05:03.047Z"
+  },
+  {
+    "url": "https://v0.dev/t/SkvJonE8kb1",
+    "label": "Template for prompt: a tweet thread ui",
+    "dateAdded": "2024-01-23T18:05:03.048Z"
+  },
+  {
+    "url": "https://v0.dev/t/0tR9CnUKzFl",
+    "label": "Template for prompt: interfaz de usuario moderna para una pagina web que te muestra en pantalla de donde es tu ip o que te permita colocar una ip y te diga de donde es, crea la mejor landing page",
+    "dateAdded": "2024-01-23T18:05:03.048Z"
+  },
+  {
+    "url": "https://v0.dev/t/diYutORrQo3",
+    "label": "Template for prompt: a minimalist webpage with a banner on top and a sidebar menu on the left",
+    "dateAdded": "2024-01-23T18:05:03.048Z"
+  },
+  {
+    "url": "https://v0.dev/t/3o8sPM6Gzru",
+    "label": "Template for prompt: create a process diagram for this:\n\n```\nconst processes: Process[] = [\n  {\n    title: \"Initial Consultation\",\n    description: `We start by understanding your business goals, challenges, and technology needs through in-depth discussions and analysis.`,\n  },\n  {\n    title: \"Planning and Strategy\",\n    description: `Our team develops a customized plan and strategy to address your specific requirements, ensuring alignment with your business objectives.`,\n  },\n  {\n    title: \"Development and Implementation\",\n    description: `We proceed with the development and implementation of tailored solutions, including web development, software creation, and IT infrastructure setup.`,\n  },\n  {\n    title: \"Quality Assurance\",\n    description: `Rigorous testing and quality assurance processes are conducted to ensure the reliability, security, and performance of the solutions.`,\n  },\n  ]",
+    "dateAdded": "2024-01-23T18:05:03.048Z"
+  },
+  {
+    "url": "https://v0.dev/t/dcaKVfPRGSd",
+    "label": "Template for prompt: A kubernetes deployment form with daisyui",
+    "dateAdded": "2024-01-23T18:05:03.048Z"
+  },
+  {
+    "url": "https://v0.dev/t/zmR3F869Qwx",
+    "label": "Template for prompt: give this layout",
+    "dateAdded": "2024-01-23T18:05:03.049Z"
+  },
+  {
+    "url": "https://v0.dev/t/nuyRahD9Ayb",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T18:05:03.049Z"
+  },
+  {
+    "url": "https://v0.dev/t/kv7ddUv0krJ",
+    "label": "Template for prompt: 2d floor plan viewer",
+    "dateAdded": "2024-01-23T18:05:03.049Z"
+  },
+  {
+    "url": "https://v0.dev/t/thiC4a4AFBv",
+    "label": "Template for prompt: You have to create a simple React App which has a reusable Card Component which has the following\n - Ability to pass in props to the Component\n - The Card must show a person's\n    - Name\n    - A short description\n    - LinkedIn, Twitter and other Social Media Handle buttons\n    - Interests Section\n - You can assume that this is kind of an e-business card and feel free to put in your creativity\n - Additional & Slightly advanced:\n    - Create a page where you can add these kind of Cards by taking input from the user\n    - Create a backend server where these cards get stored in a DB and can handle basic CRUD operations\n    - Give the feature to perform CRUD operations from the frontend (Can be restricted to the admin only as well)",
+    "dateAdded": "2024-01-23T18:05:03.049Z"
+  },
+  {
+    "url": "https://v0.dev/t/66Ep9GRQRf9",
+    "label": "Template for prompt: *Introduction: Overview of Challenges in Disaster Preparedness and Response*\n\nNatural disasters pose significant threats to communities worldwide, necessitating a proactive approach in preparation and response. From earthquakes to hurricanes, communities face multifaceted challenges in safeguarding lives and property during such crises. This overview explores the inherent difficulties communities encounter in preparing for and responding to natural disasters, emphasizing the critical need for timely information, efficient evacuation routes, and accessible emergency resources.\n\n*Challenges in Disaster Preparedness:*\n\n1. *Limited Awareness:* Many communities lack comprehensive awareness of potential natural disasters and the necessary steps to take before disaster strikes.\n\n2. *Resource Constraints:* Scarce resources and funding hinder the implementation of robust disaster preparedness initiatives, leaving communities vulnerable.\n",
+    "dateAdded": "2024-01-23T18:05:03.049Z"
+  },
+  {
+    "url": "https://v0.dev/t/zNOUvc0SwpO",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T18:05:03.050Z"
+  },
+  {
+    "url": "https://v0.dev/t/qlonRtSzasA",
+    "label": "Template for prompt: can you design a homepage for a livechat service called Chat Line",
+    "dateAdded": "2024-01-23T18:05:03.050Z"
+  },
+  {
+    "url": "https://v0.dev/t/DKJtBEkZFJv",
+    "label": "Template for prompt: can you design a homepage for a livechat service called Chat Line",
+    "dateAdded": "2024-01-23T18:05:03.050Z"
+  },
+  {
+    "url": "https://v0.dev/t/eERqE56s3aU",
+    "label": "Template for prompt: Create a image gallery carousel component using 19 grid template. ",
+    "dateAdded": "2024-01-23T18:05:03.050Z"
+  },
+  {
+    "url": "https://v0.dev/t/bCZsoItX4qM",
+    "label": "Template for prompt: duplicalo ",
+    "dateAdded": "2024-01-23T18:05:03.051Z"
+  },
+  {
+    "url": "https://v0.dev/t/Jl1MgqiNGe5",
+    "label": "Template for prompt: create input field with suggesting list below like flipcard search",
+    "dateAdded": "2024-01-23T18:05:03.051Z"
+  },
+  {
+    "url": "https://v0.dev/t/2t85JkcvPcg",
+    "label": "Template for prompt: \"Create a sophisticated and visually appealing quiz or assessment page that embodies a professional look while ensuring a user-friendly experience. The design should integrate seamlessly with the brand's identity, employing a color scheme and typography that reflect elegance and clarity.\n\nKey Components to Include:\n\nLayout: Develop a clean and organized layout that facilitates easy navigation and reading. The content should be arranged logically, with ample white space to prevent clutter.\n\nColor Scheme and Typography: Choose a color palette that is consistent with the official branding, ensuring it is pleasing to the eye and conducive to focus. The typography should be professional yet approachable, enhancing readability.\n\n'Previous' and 'Next' Buttons:\n\nDesign: Craft buttons that are visually distinctive yet blend harmoniously with the overall page design. Opt for a sleek, modern shape, such as rounded rectangles.\nColor and Style: Utilize colors that stand out against the page backgro",
+    "dateAdded": "2024-01-23T18:05:03.051Z"
+  },
+  {
+    "url": "https://v0.dev/t/Cckx7QHCBKW",
+    "label": "Template for prompt: A time tracking application for managers that shows alls employees planned and actual working times",
+    "dateAdded": "2024-01-23T18:05:03.051Z"
+  },
+  {
+    "url": "https://v0.dev/t/YBTQMk7bh2R",
+    "label": "Template for prompt: Login page, with account number, password, verification code, more login",
+    "dateAdded": "2024-01-23T18:05:03.051Z"
+  },
+  {
+    "url": "https://v0.dev/t/o16Ftfp20a8",
+    "label": "Template for prompt: generame el menu y la imagen como se ve en la captura ",
+    "dateAdded": "2024-01-23T18:05:03.051Z"
+  },
+  {
+    "url": "https://v0.dev/t/jew5bMpI7xn",
+    "label": "Template for prompt: a landing page for app with - Alerts\n- ⁠SOS - geotagged photos \n- ⁠Faqs\n- ⁠ChatBot\n- ⁠Forecast \n- Mutlilingual app",
+    "dateAdded": "2024-01-23T18:05:03.052Z"
+  },
+  {
+    "url": "https://v0.dev/t/mCEOpvK0gyJ",
+    "label": "Template for prompt: create a header with clothing, supplements, and accessories categories in the middle and when I hover over them it triggers a dropdown menu",
+    "dateAdded": "2024-01-23T18:05:03.052Z"
+  },
+  {
+    "url": "https://v0.dev/t/kKksAZH0BMy",
+    "label": "Template for prompt: display this data in card \n   const {\n      id,\n      EnginCapacity,\n      description,\n      paintType,\n      payment,\n      price,\n      name,\n      RegionalSpecifications,\n      location,\n      Adimages,\n      brand,\n      category,\n      model,\n      year,\n      carType,\n      carStatus,\n      transmission,\n      fuelType,\n      meterRange,\n    } = ad;",
+    "dateAdded": "2024-01-23T18:05:03.052Z"
+  },
+  {
+    "url": "https://v0.dev/t/z5d9w5eGGU3",
+    "label": "Template for prompt: A landing page for an iOS app that generate people's photo to make them look thinner / fitter, providing motivation for them to work out. Make the design fun, instead of making it like a business app. Have a textbox to collect email address (the app isn't launched yet)",
+    "dateAdded": "2024-01-23T18:05:03.052Z"
+  },
+  {
+    "url": "https://v0.dev/t/OF0a0yTZtjR",
+    "label": "Template for prompt: Create a minimalist webpage for a sale of gummies, which its name is \"Yogui Gummies\", with our products in windows and a way to contact us",
+    "dateAdded": "2024-01-23T18:05:03.053Z"
   }
 ]
