@@ -48143,5 +48143,135 @@
     "url": "https://v0.dev/t/GBbOgH71u9x",
     "label": "Template for prompt: create instagram downloader front page search bar and download button plus multilanguage dropdown metioned multilangauges english and Dutch which language i chose page content is show in that selected langauge by using Internationalization (i18n) Routing",
     "dateAdded": "2024-01-23T16:00:03.997Z"
+  },
+  {
+    "url": "https://v0.dev/t/ruwGah9GTgq",
+    "label": "Template for prompt: Aplikacija za vođenje evidencije o digitalnim medijima",
+    "dateAdded": "2024-01-23T16:05:03.833Z"
+  },
+  {
+    "url": "https://v0.dev/t/JOXoF8Ih7wE",
+    "label": "Template for prompt: 왼쪽 side bar에는 토글로 접었다 폈다 가능하면서 파일 탐색기 기능을 하고 main에는 코드를 편집할 수 있느 화면 그리고 하단에는 터미널 창으로 구성된 화면 만들어줘",
+    "dateAdded": "2024-01-23T16:05:03.833Z"
+  },
+  {
+    "url": "https://v0.dev/t/mFO60vACvmd",
+    "label": "Template for prompt: create mutiple langauge about us page dropdown shown of multple english and dutch langauge chose dutch shown content in dutch langauge",
+    "dateAdded": "2024-01-23T16:05:03.833Z"
+  },
+  {
+    "url": "https://v0.dev/t/HSm3inEYAjv",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T16:05:03.833Z"
+  },
+  {
+    "url": "https://v0.dev/t/BVlomaeyEJt",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T16:05:03.833Z"
+  },
+  {
+    "url": "https://v0.dev/t/16qcxg1AxmB",
+    "label": "Template for prompt: Make a page to enter basic information about a new medical claim",
+    "dateAdded": "2024-01-23T16:05:03.833Z"
+  },
+  {
+    "url": "https://v0.dev/t/uTNGcamtjvU",
+    "label": "Template for prompt: Make a component for stating that you can't access this and need to be authenticated and a redirect option to home page or login screen",
+    "dateAdded": "2024-01-23T16:05:03.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/c2ShTaThQX6",
+    "label": "Template for prompt: Create a website with dark gray theme and orange accent. Header with a large image, and underneath an orange line with 5 orange buttons underneath it. Content elements are separate cards, which are of darker gray than the background, which should be a lighter gray overall",
+    "dateAdded": "2024-01-23T16:05:03.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/XqoEksYOZJN",
+    "label": "Template for prompt: carousel multiple items arrows",
+    "dateAdded": "2024-01-23T16:05:03.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/bCcmqKwmtdV",
+    "label": "Template for prompt: genera un formulario de login en un tab y en otro tab el formulario de registro",
+    "dateAdded": "2024-01-23T16:05:03.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/yyVAoben0LB",
+    "label": "Template for prompt: a web app for pic of the day from nasa",
+    "dateAdded": "2024-01-23T16:05:03.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/N5imUu5h8Mz",
+    "label": "Template for prompt: create instagram downloader multi language page dropdown show on top two languages english and dutch shown on page headre and footer and main page title shown search bar and  download button shown if i chose dutch coneten header , footer and bofy page on that language",
+    "dateAdded": "2024-01-23T16:05:03.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/vYZctCpWBN4",
+    "label": "Template for prompt: make a dark theme futurestic verticle card with animation",
+    "dateAdded": "2024-01-23T16:05:03.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/YWlzbXdQqzH",
+    "label": "Template for prompt: tailwind, daisyUIで再現して下さい",
+    "dateAdded": "2024-01-23T16:05:03.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/Gk0YaiXrHi2",
+    "label": "Template for prompt: Reproduice this design",
+    "dateAdded": "2024-01-23T16:05:03.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/uafeqXIFJWo",
+    "label": "Template for prompt: simple admin dashboard with modern design",
+    "dateAdded": "2024-01-23T16:05:03.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/Bar1xLZdbNj",
+    "label": "Template for prompt: A carousel component to show team members. Content is contained but scrollbar is fluid",
+    "dateAdded": "2024-01-23T16:05:03.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/8EFQmnzo6Ze",
+    "label": "Template for prompt: @import \"../../vars.css\";\n\n.container {\n    display: flex;\n    flex-direction: column;\n    border-radius: 10px;\n    background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);\n    box-shadow: 0 16px 14px 0 #04152d;\n    padding: 18px 24px;\n    max-width: 345px;\n}\n.image {\n    margin-bottom: 26px;\n}\n.title {\n    font-size: 25px;\n    font-weight: 700;\n}\n.description {\n    margin-top: 6px;\n    font-size: 25px;\n    font-weight: 400;\n}\n.skills {\n    width: 100%;\n    margin-top: 14px;\n    display: flex;\n    flex-direction: row;\n    flex-wrap: wrap;\n    gap: 6px;\n    list-style: none;\n}\n.skill {\n    font-size: 25px;\n    font-weight: 400;\n    border-radius: 100px;\n    background: var(--color-dark);\n    padding: 2px 22px;\n}\n.links {\n    width: 100%;\n    margin-top: 26px;\n    display: flex;\n    justify-content: space-around;\n}\n\ncan you make the cards grow/scale together im case one card grows in size",
+    "dateAdded": "2024-01-23T16:05:03.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/SSLdP5qSZhX",
+    "label": "Template for prompt: Can you build a home page for software consulting company. That looks modern",
+    "dateAdded": "2024-01-23T16:05:03.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/jh6EHIV3tGo",
+    "label": "Template for prompt: Create a CTA section that suggests users to click on link to download a brochure. Make it a beautiful that features an image",
+    "dateAdded": "2024-01-23T16:05:03.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/QnwP7EW3Ayb",
+    "label": "Template for prompt: \nGenerate multiple lines of wechat mini program data with search box above",
+    "dateAdded": "2024-01-23T16:05:03.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/hkWY5BUkdar",
+    "label": "Template for prompt: could you improve this landing hero video ",
+    "dateAdded": "2024-01-23T16:05:03.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/KuwGMeEmmnc",
+    "label": "Template for prompt: create an Audio Mixer control panel that has  12 Vertical faders and a VU meter next to it. also include labels and a mute/solo button per channel on the right side there is a sidebar that selects the buss  Make sure the faders are vertical not horizontal",
+    "dateAdded": "2024-01-23T16:05:03.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/5urInxAnlQU",
+    "label": "Template for prompt: create a website",
+    "dateAdded": "2024-01-23T16:05:03.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/7CfX71Z7h5y",
+    "label": "Template for prompt: google docs ui",
+    "dateAdded": "2024-01-23T16:05:03.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/p5ZDY8msXX1",
+    "label": "Template for prompt: make me a multi-line hero header where each line slides in with an animation",
+    "dateAdded": "2024-01-23T16:05:03.836Z"
   }
 ]
