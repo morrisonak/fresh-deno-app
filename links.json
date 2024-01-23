@@ -47243,5 +47243,135 @@
     "url": "https://v0.dev/t/jilQNXifUKE",
     "label": "Template for prompt: video background",
     "dateAdded": "2024-01-23T15:25:03.026Z"
+  },
+  {
+    "url": "https://v0.dev/t/Rf44UF4KJV1",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T15:30:03.669Z"
+  },
+  {
+    "url": "https://v0.dev/t/oAclV5ooTVA",
+    "label": "Template for prompt: A minimalistic blog template",
+    "dateAdded": "2024-01-23T15:30:03.669Z"
+  },
+  {
+    "url": "https://v0.dev/t/LC5aovEwFGc",
+    "label": "Template for prompt: recreate this with grid in tailwind",
+    "dateAdded": "2024-01-23T15:30:03.670Z"
+  },
+  {
+    "url": "https://v0.dev/t/m7byV2yKYRs",
+    "label": "Template for prompt: A map of Warsaw (or any other city) with pins on places where the upcoming event is going to take place. In left-top corner there is a button that enables user to filter events by the day it will be",
+    "dateAdded": "2024-01-23T15:30:03.670Z"
+  },
+  {
+    "url": "https://v0.dev/t/WQjFWQSwBdv",
+    "label": "Template for prompt: create this UI",
+    "dateAdded": "2024-01-23T15:30:03.670Z"
+  },
+  {
+    "url": "https://v0.dev/t/n7DWF4p7gke",
+    "label": "Template for prompt: A portfolio projects section with a feturead projects area and one other projects area",
+    "dateAdded": "2024-01-23T15:30:03.670Z"
+  },
+  {
+    "url": "https://v0.dev/t/GuRSbH4xxpU",
+    "label": "Template for prompt: A portfolio projects section with a feturead projects area and one other projects area",
+    "dateAdded": "2024-01-23T15:30:03.670Z"
+  },
+  {
+    "url": "https://v0.dev/t/PlojEQd6Fu3",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T15:30:03.671Z"
+  },
+  {
+    "url": "https://v0.dev/t/vjt4dQ91mab",
+    "label": "Template for prompt: recreate this in tailwind",
+    "dateAdded": "2024-01-23T15:30:03.671Z"
+  },
+  {
+    "url": "https://v0.dev/t/KHm8ofeNeUR",
+    "label": "Template for prompt: iphone mobile welcome page",
+    "dateAdded": "2024-01-23T15:30:03.671Z"
+  },
+  {
+    "url": "https://v0.dev/t/kVgzAYVIFkK",
+    "label": "Template for prompt: create a portfolio website for me my name is Pranav. completed btech in OCt 2023 in CSE, Stacks : JAVA, HTML,CSS,JAVASCRIPT, MER, SQL JIRA, You stay in Pune - 7057353668 yaasshh@gmail.com, ",
+    "dateAdded": "2024-01-23T15:30:03.671Z"
+  },
+  {
+    "url": "https://v0.dev/t/sGC7hw8pl7q",
+    "label": "Template for prompt: create a card with an Icon relatively big, a title and a description",
+    "dateAdded": "2024-01-23T15:30:03.672Z"
+  },
+  {
+    "url": "https://v0.dev/t/tnIqx59tEtm",
+    "label": "Template for prompt: un formulaire de contact standard",
+    "dateAdded": "2024-01-23T15:30:03.672Z"
+  },
+  {
+    "url": "https://v0.dev/t/70o4phKwTH1",
+    "label": "Template for prompt: make a gradient buitton",
+    "dateAdded": "2024-01-23T15:30:03.672Z"
+  },
+  {
+    "url": "https://v0.dev/t/ObH4bfPPylB",
+    "label": "Template for prompt: make a professional educational institution landing main website with a minimalistic graphics and animations thata meets the industrial standards",
+    "dateAdded": "2024-01-23T15:30:03.672Z"
+  },
+  {
+    "url": "https://v0.dev/t/f7pMv0udN1Q",
+    "label": "Template for prompt: USE CSS ONLY, NOT OTHER FRAMEWORKS",
+    "dateAdded": "2024-01-23T15:30:03.672Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q02S2Jv22Rz",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-23T15:30:03.672Z"
+  },
+  {
+    "url": "https://v0.dev/t/swdtORcyjDy",
+    "label": "Template for prompt: make a meet our team card",
+    "dateAdded": "2024-01-23T15:30:03.673Z"
+  },
+  {
+    "url": "https://v0.dev/t/Jp0BWgCTBoG",
+    "label": "Template for prompt: overview page using material design 2",
+    "dateAdded": "2024-01-23T15:30:03.673Z"
+  },
+  {
+    "url": "https://v0.dev/t/a6TQwO0aSCi",
+    "label": "Template for prompt: I have following object, representing model training run:\n\n{\n  \"created_at\": \"2024-01-15T03:51:03.943707+00:00\",\n  \"updated_at\": \"2024-01-15T03:51:03.943707+00:00\",\n  \"model_id\": \"b10f911e-7a06-466c-be5d-12126da3ee12\",\n  \"status\": \"complete\",\n  \"sha\": \"751fbc68c083e9355fbe6172dde9bbd3d1c0a46c\",\n  \"started_at\": \"2024-01-15T03:51:03.943707+00:00\",\n  \"ended_at\": null,\n  \"job_id\": \"...\",\n  \"family\": \"gas_fees\",\n  \"forecast_size\": 1,\n  \"handler\": null,\n  \"inference_entry_point\": null,\n  \"inference_query\": \"SELECT number as  LIMIT 35\",\n  \"lookback_size\": 30,\n  \"metadata\": {\n    \"covariate\": true,\n    \"firecache\": true\n  },\n  \"model_type\": \"xgb_gasfees\",\n  \"name\": \"v0.1-firecache\",\n  \"normalization_entry_point\": null,\n  \"path\": \"models/gas_fees-firecache\",\n  \"training_entry_poin: null,\n  \"training_query\": \"SELECT * FROM POINTS\",\n\"completed_at\": \"2024-01-15T03:51:17.187+00:00\",\n  \"error\": null,\n  \"id\": \"...\"\n}\n\nI need a clean page header to show this data",
+    "dateAdded": "2024-01-23T15:30:03.673Z"
+  },
+  {
+    "url": "https://v0.dev/t/f9DGAFwYRHK",
+    "label": "Template for prompt: create svg icons for cleaning service platform",
+    "dateAdded": "2024-01-23T15:30:03.673Z"
+  },
+  {
+    "url": "https://v0.dev/t/Jeel3BSqCM4",
+    "label": "Template for prompt: login que diga ArdiGO, que tenga usuario y contraseña pensando que sea apto para personas de 18 hacia edad avanzada",
+    "dateAdded": "2024-01-23T15:30:03.673Z"
+  },
+  {
+    "url": "https://v0.dev/t/suLa7L5b31p",
+    "label": "Template for prompt: create a loader of 3 objects like circle one jump after other",
+    "dateAdded": "2024-01-23T15:30:03.673Z"
+  },
+  {
+    "url": "https://v0.dev/t/jeVh4SJOMgs",
+    "label": "Template for prompt: A multiple-question screen for mobile app with a next button on the bottom and close button on top left and reset button on the top right",
+    "dateAdded": "2024-01-23T15:30:03.673Z"
+  },
+  {
+    "url": "https://v0.dev/t/1cYigEwUf6i",
+    "label": "Template for prompt: an application that the user uploads  a document",
+    "dateAdded": "2024-01-23T15:30:03.674Z"
+  },
+  {
+    "url": "https://v0.dev/t/3ZRKQf5wgie",
+    "label": "Template for prompt: Home page for a application where user can report a desire to take part in a match. Contains of multiple matches places in horizontal scroll-bar",
+    "dateAdded": "2024-01-23T15:30:03.674Z"
   }
 ]
