@@ -54743,5 +54743,130 @@
     "url": "https://v0.dev/t/bJQedsEFSry",
     "label": "Template for prompt: website for danger detection on message, need an input and a result div, make it feels like it's a page that is fill even if there's not a lot of things",
     "dateAdded": "2024-01-23T20:20:02.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/uGMDMB4yMPY",
+    "label": "Template for prompt: A modern kubernetes management application focused on user experience",
+    "dateAdded": "2024-01-23T20:25:03.652Z"
+  },
+  {
+    "url": "https://v0.dev/t/DagBQymq3lK",
+    "label": "Template for prompt: create a mobile application where i can see a chart for my body weight over time. the chart data should start high and trend down. underneath the chart you have a button that when clicked opens up a bottom drawer with a simple form to submit feedback about the app.",
+    "dateAdded": "2024-01-23T20:25:03.652Z"
+  },
+  {
+    "url": "https://v0.dev/t/9zDhYtfOI9B",
+    "label": "Template for prompt: landing page about selling pokemon cards and have fun",
+    "dateAdded": "2024-01-23T20:25:03.652Z"
+  },
+  {
+    "url": "https://v0.dev/t/v26KBpIsZnf",
+    "label": "Template for prompt: sign in page that asks for account and password. It needs a create account link also. at the bottom have 3 buttons to have the option to sign in via google account, facebook, and github",
+    "dateAdded": "2024-01-23T20:25:03.652Z"
+  },
+  {
+    "url": "https://v0.dev/t/zsrBgko0W6q",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-23T20:25:03.652Z"
+  },
+  {
+    "url": "https://v0.dev/t/taG8Bda79Ab",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T20:25:03.652Z"
+  },
+  {
+    "url": "https://v0.dev/t/PiWRkRBxPM2",
+    "label": "Template for prompt: horizontal navbar on left side with multiple elements: Company Logo (round), nav elements with icons, profile image at page bottom",
+    "dateAdded": "2024-01-23T20:25:03.652Z"
+  },
+  {
+    "url": "https://v0.dev/t/V2OaJpxosvf",
+    "label": "Template for prompt: generate a landing page for pricing items",
+    "dateAdded": "2024-01-23T20:25:03.653Z"
+  },
+  {
+    "url": "https://v0.dev/t/aNsNeRdJF1X",
+    "label": "Template for prompt: A sign-up form that just asks for the users name",
+    "dateAdded": "2024-01-23T20:25:03.653Z"
+  },
+  {
+    "url": "https://v0.dev/t/pjZddBSAVjW",
+    "label": "Template for prompt: automatic questionnaire answering with ai",
+    "dateAdded": "2024-01-23T20:25:03.653Z"
+  },
+  {
+    "url": "https://v0.dev/t/QyzQrbe4clt",
+    "label": "Template for prompt: A landing page for our quadruped robot for power plants surveillance",
+    "dateAdded": "2024-01-23T20:25:03.653Z"
+  },
+  {
+    "url": "https://v0.dev/t/3L2vj77JOe1",
+    "label": "Template for prompt: iphone mockup.  sms message.  Here is your 4-digit verification code",
+    "dateAdded": "2024-01-23T20:25:03.653Z"
+  },
+  {
+    "url": "https://v0.dev/t/7BXTMVaVYgS",
+    "label": "Template for prompt: Homepage for website full of online tools, just a directory of them with different categories",
+    "dateAdded": "2024-01-23T20:25:03.653Z"
+  },
+  {
+    "url": "https://v0.dev/t/g68cXHsFN9n",
+    "label": "Template for prompt: Can you design a sign in page which has email sign in using verification codes and oauth using salesforce",
+    "dateAdded": "2024-01-23T20:25:03.653Z"
+  },
+  {
+    "url": "https://v0.dev/t/NCBBHGmiUYE",
+    "label": "Template for prompt: iphone mockup with sms showing 4-digit verification code",
+    "dateAdded": "2024-01-23T20:25:03.653Z"
+  },
+  {
+    "url": "https://v0.dev/t/eGwNHPwGnBN",
+    "label": "Template for prompt: sidebar which becomes a drawer in mobile using shadcn components",
+    "dateAdded": "2024-01-23T20:25:03.654Z"
+  },
+  {
+    "url": "https://v0.dev/t/TgsQj6nlvnA",
+    "label": "Template for prompt: Create an landing page for a stock portfolio tracker. The page has an background grainy gradient with blue, orange/brown and green",
+    "dateAdded": "2024-01-23T20:25:03.654Z"
+  },
+  {
+    "url": "https://v0.dev/t/eLTlUbxKwFb",
+    "label": "Template for prompt: Make this form more modern and nicer looking",
+    "dateAdded": "2024-01-23T20:25:03.654Z"
+  },
+  {
+    "url": "https://v0.dev/t/ADJSbJ0aH40",
+    "label": "Template for prompt: a SaaS homepage with testimonials, product examples",
+    "dateAdded": "2024-01-23T20:25:03.654Z"
+  },
+  {
+    "url": "https://v0.dev/t/etvpur7MNLj",
+    "label": "Template for prompt: navbar",
+    "dateAdded": "2024-01-23T20:25:03.654Z"
+  },
+  {
+    "url": "https://v0.dev/t/MQzRWEMMPyK",
+    "label": "Template for prompt: a help modal with a button to open a feedback submission page on the left and on the right an invite to join a Discord server",
+    "dateAdded": "2024-01-23T20:25:03.654Z"
+  },
+  {
+    "url": "https://v0.dev/t/7x3L7221gS8",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T20:25:03.654Z"
+  },
+  {
+    "url": "https://v0.dev/t/i2BxpNIlbo4",
+    "label": "Template for prompt: Kanban Panel with four columns, every column have a add button and every task have edit button",
+    "dateAdded": "2024-01-23T20:25:03.654Z"
+  },
+  {
+    "url": "https://v0.dev/t/r06IMUnqnUu",
+    "label": "Template for prompt: A add product form of attraction",
+    "dateAdded": "2024-01-23T20:25:03.655Z"
+  },
+  {
+    "url": "https://v0.dev/t/mxcmh6wkxJm",
+    "label": "Template for prompt: A newsletter form",
+    "dateAdded": "2024-01-23T20:25:03.655Z"
   }
 ]
