@@ -59188,5 +59188,130 @@
     "url": "https://v0.dev/t/WnPE6r9oZzi",
     "label": "Template for prompt: Replicate this app bar",
     "dateAdded": "2024-01-23T23:15:02.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/c15Tc6OQRlJ",
+    "label": "Template for prompt: Faça as telas separadas de acordo com as que existem na tela pricipal do sistema",
+    "dateAdded": "2024-01-23T23:20:03.531Z"
+  },
+  {
+    "url": "https://v0.dev/t/qK5UzvT4isW",
+    "label": "Template for prompt: Saas layout menu",
+    "dateAdded": "2024-01-23T23:20:03.531Z"
+  },
+  {
+    "url": "https://v0.dev/t/LJEbGUk9FBW",
+    "label": "Template for prompt: background of body dark dray make a cards for projects for my briefcase, for text use white and purple, with hover and a image, with icons off tecnologies that used, margin of container of the cards of 20% in the left and in the right",
+    "dateAdded": "2024-01-23T23:20:03.532Z"
+  },
+  {
+    "url": "https://v0.dev/t/AgdFoJow0H5",
+    "label": "Template for prompt: a simplistic dashboard with weather, to do list, calendar",
+    "dateAdded": "2024-01-23T23:20:03.532Z"
+  },
+  {
+    "url": "https://v0.dev/t/dMLotFvgdhH",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-23T23:20:03.532Z"
+  },
+  {
+    "url": "https://v0.dev/t/lctnRqFNuQX",
+    "label": "Template for prompt: A cart view where user has to pick payment option and delivery option (use radio buttons)",
+    "dateAdded": "2024-01-23T23:20:03.532Z"
+  },
+  {
+    "url": "https://v0.dev/t/hAaGf9ofY3j",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-23T23:20:03.533Z"
+  },
+  {
+    "url": "https://v0.dev/t/fYeZEnYtfUo",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T23:20:03.533Z"
+  },
+  {
+    "url": "https://v0.dev/t/5KPbTTVPX8c",
+    "label": "Template for prompt: A web page to confirm code after sign up",
+    "dateAdded": "2024-01-23T23:20:03.533Z"
+  },
+  {
+    "url": "https://v0.dev/t/0nRFgByOBka",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-23T23:20:03.533Z"
+  },
+  {
+    "url": "https://v0.dev/t/ih3O7GkccNj",
+    "label": "Template for prompt: I  need a beautiful and moderm table using tailwincss and html tags\nColumns: First Name\tLast Name\tDesignation\tEmail\tPhone Number\tCCF Eligible\tActions",
+    "dateAdded": "2024-01-23T23:20:03.533Z"
+  },
+  {
+    "url": "https://v0.dev/t/ogqn8aoncb9",
+    "label": "Template for prompt: A \"report an issue\" modal",
+    "dateAdded": "2024-01-23T23:20:03.534Z"
+  },
+  {
+    "url": "https://v0.dev/t/fc3YoL1znTI",
+    "label": "Template for prompt: A minimalist portfolio for a industrial designer",
+    "dateAdded": "2024-01-23T23:20:03.534Z"
+  },
+  {
+    "url": "https://v0.dev/t/HKDAL8RkXC4",
+    "label": "Template for prompt: file upload with drag and drop in nextjs",
+    "dateAdded": "2024-01-23T23:20:03.534Z"
+  },
+  {
+    "url": "https://v0.dev/t/rjS8UUjGbwo",
+    "label": "Template for prompt: a categories section, functional, when one category is selected change the color, ",
+    "dateAdded": "2024-01-23T23:20:03.534Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qy1ApWKYsrJ",
+    "label": "Template for prompt: An admin panel with sidebar navigation with these links:\n- Dashboard\n- Widget\n- Settings\n- Scheduler\n\nDark theme. Header includes ability to minimize sidebar, a notification bell icon with context menu, and a logout button.",
+    "dateAdded": "2024-01-23T23:20:03.535Z"
+  },
+  {
+    "url": "https://v0.dev/t/BiBKBC0lBGa",
+    "label": "Template for prompt: make a cards for projects for my briefcase, for text use white and purple, with hover and a image",
+    "dateAdded": "2024-01-23T23:20:03.535Z"
+  },
+  {
+    "url": "https://v0.dev/t/AGGYS1PiFvm",
+    "label": "Template for prompt: create this",
+    "dateAdded": "2024-01-23T23:20:03.535Z"
+  },
+  {
+    "url": "https://v0.dev/t/WQLZAosMNcM",
+    "label": "Template for prompt: A user Interface for an AI image prompt generator.  Dark mode.",
+    "dateAdded": "2024-01-23T23:20:03.535Z"
+  },
+  {
+    "url": "https://v0.dev/t/IrW4Z1pr94P",
+    "label": "Template for prompt: A user Interface for an AI image prompt generator.  Dark mode.",
+    "dateAdded": "2024-01-23T23:20:03.535Z"
+  },
+  {
+    "url": "https://v0.dev/t/0cVlabqGrZF",
+    "label": "Template for prompt: give me a component that lists id's with hyperlinks to the id's slug",
+    "dateAdded": "2024-01-23T23:20:03.535Z"
+  },
+  {
+    "url": "https://v0.dev/t/pZGQ61wsKT3",
+    "label": "Template for prompt: formulario similar a este ",
+    "dateAdded": "2024-01-23T23:20:03.536Z"
+  },
+  {
+    "url": "https://v0.dev/t/FJI5FeuABnM",
+    "label": "Template for prompt: Create a visually appealing and highly converting landing page for our social media marketing agency. The page should \nhighlight our comprehensive services, including web development, SEO, social media marketing, and SEM. Use bold and \nvibrant colors to grab the attention of potential clients and showcase our expertise in these areas.\n\nUse large headings and subheadings to break up the content and make it easy to scan. Highlight our unique selling \npoints, such as our ability to create custom social media campaigns tailored to each client's needs, and our team of \nexperts who are dedicated to delivering results-driven solutions.\n\nIncorporate eye-catching visual elements, such as images or videos, to support the content and showcase our work. Use \nclear and concise language to communicate our value proposition and call to action, encouraging visitors to reach out \nfor more information or to schedule a consultation.\n\nThe landing page should also be optimized for mobile devices, ensuring",
+    "dateAdded": "2024-01-23T23:20:03.536Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y9FMW3J0nVS",
+    "label": "Template for prompt: A success and error page for newsletter subscription",
+    "dateAdded": "2024-01-23T23:20:03.536Z"
+  },
+  {
+    "url": "https://v0.dev/t/Gv9Q3zKLa9X",
+    "label": "Template for prompt: CRM Client View with 5 tabs ",
+    "dateAdded": "2024-01-23T23:20:03.536Z"
   }
 ]
