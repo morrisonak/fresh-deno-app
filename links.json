@@ -58043,5 +58043,135 @@
     "url": "https://v0.dev/t/TNV7TuPWC0B",
     "label": "Template for prompt: create the same layout",
     "dateAdded": "2024-01-23T22:30:03.130Z"
+  },
+  {
+    "url": "https://v0.dev/t/huPRsDeNeyQ",
+    "label": "Template for prompt: create a page that has all the possible UI controls avilale with data in it",
+    "dateAdded": "2024-01-23T22:35:02.844Z"
+  },
+  {
+    "url": "https://v0.dev/t/y7hIdifClNE",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-23T22:35:02.844Z"
+  },
+  {
+    "url": "https://v0.dev/t/pEtvmCFR78o",
+    "label": "Template for prompt: A card component with Avatar on the left hand side and title with description to the right. The card should have CTA to upgrade. ",
+    "dateAdded": "2024-01-23T22:35:02.844Z"
+  },
+  {
+    "url": "https://v0.dev/t/lZnfOwKGm5d",
+    "label": "Template for prompt: A form to create a provider, it requires multiple inputs like name, phone, legalName, ssn, and 3 file inputs",
+    "dateAdded": "2024-01-23T22:35:02.844Z"
+  },
+  {
+    "url": "https://v0.dev/t/xDEE3bMPsQq",
+    "label": "Template for prompt: make a purple sidebar",
+    "dateAdded": "2024-01-23T22:35:02.845Z"
+  },
+  {
+    "url": "https://v0.dev/t/6pklIj5p327",
+    "label": "Template for prompt: Pomodoro app that is gamified",
+    "dateAdded": "2024-01-23T22:35:02.845Z"
+  },
+  {
+    "url": "https://v0.dev/t/DgcSxfxv56b",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-23T22:35:02.845Z"
+  },
+  {
+    "url": "https://v0.dev/t/EH2QLAq6wtD",
+    "label": "Template for prompt: recreate this design",
+    "dateAdded": "2024-01-23T22:35:02.845Z"
+  },
+  {
+    "url": "https://v0.dev/t/iOifOs5n2NW",
+    "label": "Template for prompt: a screen where a I can see all the users of my platform, use cards please and a search bar with buttons for see more",
+    "dateAdded": "2024-01-23T22:35:02.845Z"
+  },
+  {
+    "url": "https://v0.dev/t/ykA9qJhjRGX",
+    "label": "Template for prompt: info page for a comic book featuring a favorite, like, and dislike button",
+    "dateAdded": "2024-01-23T22:35:02.846Z"
+  },
+  {
+    "url": "https://v0.dev/t/JkSArvuJPSl",
+    "label": "Template for prompt: a page with  a container that has a title and two buttons aligned at the center of the page",
+    "dateAdded": "2024-01-23T22:35:02.846Z"
+  },
+  {
+    "url": "https://v0.dev/t/gVBItOA1WoS",
+    "label": "Template for prompt: i need a master detail view for an email client",
+    "dateAdded": "2024-01-23T22:35:02.846Z"
+  },
+  {
+    "url": "https://v0.dev/t/DVbijG38ATX",
+    "label": "Template for prompt: a chat application",
+    "dateAdded": "2024-01-23T22:35:02.846Z"
+  },
+  {
+    "url": "https://v0.dev/t/BZrOnHbXpqt",
+    "label": "Template for prompt: a career timeline component with cards for each company/job. vertical and horizontal examples",
+    "dateAdded": "2024-01-23T22:35:02.846Z"
+  },
+  {
+    "url": "https://v0.dev/t/zpTluBa12CC",
+    "label": "Template for prompt: settings screen with change password",
+    "dateAdded": "2024-01-23T22:35:02.847Z"
+  },
+  {
+    "url": "https://v0.dev/t/sv5ZdRfEeHd",
+    "label": "Template for prompt: An ecommerce dashboard with a topbar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-23T22:35:02.847Z"
+  },
+  {
+    "url": "https://v0.dev/t/9danZoMxIcw",
+    "label": "Template for prompt: black ui with a search bar and list of words",
+    "dateAdded": "2024-01-23T22:35:02.847Z"
+  },
+  {
+    "url": "https://v0.dev/t/CaH3qH9yYvQ",
+    "label": "Template for prompt: a background image of a drawer front with cool buttons as sliders with animation effects",
+    "dateAdded": "2024-01-23T22:35:02.847Z"
+  },
+  {
+    "url": "https://v0.dev/t/1UEnuhEifi2",
+    "label": "Template for prompt: create a pricing section with a call to action to buy",
+    "dateAdded": "2024-01-23T22:35:02.847Z"
+  },
+  {
+    "url": "https://v0.dev/t/MmCP6Pd7YB4",
+    "label": "Template for prompt: an interactive ui that has two dials, one in the bottom left and bottom right corner, and main preview display in the center",
+    "dateAdded": "2024-01-23T22:35:02.848Z"
+  },
+  {
+    "url": "https://v0.dev/t/T5Mc1lOXHxc",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-23T22:35:02.848Z"
+  },
+  {
+    "url": "https://v0.dev/t/yfSLyIJIeEm",
+    "label": "Template for prompt: give me a dashboard view",
+    "dateAdded": "2024-01-23T22:35:02.848Z"
+  },
+  {
+    "url": "https://v0.dev/t/5HIJgsX2npE",
+    "label": "Template for prompt: A \"report an issue\" modal",
+    "dateAdded": "2024-01-23T22:35:02.848Z"
+  },
+  {
+    "url": "https://v0.dev/t/I0f13IfzLM9",
+    "label": "Template for prompt: A mobile-responsive landing page hero section",
+    "dateAdded": "2024-01-23T22:35:02.848Z"
+  },
+  {
+    "url": "https://v0.dev/t/Lt7n5RTTkKU",
+    "label": "Template for prompt: A status div that shows that the username is empty ",
+    "dateAdded": "2024-01-23T22:35:02.848Z"
+  },
+  {
+    "url": "https://v0.dev/t/oHiRIv7mTOV",
+    "label": "Template for prompt: build a notion like organize selector in a side menu bar on the left",
+    "dateAdded": "2024-01-23T22:35:02.849Z"
   }
 ]
