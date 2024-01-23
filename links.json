@@ -45818,5 +45818,135 @@
     "url": "https://v0.dev/t/DDn7q55R2Ce",
     "label": "Template for prompt: Hey i want to create a Promo Bar with the following style props\n\n     id=\"topBanner\"\n        margin={'0'}\n        boxSizing={'border-box'}\n        height={'38px'}\n        padding={'0'}\n        background={'gray.600'}\n        position={isScrolled ? 'fixed' : 'sticky'}\n        top={0}\n        color={'white'}\n        zIndex={9}\n        display={'flex'}\n        alignItems={'center'}\n        justifyContent={isScrolled ? 'space-between' : 'center'}\n        className={isScrolled ? 'scrolled' : ''}\n        width={'100%'}\n        alignContent={'center'}",
     "dateAdded": "2024-01-23T14:30:03.846Z"
+  },
+  {
+    "url": "https://v0.dev/t/m4zLBvoK1NN",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T14:35:03.365Z"
+  },
+  {
+    "url": "https://v0.dev/t/taKdoSOy4oI",
+    "label": "Template for prompt: I want to creat the timeline of the work experience and data for the resume, it should be vertical have the date and the timeline with the line in right with the small circle",
+    "dateAdded": "2024-01-23T14:35:03.366Z"
+  },
+  {
+    "url": "https://v0.dev/t/9uspsDrLjKL",
+    "label": "Template for prompt: home page for a platform ",
+    "dateAdded": "2024-01-23T14:35:03.366Z"
+  },
+  {
+    "url": "https://v0.dev/t/oRHx13papgj",
+    "label": "Template for prompt: A form with a quantity input with shortcut buttons to increase and decrease the quantity",
+    "dateAdded": "2024-01-23T14:35:03.366Z"
+  },
+  {
+    "url": "https://v0.dev/t/gwabyPc29ML",
+    "label": "Template for prompt: student profile page showing student goals and tracking data",
+    "dateAdded": "2024-01-23T14:35:03.366Z"
+  },
+  {
+    "url": "https://v0.dev/t/k2Z6E6jmul8",
+    "label": "Template for prompt: make this code look like screenshot:  <div>\n      <h1 className=\"text-2xl font-bold mb-4 \">Chart of Accounts</h1>\n      <div className=\"overflow-x-auto\">\n        <table className=\"table-auto w-full\">\n          <thead className=\"bg-gray-100\">\n            <tr>\n              <th className=\"px-4 py-2\">Code</th>\n              <th className=\"px-4 py-2\">Name</th>\n              <th className=\"px-4 py-2\">Description</th>\n              <th className=\"px-4 py-2\">Type</th>\n              <th className=\"px-4 py-2\">YTD</th>\n            </tr>\n          </thead>\n          <tbody>\n            {accountsData.map((account, index) => (\n              <tr key={index} className=\"border-b\">\n                <td className=\"px-4 py-2\">{account.code}</td>\n                <td className=\"px-4 py-2\">{account.name}</td>\n                <td className=\"px-4 py-2\">{account.description}</td>\n                <td className=\"px-4 py-2\">{account.type}</td>\n                <td className=\"px-4 py-2\">{account.ytd.toFixed(2)}</td>",
+    "dateAdded": "2024-01-23T14:35:03.366Z"
+  },
+  {
+    "url": "https://v0.dev/t/q7OTM5NbWlx",
+    "label": "Template for prompt: A page that shows you that the event is over and thanks you for being there",
+    "dateAdded": "2024-01-23T14:35:03.367Z"
+  },
+  {
+    "url": "https://v0.dev/t/1D18iFSXb4v",
+    "label": "Template for prompt: create this layout",
+    "dateAdded": "2024-01-23T14:35:03.367Z"
+  },
+  {
+    "url": "https://v0.dev/t/dZ7pg8BPVUK",
+    "label": "Template for prompt: feature details \"### **Integration Settings**\n\n- **ATS Integration**: Connect with Applicant Tracking Systems (ATS) for seamless data transfer.\n- **HRIS Integration**: Integration with Human Resource Information Systems for employee data management.\n- **Third-Party Portal Integrations**: Enable integrations with other tools such as LinkedIn, job boards, background check services etc.\"\nDevelop an integration settings page featuring a grid layout with cards for each system integration like ATS, HRIS, and third-party portals. Each card should have a toggle switch to enable/disable the integration, a setup button, and status indicators. Integrate a search bar for filtering through integrations and an 'Add New Integration' button.",
+    "dateAdded": "2024-01-23T14:35:03.367Z"
+  },
+  {
+    "url": "https://v0.dev/t/iwi7rfSJlrf",
+    "label": "Template for prompt: Create selectable cards that allow users to select from dashboard templates which one they want to start with",
+    "dateAdded": "2024-01-23T14:35:03.367Z"
+  },
+  {
+    "url": "https://v0.dev/t/g0Zjdrhq2gg",
+    "label": "Template for prompt: sign in page",
+    "dateAdded": "2024-01-23T14:35:03.368Z"
+  },
+  {
+    "url": "https://v0.dev/t/3qDXKyZbS5h",
+    "label": "Template for prompt: soccer player team card",
+    "dateAdded": "2024-01-23T14:35:03.368Z"
+  },
+  {
+    "url": "https://v0.dev/t/isEzVJBCCDl",
+    "label": "Template for prompt: A Dashboard for my Web called \"Phantom Predictor\" The buttons shall be \"Mines\" \"Crash\" \"Towers\" \"Slides/Roulette\" \"Earnings\" etc. Make a description for each of them, And when its clicked it gives a clean animation. It shall be purple and blue desgin (leanier gradient).",
+    "dateAdded": "2024-01-23T14:35:03.368Z"
+  },
+  {
+    "url": "https://v0.dev/t/z3VXm3YAl3I",
+    "label": "Template for prompt: a tailwind form for adding a new employee",
+    "dateAdded": "2024-01-23T14:35:03.368Z"
+  },
+  {
+    "url": "https://v0.dev/t/n1emvCypVet",
+    "label": "Template for prompt: document templates with accrodian sidebar",
+    "dateAdded": "2024-01-23T14:35:03.368Z"
+  },
+  {
+    "url": "https://v0.dev/t/F0snoefmkMx",
+    "label": "Template for prompt: create a \"menu\" button, when it was clicked, hide itself and show a container with some infomation and buttons",
+    "dateAdded": "2024-01-23T14:35:03.369Z"
+  },
+  {
+    "url": "https://v0.dev/t/N5Q1fzgAetD",
+    "label": "Template for prompt: Question essay on the left, question(choose one in 5 options) on the right",
+    "dateAdded": "2024-01-23T14:35:03.369Z"
+  },
+  {
+    "url": "https://v0.dev/t/bzENcyouyTO",
+    "label": "Template for prompt: Question essay on the left, question on the right",
+    "dateAdded": "2024-01-23T14:35:03.369Z"
+  },
+  {
+    "url": "https://v0.dev/t/IZWqOT9du0K",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T14:35:03.369Z"
+  },
+  {
+    "url": "https://v0.dev/t/RlJeTWjG7S0",
+    "label": "Template for prompt: This is a hero section, In this hero section It must be dark themed. I Want you to make A Dashboard for my Predictor known as \"Phantom\". Make sure to add \"Predictions\" \"Mines\" \"Towers\" \"Crash\" \"Slides / Roulette\" And make it have  linear gradient look Thanks :)!",
+    "dateAdded": "2024-01-23T14:35:03.369Z"
+  },
+  {
+    "url": "https://v0.dev/t/Gle5CNKKVZN",
+    "label": "Template for prompt: create a insurace review quote page",
+    "dateAdded": "2024-01-23T14:35:03.369Z"
+  },
+  {
+    "url": "https://v0.dev/t/a3O0NvXRs8r",
+    "label": "Template for prompt: I want to show the name of the app next to a logo. how you would style that text?",
+    "dateAdded": "2024-01-23T14:35:03.370Z"
+  },
+  {
+    "url": "https://v0.dev/t/rI5NdLpfbbB",
+    "label": "Template for prompt: Question fingerprint on the left, questions on the right",
+    "dateAdded": "2024-01-23T14:35:03.370Z"
+  },
+  {
+    "url": "https://v0.dev/t/UmUGJCw1l4Q",
+    "label": "Template for prompt: I need a page with collapsable cards, which are horizontaly alligned. The content of the card are forms.",
+    "dateAdded": "2024-01-23T14:35:03.370Z"
+  },
+  {
+    "url": "https://v0.dev/t/zRrF3oyryUj",
+    "label": "Template for prompt: Create an Ecommerce Dashboard with pie chart, bar chart",
+    "dateAdded": "2024-01-23T14:35:03.370Z"
+  },
+  {
+    "url": "https://v0.dev/t/1R92TvAQR2u",
+    "label": "Template for prompt: I need a page with collapsable cards, which are vertically alligned. The content of the card are forms. The cards should collaps in the width. The height should stay the same.",
+    "dateAdded": "2024-01-23T14:35:03.371Z"
   }
 ]
