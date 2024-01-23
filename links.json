@@ -58558,5 +58558,130 @@
     "url": "https://v0.dev/t/hcMZCtvRj8G",
     "label": "Template for prompt: create a fully responsice navbar ",
     "dateAdded": "2024-01-23T22:50:02.352Z"
+  },
+  {
+    "url": "https://v0.dev/t/P2Umtkew9MY",
+    "label": "Template for prompt: A payment Invoice",
+    "dateAdded": "2024-01-23T22:55:07.994Z"
+  },
+  {
+    "url": "https://v0.dev/t/cou9N0A5Xl1",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T22:55:07.994Z"
+  },
+  {
+    "url": "https://v0.dev/t/nj3LtYFowG8",
+    "label": "Template for prompt: a real estate product list page, but for office spaces",
+    "dateAdded": "2024-01-23T22:55:07.994Z"
+  },
+  {
+    "url": "https://v0.dev/t/3ntR4Wc7ENK",
+    "label": "Template for prompt: This is a screenshot from my AI news assistant tool for content creators like newsletter creators. In this experience my user selects news stories they think are relevant for their audience. Once they select the stories they need to export it into a different format and share with their audience. Where can i build the UI for that?",
+    "dateAdded": "2024-01-23T22:55:07.994Z"
+  },
+  {
+    "url": "https://v0.dev/t/wyzTEPX5vSR",
+    "label": "Template for prompt: create a list of cards vertical, with an image of a boat at left, an overlay on image with a span to show the price, also aside the title and description, at the boton add some icons like services",
+    "dateAdded": "2024-01-23T22:55:07.995Z"
+  },
+  {
+    "url": "https://v0.dev/t/JTzQG5f7Zef",
+    "label": "Template for prompt: User site with profile picture and username with a link copy button, and ability to change username or profile picture",
+    "dateAdded": "2024-01-23T22:55:07.995Z"
+  },
+  {
+    "url": "https://v0.dev/t/Fyb6SB6ILNJ",
+    "label": "Template for prompt: start page for dating mobile site with a button to get started",
+    "dateAdded": "2024-01-23T22:55:07.995Z"
+  },
+  {
+    "url": "https://v0.dev/t/y28HlTkcNJF",
+    "label": "Template for prompt: Create component that outlines different features for a landing page",
+    "dateAdded": "2024-01-23T22:55:07.995Z"
+  },
+  {
+    "url": "https://v0.dev/t/PZa489jYZzR",
+    "label": "Template for prompt: A course syllabus section for a course page",
+    "dateAdded": "2024-01-23T22:55:07.995Z"
+  },
+  {
+    "url": "https://v0.dev/t/TukPyTp4MPJ",
+    "label": "Template for prompt: A horizontal rectangular button with rounded corners, an icon on the left, and text to the right of it saying \"Hello!\"",
+    "dateAdded": "2024-01-23T22:55:07.995Z"
+  },
+  {
+    "url": "https://v0.dev/t/oTxvMxpjH98",
+    "label": "Template for prompt: a page that is shown to the user when they logged in with a loading state asking the user to wait while we log them in",
+    "dateAdded": "2024-01-23T22:55:07.996Z"
+  },
+  {
+    "url": "https://v0.dev/t/OWOcxoi1zth",
+    "label": "Template for prompt: simple server that sends a post request with options. \nIt has a log ( request logs ), has a realm code option, and can only crash 3 at  a time.",
+    "dateAdded": "2024-01-23T22:55:07.996Z"
+  },
+  {
+    "url": "https://v0.dev/t/jtJQjXMfWss",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T22:55:07.996Z"
+  },
+  {
+    "url": "https://v0.dev/t/8ODpddAzyEk",
+    "label": "Template for prompt: A landing page for a homecall vet service, call to action to phone",
+    "dateAdded": "2024-01-23T22:55:07.996Z"
+  },
+  {
+    "url": "https://v0.dev/t/rGUpxo1MekX",
+    "label": "Template for prompt: a product list page, showcasing different office spaces for renting, ui similar to zillow",
+    "dateAdded": "2024-01-23T22:55:07.996Z"
+  },
+  {
+    "url": "https://v0.dev/t/Uzd0eU3PW3t",
+    "label": "Template for prompt: a start page for a note manager desktop application",
+    "dateAdded": "2024-01-23T22:55:07.997Z"
+  },
+  {
+    "url": "https://v0.dev/t/CZEeWCBJbQA",
+    "label": "Template for prompt: generate a simple about page using daisy ui",
+    "dateAdded": "2024-01-23T22:55:07.997Z"
+  },
+  {
+    "url": "https://v0.dev/t/MhJrekFrRBd",
+    "label": "Template for prompt: login dashboard form",
+    "dateAdded": "2024-01-23T22:55:07.997Z"
+  },
+  {
+    "url": "https://v0.dev/t/yZSoLzaBn13",
+    "label": "Template for prompt: Help me make a profile dashboard page for a fantasy sports website with a black background and white trimmings",
+    "dateAdded": "2024-01-23T22:55:07.997Z"
+  },
+  {
+    "url": "https://v0.dev/t/VcpBVuUik0M",
+    "label": "Template for prompt: a product list page for multiple real estate listings",
+    "dateAdded": "2024-01-23T22:55:07.997Z"
+  },
+  {
+    "url": "https://v0.dev/t/lAqqUtGxBX1",
+    "label": "Template for prompt: Draggable chart widgets",
+    "dateAdded": "2024-01-23T22:55:07.997Z"
+  },
+  {
+    "url": "https://v0.dev/t/D3RGp9AYjx9",
+    "label": "Template for prompt: grid",
+    "dateAdded": "2024-01-23T22:55:07.997Z"
+  },
+  {
+    "url": "https://v0.dev/t/vgR2VlX1rk2",
+    "label": "Template for prompt: account card for sidebar ",
+    "dateAdded": "2024-01-23T22:55:07.997Z"
+  },
+  {
+    "url": "https://v0.dev/t/5sGh9bDMdat",
+    "label": "Template for prompt: A checkout page to buy cats",
+    "dateAdded": "2024-01-23T22:55:07.997Z"
+  },
+  {
+    "url": "https://v0.dev/t/nJga5mbG6B8",
+    "label": "Template for prompt: language learning app",
+    "dateAdded": "2024-01-23T22:55:07.998Z"
   }
 ]
