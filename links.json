@@ -49783,5 +49783,135 @@
     "url": "https://v0.dev/t/vYe64OeuwLg",
     "label": "Template for prompt: Generate something like ethoslife.com",
     "dateAdded": "2024-01-23T17:05:03.444Z"
+  },
+  {
+    "url": "https://v0.dev/t/vrvet095sN2",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-23T17:10:03.311Z"
+  },
+  {
+    "url": "https://v0.dev/t/zBpk5Audj22",
+    "label": "Template for prompt: create a component that displays information about a transaction. it should have 3 sections. the first should contain information about the store itself aswell as the date of the transaction. the second section should contain the customer information. and the third section should be a list of all the items in the transaction. information displayed here should contain an image, manufacturer model description category price and serial number.",
+    "dateAdded": "2024-01-23T17:10:03.311Z"
+  },
+  {
+    "url": "https://v0.dev/t/QiVsIHQ5x00",
+    "label": "Template for prompt: make me a responsive ui for budget tracking app which will have following feature: \nLogin/Registration Page, Dashboard, Income Section, Expense Section, Budget Management, Transaction History, Reports and Insights, Settings",
+    "dateAdded": "2024-01-23T17:10:03.311Z"
+  },
+  {
+    "url": "https://v0.dev/t/LNWyZ9YBHSG",
+    "label": "Template for prompt: Create a communication configuration page with tabs for email templates, notification settings, and notification mediums. Provide a rich text editor for customizing email templates, a list with checkboxes for notification types, and radio buttons for choosing notification providers. The design should facilitate a smooth setup experience with an intuitive interface",
+    "dateAdded": "2024-01-23T17:10:03.311Z"
+  },
+  {
+    "url": "https://v0.dev/t/7r5jWkB3QMB",
+    "label": "Template for prompt: Diseña un formulario de reportes con las siguientes caracteristicas: un panel o una sección donde se muestren los filtros o los criterios de búsqueda que se pueden aplicar al reporte, por ejemplo, rango de fechas, nombre del producto, código del proveedor, etc.\nUn botón o una opción que permita ejecutar el reporte y mostrar los resultados en la interfaz.\nUn área o una tabla donde se muestren los datos del reporte, con las columnas y filas correspondientes a los campos de la base de datos, por ejemplo, id, nombre, cantidad, precio, etc.\nUn gráfico o una visualización que permita representar los datos del reporte de forma gráfica, por ejemplo, un gráfico de barras, de líneas, de pastel, etc.\nUn botón o una opción que permita exportar el reporte a un formato externo, por ejemplo, PDF, Excel, Word, etc.",
+    "dateAdded": "2024-01-23T17:10:03.311Z"
+  },
+  {
+    "url": "https://v0.dev/t/QlDKpn1tIcK",
+    "label": "Template for prompt: create an app that monitors app produce and has a few screeps should be mobile first",
+    "dateAdded": "2024-01-23T17:10:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/kHnKGGS0Lm0",
+    "label": "Template for prompt: a personal website for an engineer and car enthusiast",
+    "dateAdded": "2024-01-23T17:10:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/ewNEBby8KKa",
+    "label": "Template for prompt: a hero for a calendar app, made with the astronomic picture of the day from the nasa",
+    "dateAdded": "2024-01-23T17:10:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/NH96EF49tR5",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T17:10:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/eHddVCXzsPb",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-23T17:10:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/MJGqWJiQ3cc",
+    "label": "Template for prompt: next.js floating control panel in cool neon hues with social icons and dark mode toggle ",
+    "dateAdded": "2024-01-23T17:10:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/pkDTGpb6kBI",
+    "label": "Template for prompt: dashboard for fetching content via URL and re-writing with AI",
+    "dateAdded": "2024-01-23T17:10:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/yYO5glohqG3",
+    "label": "Template for prompt: A landing page to offer services like home maintenance, interior design, gardering, plumping",
+    "dateAdded": "2024-01-23T17:10:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/9c4dnNcS4LP",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button. when they are coming date and return  date",
+    "dateAdded": "2024-01-23T17:10:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z2uuDvaluqp",
+    "label": "Template for prompt: i want to insert images",
+    "dateAdded": "2024-01-23T17:10:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/zVPw7DlOFgN",
+    "label": "Template for prompt: make a page that says here's your account info and it displays the email and pass. this page is for someone to copy the email and pass from, not edit. make it dark mode",
+    "dateAdded": "2024-01-23T17:10:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/7NKFDRVqXES",
+    "label": "Template for prompt: Bottom Navigation Bar",
+    "dateAdded": "2024-01-23T17:10:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/QL26owwuVht",
+    "label": "Template for prompt: a hero for a nasa app",
+    "dateAdded": "2024-01-23T17:10:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/s25DLwsFzp1",
+    "label": "Template for prompt: In react js  create report list item where list item should contain these fields: MRN, Room/Bed, Consultant, Origin Hospital, First Name, Surname, D.O.B, Weight,  NEWS Score, Waterlow Score, MMSE Score, Frailty score, Barthel score, MUST scorfe and list of notes",
+    "dateAdded": "2024-01-23T17:10:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/9DKQQm5yT4b",
+    "label": "Template for prompt: Make me a full page WooCommerce page",
+    "dateAdded": "2024-01-23T17:10:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/VE1zW1hJuvL",
+    "label": "Template for prompt: make a page that says here's your account info and it displays the email and pass. make it dark mode",
+    "dateAdded": "2024-01-23T17:10:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/DzPrxYilNlI",
+    "label": "Template for prompt: next.js floating control panel in cool neon hues with social icons and dark mode toggle ",
+    "dateAdded": "2024-01-23T17:10:03.314Z"
+  },
+  {
+    "url": "https://v0.dev/t/KaqMVudSlQy",
+    "label": "Template for prompt: a dashboard for managing in game servers. it does this by sending specific commands. For example, give money or swithc map. it should implemenet a login page that requires an ip address, port and password. there should be multiple panels for each category of command.",
+    "dateAdded": "2024-01-23T17:10:03.314Z"
+  },
+  {
+    "url": "https://v0.dev/t/jnheEw2jQrk",
+    "label": "Template for prompt: A 10x10 grid for a 2d game that a character can move around in",
+    "dateAdded": "2024-01-23T17:10:03.314Z"
+  },
+  {
+    "url": "https://v0.dev/t/0Q4XTbfHkzt",
+    "label": "Template for prompt: at page login modern beautiful",
+    "dateAdded": "2024-01-23T17:10:03.314Z"
+  },
+  {
+    "url": "https://v0.dev/t/S2ywqvYuL3F",
+    "label": "Template for prompt: at page login modern beautiful full color",
+    "dateAdded": "2024-01-23T17:10:03.315Z"
   }
 ]
