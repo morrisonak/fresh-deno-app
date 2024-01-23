@@ -50818,5 +50818,135 @@
     "url": "https://v0.dev/t/o9Ob4o7y0YM",
     "label": "Template for prompt: Create a responsive flex box with cards 2x2",
     "dateAdded": "2024-01-23T17:45:03.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/nNaAOMPN8CU",
+    "label": "Template for prompt: create a interface where you can edit the state of a room, if its ocuped by anyone, the hours that is ocuped...",
+    "dateAdded": "2024-01-23T17:50:02.681Z"
+  },
+  {
+    "url": "https://v0.dev/t/rq1mZwI4Ho5",
+    "label": "Template for prompt: Приложение для слежки за человеком",
+    "dateAdded": "2024-01-23T17:50:02.681Z"
+  },
+  {
+    "url": "https://v0.dev/t/JtrLjb3K1Nf",
+    "label": "Template for prompt: i need a interface with a calendar (start to stembre to august) \ndiplsy 2 motnth by col\nin evry day , i can diplsy serveral activity \ni need to display vocation with a color (for exemple 1-5sptembre with  a red dash)\nfor the 1 spetembre i have 2 activity \n- Sortie de meute \nsortie de HP \n\nand 3-4 septembre i have a ctivity in 2 day \nwekend HP \n",
+    "dateAdded": "2024-01-23T17:50:02.681Z"
+  },
+  {
+    "url": "https://v0.dev/t/XyxbZfzDPVe",
+    "label": "Template for prompt: image understanding app",
+    "dateAdded": "2024-01-23T17:50:02.681Z"
+  },
+  {
+    "url": "https://v0.dev/t/grSykgCB127",
+    "label": "Template for prompt: A landing page for an iOS app that generate people's photo to make them look thinner / fitter, providing motivation for them to work out",
+    "dateAdded": "2024-01-23T17:50:02.682Z"
+  },
+  {
+    "url": "https://v0.dev/t/yMt2LWvOmNk",
+    "label": "Template for prompt: A dashboard page for a real-estate developer to track projects by phase",
+    "dateAdded": "2024-01-23T17:50:02.682Z"
+  },
+  {
+    "url": "https://v0.dev/t/NMd2K4Uskl4",
+    "label": "Template for prompt: i need a interface with a calendar (start to stembre to august) \ndiplsy 2 motnth by col\nin evry day , i can diplsy serveral activity \ni need to display vocation with a color",
+    "dateAdded": "2024-01-23T17:50:02.682Z"
+  },
+  {
+    "url": "https://v0.dev/t/5hx0udUL3vi",
+    "label": "Template for prompt: can u create a customer account(ERP LIKE) like Microsoft Dynamics",
+    "dateAdded": "2024-01-23T17:50:02.682Z"
+  },
+  {
+    "url": "https://v0.dev/t/FpIxoyT0xts",
+    "label": "Template for prompt: A customer Details page",
+    "dateAdded": "2024-01-23T17:50:02.682Z"
+  },
+  {
+    "url": "https://v0.dev/t/RkKnQmYMatg",
+    "label": "Template for prompt: Sales page for a mobile app. It contains a header section, description, image gallery and buy now button linking to an external checkout",
+    "dateAdded": "2024-01-23T17:50:02.683Z"
+  },
+  {
+    "url": "https://v0.dev/t/mL2umwBzv7Y",
+    "label": "Template for prompt: loading screen with infos update the last updates ",
+    "dateAdded": "2024-01-23T17:50:02.683Z"
+  },
+  {
+    "url": "https://v0.dev/t/pqoPEn4oYQm",
+    "label": "Template for prompt: User profile section with: shopping history, user image, logout button and option not to receive advertising mails",
+    "dateAdded": "2024-01-23T17:50:02.683Z"
+  },
+  {
+    "url": "https://v0.dev/t/7kAXNpRADGV",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T17:50:02.683Z"
+  },
+  {
+    "url": "https://v0.dev/t/GpiIvMEempM",
+    "label": "Template for prompt: Make me a login/sign in page for a pizza shop",
+    "dateAdded": "2024-01-23T17:50:02.683Z"
+  },
+  {
+    "url": "https://v0.dev/t/7T50nSsbtaM",
+    "label": "Template for prompt: text editor buttons with undo, redo, bold, font style buttons with a dark theme",
+    "dateAdded": "2024-01-23T17:50:02.684Z"
+  },
+  {
+    "url": "https://v0.dev/t/aQZs4DgmZVR",
+    "label": "Template for prompt: in alert center, there is a page for adding alert with several parameters",
+    "dateAdded": "2024-01-23T17:50:02.684Z"
+  },
+  {
+    "url": "https://v0.dev/t/HtbORtUbR1J",
+    "label": "Template for prompt: \"Craft a 'Notification and Communication' settings UI for a SaaS platform's admin dashboard, enabling full customization of candidate engagement communications. The interface should facilitate the following functionalities:\n\nEmail Templates Customization:\n\nA visually organized library of default email templates for various recruitment stages with an option to preview, edit, and save.\nAn intuitive editor with HTML and plain text modes, supporting the insertion of custom variables and the ability to test send emails.\nNotification Settings Console:\n\nA comprehensive list of all recruitment activities that trigger notifications, with toggle switches to enable or disable them.\nAdvanced settings to define notification logic, recurrence, and audience (candidates, recruiters, hiring managers).\nNotification Medium Configuration Zone:\n\nSegregated tabs for each notification medium such as SMS, Email, WhatsApp, and Calls, equipped with input fields for integrating with third-party APIs and services",
+    "dateAdded": "2024-01-23T17:50:02.684Z"
+  },
+  {
+    "url": "https://v0.dev/t/Lv69PhkuZZF",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T17:50:02.684Z"
+  },
+  {
+    "url": "https://v0.dev/t/TC6rPMG83p9",
+    "label": "Template for prompt: make this navbar using tailwind css",
+    "dateAdded": "2024-01-23T17:50:02.684Z"
+  },
+  {
+    "url": "https://v0.dev/t/0FX3st96MUs",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-23T17:50:02.685Z"
+  },
+  {
+    "url": "https://v0.dev/t/JnPrHzYlfGt",
+    "label": "Template for prompt: can u create a custom form (nAV LIKE erp) but details such as general details , et.c seperated by cards",
+    "dateAdded": "2024-01-23T17:50:02.685Z"
+  },
+  {
+    "url": "https://v0.dev/t/wF6vxtpNoZs",
+    "label": "Template for prompt: Make me a login/sign in page for a pizza shop",
+    "dateAdded": "2024-01-23T17:50:02.685Z"
+  },
+  {
+    "url": "https://v0.dev/t/3Xse2ys2PCN",
+    "label": "Template for prompt: Generate a visually stimulating and educational assessment interface that incorporates gamification elements. Use vibrant, motivating colors and graphics to create a lively atmosphere. Include progress trackers, badges, and interactive feedback to engage and encourage users throughout the assessment.",
+    "dateAdded": "2024-01-23T17:50:02.685Z"
+  },
+  {
+    "url": "https://v0.dev/t/7w0Itu0W1o6",
+    "label": "Template for prompt: Make me a horizontal guage that has 33%, 66% and 100% like a progress bar",
+    "dateAdded": "2024-01-23T17:50:02.685Z"
+  },
+  {
+    "url": "https://v0.dev/t/OmsbdeIrHy4",
+    "label": "Template for prompt: create a beautiful purple navbar",
+    "dateAdded": "2024-01-23T17:50:02.685Z"
+  },
+  {
+    "url": "https://v0.dev/t/SmGXqUKE8K6",
+    "label": "Template for prompt: can u create a custom form registration(for ERP systems like NAV)",
+    "dateAdded": "2024-01-23T17:50:02.686Z"
   }
 ]
