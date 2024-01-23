@@ -49173,5 +49173,135 @@
     "url": "https://v0.dev/t/o694Salw8tB",
     "label": "Template for prompt: A navigation for mobile (<768px) with a logo (use V0 or vercel logo), about., login, contact, kanban, issues and guestbook ",
     "dateAdded": "2024-01-23T16:40:03.189Z"
+  },
+  {
+    "url": "https://v0.dev/t/o5m2OTYso2y",
+    "label": "Template for prompt: a form UI where a parent can input the names and ages of their children. Should have a form field for \"Name\" and \"Age\" as well as an \"Add An Additional Child\" button, that, when clicked, adds another form row",
+    "dateAdded": "2024-01-23T16:45:02.965Z"
+  },
+  {
+    "url": "https://v0.dev/t/ViXk9p7oTNS",
+    "label": "Template for prompt: a user can view their balance and their recent payout history",
+    "dateAdded": "2024-01-23T16:45:02.966Z"
+  },
+  {
+    "url": "https://v0.dev/t/jjBXsvRaneY",
+    "label": "Template for prompt: give code for above dahsboard",
+    "dateAdded": "2024-01-23T16:45:02.966Z"
+  },
+  {
+    "url": "https://v0.dev/t/dJu1w9fY3C5",
+    "label": "Template for prompt: <div className=\"BackgroundPattern w-96 h-96 relative\">\n    <div className=\"Mask w-96 h-96 left-[240px] top-0 absolute justify-center items-center inline-flex\">\n        <div className=\"BackgroundMask w-96 h-96 relative bg-black\" />\n    </div>\n    <div className=\"Content left-0 top-0 absolute justify-center items-center inline-flex\">\n        <div className=\"Rows self-stretch border border-gray-300 flex-col justify-start items-start inline-flex\">\n            <div className=\"Row justify-start items-start inline-flex\">\n                <div className=\"Block w-24 h-24 relative border-r border-b border-gray-300\" />\n                <div className=\"Block w-24 h-24 relative border-r border-b border-gray-300\" />\n                <div className=\"Block w-24 h-24 relative border-r border-b border-gray-300\" />\n                <div className=\"Block w-24 h-24 relative border-r border-b border-gray-300\" />\n                <div className=\"Block w-24 h-24 relative border-r border-b border-gray-300\" />\n     ",
+    "dateAdded": "2024-01-23T16:45:02.966Z"
+  },
+  {
+    "url": "https://v0.dev/t/I2oNtSK1HWo",
+    "label": "Template for prompt: a slick and modern datatable with filerable column and export capability",
+    "dateAdded": "2024-01-23T16:45:02.966Z"
+  },
+  {
+    "url": "https://v0.dev/t/bra4TWld4s1",
+    "label": "Template for prompt: Page for a game, where the objective is to write with the latin alphabet the hiragana or katakana character shown in the middle of the screen.",
+    "dateAdded": "2024-01-23T16:45:02.966Z"
+  },
+  {
+    "url": "https://v0.dev/t/N5W481YbW1g",
+    "label": "Template for prompt: Create a panel with header, description, and then an infromation section where we group a list of products into three categories. Each category has a title, followed by the list. The list contains the product name, a description, and an action button. ",
+    "dateAdded": "2024-01-23T16:45:02.967Z"
+  },
+  {
+    "url": "https://v0.dev/t/NZrYVGeGdqo",
+    "label": "Template for prompt: create a hero section for this data. assume there is also an svg image:\n\n  {\n    \"id\": \"mint\",\n    \"category\": \"toolkit\",\n    \"title\": \"MintKit\",\n    \"description\": \"Build autonomous NFT collector funds\",\n    \"liveLink\": {\n      \"url\": \"https://elcollectooorr.art\",\n      \"external\": false\n    }\n  },",
+    "dateAdded": "2024-01-23T16:45:02.967Z"
+  },
+  {
+    "url": "https://v0.dev/t/qkbvKQIHDEk",
+    "label": "Template for prompt: Faça um blog de karate com barra de navegacao",
+    "dateAdded": "2024-01-23T16:45:02.967Z"
+  },
+  {
+    "url": "https://v0.dev/t/MXrPE38KdTt",
+    "label": "Template for prompt: Blog article preview",
+    "dateAdded": "2024-01-23T16:45:02.967Z"
+  },
+  {
+    "url": "https://v0.dev/t/1zBaLVeX8Ef",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T16:45:02.968Z"
+  },
+  {
+    "url": "https://v0.dev/t/QStaUMF6QIU",
+    "label": "Template for prompt: Create a sidepanel extension that shows informations about a property (real estate).\n\nIt must have four sections\n\nEvaluation\nListing\nHistory\nComparables",
+    "dateAdded": "2024-01-23T16:45:02.968Z"
+  },
+  {
+    "url": "https://v0.dev/t/VD8zJ1abdZw",
+    "label": "Template for prompt: Create a simpler header section to display this information:\n\n  {\n    \"id\": \"mint\",\n    \"category\": \"toolkit\",\n    \"title\": \"MintKit\",\n    \"description\": \"Build autonomous NFT collector funds\",\n    \"liveLink\": {\n      \"url\": \"https://elcollectooorr.art\",\n      \"external\": false\n    }\n  },",
+    "dateAdded": "2024-01-23T16:45:02.968Z"
+  },
+  {
+    "url": "https://v0.dev/t/AyOJ2hGe4M8",
+    "label": "Template for prompt: a cms for interviews with artists displaying their work ",
+    "dateAdded": "2024-01-23T16:45:02.968Z"
+  },
+  {
+    "url": "https://v0.dev/t/BEvCmvpgxTa",
+    "label": "Template for prompt: a streaming music app with purple theme",
+    "dateAdded": "2024-01-23T16:45:02.968Z"
+  },
+  {
+    "url": "https://v0.dev/t/pcR6ZkXGHN6",
+    "label": "Template for prompt: two columns comparing two mortgages, each data has a title and the data itself, the title is smaller, and each data is organised in a container, one below the other, so you can easily see the comparison, and each other square has a slighter offwhite color",
+    "dateAdded": "2024-01-23T16:45:02.968Z"
+  },
+  {
+    "url": "https://v0.dev/t/EnIiTpFRtEe",
+    "label": "Template for prompt: i want a carousel like structure but not a carousel",
+    "dateAdded": "2024-01-23T16:45:02.969Z"
+  },
+  {
+    "url": "https://v0.dev/t/kOmjRdk0RFd",
+    "label": "Template for prompt: build me a video layout with a comment section and ability to add comments",
+    "dateAdded": "2024-01-23T16:45:02.969Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zo8cURKhSiK",
+    "label": "Template for prompt: A description textbox with some pre-made options. Mobile view",
+    "dateAdded": "2024-01-23T16:45:02.969Z"
+  },
+  {
+    "url": "https://v0.dev/t/8fFGxc5nyod",
+    "label": "Template for prompt: make a symmetrical webpage, any text on one side but be the same on the other side, or elements",
+    "dateAdded": "2024-01-23T16:45:02.969Z"
+  },
+  {
+    "url": "https://v0.dev/t/jz7pGcOb1Eb",
+    "label": "Template for prompt: Develop an engaging web application that transports users into the authentic realm of traditional Indian literature, inspired by the Bhagavad Gita. Crafted using HTML, CSS, and JavaScript, the site opens with a closed 3D book, representing a sacred text. Users embark on a ritualistic journey by virtually removing sandals (cheppal) and participating in a symbolic bathing initiation. The heart of the experience lies in the ability to interact with the digital book—enabling users to turn pages forward and backward. The tactile sensation of flipping pages should be simulated through smooth animations and accompanied by ambient sounds, mimicking the experience of reading a physical book. Enhance the cultural ambiance by incorporating soft instrumental music, creating a holistic digital encounter that mirrors the sacred and tangible aspects of traditional Indian literature.\n",
+    "dateAdded": "2024-01-23T16:45:02.969Z"
+  },
+  {
+    "url": "https://v0.dev/t/eV4nXeEzMv4",
+    "label": "Template for prompt: A page for event organizers to request payouts",
+    "dateAdded": "2024-01-23T16:45:02.969Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z4txsGuf7yE",
+    "label": "Template for prompt: i want a picture slider but not a carousel",
+    "dateAdded": "2024-01-23T16:45:02.969Z"
+  },
+  {
+    "url": "https://v0.dev/t/KfrilTWimec",
+    "label": "Template for prompt: generate a single landing page with yellow background but has a mobile phone layout in the middle and 2 divs within the phone layout has a title \"Welcome\" and a text area field",
+    "dateAdded": "2024-01-23T16:45:02.970Z"
+  },
+  {
+    "url": "https://v0.dev/t/78qPdJCnbvJ",
+    "label": "Template for prompt: A landing page",
+    "dateAdded": "2024-01-23T16:45:02.970Z"
+  },
+  {
+    "url": "https://v0.dev/t/zrv4wv0TvsM",
+    "label": "Template for prompt: a compare page to compare mobile phone plans",
+    "dateAdded": "2024-01-23T16:45:02.970Z"
   }
 ]
