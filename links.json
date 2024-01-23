@@ -51593,5 +51593,130 @@
     "url": "https://v0.dev/t/gOGU00HObTs",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2024-01-23T18:15:02.982Z"
+  },
+  {
+    "url": "https://v0.dev/t/sIIiixYIDbL",
+    "label": "Template for prompt: homepage of dashboard for recruiters to see jobs they've created, number of candidates that have interviewed, number of interview requests sent.",
+    "dateAdded": "2024-01-23T18:20:03.771Z"
+  },
+  {
+    "url": "https://v0.dev/t/wZT0TEeANGt",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T18:20:03.771Z"
+  },
+  {
+    "url": "https://v0.dev/t/HqCrGhjSZDn",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T18:20:03.771Z"
+  },
+  {
+    "url": "https://v0.dev/t/excxWafUYat",
+    "label": "Template for prompt: create blog navbar with search input with search icon and placeholder, login button with icon, category dropdown which should show selected category, Home button, blogs logo",
+    "dateAdded": "2024-01-23T18:20:03.772Z"
+  },
+  {
+    "url": "https://v0.dev/t/otNT35pf1Jf",
+    "label": "Template for prompt: cashout process for gamers",
+    "dateAdded": "2024-01-23T18:20:03.772Z"
+  },
+  {
+    "url": "https://v0.dev/t/f3Ijg5z4Ci3",
+    "label": "Template for prompt: Can you provide mask effect used in this sidebar",
+    "dateAdded": "2024-01-23T18:20:03.772Z"
+  },
+  {
+    "url": "https://v0.dev/t/T4AR3LeL90X",
+    "label": "Template for prompt: can you design a landing page for a livechat service called Chat Line",
+    "dateAdded": "2024-01-23T18:20:03.772Z"
+  },
+  {
+    "url": "https://v0.dev/t/iANy1klpW81",
+    "label": "Template for prompt: index page for game demos replays app",
+    "dateAdded": "2024-01-23T18:20:03.772Z"
+  },
+  {
+    "url": "https://v0.dev/t/o8Z4PuxZ5HY",
+    "label": "Template for prompt: i want to create a page for my nft swapper appliction that would display post details in a screen width card in which image of offering nft with image of desired nft and gain icon , and expiry date ,, Now below this card option to make your offer will be their where you insert your nft , which would be considered as your offering",
+    "dateAdded": "2024-01-23T18:20:03.772Z"
+  },
+  {
+    "url": "https://v0.dev/t/ESzkTGXHezm",
+    "label": "Template for prompt: header that contains logo on the left and on the right it contains 2 links and a cta",
+    "dateAdded": "2024-01-23T18:20:03.773Z"
+  },
+  {
+    "url": "https://v0.dev/t/Bs3mcDNq3pk",
+    "label": "Template for prompt: create react component with tailwind",
+    "dateAdded": "2024-01-23T18:20:03.773Z"
+  },
+  {
+    "url": "https://v0.dev/t/bmDxnNI67nT",
+    "label": "Template for prompt: \"Notification and Communication page\":\n1. Email Templates Section:\n\nThe UI should start with a clean, organized list of existing email templates. Each template can be previewed with a thumbnail next to the template name.\nA prominent \"Create Template\" button allows admins to add new templates.\nWhen creating or editing a template, the admin is taken to a WYSIWYG editor that allows for rich text formatting, insertion of variables (like candidate name, job title), and media embedding. A side panel provides a dropdown of available variables and a real-time preview of the email.\nTemplates should be categorizable with tags or folders for efficient organization.",
+    "dateAdded": "2024-01-23T18:20:03.773Z"
+  },
+  {
+    "url": "https://v0.dev/t/C6wtjXIKjrI",
+    "label": "Template for prompt: linux style close minimize and maximize dark mode buttons",
+    "dateAdded": "2024-01-23T18:20:03.773Z"
+  },
+  {
+    "url": "https://v0.dev/t/UBdb4luH4Le",
+    "label": "Template for prompt: Create a card similar to these for users to query a database",
+    "dateAdded": "2024-01-23T18:20:03.773Z"
+  },
+  {
+    "url": "https://v0.dev/t/X6FX5FlMgIM",
+    "label": "Template for prompt: Render the chat UI here",
+    "dateAdded": "2024-01-23T18:20:03.773Z"
+  },
+  {
+    "url": "https://v0.dev/t/v787O9WMdGW",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T18:20:03.774Z"
+  },
+  {
+    "url": "https://v0.dev/t/dLYx0cglcWl",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T18:20:03.774Z"
+  },
+  {
+    "url": "https://v0.dev/t/KtMFSvg6DBn",
+    "label": "Template for prompt: make a better sign in page",
+    "dateAdded": "2024-01-23T18:20:03.774Z"
+  },
+  {
+    "url": "https://v0.dev/t/bA91eYs4I1f",
+    "label": "Template for prompt: a landing page for a physical therapy at home company",
+    "dateAdded": "2024-01-23T18:20:03.774Z"
+  },
+  {
+    "url": "https://v0.dev/t/u601xWhheZn",
+    "label": "Template for prompt: A product categories section with 10 categories. Each category has an icon and a title",
+    "dateAdded": "2024-01-23T18:20:03.774Z"
+  },
+  {
+    "url": "https://v0.dev/t/kUwMGa1OYTW",
+    "label": "Template for prompt: quiero una pagina en donde tenga un formulario por encima que sea para pedir la ubicacion de usuario y la proximidad a un sitio dentro del mapa, y el resto de la pantalla quiero ver google maps con esa ubicacion reflejada ",
+    "dateAdded": "2024-01-23T18:20:03.775Z"
+  },
+  {
+    "url": "https://v0.dev/t/5zW1FhlzMNp",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T18:20:03.775Z"
+  },
+  {
+    "url": "https://v0.dev/t/vMX2FxhiEWn",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T18:20:03.775Z"
+  },
+  {
+    "url": "https://v0.dev/t/kOHBkVVMMuq",
+    "label": "Template for prompt: how can I make the attachments on this notes UI look better?",
+    "dateAdded": "2024-01-23T18:20:03.775Z"
+  },
+  {
+    "url": "https://v0.dev/t/SCTewD7Qd5W",
+    "label": "Template for prompt: create a vertical experience of a wishlist inspired by the attached. There should be 3 sections rendered in this order: 1. Items added by the customer as favorites\n2. Items recently purchased/viewed\n3. Items recommended by the brand based on preferences and similar styles",
+    "dateAdded": "2024-01-23T18:20:03.775Z"
   }
 ]
