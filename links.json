@@ -50303,5 +50303,135 @@
     "url": "https://v0.dev/t/ytZIVEaed5F",
     "label": "Template for prompt: login page following the same theme as this website, as i will use what u output as its authentication page",
     "dateAdded": "2024-01-23T17:25:03.177Z"
+  },
+  {
+    "url": "https://v0.dev/t/uJYWVCue8dj",
+    "label": "Template for prompt: diferentes opciones de este fornt",
+    "dateAdded": "2024-01-23T17:30:03.299Z"
+  },
+  {
+    "url": "https://v0.dev/t/yPknmItKVlg",
+    "label": "Template for prompt: 다크테마의 로그인폼을 만들어줘",
+    "dateAdded": "2024-01-23T17:30:03.299Z"
+  },
+  {
+    "url": "https://v0.dev/t/RoskIfOtmQW",
+    "label": "Template for prompt: A hero page with a lightning bolt cutout",
+    "dateAdded": "2024-01-23T17:30:03.299Z"
+  },
+  {
+    "url": "https://v0.dev/t/I5URPHAG8Ou",
+    "label": "Template for prompt: A search bar with two halves underneath: list of recently visited locations and list of recently updated",
+    "dateAdded": "2024-01-23T17:30:03.299Z"
+  },
+  {
+    "url": "https://v0.dev/t/9hdbMsvWTaS",
+    "label": "Template for prompt: a kanban based email client",
+    "dateAdded": "2024-01-23T17:30:03.300Z"
+  },
+  {
+    "url": "https://v0.dev/t/jBMColEq0nr",
+    "label": "Template for prompt: A leaderboard component that tracks wins from developers",
+    "dateAdded": "2024-01-23T17:30:03.300Z"
+  },
+  {
+    "url": "https://v0.dev/t/3RdPm4rHHZd",
+    "label": "Template for prompt: сверстай сайт так как на фотографии",
+    "dateAdded": "2024-01-23T17:30:03.300Z"
+  },
+  {
+    "url": "https://v0.dev/t/ndhURg3Ry3C",
+    "label": "Template for prompt: create a table with filter and search",
+    "dateAdded": "2024-01-23T17:30:03.300Z"
+  },
+  {
+    "url": "https://v0.dev/t/O1EE9wtAwcP",
+    "label": "Template for prompt: A list of reservation requests at particular restaurants showcasing the date, time range, number of people, and status (booked or not)",
+    "dateAdded": "2024-01-23T17:30:03.300Z"
+  },
+  {
+    "url": "https://v0.dev/t/024nQniWyNW",
+    "label": "Template for prompt: a sign up form that gives you questions one by one and shows progress",
+    "dateAdded": "2024-01-23T17:30:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/3yUMWDlAYNi",
+    "label": "Template for prompt: Make a page to showcase a fijifilm recipe, include a photo, list of parameters and a description about the film recipe.",
+    "dateAdded": "2024-01-23T17:30:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/1ZTZQPy537H",
+    "label": "Template for prompt: create a cute landing page of a girl named \"Lucía\"  to be her  web developer portfolio, do it with purple pastel colors",
+    "dateAdded": "2024-01-23T17:30:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/cFhfQlFcDmq",
+    "label": "Template for prompt: mailbox ",
+    "dateAdded": "2024-01-23T17:30:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/mtvwYZMYXyu",
+    "label": "Template for prompt: A minimalist signup form",
+    "dateAdded": "2024-01-23T17:30:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/khggqbiS5cq",
+    "label": "Template for prompt: generate a login page which will allow only outlook authentication",
+    "dateAdded": "2024-01-23T17:30:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/HLwKgpzu1el",
+    "label": "Template for prompt: A lightning bolt loading bar that flashes across the screen",
+    "dateAdded": "2024-01-23T17:30:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/uLNvSNVxIlZ",
+    "label": "Template for prompt: Main page of platform for generating, uploading and viewing gaussian splats and nerfs with gallery, navigation",
+    "dateAdded": "2024-01-23T17:30:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/TuQOfPCmxlH",
+    "label": "Template for prompt: Blue Twitter Logo, Twitter User Interface desktop, demo post from Elon Musk saying something cool about spaceX or tesla. ",
+    "dateAdded": "2024-01-23T17:30:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/lNKRSlcNnk4",
+    "label": "Template for prompt: make it better",
+    "dateAdded": "2024-01-23T17:30:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/xhcBOhyttmv",
+    "label": "Template for prompt: an analytics dashboard showing AWS utilization metrics",
+    "dateAdded": "2024-01-23T17:30:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/lxmSBBhrZv8",
+    "label": "Template for prompt: make a profile page with input field letting user change it's data in a discret manner",
+    "dateAdded": "2024-01-23T17:30:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/Rov6v0JKzkt",
+    "label": "Template for prompt: design me a login page in react",
+    "dateAdded": "2024-01-23T17:30:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/fBSo7qCxXK8",
+    "label": "Template for prompt: A card component showing monetary balance information in different types of accounts",
+    "dateAdded": "2024-01-23T17:30:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/TdGKOIPPwQK",
+    "label": "Template for prompt: An ecommerce store for water bottles",
+    "dateAdded": "2024-01-23T17:30:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/KcGdt0E1WzR",
+    "label": "Template for prompt: create a dialog with a warning that you are about to buy this picture/video/gallery for X amout of money ",
+    "dateAdded": "2024-01-23T17:30:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/aFsGamUPdnp",
+    "label": "Template for prompt: a page for listing actor matches",
+    "dateAdded": "2024-01-23T17:30:03.303Z"
   }
 ]
