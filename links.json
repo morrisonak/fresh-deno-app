@@ -50173,5 +50173,135 @@
     "url": "https://v0.dev/t/Tjek7A1EMlB",
     "label": "Template for prompt: a table to display 4 columns",
     "dateAdded": "2024-01-23T17:20:04.314Z"
+  },
+  {
+    "url": "https://v0.dev/t/TdGKOIPPwQK",
+    "label": "Template for prompt: An ecommerce store for water bottles",
+    "dateAdded": "2024-01-23T17:25:03.171Z"
+  },
+  {
+    "url": "https://v0.dev/t/KcGdt0E1WzR",
+    "label": "Template for prompt: create a dialog with a warning that you are about to buy this picture/video/gallery for X amout of money ",
+    "dateAdded": "2024-01-23T17:25:03.171Z"
+  },
+  {
+    "url": "https://v0.dev/t/aFsGamUPdnp",
+    "label": "Template for prompt: a page for listing actor matches",
+    "dateAdded": "2024-01-23T17:25:03.172Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ik4MeY2JXhI",
+    "label": "Template for prompt: make a dropdown navbar that is responsive and when opened takes full width and screen of the screen",
+    "dateAdded": "2024-01-23T17:25:03.172Z"
+  },
+  {
+    "url": "https://v0.dev/t/gkG9eb5rdMn",
+    "label": "Template for prompt: an admin dashboard with dark sidenav for an ecommerce website. nav items include customers, products, and orders. main content area should have charts for products ordered over time",
+    "dateAdded": "2024-01-23T17:25:03.172Z"
+  },
+  {
+    "url": "https://v0.dev/t/0xl4BOfoiyA",
+    "label": "Template for prompt: Rework this to bring more order to the links",
+    "dateAdded": "2024-01-23T17:25:03.172Z"
+  },
+  {
+    "url": "https://v0.dev/t/KMsOrnnVv21",
+    "label": "Template for prompt: burger menu button with 3 span",
+    "dateAdded": "2024-01-23T17:25:03.172Z"
+  },
+  {
+    "url": "https://v0.dev/t/OpZxPgfuOJP",
+    "label": "Template for prompt: create a notes dashboard where users can see their notes",
+    "dateAdded": "2024-01-23T17:25:03.173Z"
+  },
+  {
+    "url": "https://v0.dev/t/BDSxn4gp6wa",
+    "label": "Template for prompt: Blue Twitter Logo, Twitter User Interface desktop, demo post from Elon Musk saying something cool about spaceX or tesla. ",
+    "dateAdded": "2024-01-23T17:25:03.173Z"
+  },
+  {
+    "url": "https://v0.dev/t/v7WAqs1zj1n",
+    "label": "Template for prompt: An uploading formw with drag and drop",
+    "dateAdded": "2024-01-23T17:25:03.173Z"
+  },
+  {
+    "url": "https://v0.dev/t/f6vphD6L3iG",
+    "label": "Template for prompt: Develop an intuitive 'Communication Configuration' page for a SaaS company's admin portal to manage tenant communications. The UI should consist of:\n\nEmail Templates Tab-\nA sophisticated rich text editor equipped with tools for formatting text, inserting images, and creating links. Incorporate placeholders for dynamic content insertion and preview options to view the template with sample data.\nA sidebar listing available templates, with options to create new, edit, or delete, and categorization for different stages of the candidate journey.\n\nNotification Settings Tab-\nA comprehensive list of system notification types (e.g., interview reminders, application received confirmation) with checkboxes to enable or disable each one.\nConfiguration options to define notification rules, such as when to send, frequency, and escalation paths if the notification is not acknowledged. \nThe page should have a clean, modern look with a logical structure, ensuring admins can navigate,operate efficiently",
+    "dateAdded": "2024-01-23T17:25:03.173Z"
+  },
+  {
+    "url": "https://v0.dev/t/CNdiaD2fSjl",
+    "label": "Template for prompt: The Department Management Page is designed to efficiently handle various administrative tasks within the academic department. At the forefront, it provides a dedicated section for the Head of the Department, allowing for the display and management of crucial details such as name and contact information. The platform seamlessly integrates Teacher and Student Management functionalities, enabling the creation, modification, and deletion of teacher and student profiles. Teachers' information includes personal details and assigned courses, while students' data encompasses enrollment details and assigned classrooms.\n\nThe Course Management feature allows for the creation, modification, and removal of courses, with the added ability to assign courses to specific teachers. Meanwhile, Classroom Management empowers the department to oversee the creation, modification, and deletion of classrooms, along with the assignment of courses, teachers, and students to these classrooms. The department takes",
+    "dateAdded": "2024-01-23T17:25:03.174Z"
+  },
+  {
+    "url": "https://v0.dev/t/oG2FIQsddk3",
+    "label": "Template for prompt: A dashboard for creating new smoothie flavors",
+    "dateAdded": "2024-01-23T17:25:03.174Z"
+  },
+  {
+    "url": "https://v0.dev/t/f3oVlR00xDv",
+    "label": "Template for prompt: 3d models gallery with navigation and menu",
+    "dateAdded": "2024-01-23T17:25:03.174Z"
+  },
+  {
+    "url": "https://v0.dev/t/tX2Bzldzr18",
+    "label": "Template for prompt: create a binary search tree visualisation",
+    "dateAdded": "2024-01-23T17:25:03.174Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yf3D9y5jVFc",
+    "label": "Template for prompt: creat a html clock with numbers",
+    "dateAdded": "2024-01-23T17:25:03.174Z"
+  },
+  {
+    "url": "https://v0.dev/t/BY2ksNVIazt",
+    "label": "Template for prompt: remake twitter UI aka X ui with a demo post from \"MrBeast\" saying \"I'm giving away $50,000 to whoever reposts this!\"",
+    "dateAdded": "2024-01-23T17:25:03.175Z"
+  },
+  {
+    "url": "https://v0.dev/t/ahuQIEql1fI",
+    "label": "Template for prompt: create a similar navbar component",
+    "dateAdded": "2024-01-23T17:25:03.175Z"
+  },
+  {
+    "url": "https://v0.dev/t/UAygE14Xqma",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T17:25:03.175Z"
+  },
+  {
+    "url": "https://v0.dev/t/69Bo3PLIR5g",
+    "label": "Template for prompt: 다크테마의 로그인폼을 만들어줘",
+    "dateAdded": "2024-01-23T17:25:03.175Z"
+  },
+  {
+    "url": "https://v0.dev/t/UONDXkYYffo",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T17:25:03.175Z"
+  },
+  {
+    "url": "https://v0.dev/t/K6d0RvTuIRm",
+    "label": "Template for prompt: создай админ-панель, где администратор может видеть новые комментарии, добавь кнопки одобрения и удаления комментария",
+    "dateAdded": "2024-01-23T17:25:03.176Z"
+  },
+  {
+    "url": "https://v0.dev/t/OJRbR9A8E0b",
+    "label": "Template for prompt: 人物相関図をつくってください",
+    "dateAdded": "2024-01-23T17:25:03.176Z"
+  },
+  {
+    "url": "https://v0.dev/t/ta9aKr1LT92",
+    "label": "Template for prompt: create this ui",
+    "dateAdded": "2024-01-23T17:25:03.176Z"
+  },
+  {
+    "url": "https://v0.dev/t/T7SQNrP7eKd",
+    "label": "Template for prompt: create a clock in html which shows the analog and the number time accuretly",
+    "dateAdded": "2024-01-23T17:25:03.176Z"
+  },
+  {
+    "url": "https://v0.dev/t/ytZIVEaed5F",
+    "label": "Template for prompt: login page following the same theme as this website, as i will use what u output as its authentication page",
+    "dateAdded": "2024-01-23T17:25:03.177Z"
   }
 ]
