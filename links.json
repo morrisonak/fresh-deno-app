@@ -56028,5 +56028,135 @@
     "url": "https://v0.dev/t/JdsKTrQ4062",
     "label": "Template for prompt: a chat application",
     "dateAdded": "2024-01-23T21:10:03.137Z"
+  },
+  {
+    "url": "https://v0.dev/t/MdBxM8Ja5LS",
+    "label": "Template for prompt: Create a search ux. There search parameters are four sets of models. There are four classes of models with different selection requirements. There are hundreds of each class to choose from.\n\n1) Investment Universe Models. Limit 1, but selecting one is not required.\n2) Signal Models. Minimum: 1. No upper limit. Include a SELECT ALL button.\n3) Context Models. Minimum: 0. No upper limit. Include a SELECT ALL button.\n4) Trading Tactics. Minimum: 1. No upper limit. Include a SELECT ALL button.\n\nThe final parameter for the search is a timespan. The user must select a start/end date.\n\nKeep it tidy and beautiful. ",
+    "dateAdded": "2024-01-23T21:15:02.680Z"
+  },
+  {
+    "url": "https://v0.dev/t/KaIrFtaJePR",
+    "label": "Template for prompt: A admin dashboard for managing an ecommerce store",
+    "dateAdded": "2024-01-23T21:15:02.680Z"
+  },
+  {
+    "url": "https://v0.dev/t/RY3dibyIoPH",
+    "label": "Template for prompt: make a website personal ",
+    "dateAdded": "2024-01-23T21:15:02.680Z"
+  },
+  {
+    "url": "https://v0.dev/t/OUU8q69hMYg",
+    "label": "Template for prompt: Wiki for Palworld",
+    "dateAdded": "2024-01-23T21:15:02.680Z"
+  },
+  {
+    "url": "https://v0.dev/t/EBSBRQ1hiGb",
+    "label": "Template for prompt: A vertical list of days with a progress bar on how many people are working that day",
+    "dateAdded": "2024-01-23T21:15:02.680Z"
+  },
+  {
+    "url": "https://v0.dev/t/MIIjriMHSoz",
+    "label": "Template for prompt: lav en Om os side",
+    "dateAdded": "2024-01-23T21:15:02.680Z"
+  },
+  {
+    "url": "https://v0.dev/t/7syeSj0oiAx",
+    "label": "Template for prompt: A list of days with an indicator for selected days",
+    "dateAdded": "2024-01-23T21:15:02.681Z"
+  },
+  {
+    "url": "https://v0.dev/t/7UJZTnEtB9W",
+    "label": "Template for prompt: sales team forecast, directors view, form page for team leads to submit SDR KPI, insights page, minimalistic ",
+    "dateAdded": "2024-01-23T21:15:02.681Z"
+  },
+  {
+    "url": "https://v0.dev/t/pBhlf90LHno",
+    "label": "Template for prompt: sales team forecast, directors view, form page for team leads to submit SDR KPI, insights page, minimalistic ",
+    "dateAdded": "2024-01-23T21:15:02.681Z"
+  },
+  {
+    "url": "https://v0.dev/t/YfLaDCKp9Dg",
+    "label": "Template for prompt: a list of selectable people with a select dropdown ",
+    "dateAdded": "2024-01-23T21:15:02.681Z"
+  },
+  {
+    "url": "https://v0.dev/t/eSgyxBZBzNM",
+    "label": "Template for prompt: A styled saas with side bar and nav bar to Create flashcards for memorization of topics ",
+    "dateAdded": "2024-01-23T21:15:02.681Z"
+  },
+  {
+    "url": "https://v0.dev/t/2HkRtVDc7d7",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T21:15:02.681Z"
+  },
+  {
+    "url": "https://v0.dev/t/iXnZpu9xiRX",
+    "label": "Template for prompt: Create a search ux. There search parameters are four sets of models. There are four classes of models with different selection requirements. There are hundreds of each class to choose from.\n\n1) Investment Universe Models. Limit 1, but selecting one is not required.\n2) Signal Models. Minimum: 1. No upper limit. Include a SELECT ALL button.\n3) Context Models. Minimum: 0. No upper limit. Include a SELECT ALL button.\n4) Trading Tactics. Minimum: 1. No upper limit. Include a SELECT ALL button.\n\nThe final parameter for the search is a timespan. The user must select a start/end date.\n\nKeep it tidy and beautiful. ",
+    "dateAdded": "2024-01-23T21:15:02.681Z"
+  },
+  {
+    "url": "https://v0.dev/t/syf2AVY3i2y",
+    "label": "Template for prompt: can you build me a simple html version of the old bookmarking service delicio.us that is near mirror image of its former self",
+    "dateAdded": "2024-01-23T21:15:02.681Z"
+  },
+  {
+    "url": "https://v0.dev/t/YHpTUXmLXfg",
+    "label": "Template for prompt: This is a svg element which is used in lottie animation in next js app. Why its not taking full height. I need to use full height",
+    "dateAdded": "2024-01-23T21:15:02.682Z"
+  },
+  {
+    "url": "https://v0.dev/t/hIZflNxkI8u",
+    "label": "Template for prompt: can you improve this card please?\n",
+    "dateAdded": "2024-01-23T21:15:02.682Z"
+  },
+  {
+    "url": "https://v0.dev/t/9Jzwm5BHziW",
+    "label": "Template for prompt: generate a question form. which will include these fields title, hint and questiontype. ensure that i can add options  on button click based on the question type and select the correct answer from a dropdown",
+    "dateAdded": "2024-01-23T21:15:02.682Z"
+  },
+  {
+    "url": "https://v0.dev/t/vJaPofOBbHX",
+    "label": "Template for prompt: a notification preference screen in a neomorphism style with input for email address as the only preference option for now",
+    "dateAdded": "2024-01-23T21:15:02.682Z"
+  },
+  {
+    "url": "https://v0.dev/t/56e7JZXXAD1",
+    "label": "Template for prompt: A Saas user guiding dashboard",
+    "dateAdded": "2024-01-23T21:15:02.682Z"
+  },
+  {
+    "url": "https://v0.dev/t/TQo7r8mOQB0",
+    "label": "Template for prompt: A job board website",
+    "dateAdded": "2024-01-23T21:15:02.682Z"
+  },
+  {
+    "url": "https://v0.dev/t/I222X40G7pU",
+    "label": "Template for prompt: create a marketing website for a construction tech company called JobXcel.AI",
+    "dateAdded": "2024-01-23T21:15:02.683Z"
+  },
+  {
+    "url": "https://v0.dev/t/raN1gb4tkK2",
+    "label": "Template for prompt: Floating chartz with random",
+    "dateAdded": "2024-01-23T21:15:02.683Z"
+  },
+  {
+    "url": "https://v0.dev/t/lpmYoEd1eI4",
+    "label": "Template for prompt: fullscreen mobile menu with nice animation tailwind only no js",
+    "dateAdded": "2024-01-23T21:15:02.683Z"
+  },
+  {
+    "url": "https://v0.dev/t/wEccQMZJXUa",
+    "label": "Template for prompt: componente de tabla con colores azul y naranja con 14 columnas",
+    "dateAdded": "2024-01-23T21:15:02.683Z"
+  },
+  {
+    "url": "https://v0.dev/t/DenXUXeTk19",
+    "label": "Template for prompt: Minimalist yet very beautiful landing page for a software engineer's presentation",
+    "dateAdded": "2024-01-23T21:15:02.684Z"
+  },
+  {
+    "url": "https://v0.dev/t/EgGXeDesh29",
+    "label": "Template for prompt: a \"new contact\" form for submitting a person to a database. Should include fields for: First Name, Last Name, Organization, Email Address, Phone Number, and a multi-select field for type of contact.",
+    "dateAdded": "2024-01-23T21:15:02.684Z"
   }
 ]
