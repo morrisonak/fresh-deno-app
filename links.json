@@ -46078,5 +46078,135 @@
     "url": "https://v0.dev/t/9uspsDrLjKL",
     "label": "Template for prompt: home page for a platform ",
     "dateAdded": "2024-01-23T14:40:02.897Z"
+  },
+  {
+    "url": "https://v0.dev/t/Itx9qrYeDIO",
+    "label": "Template for prompt: a quiz app where you can select category and difficulty",
+    "dateAdded": "2024-01-23T14:45:03.414Z"
+  },
+  {
+    "url": "https://v0.dev/t/R1Q5aJSqsX3",
+    "label": "Template for prompt: can you do me this thing ",
+    "dateAdded": "2024-01-23T14:45:03.414Z"
+  },
+  {
+    "url": "https://v0.dev/t/UN2tnbZoGQJ",
+    "label": "Template for prompt: can you do me this thing ",
+    "dateAdded": "2024-01-23T14:45:03.414Z"
+  },
+  {
+    "url": "https://v0.dev/t/7oxmOmFSshy",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T14:45:03.414Z"
+  },
+  {
+    "url": "https://v0.dev/t/cyCjdArwXCt",
+    "label": "Template for prompt: a sidebar clickable card to send users to sign up form",
+    "dateAdded": "2024-01-23T14:45:03.415Z"
+  },
+  {
+    "url": "https://v0.dev/t/B7MrDwZKmez",
+    "label": "Template for prompt: create a 3 accordion stacked in a column",
+    "dateAdded": "2024-01-23T14:45:03.415Z"
+  },
+  {
+    "url": "https://v0.dev/t/l0ZYtV12evB",
+    "label": "Template for prompt: puedes cambiar los colores y mejorar el diseño de esto?",
+    "dateAdded": "2024-01-23T14:45:03.415Z"
+  },
+  {
+    "url": "https://v0.dev/t/YEDrBIrHAQD",
+    "label": "Template for prompt:         <table className=\"table-auto w-full \"> add margin-left and right ",
+    "dateAdded": "2024-01-23T14:45:03.415Z"
+  },
+  {
+    "url": "https://v0.dev/t/A8NbtQqwkpv",
+    "label": "Template for prompt: i want to create a prototype product for online education where a person attending a class on zoom or google meet can access LLM's integreated there for live notes and intresting facts and live q and a's for it and store it in someplace",
+    "dateAdded": "2024-01-23T14:45:03.415Z"
+  },
+  {
+    "url": "https://v0.dev/t/VAhYTTyTGGf",
+    "label": "Template for prompt: generate a simple button in html and CSS with the text 'verify'",
+    "dateAdded": "2024-01-23T14:45:03.415Z"
+  },
+  {
+    "url": "https://v0.dev/t/vAsDZj7GcS3",
+    "label": "Template for prompt: generate a simple button in html and CSS with the text 'verify'",
+    "dateAdded": "2024-01-23T14:45:03.415Z"
+  },
+  {
+    "url": "https://v0.dev/t/3AQyrP3oLAB",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T14:45:03.416Z"
+  },
+  {
+    "url": "https://v0.dev/t/UbcSrIDIeeL",
+    "label": "Template for prompt: Create an \"Our facilities\" page for a carehomes website. There are two locations, one in walnut creek, one in withers california. There should be a gallery showcasing the facility, the images should be expandable.",
+    "dateAdded": "2024-01-23T14:45:03.416Z"
+  },
+  {
+    "url": "https://v0.dev/t/sCTnVOe94Wv",
+    "label": "Template for prompt: an overview page pf data entered",
+    "dateAdded": "2024-01-23T14:45:03.416Z"
+  },
+  {
+    "url": "https://v0.dev/t/XqJPQwOByPH",
+    "label": "Template for prompt: Make a simple social media",
+    "dateAdded": "2024-01-23T14:45:03.416Z"
+  },
+  {
+    "url": "https://v0.dev/t/nMvH2x0gAIK",
+    "label": "Template for prompt: Create a centralized 'Integration Settings' UI that facilitates the seamless connection between the platform and various external systems. The design should include the following elements:\nATS Integration Configuration:\n\nA section dedicated to configuring Applicant Tracking Systems (ATS). Include a searchable drop-down list of popular ATS providers, and an option to enter custom API endpoints for less common systems.\nProvide a 'Connect' button that initiates an OAuth flow or a credentials input form for secure API connections, along with clear status indicators showing the connection health\n\nEnsure the UI is intuitive with a clean, professional aesthetic, using modular cards or tabs for each integration type. Include a help icon next to each integration, offering a tooltip or pop-up with detailed instructions. The design should be scalable to accommodate additional integrations in the future without overwhelming the user.",
+    "dateAdded": "2024-01-23T14:45:03.416Z"
+  },
+  {
+    "url": "https://v0.dev/t/6Y4mvt52WAs",
+    "label": "Template for prompt: an accordion with 5 items",
+    "dateAdded": "2024-01-23T14:45:03.416Z"
+  },
+  {
+    "url": "https://v0.dev/t/RtQ3PUUMukc",
+    "label": "Template for prompt: An artistic header with the home button on the left, the logo in the center and the about button on the right",
+    "dateAdded": "2024-01-23T14:45:03.416Z"
+  },
+  {
+    "url": "https://v0.dev/t/wQWFzuWP7ij",
+    "label": "Template for prompt: Create an \"Our facilities\" page for a carehomes website. There are two locations, one in walnut creek, one in withers california. There should be a gallery showcasing the facility, the images should be expandable. There should also be a section showing a static google maps.",
+    "dateAdded": "2024-01-23T14:45:03.417Z"
+  },
+  {
+    "url": "https://v0.dev/t/dGG2w26QjL1",
+    "label": "Template for prompt: a canlendar",
+    "dateAdded": "2024-01-23T14:45:03.417Z"
+  },
+  {
+    "url": "https://v0.dev/t/bygNE0ovFZC",
+    "label": "Template for prompt: Create an artist page, where has a centered banner which has 70% width of the scree, and a overlapped artist profile picture (circle) at the bottom of the banner",
+    "dateAdded": "2024-01-23T14:45:03.417Z"
+  },
+  {
+    "url": "https://v0.dev/t/3XFUsDmU9Ro",
+    "label": "Template for prompt: A splash welcome screen for a mobile app",
+    "dateAdded": "2024-01-23T14:45:03.417Z"
+  },
+  {
+    "url": "https://v0.dev/t/2w71dga39eB",
+    "label": "Template for prompt: a dashboard page for a stundent IEP application ",
+    "dateAdded": "2024-01-23T14:45:03.417Z"
+  },
+  {
+    "url": "https://v0.dev/t/sikcuJiDH9r",
+    "label": "Template for prompt: a pricing range slider",
+    "dateAdded": "2024-01-23T14:45:03.417Z"
+  },
+  {
+    "url": "https://v0.dev/t/VHlCzaFXK2e",
+    "label": "Template for prompt: make this layout more responsive and more better looking. also make it such that each row has two inputs and make it more neater and besutiful and add good colors ",
+    "dateAdded": "2024-01-23T14:45:03.417Z"
+  },
+  {
+    "url": "https://v0.dev/t/QdyiULqSOJe",
+    "label": "Template for prompt: An admin panel for my predictor known as \"Phantom predictor\".",
+    "dateAdded": "2024-01-23T14:45:03.418Z"
   }
 ]
