@@ -51073,5 +51073,135 @@
     "url": "https://v0.dev/t/pqoPEn4oYQm",
     "label": "Template for prompt: User profile section with: shopping history, user image, logout button and option not to receive advertising mails",
     "dateAdded": "2024-01-23T17:55:03.021Z"
+  },
+  {
+    "url": "https://v0.dev/t/YBTQMk7bh2R",
+    "label": "Template for prompt: Login page, with account number, password, verification code, more login",
+    "dateAdded": "2024-01-23T18:00:03.570Z"
+  },
+  {
+    "url": "https://v0.dev/t/DKJtBEkZFJv",
+    "label": "Template for prompt: can you design a homepage for a livechat service called Chat Line",
+    "dateAdded": "2024-01-23T18:00:03.570Z"
+  },
+  {
+    "url": "https://v0.dev/t/o16Ftfp20a8",
+    "label": "Template for prompt: generame el menu y la imagen como se ve en la captura ",
+    "dateAdded": "2024-01-23T18:00:03.570Z"
+  },
+  {
+    "url": "https://v0.dev/t/jew5bMpI7xn",
+    "label": "Template for prompt: a landing page for app with - Alerts\n- ⁠SOS - geotagged photos \n- ⁠Faqs\n- ⁠ChatBot\n- ⁠Forecast \n- Mutlilingual app",
+    "dateAdded": "2024-01-23T18:00:03.570Z"
+  },
+  {
+    "url": "https://v0.dev/t/mCEOpvK0gyJ",
+    "label": "Template for prompt: create a header with clothing, supplements, and accessories categories in the middle and when I hover over them it triggers a dropdown menu",
+    "dateAdded": "2024-01-23T18:00:03.570Z"
+  },
+  {
+    "url": "https://v0.dev/t/kKksAZH0BMy",
+    "label": "Template for prompt: display this data in card \n   const {\n      id,\n      EnginCapacity,\n      description,\n      paintType,\n      payment,\n      price,\n      name,\n      RegionalSpecifications,\n      location,\n      Adimages,\n      brand,\n      category,\n      model,\n      year,\n      carType,\n      carStatus,\n      transmission,\n      fuelType,\n      meterRange,\n    } = ad;",
+    "dateAdded": "2024-01-23T18:00:03.570Z"
+  },
+  {
+    "url": "https://v0.dev/t/z5d9w5eGGU3",
+    "label": "Template for prompt: A landing page for an iOS app that generate people's photo to make them look thinner / fitter, providing motivation for them to work out. Make the design fun, instead of making it like a business app. Have a textbox to collect email address (the app isn't launched yet)",
+    "dateAdded": "2024-01-23T18:00:03.571Z"
+  },
+  {
+    "url": "https://v0.dev/t/OF0a0yTZtjR",
+    "label": "Template for prompt: Create a minimalist webpage for a sale of gummies, which its name is \"Yogui Gummies\", with our products in windows and a way to contact us",
+    "dateAdded": "2024-01-23T18:00:03.571Z"
+  },
+  {
+    "url": "https://v0.dev/t/uqvYo3MO3OM",
+    "label": "Template for prompt: Create manage account with shopping history, logout button and image, email and users name. Dont use libraries",
+    "dateAdded": "2024-01-23T18:00:03.571Z"
+  },
+  {
+    "url": "https://v0.dev/t/qheU9THslL8",
+    "label": "Template for prompt: improve this ui",
+    "dateAdded": "2024-01-23T18:00:03.571Z"
+  },
+  {
+    "url": "https://v0.dev/t/vNFGwhMWRVs",
+    "label": "Template for prompt: A dashboard page for personal finances",
+    "dateAdded": "2024-01-23T18:00:03.571Z"
+  },
+  {
+    "url": "https://v0.dev/t/olf5PbvgyYF",
+    "label": "Template for prompt: a portfolio page for a frontend web developer named jack",
+    "dateAdded": "2024-01-23T18:00:03.571Z"
+  },
+  {
+    "url": "https://v0.dev/t/bVSGdJipuIM",
+    "label": "Template for prompt: create an application to manage firmware files by product model. ",
+    "dateAdded": "2024-01-23T18:00:03.571Z"
+  },
+  {
+    "url": "https://v0.dev/t/BZIJFsNdf7c",
+    "label": "Template for prompt: create Courses joga page for teacher ",
+    "dateAdded": "2024-01-23T18:00:03.572Z"
+  },
+  {
+    "url": "https://v0.dev/t/MQUkB2Wq518",
+    "label": "Template for prompt: give me loading skeleton for these cards",
+    "dateAdded": "2024-01-23T18:00:03.572Z"
+  },
+  {
+    "url": "https://v0.dev/t/OqlX8lDmlwL",
+    "label": "Template for prompt: Design a sophisticated yet user-friendly interactive quiz layout that integrates elements of the company's branding. Incorporate a color scheme that reflects professionalism and accessibility, with clear typography and intuitive navigation for a seamless user experience.",
+    "dateAdded": "2024-01-23T18:00:03.572Z"
+  },
+  {
+    "url": "https://v0.dev/t/DR6MHmHNP20",
+    "label": "Template for prompt: Create a image gallery carousel component using 19 grid template. ",
+    "dateAdded": "2024-01-23T18:00:03.572Z"
+  },
+  {
+    "url": "https://v0.dev/t/58oTZE3LQyg",
+    "label": "Template for prompt: generame el menu como en la imagen",
+    "dateAdded": "2024-01-23T18:00:03.572Z"
+  },
+  {
+    "url": "https://v0.dev/t/Gx4iMOvtsLC",
+    "label": "Template for prompt: Generate a visually stimulating and educational assessment interface that incorporates gamification elements. Use vibrant, motivating colors and graphics to create a lively atmosphere. Include progress trackers, badges, and interactive feedback to engage and encourage users throughout the assessment.",
+    "dateAdded": "2024-01-23T18:00:03.572Z"
+  },
+  {
+    "url": "https://v0.dev/t/nsPo2rbRt9T",
+    "label": "Template for prompt: Generate a visually stimulating and educational assessment interface that incorporates gamification elements. Use vibrant, motivating colors and graphics to create a lively atmosphere. Include progress trackers, badges, and interactive feedback to engage and encourage users throughout the assessment.",
+    "dateAdded": "2024-01-23T18:00:03.573Z"
+  },
+  {
+    "url": "https://v0.dev/t/2IO0hs69SBY",
+    "label": "Template for prompt: vps servers offers design",
+    "dateAdded": "2024-01-23T18:00:03.573Z"
+  },
+  {
+    "url": "https://v0.dev/t/O4mUQPYN4Ea",
+    "label": "Template for prompt: Придумай свое уникальное приложение ",
+    "dateAdded": "2024-01-23T18:00:03.573Z"
+  },
+  {
+    "url": "https://v0.dev/t/6XPECONRsnh",
+    "label": "Template for prompt: Título del Proyecto:\nDiseño de la Mejor Landing Page para nuestro Acortador de Enlaces\n\nObjetivo:\nCrear una landing page intuitiva, atractiva y fácil de usar para nuestro acortador de enlaces, con el objetivo de proporcionar a los usuarios una experiencia accesible y eficiente al realizar la tarea de acortar enlaces.\n\nRequerimientos Esenciales:\n\nInterfaz de Usuario Atractiva:\n\nDiseñar una interfaz limpia y moderna que refleje la simplicidad y la eficacia de nuestro servicio.\nUtilizar colores coherentes con la identidad de la marca y que generen confianza en los usuarios.\nAccesibilidad:\n\nGarantizar que la landing page sea accesible para personas con discapacidades, cumpliendo con los estándares de accesibilidad web (WCAG).\nIncorporar herramientas y funcionalidades que faciliten la navegación para usuarios con diversas necesidades.\nProceso de Acortamiento Sencillo:\n\nDiseñar un proceso de acortamiento de enlaces fácil de entender y ejecutar.\nIncluir instrucciones claras y concisas para gu",
+    "dateAdded": "2024-01-23T18:00:03.573Z"
+  },
+  {
+    "url": "https://v0.dev/t/K7cAgNyRgMZ",
+    "label": "Template for prompt: I need a popup to be rendered as an iframe that looks and works the same across all browsers",
+    "dateAdded": "2024-01-23T18:00:03.573Z"
+  },
+  {
+    "url": "https://v0.dev/t/tVTouLFKN55",
+    "label": "Template for prompt: create a job search navbar with the filters : keyword , location , date_posted  , experience level and a toggle darkmode",
+    "dateAdded": "2024-01-23T18:00:03.574Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ma9AmmwYAKY",
+    "label": "Template for prompt: i need a interface with a calendar (start to stembre to august) \ndiplsy 2 motnth by col\nin evry day , i can diplsy serveral activity \ni need to display vocation with a color (for exemple 1-5sptembre with  a red dash)\nfor the 1 spetembre i have 2 activity \n- Sortie de meute \nsortie de HP \n\nand 3-4 septembre i have a ctivity in 2 day \nwekend HP \n",
+    "dateAdded": "2024-01-23T18:00:03.574Z"
   }
 ]
