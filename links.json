@@ -45578,5 +45578,120 @@
     "url": "https://v0.dev/t/QGoL9d6jeGZ",
     "label": "Template for prompt: 我想做个图书管理项目，首先我需要一个管理员的登录界面，登录需要账号以及密码，账号的后端需要名字叫userName，密码是password",
     "dateAdded": "2024-01-23T14:20:02.760Z"
+  },
+  {
+    "url": "https://v0.dev/t/dPgSTm4WSN2",
+    "label": "Template for prompt: vote system",
+    "dateAdded": "2024-01-23T14:25:02.708Z"
+  },
+  {
+    "url": "https://v0.dev/t/cavlDnysMeL",
+    "label": "Template for prompt: a homepage for a Cannabis Pharma catalog website, with a hero section, popular items section, about us section, testimonial section, category section, contact form",
+    "dateAdded": "2024-01-23T14:25:02.708Z"
+  },
+  {
+    "url": "https://v0.dev/t/FZis2RiWJ4r",
+    "label": "Template for prompt: products page",
+    "dateAdded": "2024-01-23T14:25:02.708Z"
+  },
+  {
+    "url": "https://v0.dev/t/6juU7Tp3ZUL",
+    "label": "Template for prompt: blog de karatê",
+    "dateAdded": "2024-01-23T14:25:02.708Z"
+  },
+  {
+    "url": "https://v0.dev/t/JIbDkgl8WIm",
+    "label": "Template for prompt: genrate ma responsive home page page should be like navbar then banner then category then product lsited",
+    "dateAdded": "2024-01-23T14:25:02.708Z"
+  },
+  {
+    "url": "https://v0.dev/t/oX7RUMR7sY8",
+    "label": "Template for prompt: i have a site for students to sell there books, create a poster for the main page",
+    "dateAdded": "2024-01-23T14:25:02.709Z"
+  },
+  {
+    "url": "https://v0.dev/t/gAhmyhypgWs",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T14:25:02.709Z"
+  },
+  {
+    "url": "https://v0.dev/t/wo4PAPKN5zM",
+    "label": "Template for prompt: Create a page for selling perfume for me, which has the product photo at the top of the page, and the fragrance ingredients at the bottom, and below the fragrance ingredients, the description of the perfume, and at the bottom of the perfume description, the product section, and at the end of the page a There is a dark band",
+    "dateAdded": "2024-01-23T14:25:02.709Z"
+  },
+  {
+    "url": "https://v0.dev/t/hioCR8VU8SL",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T14:25:02.709Z"
+  },
+  {
+    "url": "https://v0.dev/t/STLs08Rnlqq",
+    "label": "Template for prompt: create product form",
+    "dateAdded": "2024-01-23T14:25:02.709Z"
+  },
+  {
+    "url": "https://v0.dev/t/dqjBY2gbt1Z",
+    "label": "Template for prompt: A context menu with nice buttons ",
+    "dateAdded": "2024-01-23T14:25:02.710Z"
+  },
+  {
+    "url": "https://v0.dev/t/boGXOGu8DEp",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T14:25:02.710Z"
+  },
+  {
+    "url": "https://v0.dev/t/WUIRN49gk9a",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-23T14:25:02.710Z"
+  },
+  {
+    "url": "https://v0.dev/t/FXxUXPtt2Cr",
+    "label": "Template for prompt: A beautiful typography for a uber rider saying something like \"Where today, Rider?\"",
+    "dateAdded": "2024-01-23T14:25:02.710Z"
+  },
+  {
+    "url": "https://v0.dev/t/PHenVE9Oe4I",
+    "label": "Template for prompt: A navbar for a dashboard",
+    "dateAdded": "2024-01-23T14:25:02.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/kQi9rfpqykg",
+    "label": "Template for prompt: create a user managment page, that consists of user table containing all users and detail side by side. I want edit buttons on the users. I would like the details to include Staff Name, Profile Picture, Email, Role, Available Holidays",
+    "dateAdded": "2024-01-23T14:25:02.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/BP1y7A80LDH",
+    "label": "Template for prompt: a view request page which have status of request With request note ,date of request,no of assets requested and organization admin note",
+    "dateAdded": "2024-01-23T14:25:02.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/1nbgYIXn7wi",
+    "label": "Template for prompt: 一个漂亮的登录页面，一个透明的 form 框",
+    "dateAdded": "2024-01-23T14:25:02.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/n8A6HeEFelv",
+    "label": "Template for prompt: desgn that in react and tailwind css",
+    "dateAdded": "2024-01-23T14:25:02.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/NjNlRPfpEzN",
+    "label": "Template for prompt: avec shadcn je veux une alerte qui previens que aucun programme n'a ete ajouter et un lien pour allez en creer un",
+    "dateAdded": "2024-01-23T14:25:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/na2ZyVgcwJ6",
+    "label": "Template for prompt: This is a hero section, under this hero section we want to have 3 stats card that shows the number of members, number of locations and number of jobs on our platform in the same style.",
+    "dateAdded": "2024-01-23T14:25:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/qFyafGTq7P6",
+    "label": "Template for prompt: A page for a \"oops event not found\" with a sad emoji and a text",
+    "dateAdded": "2024-01-23T14:25:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/peTqRhdx6RX",
+    "label": "Template for prompt: create a shadcn admin dashboard",
+    "dateAdded": "2024-01-23T14:25:02.712Z"
   }
 ]
