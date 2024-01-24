@@ -69333,5 +69333,135 @@
     "url": "https://v0.dev/t/dXlBkBXkiLq",
     "label": "Template for prompt: footer",
     "dateAdded": "2024-01-24T18:40:02.563Z"
+  },
+  {
+    "url": "https://v0.dev/t/YoxaUjMyBwm",
+    "label": "Template for prompt: we need to improve the design of the page",
+    "dateAdded": "2024-01-24T18:45:02.766Z"
+  },
+  {
+    "url": "https://v0.dev/t/5cNfZiqsh20",
+    "label": "Template for prompt: footer",
+    "dateAdded": "2024-01-24T18:45:02.766Z"
+  },
+  {
+    "url": "https://v0.dev/t/ceBR8NDbhIb",
+    "label": "Template for prompt: footer",
+    "dateAdded": "2024-01-24T18:45:02.767Z"
+  },
+  {
+    "url": "https://v0.dev/t/UixQx1Lzmpc",
+    "label": "Template for prompt: Create a web-based Educational Management System (EMS) portfolio catering to the needs of Department (D) Level Users. Showcase your proficiency in designing and implementing the following key functionalities:\n\nUser Management:\n\nDevelop a user-friendly interface to create, manage, and authenticate teachers and students.\nImplement user roles and permissions for secure access.\nCourse Management:\n\nDesign a module for creating, editing, and deleting courses.\nInclude features for course details such as title, description, and duration.\nClassroom Management:\n\nCreate a system for managing classrooms.\nAllow the assignment of courses to classrooms and teachers to classrooms.\nIntegration:\n\nEnsure seamless integration between user management, course management, and classroom management.\nEnable the assignment of teachers to courses and students to classrooms.\nUser Interface (UI) Design:\n\nDesign an intuitive and responsive user interface for Department (D) Level Users.\nPrioritize usability, accessib",
+    "dateAdded": "2024-01-24T18:45:02.767Z"
+  },
+  {
+    "url": "https://v0.dev/t/qrtgFGgORUF",
+    "label": "Template for prompt: Create a web-based Educational Management System (EMS) portfolio catering to the needs of Department (D) Level Users. Showcase your proficiency in designing and implementing the following key functionalities:\n\nUser Management:\n\nDevelop a user-friendly interface to create, manage, and authenticate teachers and students.\nImplement user roles and permissions for secure access.\nCourse Management:\n\nDesign a module for creating, editing, and deleting courses.\nInclude features for course details such as title, description, and duration.\nClassroom Management:\n\nCreate a system for managing classrooms.\nAllow the assignment of courses to classrooms and teachers to classrooms.\nIntegration:\n\nEnsure seamless integration between user management, course management, and classroom management.\nEnable the assignment of teachers to courses and students to classrooms.\nUser Interface (UI) Design:\n\nDesign an intuitive and responsive user interface for Department (D) Level Users.\nPrioritize usability, accessib",
+    "dateAdded": "2024-01-24T18:45:02.767Z"
+  },
+  {
+    "url": "https://v0.dev/t/YDeo2o4ynKh",
+    "label": "Template for prompt: dame una galeria de fotos con shadcn para nextjs",
+    "dateAdded": "2024-01-24T18:45:02.767Z"
+  },
+  {
+    "url": "https://v0.dev/t/3TEarsyDJjy",
+    "label": "Template for prompt: An restaurant booking form",
+    "dateAdded": "2024-01-24T18:45:02.767Z"
+  },
+  {
+    "url": "https://v0.dev/t/OmOKaz8DUaR",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T18:45:02.767Z"
+  },
+  {
+    "url": "https://v0.dev/t/DC6APiRaSYa",
+    "label": "Template for prompt: notification inbox with a dropdown,  The following details are visible:\n\nThe inbox contains 32 messages.\nThere are multiple notifications with a warning icon (an exclamation mark inside a triangle) indicating that '3dstudio' failed to deploy in the Production environment. These notifications are dated \"2d ago,\" suggesting that the failures are recent.\nBelow these, there is a positive notification with a checkmark indicating that 'catapult.video' is now configured, dated \"16d ago.\"\nAt the bottom there is an Archive All option",
+    "dateAdded": "2024-01-24T18:45:02.767Z"
+  },
+  {
+    "url": "https://v0.dev/t/oAp5hPnLq8i",
+    "label": "Template for prompt: insurance brand checkout, with advisor, prices paid in full, paid monthly",
+    "dateAdded": "2024-01-24T18:45:02.768Z"
+  },
+  {
+    "url": "https://v0.dev/t/UC9C7If947C",
+    "label": "Template for prompt: actor agency landing page, title: \"You can be a star\",\nFeature cards\nTestimonials\nAbout us\ncontact",
+    "dateAdded": "2024-01-24T18:45:02.768Z"
+  },
+  {
+    "url": "https://v0.dev/t/8vYB5ckhG5v",
+    "label": "Template for prompt: Uma sessão para meu saas contendo as funcionalidades dele, serão 7 funcionalidades e ficarão abaixo da seção de Hero",
+    "dateAdded": "2024-01-24T18:45:02.768Z"
+  },
+  {
+    "url": "https://v0.dev/t/wfsk8nXoro1",
+    "label": "Template for prompt: Please an booking form for a restaurant web app",
+    "dateAdded": "2024-01-24T18:45:02.768Z"
+  },
+  {
+    "url": "https://v0.dev/t/gu6EkHkrYna",
+    "label": "Template for prompt: create loading skeleton for chart bar card",
+    "dateAdded": "2024-01-24T18:45:02.768Z"
+  },
+  {
+    "url": "https://v0.dev/t/uJ01uaxiazR",
+    "label": "Template for prompt: Description: Develop a component to showcase host testimonials through video content, enhancing user engagement on various pages. The component displays video thumbnails with play buttons. Upon clicking a thumbnail, the user should be directed to the video content in a lightbox. Videos will be youtube hosted\n\nProps:\n\nvideos (Array of Objects): Each object contains:\n\nthumbnail (String): URL of the video thumbnail image.\n\nhead (String): Name of the host or title of the video.\n\ncopy (String): Short description of the video\n\nvideoId (String): Direct link to the video content, will be youtube id to match existing video component\n\nExample Usage:\n\n<3Video>\n  <VideoItem\n    thumbnail=\"/path-to-thumbnail-lori-win.jpg\"\n    head=\"Lori & Win Mitchell - Boothbay Craft Brewer\"\n    copy=\"Video 1 Description or Additional Information\"\n    videoId=\"Iqx3LGIs85Y\"\n  />\n  <VideoItem\n    thumbnail=\"/path-to-thumbnail-bill-ringert.jpg\"\n    head=\"Bill Ringert - Cold Springs Vineyard\"\n    copy=\"Video 2 Descrip",
+    "dateAdded": "2024-01-24T18:45:02.768Z"
+  },
+  {
+    "url": "https://v0.dev/t/QMdJDhW3Ek0",
+    "label": "Template for prompt: a web publishing platform that people could write, read, socialize and monetize the book from that they are create",
+    "dateAdded": "2024-01-24T18:45:02.768Z"
+  },
+  {
+    "url": "https://v0.dev/t/n0PwWLgby1C",
+    "label": "Template for prompt: account settings section in mobile app, that has address, payments, info",
+    "dateAdded": "2024-01-24T18:45:02.768Z"
+  },
+  {
+    "url": "https://v0.dev/t/gxY3pJkjmvl",
+    "label": "Template for prompt: hello",
+    "dateAdded": "2024-01-24T18:45:02.769Z"
+  },
+  {
+    "url": "https://v0.dev/t/s2jdZKLYt1a",
+    "label": "Template for prompt: handyman service request details section in mobile app",
+    "dateAdded": "2024-01-24T18:45:02.769Z"
+  },
+  {
+    "url": "https://v0.dev/t/4pZRm1aZ6jO",
+    "label": "Template for prompt: I need a dashboard with side nav with Home, project and settings under /dashboard in the list menu and this sidenav should be collapsable. The content part should have title of the subpage. ",
+    "dateAdded": "2024-01-24T18:45:02.769Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZAGjmE8Z5Lr",
+    "label": "Template for prompt: bar chart skeleton",
+    "dateAdded": "2024-01-24T18:45:02.769Z"
+  },
+  {
+    "url": "https://v0.dev/t/z7mzHBY4JPk",
+    "label": "Template for prompt: generate identical pricing section",
+    "dateAdded": "2024-01-24T18:45:02.769Z"
+  },
+  {
+    "url": "https://v0.dev/t/5Wefw3TPL8i",
+    "label": "Template for prompt: aesthetically pleasing to do list app",
+    "dateAdded": "2024-01-24T18:45:02.769Z"
+  },
+  {
+    "url": "https://v0.dev/t/YYbV5bvRppj",
+    "label": "Template for prompt: a finance data dashboard with a search on top and a ai chat on right. Also create nav menu on the right",
+    "dateAdded": "2024-01-24T18:45:02.769Z"
+  },
+  {
+    "url": "https://v0.dev/t/6MMb4vn2xMW",
+    "label": "Template for prompt: contract management app",
+    "dateAdded": "2024-01-24T18:45:02.769Z"
+  },
+  {
+    "url": "https://v0.dev/t/pszWhGPyQv4",
+    "label": "Template for prompt: genereta a component that displays title url price and 5 images for a rental room listing, ",
+    "dateAdded": "2024-01-24T18:45:02.770Z"
   }
 ]
