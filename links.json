@@ -63963,5 +63963,130 @@
     "url": "https://v0.dev/t/BmaAKmGyIRM",
     "label": "Template for prompt: frequently asked questions for a apple buy back website",
     "dateAdded": "2024-01-24T02:25:02.857Z"
+  },
+  {
+    "url": "https://v0.dev/t/FInq4q71lXL",
+    "label": "Template for prompt: make amazon",
+    "dateAdded": "2024-01-24T02:30:03.857Z"
+  },
+  {
+    "url": "https://v0.dev/t/lnAVH7uQZOg",
+    "label": "Template for prompt: A download reports page with preview and download buttons",
+    "dateAdded": "2024-01-24T02:30:03.858Z"
+  },
+  {
+    "url": "https://v0.dev/t/j0ECMqYYnJs",
+    "label": "Template for prompt: 使用vue3的<script setup>编写一个步骤条的组件",
+    "dateAdded": "2024-01-24T02:30:03.858Z"
+  },
+  {
+    "url": "https://v0.dev/t/3g3L2PaCGFi",
+    "label": "Template for prompt: A personal wishlist page with various items arranged to display the title, description, image, and price",
+    "dateAdded": "2024-01-24T02:30:03.858Z"
+  },
+  {
+    "url": "https://v0.dev/t/PEA9epAZYY5",
+    "label": "Template for prompt: a campaign section with heading, content and a main CTA and a secondary CTA",
+    "dateAdded": "2024-01-24T02:30:03.858Z"
+  },
+  {
+    "url": "https://v0.dev/t/27DuYKCbnEN",
+    "label": "Template for prompt: 帮我生成一个登录界面，要支持微信登录和手机号登录",
+    "dateAdded": "2024-01-24T02:30:03.858Z"
+  },
+  {
+    "url": "https://v0.dev/t/AxQHXtBX1Y9",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-24T02:30:03.859Z"
+  },
+  {
+    "url": "https://v0.dev/t/KOynGCm5ets",
+    "label": "Template for prompt: make a rolling text animation using tailwind on react",
+    "dateAdded": "2024-01-24T02:30:03.859Z"
+  },
+  {
+    "url": "https://v0.dev/t/P722aBORywp",
+    "label": "Template for prompt: a leader board with scrollable list itmes with avatar, username, and description",
+    "dateAdded": "2024-01-24T02:30:03.859Z"
+  },
+  {
+    "url": "https://v0.dev/t/2qDoWZrmqxg",
+    "label": "Template for prompt: Cream a minimalist login in react native\n",
+    "dateAdded": "2024-01-24T02:30:03.859Z"
+  },
+  {
+    "url": "https://v0.dev/t/1BATkEdmVZL",
+    "label": "Template for prompt: Beautify this design drawing",
+    "dateAdded": "2024-01-24T02:30:03.860Z"
+  },
+  {
+    "url": "https://v0.dev/t/oRS8NO8tdOh",
+    "label": "Template for prompt: Beautify this design drawing",
+    "dateAdded": "2024-01-24T02:30:03.860Z"
+  },
+  {
+    "url": "https://v0.dev/t/QRZKH9MWthe",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-24T02:30:03.860Z"
+  },
+  {
+    "url": "https://v0.dev/t/ThyC0VWCOV6",
+    "label": "Template for prompt: 帮我生成一个License显示界面，显示的内容包括下面json的内容\n{\n    \"service_ip\": \"\",\n    \"solution_name\": \"\",\n    \"product_name\": \"\",\n    \"lic_ok\": false,\n    \"lic_err_code\": \"DOCCHAIN-00011\",\n    \"lic_err_message\": \"Can not find license file\"\n  }",
+    "dateAdded": "2024-01-24T02:30:03.860Z"
+  },
+  {
+    "url": "https://v0.dev/t/UETWZr9m1po",
+    "label": "Template for prompt: 도서판매 쇼핑몰 메인화면 만들어줘",
+    "dateAdded": "2024-01-24T02:30:03.861Z"
+  },
+  {
+    "url": "https://v0.dev/t/0fmNGO18gnU",
+    "label": "Template for prompt: dashboard page that shows all details of a specific company",
+    "dateAdded": "2024-01-24T02:30:03.861Z"
+  },
+  {
+    "url": "https://v0.dev/t/pVbOFsbcZXz",
+    "label": "Template for prompt: 创建一个学员管理系统，包括学员信息管理、课程管理、成绩管理；风格简洁",
+    "dateAdded": "2024-01-24T02:30:03.861Z"
+  },
+  {
+    "url": "https://v0.dev/t/2GuYHy1kYRW",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T02:30:03.861Z"
+  },
+  {
+    "url": "https://v0.dev/t/vGWfFjerUcI",
+    "label": "Template for prompt: I have this UI, and want the top level table to be hidden unless someone types something in the search bar. There should also be a way to hide or show the table manually, next to the rest button.",
+    "dateAdded": "2024-01-24T02:30:03.861Z"
+  },
+  {
+    "url": "https://v0.dev/t/hu54bqu7T3F",
+    "label": "Template for prompt: dashboard to see a list of customers who have submitted to a buy back website to sell their phones",
+    "dateAdded": "2024-01-24T02:30:03.862Z"
+  },
+  {
+    "url": "https://v0.dev/t/L0uLBqd3LBE",
+    "label": "Template for prompt: make me this desing fullly responsive",
+    "dateAdded": "2024-01-24T02:30:03.862Z"
+  },
+  {
+    "url": "https://v0.dev/t/9w5zC22zhHQ",
+    "label": "Template for prompt: make me this desing fullly responsive",
+    "dateAdded": "2024-01-24T02:30:03.862Z"
+  },
+  {
+    "url": "https://v0.dev/t/qIhgagwQMEH",
+    "label": "Template for prompt: create a minimalist login with react native",
+    "dateAdded": "2024-01-24T02:30:03.862Z"
+  },
+  {
+    "url": "https://v0.dev/t/2XnIkX8FM8X",
+    "label": "Template for prompt: 带多语言切换功能的 login 页面",
+    "dateAdded": "2024-01-24T02:30:03.863Z"
+  },
+  {
+    "url": "https://v0.dev/t/6V0GOaF5H2G",
+    "label": "Template for prompt: landing page for inventory management page",
+    "dateAdded": "2024-01-24T02:30:03.863Z"
   }
 ]
