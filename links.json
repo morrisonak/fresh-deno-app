@@ -68188,5 +68188,135 @@
     "url": "https://v0.dev/t/l2VyE1ErK09",
     "label": "Template for prompt: make me a one page dashboard with a background of bg-gradient-to-b from-gray-800 to-gray-900, on the dashboard the user can see info such as username, expiration date and subscription plan, also on the dashboard the user can upload file and there will be 2 checkmarks \"skip renaming variables\" and \"skip chunk obfuscation\", and the user can change password",
     "dateAdded": "2024-01-24T16:45:03.652Z"
+  },
+  {
+    "url": "https://v0.dev/t/eGvovvCHiB1",
+    "label": "Template for prompt: Hero Section Architect Portfolio Site",
+    "dateAdded": "2024-01-24T16:50:03.721Z"
+  },
+  {
+    "url": "https://v0.dev/t/Eyxh8MKVVve",
+    "label": "Template for prompt: Hero Section Architect Portfolio Site",
+    "dateAdded": "2024-01-24T16:50:03.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/zvq9ZWncfAs",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-24T16:50:03.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/GsBc3flfOa5",
+    "label": "Template for prompt: make a pricing card",
+    "dateAdded": "2024-01-24T16:50:03.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/GVCzpd2vnUG",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T16:50:03.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/vF31pZBk4uW",
+    "label": "Template for prompt: A day view calendar just like google",
+    "dateAdded": "2024-01-24T16:50:03.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZIiUF1eaxP5",
+    "label": "Template for prompt: simple loading spinner",
+    "dateAdded": "2024-01-24T16:50:03.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/NatBKPVMfEN",
+    "label": "Template for prompt: simple contact page without mailing form, just contain social media",
+    "dateAdded": "2024-01-24T16:50:03.723Z"
+  },
+  {
+    "url": "https://v0.dev/t/NHFwrd5kmLP",
+    "label": "Template for prompt: web ui for myorder section with all componets for my order section",
+    "dateAdded": "2024-01-24T16:50:03.723Z"
+  },
+  {
+    "url": "https://v0.dev/t/xVlH4VqT0S7",
+    "label": "Template for prompt: A dashboard for monitoring tweets and emails",
+    "dateAdded": "2024-01-24T16:50:03.723Z"
+  },
+  {
+    "url": "https://v0.dev/t/01kNw0WARoz",
+    "label": "Template for prompt: Create a section with one big element with photo and description on the left, and three items (one item per row) with a description on the right ",
+    "dateAdded": "2024-01-24T16:50:03.723Z"
+  },
+  {
+    "url": "https://v0.dev/t/2vQePOt2QY7",
+    "label": "Template for prompt: footer",
+    "dateAdded": "2024-01-24T16:50:03.723Z"
+  },
+  {
+    "url": "https://v0.dev/t/U9ONpogxWtA",
+    "label": "Template for prompt: 퍼블리싱해줘",
+    "dateAdded": "2024-01-24T16:50:03.724Z"
+  },
+  {
+    "url": "https://v0.dev/t/3qm7juw6e7p",
+    "label": "Template for prompt: 로그인 화면 만들어줘",
+    "dateAdded": "2024-01-24T16:50:03.724Z"
+  },
+  {
+    "url": "https://v0.dev/t/E3VHHQjxo6z",
+    "label": "Template for prompt: make me a nice one page dashboard for a project called pyprotect, a python obfuscator and authentication service\nmake me a one page dashboard with a background of bg-gradient-to-b from-gray-800 to-gray-900, on the dashboard the user can see info such as username, expiration date and subscription plan, also on the dashboard the user can upload file and there will be 2 checkmarks \"skip renaming variables\" and \"skip chunk obfuscation\", and the user can change password for a project called pyprotect, a python obfuscator and authentication service, add a shield logo in the top left corner that will redirect to \"/\" when clicked, add a link discord and a logout buttons too, add icons to things like user info",
+    "dateAdded": "2024-01-24T16:50:03.724Z"
+  },
+  {
+    "url": "https://v0.dev/t/IkpQrp2K7MJ",
+    "label": "Template for prompt: create a beautiful modern login page ",
+    "dateAdded": "2024-01-24T16:50:03.724Z"
+  },
+  {
+    "url": "https://v0.dev/t/jvErtJSCCe6",
+    "label": "Template for prompt: Create a loading component for page ",
+    "dateAdded": "2024-01-24T16:50:03.724Z"
+  },
+  {
+    "url": "https://v0.dev/t/bc8Ck3JPEoD",
+    "label": "Template for prompt: Create a contact form for my portfolio , make text and inputs big",
+    "dateAdded": "2024-01-24T16:50:03.725Z"
+  },
+  {
+    "url": "https://v0.dev/t/EuJLQquZdPq",
+    "label": "Template for prompt: generate a table for listing teams information with name, users, manager table headers",
+    "dateAdded": "2024-01-24T16:50:03.725Z"
+  },
+  {
+    "url": "https://v0.dev/t/X5NzaSSnJAd",
+    "label": "Template for prompt: landing page",
+    "dateAdded": "2024-01-24T16:50:03.725Z"
+  },
+  {
+    "url": "https://v0.dev/t/UD7AE559MXi",
+    "label": "Template for prompt: simple contact page",
+    "dateAdded": "2024-01-24T16:50:03.725Z"
+  },
+  {
+    "url": "https://v0.dev/t/KRBZLIB8nZf",
+    "label": "Template for prompt: Crie um simples componente de avatar, em circulo, onde o usuário poderá inserir sua foto de perfil. utilize next e typescript  \n\naplique os seguintes estilos em um arquivo chamado Avatar.module.scss: \n\nAvatar em estado normal: background #E3B600 \nAvatar em estado hover ou estado ativo: background #E3B600 e border: #7FB6FF ",
+    "dateAdded": "2024-01-24T16:50:03.725Z"
+  },
+  {
+    "url": "https://v0.dev/t/MMWbDQYfdvF",
+    "label": "Template for prompt: create a beautiful login form",
+    "dateAdded": "2024-01-24T16:50:03.726Z"
+  },
+  {
+    "url": "https://v0.dev/t/7fjWo4hiF5V",
+    "label": "Template for prompt: A dropdown UI to select a name and a big button that says \"Go!\" and has a gradient background. The UI is constrained to mobile width and sits on a paper background with a dropshadow.",
+    "dateAdded": "2024-01-24T16:50:03.726Z"
+  },
+  {
+    "url": "https://v0.dev/t/LCtl1sVaa2P",
+    "label": "Template for prompt: react code ",
+    "dateAdded": "2024-01-24T16:50:03.726Z"
+  },
+  {
+    "url": "https://v0.dev/t/NoU5MmZAO1x",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-24T16:50:03.726Z"
   }
 ]
