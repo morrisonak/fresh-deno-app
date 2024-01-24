@@ -71118,5 +71118,135 @@
     "url": "https://v0.dev/t/zkhWnFpkBpk",
     "label": "Template for prompt: A button that toggles dark and light mode and default's to the user's system preference. It should take a circular image as the button styling",
     "dateAdded": "2024-01-24T19:50:02.496Z"
+  },
+  {
+    "url": "https://v0.dev/t/0II9Rs8fM2m",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T19:55:02.534Z"
+  },
+  {
+    "url": "https://v0.dev/t/dWtyZFoctBO",
+    "label": "Template for prompt: serchbar for riot summoners name",
+    "dateAdded": "2024-01-24T19:55:02.534Z"
+  },
+  {
+    "url": "https://v0.dev/t/3TLpxfQZBKN",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T19:55:02.534Z"
+  },
+  {
+    "url": "https://v0.dev/t/XTQrWzyBvkP",
+    "label": "Template for prompt: Please turn this image (a imagine of a address field) into a form with two columns.",
+    "dateAdded": "2024-01-24T19:55:02.535Z"
+  },
+  {
+    "url": "https://v0.dev/t/6Jhmas3DQ5c",
+    "label": "Template for prompt: autocomplete field that asks for options every 3 characters",
+    "dateAdded": "2024-01-24T19:55:02.535Z"
+  },
+  {
+    "url": "https://v0.dev/t/pLFPH4tPxSK",
+    "label": "Template for prompt: A modal dialog that requires you to subscribe in order to continue your session. The application is called Headstarter, and there are two subscription tiers: Headstarter Pro and Headstarter Elite. Ideally this would include a list of benefits for each, as well as a price.",
+    "dateAdded": "2024-01-24T19:55:02.535Z"
+  },
+  {
+    "url": "https://v0.dev/t/StHmjVKkEXq",
+    "label": "Template for prompt: form container with dynamics items. The buttons positions is a bottom ",
+    "dateAdded": "2024-01-24T19:55:02.535Z"
+  },
+  {
+    "url": "https://v0.dev/t/QMOsLjXPKmM",
+    "label": "Template for prompt: a page that shows no item found with try again button",
+    "dateAdded": "2024-01-24T19:55:02.535Z"
+  },
+  {
+    "url": "https://v0.dev/t/pfZiot7D94j",
+    "label": "Template for prompt: a simple, modern, sleek non-profit website with a dark gradient background. centered near the top of the page is a blue text box that resembles sending a text message (including the protruding triangle on the bottom right pointing to the right), with the default text being \"Am I being scammed?\" There is a button to send the text messsage to the right of the text message bubble. At the top left is a small image that directs you to the main page of the website. Above the text box is a small header. The background is a dark black-purple-blue gradient",
+    "dateAdded": "2024-01-24T19:55:02.535Z"
+  },
+  {
+    "url": "https://v0.dev/t/77sNPGNSi8k",
+    "label": "Template for prompt: a record audio page with visualizer",
+    "dateAdded": "2024-01-24T19:55:02.535Z"
+  },
+  {
+    "url": "https://v0.dev/t/gk8bewHiJQL",
+    "label": "Template for prompt: design a card shows a value and a unit as well as a timestamp, when the value was measured",
+    "dateAdded": "2024-01-24T19:55:02.536Z"
+  },
+  {
+    "url": "https://v0.dev/t/1dgCCmiga62",
+    "label": "Template for prompt: make a website that has cool animation and a container in the center that is like a self intro",
+    "dateAdded": "2024-01-24T19:55:02.536Z"
+  },
+  {
+    "url": "https://v0.dev/t/6iMrrrdSx4I",
+    "label": "Template for prompt: Reset Password Form",
+    "dateAdded": "2024-01-24T19:55:02.536Z"
+  },
+  {
+    "url": "https://v0.dev/t/Abdc5isRPlz",
+    "label": "Template for prompt: an file storing platform",
+    "dateAdded": "2024-01-24T19:55:02.536Z"
+  },
+  {
+    "url": "https://v0.dev/t/KrZPKA2PxWF",
+    "label": "Template for prompt: create a dashboard screen with graphs and cards",
+    "dateAdded": "2024-01-24T19:55:02.536Z"
+  },
+  {
+    "url": "https://v0.dev/t/FUNiPWO1Ac1",
+    "label": "Template for prompt: create a datatable with pagination and search and place a filter above for searches",
+    "dateAdded": "2024-01-24T19:55:02.536Z"
+  },
+  {
+    "url": "https://v0.dev/t/5HQvHguiqwa",
+    "label": "Template for prompt: bunu reactta kodla ",
+    "dateAdded": "2024-01-24T19:55:02.537Z"
+  },
+  {
+    "url": "https://v0.dev/t/gfXPrrcAEFl",
+    "label": "Template for prompt: Create a website to track the gym, which can see calories, proteins, write down routines, profile, and everything necessary",
+    "dateAdded": "2024-01-24T19:55:02.537Z"
+  },
+  {
+    "url": "https://v0.dev/t/ufmOrFAq1wq",
+    "label": "Template for prompt: make a todo app using tailwind css jsx",
+    "dateAdded": "2024-01-24T19:55:02.537Z"
+  },
+  {
+    "url": "https://v0.dev/t/UUgdA3dkBkj",
+    "label": "Template for prompt: coding header for an ai coding tool",
+    "dateAdded": "2024-01-24T19:55:02.537Z"
+  },
+  {
+    "url": "https://v0.dev/t/aIO4WgTapb2",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T19:55:02.537Z"
+  },
+  {
+    "url": "https://v0.dev/t/HZkt9VeumcS",
+    "label": "Template for prompt: form container with 3 inputs and 2 buttons \"Back\" and \"Save\". The buttons positions is a bottom form ",
+    "dateAdded": "2024-01-24T19:55:02.537Z"
+  },
+  {
+    "url": "https://v0.dev/t/TDFMcx5ij6b",
+    "label": "Template for prompt: an informational infographic blog post",
+    "dateAdded": "2024-01-24T19:55:02.538Z"
+  },
+  {
+    "url": "https://v0.dev/t/kUPPHmpEbyM",
+    "label": "Template for prompt: create a dashboard screen with graphs and cards",
+    "dateAdded": "2024-01-24T19:55:02.538Z"
+  },
+  {
+    "url": "https://v0.dev/t/pRN7QAxf3z3",
+    "label": "Template for prompt: Create a login page",
+    "dateAdded": "2024-01-24T19:55:02.538Z"
+  },
+  {
+    "url": "https://v0.dev/t/MOkMdmlnZYK",
+    "label": "Template for prompt: A chat ui with form (a la typeform) embedded into the chat",
+    "dateAdded": "2024-01-24T19:55:02.539Z"
   }
 ]
