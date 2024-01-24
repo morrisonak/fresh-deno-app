@@ -64723,5 +64723,135 @@
     "url": "https://v0.dev/t/cLQiUtGFZqj",
     "label": "Template for prompt: an account overview card with minimal line chart to the right",
     "dateAdded": "2024-01-24T02:55:02.618Z"
+  },
+  {
+    "url": "https://v0.dev/t/AiImClVFxRS",
+    "label": "Template for prompt: A scrollable feed like Uncrate",
+    "dateAdded": "2024-01-24T03:00:04.212Z"
+  },
+  {
+    "url": "https://v0.dev/t/sm4YRfkkyfl",
+    "label": "Template for prompt: chatgpt ui",
+    "dateAdded": "2024-01-24T03:00:04.212Z"
+  },
+  {
+    "url": "https://v0.dev/t/AmvAQ8RSaHH",
+    "label": "Template for prompt: chatgpt ui",
+    "dateAdded": "2024-01-24T03:00:04.212Z"
+  },
+  {
+    "url": "https://v0.dev/t/59Xi4B3v23V",
+    "label": "Template for prompt: UI for showing different database nodes and their current status",
+    "dateAdded": "2024-01-24T03:00:04.212Z"
+  },
+  {
+    "url": "https://v0.dev/t/p6v6bV9hnu5",
+    "label": "Template for prompt: UI for showing different database nodes and their current status",
+    "dateAdded": "2024-01-24T03:00:04.212Z"
+  },
+  {
+    "url": "https://v0.dev/t/7RXCqkC9rDv",
+    "label": "Template for prompt: A document detail page for a PDF with a metadata sidebar on the right",
+    "dateAdded": "2024-01-24T03:00:04.212Z"
+  },
+  {
+    "url": "https://v0.dev/t/EHXDJFXmX5Y",
+    "label": "Template for prompt: Create a modern UI for a promotional modal window. Include a central display area for ads, spaces for promo details and discount codes, a call-to-action button, and a top-right close button. Use a neutral color scheme with accents for key elements.",
+    "dateAdded": "2024-01-24T03:00:04.213Z"
+  },
+  {
+    "url": "https://v0.dev/t/TPc2EPojtDW",
+    "label": "Template for prompt: Create a modern UI for a promotional modal window. Include a central display area for ads, spaces for promo details and discount codes, a call-to-action button, and a top-right close button. Use a neutral color scheme with accents for key elements.",
+    "dateAdded": "2024-01-24T03:00:04.213Z"
+  },
+  {
+    "url": "https://v0.dev/t/N1vJmcd1bMu",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T03:00:04.213Z"
+  },
+  {
+    "url": "https://v0.dev/t/1tYfmZZIJJm",
+    "label": "Template for prompt: A full-height sidebar with a list within it and a \"create new\" button at the top right corner",
+    "dateAdded": "2024-01-24T03:00:04.213Z"
+  },
+  {
+    "url": "https://v0.dev/t/x2pKYrb9VK7",
+    "label": "Template for prompt: I want to create a cosmetics commerce website.\nI need a carousel slider and product list on the main page.",
+    "dateAdded": "2024-01-24T03:00:04.213Z"
+  },
+  {
+    "url": "https://v0.dev/t/0Z5DUj75FiX",
+    "label": "Template for prompt: A email template with a logo at the top, title centered in the middle where it says \"You have a new Application to job X\", a text about who applied to what job, and a good way to show the person who applied with pictures.",
+    "dateAdded": "2024-01-24T03:00:04.213Z"
+  },
+  {
+    "url": "https://v0.dev/t/x1QEa1VEuml",
+    "label": "Template for prompt: create me a page that say that not item was returned from the backlend",
+    "dateAdded": "2024-01-24T03:00:04.213Z"
+  },
+  {
+    "url": "https://v0.dev/t/WkMvSCjfMtS",
+    "label": "Template for prompt: 使用ElementUI+Vue2生成一个弹窗组件",
+    "dateAdded": "2024-01-24T03:00:04.214Z"
+  },
+  {
+    "url": "https://v0.dev/t/HIsQDHAVnxA",
+    "label": "Template for prompt: page with drag and drop zone for csv file",
+    "dateAdded": "2024-01-24T03:00:04.214Z"
+  },
+  {
+    "url": "https://v0.dev/t/SA0t7VUG94W",
+    "label": "Template for prompt: website ai tool, analyse an image and show text result, contains ads but keep minimalist and elegant, mobile design, great icons",
+    "dateAdded": "2024-01-24T03:00:04.214Z"
+  },
+  {
+    "url": "https://v0.dev/t/PUgEbICWT6C",
+    "label": "Template for prompt: crm dashboard",
+    "dateAdded": "2024-01-24T03:00:04.214Z"
+  },
+  {
+    "url": "https://v0.dev/t/eI5cOf74zwr",
+    "label": "Template for prompt: Create UI for a modal to place promotions and advertising banners.",
+    "dateAdded": "2024-01-24T03:00:04.214Z"
+  },
+  {
+    "url": "https://v0.dev/t/1POOqSix2Eo",
+    "label": "Template for prompt: a project management training website landing page",
+    "dateAdded": "2024-01-24T03:00:04.214Z"
+  },
+  {
+    "url": "https://v0.dev/t/OFeAEsS4ZIj",
+    "label": "Template for prompt: a top menu bar with 5 options",
+    "dateAdded": "2024-01-24T03:00:04.214Z"
+  },
+  {
+    "url": "https://v0.dev/t/kFd0cHlhj7e",
+    "label": "Template for prompt: a top menu bar with 5 options",
+    "dateAdded": "2024-01-24T03:00:04.214Z"
+  },
+  {
+    "url": "https://v0.dev/t/cIZSqo27tTQ",
+    "label": "Template for prompt: login",
+    "dateAdded": "2024-01-24T03:00:04.215Z"
+  },
+  {
+    "url": "https://v0.dev/t/3Z3VWD7MQvq",
+    "label": "Template for prompt: a fileupload using tailwindcss minimalist, when selected file show information name, size and type",
+    "dateAdded": "2024-01-24T03:00:04.215Z"
+  },
+  {
+    "url": "https://v0.dev/t/9ZX9UIn6J6O",
+    "label": "Template for prompt: a settings page for setting up a library configurations settings",
+    "dateAdded": "2024-01-24T03:00:04.215Z"
+  },
+  {
+    "url": "https://v0.dev/t/rCVrJnSVyyW",
+    "label": "Template for prompt: 能用antv/G6生成一个流程图，支持拖拉拽",
+    "dateAdded": "2024-01-24T03:00:04.215Z"
+  },
+  {
+    "url": "https://v0.dev/t/9KawcteP61u",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T03:00:04.215Z"
   }
 ]
