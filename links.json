@@ -70733,5 +70733,130 @@
     "url": "https://v0.dev/t/pfodBGVWup7",
     "label": "Template for prompt: give me a dashboard for admin that manages grocceries",
     "dateAdded": "2024-01-24T19:35:03.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/1LttxUBOUZI",
+    "label": "Template for prompt: A slider for azimuth headings ",
+    "dateAdded": "2024-01-24T19:40:03.546Z"
+  },
+  {
+    "url": "https://v0.dev/t/nIi0bZkgMAT",
+    "label": "Template for prompt: use shadcn create select search ",
+    "dateAdded": "2024-01-24T19:40:03.546Z"
+  },
+  {
+    "url": "https://v0.dev/t/LOBGybrxeJR",
+    "label": "Template for prompt: nav",
+    "dateAdded": "2024-01-24T19:40:03.546Z"
+  },
+  {
+    "url": "https://v0.dev/t/Nbn7quAkinQ",
+    "label": "Template for prompt: nav",
+    "dateAdded": "2024-01-24T19:40:03.546Z"
+  },
+  {
+    "url": "https://v0.dev/t/5hQpDlhvZT8",
+    "label": "Template for prompt: make a chart showing sales development over minutes, mark the current minute with some annotation ",
+    "dateAdded": "2024-01-24T19:40:03.546Z"
+  },
+  {
+    "url": "https://v0.dev/t/TPj4ilAqjYE",
+    "label": "Template for prompt: \"our services\" section, make 3 services",
+    "dateAdded": "2024-01-24T19:40:03.547Z"
+  },
+  {
+    "url": "https://v0.dev/t/nG4dDT8i0qh",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T19:40:03.547Z"
+  },
+  {
+    "url": "https://v0.dev/t/ebb4E42eh5s",
+    "label": "Template for prompt: a banner overlay that informs the user the product is in beta",
+    "dateAdded": "2024-01-24T19:40:03.547Z"
+  },
+  {
+    "url": "https://v0.dev/t/eL5qWPjUqR0",
+    "label": "Template for prompt: Booking section with booking details",
+    "dateAdded": "2024-01-24T19:40:03.547Z"
+  },
+  {
+    "url": "https://v0.dev/t/svFBErcfXQX",
+    "label": "Template for prompt: haceme un diseño de un lugar donde podes buscar por tu id y te devuelve el detalle de tu compra para verificar si estas participando",
+    "dateAdded": "2024-01-24T19:40:03.547Z"
+  },
+  {
+    "url": "https://v0.dev/t/FbFw5k7Dz8g",
+    "label": "Template for prompt: login app developer usign vanilla js + html. Frontend must have an email and password fields. A button must call to \"/login\" api endpoint. Frontend must have validations. After login the user should be redirected to a layout page. This layout page must be responsive. Must have a header and a menu.",
+    "dateAdded": "2024-01-24T19:40:03.547Z"
+  },
+  {
+    "url": "https://v0.dev/t/zch3P0uxeag",
+    "label": "Template for prompt: Add zoom in and out buttons",
+    "dateAdded": "2024-01-24T19:40:03.548Z"
+  },
+  {
+    "url": "https://v0.dev/t/3JP6dxwLVCz",
+    "label": "Template for prompt: create a dashboard with 5 cards. each card should have a title and a sentence long description",
+    "dateAdded": "2024-01-24T19:40:03.548Z"
+  },
+  {
+    "url": "https://v0.dev/t/6mWBpC2GZ3W",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T19:40:03.548Z"
+  },
+  {
+    "url": "https://v0.dev/t/WNPZuzrmfCI",
+    "label": "Template for prompt: a hero section for a crypto fraud dispute legal website",
+    "dateAdded": "2024-01-24T19:40:03.548Z"
+  },
+  {
+    "url": "https://v0.dev/t/7DDpem29Lpm",
+    "label": "Template for prompt: simple card that gives credits to 3 peoples",
+    "dateAdded": "2024-01-24T19:40:03.549Z"
+  },
+  {
+    "url": "https://v0.dev/t/DjhsyQdOnGx",
+    "label": "Template for prompt: An contact page for a restaurant",
+    "dateAdded": "2024-01-24T19:40:03.549Z"
+  },
+  {
+    "url": "https://v0.dev/t/oQ5D9wPINpi",
+    "label": "Template for prompt: Help me generate UI for a QR generate with loading state where the QR fades when loading and a refresh button appears in the middle of the QR.",
+    "dateAdded": "2024-01-24T19:40:03.549Z"
+  },
+  {
+    "url": "https://v0.dev/t/kkq2Fje7uvo",
+    "label": "Template for prompt: Can you create a calendar selector where you can select weeks.",
+    "dateAdded": "2024-01-24T19:40:03.549Z"
+  },
+  {
+    "url": "https://v0.dev/t/PNbnh9RSjps",
+    "label": "Template for prompt: create a ordering component that can order a field in descending or ascending",
+    "dateAdded": "2024-01-24T19:40:03.549Z"
+  },
+  {
+    "url": "https://v0.dev/t/YMQjykuybUE",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T19:40:03.549Z"
+  },
+  {
+    "url": "https://v0.dev/t/dfepEDlyBrP",
+    "label": "Template for prompt: a responsive table",
+    "dateAdded": "2024-01-24T19:40:03.550Z"
+  },
+  {
+    "url": "https://v0.dev/t/cB61xO5HaNH",
+    "label": "Template for prompt: A stripe payment screen with order summary, simple centered in the middle of screen",
+    "dateAdded": "2024-01-24T19:40:03.550Z"
+  },
+  {
+    "url": "https://v0.dev/t/nmVDMo2trQB",
+    "label": "Template for prompt: A simple static website to describe a company named Antithesis",
+    "dateAdded": "2024-01-24T19:40:03.550Z"
+  },
+  {
+    "url": "https://v0.dev/t/3gWWTeJUILb",
+    "label": "Template for prompt: a component of upload files",
+    "dateAdded": "2024-01-24T19:40:03.550Z"
   }
 ]
