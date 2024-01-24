@@ -67798,5 +67798,135 @@
     "url": "https://v0.dev/t/CGf3lauj6a7",
     "label": "Template for prompt: Webflow designer portfolio landing page",
     "dateAdded": "2024-01-24T16:30:02.734Z"
+  },
+  {
+    "url": "https://v0.dev/t/WPIyzQaCBSm",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T16:35:02.825Z"
+  },
+  {
+    "url": "https://v0.dev/t/6Fu02pwSb7L",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T16:35:02.825Z"
+  },
+  {
+    "url": "https://v0.dev/t/yOC2o3qWGTV",
+    "label": "Template for prompt: create this",
+    "dateAdded": "2024-01-24T16:35:02.825Z"
+  },
+  {
+    "url": "https://v0.dev/t/mmPDWIRuSnj",
+    "label": "Template for prompt: peer to peer bet website",
+    "dateAdded": "2024-01-24T16:35:02.825Z"
+  },
+  {
+    "url": "https://v0.dev/t/I2pwdjMxDQB",
+    "label": "Template for prompt: I want a professional looking table list for listing data",
+    "dateAdded": "2024-01-24T16:35:02.826Z"
+  },
+  {
+    "url": "https://v0.dev/t/Rk9Leh9hXIM",
+    "label": "Template for prompt: create a skeleton for this card\n\n\n  function OrganizerContestCard({ contest }: { contest: Contest }) {\n    return (\n      <Card>\n        <Image\n          alt=\"Contest cover image\"\n          className=\"aspect-[577/210]  object-cover rounded-t-xl w-full\"\n          src={contest.pictureUrl ?? '/public/image2.jpeg'}\n          layout=\"responsive\"\n          width={1000}\n          height={650}\n        />\n        <div className=\"p-3\">\n          <div className=\"flex justify-between items-center\">\n            <Link href={`/organizer/contests/${contest.contestId}`}>\n              <h4 className=\"font-bold text-large pt-2\">\n                {contest.contestName}\n              </h4>\n            </Link>\n            <ContestCardActions contest={contest} />\n          </div>{' '}\n          <div className=\"flex justify-between items-center\">\n            <div>\n              <small className=\"text-default-500\">\n                {contest.totalCategory}{' '}\n                {contest.totalCategory == 1 ? 'Catego",
+    "dateAdded": "2024-01-24T16:35:02.826Z"
+  },
+  {
+    "url": "https://v0.dev/t/wfSZjzSrIKB",
+    "label": "Template for prompt: a chat app",
+    "dateAdded": "2024-01-24T16:35:02.826Z"
+  },
+  {
+    "url": "https://v0.dev/t/UzIFZ4R2Ha1",
+    "label": "Template for prompt: Create a modal with 2 equal columns, the first column has two rows of which the second one has a fix height of 160px and is always shown at the bottom of the column and the first one takes up the remaining space and has scrollable content if the space is not enough. In small screen sizes the second column is hidden",
+    "dateAdded": "2024-01-24T16:35:02.826Z"
+  },
+  {
+    "url": "https://v0.dev/t/SqGSNAFhYNG",
+    "label": "Template for prompt: a filter bar with \"description\", \"code\", \"ordering\" and \"visualize\" inputs ",
+    "dateAdded": "2024-01-24T16:35:02.826Z"
+  },
+  {
+    "url": "https://v0.dev/t/BHRie7zS0FI",
+    "label": "Template for prompt: A board member section of a single page landing page for a  trade organization",
+    "dateAdded": "2024-01-24T16:35:02.826Z"
+  },
+  {
+    "url": "https://v0.dev/t/kHycIi8LTml",
+    "label": "Template for prompt: a cart",
+    "dateAdded": "2024-01-24T16:35:02.827Z"
+  },
+  {
+    "url": "https://v0.dev/t/uXFdLAoiFQU",
+    "label": "Template for prompt: 2 cards that display fx exchange rages for USD/NGN and RWF/NGN",
+    "dateAdded": "2024-01-24T16:35:02.827Z"
+  },
+  {
+    "url": "https://v0.dev/t/ulzfVDn1Ny6",
+    "label": "Template for prompt: manufacturing request form for paper, sheet metal parts, etc, that has fields like product spec upload, material types, tolerances, etc\n\nand has a \"live quote\" section that shows you the price as it changes while you configure the form",
+    "dateAdded": "2024-01-24T16:35:02.827Z"
+  },
+  {
+    "url": "https://v0.dev/t/IAMcuOPrkgJ",
+    "label": "Template for prompt: scrollable timelime style roadmap lading page with at least 20 steps, state-of-the-art",
+    "dateAdded": "2024-01-24T16:35:02.827Z"
+  },
+  {
+    "url": "https://v0.dev/t/CKosTwztatU",
+    "label": "Template for prompt: Generate me a experience section, a section where I can list out my years of experience, our profesionalism, number of projects.. etc. ",
+    "dateAdded": "2024-01-24T16:35:02.827Z"
+  },
+  {
+    "url": "https://v0.dev/t/NwD8DQTA5ST",
+    "label": "Template for prompt: An app for coffee lovers",
+    "dateAdded": "2024-01-24T16:35:02.827Z"
+  },
+  {
+    "url": "https://v0.dev/t/wdRMU57B1ui",
+    "label": "Template for prompt: address delivery form",
+    "dateAdded": "2024-01-24T16:35:02.827Z"
+  },
+  {
+    "url": "https://v0.dev/t/yexOdqJujP5",
+    "label": "Template for prompt: a table with 12 columns and colors blue and orange",
+    "dateAdded": "2024-01-24T16:35:02.828Z"
+  },
+  {
+    "url": "https://v0.dev/t/FVWG7NP5f3f",
+    "label": "Template for prompt: CEO message",
+    "dateAdded": "2024-01-24T16:35:02.828Z"
+  },
+  {
+    "url": "https://v0.dev/t/f1wqcFMq0E8",
+    "label": "Template for prompt: An restaurant listing to order",
+    "dateAdded": "2024-01-24T16:35:02.828Z"
+  },
+  {
+    "url": "https://v0.dev/t/85SSmTYIf75",
+    "label": "Template for prompt: A form with editable data with date, country dropdown, full name fields",
+    "dateAdded": "2024-01-24T16:35:02.828Z"
+  },
+  {
+    "url": "https://v0.dev/t/kqiJvSuoCHG",
+    "label": "Template for prompt: Profile",
+    "dateAdded": "2024-01-24T16:35:02.828Z"
+  },
+  {
+    "url": "https://v0.dev/t/f8rMFgt7Doi",
+    "label": "Template for prompt: an edit profile form",
+    "dateAdded": "2024-01-24T16:35:02.828Z"
+  },
+  {
+    "url": "https://v0.dev/t/9iWtRaR0zby",
+    "label": "Template for prompt: Digital SAT reading exam",
+    "dateAdded": "2024-01-24T16:35:02.829Z"
+  },
+  {
+    "url": "https://v0.dev/t/8qSovFIusIe",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T16:35:02.829Z"
+  },
+  {
+    "url": "https://v0.dev/t/oosQe93PaU8",
+    "label": "Template for prompt: Genera esta pagina",
+    "dateAdded": "2024-01-24T16:35:02.829Z"
   }
 ]
