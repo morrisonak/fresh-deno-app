@@ -60318,5 +60318,115 @@
     "url": "https://v0.dev/t/swVPNWZG9fb",
     "label": "Template for prompt: Landing page for steel manifacturer",
     "dateAdded": "2024-01-24T00:00:02.959Z"
+  },
+  {
+    "url": "https://v0.dev/t/HhclCc2W0Ig",
+    "label": "Template for prompt: Develop an advanced admin dashboard for bulk license management in a Next.js application. The dashboard should facilitate the bulk generation of licenses, allowing admins to specify the number of licenses to create at once. Include fields like organization ID, courses (as a JSON array), start and end dates, license status, and cooldown periods. Ensure robust security measures to prevent unauthorized access. Incorporate functionalities for bulk editing and viewing of licenses, with filtering options by status or organization. Design the interface to be user-friendly and responsive for various devices, and implement comprehensive error handling for a smooth operational experience.",
+    "dateAdded": "2024-01-24T00:05:03.202Z"
+  },
+  {
+    "url": "https://v0.dev/t/cUwidZA4fJe",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T00:05:03.202Z"
+  },
+  {
+    "url": "https://v0.dev/t/xXdpd3oBWqe",
+    "label": "Template for prompt: based on this image prepare a set of components: header, hero section, slider and cards",
+    "dateAdded": "2024-01-24T00:05:03.202Z"
+  },
+  {
+    "url": "https://v0.dev/t/BuDoanSaJ00",
+    "label": "Template for prompt: Use thsi as a reference for a prescriton - add color - as approprate in a healthcare setting  in yur UI",
+    "dateAdded": "2024-01-24T00:05:03.203Z"
+  },
+  {
+    "url": "https://v0.dev/t/6iTzfXSPsze",
+    "label": "Template for prompt: a simple success modal does not allow the user to navigate away and thanks the user for reviewing the updates to the service agreement. make sure to use a light yellow background and when the user clicks the dialog button, the background blur a bit darker. ",
+    "dateAdded": "2024-01-24T00:05:03.203Z"
+  },
+  {
+    "url": "https://v0.dev/t/ABV6HDeWisX",
+    "label": "Template for prompt: make a settings page with a theme selection card and a language selection card ",
+    "dateAdded": "2024-01-24T00:05:03.203Z"
+  },
+  {
+    "url": "https://v0.dev/t/kwVe2XGXeZZ",
+    "label": "Template for prompt: ISCO compliant occupation selector",
+    "dateAdded": "2024-01-24T00:05:03.203Z"
+  },
+  {
+    "url": "https://v0.dev/t/u5kSmMUzn5K",
+    "label": "Template for prompt: a dashboard page to show stock portfoliio",
+    "dateAdded": "2024-01-24T00:05:03.203Z"
+  },
+  {
+    "url": "https://v0.dev/t/blRko195lBw",
+    "label": "Template for prompt: page for pancake recipe",
+    "dateAdded": "2024-01-24T00:05:03.204Z"
+  },
+  {
+    "url": "https://v0.dev/t/jvgI50NnedN",
+    "label": "Template for prompt: two column hotel room reservation form, left is the form and right is the order summary including the room image and info",
+    "dateAdded": "2024-01-24T00:05:03.204Z"
+  },
+  {
+    "url": "https://v0.dev/t/KTq1ivpoC3z",
+    "label": "Template for prompt: a short date and time picker",
+    "dateAdded": "2024-01-24T00:05:03.204Z"
+  },
+  {
+    "url": "https://v0.dev/t/2Diqh0z8CvR",
+    "label": "Template for prompt: drag and drop image upload when hover color should be change, best ui ux and support multiple images",
+    "dateAdded": "2024-01-24T00:05:03.204Z"
+  },
+  {
+    "url": "https://v0.dev/t/uUT1ikQdiIK",
+    "label": "Template for prompt: A landing page for a plumbing business",
+    "dateAdded": "2024-01-24T00:05:03.205Z"
+  },
+  {
+    "url": "https://v0.dev/t/F6aovcvxHU4",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T00:05:03.205Z"
+  },
+  {
+    "url": "https://v0.dev/t/2ktycTm3ld1",
+    "label": "Template for prompt: phone number input aligned with country code selection for ",
+    "dateAdded": "2024-01-24T00:05:03.205Z"
+  },
+  {
+    "url": "https://v0.dev/t/AUZqQapzk0c",
+    "label": "Template for prompt: create an modern looking app with sliders ",
+    "dateAdded": "2024-01-24T00:05:03.205Z"
+  },
+  {
+    "url": "https://v0.dev/t/LWAKsq6B8jo",
+    "label": "Template for prompt: better way to this delivery screen",
+    "dateAdded": "2024-01-24T00:05:03.205Z"
+  },
+  {
+    "url": "https://v0.dev/t/5dlqhfykcBG",
+    "label": "Template for prompt: drag drop or select images, only jpg,png,jpeg or any image types allowed, and also one input for main image",
+    "dateAdded": "2024-01-24T00:05:03.206Z"
+  },
+  {
+    "url": "https://v0.dev/t/EWE7aDFoS4m",
+    "label": "Template for prompt: card games",
+    "dateAdded": "2024-01-24T00:05:03.206Z"
+  },
+  {
+    "url": "https://v0.dev/t/QnMlxX4aXfm",
+    "label": "Template for prompt: Make a hamburger manu",
+    "dateAdded": "2024-01-24T00:05:03.206Z"
+  },
+  {
+    "url": "https://v0.dev/t/svukp2I8j7z",
+    "label": "Template for prompt: modern cv for a software engineer",
+    "dateAdded": "2024-01-24T00:05:03.206Z"
+  },
+  {
+    "url": "https://v0.dev/t/dd3bffCQ9bh",
+    "label": "Template for prompt: make a login page for an application that seeks to help people study through AI",
+    "dateAdded": "2024-01-24T00:05:03.206Z"
   }
 ]
