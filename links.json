@@ -65503,5 +65503,135 @@
     "url": "https://v0.dev/t/PC0ON8bJVdi",
     "label": "Template for prompt: a saas tool which users can upload audio file and get text transcription and text summary",
     "dateAdded": "2024-01-24T03:25:03.376Z"
+  },
+  {
+    "url": "https://v0.dev/t/Jln247HQ5La",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T03:30:02.910Z"
+  },
+  {
+    "url": "https://v0.dev/t/eNya70R7ms4",
+    "label": "Template for prompt: a chip management dashboard",
+    "dateAdded": "2024-01-24T03:30:02.911Z"
+  },
+  {
+    "url": "https://v0.dev/t/UwdSd1knjQX",
+    "label": "Template for prompt: 使用vue  可以打开预览office文件 且可以支持标注  使用红框进行标注",
+    "dateAdded": "2024-01-24T03:30:02.911Z"
+  },
+  {
+    "url": "https://v0.dev/t/ce3wYbCBNi5",
+    "label": "Template for prompt: 관리자 페이지를 만드는데 반응형으로 하고 메뉴는 왼쪽 그리고 상단에는 지표를 보는 창 4개 그리고 아래에는 테이블이 있는 화면을 만들어줘",
+    "dateAdded": "2024-01-24T03:30:02.911Z"
+  },
+  {
+    "url": "https://v0.dev/t/u6cBAlOGeDL",
+    "label": "Template for prompt: 写一个页面",
+    "dateAdded": "2024-01-24T03:30:02.911Z"
+  },
+  {
+    "url": "https://v0.dev/t/0rL8aI3PeBR",
+    "label": "Template for prompt: a page where you can trim a video. this should display a video element in the center that plays a video and should display an iOS style slider/trim widget to trim the video as well as override textfields that show the start and end time of the trim",
+    "dateAdded": "2024-01-24T03:30:02.911Z"
+  },
+  {
+    "url": "https://v0.dev/t/qLlsnYMK2Nz",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T03:30:02.912Z"
+  },
+  {
+    "url": "https://v0.dev/t/HebEuYrXu25",
+    "label": "Template for prompt: A minimalist registration form",
+    "dateAdded": "2024-01-24T03:30:02.912Z"
+  },
+  {
+    "url": "https://v0.dev/t/Rtc3B91Lgqg",
+    "label": "Template for prompt: 写一个菜单",
+    "dateAdded": "2024-01-24T03:30:02.912Z"
+  },
+  {
+    "url": "https://v0.dev/t/xKUwPLdv1mz",
+    "label": "Template for prompt: 使用vue  帮我写一个  预览office文件的功能  要求可以支持用户在文档上面进行 添加红框标注  且支持导出图片  然后下次打开后依然可以  进行上次的 标注红框",
+    "dateAdded": "2024-01-24T03:30:02.912Z"
+  },
+  {
+    "url": "https://v0.dev/t/HUK2NnNmqQb",
+    "label": "Template for prompt: A user settings page, that shows a user's information (name, email, avatar, phone number), all editable, along with a table of that user's Loops (automations on our platform) and Runs (most recent runs of the Loops) ",
+    "dateAdded": "2024-01-24T03:30:02.913Z"
+  },
+  {
+    "url": "https://v0.dev/t/1Yw4HRhLiOQ",
+    "label": "Template for prompt: 写一个复杂的柱状图",
+    "dateAdded": "2024-01-24T03:30:02.913Z"
+  },
+  {
+    "url": "https://v0.dev/t/mvz0JvUjSVF",
+    "label": "Template for prompt: A dashboard to see list of wireless SSID's and click to scan QRcode to connect or edit password or delete or hide them",
+    "dateAdded": "2024-01-24T03:30:02.913Z"
+  },
+  {
+    "url": "https://v0.dev/t/INQd1H69dnp",
+    "label": "Template for prompt: 写一个只有两个菜单的导航也",
+    "dateAdded": "2024-01-24T03:30:02.913Z"
+  },
+  {
+    "url": "https://v0.dev/t/UlLhBAe2ROf",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-24T03:30:02.913Z"
+  },
+  {
+    "url": "https://v0.dev/t/NSXinLZQHyO",
+    "label": "Template for prompt: cron job dashboard vue ",
+    "dateAdded": "2024-01-24T03:30:02.914Z"
+  },
+  {
+    "url": "https://v0.dev/t/RsqY7RE2Scs",
+    "label": "Template for prompt: A gallery of profiles that can be filtered",
+    "dateAdded": "2024-01-24T03:30:02.914Z"
+  },
+  {
+    "url": "https://v0.dev/t/PbrJOCCrptk",
+    "label": "Template for prompt: 写一个只有两个按钮的页面",
+    "dateAdded": "2024-01-24T03:30:02.914Z"
+  },
+  {
+    "url": "https://v0.dev/t/xaGHqqvjUxT",
+    "label": "Template for prompt: make a form to indentify that's my girl friend make this romatic and cute with icon ",
+    "dateAdded": "2024-01-24T03:30:02.914Z"
+  },
+  {
+    "url": "https://v0.dev/t/hse860nysHS",
+    "label": "Template for prompt: A dashboard with a sidebar nav and table",
+    "dateAdded": "2024-01-24T03:30:02.914Z"
+  },
+  {
+    "url": "https://v0.dev/t/7aMh3uUEW9G",
+    "label": "Template for prompt: Quiero una app para manejar usuarios por projecto",
+    "dateAdded": "2024-01-24T03:30:02.914Z"
+  },
+  {
+    "url": "https://v0.dev/t/ul0qCwfinki",
+    "label": "Template for prompt: make a home crm with stadistic metric cards",
+    "dateAdded": "2024-01-24T03:30:02.914Z"
+  },
+  {
+    "url": "https://v0.dev/t/FCXO8nytdyb",
+    "label": "Template for prompt: suggest colors for a data table over a white background",
+    "dateAdded": "2024-01-24T03:30:02.915Z"
+  },
+  {
+    "url": "https://v0.dev/t/yHlpx7ZVRvH",
+    "label": "Template for prompt: 生成它的前端代码",
+    "dateAdded": "2024-01-24T03:30:02.915Z"
+  },
+  {
+    "url": "https://v0.dev/t/3Ue6F5ud8CF",
+    "label": "Template for prompt: 写一个登录页",
+    "dateAdded": "2024-01-24T03:30:02.915Z"
+  },
+  {
+    "url": "https://v0.dev/t/EzIJkGzV9EX",
+    "label": "Template for prompt: a dashboard page with a navbar and table with users",
+    "dateAdded": "2024-01-24T03:30:02.916Z"
   }
 ]
