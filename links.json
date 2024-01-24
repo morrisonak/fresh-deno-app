@@ -77263,5 +77263,135 @@
     "url": "https://v0.dev/t/fcwH7q26fbR",
     "label": "Template for prompt: dashboard for chosing algorythms to learn and code",
     "dateAdded": "2024-01-24T23:50:02.947Z"
+  },
+  {
+    "url": "https://v0.dev/t/i8wnCuVC1NL",
+    "label": "Template for prompt: upload image",
+    "dateAdded": "2024-01-24T23:55:03.093Z"
+  },
+  {
+    "url": "https://v0.dev/t/fWu0pCI3ODT",
+    "label": "Template for prompt: A hero section with text on the left and image on the right. The image could be any aspect ratio. I need it to scale. ",
+    "dateAdded": "2024-01-24T23:55:03.093Z"
+  },
+  {
+    "url": "https://v0.dev/t/PoHGuSW1SMF",
+    "label": "Template for prompt: 4장 단위로 들어오는 결과값을 총 3개 보여주고 그 결과값들중에 하나를 고르면 그걸 표시해주는 가로 700px의 컴포넌트",
+    "dateAdded": "2024-01-24T23:55:03.094Z"
+  },
+  {
+    "url": "https://v0.dev/t/fvcnMhdTg31",
+    "label": "Template for prompt: Create a hero section that spans top to bottom of the screen with an image as the background. On the top we have the menu and fixed to the bottom is a box equal in height and width with the title, description, and CTA button.  The box is fully responsive it keeps the the text vertically centered but horizontally the text starts from the left. ",
+    "dateAdded": "2024-01-24T23:55:03.094Z"
+  },
+  {
+    "url": "https://v0.dev/t/BzdkNCEY2cg",
+    "label": "Template for prompt: 똑같이 만들어라 웹툰을 만드는 플랫폼 사이트이다",
+    "dateAdded": "2024-01-24T23:55:03.094Z"
+  },
+  {
+    "url": "https://v0.dev/t/IJq9tj59Hey",
+    "label": "Template for prompt: create an ecommerce shopping cart",
+    "dateAdded": "2024-01-24T23:55:03.094Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZZg83OYlm95",
+    "label": "Template for prompt: white header with four items",
+    "dateAdded": "2024-01-24T23:55:03.094Z"
+  },
+  {
+    "url": "https://v0.dev/t/d5EIHoSoPgG",
+    "label": "Template for prompt: codingan button cetak data",
+    "dateAdded": "2024-01-24T23:55:03.094Z"
+  },
+  {
+    "url": "https://v0.dev/t/UMZYMxcXqlX",
+    "label": "Template for prompt: simple footer written \"Made by Gabriel Rissi\"",
+    "dateAdded": "2024-01-24T23:55:03.095Z"
+  },
+  {
+    "url": "https://v0.dev/t/rh7q2AOLLyy",
+    "label": "Template for prompt: generate dialog with tables",
+    "dateAdded": "2024-01-24T23:55:03.095Z"
+  },
+  {
+    "url": "https://v0.dev/t/DCQaxDLJT9K",
+    "label": "Template for prompt: bikin button cetak data",
+    "dateAdded": "2024-01-24T23:55:03.095Z"
+  },
+  {
+    "url": "https://v0.dev/t/XrVIEyNazjk",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T23:55:03.095Z"
+  },
+  {
+    "url": "https://v0.dev/t/x4k8xiYnZTA",
+    "label": "Template for prompt: Create a landing page of a university that its main style is a notebook with different pages containing information\n\nLeft to right each sheet.\n\nThe notebook sheet must be emphasized in each information and it has to be the most eye-catching of the page. It is mandatory to use notebook pages\n\nthe color palette is blue with white.",
+    "dateAdded": "2024-01-24T23:55:03.095Z"
+  },
+  {
+    "url": "https://v0.dev/t/1pQ8rHQ4LuZ",
+    "label": "Template for prompt: Create the UI elements for this 'About Page'. Positions all the components in the relevent places",
+    "dateAdded": "2024-01-24T23:55:03.096Z"
+  },
+  {
+    "url": "https://v0.dev/t/6HUW18uGAHK",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T23:55:03.096Z"
+  },
+  {
+    "url": "https://v0.dev/t/bcqfwcvIbEf",
+    "label": "Template for prompt: UI for displaying a note / idea on a blog post or website",
+    "dateAdded": "2024-01-24T23:55:03.096Z"
+  },
+  {
+    "url": "https://v0.dev/t/W9Mqd2gSaRs",
+    "label": "Template for prompt: modern header with home, contact, about us",
+    "dateAdded": "2024-01-24T23:55:03.096Z"
+  },
+  {
+    "url": "https://v0.dev/t/VaOKaQ4FHzo",
+    "label": "Template for prompt: a dialog page with a title and x button at the top of the page, with dialog content in the center of the screen",
+    "dateAdded": "2024-01-24T23:55:03.096Z"
+  },
+  {
+    "url": "https://v0.dev/t/alvaKkWiqgT",
+    "label": "Template for prompt: history section in an ecommerce",
+    "dateAdded": "2024-01-24T23:55:03.096Z"
+  },
+  {
+    "url": "https://v0.dev/t/2a0yMfdhwbT",
+    "label": "Template for prompt: web developer portfolio hero",
+    "dateAdded": "2024-01-24T23:55:03.097Z"
+  },
+  {
+    "url": "https://v0.dev/t/yukpnhLWMgh",
+    "label": "Template for prompt: make me a minimalist erp sidebar",
+    "dateAdded": "2024-01-24T23:55:03.097Z"
+  },
+  {
+    "url": "https://v0.dev/t/z27Uk5iTG8G",
+    "label": "Template for prompt: Generate a login Page. The user can only login with the email and password. Those inputs are contained in some kind of Card component (in desktop) in mobile they just float. On top of the inputs there should be a big welcome message with a description beneath that tells the user to sign up if he have an account",
+    "dateAdded": "2024-01-24T23:55:03.097Z"
+  },
+  {
+    "url": "https://v0.dev/t/bNtjCH71D1m",
+    "label": "Template for prompt: A mobile app for a pet shop",
+    "dateAdded": "2024-01-24T23:55:03.097Z"
+  },
+  {
+    "url": "https://v0.dev/t/uMgOqpLI3Ph",
+    "label": "Template for prompt: An invoices table listing status, payment amounts, and other pertinent information",
+    "dateAdded": "2024-01-24T23:55:03.097Z"
+  },
+  {
+    "url": "https://v0.dev/t/arUTVOiz202",
+    "label": "Template for prompt: A card with white background, with cards inside in this order\n\n1 1\n1 1 1 1\n1 1",
+    "dateAdded": "2024-01-24T23:55:03.098Z"
+  },
+  {
+    "url": "https://v0.dev/t/5hc2ZzhxGs8",
+    "label": "Template for prompt: card to show the status of an in progress speedrun race. fields: game - category - current time - created by - amount of players - current leader",
+    "dateAdded": "2024-01-24T23:55:03.098Z"
   }
 ]
