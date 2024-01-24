@@ -64338,5 +64338,130 @@
     "url": "https://v0.dev/t/uYqJk1SJWWv",
     "label": "Template for prompt: generate a profile page that is part of dashboard layout",
     "dateAdded": "2024-01-24T02:40:03.437Z"
+  },
+  {
+    "url": "https://v0.dev/t/GUAaaXLJ5ty",
+    "label": "Template for prompt: An interface called \"GM Orkforge interface\" that presents users with a series of 4 select lists with two buttons next to them, describe and list ",
+    "dateAdded": "2024-01-24T02:45:02.791Z"
+  },
+  {
+    "url": "https://v0.dev/t/L6nJS0yFSt4",
+    "label": "Template for prompt: create a login form using shadcn that is centered in the screen",
+    "dateAdded": "2024-01-24T02:45:02.791Z"
+  },
+  {
+    "url": "https://v0.dev/t/pGrgm6lyONd",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T02:45:02.791Z"
+  },
+  {
+    "url": "https://v0.dev/t/X5F6rDgVAzO",
+    "label": "Template for prompt: a homepage for a digital artist , with sample works and menus",
+    "dateAdded": "2024-01-24T02:45:02.791Z"
+  },
+  {
+    "url": "https://v0.dev/t/5SafjE11DOx",
+    "label": "Template for prompt: a homepage for a digital artist , with sample works and menus",
+    "dateAdded": "2024-01-24T02:45:02.791Z"
+  },
+  {
+    "url": "https://v0.dev/t/OLmtoXWtrYv",
+    "label": "Template for prompt: 화장품 커머스 웹사이트를 만들고 싶어.\n메인 페이지에 캐러셀 슬라이더와 상품리스트가 필요해",
+    "dateAdded": "2024-01-24T02:45:02.791Z"
+  },
+  {
+    "url": "https://v0.dev/t/SH61JIVQRP0",
+    "label": "Template for prompt: 화장품 커머스 웹사이트를 만들고 싶어.\n메인 페이지에 캐러셀 슬라이더와 상품리스트가 필요해",
+    "dateAdded": "2024-01-24T02:45:02.792Z"
+  },
+  {
+    "url": "https://v0.dev/t/jwbXVsVcL1H",
+    "label": "Template for prompt: jjj",
+    "dateAdded": "2024-01-24T02:45:02.792Z"
+  },
+  {
+    "url": "https://v0.dev/t/R5ZkyHyGj3s",
+    "label": "Template for prompt: Range with lower and upper bound",
+    "dateAdded": "2024-01-24T02:45:02.792Z"
+  },
+  {
+    "url": "https://v0.dev/t/TpVc7BjcXym",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T02:45:02.792Z"
+  },
+  {
+    "url": "https://v0.dev/t/E3gvBbWKHhT",
+    "label": "Template for prompt: A section from a bakery and coffee shop that is like a carousel showing their products with nice messages",
+    "dateAdded": "2024-01-24T02:45:02.792Z"
+  },
+  {
+    "url": "https://v0.dev/t/z0WgEj1qPFo",
+    "label": "Template for prompt: design this ui",
+    "dateAdded": "2024-01-24T02:45:02.792Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ve5GkPNY8P0",
+    "label": "Template for prompt: a chatbot with a chat sessions ",
+    "dateAdded": "2024-01-24T02:45:02.792Z"
+  },
+  {
+    "url": "https://v0.dev/t/IlJerJmkddY",
+    "label": "Template for prompt: a mobile interface with a rearrangeable tracklist and a now playing at the top with media controls. also include a search bar",
+    "dateAdded": "2024-01-24T02:45:02.792Z"
+  },
+  {
+    "url": "https://v0.dev/t/z3PJEivBPI3",
+    "label": "Template for prompt: Generate a link element that is a link for www.mypage.com/profile/link/[userId]\n\nThis is a card that has 2 options in a radio. 1 is \"I have a link\", which does not do anything for now. The other is \"I want to generate and send a link\"\n\nIf they click the \"I want to generate and send a link\", A text box that is autofilled with their Id as theabove comes up that they cannot modify, and they have a copy button on the right of the text box.\n\nUnderneath, there is also an email icon button, that for now doesn't have any logic to it.\n\nUse the shadcn/ui library for this please.",
+    "dateAdded": "2024-01-24T02:45:02.793Z"
+  },
+  {
+    "url": "https://v0.dev/t/7Le76Eolzsq",
+    "label": "Template for prompt: curl api test tab bar base application",
+    "dateAdded": "2024-01-24T02:45:02.793Z"
+  },
+  {
+    "url": "https://v0.dev/t/ukuWr95LKGT",
+    "label": "Template for prompt: Google-like search results page",
+    "dateAdded": "2024-01-24T02:45:02.793Z"
+  },
+  {
+    "url": "https://v0.dev/t/KqReyWFuNcF",
+    "label": "Template for prompt: a mobile webapp",
+    "dateAdded": "2024-01-24T02:45:02.793Z"
+  },
+  {
+    "url": "https://v0.dev/t/BfOCWCvQcbr",
+    "label": "Template for prompt: fun vertical nav bar",
+    "dateAdded": "2024-01-24T02:45:02.793Z"
+  },
+  {
+    "url": "https://v0.dev/t/GpSFecGUgzk",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T02:45:02.793Z"
+  },
+  {
+    "url": "https://v0.dev/t/DpkNuJtOgZK",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T02:45:02.793Z"
+  },
+  {
+    "url": "https://v0.dev/t/2Vq1oIb8vaS",
+    "label": "Template for prompt: A chat interface with workspaces on the left, channels the the right of that, messages with threads in the center, and a channel inspection panel on the right",
+    "dateAdded": "2024-01-24T02:45:02.793Z"
+  },
+  {
+    "url": "https://v0.dev/t/0HB1TIgKBMm",
+    "label": "Template for prompt: a christmas button",
+    "dateAdded": "2024-01-24T02:45:02.794Z"
+  },
+  {
+    "url": "https://v0.dev/t/4XjQTv1hYXi",
+    "label": "Template for prompt: a sleek, modern, email entry popup modal, with submit button",
+    "dateAdded": "2024-01-24T02:45:02.794Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wv2FhKWdriU",
+    "label": "Template for prompt: two floating acttion buttons on the right bottom",
+    "dateAdded": "2024-01-24T02:45:02.794Z"
   }
 ]
