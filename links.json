@@ -77133,5 +77133,135 @@
     "url": "https://v0.dev/t/uISomYIANCs",
     "label": "Template for prompt: Create a landing page for a university whose main style is a book with different pages containing information and the color palette is blue with white.\n\nEach page looks like sheets and must be defined from left to right each sheet.",
     "dateAdded": "2024-01-24T23:45:02.767Z"
+  },
+  {
+    "url": "https://v0.dev/t/6HUW18uGAHK",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T23:50:02.944Z"
+  },
+  {
+    "url": "https://v0.dev/t/bcqfwcvIbEf",
+    "label": "Template for prompt: UI for displaying a note / idea on a blog post or website",
+    "dateAdded": "2024-01-24T23:50:02.944Z"
+  },
+  {
+    "url": "https://v0.dev/t/W9Mqd2gSaRs",
+    "label": "Template for prompt: modern header with home, contact, about us",
+    "dateAdded": "2024-01-24T23:50:02.944Z"
+  },
+  {
+    "url": "https://v0.dev/t/VaOKaQ4FHzo",
+    "label": "Template for prompt: a dialog page with a title and x button at the top of the page, with dialog content in the center of the screen",
+    "dateAdded": "2024-01-24T23:50:02.944Z"
+  },
+  {
+    "url": "https://v0.dev/t/alvaKkWiqgT",
+    "label": "Template for prompt: history section in an ecommerce",
+    "dateAdded": "2024-01-24T23:50:02.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/2a0yMfdhwbT",
+    "label": "Template for prompt: web developer portfolio hero",
+    "dateAdded": "2024-01-24T23:50:02.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/yukpnhLWMgh",
+    "label": "Template for prompt: make me a minimalist erp sidebar",
+    "dateAdded": "2024-01-24T23:50:02.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/z27Uk5iTG8G",
+    "label": "Template for prompt: Generate a login Page. The user can only login with the email and password. Those inputs are contained in some kind of Card component (in desktop) in mobile they just float. On top of the inputs there should be a big welcome message with a description beneath that tells the user to sign up if he have an account",
+    "dateAdded": "2024-01-24T23:50:02.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/bNtjCH71D1m",
+    "label": "Template for prompt: A mobile app for a pet shop",
+    "dateAdded": "2024-01-24T23:50:02.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/uMgOqpLI3Ph",
+    "label": "Template for prompt: An invoices table listing status, payment amounts, and other pertinent information",
+    "dateAdded": "2024-01-24T23:50:02.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/arUTVOiz202",
+    "label": "Template for prompt: A card with white background, with cards inside in this order\n\n1 1\n1 1 1 1\n1 1",
+    "dateAdded": "2024-01-24T23:50:02.945Z"
+  },
+  {
+    "url": "https://v0.dev/t/5hc2ZzhxGs8",
+    "label": "Template for prompt: card to show the status of an in progress speedrun race. fields: game - category - current time - created by - amount of players - current leader",
+    "dateAdded": "2024-01-24T23:50:02.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/AjTapocYGDk",
+    "label": "Template for prompt: build this navbar",
+    "dateAdded": "2024-01-24T23:50:02.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/1G5kJHKz771",
+    "label": "Template for prompt: web developer hero section",
+    "dateAdded": "2024-01-24T23:50:02.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/wE5fezz53eC",
+    "label": "Template for prompt: web developer hero section",
+    "dateAdded": "2024-01-24T23:50:02.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/JAyfvUKurkS",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-24T23:50:02.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/3g8ALIUX8um",
+    "label": "Template for prompt: create a nice navigation bar",
+    "dateAdded": "2024-01-24T23:50:02.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/jnFL63FdDQl",
+    "label": "Template for prompt: create a page for a teacher to review an assignment. seeing the students and a section to see a summary of the assignment",
+    "dateAdded": "2024-01-24T23:50:02.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/UWZ57qMBoII",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T23:50:02.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/kvJKohXhS8X",
+    "label": "Template for prompt: An educational platform equipped with video progress tracking capabilities.",
+    "dateAdded": "2024-01-24T23:50:02.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/w7BByUUgNbr",
+    "label": "Template for prompt: Automated, traceable and regulated software lifecycle management",
+    "dateAdded": "2024-01-24T23:50:02.946Z"
+  },
+  {
+    "url": "https://v0.dev/t/0OBNvRU9KHj",
+    "label": "Template for prompt: Create UI elements for this Login Page design",
+    "dateAdded": "2024-01-24T23:50:02.947Z"
+  },
+  {
+    "url": "https://v0.dev/t/poZfrNI693V",
+    "label": "Template for prompt: hazme una app de busqueda de pais, estado, provincia",
+    "dateAdded": "2024-01-24T23:50:02.947Z"
+  },
+  {
+    "url": "https://v0.dev/t/umfyyCQQmJg",
+    "label": "Template for prompt: an educational platform that tracks video progress",
+    "dateAdded": "2024-01-24T23:50:02.947Z"
+  },
+  {
+    "url": "https://v0.dev/t/1MuXnEOHSxj",
+    "label": "Template for prompt: dropdown",
+    "dateAdded": "2024-01-24T23:50:02.947Z"
+  },
+  {
+    "url": "https://v0.dev/t/fcwH7q26fbR",
+    "label": "Template for prompt: dashboard for chosing algorythms to learn and code",
+    "dateAdded": "2024-01-24T23:50:02.947Z"
   }
 ]
