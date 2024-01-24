@@ -74448,5 +74448,130 @@
     "url": "https://v0.dev/t/fkmpFoPqsyg",
     "label": "Template for prompt: Hero section home page personal website introduction",
     "dateAdded": "2024-01-24T22:00:02.824Z"
+  },
+  {
+    "url": "https://v0.dev/t/tgYkcpDUjsZ",
+    "label": "Template for prompt: a straightfoward LUT saling page. Cinematic luts named Juicyne V1, containing 3 LUTs based on Grapefruit, cherry and watermelon.",
+    "dateAdded": "2024-01-24T22:05:03.015Z"
+  },
+  {
+    "url": "https://v0.dev/t/JeV9KUmtmLN",
+    "label": "Template for prompt: create a registration flow where the user can choose whether he will be a customer or be a store owner",
+    "dateAdded": "2024-01-24T22:05:03.015Z"
+  },
+  {
+    "url": "https://v0.dev/t/622ESb4HXil",
+    "label": "Template for prompt: a minimalist live stream platforms like calendly",
+    "dateAdded": "2024-01-24T22:05:03.015Z"
+  },
+  {
+    "url": "https://v0.dev/t/RpVuoezjHgJ",
+    "label": "Template for prompt: a page for a techer to view student assignments",
+    "dateAdded": "2024-01-24T22:05:03.015Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y5FwPgUKe6C",
+    "label": "Template for prompt: text with a glowing green border",
+    "dateAdded": "2024-01-24T22:05:03.016Z"
+  },
+  {
+    "url": "https://v0.dev/t/eYgv6Xbjx81",
+    "label": "Template for prompt: sidebar navigation for small screens",
+    "dateAdded": "2024-01-24T22:05:03.016Z"
+  },
+  {
+    "url": "https://v0.dev/t/3QmQeWTUre8",
+    "label": "Template for prompt: Need to use accordian to make faq page optimized for mobile view",
+    "dateAdded": "2024-01-24T22:05:03.016Z"
+  },
+  {
+    "url": "https://v0.dev/t/xbQsDkdqLXx",
+    "label": "Template for prompt: Use shadcn",
+    "dateAdded": "2024-01-24T22:05:03.016Z"
+  },
+  {
+    "url": "https://v0.dev/t/o7GEjXSEZDR",
+    "label": "Template for prompt: یک تولبار با دکمه های ساخت حساب و پرداخت و دوره های اموزشی و تخفیفات با ایکون هایی که لاین سفید دارند",
+    "dateAdded": "2024-01-24T22:05:03.016Z"
+  },
+  {
+    "url": "https://v0.dev/t/nBqquSAp6B9",
+    "label": "Template for prompt: make this option menu pretty:    \n<div class=\"space-y-2\">\n      <label class=\"text-sm font-medium leading-none\" for=\"faction\">Faction</label>\n      <select\n        v-model=\"editableUser.faction\"\n        @change=\"saveToLocalStorage\"\n        class=\"h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50\"\n        id=\"faction\"\n      >\n        <option disabled value=\"\">Select a faction</option>\n        <option\n          v-for=\"factionObj in factions\"\n          :key=\"factionObj.faction\"\n          :value=\"factionObj.faction\"\n        >\n          {{ factionObj.faction }} - {{ factionObj.titreBac }} (Players: {{ factionObj.players }},\n          Points: {{ factionObj.points }})\n        </option>\n      </select>\n    </div>",
+    "dateAdded": "2024-01-24T22:05:03.016Z"
+  },
+  {
+    "url": "https://v0.dev/t/7axcKeoLZIG",
+    "label": "Template for prompt: sidebar for small screens 4 links: about, skill certificate, portfolio; links to soical profiles",
+    "dateAdded": "2024-01-24T22:05:03.016Z"
+  },
+  {
+    "url": "https://v0.dev/t/B1ltTbhZiV0",
+    "label": "Template for prompt: make a graphic to highlight these points using icons but dont repeat the same text again. Make it look clean and modern. Real-time tracking and updates\nPredictive analytics for better decision making\nAutomated scheduling and dispatching",
+    "dateAdded": "2024-01-24T22:05:03.016Z"
+  },
+  {
+    "url": "https://v0.dev/t/8f2AuBhQSUL",
+    "label": "Template for prompt: Button that is skeumorphic wood panel with confette click interaction",
+    "dateAdded": "2024-01-24T22:05:03.017Z"
+  },
+  {
+    "url": "https://v0.dev/t/QtOiJQWVllR",
+    "label": "Template for prompt: Create an admin page to manage creation and update of products and their variants",
+    "dateAdded": "2024-01-24T22:05:03.017Z"
+  },
+  {
+    "url": "https://v0.dev/t/n7N3IAqgaJV",
+    "label": "Template for prompt: チャットアプリ",
+    "dateAdded": "2024-01-24T22:05:03.017Z"
+  },
+  {
+    "url": "https://v0.dev/t/YYhlJDviXuK",
+    "label": "Template for prompt: make a saas dashboard for a Real Estate CRM with all of the standard pages needed in the verticle nav bar on the left side of the app. The dashboard should show stats and information that can be viewed by a real estate agent to get an overlook of their current business, clients, transactions, and listings",
+    "dateAdded": "2024-01-24T22:05:03.017Z"
+  },
+  {
+    "url": "https://v0.dev/t/rMeFIvDp8w9",
+    "label": "Template for prompt: A mobile navbar for pdfs. Ability to change language, another button, a zoom component and a back button",
+    "dateAdded": "2024-01-24T22:05:03.017Z"
+  },
+  {
+    "url": "https://v0.dev/t/okeorXz3Ckx",
+    "label": "Template for prompt: landing page where i can subscribe to a news letter",
+    "dateAdded": "2024-01-24T22:05:03.017Z"
+  },
+  {
+    "url": "https://v0.dev/t/zxd9fY5rcHO",
+    "label": "Template for prompt: sidebar for small screens",
+    "dateAdded": "2024-01-24T22:05:03.017Z"
+  },
+  {
+    "url": "https://v0.dev/t/fP9s3on2cM7",
+    "label": "Template for prompt: create an invoice page",
+    "dateAdded": "2024-01-24T22:05:03.017Z"
+  },
+  {
+    "url": "https://v0.dev/t/SjLH0PnkgDh",
+    "label": "Template for prompt: property management",
+    "dateAdded": "2024-01-24T22:05:03.018Z"
+  },
+  {
+    "url": "https://v0.dev/t/KuFM44RG35s",
+    "label": "Template for prompt: about me section personal website",
+    "dateAdded": "2024-01-24T22:05:03.018Z"
+  },
+  {
+    "url": "https://v0.dev/t/ETmtw6Kf1SM",
+    "label": "Template for prompt: create a landing page for philosopher teacher",
+    "dateAdded": "2024-01-24T22:05:03.018Z"
+  },
+  {
+    "url": "https://v0.dev/t/WyGAbGqxihU",
+    "label": "Template for prompt: design pricing tier list for car protection plans",
+    "dateAdded": "2024-01-24T22:05:03.018Z"
+  },
+  {
+    "url": "https://v0.dev/t/nQSChk2gvnR",
+    "label": "Template for prompt: a website marketplace selling items properties houses cars",
+    "dateAdded": "2024-01-24T22:05:03.018Z"
   }
 ]
