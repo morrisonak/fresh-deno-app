@@ -71508,5 +71508,135 @@
     "url": "https://v0.dev/t/sLwsCoqy4Lz",
     "label": "Template for prompt: a dashboard that contains widgets that hold a metric, a subtitle and an updated time",
     "dateAdded": "2024-01-24T20:05:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/2ArStoBcQa3",
+    "label": "Template for prompt: A web app that allows you to see network information for a given IP that is input",
+    "dateAdded": "2024-01-24T20:10:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/WJUabjINibr",
+    "label": "Template for prompt: a blue text box resembling a text message with a send button to the right of it. the text box has rounded edges like an oval and a protruding triangle on the bottom right with the protruding corner pointing to the right. the inputed text color is white. ",
+    "dateAdded": "2024-01-24T20:10:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/K2pdErOFjXv",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T20:10:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/V94pBVHPjk0",
+    "label": "Template for prompt: A page for portfolio website generator",
+    "dateAdded": "2024-01-24T20:10:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/kRYa0wkWWe9",
+    "label": "Template for prompt: A bento style portfolio page",
+    "dateAdded": "2024-01-24T20:10:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/DkYrFgTG5y2",
+    "label": "Template for prompt: card com logo, texto descritivo para um evento e um botão cta para acessar uma determinada área",
+    "dateAdded": "2024-01-24T20:10:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/nFRI7WZFfNf",
+    "label": "Template for prompt: An open source HTTP request bin",
+    "dateAdded": "2024-01-24T20:10:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/uGjyxlNdQNb",
+    "label": "Template for prompt: A sidebar, mobile responsive to the bottom of the screen, contain 4 nested dropdowns with accordion and contain the user profile",
+    "dateAdded": "2024-01-24T20:10:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/4j7NfASNesM",
+    "label": "Template for prompt: smart classroom app",
+    "dateAdded": "2024-01-24T20:10:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/6pCId8WiSXF",
+    "label": "Template for prompt: Design a workspace where an FBI analyst can analyze Telegram Users, Chats, and messages. They should be able to drag elements around and search for elements within the workspace.",
+    "dateAdded": "2024-01-24T20:10:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/Mw18ujP5jmG",
+    "label": "Template for prompt: I want a design using a table displaying Students data. can you give me examples",
+    "dateAdded": "2024-01-24T20:10:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/tJBbAgmLYx5",
+    "label": "Template for prompt: Sidebar with 5 nested dropdowns inside and user data",
+    "dateAdded": "2024-01-24T20:10:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/nh5bHQ54fQs",
+    "label": "Template for prompt: Make a command line with a typing area",
+    "dateAdded": "2024-01-24T20:10:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/HHk0vEaIckt",
+    "label": "Template for prompt: an overview with orginisations, companies, departments, teams",
+    "dateAdded": "2024-01-24T20:10:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/fanqNRsSUTB",
+    "label": "Template for prompt: Join waitlist dialog",
+    "dateAdded": "2024-01-24T20:10:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/Bf4PD35xwrh",
+    "label": "Template for prompt: Simple landingpage for a solar panel cleaning company",
+    "dateAdded": "2024-01-24T20:10:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/HIMATHNvvQW",
+    "label": "Template for prompt: A beautiful container that contains a chat like interface with an input field for question and a button to ask. It should contain some text section below to show the responses.  Below the response there should be a label field showing the context of the querstion.  Below that a space for a logo and label for showing pricing\n\nThere should be a tab bar at the top with three buttons to switch - \"Ask\", \"Sources\", \"History\"\n",
+    "dateAdded": "2024-01-24T20:10:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/46WEMd9iPB8",
+    "label": "Template for prompt: Make a command line page with commands to create an account",
+    "dateAdded": "2024-01-24T20:10:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/5Pp38byzUnv",
+    "label": "Template for prompt: Email double opt in validation page",
+    "dateAdded": "2024-01-24T20:10:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/2JHIF7XXxxd",
+    "label": "Template for prompt: analytics dashboard layout with a fixed sidebar (that includes a working light/dark mode toggle switch) as well as a fixed navbar",
+    "dateAdded": "2024-01-24T20:10:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/36HrVZDqWdu",
+    "label": "Template for prompt: displaying a list of notes",
+    "dateAdded": "2024-01-24T20:10:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/b8hb7G0EA2z",
+    "label": "Template for prompt: Make a rainbow menu with 5 items",
+    "dateAdded": "2024-01-24T20:10:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/p08bX2Qi0qt",
+    "label": "Template for prompt: list of items that you can edit, delete, and add",
+    "dateAdded": "2024-01-24T20:10:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/eodcMvnkRwJ",
+    "label": "Template for prompt: create a footer with whit background,  a contact form, contact information, social media account and this \" Copyright © 2024 F Prime (AI), All Rights Reserved.\"",
+    "dateAdded": "2024-01-24T20:10:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/lYptBve0F25",
+    "label": "Template for prompt: Copy the sidebar of youtube",
+    "dateAdded": "2024-01-24T20:10:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/CI4TyFHIwWG",
+    "label": "Template for prompt: \nMinimalist black and white landing page with oversized mono robot typography",
+    "dateAdded": "2024-01-24T20:10:03.306Z"
   }
 ]
