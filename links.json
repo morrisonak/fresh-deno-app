@@ -75063,5 +75063,135 @@
     "url": "https://v0.dev/t/6YycZrHX2uv",
     "label": "Template for prompt: button",
     "dateAdded": "2024-01-24T22:25:02.393Z"
+  },
+  {
+    "url": "https://v0.dev/t/1jSlnriyvHh",
+    "label": "Template for prompt: An explore page that showcases 3 event cards containg name, date and a square image",
+    "dateAdded": "2024-01-24T22:30:03.103Z"
+  },
+  {
+    "url": "https://v0.dev/t/Gz7w5ARDEC8",
+    "label": "Template for prompt: A explore page that showcases 3 event cards containg name, date, image",
+    "dateAdded": "2024-01-24T22:30:03.104Z"
+  },
+  {
+    "url": "https://v0.dev/t/OK5EJDzwwa8",
+    "label": "Template for prompt: I need a compelling dashboard showing technical data tracking space weather ",
+    "dateAdded": "2024-01-24T22:30:03.104Z"
+  },
+  {
+    "url": "https://v0.dev/t/0fobSLwBLsG",
+    "label": "Template for prompt: A explore page that displays event cards containg name, date, image and a subtle gradient color",
+    "dateAdded": "2024-01-24T22:30:03.104Z"
+  },
+  {
+    "url": "https://v0.dev/t/RbBfEpgZmwC",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T22:30:03.104Z"
+  },
+  {
+    "url": "https://v0.dev/t/0gYSN4GLDnp",
+    "label": "Template for prompt: A home page with a hero section, but with focus displaying event cards that contains name, date, a gradient color and a image",
+    "dateAdded": "2024-01-24T22:30:03.104Z"
+  },
+  {
+    "url": "https://v0.dev/t/CKToEdWWtlh",
+    "label": "Template for prompt: A website that allows users to activate a VISA prepaid card as well as few card details and transactions",
+    "dateAdded": "2024-01-24T22:30:03.104Z"
+  },
+  {
+    "url": "https://v0.dev/t/L6HSeoBNzjd",
+    "label": "Template for prompt: I want you to build a photo detail page. The photo will be showcased at the top. Underneath will be the details of the author on the bottom of it with a profile avatar. Beneath that will be a section for comments on the photo",
+    "dateAdded": "2024-01-24T22:30:03.104Z"
+  },
+  {
+    "url": "https://v0.dev/t/HQg5TErrnUX",
+    "label": "Template for prompt: a chessboard",
+    "dateAdded": "2024-01-24T22:30:03.105Z"
+  },
+  {
+    "url": "https://v0.dev/t/3yUxccv14i3",
+    "label": "Template for prompt: modern portfolio",
+    "dateAdded": "2024-01-24T22:30:03.105Z"
+  },
+  {
+    "url": "https://v0.dev/t/XjPhAoj8595",
+    "label": "Template for prompt: A UI design for a Subscription Package. Subscription contains credits for a certain period (10 days) in React Native component",
+    "dateAdded": "2024-01-24T22:30:03.105Z"
+  },
+  {
+    "url": "https://v0.dev/t/FSBypjX36j5",
+    "label": "Template for prompt: A UI design for a Subscription Package. Subscription contains credits for a certain period (10 days) in React Native component",
+    "dateAdded": "2024-01-24T22:30:03.105Z"
+  },
+  {
+    "url": "https://v0.dev/t/CLlK1imUOBt",
+    "label": "Template for prompt: A UI design for a Subscription Package. Subscription contains credits for a certain period (10 days) in React Native component",
+    "dateAdded": "2024-01-24T22:30:03.105Z"
+  },
+  {
+    "url": "https://v0.dev/t/ErKW1Dp3OwS",
+    "label": "Template for prompt: A UI design for a Subscription Package. Subscription contains credits for a certain period (10 days) in React Native component",
+    "dateAdded": "2024-01-24T22:30:03.105Z"
+  },
+  {
+    "url": "https://v0.dev/t/JR3Oaju3SCV",
+    "label": "Template for prompt: A UI design for a Subscription Package. Subscription contains credits for a certain period (10 days) in React Native component",
+    "dateAdded": "2024-01-24T22:30:03.105Z"
+  },
+  {
+    "url": "https://v0.dev/t/6diCLb9qR5g",
+    "label": "Template for prompt: i want a view to show user attendance",
+    "dateAdded": "2024-01-24T22:30:03.105Z"
+  },
+  {
+    "url": "https://v0.dev/t/V0f1QlKZBCh",
+    "label": "Template for prompt: create the products page for a store dashboard where store owners can see their own products, add a new one,  and remove or edit an existing one.",
+    "dateAdded": "2024-01-24T22:30:03.106Z"
+  },
+  {
+    "url": "https://v0.dev/t/AfIVkwQtSWu",
+    "label": "Template for prompt: ui design for a credit card transactions view",
+    "dateAdded": "2024-01-24T22:30:03.106Z"
+  },
+  {
+    "url": "https://v0.dev/t/nMCYeDVyTGL",
+    "label": "Template for prompt: A financial dashboard",
+    "dateAdded": "2024-01-24T22:30:03.106Z"
+  },
+  {
+    "url": "https://v0.dev/t/FzBcvzqFVXn",
+    "label": "Template for prompt: Create an order page for a store dashboard where store owners can see new, in-progress, and completed orders",
+    "dateAdded": "2024-01-24T22:30:03.106Z"
+  },
+  {
+    "url": "https://v0.dev/t/DWmXejaRDkg",
+    "label": "Template for prompt: I've an admin panel page where I should show the existing events, the exhibitors each event and their available schedule. Within that page you have the option to add the subscriber to a schedule.",
+    "dateAdded": "2024-01-24T22:30:03.106Z"
+  },
+  {
+    "url": "https://v0.dev/t/0JPtpeIpqAB",
+    "label": "Template for prompt: A menu page for an automated cocktails dispenser. It show all the cocktails available, with photo, name, ingredients and price. The most popular ones are on the top. There is a \"random cocktails\" also. A search bar, a filter menu. A navbar to navigate from cocktails page, to shots page, to trending page, and to admin dashboard. ",
+    "dateAdded": "2024-01-24T22:30:03.106Z"
+  },
+  {
+    "url": "https://v0.dev/t/FI3ZhLz2Zne",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-24T22:30:03.106Z"
+  },
+  {
+    "url": "https://v0.dev/t/21fVf1S7NRh",
+    "label": "Template for prompt: have a page called stats whcih shows data about the user. SOmethign like last rank in past game, overall wins of 1,2,3, if their portfolio is up or down today or generallty",
+    "dateAdded": "2024-01-24T22:30:03.106Z"
+  },
+  {
+    "url": "https://v0.dev/t/zfCQoUjSCzh",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T22:30:03.106Z"
+  },
+  {
+    "url": "https://v0.dev/t/HCVJY0IDZH9",
+    "label": "Template for prompt: A dashboard for montly sales, balance sheets, profits, graphs, last orders and a side navigation",
+    "dateAdded": "2024-01-24T22:30:03.107Z"
   }
 ]
