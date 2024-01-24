@@ -69718,5 +69718,125 @@
     "url": "https://v0.dev/t/YoxaUjMyBwm",
     "label": "Template for prompt: we need to improve the design of the page",
     "dateAdded": "2024-01-24T18:55:03.467Z"
+  },
+  {
+    "url": "https://v0.dev/t/iSBCy320aAy",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T19:00:02.576Z"
+  },
+  {
+    "url": "https://v0.dev/t/JYdYmbUK9Pt",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T19:00:02.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/5FJGoopDuV7",
+    "label": "Template for prompt: make a single product page which should look something similar to this",
+    "dateAdded": "2024-01-24T19:00:02.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/4VgZ1OEGjBv",
+    "label": "Template for prompt: Use the attached image as inspiration. Design a page for pool performance, using the theme of \"red-500\" \"white\" and \"black\" as colors",
+    "dateAdded": "2024-01-24T19:00:02.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/9cqPJcKUXDG",
+    "label": "Template for prompt: Use the attached image as inspiration. Design a page for pool performance, using the theme of \"red-500\" \"white\" and \"black\" as colors",
+    "dateAdded": "2024-01-24T19:00:02.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/LqVHM6gBURJ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T19:00:02.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/fqtd89yMu5U",
+    "label": "Template for prompt: Give me a CRUD backend dashboard. There are categories for \"Contractors\", \"Districts\" and \"Categories\" on the left side section. On the main part of the dashboard give me a detailed layout for editing the Contractor entries, that have the following schema:\nname, rating, contact address, category as dropdown, active districts etc.",
+    "dateAdded": "2024-01-24T19:00:02.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/70gUaeiKyl7",
+    "label": "Template for prompt: create a footer saas equal, but blue",
+    "dateAdded": "2024-01-24T19:00:02.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/v5mCUNKGwfX",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T19:00:02.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/ckUxcRzJcXI",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T19:00:02.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/qomiZpVoGf1",
+    "label": "Template for prompt: A sign up page with magic link and social ",
+    "dateAdded": "2024-01-24T19:00:02.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/e5LTcgFutOT",
+    "label": "Template for prompt: create a reset password email template",
+    "dateAdded": "2024-01-24T19:00:02.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/vLQ8APAgNjc",
+    "label": "Template for prompt: An menu page for restaurant",
+    "dateAdded": "2024-01-24T19:00:02.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/gorzK5KWv4h",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T19:00:02.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/92gGYW7yELg",
+    "label": "Template for prompt: \nCreate a web page for a manga reading platform that prioritizes a mobile-first design. The page should include features for users to continue reading their existing manga, discover new titles, and have a search bar for finding specific manga. Implement intelligent features such as personalized recommendations, a reading history tracker, and a user-friendly interface for seamless navigation. Ensure that the design is optimized for mobile devices, providing an intuitive and enjoyable experience for users exploring and reading manga on the platform.",
+    "dateAdded": "2024-01-24T19:00:02.580Z"
+  },
+  {
+    "url": "https://v0.dev/t/tjrEMvl8xYv",
+    "label": "Template for prompt: Checkbox and toggle component",
+    "dateAdded": "2024-01-24T19:00:02.580Z"
+  },
+  {
+    "url": "https://v0.dev/t/jMqTonD3F4o",
+    "label": "Template for prompt: Create a pricing page with four pricing tiers: Free, Growth, Plus, and Custom",
+    "dateAdded": "2024-01-24T19:00:02.580Z"
+  },
+  {
+    "url": "https://v0.dev/t/BZec1YKpIjw",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T19:00:02.580Z"
+  },
+  {
+    "url": "https://v0.dev/t/5gVbCBrq772",
+    "label": "Template for prompt: create a linktree clone https://linktr.ee/selenagomez",
+    "dateAdded": "2024-01-24T19:00:02.580Z"
+  },
+  {
+    "url": "https://v0.dev/t/zeduJxhCij5",
+    "label": "Template for prompt: show me a nice cannabis dispensary home page with a section with customer reviews, and a section about our reward program",
+    "dateAdded": "2024-01-24T19:00:02.581Z"
+  },
+  {
+    "url": "https://v0.dev/t/eVVZhMWuYY0",
+    "label": "Template for prompt: create a linktree clone https://linktr.ee/selenagomez",
+    "dateAdded": "2024-01-24T19:00:02.581Z"
+  },
+  {
+    "url": "https://v0.dev/t/2pjFfdiSI6N",
+    "label": "Template for prompt: Dashboard admin template with mobile hamburguer menu",
+    "dateAdded": "2024-01-24T19:00:02.581Z"
+  },
+  {
+    "url": "https://v0.dev/t/Mf4c9piKhcd",
+    "label": "Template for prompt: ui for configuring formula",
+    "dateAdded": "2024-01-24T19:00:02.581Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ws1ZAwoksby",
+    "label": "Template for prompt: Give me Code for this botun",
+    "dateAdded": "2024-01-24T19:00:02.581Z"
   }
 ]
