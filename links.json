@@ -61533,5 +61533,130 @@
     "url": "https://v0.dev/t/IO6x704tfRS",
     "label": "Template for prompt: shop homepage for music gear",
     "dateAdded": "2024-01-24T00:50:03.279Z"
+  },
+  {
+    "url": "https://v0.dev/t/7SOsaId708g",
+    "label": "Template for prompt: Create a transaction table",
+    "dateAdded": "2024-01-24T00:55:02.923Z"
+  },
+  {
+    "url": "https://v0.dev/t/cr24NLVLtVI",
+    "label": "Template for prompt: Create a web page UX which shows a marketplace of adapters that are available for users to pick from. The names of adapters should be Referral MD API, Referral MD App, Unite Us API, Unite US App, ZS Prior Auth App",
+    "dateAdded": "2024-01-24T00:55:02.923Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qy3QccjKvo5",
+    "label": "Template for prompt: A web page with counter and two buttins to increase and decrease the value of that counter.",
+    "dateAdded": "2024-01-24T00:55:02.923Z"
+  },
+  {
+    "url": "https://v0.dev/t/0s0KxovUBqM",
+    "label": "Template for prompt: NextJS Video hero image .mp4 2min video video ",
+    "dateAdded": "2024-01-24T00:55:02.923Z"
+  },
+  {
+    "url": "https://v0.dev/t/c837s4iYvxe",
+    "label": "Template for prompt: a list of horizontal nav links based on array of values. any links that doesn't fit the parent component are hidden. if there are more links than parent component width, there is see more button. when you click it let's you scroll horizontally. active links are always in the second place. regular color for text is black. active color is blue",
+    "dateAdded": "2024-01-24T00:55:02.923Z"
+  },
+  {
+    "url": "https://v0.dev/t/ut0jnQ5cK79",
+    "label": "Template for prompt: a mobile view for a crowdsourced bus booking service. The interface should showcase four distinct cards. Each card represents a bus service to one of the following four major MRT hubs in Singapore from “Stadium”: Dhoby Ghaut, Jurong East, Woodlands, and Changi Airport. Display the ticket price as $14.99 on each card. Include a visual representation of the bus’s capacity and status indicators like “Selling Fast” (in red) or “Available” (in green). The design should be intuitive and engaging, tailored for a mobile user experience.",
+    "dateAdded": "2024-01-24T00:55:02.924Z"
+  },
+  {
+    "url": "https://v0.dev/t/jzG3iuUNtWD",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-24T00:55:02.924Z"
+  },
+  {
+    "url": "https://v0.dev/t/KlWC7wEmkpX",
+    "label": "Template for prompt: a form where you can add multiple contact records",
+    "dateAdded": "2024-01-24T00:55:02.924Z"
+  },
+  {
+    "url": "https://v0.dev/t/OU8zDNqPdBe",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T00:55:02.924Z"
+  },
+  {
+    "url": "https://v0.dev/t/DpTxFPBQNWu",
+    "label": "Template for prompt: I need a page that can interface with the user's selected audio input and output devices, and when the user starts talking the audio is recorded into mp3.  When the user is done talking the recording will be sent over an api call",
+    "dateAdded": "2024-01-24T00:55:02.924Z"
+  },
+  {
+    "url": "https://v0.dev/t/DajEhKEsXst",
+    "label": "Template for prompt: A dark colored hero section with colorful blured shapes in the background.",
+    "dateAdded": "2024-01-24T00:55:02.924Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qo751ZD2Gtt",
+    "label": "Template for prompt: Create a button like this",
+    "dateAdded": "2024-01-24T00:55:02.924Z"
+  },
+  {
+    "url": "https://v0.dev/t/Cc4DfiQ7am6",
+    "label": "Template for prompt: a hero landing page for a AI Interview SAAS",
+    "dateAdded": "2024-01-24T00:55:02.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/9lxLyIblkuR",
+    "label": "Template for prompt: A car rental confirmation page",
+    "dateAdded": "2024-01-24T00:55:02.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/5XKfNvr8saC",
+    "label": "Template for prompt: 3d trend analysis visualizaton dashbpard, insights and realtime data updating at the top of the nav bar, advanced seller dashboard",
+    "dateAdded": "2024-01-24T00:55:02.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/UebO9BjRmkT",
+    "label": "Template for prompt: I need a dashboard design that shows me my different automatic process, name, portal logo, start time and finish time of the process, number of companies affected by them, and some information about the linux server",
+    "dateAdded": "2024-01-24T00:55:02.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/gh57AMaU7ni",
+    "label": "Template for prompt: I need a dashboard design that shows me my different automatic process, name, portal logo, start time and finish time of the process, number of companies affected by them, and some information about the linux server",
+    "dateAdded": "2024-01-24T00:55:02.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/ikg71u18VAO",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T00:55:02.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/I72uzPl5dmt",
+    "label": "Template for prompt: resume builder with 2 components:\n\ncover letter, and resume\n\neach should have an editable textarea for markdown text,\nand a preview markdown window ",
+    "dateAdded": "2024-01-24T00:55:02.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/4179VmS0ZY1",
+    "label": "Template for prompt: resume builder with 2 components:\n\ncover letter, and resume\n\neach should have an editable textarea for markdown text,\nand a preview markdown window ",
+    "dateAdded": "2024-01-24T00:55:02.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/8YVfnbdlAEw",
+    "label": "Template for prompt: An app that helps Leon to find beautiful motorcycles with multiple tabs and ai help ",
+    "dateAdded": "2024-01-24T00:55:02.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/ysRiSHHv5rg",
+    "label": "Template for prompt: A directory website",
+    "dateAdded": "2024-01-24T00:55:02.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/uOWypgWJvWL",
+    "label": "Template for prompt: Create a sleek and user-friendly website for your AI assistant service with these key design elements:\n\n1. **Clear Interface:**\n   - Ensure a clean, organized layout with intuitive navigation.\n\n2. **Homepage Highlights:**\n   - Feature a visually appealing banner showcasing AI versatility.\n\n3. **Easy Onboarding:**\n   - Simplify onboarding with a user-friendly setup process.\n\n4. **User Dashboard:**\n   - Personalized dashboards for users with key metrics and data management.\n\n5. **AI Interaction:**\n   - Develop an interactive AI interface for natural user engagement.\n\n6. **Customization Options:**\n   - Allow users to tailor their AI experience to specific needs.\n\n7. **Industry-Specific Sections:**\n   - Dedicate sections for various industries, showcasing real-world use cases.\n\n8. **Responsive Design:**\n   - Optimize the site for desktop, tablet, and mobile devices.\n\n9. **FAQs and Support:**\n   - Include a concise FAQ section and accessible customer support options.\n\n10. **Visual Appeal:**",
+    "dateAdded": "2024-01-24T00:55:02.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/t2MNf0IoC33",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T00:55:02.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/5GzvkBpViZA",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-24T00:55:02.926Z"
   }
 ]
