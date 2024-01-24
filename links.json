@@ -62033,5 +62033,130 @@
     "url": "https://v0.dev/t/DpTxFPBQNWu",
     "label": "Template for prompt: I need a page that can interface with the user's selected audio input and output devices, and when the user starts talking the audio is recorded into mp3.  When the user is done talking the recording will be sent over an api call",
     "dateAdded": "2024-01-24T01:10:02.961Z"
+  },
+  {
+    "url": "https://v0.dev/t/HWd79ZpSzMn",
+    "label": "Template for prompt: A saas dashboard showing the members of a project.",
+    "dateAdded": "2024-01-24T01:15:03.378Z"
+  },
+  {
+    "url": "https://v0.dev/t/EiPOJv8Ybvs",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T01:15:03.378Z"
+  },
+  {
+    "url": "https://v0.dev/t/cRmVSSUFl8Z",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T01:15:03.378Z"
+  },
+  {
+    "url": "https://v0.dev/t/8h6sQxH7E2i",
+    "label": "Template for prompt: comparison table",
+    "dateAdded": "2024-01-24T01:15:03.378Z"
+  },
+  {
+    "url": "https://v0.dev/t/avpY1sSTNYd",
+    "label": "Template for prompt: issue card like jira ones",
+    "dateAdded": "2024-01-24T01:15:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/CqgZCyeGzcp",
+    "label": "Template for prompt: side navigation with sections. section has name bold and items are listed below with nesting.",
+    "dateAdded": "2024-01-24T01:15:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/k8J9zkl8xzn",
+    "label": "Template for prompt: 3 card boxes in one row",
+    "dateAdded": "2024-01-24T01:15:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/psYAqCxVEzw",
+    "label": "Template for prompt: A button that creates a Dialog with a field for name and a create button that calls an external API",
+    "dateAdded": "2024-01-24T01:15:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/X2zyUoBU3rm",
+    "label": "Template for prompt: make me a recipe creation page ",
+    "dateAdded": "2024-01-24T01:15:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/iQzEoBeyHdM",
+    "label": "Template for prompt: a personal resume with two columns, the first one should have 2 sections, one with personal data ( Profile photo, full name, links ) and the second section should have a title and bullets for skills. The second column has 2 sections, one for work experience ( with a title, starting date, end date, paragraph, and a section of skills ), the second section should have a list for courses or certifications",
+    "dateAdded": "2024-01-24T01:15:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/0sMYL18l6N5",
+    "label": "Template for prompt: combobox with a save button",
+    "dateAdded": "2024-01-24T01:15:03.380Z"
+  },
+  {
+    "url": "https://v0.dev/t/DIHMUQf8fZv",
+    "label": "Template for prompt: a landing page for a bus ticketing and logistics platform called swift",
+    "dateAdded": "2024-01-24T01:15:03.380Z"
+  },
+  {
+    "url": "https://v0.dev/t/AP6ZLNzklzH",
+    "label": "Template for prompt: Fullstack application for building african languages courses using AI",
+    "dateAdded": "2024-01-24T01:15:03.380Z"
+  },
+  {
+    "url": "https://v0.dev/t/T48IYTrxxN8",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T01:15:03.380Z"
+  },
+  {
+    "url": "https://v0.dev/t/CTW0xYFbp3t",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T01:15:03.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/pQ4D5FePeLZ",
+    "label": "Template for prompt: Create invoice details page based on that page",
+    "dateAdded": "2024-01-24T01:15:03.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/LvXIttDhf1s",
+    "label": "Template for prompt: Create invoice details page based on that page",
+    "dateAdded": "2024-01-24T01:15:03.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/71H5AEN98pa",
+    "label": "Template for prompt: line graph based on numeric inputs",
+    "dateAdded": "2024-01-24T01:15:03.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/7SOsaId708g",
+    "label": "Template for prompt: Create a transaction table",
+    "dateAdded": "2024-01-24T01:15:03.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/cr24NLVLtVI",
+    "label": "Template for prompt: Create a web page UX which shows a marketplace of adapters that are available for users to pick from. The names of adapters should be Referral MD API, Referral MD App, Unite Us API, Unite US App, ZS Prior Auth App",
+    "dateAdded": "2024-01-24T01:15:03.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qy3QccjKvo5",
+    "label": "Template for prompt: A web page with counter and two buttins to increase and decrease the value of that counter.",
+    "dateAdded": "2024-01-24T01:15:03.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/0s0KxovUBqM",
+    "label": "Template for prompt: NextJS Video hero image .mp4 2min video video ",
+    "dateAdded": "2024-01-24T01:15:03.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/c837s4iYvxe",
+    "label": "Template for prompt: a list of horizontal nav links based on array of values. any links that doesn't fit the parent component are hidden. if there are more links than parent component width, there is see more button. when you click it let's you scroll horizontally. active links are always in the second place. regular color for text is black. active color is blue",
+    "dateAdded": "2024-01-24T01:15:03.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/ut0jnQ5cK79",
+    "label": "Template for prompt: a mobile view for a crowdsourced bus booking service. The interface should showcase four distinct cards. Each card represents a bus service to one of the following four major MRT hubs in Singapore from “Stadium”: Dhoby Ghaut, Jurong East, Woodlands, and Changi Airport. Display the ticket price as $14.99 on each card. Include a visual representation of the bus’s capacity and status indicators like “Selling Fast” (in red) or “Available” (in green). The design should be intuitive and engaging, tailored for a mobile user experience.",
+    "dateAdded": "2024-01-24T01:15:03.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/jzG3iuUNtWD",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-24T01:15:03.382Z"
   }
 ]
