@@ -69463,5 +69463,135 @@
     "url": "https://v0.dev/t/pszWhGPyQv4",
     "label": "Template for prompt: genereta a component that displays title url price and 5 images for a rental room listing, ",
     "dateAdded": "2024-01-24T18:45:02.770Z"
+  },
+  {
+    "url": "https://v0.dev/t/2pjFfdiSI6N",
+    "label": "Template for prompt: Dashboard admin template with mobile hamburguer menu",
+    "dateAdded": "2024-01-24T18:50:02.724Z"
+  },
+  {
+    "url": "https://v0.dev/t/Mf4c9piKhcd",
+    "label": "Template for prompt: ui for configuring formula",
+    "dateAdded": "2024-01-24T18:50:02.724Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ws1ZAwoksby",
+    "label": "Template for prompt: Give me Code for this botun",
+    "dateAdded": "2024-01-24T18:50:02.724Z"
+  },
+  {
+    "url": "https://v0.dev/t/1ApDgqtiwPa",
+    "label": "Template for prompt: Checkbox component",
+    "dateAdded": "2024-01-24T18:50:02.725Z"
+  },
+  {
+    "url": "https://v0.dev/t/bKHC5HqoU2w",
+    "label": "Template for prompt: a website about manga, on which you can see your manga you had reading, trending manga etc. This website need to be mobile first ",
+    "dateAdded": "2024-01-24T18:50:02.725Z"
+  },
+  {
+    "url": "https://v0.dev/t/KtOKhWjk6Ky",
+    "label": "Template for prompt: analytics dashboard layout",
+    "dateAdded": "2024-01-24T18:50:02.725Z"
+  },
+  {
+    "url": "https://v0.dev/t/xHSOg9lihJT",
+    "label": "Template for prompt: A SaaS admin dashboard",
+    "dateAdded": "2024-01-24T18:50:02.725Z"
+  },
+  {
+    "url": "https://v0.dev/t/Grt8zkQGQ5f",
+    "label": "Template for prompt: an edit product form in an ecommerce admin dashboard",
+    "dateAdded": "2024-01-24T18:50:02.725Z"
+  },
+  {
+    "url": "https://v0.dev/t/v1an3zmLKcH",
+    "label": "Template for prompt: booking page where all photos of unit are display with ameneties, price, etc ",
+    "dateAdded": "2024-01-24T18:50:02.726Z"
+  },
+  {
+    "url": "https://v0.dev/t/oJkwhTiOxUO",
+    "label": "Template for prompt: a landing page of a web ecommerce site",
+    "dateAdded": "2024-01-24T18:50:02.726Z"
+  },
+  {
+    "url": "https://v0.dev/t/YoxaUjMyBwm",
+    "label": "Template for prompt: we need to improve the design of the page",
+    "dateAdded": "2024-01-24T18:50:02.726Z"
+  },
+  {
+    "url": "https://v0.dev/t/5cNfZiqsh20",
+    "label": "Template for prompt: footer",
+    "dateAdded": "2024-01-24T18:50:02.726Z"
+  },
+  {
+    "url": "https://v0.dev/t/ceBR8NDbhIb",
+    "label": "Template for prompt: footer",
+    "dateAdded": "2024-01-24T18:50:02.726Z"
+  },
+  {
+    "url": "https://v0.dev/t/UixQx1Lzmpc",
+    "label": "Template for prompt: Create a web-based Educational Management System (EMS) portfolio catering to the needs of Department (D) Level Users. Showcase your proficiency in designing and implementing the following key functionalities:\n\nUser Management:\n\nDevelop a user-friendly interface to create, manage, and authenticate teachers and students.\nImplement user roles and permissions for secure access.\nCourse Management:\n\nDesign a module for creating, editing, and deleting courses.\nInclude features for course details such as title, description, and duration.\nClassroom Management:\n\nCreate a system for managing classrooms.\nAllow the assignment of courses to classrooms and teachers to classrooms.\nIntegration:\n\nEnsure seamless integration between user management, course management, and classroom management.\nEnable the assignment of teachers to courses and students to classrooms.\nUser Interface (UI) Design:\n\nDesign an intuitive and responsive user interface for Department (D) Level Users.\nPrioritize usability, accessib",
+    "dateAdded": "2024-01-24T18:50:02.727Z"
+  },
+  {
+    "url": "https://v0.dev/t/YDeo2o4ynKh",
+    "label": "Template for prompt: dame una galeria de fotos con shadcn para nextjs",
+    "dateAdded": "2024-01-24T18:50:02.727Z"
+  },
+  {
+    "url": "https://v0.dev/t/3TEarsyDJjy",
+    "label": "Template for prompt: An restaurant booking form",
+    "dateAdded": "2024-01-24T18:50:02.727Z"
+  },
+  {
+    "url": "https://v0.dev/t/OmOKaz8DUaR",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T18:50:02.727Z"
+  },
+  {
+    "url": "https://v0.dev/t/DC6APiRaSYa",
+    "label": "Template for prompt: notification inbox with a dropdown,  The following details are visible:\n\nThe inbox contains 32 messages.\nThere are multiple notifications with a warning icon (an exclamation mark inside a triangle) indicating that '3dstudio' failed to deploy in the Production environment. These notifications are dated \"2d ago,\" suggesting that the failures are recent.\nBelow these, there is a positive notification with a checkmark indicating that 'catapult.video' is now configured, dated \"16d ago.\"\nAt the bottom there is an Archive All option",
+    "dateAdded": "2024-01-24T18:50:02.727Z"
+  },
+  {
+    "url": "https://v0.dev/t/oAp5hPnLq8i",
+    "label": "Template for prompt: insurance brand checkout, with advisor, prices paid in full, paid monthly",
+    "dateAdded": "2024-01-24T18:50:02.727Z"
+  },
+  {
+    "url": "https://v0.dev/t/UC9C7If947C",
+    "label": "Template for prompt: actor agency landing page, title: \"You can be a star\",\nFeature cards\nTestimonials\nAbout us\ncontact",
+    "dateAdded": "2024-01-24T18:50:02.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/8vYB5ckhG5v",
+    "label": "Template for prompt: Uma sessão para meu saas contendo as funcionalidades dele, serão 7 funcionalidades e ficarão abaixo da seção de Hero",
+    "dateAdded": "2024-01-24T18:50:02.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/wfsk8nXoro1",
+    "label": "Template for prompt: Please an booking form for a restaurant web app",
+    "dateAdded": "2024-01-24T18:50:02.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/gu6EkHkrYna",
+    "label": "Template for prompt: create loading skeleton for chart bar card",
+    "dateAdded": "2024-01-24T18:50:02.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/uJ01uaxiazR",
+    "label": "Template for prompt: Description: Develop a component to showcase host testimonials through video content, enhancing user engagement on various pages. The component displays video thumbnails with play buttons. Upon clicking a thumbnail, the user should be directed to the video content in a lightbox. Videos will be youtube hosted\n\nProps:\n\nvideos (Array of Objects): Each object contains:\n\nthumbnail (String): URL of the video thumbnail image.\n\nhead (String): Name of the host or title of the video.\n\ncopy (String): Short description of the video\n\nvideoId (String): Direct link to the video content, will be youtube id to match existing video component\n\nExample Usage:\n\n<3Video>\n  <VideoItem\n    thumbnail=\"/path-to-thumbnail-lori-win.jpg\"\n    head=\"Lori & Win Mitchell - Boothbay Craft Brewer\"\n    copy=\"Video 1 Description or Additional Information\"\n    videoId=\"Iqx3LGIs85Y\"\n  />\n  <VideoItem\n    thumbnail=\"/path-to-thumbnail-bill-ringert.jpg\"\n    head=\"Bill Ringert - Cold Springs Vineyard\"\n    copy=\"Video 2 Descrip",
+    "dateAdded": "2024-01-24T18:50:02.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/QMdJDhW3Ek0",
+    "label": "Template for prompt: a web publishing platform that people could write, read, socialize and monetize the book from that they are create",
+    "dateAdded": "2024-01-24T18:50:02.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/n0PwWLgby1C",
+    "label": "Template for prompt: account settings section in mobile app, that has address, payments, info",
+    "dateAdded": "2024-01-24T18:50:02.729Z"
   }
 ]
