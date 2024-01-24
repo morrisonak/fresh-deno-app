@@ -69203,5 +69203,135 @@
     "url": "https://v0.dev/t/g6KAjkg5FdE",
     "label": "Template for prompt: Generate an AB test result screen with react next ui",
     "dateAdded": "2024-01-24T18:35:02.704Z"
+  },
+  {
+    "url": "https://v0.dev/t/4pZRm1aZ6jO",
+    "label": "Template for prompt: I need a dashboard with side nav with Home, project and settings under /dashboard in the list menu and this sidenav should be collapsable. The content part should have title of the subpage. ",
+    "dateAdded": "2024-01-24T18:40:02.558Z"
+  },
+  {
+    "url": "https://v0.dev/t/qrtgFGgORUF",
+    "label": "Template for prompt: Create a web-based Educational Management System (EMS) portfolio catering to the needs of Department (D) Level Users. Showcase your proficiency in designing and implementing the following key functionalities:\n\nUser Management:\n\nDevelop a user-friendly interface to create, manage, and authenticate teachers and students.\nImplement user roles and permissions for secure access.\nCourse Management:\n\nDesign a module for creating, editing, and deleting courses.\nInclude features for course details such as title, description, and duration.\nClassroom Management:\n\nCreate a system for managing classrooms.\nAllow the assignment of courses to classrooms and teachers to classrooms.\nIntegration:\n\nEnsure seamless integration between user management, course management, and classroom management.\nEnable the assignment of teachers to courses and students to classrooms.\nUser Interface (UI) Design:\n\nDesign an intuitive and responsive user interface for Department (D) Level Users.\nPrioritize usability, accessib",
+    "dateAdded": "2024-01-24T18:40:02.558Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZAGjmE8Z5Lr",
+    "label": "Template for prompt: bar chart skeleton",
+    "dateAdded": "2024-01-24T18:40:02.558Z"
+  },
+  {
+    "url": "https://v0.dev/t/z7mzHBY4JPk",
+    "label": "Template for prompt: generate identical pricing section",
+    "dateAdded": "2024-01-24T18:40:02.558Z"
+  },
+  {
+    "url": "https://v0.dev/t/oFg6YovkXjt",
+    "label": "Template for prompt: generate identical pricing section",
+    "dateAdded": "2024-01-24T18:40:02.558Z"
+  },
+  {
+    "url": "https://v0.dev/t/5Wefw3TPL8i",
+    "label": "Template for prompt: aesthetically pleasing to do list app",
+    "dateAdded": "2024-01-24T18:40:02.559Z"
+  },
+  {
+    "url": "https://v0.dev/t/YYbV5bvRppj",
+    "label": "Template for prompt: a finance data dashboard with a search on top and a ai chat on right. Also create nav menu on the right",
+    "dateAdded": "2024-01-24T18:40:02.559Z"
+  },
+  {
+    "url": "https://v0.dev/t/6MMb4vn2xMW",
+    "label": "Template for prompt: contract management app",
+    "dateAdded": "2024-01-24T18:40:02.559Z"
+  },
+  {
+    "url": "https://v0.dev/t/pszWhGPyQv4",
+    "label": "Template for prompt: genereta a component that displays title url price and 5 images for a rental room listing, ",
+    "dateAdded": "2024-01-24T18:40:02.559Z"
+  },
+  {
+    "url": "https://v0.dev/t/t9vvv2r2lza",
+    "label": "Template for prompt: a table to explore Academy Awards data",
+    "dateAdded": "2024-01-24T18:40:02.559Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y5nE3SPWTSb",
+    "label": "Template for prompt: A flexible form using markdown and MDX to help distribute free resources like \"Free Guide to Boondock Camping",
+    "dateAdded": "2024-01-24T18:40:02.560Z"
+  },
+  {
+    "url": "https://v0.dev/t/fx5IgQhHBMh",
+    "label": "Template for prompt: Create equal this, responsive ",
+    "dateAdded": "2024-01-24T18:40:02.560Z"
+  },
+  {
+    "url": "https://v0.dev/t/VZ8UwrkL06p",
+    "label": "Template for prompt: A cross-team quarterly newsletter template",
+    "dateAdded": "2024-01-24T18:40:02.560Z"
+  },
+  {
+    "url": "https://v0.dev/t/kmZKSOIzkPG",
+    "label": "Template for prompt: an ecommerce admin dashbord to edit products in database",
+    "dateAdded": "2024-01-24T18:40:02.560Z"
+  },
+  {
+    "url": "https://v0.dev/t/YOYR6Sb5Mpv",
+    "label": "Template for prompt: Landing page for a website for a software engineer and musician ",
+    "dateAdded": "2024-01-24T18:40:02.560Z"
+  },
+  {
+    "url": "https://v0.dev/t/gym99AjDxUC",
+    "label": "Template for prompt: cal.com hero page ",
+    "dateAdded": "2024-01-24T18:40:02.561Z"
+  },
+  {
+    "url": "https://v0.dev/t/7YEIQrMoR8y",
+    "label": "Template for prompt: create a contact us form for my companies landing page",
+    "dateAdded": "2024-01-24T18:40:02.561Z"
+  },
+  {
+    "url": "https://v0.dev/t/YXdRDmWuBBd",
+    "label": "Template for prompt: A simple products page",
+    "dateAdded": "2024-01-24T18:40:02.561Z"
+  },
+  {
+    "url": "https://v0.dev/t/5xpDtAivYBZ",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-24T18:40:02.561Z"
+  },
+  {
+    "url": "https://v0.dev/t/f6xe29mNA50",
+    "label": "Template for prompt: Inventory Dashboard",
+    "dateAdded": "2024-01-24T18:40:02.561Z"
+  },
+  {
+    "url": "https://v0.dev/t/es8BnJKFNaI",
+    "label": "Template for prompt: three review cards with client picture",
+    "dateAdded": "2024-01-24T18:40:02.562Z"
+  },
+  {
+    "url": "https://v0.dev/t/auCyUwezMMF",
+    "label": "Template for prompt: footer",
+    "dateAdded": "2024-01-24T18:40:02.562Z"
+  },
+  {
+    "url": "https://v0.dev/t/elXHXNw6l45",
+    "label": "Template for prompt: A Docs site home page, that shows focus on the two main parts, \"Guides\" and \"API Reference\" ",
+    "dateAdded": "2024-01-24T18:40:02.562Z"
+  },
+  {
+    "url": "https://v0.dev/t/qbPG1hIU0p5",
+    "label": "Template for prompt: History list of a property showing moments when the price goes up, goes down, new place is listing, new place removed from your website",
+    "dateAdded": "2024-01-24T18:40:02.562Z"
+  },
+  {
+    "url": "https://v0.dev/t/TsyVSvWmuaC",
+    "label": "Template for prompt: I am webdeveloper and I am working on my personal website. Could you create section that present technologies that I am familiar with?",
+    "dateAdded": "2024-01-24T18:40:02.562Z"
+  },
+  {
+    "url": "https://v0.dev/t/dXlBkBXkiLq",
+    "label": "Template for prompt: footer",
+    "dateAdded": "2024-01-24T18:40:02.563Z"
   }
 ]
