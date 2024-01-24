@@ -74573,5 +74573,125 @@
     "url": "https://v0.dev/t/nQSChk2gvnR",
     "label": "Template for prompt: a website marketplace selling items properties houses cars",
     "dateAdded": "2024-01-24T22:05:03.018Z"
+  },
+  {
+    "url": "https://v0.dev/t/hMCIoGCKUtB",
+    "label": "Template for prompt: Input type of file",
+    "dateAdded": "2024-01-24T22:10:02.467Z"
+  },
+  {
+    "url": "https://v0.dev/t/zyZOHEAvErn",
+    "label": "Template for prompt: Make a saas pricing page with two sections one standard pricing and another enquiry for bulk credit or API access",
+    "dateAdded": "2024-01-24T22:10:02.467Z"
+  },
+  {
+    "url": "https://v0.dev/t/KO3e7OogKRy",
+    "label": "Template for prompt: A chat application",
+    "dateAdded": "2024-01-24T22:10:02.467Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y6EUGc3kAkv",
+    "label": "Template for prompt: a three tier subscription",
+    "dateAdded": "2024-01-24T22:10:02.467Z"
+  },
+  {
+    "url": "https://v0.dev/t/0MRAGx7IVAl",
+    "label": "Template for prompt: minimalist weather report",
+    "dateAdded": "2024-01-24T22:10:02.467Z"
+  },
+  {
+    "url": "https://v0.dev/t/PqLiQgbM5tG",
+    "label": "Template for prompt: a list of products in a category for an ecommerce site",
+    "dateAdded": "2024-01-24T22:10:02.468Z"
+  },
+  {
+    "url": "https://v0.dev/t/95TLDAomaik",
+    "label": "Template for prompt: A modal for creating a new game",
+    "dateAdded": "2024-01-24T22:10:02.468Z"
+  },
+  {
+    "url": "https://v0.dev/t/BiCnQ6Sse7P",
+    "label": "Template for prompt: a page for a techer to view student assignments. a section to see a list of all the studnets, and another section to review all questions marked as incorrect",
+    "dateAdded": "2024-01-24T22:10:02.468Z"
+  },
+  {
+    "url": "https://v0.dev/t/3OaCgeW9JxE",
+    "label": "Template for prompt: Enhance this UI, with a putrple accent scheme, mauybe make the textbox translucent with purple, make it appealing",
+    "dateAdded": "2024-01-24T22:10:02.468Z"
+  },
+  {
+    "url": "https://v0.dev/t/PotueYvL1Ux",
+    "label": "Template for prompt: create a landing page for a form that is unavailable to users, the form is either expired or has already been submitted",
+    "dateAdded": "2024-01-24T22:10:02.468Z"
+  },
+  {
+    "url": "https://v0.dev/t/zonUgqarRmb",
+    "label": "Template for prompt: Elegant Landing Page for a Gaming website",
+    "dateAdded": "2024-01-24T22:10:02.469Z"
+  },
+  {
+    "url": "https://v0.dev/t/tgYkcpDUjsZ",
+    "label": "Template for prompt: a straightfoward LUT saling page. Cinematic luts named Juicyne V1, containing 3 LUTs based on Grapefruit, cherry and watermelon.",
+    "dateAdded": "2024-01-24T22:10:02.469Z"
+  },
+  {
+    "url": "https://v0.dev/t/JeV9KUmtmLN",
+    "label": "Template for prompt: create a registration flow where the user can choose whether he will be a customer or be a store owner",
+    "dateAdded": "2024-01-24T22:10:02.469Z"
+  },
+  {
+    "url": "https://v0.dev/t/622ESb4HXil",
+    "label": "Template for prompt: a minimalist live stream platforms like calendly",
+    "dateAdded": "2024-01-24T22:10:02.469Z"
+  },
+  {
+    "url": "https://v0.dev/t/RpVuoezjHgJ",
+    "label": "Template for prompt: a page for a techer to view student assignments",
+    "dateAdded": "2024-01-24T22:10:02.469Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y5FwPgUKe6C",
+    "label": "Template for prompt: text with a glowing green border",
+    "dateAdded": "2024-01-24T22:10:02.470Z"
+  },
+  {
+    "url": "https://v0.dev/t/eYgv6Xbjx81",
+    "label": "Template for prompt: sidebar navigation for small screens",
+    "dateAdded": "2024-01-24T22:10:02.470Z"
+  },
+  {
+    "url": "https://v0.dev/t/3QmQeWTUre8",
+    "label": "Template for prompt: Need to use accordian to make faq page optimized for mobile view",
+    "dateAdded": "2024-01-24T22:10:02.470Z"
+  },
+  {
+    "url": "https://v0.dev/t/xbQsDkdqLXx",
+    "label": "Template for prompt: Use shadcn",
+    "dateAdded": "2024-01-24T22:10:02.470Z"
+  },
+  {
+    "url": "https://v0.dev/t/o7GEjXSEZDR",
+    "label": "Template for prompt: یک تولبار با دکمه های ساخت حساب و پرداخت و دوره های اموزشی و تخفیفات با ایکون هایی که لاین سفید دارند",
+    "dateAdded": "2024-01-24T22:10:02.470Z"
+  },
+  {
+    "url": "https://v0.dev/t/nBqquSAp6B9",
+    "label": "Template for prompt: make this option menu pretty:    \n<div class=\"space-y-2\">\n      <label class=\"text-sm font-medium leading-none\" for=\"faction\">Faction</label>\n      <select\n        v-model=\"editableUser.faction\"\n        @change=\"saveToLocalStorage\"\n        class=\"h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50\"\n        id=\"faction\"\n      >\n        <option disabled value=\"\">Select a faction</option>\n        <option\n          v-for=\"factionObj in factions\"\n          :key=\"factionObj.faction\"\n          :value=\"factionObj.faction\"\n        >\n          {{ factionObj.faction }} - {{ factionObj.titreBac }} (Players: {{ factionObj.players }},\n          Points: {{ factionObj.points }})\n        </option>\n      </select>\n    </div>",
+    "dateAdded": "2024-01-24T22:10:02.470Z"
+  },
+  {
+    "url": "https://v0.dev/t/7axcKeoLZIG",
+    "label": "Template for prompt: sidebar for small screens 4 links: about, skill certificate, portfolio; links to soical profiles",
+    "dateAdded": "2024-01-24T22:10:02.470Z"
+  },
+  {
+    "url": "https://v0.dev/t/B1ltTbhZiV0",
+    "label": "Template for prompt: make a graphic to highlight these points using icons but dont repeat the same text again. Make it look clean and modern. Real-time tracking and updates\nPredictive analytics for better decision making\nAutomated scheduling and dispatching",
+    "dateAdded": "2024-01-24T22:10:02.471Z"
+  },
+  {
+    "url": "https://v0.dev/t/8f2AuBhQSUL",
+    "label": "Template for prompt: Button that is skeumorphic wood panel with confette click interaction",
+    "dateAdded": "2024-01-24T22:10:02.471Z"
   }
 ]
