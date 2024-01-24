@@ -73813,5 +73813,125 @@
     "url": "https://v0.dev/t/TyOZ4aDwnLd",
     "label": "Template for prompt: create a porfolio website for a poke restaurant",
     "dateAdded": "2024-01-24T21:35:03.213Z"
+  },
+  {
+    "url": "https://v0.dev/t/aPZL36NlEI6",
+    "label": "Template for prompt: a classy button that says view portfolio",
+    "dateAdded": "2024-01-24T21:40:02.281Z"
+  },
+  {
+    "url": "https://v0.dev/t/bHRmk6JO5qz",
+    "label": "Template for prompt: A UI design for a Subscription Package in React Native component",
+    "dateAdded": "2024-01-24T21:40:02.281Z"
+  },
+  {
+    "url": "https://v0.dev/t/hfiKYrzIYBr",
+    "label": "Template for prompt: create an edit itinerary form",
+    "dateAdded": "2024-01-24T21:40:02.281Z"
+  },
+  {
+    "url": "https://v0.dev/t/vuZRKx2Vhz6",
+    "label": "Template for prompt: \"In a gardening helper app, the diary screen provides a calendar view to track planting dates, watering schedules, and growth progress. Icons on dates indicate actions taken or needed, and pop-up reminders help users keep on top of their gardening tasks. A quick access toolbar floats at the bottom for logging new entries, adding photos, or seeking community advice on plant care.\"\n\nMake sure the page is static that does not require interaction to show the information, and make all the synthetic data more concrete and realistic. Set it to 628 × 1118 pixels maybe and adjust each element/group resolution correspondingly so that each is in proper size  (following iOS design guidelines so that each text, image/visual, button, spacing ...etc is really big enough to see and interact)",
+    "dateAdded": "2024-01-24T21:40:02.281Z"
+  },
+  {
+    "url": "https://v0.dev/t/tVqAxyD0oWm",
+    "label": "Template for prompt: A ingredient selection tool",
+    "dateAdded": "2024-01-24T21:40:02.281Z"
+  },
+  {
+    "url": "https://v0.dev/t/TlFLDXtFCEa",
+    "label": "Template for prompt: make me a diagram using icons to illustrate a supply chain cycle. It should be a circle with arrows between the icons to show the process from shipper to consignee (4 steps). Keep it simple and modern",
+    "dateAdded": "2024-01-24T21:40:02.282Z"
+  },
+  {
+    "url": "https://v0.dev/t/4sJ0XTTpqg8",
+    "label": "Template for prompt: a Chatbot interface for RV travel",
+    "dateAdded": "2024-01-24T21:40:02.282Z"
+  },
+  {
+    "url": "https://v0.dev/t/RvVi2XKvG27",
+    "label": "Template for prompt: a Chatbot interface for RV travel",
+    "dateAdded": "2024-01-24T21:40:02.282Z"
+  },
+  {
+    "url": "https://v0.dev/t/BcWyqD0XlJ0",
+    "label": "Template for prompt: a cart card with a product title, description, image, 3 radio groups with selected value and 3 options to choose.",
+    "dateAdded": "2024-01-24T21:40:02.282Z"
+  },
+  {
+    "url": "https://v0.dev/t/mwrbC9TT55c",
+    "label": "Template for prompt: A chatbot interface for travel",
+    "dateAdded": "2024-01-24T21:40:02.282Z"
+  },
+  {
+    "url": "https://v0.dev/t/bPHpdLtx6Ef",
+    "label": "Template for prompt: create form with these fields title,description, welcomemessage, endmessage. and make every field except for title as a textarea",
+    "dateAdded": "2024-01-24T21:40:02.282Z"
+  },
+  {
+    "url": "https://v0.dev/t/qa17lwQZCdw",
+    "label": "Template for prompt: Design an interface that allows you to effectively manage academic semesters. On this platform, you can create new academic semesters by specifying the year, semester (1 or 2), and the end date. Use a dedicated button to create the semester.\n\nIn addition, there are additional sections to enable registrations for the current semester, close an academic semester, and view the history of created semesters.\n\nCreate Academic Semester:\n\nYear (e.g., 2024)\nSemester (1 or 2)\nEnd Date (calendar for selecting the date)\n\"Create Semester\" Button\nEnable Registrations:\n\nSection to activate registrations for the current semester.\nClose Academic Semester:\n\nSection to close the current academic semester.\nHistory of Academic Semesters:\n\nList or table displaying all previously created academic semesters, with details such as year, semester, and end date.\nEnsure a user-friendly navigation and provide clear visual elements to enhance the user experience. Consider using representative icons for each section ",
+    "dateAdded": "2024-01-24T21:40:02.282Z"
+  },
+  {
+    "url": "https://v0.dev/t/9yhzMopPjUJ",
+    "label": "Template for prompt: A ui dashboard with 3 column layout",
+    "dateAdded": "2024-01-24T21:40:02.282Z"
+  },
+  {
+    "url": "https://v0.dev/t/X6egD6nzH96",
+    "label": "Template for prompt: i want you to give me the code of a component that contains this icons Bitcoin, Tether, PayPal, Naira, dollar, euro  and Facebook, Instagram, YouTube, Twitter, tiktok and would be responsive to light and dark mode and also responsive to different screen sizes ",
+    "dateAdded": "2024-01-24T21:40:02.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/BG6mozmtTkL",
+    "label": "Template for prompt: a toast error",
+    "dateAdded": "2024-01-24T21:40:02.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/GllXXPs8Zhm",
+    "label": "Template for prompt: crie um formularia para ação LOA com seguintes topicos. \nunidade_orcamentaria,\natualizado,\nrap_pago,\nrap_nao_processado,\nrap_processado,\nrap_inscrito,\npago,\nempenho,\nliquidado,\nploa,\ninicial,\nmeta,\nnome_meta,\nano,\nuf,\ncodigo,\nnome,",
+    "dateAdded": "2024-01-24T21:40:02.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/5q71hhFe04V",
+    "label": "Template for prompt: project management page ",
+    "dateAdded": "2024-01-24T21:40:02.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/BjkIPm5JjfS",
+    "label": "Template for prompt: Create me Team about that has the fllowing \n\nTitle -  About Us\nSection one- What we do: bla bla bla bla put here descrioption\n\nSection two -  our goal:  Bla bla bla put ddescrtiption\n\nMeet the Team -  Display here 9 images 3 on each row of the team each member of the team will have Avatar,Name,Role,Linked Icon, short text when hovering the avatar on top of it\n\n\nMake it as you wish with best practices and suits for mobile ( Avbatars can be 2 at each row for mobile ) ",
+    "dateAdded": "2024-01-24T21:40:02.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/2khNckMYKJO",
+    "label": "Template for prompt: Edit image page, custom sliders for different settings like highlight, shadows, noise reduction, clarity...",
+    "dateAdded": "2024-01-24T21:40:02.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/g9BxvuhT3gq",
+    "label": "Template for prompt: A section for a web developer portfolio website to showcase six projects with thumbnails and titles",
+    "dateAdded": "2024-01-24T21:40:02.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/r1PCx7qCulI",
+    "label": "Template for prompt: create a corporate social responsibility page. ",
+    "dateAdded": "2024-01-24T21:40:02.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/LO825yXPHTL",
+    "label": "Template for prompt: a beautiful, usable plataform to search job opportunities",
+    "dateAdded": "2024-01-24T21:40:02.283Z"
+  },
+  {
+    "url": "https://v0.dev/t/PIjJV7MILnP",
+    "label": "Template for prompt: create a subscribe by entering your email\n",
+    "dateAdded": "2024-01-24T21:40:02.284Z"
+  },
+  {
+    "url": "https://v0.dev/t/qbxI8brCeYB",
+    "label": "Template for prompt: A landing page with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-24T21:40:02.284Z"
   }
 ]
