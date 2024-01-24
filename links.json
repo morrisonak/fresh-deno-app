@@ -68563,5 +68563,135 @@
     "url": "https://v0.dev/t/eAW5Vj3mf2X",
     "label": "Template for prompt: Maintenance page with text \"We are updating our website\", button \"Follow progress on Telegram\" and pink background",
     "dateAdded": "2024-01-24T17:00:04.058Z"
+  },
+  {
+    "url": "https://v0.dev/t/amBU268Nw7h",
+    "label": "Template for prompt: A Vision, Mission section to showcase a vision and mission",
+    "dateAdded": "2024-01-24T17:05:02.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/s3JJvG6gwsw",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-24T17:05:02.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/tIVmJN1EvOc",
+    "label": "Template for prompt: create a page same as image",
+    "dateAdded": "2024-01-24T17:05:02.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/5LdxJb9sW2I",
+    "label": "Template for prompt: A menu for a lading page tha has a two dashboards and lists",
+    "dateAdded": "2024-01-24T17:05:02.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/cki73N8aeT9",
+    "label": "Template for prompt: Simple footer with copyright and legal links",
+    "dateAdded": "2024-01-24T17:05:02.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/8oyu5etinre",
+    "label": "Template for prompt: a website to edit manage stuff",
+    "dateAdded": "2024-01-24T17:05:02.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/h3x2x6buCLo",
+    "label": "Template for prompt: Recreate the webpage design from the provided image, ensuring that it maintains a modern and user-friendly interface. Include key elements such as a navigation bar, featured sections, and a call-to-action. Pay attention to color schemes, typography, and overall aesthetics. Additionally, consider incorporating interactive elements to enhance user engagement. Your goal is to deliver a seamless and polished web experience",
+    "dateAdded": "2024-01-24T17:05:02.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/xMuX4GLmKPM",
+    "label": "Template for prompt: a list of cards.\nThis list should be centered at 80% width.\nwith a minimalist design",
+    "dateAdded": "2024-01-24T17:05:02.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/9JfeTd2K5Y2",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-24T17:05:02.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/bBCpnRhwiiT",
+    "label": "Template for prompt: A chat app with bubbles like this, ",
+    "dateAdded": "2024-01-24T17:05:02.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/rAZt0T4Pbw1",
+    "label": "Template for prompt: I need a pricing section benchmark.  A list of features, the benchmark is between two companies. I need a green check if yes or a red cross if not. Try a list of 10 features. Use tailwind",
+    "dateAdded": "2024-01-24T17:05:02.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/8GhEFV8Jcd5",
+    "label": "Template for prompt: An FAQ section with two columns side by side and every FAQ question is an accordion that can be toggled to get the answer",
+    "dateAdded": "2024-01-24T17:05:02.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/P2WC4VTXpx4",
+    "label": "Template for prompt: make an ui with those field but a better ui",
+    "dateAdded": "2024-01-24T17:05:02.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/8DcmHvjLH7k",
+    "label": "Template for prompt: Create desktop responsive (1200 to 2000) Login page ",
+    "dateAdded": "2024-01-24T17:05:02.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/7vArPQP10Ie",
+    "label": "Template for prompt: a card for a webshop item",
+    "dateAdded": "2024-01-24T17:05:02.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/FNgVty2XMYI",
+    "label": "Template for prompt: a cell that looks like this ",
+    "dateAdded": "2024-01-24T17:05:02.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/yOE0lhmsGRW",
+    "label": "Template for prompt: create a page same as image",
+    "dateAdded": "2024-01-24T17:05:02.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/9e5szmGpg7E",
+    "label": "Template for prompt: convert this image to react nextjs code",
+    "dateAdded": "2024-01-24T17:05:02.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/73YjyhDSA5x",
+    "label": "Template for prompt: an image showcase with image titles, no image descriptions, nothing else",
+    "dateAdded": "2024-01-24T17:05:02.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/0phOnsLdDN0",
+    "label": "Template for prompt: a website for reviewing movies",
+    "dateAdded": "2024-01-24T17:05:02.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/e2FVAWJTPr5",
+    "label": "Template for prompt: a music homepage with a search bar at the top, centered, and a grid of music by various artists under it",
+    "dateAdded": "2024-01-24T17:05:02.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/kbPZZTaP2kd",
+    "label": "Template for prompt:  create a skeleton for this sidebar",
+    "dateAdded": "2024-01-24T17:05:02.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/N4ly0vuyMh4",
+    "label": "Template for prompt:  create a skeleton for this sidebar",
+    "dateAdded": "2024-01-24T17:05:02.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/DtYwA9MiSlT",
+    "label": "Template for prompt: create a login page",
+    "dateAdded": "2024-01-24T17:05:02.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/PZST1BL8QN0",
+    "label": "Template for prompt: verify document with code",
+    "dateAdded": "2024-01-24T17:05:02.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/D7RKhEuXCNK",
+    "label": "Template for prompt: Improve this view, I need it to look organized and neat.",
+    "dateAdded": "2024-01-24T17:05:02.929Z"
   }
 ]
