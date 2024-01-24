@@ -70093,5 +70093,135 @@
     "url": "https://v0.dev/t/LqVHM6gBURJ",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2024-01-24T19:10:02.781Z"
+  },
+  {
+    "url": "https://v0.dev/t/f0HuHqnJcG4",
+    "label": "Template for prompt: A departure board with integrated public service annoucement messages, realtime delays, realtime bus locations and weather conditions. It should be staticly displayed without interaction from the user, except maybe simple ones, like scrolling or pushing a single button. If something like this happens, it should reset after a while though. I want it to be full screen. The main content will be the departure board with stop name, bus name, direction, departure, delay. the public annoucements and current weather conditions should be part of the footer. If there is multiple annoucements, they should automatically scroll though.",
+    "dateAdded": "2024-01-24T19:15:02.598Z"
+  },
+  {
+    "url": "https://v0.dev/t/v4kEmCEuszP",
+    "label": "Template for prompt: Responsive top navigation bar for a blog and portfolio website, with a a home page link at the top left, a dark mode toggle on the right, and navigation links always centered",
+    "dateAdded": "2024-01-24T19:15:02.598Z"
+  },
+  {
+    "url": "https://v0.dev/t/OiecmdXaSGG",
+    "label": "Template for prompt: footer",
+    "dateAdded": "2024-01-24T19:15:02.598Z"
+  },
+  {
+    "url": "https://v0.dev/t/W0sQ718jXRx",
+    "label": "Template for prompt: input ",
+    "dateAdded": "2024-01-24T19:15:02.599Z"
+  },
+  {
+    "url": "https://v0.dev/t/Mk6Vr3ejDZj",
+    "label": "Template for prompt: Two image comparison slider side by side with zoom functionality",
+    "dateAdded": "2024-01-24T19:15:02.599Z"
+  },
+  {
+    "url": "https://v0.dev/t/lZmQo9irGk1",
+    "label": "Template for prompt: A  professional Resume template for students pursuing career in Software / looking to start caareer in Software.",
+    "dateAdded": "2024-01-24T19:15:02.599Z"
+  },
+  {
+    "url": "https://v0.dev/t/UamuTt0K4de",
+    "label": "Template for prompt: mobile app for handyman to view incoming requests and handle them",
+    "dateAdded": "2024-01-24T19:15:02.599Z"
+  },
+  {
+    "url": "https://v0.dev/t/DpLxmL0Ffpk",
+    "label": "Template for prompt: Create image comparison slider with zoom functionality",
+    "dateAdded": "2024-01-24T19:15:02.599Z"
+  },
+  {
+    "url": "https://v0.dev/t/Imr6njP5GB0",
+    "label": "Template for prompt: Create image comparison slider with zoom functionality",
+    "dateAdded": "2024-01-24T19:15:02.600Z"
+  },
+  {
+    "url": "https://v0.dev/t/Bqfc1ABNZDC",
+    "label": "Template for prompt: tagged input",
+    "dateAdded": "2024-01-24T19:15:02.600Z"
+  },
+  {
+    "url": "https://v0.dev/t/mOmSaMCTEdq",
+    "label": "Template for prompt: footer",
+    "dateAdded": "2024-01-24T19:15:02.600Z"
+  },
+  {
+    "url": "https://v0.dev/t/S9seZIkA8c6",
+    "label": "Template for prompt: footer",
+    "dateAdded": "2024-01-24T19:15:02.600Z"
+  },
+  {
+    "url": "https://v0.dev/t/UtE6X5j2igc",
+    "label": "Template for prompt: 메이플스토리라는 한국게임을 플레이하는 유저들중\n비매너 행동을하는 유저들을 홈페이지에 방문한 사람들이 직접\n글을 등록해서 박제시키는 사이트를 만들고싶어",
+    "dateAdded": "2024-01-24T19:15:02.601Z"
+  },
+  {
+    "url": "https://v0.dev/t/k82RkRTZ8uS",
+    "label": "Template for prompt: Create a risk matrix chart component with colors red, yellow and green",
+    "dateAdded": "2024-01-24T19:15:02.601Z"
+  },
+  {
+    "url": "https://v0.dev/t/ScEcOuqzZhj",
+    "label": "Template for prompt: An email that notifies a reply on a thread",
+    "dateAdded": "2024-01-24T19:15:02.601Z"
+  },
+  {
+    "url": "https://v0.dev/t/wTdNHFSPbfD",
+    "label": "Template for prompt: generate a dashboard page",
+    "dateAdded": "2024-01-24T19:15:02.601Z"
+  },
+  {
+    "url": "https://v0.dev/t/AKYIjFT6IPg",
+    "label": "Template for prompt: todo app with option to share with link",
+    "dateAdded": "2024-01-24T19:15:02.601Z"
+  },
+  {
+    "url": "https://v0.dev/t/YcY9UVscvFm",
+    "label": "Template for prompt: A small card to show when user doesnt have data to show up",
+    "dateAdded": "2024-01-24T19:15:02.602Z"
+  },
+  {
+    "url": "https://v0.dev/t/4gmn7zkkoR7",
+    "label": "Template for prompt: search form",
+    "dateAdded": "2024-01-24T19:15:02.602Z"
+  },
+  {
+    "url": "https://v0.dev/t/ykg1EXEvOFk",
+    "label": "Template for prompt: a paged list view that can be sorted and filtered by column",
+    "dateAdded": "2024-01-24T19:15:02.602Z"
+  },
+  {
+    "url": "https://v0.dev/t/TKrAiUTQCE9",
+    "label": "Template for prompt: Design a comprehensive portfolio showcasing your expertise in developing a user-friendly web application for Department-Level Users with the ability to create and manage teachers and students, create and manage courses, establish classrooms, assign courses, and assign teachers to specific classrooms. Highlight your proficiency in user interface design, database management, and seamless functionality for an optimal user experience.",
+    "dateAdded": "2024-01-24T19:15:02.602Z"
+  },
+  {
+    "url": "https://v0.dev/t/uLN24P75eTn",
+    "label": "Template for prompt: A departure board with integrated public service annoucement messages, realtime delays, realtime bus locations and weather conditions",
+    "dateAdded": "2024-01-24T19:15:02.602Z"
+  },
+  {
+    "url": "https://v0.dev/t/vD5dAlbmBWe",
+    "label": "Template for prompt: build a state breadcumb",
+    "dateAdded": "2024-01-24T19:15:02.603Z"
+  },
+  {
+    "url": "https://v0.dev/t/8CJavvZZ4DF",
+    "label": "Template for prompt: Tarot reading app ",
+    "dateAdded": "2024-01-24T19:15:02.603Z"
+  },
+  {
+    "url": "https://v0.dev/t/kZiVkzMgAlP",
+    "label": "Template for prompt: footer",
+    "dateAdded": "2024-01-24T19:15:02.603Z"
+  },
+  {
+    "url": "https://v0.dev/t/uQta7NlSaLw",
+    "label": "Template for prompt: Shinny border card",
+    "dateAdded": "2024-01-24T19:15:02.604Z"
   }
 ]
