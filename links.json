@@ -66403,5 +66403,135 @@
     "url": "https://v0.dev/t/hYWlgBL4HdL",
     "label": "Template for prompt: make a log in page",
     "dateAdded": "2024-01-24T15:35:03.221Z"
+  },
+  {
+    "url": "https://v0.dev/t/GPkjKtj2RmD",
+    "label": "Template for prompt: A horizontal input bar. 2 input fields and a submit (search button). The input boxes have rounded corners, and icons on the left side. The submit button is a red circle and hovers to the right of the right input field",
+    "dateAdded": "2024-01-24T15:40:03.997Z"
+  },
+  {
+    "url": "https://v0.dev/t/2yV8tRrI8G1",
+    "label": "Template for prompt: A client check in modal",
+    "dateAdded": "2024-01-24T15:40:03.997Z"
+  },
+  {
+    "url": "https://v0.dev/t/gWPdMac3lAC",
+    "label": "Template for prompt: Make a recent activity list by this user ",
+    "dateAdded": "2024-01-24T15:40:03.997Z"
+  },
+  {
+    "url": "https://v0.dev/t/ubCbkSZdYbY",
+    "label": "Template for prompt: a list of skills needed for a job, with relevance score, sorted,  a lot of skills, search, filter, user friendly",
+    "dateAdded": "2024-01-24T15:40:03.998Z"
+  },
+  {
+    "url": "https://v0.dev/t/NJFIfoeTEbk",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T15:40:03.998Z"
+  },
+  {
+    "url": "https://v0.dev/t/Rb6QjXirwDb",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T15:40:03.998Z"
+  },
+  {
+    "url": "https://v0.dev/t/cMkDk780Nrx",
+    "label": "Template for prompt: can you make a ui for Pomodoro timer",
+    "dateAdded": "2024-01-24T15:40:03.998Z"
+  },
+  {
+    "url": "https://v0.dev/t/2YpYbbZeNVQ",
+    "label": "Template for prompt: can you make a ui for Pomodoro timer",
+    "dateAdded": "2024-01-24T15:40:03.998Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZJtLIeDHJho",
+    "label": "Template for prompt: Make an attractive glass effect card for a black background ,6 cards and 3 in row and another 3 in second row",
+    "dateAdded": "2024-01-24T15:40:03.998Z"
+  },
+  {
+    "url": "https://v0.dev/t/B0nTl0Xxagu",
+    "label": "Template for prompt: Minimalist and simple page for benchmarking gpt prompts.\nShould have json formated text area input field to leave gpt prompt and then list of cases with output next to it",
+    "dateAdded": "2024-01-24T15:40:03.998Z"
+  },
+  {
+    "url": "https://v0.dev/t/LuSElBSF18d",
+    "label": "Template for prompt: Analytics dashboard for ads",
+    "dateAdded": "2024-01-24T15:40:03.999Z"
+  },
+  {
+    "url": "https://v0.dev/t/GqNfYCHU2wo",
+    "label": "Template for prompt: Portfolio website",
+    "dateAdded": "2024-01-24T15:40:03.999Z"
+  },
+  {
+    "url": "https://v0.dev/t/js16D95427j",
+    "label": "Template for prompt: a header and searchable input with options from very low to very high difficulty and another input with how many points as well as a submit button",
+    "dateAdded": "2024-01-24T15:40:03.999Z"
+  },
+  {
+    "url": "https://v0.dev/t/F9Gx5CKIZXN",
+    "label": "Template for prompt: Create a file browser like google drive, the file brwoser must have breadcrumbs with the current path, the grid to list the files mus have multiple columsn, filename, size, creation date, owner.\nMust have  lateral menu with multiple options and on top left the log and on top right the user options",
+    "dateAdded": "2024-01-24T15:40:03.999Z"
+  },
+  {
+    "url": "https://v0.dev/t/1qEnM1M3hyE",
+    "label": "Template for prompt: a video playlist with player on the left side and video list on the right side",
+    "dateAdded": "2024-01-24T15:40:03.999Z"
+  },
+  {
+    "url": "https://v0.dev/t/bcbUFVDrPlq",
+    "label": "Template for prompt: a youtube-like video playlist page of anime themes in shadcn/ui style",
+    "dateAdded": "2024-01-24T15:40:03.999Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y6HDVZXp8lZ",
+    "label": "Template for prompt: I need a countdown timer component that accepts an arbitrary future date and counts down the time in days:hours:minutes:seconds.",
+    "dateAdded": "2024-01-24T15:40:03.999Z"
+  },
+  {
+    "url": "https://v0.dev/t/co6muw28mpM",
+    "label": "Template for prompt: Make a card that list assigned task ",
+    "dateAdded": "2024-01-24T15:40:03.999Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZrhW5hNXeEy",
+    "label": "Template for prompt: A dashboard with a search input and 2 parameters controls; On the main part, the search results in rolls with images and the result descriptions;\non the right side 2 sections to debug the json of the search result.",
+    "dateAdded": "2024-01-24T15:40:03.999Z"
+  },
+  {
+    "url": "https://v0.dev/t/QdUyM6J2g72",
+    "label": "Template for prompt: in first thee should be  image at the left side and on the right side there should be description and that image side width should be less than right side  and not equally divided. Under that i want same but swap i.e. the left side should be greater than right side and contains description and the right side should be less than left side and should contain image",
+    "dateAdded": "2024-01-24T15:40:04.000Z"
+  },
+  {
+    "url": "https://v0.dev/t/dkLU584QoLc",
+    "label": "Template for prompt: Create an interface of a red social, that its name will be Neo. Make it minimalist, aesthettic and with a with style",
+    "dateAdded": "2024-01-24T15:40:04.000Z"
+  },
+  {
+    "url": "https://v0.dev/t/6ZgcB5lBVbB",
+    "label": "Template for prompt: a very simple and clean recipe site",
+    "dateAdded": "2024-01-24T15:40:04.000Z"
+  },
+  {
+    "url": "https://v0.dev/t/AyGS449H0Dt",
+    "label": "Template for prompt: Develop this webpage",
+    "dateAdded": "2024-01-24T15:40:04.000Z"
+  },
+  {
+    "url": "https://v0.dev/t/LSlXeVU9xoY",
+    "label": "Template for prompt: Link text width an line below it that appear on hover\\",
+    "dateAdded": "2024-01-24T15:40:04.000Z"
+  },
+  {
+    "url": "https://v0.dev/t/FX4unKtuveV",
+    "label": "Template for prompt: Portfolio website",
+    "dateAdded": "2024-01-24T15:40:04.000Z"
+  },
+  {
+    "url": "https://v0.dev/t/UKFq7dRBtO0",
+    "label": "Template for prompt: make me a form login with password obscured button",
+    "dateAdded": "2024-01-24T15:40:04.000Z"
   }
 ]
