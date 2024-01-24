@@ -73433,5 +73433,130 @@
     "url": "https://v0.dev/t/HGDEmGeTUna",
     "label": "Template for prompt: I need a terms&conditions pop-up that opens from a cookie banner",
     "dateAdded": "2024-01-24T21:20:03.137Z"
+  },
+  {
+    "url": "https://v0.dev/t/TyOZ4aDwnLd",
+    "label": "Template for prompt: create a porfolio website for a poke restaurant",
+    "dateAdded": "2024-01-24T21:25:02.794Z"
+  },
+  {
+    "url": "https://v0.dev/t/UGg4SlfvwYi",
+    "label": "Template for prompt: create an upload area for image files",
+    "dateAdded": "2024-01-24T21:25:02.794Z"
+  },
+  {
+    "url": "https://v0.dev/t/L8Mzr8Yv1SB",
+    "label": "Template for prompt: An avatar upload with image preview using shadcn/ui, nextjs server actions and s3.",
+    "dateAdded": "2024-01-24T21:25:02.794Z"
+  },
+  {
+    "url": "https://v0.dev/t/k1ynW9xfEWy",
+    "label": "Template for prompt: genshin even website",
+    "dateAdded": "2024-01-24T21:25:02.794Z"
+  },
+  {
+    "url": "https://v0.dev/t/SaOpNMeYAM4",
+    "label": "Template for prompt: build a checkout page for an ecommerce site",
+    "dateAdded": "2024-01-24T21:25:02.794Z"
+  },
+  {
+    "url": "https://v0.dev/t/D1zUs7mWllE",
+    "label": "Template for prompt: Improve this layout, center the text 'Checking Microphone permission' and center it orizontally. Place the button 'Grant Access' below the text and center it horizontally. Improve the design, and keep the same dark theme.",
+    "dateAdded": "2024-01-24T21:25:02.794Z"
+  },
+  {
+    "url": "https://v0.dev/t/Owjmo1r6gpC",
+    "label": "Template for prompt: A floating navbar with links ",
+    "dateAdded": "2024-01-24T21:25:02.795Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zf48f9DJscP",
+    "label": "Template for prompt: A very modern ecommerce website for a cooking tool. The navbar should include user profile, cart and a flag icon where I can change the current language. The hero part should make up 50 percent of the screen height and should display a text on the left and an image of the product on the right, below that is a marquee which displays when free shipping is available.",
+    "dateAdded": "2024-01-24T21:25:02.795Z"
+  },
+  {
+    "url": "https://v0.dev/t/1X1Itvaxmwu",
+    "label": "Template for prompt: a light/dark mode toggle",
+    "dateAdded": "2024-01-24T21:25:02.795Z"
+  },
+  {
+    "url": "https://v0.dev/t/b9CXTLueNPM",
+    "label": "Template for prompt: improve this form, turn it more beautiful and divide by sections like it could have a location section grouping bairro, cep, endereco",
+    "dateAdded": "2024-01-24T21:25:02.795Z"
+  },
+  {
+    "url": "https://v0.dev/t/H5gaIaJLTlR",
+    "label": "Template for prompt: create checkbox",
+    "dateAdded": "2024-01-24T21:25:02.795Z"
+  },
+  {
+    "url": "https://v0.dev/t/wi5jeJWsWKn",
+    "label": "Template for prompt: A mobile detail page depicting a motorcycle and its upcoming service tasks. Available information brand, year, displacement, power and model name should be displayed. The page should have tabs where the user can change between overview and tasks, etc. The user should have a settings options presented to him ",
+    "dateAdded": "2024-01-24T21:25:02.795Z"
+  },
+  {
+    "url": "https://v0.dev/t/zI4oEKz9B4X",
+    "label": "Template for prompt: create a card with information about event picing",
+    "dateAdded": "2024-01-24T21:25:02.795Z"
+  },
+  {
+    "url": "https://v0.dev/t/QnYp6cRELDD",
+    "label": "Template for prompt: build a plant app that shows all the plants in inventory",
+    "dateAdded": "2024-01-24T21:25:02.795Z"
+  },
+  {
+    "url": "https://v0.dev/t/2ymNtIa1P2E",
+    "label": "Template for prompt: Анимировання кнопка смены светлой темы на темную",
+    "dateAdded": "2024-01-24T21:25:02.796Z"
+  },
+  {
+    "url": "https://v0.dev/t/BhIZ6eg53zV",
+    "label": "Template for prompt: Generate HTML and CSS code for a 'Our Approach to AI Transformation' section on a technology-focused corporate website. This section should clearly articulate our customer-centric approach to AI solutions. Here are the specific requirements:\n\nSection Layout and Design:\n\nBegin with a prominent header: 'Our Approach to AI Transformation'.\nUse a modern, readable font.\nBackground color should be a light, engaging tone that fits the website's color scheme.\nImplement subtle animations or hover effects for interactivity, maintaining a professional look.\nContent Structure:\n\nOrganize the section into three main parts, each representing a key aspect of our approach: 'Understanding Customer Needs', 'Tailoring AI Solutions', and 'Continuous Support and Feedback'.\nEach part should have:\nA bold sub-header for the aspect name.\nA concise paragraph detailing the approach, based on the provided content.\nRelevant icons or images to visually represent each aspect.\nThe text should be engaging and easy to u",
+    "dateAdded": "2024-01-24T21:25:02.796Z"
+  },
+  {
+    "url": "https://v0.dev/t/7QvqyCJKe55",
+    "label": "Template for prompt: Put the input form at the higher in the page and fix css using talwind ",
+    "dateAdded": "2024-01-24T21:25:02.796Z"
+  },
+  {
+    "url": "https://v0.dev/t/xskYFYoFZn1",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T21:25:02.796Z"
+  },
+  {
+    "url": "https://v0.dev/t/JTGkoPiihFN",
+    "label": "Template for prompt: generate an online test page using shadcn which asks questions in MCQs format.",
+    "dateAdded": "2024-01-24T21:25:02.796Z"
+  },
+  {
+    "url": "https://v0.dev/t/JHj1IlhrGZH",
+    "label": "Template for prompt: create a component ",
+    "dateAdded": "2024-01-24T21:25:02.796Z"
+  },
+  {
+    "url": "https://v0.dev/t/cpEvInOINps",
+    "label": "Template for prompt: Infinity scrolling images like on cryptomus.com",
+    "dateAdded": "2024-01-24T21:25:02.796Z"
+  },
+  {
+    "url": "https://v0.dev/t/PGwP5snvSmN",
+    "label": "Template for prompt: Generate an UI for a full page chat bot.",
+    "dateAdded": "2024-01-24T21:25:02.796Z"
+  },
+  {
+    "url": "https://v0.dev/t/08oY4gfgyr5",
+    "label": "Template for prompt: Necesito una pagina portfolio landing page para mi empresa de desarrollo de software. Necesito que sea dark Mode y que tenga un formulario como Footer",
+    "dateAdded": "2024-01-24T21:25:02.797Z"
+  },
+  {
+    "url": "https://v0.dev/t/dIBuOw0z5ZP",
+    "label": "Template for prompt: Crie um simples componente de avatar, em circulo, onde o usuário poderá inserir sua foto de perfil. utilize next e typescript  \n\naplique os seguintes estilos em um arquivo chamado Avatar.module.scss: \n\nAvatar em estado normal: background #E3B600 \nAvatar em estado hover ou estado ativo: background #E3B600 e border: #7FB6FF ",
+    "dateAdded": "2024-01-24T21:25:02.797Z"
+  },
+  {
+    "url": "https://v0.dev/t/CoivZJWS8S8",
+    "label": "Template for prompt: generate an authentication page for online test such duolingo english test",
+    "dateAdded": "2024-01-24T21:25:02.797Z"
   }
 ]
