@@ -71248,5 +71248,135 @@
     "url": "https://v0.dev/t/MOkMdmlnZYK",
     "label": "Template for prompt: A chat ui with form (a la typeform) embedded into the chat",
     "dateAdded": "2024-01-24T19:55:02.539Z"
+  },
+  {
+    "url": "https://v0.dev/t/nhFDazHeBdE",
+    "label": "Template for prompt: make a login page",
+    "dateAdded": "2024-01-24T20:00:04.697Z"
+  },
+  {
+    "url": "https://v0.dev/t/SoidWxutpfl",
+    "label": "Template for prompt: an ecommerce for handmade sweaters.",
+    "dateAdded": "2024-01-24T20:00:04.697Z"
+  },
+  {
+    "url": "https://v0.dev/t/Oj72C0dZaRS",
+    "label": "Template for prompt: make speed dial having options of logout ",
+    "dateAdded": "2024-01-24T20:00:04.697Z"
+  },
+  {
+    "url": "https://v0.dev/t/DR1uoAxnSlB",
+    "label": "Template for prompt: A multichoice selection a la typeform",
+    "dateAdded": "2024-01-24T20:00:04.697Z"
+  },
+  {
+    "url": "https://v0.dev/t/yCvCcQmimf8",
+    "label": "Template for prompt: create a white simple footer ",
+    "dateAdded": "2024-01-24T20:00:04.697Z"
+  },
+  {
+    "url": "https://v0.dev/t/sLwsCoqy4Lz",
+    "label": "Template for prompt: a dashboard that contains widgets that hold a metric, a subtitle and an updated time",
+    "dateAdded": "2024-01-24T20:00:04.698Z"
+  },
+  {
+    "url": "https://v0.dev/t/6aMH45XHHWU",
+    "label": "Template for prompt: create a setttings menu",
+    "dateAdded": "2024-01-24T20:00:04.698Z"
+  },
+  {
+    "url": "https://v0.dev/t/LrhJw0CSHxE",
+    "label": "Template for prompt: A SaaS admin dashboard to manage todos",
+    "dateAdded": "2024-01-24T20:00:04.698Z"
+  },
+  {
+    "url": "https://v0.dev/t/x5G9Z9MVDAh",
+    "label": "Template for prompt: make speed dial for showing profile icon of user and on click that icon user will get options of logout button ",
+    "dateAdded": "2024-01-24T20:00:04.698Z"
+  },
+  {
+    "url": "https://v0.dev/t/GuNZAh3oGHz",
+    "label": "Template for prompt: re-create this with same font and styling ",
+    "dateAdded": "2024-01-24T20:00:04.698Z"
+  },
+  {
+    "url": "https://v0.dev/t/8nZyW65XZ5U",
+    "label": "Template for prompt: blog list page",
+    "dateAdded": "2024-01-24T20:00:04.699Z"
+  },
+  {
+    "url": "https://v0.dev/t/YcRcff9A02F",
+    "label": "Template for prompt: A chat ui with typeform component embeded into the chat, components to implement: multiple choice, date, picture choice",
+    "dateAdded": "2024-01-24T20:00:04.699Z"
+  },
+  {
+    "url": "https://v0.dev/t/7QSkMLNZtFI",
+    "label": "Template for prompt: nav bar for my app with logo, support link, and user dropdown",
+    "dateAdded": "2024-01-24T20:00:04.699Z"
+  },
+  {
+    "url": "https://v0.dev/t/0II9Rs8fM2m",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T20:00:04.699Z"
+  },
+  {
+    "url": "https://v0.dev/t/dWtyZFoctBO",
+    "label": "Template for prompt: serchbar for riot summoners name",
+    "dateAdded": "2024-01-24T20:00:04.699Z"
+  },
+  {
+    "url": "https://v0.dev/t/3TLpxfQZBKN",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T20:00:04.700Z"
+  },
+  {
+    "url": "https://v0.dev/t/XTQrWzyBvkP",
+    "label": "Template for prompt: Please turn this image (a imagine of a address field) into a form with two columns.",
+    "dateAdded": "2024-01-24T20:00:04.700Z"
+  },
+  {
+    "url": "https://v0.dev/t/6Jhmas3DQ5c",
+    "label": "Template for prompt: autocomplete field that asks for options every 3 characters",
+    "dateAdded": "2024-01-24T20:00:04.700Z"
+  },
+  {
+    "url": "https://v0.dev/t/pLFPH4tPxSK",
+    "label": "Template for prompt: A modal dialog that requires you to subscribe in order to continue your session. The application is called Headstarter, and there are two subscription tiers: Headstarter Pro and Headstarter Elite. Ideally this would include a list of benefits for each, as well as a price.",
+    "dateAdded": "2024-01-24T20:00:04.700Z"
+  },
+  {
+    "url": "https://v0.dev/t/StHmjVKkEXq",
+    "label": "Template for prompt: form container with dynamics items. The buttons positions is a bottom ",
+    "dateAdded": "2024-01-24T20:00:04.700Z"
+  },
+  {
+    "url": "https://v0.dev/t/QMOsLjXPKmM",
+    "label": "Template for prompt: a page that shows no item found with try again button",
+    "dateAdded": "2024-01-24T20:00:04.700Z"
+  },
+  {
+    "url": "https://v0.dev/t/pfZiot7D94j",
+    "label": "Template for prompt: a simple, modern, sleek non-profit website with a dark gradient background. centered near the top of the page is a blue text box that resembles sending a text message (including the protruding triangle on the bottom right pointing to the right), with the default text being \"Am I being scammed?\" There is a button to send the text messsage to the right of the text message bubble. At the top left is a small image that directs you to the main page of the website. Above the text box is a small header. The background is a dark black-purple-blue gradient",
+    "dateAdded": "2024-01-24T20:00:04.701Z"
+  },
+  {
+    "url": "https://v0.dev/t/77sNPGNSi8k",
+    "label": "Template for prompt: a record audio page with visualizer",
+    "dateAdded": "2024-01-24T20:00:04.701Z"
+  },
+  {
+    "url": "https://v0.dev/t/gk8bewHiJQL",
+    "label": "Template for prompt: design a card shows a value and a unit as well as a timestamp, when the value was measured",
+    "dateAdded": "2024-01-24T20:00:04.701Z"
+  },
+  {
+    "url": "https://v0.dev/t/1dgCCmiga62",
+    "label": "Template for prompt: make a website that has cool animation and a container in the center that is like a self intro",
+    "dateAdded": "2024-01-24T20:00:04.701Z"
+  },
+  {
+    "url": "https://v0.dev/t/6iMrrrdSx4I",
+    "label": "Template for prompt: Reset Password Form",
+    "dateAdded": "2024-01-24T20:00:04.702Z"
   }
 ]
