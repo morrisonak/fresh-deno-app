@@ -62923,5 +62923,135 @@
     "url": "https://v0.dev/t/snGgM8SDfmT",
     "label": "Template for prompt: app sign in page with public part option",
     "dateAdded": "2024-01-24T01:45:03.321Z"
+  },
+  {
+    "url": "https://v0.dev/t/BQP9V2K6lKg",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T01:50:03.584Z"
+  },
+  {
+    "url": "https://v0.dev/t/Vj1TMVKBEf3",
+    "label": "Template for prompt: A landing page for a sign in button",
+    "dateAdded": "2024-01-24T01:50:03.584Z"
+  },
+  {
+    "url": "https://v0.dev/t/v6O0jYMZ1Oi",
+    "label": "Template for prompt: create a UI to view this data: export const FakePert = {\n  title: \"Build tabs for the PDF Viewer\",\n  links: [\n    \"https://www.someJiraTicker.com\",\n    \"https://www.documentationLink.com\",\n  ],\n  risks: `The team is dependent on a third-party library for tab functionality,\n    potential scope changes may arise during development,\n    resource constraints could impact the timeline,\n    and unexpected technical challenges might cause delays.`,\n  pessimistic: 2,\n  optimistic: 0.5,\n  mostLikely: 1,\n  estimate: 1.08,\n};\n",
+    "dateAdded": "2024-01-24T01:50:03.584Z"
+  },
+  {
+    "url": "https://v0.dev/t/cZfJm1rYxry",
+    "label": "Template for prompt: make a slider with a automatic animation of moves on its own",
+    "dateAdded": "2024-01-24T01:50:03.584Z"
+  },
+  {
+    "url": "https://v0.dev/t/DwQHsTVQgRJ",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-24T01:50:03.584Z"
+  },
+  {
+    "url": "https://v0.dev/t/6CUtzOU2a9S",
+    "label": "Template for prompt: website 4 features page with snap scrolling",
+    "dateAdded": "2024-01-24T01:50:03.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/jEwkL5bPX5C",
+    "label": "Template for prompt: a checkerboard page with a blue button in the center that opens a dialog window and blurs the background when clicked",
+    "dateAdded": "2024-01-24T01:50:03.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/t42tDKOYF5d",
+    "label": "Template for prompt: Create a navigation bar with Login, Sign up in the top right corner",
+    "dateAdded": "2024-01-24T01:50:03.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/ptvy7HvRQTy",
+    "label": "Template for prompt: design a protal",
+    "dateAdded": "2024-01-24T01:50:03.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/jRNX9VzdBYZ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T01:50:03.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/r8jsmm2ddW9",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-24T01:50:03.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZfmnqTQsD6o",
+    "label": "Template for prompt: A personal wishlist page that lists items with a brief description, and the price. There should be no image of the items.",
+    "dateAdded": "2024-01-24T01:50:03.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/njoF2l5eULm",
+    "label": "Template for prompt: board",
+    "dateAdded": "2024-01-24T01:50:03.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/tz0VmXeTfQg",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T01:50:03.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/8cfAmDhw1cb",
+    "label": "Template for prompt: login page",
+    "dateAdded": "2024-01-24T01:50:03.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/34KBfIXVqX7",
+    "label": "Template for prompt: an editor on the right side of a chatbot",
+    "dateAdded": "2024-01-24T01:50:03.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/S4vwu1tpW4j",
+    "label": "Template for prompt: block product",
+    "dateAdded": "2024-01-24T01:50:03.587Z"
+  },
+  {
+    "url": "https://v0.dev/t/K6rlvR5VTNb",
+    "label": "Template for prompt: id, password, confirm button in form",
+    "dateAdded": "2024-01-24T01:50:03.587Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y43PByQPlMb",
+    "label": "Template for prompt: A menu on the top of options, a set of dropdowns and options below that, a table and some example data",
+    "dateAdded": "2024-01-24T01:50:03.587Z"
+  },
+  {
+    "url": "https://v0.dev/t/PFq2AH4ToZ3",
+    "label": "Template for prompt: A game screen has 4 component orders vertical. The first  component is the countdown o'clock, the next is the score label the next is math with blue color and the final is two  buttons are next to each other in green color",
+    "dateAdded": "2024-01-24T01:50:03.587Z"
+  },
+  {
+    "url": "https://v0.dev/t/jyyrlnOvD4d",
+    "label": "Template for prompt: admin dashboard for dumpster rental software. On the left hand side there are buttons for different tabs including invoicing, dumpster inventory tracking, and scheduling.",
+    "dateAdded": "2024-01-24T01:50:03.587Z"
+  },
+  {
+    "url": "https://v0.dev/t/nlD5sDClCrl",
+    "label": "Template for prompt: I want a landing site, use black and dark gray as main colors. There should be a logo at the top left and 2 buttons at top right for login and signup. Below that I wan't some stylish copy explaining how the site works and below that an input box with a submit button aside",
+    "dateAdded": "2024-01-24T01:50:03.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/QRqB4ff7AMQ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T01:50:03.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/LKhzU8PiAtO",
+    "label": "Template for prompt: A section for a buyback website that allows users to sell their apple tech",
+    "dateAdded": "2024-01-24T01:50:03.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/Uf0H4Lnwk38",
+    "label": "Template for prompt: create this",
+    "dateAdded": "2024-01-24T01:50:03.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/T77t41Kqizs",
+    "label": "Template for prompt: Navbar with about contact login signup",
+    "dateAdded": "2024-01-24T01:50:03.589Z"
   }
 ]
