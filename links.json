@@ -62278,5 +62278,130 @@
     "url": "https://v0.dev/t/T48IYTrxxN8",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2024-01-24T01:20:17.335Z"
+  },
+  {
+    "url": "https://v0.dev/t/csNgaIhIaEG",
+    "label": "Template for prompt: here page with human photo and texts inside one div, photo should be at right and text  be at left, gradient background",
+    "dateAdded": "2024-01-24T01:25:03.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/94xdii0IUmr",
+    "label": "Template for prompt: A full stack, dark minimal application for syncing to Spotify and seeing your streaming data, as well as scheduling for Instagram post",
+    "dateAdded": "2024-01-24T01:25:03.834Z"
+  },
+  {
+    "url": "https://v0.dev/t/4zT5zTp3NFQ",
+    "label": "Template for prompt: Please create an administrator tool that makes it easy to change the order of the registered images",
+    "dateAdded": "2024-01-24T01:25:03.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/TPRhO6Nsv0Q",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T01:25:03.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/JbkROCeniMl",
+    "label": "Template for prompt: 쇼핑몰 메인",
+    "dateAdded": "2024-01-24T01:25:03.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/9RiUEsWMGKS",
+    "label": "Template for prompt: Please make a preview component of the post that looks like the image.",
+    "dateAdded": "2024-01-24T01:25:03.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/0SYnOLzAh6V",
+    "label": "Template for prompt: Please make a preview component of the post that looks like the image.",
+    "dateAdded": "2024-01-24T01:25:03.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/VmgTMQUvNg5",
+    "label": "Template for prompt: hero page with human portrait and texts inside hero",
+    "dateAdded": "2024-01-24T01:25:03.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/qcEiD6VIPWu",
+    "label": "Template for prompt: a simple company website using azure",
+    "dateAdded": "2024-01-24T01:25:03.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/qoAn9MZz8JF",
+    "label": "Template for prompt: A table for managing users with 3 dot action icon. row in card style",
+    "dateAdded": "2024-01-24T01:25:03.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/m2xnfxjVeCU",
+    "label": "Template for prompt: Application that walks me through getting a meeting with Mark Wahlberg to help him optimize his schedule more.",
+    "dateAdded": "2024-01-24T01:25:03.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/va1ie5MioYd",
+    "label": "Template for prompt: a hero section showcasing a website on an iphone screen with a call to action button and beautiful typography",
+    "dateAdded": "2024-01-24T01:25:03.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/fhX51Y980M6",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T01:25:03.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/2KGIUPNCn2e",
+    "label": "Template for prompt: A table for managing users with 3 dot action icon",
+    "dateAdded": "2024-01-24T01:25:03.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/w25BwiSQzXo",
+    "label": "Template for prompt: 심플한 쇼핑몰 메인 페이지",
+    "dateAdded": "2024-01-24T01:25:03.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/5YLqFbGcGBm",
+    "label": "Template for prompt: a landing page for a website that lets you monetize your discord content it needs to have an input that should be the CTA for the user to create the account giving it's username",
+    "dateAdded": "2024-01-24T01:25:03.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/HWd79ZpSzMn",
+    "label": "Template for prompt: A saas dashboard showing the members of a project.",
+    "dateAdded": "2024-01-24T01:25:03.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/EiPOJv8Ybvs",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T01:25:03.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/cRmVSSUFl8Z",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T01:25:03.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/8h6sQxH7E2i",
+    "label": "Template for prompt: comparison table",
+    "dateAdded": "2024-01-24T01:25:03.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/avpY1sSTNYd",
+    "label": "Template for prompt: issue card like jira ones",
+    "dateAdded": "2024-01-24T01:25:03.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/CqgZCyeGzcp",
+    "label": "Template for prompt: side navigation with sections. section has name bold and items are listed below with nesting.",
+    "dateAdded": "2024-01-24T01:25:03.838Z"
+  },
+  {
+    "url": "https://v0.dev/t/k8J9zkl8xzn",
+    "label": "Template for prompt: 3 card boxes in one row",
+    "dateAdded": "2024-01-24T01:25:03.838Z"
+  },
+  {
+    "url": "https://v0.dev/t/psYAqCxVEzw",
+    "label": "Template for prompt: A button that creates a Dialog with a field for name and a create button that calls an external API",
+    "dateAdded": "2024-01-24T01:25:03.838Z"
+  },
+  {
+    "url": "https://v0.dev/t/X2zyUoBU3rm",
+    "label": "Template for prompt: make me a recipe creation page ",
+    "dateAdded": "2024-01-24T01:25:03.838Z"
   }
 ]
