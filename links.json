@@ -74933,5 +74933,135 @@
     "url": "https://v0.dev/t/PqLiQgbM5tG",
     "label": "Template for prompt: a list of products in a category for an ecommerce site",
     "dateAdded": "2024-01-24T22:20:02.687Z"
+  },
+  {
+    "url": "https://v0.dev/t/V0f1QlKZBCh",
+    "label": "Template for prompt: create the products page for a store dashboard where store owners can see their own products, add a new one,  and remove or edit an existing one.",
+    "dateAdded": "2024-01-24T22:25:02.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/FSBypjX36j5",
+    "label": "Template for prompt: A UI design for a Subscription Package. Subscription contains credits for a certain period (10 days) in React Native component",
+    "dateAdded": "2024-01-24T22:25:02.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/CLlK1imUOBt",
+    "label": "Template for prompt: A UI design for a Subscription Package. Subscription contains credits for a certain period (10 days) in React Native component",
+    "dateAdded": "2024-01-24T22:25:02.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/ErKW1Dp3OwS",
+    "label": "Template for prompt: A UI design for a Subscription Package. Subscription contains credits for a certain period (10 days) in React Native component",
+    "dateAdded": "2024-01-24T22:25:02.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/JR3Oaju3SCV",
+    "label": "Template for prompt: A UI design for a Subscription Package. Subscription contains credits for a certain period (10 days) in React Native component",
+    "dateAdded": "2024-01-24T22:25:02.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/Moau2Ebz8Z9",
+    "label": "Template for prompt: A UI design for a Subscription Package. Subscription contains credits for a certain period (10 days) in React Native component",
+    "dateAdded": "2024-01-24T22:25:02.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qbe05RoeoOu",
+    "label": "Template for prompt: A UI design for a Subscription Package. Subscription contains credits for a certain period (10 days) in React Native component",
+    "dateAdded": "2024-01-24T22:25:02.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/AfIVkwQtSWu",
+    "label": "Template for prompt: ui design for a credit card transactions view",
+    "dateAdded": "2024-01-24T22:25:02.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/nMCYeDVyTGL",
+    "label": "Template for prompt: A financial dashboard",
+    "dateAdded": "2024-01-24T22:25:02.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/FzBcvzqFVXn",
+    "label": "Template for prompt: Create an order page for a store dashboard where store owners can see new, in-progress, and completed orders",
+    "dateAdded": "2024-01-24T22:25:02.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/DWmXejaRDkg",
+    "label": "Template for prompt: I've an admin panel page where I should show the existing events, the exhibitors each event and their available schedule. Within that page you have the option to add the subscriber to a schedule.",
+    "dateAdded": "2024-01-24T22:25:02.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/0JPtpeIpqAB",
+    "label": "Template for prompt: A menu page for an automated cocktails dispenser. It show all the cocktails available, with photo, name, ingredients and price. The most popular ones are on the top. There is a \"random cocktails\" also. A search bar, a filter menu. A navbar to navigate from cocktails page, to shots page, to trending page, and to admin dashboard. ",
+    "dateAdded": "2024-01-24T22:25:02.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/FI3ZhLz2Zne",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-24T22:25:02.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/21fVf1S7NRh",
+    "label": "Template for prompt: have a page called stats whcih shows data about the user. SOmethign like last rank in past game, overall wins of 1,2,3, if their portfolio is up or down today or generallty",
+    "dateAdded": "2024-01-24T22:25:02.392Z"
+  },
+  {
+    "url": "https://v0.dev/t/zfCQoUjSCzh",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T22:25:02.392Z"
+  },
+  {
+    "url": "https://v0.dev/t/HCVJY0IDZH9",
+    "label": "Template for prompt: A dashboard for montly sales, balance sheets, profits, graphs, last orders and a side navigation",
+    "dateAdded": "2024-01-24T22:25:02.392Z"
+  },
+  {
+    "url": "https://v0.dev/t/W9IzMXs8bam",
+    "label": "Template for prompt: A ecommerce website to buy cats",
+    "dateAdded": "2024-01-24T22:25:02.392Z"
+  },
+  {
+    "url": "https://v0.dev/t/MVsBdilqbCz",
+    "label": "Template for prompt: A confirmation modal with a danger icon and text asking if the user \"Would like to unassign the given devices and continue\". Bellow this there should be a table listing the devices.",
+    "dateAdded": "2024-01-24T22:25:02.392Z"
+  },
+  {
+    "url": "https://v0.dev/t/FuSoZ95obOb",
+    "label": "Template for prompt: a sleek mobile app view for selecting a test category ",
+    "dateAdded": "2024-01-24T22:25:02.392Z"
+  },
+  {
+    "url": "https://v0.dev/t/ONb6CkJENKD",
+    "label": "Template for prompt: shadcn input not focusable and sharch icon",
+    "dateAdded": "2024-01-24T22:25:02.392Z"
+  },
+  {
+    "url": "https://v0.dev/t/pbP5vkRlqAD",
+    "label": "Template for prompt: generate me small dropdown menu that is displaying checkboxes of roles",
+    "dateAdded": "2024-01-24T22:25:02.392Z"
+  },
+  {
+    "url": "https://v0.dev/t/jGpR0YcBBIK",
+    "label": "Template for prompt: a landing page for a oil brokerage company called aramart selling venezuelan oil",
+    "dateAdded": "2024-01-24T22:25:02.392Z"
+  },
+  {
+    "url": "https://v0.dev/t/nuYWObzMM49",
+    "label": "Template for prompt: Dark mode portifillo website for discord user bugsbirt and make it normal css",
+    "dateAdded": "2024-01-24T22:25:02.393Z"
+  },
+  {
+    "url": "https://v0.dev/t/5WPhdffxZVI",
+    "label": "Template for prompt: A page with a \"floating\" navbar on top, with round borders, like Apple's Dynamic Island, with the company logo on the left, three buttons in the center (Drinks, Shots, Trending), and the user icon on the right (with an integrated dropdown menu.",
+    "dateAdded": "2024-01-24T22:25:02.393Z"
+  },
+  {
+    "url": "https://v0.dev/t/I2GegLK4HiL",
+    "label": "Template for prompt: a dashboard for an inventory manager in dark mode",
+    "dateAdded": "2024-01-24T22:25:02.393Z"
+  },
+  {
+    "url": "https://v0.dev/t/6YycZrHX2uv",
+    "label": "Template for prompt: button",
+    "dateAdded": "2024-01-24T22:25:02.393Z"
   }
 ]
