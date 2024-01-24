@@ -64213,5 +64213,130 @@
     "url": "https://v0.dev/t/1BATkEdmVZL",
     "label": "Template for prompt: Beautify this design drawing",
     "dateAdded": "2024-01-24T02:35:02.336Z"
+  },
+  {
+    "url": "https://v0.dev/t/DpkNuJtOgZK",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T02:40:03.434Z"
+  },
+  {
+    "url": "https://v0.dev/t/bH8g7IIJ4JQ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T02:40:03.434Z"
+  },
+  {
+    "url": "https://v0.dev/t/2Vq1oIb8vaS",
+    "label": "Template for prompt: A chat interface with workspaces on the left, channels the the right of that, messages with threads in the center, and a channel inspection panel on the right",
+    "dateAdded": "2024-01-24T02:40:03.434Z"
+  },
+  {
+    "url": "https://v0.dev/t/0HB1TIgKBMm",
+    "label": "Template for prompt: a christmas button",
+    "dateAdded": "2024-01-24T02:40:03.434Z"
+  },
+  {
+    "url": "https://v0.dev/t/4XjQTv1hYXi",
+    "label": "Template for prompt: a sleek, modern, email entry popup modal, with submit button",
+    "dateAdded": "2024-01-24T02:40:03.434Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wv2FhKWdriU",
+    "label": "Template for prompt: two floating acttion buttons on the right bottom",
+    "dateAdded": "2024-01-24T02:40:03.434Z"
+  },
+  {
+    "url": "https://v0.dev/t/lqIFVGsByiU",
+    "label": "Template for prompt: book management dashboard",
+    "dateAdded": "2024-01-24T02:40:03.434Z"
+  },
+  {
+    "url": "https://v0.dev/t/nzTe24ebk4G",
+    "label": "Template for prompt: form",
+    "dateAdded": "2024-01-24T02:40:03.434Z"
+  },
+  {
+    "url": "https://v0.dev/t/8zt55ecNMJN",
+    "label": "Template for prompt: drop down context menu",
+    "dateAdded": "2024-01-24T02:40:03.435Z"
+  },
+  {
+    "url": "https://v0.dev/t/PMsWVncEAaq",
+    "label": "Template for prompt: web ai app, 3 blocks, the middle to upload an image, first block to result test and third block for ads, great and smooth design",
+    "dateAdded": "2024-01-24T02:40:03.435Z"
+  },
+  {
+    "url": "https://v0.dev/t/KCet5wxUVX1",
+    "label": "Template for prompt: web ai app, 3 blocks, the middle to upload an image, first block to result test and third block for ads, great and smooth design",
+    "dateAdded": "2024-01-24T02:40:03.435Z"
+  },
+  {
+    "url": "https://v0.dev/t/afxOF553kjS",
+    "label": "Template for prompt: a form with name  password email qq",
+    "dateAdded": "2024-01-24T02:40:03.435Z"
+  },
+  {
+    "url": "https://v0.dev/t/s0L0ju3TJzU",
+    "label": "Template for prompt: a coca cola search bar",
+    "dateAdded": "2024-01-24T02:40:03.435Z"
+  },
+  {
+    "url": "https://v0.dev/t/xiKnp0n22IM",
+    "label": "Template for prompt: Features List\nUser Registration and Login\nSecure sign-up and login process.\nSocial media account integration for easy registration.\nBrowsing and Searching Coupons\nIntuitive interface for browsing various discounts.\nAdvanced search functionality with filters such as category, location, and popularity.\nGeolocation-based Filtering\nGeolocation technology to show relevant offers based on the user's current location.\nPush Notifications\nReal-time notifications for new deals and expiring coupons.\nCustomizable notification settings based on user preferences.\nSocial Media Integration\nOptions to share deals on various social media platforms.\nReferral program to incentivize users for sharing the app with friends.\nUser Feedback and Rating System\nMechanism for users to rate and review coupons and stores.\nFeedback loop for businesses to improve their offers.",
+    "dateAdded": "2024-01-24T02:40:03.435Z"
+  },
+  {
+    "url": "https://v0.dev/t/DBs2YRcClQY",
+    "label": "Template for prompt: 3 columns blog post listing",
+    "dateAdded": "2024-01-24T02:40:03.435Z"
+  },
+  {
+    "url": "https://v0.dev/t/1L9w4YdppXo",
+    "label": "Template for prompt: multi step vertical form",
+    "dateAdded": "2024-01-24T02:40:03.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/gG0c9ZNIOwh",
+    "label": "Template for prompt: A full bakery and coffee landing page with all sections included",
+    "dateAdded": "2024-01-24T02:40:03.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/mrBylR7phPK",
+    "label": "Template for prompt: multi step form",
+    "dateAdded": "2024-01-24T02:40:03.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/49OOK1Ouw6i",
+    "label": "Template for prompt: 帮我生成一个学员管理系统，包括学员信息管理、成绩管理、课程管理。风格简洁",
+    "dateAdded": "2024-01-24T02:40:03.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/38PXyxZPBlT",
+    "label": "Template for prompt: Generate a link element that is a link for www.mypage.com/profile/link/[userId]\n\nThis is a card that has 2 options in a radio. 1 is \"I have a link\", which does not do anything for now. The other is \"I want to generate and send a link\"\n\nIf they click the \"I want to generate and send a link\", A text box that is autofilled with their Id as theabove comes up that they cannot modify, and they have a copy button on the right of the text box.\n\nUnderneath, there is also an email icon button, that for now doesn't have any logic to it.\n\nUse the shadcn/ui library for this please.",
+    "dateAdded": "2024-01-24T02:40:03.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/SRQsdK2ioo8",
+    "label": "Template for prompt: Homepage for Child Emotional Disorder Development Assessment: Sign Up, Log In, Password Recovery",
+    "dateAdded": "2024-01-24T02:40:03.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/3pOxHhbi88w",
+    "label": "Template for prompt: 生成一个个人博客页面，要包含头图和文章列表",
+    "dateAdded": "2024-01-24T02:40:03.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/DkxisWUrS3y",
+    "label": "Template for prompt: interview page",
+    "dateAdded": "2024-01-24T02:40:03.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/z9u8T7ezXbi",
+    "label": "Template for prompt: Generate a link element that is a link for www.mypage.com/profile/link/[userId]\n\nThis is a card that has 2 options in a radio. 1 is \"I have a link\", which does not do anything for now. The other is \"I want to generate and send a link\"\n\nIf they click the \"I want to generate and send a link\", A text box that is autofilled with their Id as theabove comes up that they cannot modify, and they have a copy button on the right of the text box.\n\nUnderneath, there is also an email icon button, that for now doesn't have any logic to it.",
+    "dateAdded": "2024-01-24T02:40:03.436Z"
+  },
+  {
+    "url": "https://v0.dev/t/uYqJk1SJWWv",
+    "label": "Template for prompt: generate a profile page that is part of dashboard layout",
+    "dateAdded": "2024-01-24T02:40:03.437Z"
   }
 ]
