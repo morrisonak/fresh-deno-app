@@ -72148,5 +72148,135 @@
     "url": "https://v0.dev/t/hjsD6jcl6ic",
     "label": "Template for prompt: menubar",
     "dateAdded": "2024-01-24T20:30:02.808Z"
+  },
+  {
+    "url": "https://v0.dev/t/ylX2dprTTIy",
+    "label": "Template for prompt: i want an stylish progress bar with amounts of credits used 50/100",
+    "dateAdded": "2024-01-24T20:35:02.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/35BVO8T1n3I",
+    "label": "Template for prompt: create a simple html & css email template that represents my brand. we are creating AI agents and our company is called \"Band\"",
+    "dateAdded": "2024-01-24T20:35:02.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/8wB5eq05tzE",
+    "label": "Template for prompt: A carousel horizontal which ifnite slides with my latest commits, text no bg display about 10 per 100vw",
+    "dateAdded": "2024-01-24T20:35:02.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/M2JyefcKTXm",
+    "label": "Template for prompt: simple responsive grid with product charasteristics (weight, height, width, etc). Tailwindcss",
+    "dateAdded": "2024-01-24T20:35:02.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zqd46J86duw",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-24T20:35:02.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/7dSdeIyvZ3e",
+    "label": "Template for prompt: Home page with four photos (A Device, A Labware, A Driver, A System Builder) in a grid with text when you hover over it that describes each item",
+    "dateAdded": "2024-01-24T20:35:02.558Z"
+  },
+  {
+    "url": "https://v0.dev/t/XlPEpdNqRIz",
+    "label": "Template for prompt: improve this form, turn it more beautiful and divide by sections like it could have a location section grouping bairro, cep, endereco",
+    "dateAdded": "2024-01-24T20:35:02.558Z"
+  },
+  {
+    "url": "https://v0.dev/t/MhxmzqWV2Uc",
+    "label": "Template for prompt: improve this form, turn it more beautiful and divide by sections like it could have a location section grouping bairro, cep, endereco",
+    "dateAdded": "2024-01-24T20:35:02.558Z"
+  },
+  {
+    "url": "https://v0.dev/t/vBpeGv4UhJ2",
+    "label": "Template for prompt: improve this form, turn it more beautiful and divide by sections like it could have a location section grouping bairro, cep, endereco",
+    "dateAdded": "2024-01-24T20:35:02.558Z"
+  },
+  {
+    "url": "https://v0.dev/t/1j0lbskYMtL",
+    "label": "Template for prompt: Hazme un landing page de una pyme llamada Falabella que vende ropa",
+    "dateAdded": "2024-01-24T20:35:02.559Z"
+  },
+  {
+    "url": "https://v0.dev/t/LwLonEKkc5y",
+    "label": "Template for prompt: Could you create a checkbox with react with the same styles as the antd one",
+    "dateAdded": "2024-01-24T20:35:02.559Z"
+  },
+  {
+    "url": "https://v0.dev/t/OorabBxFcVz",
+    "label": "Template for prompt: The choice of difficulty for test",
+    "dateAdded": "2024-01-24T20:35:02.559Z"
+  },
+  {
+    "url": "https://v0.dev/t/wkivnVoYBIe",
+    "label": "Template for prompt: personal website navbar; logo centered and in circle; navlinks are to the sides of logo",
+    "dateAdded": "2024-01-24T20:35:02.559Z"
+  },
+  {
+    "url": "https://v0.dev/t/WZnfQY9ZKrW",
+    "label": "Template for prompt: a banner that is simple and has a call to action for user to click and open the contact page",
+    "dateAdded": "2024-01-24T20:35:02.559Z"
+  },
+  {
+    "url": "https://v0.dev/t/aweABZJsm6d",
+    "label": "Template for prompt: create a ecommerce site where i sell books",
+    "dateAdded": "2024-01-24T20:35:02.560Z"
+  },
+  {
+    "url": "https://v0.dev/t/2fFaHClF4fv",
+    "label": "Template for prompt: A landing page for a blog about surfing",
+    "dateAdded": "2024-01-24T20:35:02.560Z"
+  },
+  {
+    "url": "https://v0.dev/t/0AkTikyp5Sh",
+    "label": "Template for prompt: Delivery mobile app",
+    "dateAdded": "2024-01-24T20:35:02.560Z"
+  },
+  {
+    "url": "https://v0.dev/t/T3uTZu2IO2u",
+    "label": "Template for prompt: create an event calculator form with input for number of guest, ticket price and total income",
+    "dateAdded": "2024-01-24T20:35:02.560Z"
+  },
+  {
+    "url": "https://v0.dev/t/iNmTouPthQ1",
+    "label": "Template for prompt: navbar max width 80 rem",
+    "dateAdded": "2024-01-24T20:35:02.560Z"
+  },
+  {
+    "url": "https://v0.dev/t/UWIg58ywrHy",
+    "label": "Template for prompt: some charts",
+    "dateAdded": "2024-01-24T20:35:02.560Z"
+  },
+  {
+    "url": "https://v0.dev/t/0ncELE5odBZ",
+    "label": "Template for prompt: I have a portfolio page website made for mobile phones. At the top it shows the total value of the portfolio and the available cash. there is a search command that has all the sticks that can be added. Below that is a table with Ticker, Price per share, Total market value, and shares. In the shares column, there are 3 items. A + and - button for adding more shares and the total owned in between. update button at the bottom the save ",
+    "dateAdded": "2024-01-24T20:35:02.561Z"
+  },
+  {
+    "url": "https://v0.dev/t/C9jqC2ZCA2S",
+    "label": "Template for prompt: A mobile overview of motorcyles the user owns. The individual components should contain: brand, horsepower, displacement, name, year. It should also feature an image",
+    "dateAdded": "2024-01-24T20:35:02.561Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z9GneXbfOU8",
+    "label": "Template for prompt: quiz card with 4 answer variants with black background and white text and yellow buttons ",
+    "dateAdded": "2024-01-24T20:35:02.561Z"
+  },
+  {
+    "url": "https://v0.dev/t/E8E2K4RP5y8",
+    "label": "Template for prompt: when i annotate over a word, populate a popover with a serarch function in the popover (have the cursor in the search ready for me to start typing in a label), under the search populate 2-3 suggestions for the word annotated. If I type in something, prepopulate suggestions based on a list of attributes that are relevant for loan underwriting.",
+    "dateAdded": "2024-01-24T20:35:02.561Z"
+  },
+  {
+    "url": "https://v0.dev/t/kM9ucQ7YHBZ",
+    "label": "Template for prompt: create a best page to interface a record application The easiest screen recorder you’ll ever use,\nRecord in a few clicks. the best interface to record application",
+    "dateAdded": "2024-01-24T20:35:02.561Z"
+  },
+  {
+    "url": "https://v0.dev/t/fNxXeCgypI9",
+    "label": "Template for prompt: a flat form imput with clear background and just a simple bottom black border",
+    "dateAdded": "2024-01-24T20:35:02.562Z"
   }
 ]
