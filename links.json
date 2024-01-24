@@ -70223,5 +70223,130 @@
     "url": "https://v0.dev/t/uQta7NlSaLw",
     "label": "Template for prompt: Shinny border card",
     "dateAdded": "2024-01-24T19:15:02.604Z"
+  },
+  {
+    "url": "https://v0.dev/t/pqx7UKUSbym",
+    "label": "Template for prompt: Create a dashboard for a warehouse management platform (Inbound and outbound), with a sidebar, minimalist UX/UI",
+    "dateAdded": "2024-01-24T19:20:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/i9tVrSXOTWJ",
+    "label": "Template for prompt: re-create this resume ",
+    "dateAdded": "2024-01-24T19:20:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/IoybdtyOCGZ",
+    "label": "Template for prompt: A grocery list todo app",
+    "dateAdded": "2024-01-24T19:20:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/bxzG3ukQWSf",
+    "label": "Template for prompt: Create a card with checkboxes for every hour of the day from 9am to 11pm",
+    "dateAdded": "2024-01-24T19:20:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/jmiTzfKsT8X",
+    "label": "Template for prompt: a website to promote a party in a 90ties disco style",
+    "dateAdded": "2024-01-24T19:20:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/OKQud26hEs3",
+    "label": "Template for prompt: main dashboard view welcoming user and nice ui ",
+    "dateAdded": "2024-01-24T19:20:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/yrUmiHXt1zV",
+    "label": "Template for prompt: generate a resume",
+    "dateAdded": "2024-01-24T19:20:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/tXKVpJ0thtH",
+    "label": "Template for prompt: Make a 2 columns of rectangular sections with 2 rows in view and hovering upon one rectangular should enlarge it and others should get small, allowing the big one to take up space",
+    "dateAdded": "2024-01-24T19:20:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/zWNs0j6ZUmN",
+    "label": "Template for prompt: generate html and css",
+    "dateAdded": "2024-01-24T19:20:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/COpBBZical6",
+    "label": "Template for prompt: Lovework Studio combines brand strategy with AI mindset to create identities and experiences that people love.",
+    "dateAdded": "2024-01-24T19:20:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/Selc96cTQ6p",
+    "label": "Template for prompt: Create me a no data component that could be used instead of a grid view and table view.",
+    "dateAdded": "2024-01-24T19:20:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/riGKgi8S6xl",
+    "label": "Template for prompt: dark mode login form",
+    "dateAdded": "2024-01-24T19:20:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/0XDt8RgLSvC",
+    "label": "Template for prompt: A  professional Resume template for students pursuing career in Software / looking to start caareer in Software.",
+    "dateAdded": "2024-01-24T19:20:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/1L2CO3f1CZE",
+    "label": "Template for prompt: tulipanes con mensajes cada que se tocan 2 veces celular",
+    "dateAdded": "2024-01-24T19:20:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/UN7bviCLuEW",
+    "label": "Template for prompt: Github stats",
+    "dateAdded": "2024-01-24T19:20:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/uhBNj6pqhPP",
+    "label": "Template for prompt: I need a captivating landing page for my payment processor called IANRemit. Include a clients section as well as banks and mobile money providers we have integrated. Make sure there are CTAs to get them to sign up",
+    "dateAdded": "2024-01-24T19:20:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/R5aGgOhn1V2",
+    "label": "Template for prompt: I want to generate a set of cards that describe different free tools on my website. I want to have a logo, title and a shrot descirption on each of the cards.",
+    "dateAdded": "2024-01-24T19:20:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/Sgpocxh0s16",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-24T19:20:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/NqNwpEeyInV",
+    "label": "Template for prompt: A single page marketing screen advertising my online darts league table manager",
+    "dateAdded": "2024-01-24T19:20:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/BGg6mv9ATJN",
+    "label": "Template for prompt: wordpress elementor page to anounce a public tender",
+    "dateAdded": "2024-01-24T19:20:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/DjN0TwhKmhG",
+    "label": "Template for prompt: build a login form",
+    "dateAdded": "2024-01-24T19:20:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/f0HuHqnJcG4",
+    "label": "Template for prompt: A departure board with integrated public service annoucement messages, realtime delays, realtime bus locations and weather conditions. It should be staticly displayed without interaction from the user, except maybe simple ones, like scrolling or pushing a single button. If something like this happens, it should reset after a while though. I want it to be full screen. The main content will be the departure board with stop name, bus name, direction, departure, delay. the public annoucements and current weather conditions should be part of the footer. If there is multiple annoucements, they should automatically scroll though.",
+    "dateAdded": "2024-01-24T19:20:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/v4kEmCEuszP",
+    "label": "Template for prompt: Responsive top navigation bar for a blog and portfolio website, with a a home page link at the top left, a dark mode toggle on the right, and navigation links always centered",
+    "dateAdded": "2024-01-24T19:20:02.954Z"
+  },
+  {
+    "url": "https://v0.dev/t/OiecmdXaSGG",
+    "label": "Template for prompt: footer",
+    "dateAdded": "2024-01-24T19:20:02.955Z"
+  },
+  {
+    "url": "https://v0.dev/t/W0sQ718jXRx",
+    "label": "Template for prompt: input ",
+    "dateAdded": "2024-01-24T19:20:02.955Z"
   }
 ]
