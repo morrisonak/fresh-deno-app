@@ -77003,5 +77003,135 @@
     "url": "https://v0.dev/t/rhMfVVT1bBX",
     "label": "Template for prompt: a white button with rounded corners and light gray border that says \"Add provider\" that has a plus on the left of the text",
     "dateAdded": "2024-01-24T23:40:02.628Z"
+  },
+  {
+    "url": "https://v0.dev/t/yukpnhLWMgh",
+    "label": "Template for prompt: make me a minimalist erp sidebar",
+    "dateAdded": "2024-01-24T23:45:02.763Z"
+  },
+  {
+    "url": "https://v0.dev/t/z27Uk5iTG8G",
+    "label": "Template for prompt: Generate a login Page. The user can only login with the email and password. Those inputs are contained in some kind of Card component (in desktop) in mobile they just float. On top of the inputs there should be a big welcome message with a description beneath that tells the user to sign up if he have an account",
+    "dateAdded": "2024-01-24T23:45:02.764Z"
+  },
+  {
+    "url": "https://v0.dev/t/bNtjCH71D1m",
+    "label": "Template for prompt: A mobile app for a pet shop",
+    "dateAdded": "2024-01-24T23:45:02.764Z"
+  },
+  {
+    "url": "https://v0.dev/t/uMgOqpLI3Ph",
+    "label": "Template for prompt: An invoices table listing status, payment amounts, and other pertinent information",
+    "dateAdded": "2024-01-24T23:45:02.764Z"
+  },
+  {
+    "url": "https://v0.dev/t/arUTVOiz202",
+    "label": "Template for prompt: A card with white background, with cards inside in this order\n\n1 1\n1 1 1 1\n1 1",
+    "dateAdded": "2024-01-24T23:45:02.764Z"
+  },
+  {
+    "url": "https://v0.dev/t/5hc2ZzhxGs8",
+    "label": "Template for prompt: card to show the status of an in progress speedrun race. fields: game - category - current time - created by - amount of players - current leader",
+    "dateAdded": "2024-01-24T23:45:02.764Z"
+  },
+  {
+    "url": "https://v0.dev/t/AjTapocYGDk",
+    "label": "Template for prompt: build this navbar",
+    "dateAdded": "2024-01-24T23:45:02.764Z"
+  },
+  {
+    "url": "https://v0.dev/t/1G5kJHKz771",
+    "label": "Template for prompt: web developer hero section",
+    "dateAdded": "2024-01-24T23:45:02.764Z"
+  },
+  {
+    "url": "https://v0.dev/t/wE5fezz53eC",
+    "label": "Template for prompt: web developer hero section",
+    "dateAdded": "2024-01-24T23:45:02.764Z"
+  },
+  {
+    "url": "https://v0.dev/t/JAyfvUKurkS",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-24T23:45:02.765Z"
+  },
+  {
+    "url": "https://v0.dev/t/3g8ALIUX8um",
+    "label": "Template for prompt: create a nice navigation bar",
+    "dateAdded": "2024-01-24T23:45:02.765Z"
+  },
+  {
+    "url": "https://v0.dev/t/jnFL63FdDQl",
+    "label": "Template for prompt: create a page for a teacher to review an assignment. seeing the students and a section to see a summary of the assignment",
+    "dateAdded": "2024-01-24T23:45:02.765Z"
+  },
+  {
+    "url": "https://v0.dev/t/UWZ57qMBoII",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T23:45:02.765Z"
+  },
+  {
+    "url": "https://v0.dev/t/kvJKohXhS8X",
+    "label": "Template for prompt: An educational platform equipped with video progress tracking capabilities.",
+    "dateAdded": "2024-01-24T23:45:02.765Z"
+  },
+  {
+    "url": "https://v0.dev/t/w7BByUUgNbr",
+    "label": "Template for prompt: Automated, traceable and regulated software lifecycle management",
+    "dateAdded": "2024-01-24T23:45:02.765Z"
+  },
+  {
+    "url": "https://v0.dev/t/0OBNvRU9KHj",
+    "label": "Template for prompt: Create UI elements for this Login Page design",
+    "dateAdded": "2024-01-24T23:45:02.765Z"
+  },
+  {
+    "url": "https://v0.dev/t/poZfrNI693V",
+    "label": "Template for prompt: hazme una app de busqueda de pais, estado, provincia",
+    "dateAdded": "2024-01-24T23:45:02.766Z"
+  },
+  {
+    "url": "https://v0.dev/t/umfyyCQQmJg",
+    "label": "Template for prompt: an educational platform that tracks video progress",
+    "dateAdded": "2024-01-24T23:45:02.766Z"
+  },
+  {
+    "url": "https://v0.dev/t/1MuXnEOHSxj",
+    "label": "Template for prompt: dropdown",
+    "dateAdded": "2024-01-24T23:45:02.766Z"
+  },
+  {
+    "url": "https://v0.dev/t/fcwH7q26fbR",
+    "label": "Template for prompt: dashboard for chosing algorythms to learn and code",
+    "dateAdded": "2024-01-24T23:45:02.766Z"
+  },
+  {
+    "url": "https://v0.dev/t/BBxt4NP5IeX",
+    "label": "Template for prompt: A minimalist landing page in Spanish ",
+    "dateAdded": "2024-01-24T23:45:02.766Z"
+  },
+  {
+    "url": "https://v0.dev/t/Je3nR0m4Tkw",
+    "label": "Template for prompt: Make a jiu-jitsu academy website",
+    "dateAdded": "2024-01-24T23:45:02.766Z"
+  },
+  {
+    "url": "https://v0.dev/t/HRivvgZ0rf1",
+    "label": "Template for prompt: Connected Lifecycle Management platform for regulated medical applications",
+    "dateAdded": "2024-01-24T23:45:02.766Z"
+  },
+  {
+    "url": "https://v0.dev/t/SW3kgEecejr",
+    "label": "Template for prompt: Create an HTML and CSS layout for a 'Solutions' section on a tech company website, highlighting the four key solution lines: RAGA (Retrieve, Automate, Generate, Analyze). The section should be visually appealing and informative, making it easy for visitors to understand the unique features of each solution. Specific requirements are as follows:\n\nSection Layout and Design:\n\nStart with a bold header: 'Our Solutions: RAGA'.\nUse a modern, legible font and a color scheme that matches the company's branding.\nDesign a grid layout with four boxes or cards, each representing one of the solution lines (Retrieve, Automate, Generate, Analyze).\nEach box should have a distinct icon or image that symbolizes the solution it represents.\nInclude subtle animations or hover effects to enhance user engagement.\nContent Structure:\n\nEach solution box should contain:\nA sub-header with the name of the solution (e.g., 'Retrieve').\nA brief, clear description of the solution, focusing on its main features and bene",
+    "dateAdded": "2024-01-24T23:45:02.766Z"
+  },
+  {
+    "url": "https://v0.dev/t/yeWcoFbfXgp",
+    "label": "Template for prompt: article feeds layout",
+    "dateAdded": "2024-01-24T23:45:02.766Z"
+  },
+  {
+    "url": "https://v0.dev/t/uISomYIANCs",
+    "label": "Template for prompt: Create a landing page for a university whose main style is a book with different pages containing information and the color palette is blue with white.\n\nEach page looks like sheets and must be defined from left to right each sheet.",
+    "dateAdded": "2024-01-24T23:45:02.767Z"
   }
 ]
