@@ -66533,5 +66533,135 @@
     "url": "https://v0.dev/t/UKFq7dRBtO0",
     "label": "Template for prompt: make me a form login with password obscured button",
     "dateAdded": "2024-01-24T15:40:04.000Z"
+  },
+  {
+    "url": "https://v0.dev/t/Xw7uD3kjknd",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-24T15:45:04.248Z"
+  },
+  {
+    "url": "https://v0.dev/t/XPheVGzP0Xt",
+    "label": "Template for prompt: A header component with profile and two links on the right and a logo on the left",
+    "dateAdded": "2024-01-24T15:45:04.248Z"
+  },
+  {
+    "url": "https://v0.dev/t/QX9w4dU3iku",
+    "label": "Template for prompt: github like pull requests page",
+    "dateAdded": "2024-01-24T15:45:04.248Z"
+  },
+  {
+    "url": "https://v0.dev/t/npguvS6Qflv",
+    "label": "Template for prompt: Can you build a card component exactly like on the image?",
+    "dateAdded": "2024-01-24T15:45:04.249Z"
+  },
+  {
+    "url": "https://v0.dev/t/YetXWMxiOHb",
+    "label": "Template for prompt: An products page for a small business",
+    "dateAdded": "2024-01-24T15:45:04.249Z"
+  },
+  {
+    "url": "https://v0.dev/t/4bjd3q5DlEM",
+    "label": "Template for prompt: airbnb feed for accomodation",
+    "dateAdded": "2024-01-24T15:45:04.249Z"
+  },
+  {
+    "url": "https://v0.dev/t/oLMjJ4WHiVE",
+    "label": "Template for prompt: can you create a page where it shows exercise details after i click on its specific card? attached is the page where the exercise is",
+    "dateAdded": "2024-01-24T15:45:04.249Z"
+  },
+  {
+    "url": "https://v0.dev/t/FDsJSMKJqqM",
+    "label": "Template for prompt: analytics for an email archiver ",
+    "dateAdded": "2024-01-24T15:45:04.249Z"
+  },
+  {
+    "url": "https://v0.dev/t/zhcSy3kWu9s",
+    "label": "Template for prompt: Make this splash for a virtual therapist system, with spiritual undertones, more modern and professional.",
+    "dateAdded": "2024-01-24T15:45:04.250Z"
+  },
+  {
+    "url": "https://v0.dev/t/gCpk7K4PtBp",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-24T15:45:04.250Z"
+  },
+  {
+    "url": "https://v0.dev/t/CU0m0ehUm2c",
+    "label": "Template for prompt: 2 columes left text, next and prev button en right a image slider",
+    "dateAdded": "2024-01-24T15:45:04.250Z"
+  },
+  {
+    "url": "https://v0.dev/t/P7geFtDAsWP",
+    "label": "Template for prompt: airbnb clone",
+    "dateAdded": "2024-01-24T15:45:04.250Z"
+  },
+  {
+    "url": "https://v0.dev/t/G8XaBvq4fh9",
+    "label": "Template for prompt: Products detail page",
+    "dateAdded": "2024-01-24T15:45:04.250Z"
+  },
+  {
+    "url": "https://v0.dev/t/GPkjKtj2RmD",
+    "label": "Template for prompt: A horizontal input bar. 2 input fields and a submit (search button). The input boxes have rounded corners, and icons on the left side. The submit button is a red circle and hovers to the right of the right input field",
+    "dateAdded": "2024-01-24T15:45:04.251Z"
+  },
+  {
+    "url": "https://v0.dev/t/2yV8tRrI8G1",
+    "label": "Template for prompt: A client check in modal",
+    "dateAdded": "2024-01-24T15:45:04.251Z"
+  },
+  {
+    "url": "https://v0.dev/t/gWPdMac3lAC",
+    "label": "Template for prompt: Make a recent activity list by this user ",
+    "dateAdded": "2024-01-24T15:45:04.251Z"
+  },
+  {
+    "url": "https://v0.dev/t/ubCbkSZdYbY",
+    "label": "Template for prompt: a list of skills needed for a job, with relevance score, sorted,  a lot of skills, search, filter, user friendly",
+    "dateAdded": "2024-01-24T15:45:04.251Z"
+  },
+  {
+    "url": "https://v0.dev/t/NJFIfoeTEbk",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T15:45:04.251Z"
+  },
+  {
+    "url": "https://v0.dev/t/Rb6QjXirwDb",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T15:45:04.252Z"
+  },
+  {
+    "url": "https://v0.dev/t/cMkDk780Nrx",
+    "label": "Template for prompt: can you make a ui for Pomodoro timer",
+    "dateAdded": "2024-01-24T15:45:04.252Z"
+  },
+  {
+    "url": "https://v0.dev/t/2YpYbbZeNVQ",
+    "label": "Template for prompt: can you make a ui for Pomodoro timer",
+    "dateAdded": "2024-01-24T15:45:04.252Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZJtLIeDHJho",
+    "label": "Template for prompt: Make an attractive glass effect card for a black background ,6 cards and 3 in row and another 3 in second row",
+    "dateAdded": "2024-01-24T15:45:04.252Z"
+  },
+  {
+    "url": "https://v0.dev/t/B0nTl0Xxagu",
+    "label": "Template for prompt: Minimalist and simple page for benchmarking gpt prompts.\nShould have json formated text area input field to leave gpt prompt and then list of cases with output next to it",
+    "dateAdded": "2024-01-24T15:45:04.252Z"
+  },
+  {
+    "url": "https://v0.dev/t/LuSElBSF18d",
+    "label": "Template for prompt: Analytics dashboard for ads",
+    "dateAdded": "2024-01-24T15:45:04.252Z"
+  },
+  {
+    "url": "https://v0.dev/t/GqNfYCHU2wo",
+    "label": "Template for prompt: Portfolio website",
+    "dateAdded": "2024-01-24T15:45:04.253Z"
+  },
+  {
+    "url": "https://v0.dev/t/js16D95427j",
+    "label": "Template for prompt: a header and searchable input with options from very low to very high difficulty and another input with how many points as well as a submit button",
+    "dateAdded": "2024-01-24T15:45:04.253Z"
   }
 ]
