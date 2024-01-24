@@ -61658,5 +61658,130 @@
     "url": "https://v0.dev/t/5GzvkBpViZA",
     "label": "Template for prompt: A list of product categories with image, name and description.",
     "dateAdded": "2024-01-24T00:55:02.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/DIHMUQf8fZv",
+    "label": "Template for prompt: a landing page for a bus ticketing and logistics platform called swift",
+    "dateAdded": "2024-01-24T01:00:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/AP6ZLNzklzH",
+    "label": "Template for prompt: Fullstack application for building african languages courses using AI",
+    "dateAdded": "2024-01-24T01:00:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/ceNdnN1qPSE",
+    "label": "Template for prompt: recreate this product listing grid in tailwind. The header is sticky and has some features, a total product counter on the left-side. the right side, has 2 buttons to show the grid consists of 2 columns or 3 columns and shows which is active. There's also a dropdown for the names of the product that user can search. ",
+    "dateAdded": "2024-01-24T01:00:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/T48IYTrxxN8",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T01:00:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/CTW0xYFbp3t",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T01:00:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/pQ4D5FePeLZ",
+    "label": "Template for prompt: Create invoice details page based on that page",
+    "dateAdded": "2024-01-24T01:00:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/LvXIttDhf1s",
+    "label": "Template for prompt: Create invoice details page based on that page",
+    "dateAdded": "2024-01-24T01:00:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/71H5AEN98pa",
+    "label": "Template for prompt: line graph based on numeric inputs",
+    "dateAdded": "2024-01-24T01:00:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/7SOsaId708g",
+    "label": "Template for prompt: Create a transaction table",
+    "dateAdded": "2024-01-24T01:00:03.303Z"
+  },
+  {
+    "url": "https://v0.dev/t/cr24NLVLtVI",
+    "label": "Template for prompt: Create a web page UX which shows a marketplace of adapters that are available for users to pick from. The names of adapters should be Referral MD API, Referral MD App, Unite Us API, Unite US App, ZS Prior Auth App",
+    "dateAdded": "2024-01-24T01:00:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qy3QccjKvo5",
+    "label": "Template for prompt: A web page with counter and two buttins to increase and decrease the value of that counter.",
+    "dateAdded": "2024-01-24T01:00:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/0s0KxovUBqM",
+    "label": "Template for prompt: NextJS Video hero image .mp4 2min video video ",
+    "dateAdded": "2024-01-24T01:00:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/c837s4iYvxe",
+    "label": "Template for prompt: a list of horizontal nav links based on array of values. any links that doesn't fit the parent component are hidden. if there are more links than parent component width, there is see more button. when you click it let's you scroll horizontally. active links are always in the second place. regular color for text is black. active color is blue",
+    "dateAdded": "2024-01-24T01:00:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/ut0jnQ5cK79",
+    "label": "Template for prompt: a mobile view for a crowdsourced bus booking service. The interface should showcase four distinct cards. Each card represents a bus service to one of the following four major MRT hubs in Singapore from “Stadium”: Dhoby Ghaut, Jurong East, Woodlands, and Changi Airport. Display the ticket price as $14.99 on each card. Include a visual representation of the bus’s capacity and status indicators like “Selling Fast” (in red) or “Available” (in green). The design should be intuitive and engaging, tailored for a mobile user experience.",
+    "dateAdded": "2024-01-24T01:00:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/jzG3iuUNtWD",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-24T01:00:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/KlWC7wEmkpX",
+    "label": "Template for prompt: a form where you can add multiple contact records",
+    "dateAdded": "2024-01-24T01:00:03.304Z"
+  },
+  {
+    "url": "https://v0.dev/t/OU8zDNqPdBe",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T01:00:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/DpTxFPBQNWu",
+    "label": "Template for prompt: I need a page that can interface with the user's selected audio input and output devices, and when the user starts talking the audio is recorded into mp3.  When the user is done talking the recording will be sent over an api call",
+    "dateAdded": "2024-01-24T01:00:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/DajEhKEsXst",
+    "label": "Template for prompt: A dark colored hero section with colorful blured shapes in the background.",
+    "dateAdded": "2024-01-24T01:00:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qo751ZD2Gtt",
+    "label": "Template for prompt: Create a button like this",
+    "dateAdded": "2024-01-24T01:00:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/Cc4DfiQ7am6",
+    "label": "Template for prompt: a hero landing page for a AI Interview SAAS",
+    "dateAdded": "2024-01-24T01:00:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/9lxLyIblkuR",
+    "label": "Template for prompt: A car rental confirmation page",
+    "dateAdded": "2024-01-24T01:00:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/5XKfNvr8saC",
+    "label": "Template for prompt: 3d trend analysis visualizaton dashbpard, insights and realtime data updating at the top of the nav bar, advanced seller dashboard",
+    "dateAdded": "2024-01-24T01:00:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/UebO9BjRmkT",
+    "label": "Template for prompt: I need a dashboard design that shows me my different automatic process, name, portal logo, start time and finish time of the process, number of companies affected by them, and some information about the linux server",
+    "dateAdded": "2024-01-24T01:00:03.305Z"
+  },
+  {
+    "url": "https://v0.dev/t/ikg71u18VAO",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T01:00:03.305Z"
   }
 ]
