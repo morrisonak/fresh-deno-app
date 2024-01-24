@@ -63573,5 +63573,135 @@
     "url": "https://v0.dev/t/FI1WroZZ7NM",
     "label": "Template for prompt: Pre-screening\nAfter an underwriter clicking on one of the properties on the queue, it will display the data below.\n\nAcceptance Criteria\nUnderwriters can see an up-to-date progress status for each property so they know what stage it's in - pre-screening, due diligence, approved, or rejected.\nUnderwriters can update any incorrect or outdated details about the property so they have accurate information for my evaluation.\nAfter reviewing all the data, underwriters can easily make a decision whether to proceed or reject a property submission so that the right next steps occur.\nFunctional Requirements\n\nUnderwriting Progress\nDisplay progress status of each deal: Pre-screening, Due Diligence, Approved for Listing, Rejected.\nDisplay progress status as a percentage for properties in initial screening and due diligence.\nProperty Details\nAutomatically populate fields with sponsor-submitted data, documents, and manual entries. Display detailed information about each property",
     "dateAdded": "2024-01-24T02:10:03.581Z"
+  },
+  {
+    "url": "https://v0.dev/t/hu54bqu7T3F",
+    "label": "Template for prompt: dashboard to see a list of customers who have submitted to a buy back website to sell their phones",
+    "dateAdded": "2024-01-24T02:15:02.881Z"
+  },
+  {
+    "url": "https://v0.dev/t/L0uLBqd3LBE",
+    "label": "Template for prompt: make me this desing fullly responsive",
+    "dateAdded": "2024-01-24T02:15:02.881Z"
+  },
+  {
+    "url": "https://v0.dev/t/9w5zC22zhHQ",
+    "label": "Template for prompt: make me this desing fullly responsive",
+    "dateAdded": "2024-01-24T02:15:02.881Z"
+  },
+  {
+    "url": "https://v0.dev/t/oRS8NO8tdOh",
+    "label": "Template for prompt: Beautify this design drawing",
+    "dateAdded": "2024-01-24T02:15:02.881Z"
+  },
+  {
+    "url": "https://v0.dev/t/qIhgagwQMEH",
+    "label": "Template for prompt: create a minimalist login with react native",
+    "dateAdded": "2024-01-24T02:15:02.881Z"
+  },
+  {
+    "url": "https://v0.dev/t/2XnIkX8FM8X",
+    "label": "Template for prompt: 带多语言切换功能的 login 页面",
+    "dateAdded": "2024-01-24T02:15:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/6V0GOaF5H2G",
+    "label": "Template for prompt: landing page for inventory management page",
+    "dateAdded": "2024-01-24T02:15:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/4qkRER2Xmi1",
+    "label": "Template for prompt: a homepage for a digital artist , with sample works and menus",
+    "dateAdded": "2024-01-24T02:15:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/XhUWi6m2R7O",
+    "label": "Template for prompt: Create a modal window like this\nMake it all pure React code without using any libraries.\nBlur the area behind the modal window.",
+    "dateAdded": "2024-01-24T02:15:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/gGN0PjORXnz",
+    "label": "Template for prompt: 帮我画一个表单  使用react  表单里面有年龄、性别、班级字段，可以支持提交",
+    "dateAdded": "2024-01-24T02:15:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/qvQrmorcKXk",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-24T02:15:02.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/BmaAKmGyIRM",
+    "label": "Template for prompt: frequently asked questions for a apple buy back website",
+    "dateAdded": "2024-01-24T02:15:02.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/ezacMaeUHek",
+    "label": "Template for prompt: a form with the following fields: code_register, cpf, dateBirth, email, gender, name, phone, rg",
+    "dateAdded": "2024-01-24T02:15:02.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/fwChI3zxgnh",
+    "label": "Template for prompt: A saas dashboard showing the members of a project, how many paid seats are left, and a button to upgrade ",
+    "dateAdded": "2024-01-24T02:15:02.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/QqUQvPh6fXn",
+    "label": "Template for prompt: Create a product page for a Mexican tour highlighting the 'Cancun Adventure' package. Include a hero section with a large, attractive image of Cancun beaches, a brief intro with a catchy headline, and a 'Book Now' CTA button. Below, add a detailed itinerary with icons for activities like snorkeling and Mayan ruins tours. Use a card layout for tour options with images, prices, and a 'Learn More' button. Implement a FAQ accordion and customer testimonials section. Style with Tailwind CSS for a vibrant, responsive layout.",
+    "dateAdded": "2024-01-24T02:15:02.883Z"
+  },
+  {
+    "url": "https://v0.dev/t/oL9faBZC6El",
+    "label": "Template for prompt: Create a simple dashboard that has 3 big number charts on top, 2 line charts and then 2 bar graphs",
+    "dateAdded": "2024-01-24T02:15:02.884Z"
+  },
+  {
+    "url": "https://v0.dev/t/N7nlnUSJev8",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-24T02:15:02.884Z"
+  },
+  {
+    "url": "https://v0.dev/t/cLI1IDGGp9N",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T02:15:02.884Z"
+  },
+  {
+    "url": "https://v0.dev/t/O6KmCdwzOQs",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T02:15:02.884Z"
+  },
+  {
+    "url": "https://v0.dev/t/Mf2Tf3Yboox",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-24T02:15:02.884Z"
+  },
+  {
+    "url": "https://v0.dev/t/3n1lcKRNvuo",
+    "label": "Template for prompt: Create a web page UX which show a user creating a workflow by dragging from a catalog of capablities and bringing it to the middle of the page to construct a patient journey",
+    "dateAdded": "2024-01-24T02:15:02.884Z"
+  },
+  {
+    "url": "https://v0.dev/t/QyXKcpCe7h7",
+    "label": "Template for prompt: An ecommerce section of \"Build your PC based on the selected GPU\". Only three items, the selected GPU and two others that will be the CPU and Mother, all three items in the same horizontal div. GPU item will have an image, but CPU and mother items will have a placeholder. ",
+    "dateAdded": "2024-01-24T02:15:02.885Z"
+  },
+  {
+    "url": "https://v0.dev/t/bYh4p7g4RxW",
+    "label": "Template for prompt: an minimalist self hosting platform",
+    "dateAdded": "2024-01-24T02:15:02.885Z"
+  },
+  {
+    "url": "https://v0.dev/t/esut2gqPUX0",
+    "label": "Template for prompt: Create a main page for an informational page, which has 3 rows",
+    "dateAdded": "2024-01-24T02:15:02.885Z"
+  },
+  {
+    "url": "https://v0.dev/t/lRuhEA7gMrH",
+    "label": "Template for prompt: Create a main page for an informational page, which has 3 columns",
+    "dateAdded": "2024-01-24T02:15:02.885Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZPx1wrXfcCx",
+    "label": "Template for prompt: Data structures page",
+    "dateAdded": "2024-01-24T02:15:02.885Z"
   }
 ]
