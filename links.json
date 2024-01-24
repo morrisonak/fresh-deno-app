@@ -70473,5 +70473,135 @@
     "url": "https://v0.dev/t/Selc96cTQ6p",
     "label": "Template for prompt: Create me a no data component that could be used instead of a grid view and table view.",
     "dateAdded": "2024-01-24T19:25:02.847Z"
+  },
+  {
+    "url": "https://v0.dev/t/cwH4mE0kk2T",
+    "label": "Template for prompt: Confirmation of reservation on calendar page",
+    "dateAdded": "2024-01-24T19:30:03.145Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y7DE4HMMVZy",
+    "label": "Template for prompt: create tab component like this ",
+    "dateAdded": "2024-01-24T19:30:03.145Z"
+  },
+  {
+    "url": "https://v0.dev/t/8AJ78r4GDG8",
+    "label": "Template for prompt: create an app switcher sidebar",
+    "dateAdded": "2024-01-24T19:30:03.145Z"
+  },
+  {
+    "url": "https://v0.dev/t/BzelifGE6Lr",
+    "label": "Template for prompt: create best ui navigation for website ",
+    "dateAdded": "2024-01-24T19:30:03.146Z"
+  },
+  {
+    "url": "https://v0.dev/t/FmuVQZQx28z",
+    "label": "Template for prompt: I have a chat platform (in react native) and want a way for the users to give feedback. The screen has to have two icons (one for positive feedback and one for negative feedback) and when the user presses the button, a modal/prompt has to be shown for the user to provide addtional feedback",
+    "dateAdded": "2024-01-24T19:30:03.146Z"
+  },
+  {
+    "url": "https://v0.dev/t/v2xjGmaSjat",
+    "label": "Template for prompt: a dashboard of upload files",
+    "dateAdded": "2024-01-24T19:30:03.146Z"
+  },
+  {
+    "url": "https://v0.dev/t/qILks1FTfE9",
+    "label": "Template for prompt: create tab navbar like this ",
+    "dateAdded": "2024-01-24T19:30:03.146Z"
+  },
+  {
+    "url": "https://v0.dev/t/aGhxykSjUr2",
+    "label": "Template for prompt: A personal web developer home site",
+    "dateAdded": "2024-01-24T19:30:03.146Z"
+  },
+  {
+    "url": "https://v0.dev/t/QZkb0ZF9psB",
+    "label": "Template for prompt: hero page library mobile 1st",
+    "dateAdded": "2024-01-24T19:30:03.146Z"
+  },
+  {
+    "url": "https://v0.dev/t/8Nb4K8d20Vv",
+    "label": "Template for prompt: desenvolva um sidebar, menu lateral, diferente para esse front-end, algo bonito e inovador",
+    "dateAdded": "2024-01-24T19:30:03.146Z"
+  },
+  {
+    "url": "https://v0.dev/t/7m9WneOigLi",
+    "label": "Template for prompt: create tab navbar with tabs for home, mission, donate and login",
+    "dateAdded": "2024-01-24T19:30:03.147Z"
+  },
+  {
+    "url": "https://v0.dev/t/B6MHpunuChZ",
+    "label": "Template for prompt: website with community investments presented on map and table",
+    "dateAdded": "2024-01-24T19:30:03.147Z"
+  },
+  {
+    "url": "https://v0.dev/t/MNwWmZRHoyN",
+    "label": "Template for prompt: a personal website",
+    "dateAdded": "2024-01-24T19:30:03.147Z"
+  },
+  {
+    "url": "https://v0.dev/t/Svb95CxRI0q",
+    "label": "Template for prompt: Online events platform where users can login and publish a virtual event. Each published event is a card",
+    "dateAdded": "2024-01-24T19:30:03.147Z"
+  },
+  {
+    "url": "https://v0.dev/t/f2RVtgm0vNT",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T19:30:03.147Z"
+  },
+  {
+    "url": "https://v0.dev/t/pfodBGVWup7",
+    "label": "Template for prompt: give me a dashboard for admin that manages grocceries",
+    "dateAdded": "2024-01-24T19:30:03.147Z"
+  },
+  {
+    "url": "https://v0.dev/t/rwRqwoxiZnn",
+    "label": "Template for prompt: a website for a hair salon",
+    "dateAdded": "2024-01-24T19:30:03.147Z"
+  },
+  {
+    "url": "https://v0.dev/t/kklDnTBkIB8",
+    "label": "Template for prompt: A mobile app for recipies",
+    "dateAdded": "2024-01-24T19:30:03.148Z"
+  },
+  {
+    "url": "https://v0.dev/t/LyOhI2rBpkM",
+    "label": "Template for prompt: A playful looking league table for darts league. The table is split between two sub-leagues and should be viewable on the same page.",
+    "dateAdded": "2024-01-24T19:30:03.148Z"
+  },
+  {
+    "url": "https://v0.dev/t/9wDhiBLtJFt",
+    "label": "Template for prompt: make this on html",
+    "dateAdded": "2024-01-24T19:30:03.148Z"
+  },
+  {
+    "url": "https://v0.dev/t/kIIu1spMYOx",
+    "label": "Template for prompt: Online events platform where users can login to publish a virtual event. Must have a gallery of published events from different users.",
+    "dateAdded": "2024-01-24T19:30:03.148Z"
+  },
+  {
+    "url": "https://v0.dev/t/YVxsMGhp5VE",
+    "label": "Template for prompt: header stripe of a dashboard showing a avatar with an arrow on the left that will display a menu list where you could sign out ",
+    "dateAdded": "2024-01-24T19:30:03.148Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q5PrcNsjTYe",
+    "label": "Template for prompt: A hero page for a developer portfolio with text on the left and an image on the right",
+    "dateAdded": "2024-01-24T19:30:03.148Z"
+  },
+  {
+    "url": "https://v0.dev/t/gq55KGMU5d2",
+    "label": "Template for prompt: Checkbox  component typescript",
+    "dateAdded": "2024-01-24T19:30:03.148Z"
+  },
+  {
+    "url": "https://v0.dev/t/zVi9nNcIZiD",
+    "label": "Template for prompt: telegram, similar as in the picture",
+    "dateAdded": "2024-01-24T19:30:03.148Z"
+  },
+  {
+    "url": "https://v0.dev/t/jdd87cHDLe6",
+    "label": "Template for prompt: a \"about us\" section for homepage",
+    "dateAdded": "2024-01-24T19:30:03.149Z"
   }
 ]
