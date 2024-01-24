@@ -75318,5 +75318,130 @@
     "url": "https://v0.dev/t/nMCYeDVyTGL",
     "label": "Template for prompt: A financial dashboard",
     "dateAdded": "2024-01-24T22:35:02.480Z"
+  },
+  {
+    "url": "https://v0.dev/t/homUjVz3GD9",
+    "label": "Template for prompt: Create a dark mode, modern and minimalist articles onepage website, really simple, no header, no footer, just 2 main columns. first column with a list of articles one under the other, second column with a single article unfolded",
+    "dateAdded": "2024-01-24T22:40:02.720Z"
+  },
+  {
+    "url": "https://v0.dev/t/LQycv9zAKUk",
+    "label": "Template for prompt: A golf scorecard ",
+    "dateAdded": "2024-01-24T22:40:02.720Z"
+  },
+  {
+    "url": "https://v0.dev/t/UMt2kQkecM7",
+    "label": "Template for prompt: Make a discord bot dashboard",
+    "dateAdded": "2024-01-24T22:40:02.720Z"
+  },
+  {
+    "url": "https://v0.dev/t/yEuOpH9zXBb",
+    "label": "Template for prompt: A basic card design. It is a flashcard that asks a trivia question",
+    "dateAdded": "2024-01-24T22:40:02.720Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y8R5GaIbwZP",
+    "label": "Template for prompt: I want a responsive navbar with a round logo, navigation to Inicio, Quienes Somos, Visas,  Autobuses and Contacto. It should turn into a hamburger menu for smaller screens. It should greet the user if logged in or call to action for login if not",
+    "dateAdded": "2024-01-24T22:40:02.721Z"
+  },
+  {
+    "url": "https://v0.dev/t/rn6kYqCDd0e",
+    "label": "Template for prompt: make a component that takes in a json array of objects and renders it in a tree like structure with the ability to add more  items to the array or edit the existing ones",
+    "dateAdded": "2024-01-24T22:40:02.721Z"
+  },
+  {
+    "url": "https://v0.dev/t/TNSdhhczS1D",
+    "label": "Template for prompt: design a shadcn loading page that has something animating",
+    "dateAdded": "2024-01-24T22:40:02.721Z"
+  },
+  {
+    "url": "https://v0.dev/t/pqikBsUYuXZ",
+    "label": "Template for prompt: create a popup that shows up on hover that displays a site name, it's uuid in an input box with a copy icon next to the uuid, and a scan id",
+    "dateAdded": "2024-01-24T22:40:02.721Z"
+  },
+  {
+    "url": "https://v0.dev/t/8OYR024WjwQ",
+    "label": "Template for prompt: a personal development website with different tabs to about me, projects, images etc with a splash homescreen",
+    "dateAdded": "2024-01-24T22:40:02.721Z"
+  },
+  {
+    "url": "https://v0.dev/t/EhwSARD6K2K",
+    "label": "Template for prompt: dropdown menu with an option to add options",
+    "dateAdded": "2024-01-24T22:40:02.721Z"
+  },
+  {
+    "url": "https://v0.dev/t/WwJTpZB2Ucs",
+    "label": "Template for prompt: section testimonial",
+    "dateAdded": "2024-01-24T22:40:02.721Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z4yGKfDgjkN",
+    "label": "Template for prompt: Crea una interfaz de una pagina web donde des informacion de unos productos de chocolate",
+    "dateAdded": "2024-01-24T22:40:02.721Z"
+  },
+  {
+    "url": "https://v0.dev/t/woTAnuzJaiX",
+    "label": "Template for prompt: I could make a list of checbox where it is like a mini modal, where you get the Title and the list of checbox. That is a square that stretches with the content with a width and a specific height and colour not quite white, with black borders not very defined, if not rather with shadow. That it doesn't have buttons, because when one is selected, the other one will be deselected, because it will be used for unique filters.",
+    "dateAdded": "2024-01-24T22:40:02.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/sba3oQgyTBo",
+    "label": "Template for prompt: A futuristic AI user interface",
+    "dateAdded": "2024-01-24T22:40:02.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ocijx9nvGhp",
+    "label": "Template for prompt: i want a page with a list of rooms and a form to add a new room",
+    "dateAdded": "2024-01-24T22:40:02.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/Iu4gPBtx0IO",
+    "label": "Template for prompt: design a clickable card that exposes cardactions when clicked that has 2 buttons, add item, and remove card. when clicked the card should indicate it is selected with a blue border",
+    "dateAdded": "2024-01-24T22:40:02.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/5RoeX89p496",
+    "label": "Template for prompt: Create a responsive landing page for A note making creating and sharing application searching APP",
+    "dateAdded": "2024-01-24T22:40:02.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/a09URsWIvBk",
+    "label": "Template for prompt: an animated stack of cards",
+    "dateAdded": "2024-01-24T22:40:02.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/C0rt9SFsdQn",
+    "label": "Template for prompt: an image with a forward an a back button on the left and right sides that are as tall as the image",
+    "dateAdded": "2024-01-24T22:40:02.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/kwhyKgvQ6eM",
+    "label": "Template for prompt: A UI design for a Subscription Package. Subscription contains credits for a certain period (10 days) in React Native component",
+    "dateAdded": "2024-01-24T22:40:02.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/8G1J6k8pbtr",
+    "label": "Template for prompt: chat with a stranger, messaging interface for p2p messaging OR talking to an AI assistant. should support mutliple conversations as subtabs and resemble a BASH terminal. Two conversations should be able to be visible at the same time ",
+    "dateAdded": "2024-01-24T22:40:02.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/OAriMg5Vqw1",
+    "label": "Template for prompt: sidebar navigation for small screens",
+    "dateAdded": "2024-01-24T22:40:02.723Z"
+  },
+  {
+    "url": "https://v0.dev/t/rDjab7IMYbH",
+    "label": "Template for prompt: a results page for a training simulator",
+    "dateAdded": "2024-01-24T22:40:02.723Z"
+  },
+  {
+    "url": "https://v0.dev/t/1jSlnriyvHh",
+    "label": "Template for prompt: An explore page that showcases 3 event cards containg name, date and a square image",
+    "dateAdded": "2024-01-24T22:40:02.723Z"
+  },
+  {
+    "url": "https://v0.dev/t/Gz7w5ARDEC8",
+    "label": "Template for prompt: A explore page that showcases 3 event cards containg name, date, image",
+    "dateAdded": "2024-01-24T22:40:02.723Z"
   }
 ]
