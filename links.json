@@ -63053,5 +63053,135 @@
     "url": "https://v0.dev/t/T77t41Kqizs",
     "label": "Template for prompt: Navbar with about contact login signup",
     "dateAdded": "2024-01-24T01:50:03.589Z"
+  },
+  {
+    "url": "https://v0.dev/t/IW0DFN8g2kP",
+    "label": "Template for prompt: new restroom details form",
+    "dateAdded": "2024-01-24T01:55:03.791Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZHgZ9GPzy5R",
+    "label": "Template for prompt: can you turn this into code  with this styling  style={{\n            background: 'rgba(206, 206, 206, 0.10)',\n            backdropFilter: 'blur(60px)',\n            position: 'absolute',\n            top: '110%', // Adjust the top value based on your layout\n            left: '17%', // Adjust the left value based on your layout\n            transform: 'translate(-50%, -50%)',\n          }}",
+    "dateAdded": "2024-01-24T01:55:03.791Z"
+  },
+  {
+    "url": "https://v0.dev/t/9qf91lfBaTc",
+    "label": "Template for prompt: Create a sidebar that shows a card asking you to login, only text no buttons. use icons if needed",
+    "dateAdded": "2024-01-24T01:55:03.792Z"
+  },
+  {
+    "url": "https://v0.dev/t/mbPhxviq0ZB",
+    "label": "Template for prompt: Creame un slider pero en vez de botones, debe moverse automáticamente. Es decir, es una animacion que se mueve de forma continua enseñando las imagenes",
+    "dateAdded": "2024-01-24T01:55:03.792Z"
+  },
+  {
+    "url": "https://v0.dev/t/kZo4ePUG3cL",
+    "label": "Template for prompt: a product introduce page with pricing feature and login and signup privacy policy",
+    "dateAdded": "2024-01-24T01:55:03.792Z"
+  },
+  {
+    "url": "https://v0.dev/t/ueaL2AOOsm3",
+    "label": "Template for prompt: Slightly Overlapping Photo Collage Components",
+    "dateAdded": "2024-01-24T01:55:03.792Z"
+  },
+  {
+    "url": "https://v0.dev/t/hfio3E4Hksg",
+    "label": "Template for prompt: Board registration page layout with header, texteditor, and submit button",
+    "dateAdded": "2024-01-24T01:55:03.792Z"
+  },
+  {
+    "url": "https://v0.dev/t/sqssw8IIqkM",
+    "label": "Template for prompt: Design a sidebar for a datatable named \"Saved views\", no bigger than width=240px. \nThe sidebar is to save the current filters, order and settings of the datatable columns. We should be able to save a new screen, select a saved one, or delete a current view if it's saved",
+    "dateAdded": "2024-01-24T01:55:03.792Z"
+  },
+  {
+    "url": "https://v0.dev/t/tz0dXmne6MD",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T01:55:03.792Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z1XrDd9dK3p",
+    "label": "Template for prompt: improve this component ",
+    "dateAdded": "2024-01-24T01:55:03.792Z"
+  },
+  {
+    "url": "https://v0.dev/t/vk8vOxZVkkV",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-24T01:55:03.793Z"
+  },
+  {
+    "url": "https://v0.dev/t/qkLd9UpweWE",
+    "label": "Template for prompt: design a portal for a tech. company",
+    "dateAdded": "2024-01-24T01:55:03.793Z"
+  },
+  {
+    "url": "https://v0.dev/t/bcaknHI8PlY",
+    "label": "Template for prompt: Five instructions in page",
+    "dateAdded": "2024-01-24T01:55:03.793Z"
+  },
+  {
+    "url": "https://v0.dev/t/BQP9V2K6lKg",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T01:55:03.793Z"
+  },
+  {
+    "url": "https://v0.dev/t/Vj1TMVKBEf3",
+    "label": "Template for prompt: A landing page for a sign in button",
+    "dateAdded": "2024-01-24T01:55:03.793Z"
+  },
+  {
+    "url": "https://v0.dev/t/v6O0jYMZ1Oi",
+    "label": "Template for prompt: create a UI to view this data: export const FakePert = {\n  title: \"Build tabs for the PDF Viewer\",\n  links: [\n    \"https://www.someJiraTicker.com\",\n    \"https://www.documentationLink.com\",\n  ],\n  risks: `The team is dependent on a third-party library for tab functionality,\n    potential scope changes may arise during development,\n    resource constraints could impact the timeline,\n    and unexpected technical challenges might cause delays.`,\n  pessimistic: 2,\n  optimistic: 0.5,\n  mostLikely: 1,\n  estimate: 1.08,\n};\n",
+    "dateAdded": "2024-01-24T01:55:03.793Z"
+  },
+  {
+    "url": "https://v0.dev/t/cZfJm1rYxry",
+    "label": "Template for prompt: make a slider with a automatic animation of moves on its own",
+    "dateAdded": "2024-01-24T01:55:03.793Z"
+  },
+  {
+    "url": "https://v0.dev/t/DwQHsTVQgRJ",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-24T01:55:03.793Z"
+  },
+  {
+    "url": "https://v0.dev/t/6CUtzOU2a9S",
+    "label": "Template for prompt: website 4 features page with snap scrolling",
+    "dateAdded": "2024-01-24T01:55:03.794Z"
+  },
+  {
+    "url": "https://v0.dev/t/jEwkL5bPX5C",
+    "label": "Template for prompt: a checkerboard page with a blue button in the center that opens a dialog window and blurs the background when clicked",
+    "dateAdded": "2024-01-24T01:55:03.794Z"
+  },
+  {
+    "url": "https://v0.dev/t/t42tDKOYF5d",
+    "label": "Template for prompt: Create a navigation bar with Login, Sign up in the top right corner",
+    "dateAdded": "2024-01-24T01:55:03.794Z"
+  },
+  {
+    "url": "https://v0.dev/t/ptvy7HvRQTy",
+    "label": "Template for prompt: design a protal",
+    "dateAdded": "2024-01-24T01:55:03.794Z"
+  },
+  {
+    "url": "https://v0.dev/t/jRNX9VzdBYZ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T01:55:03.794Z"
+  },
+  {
+    "url": "https://v0.dev/t/r8jsmm2ddW9",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-24T01:55:03.794Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZfmnqTQsD6o",
+    "label": "Template for prompt: A personal wishlist page that lists items with a brief description, and the price. There should be no image of the items.",
+    "dateAdded": "2024-01-24T01:55:03.794Z"
+  },
+  {
+    "url": "https://v0.dev/t/njoF2l5eULm",
+    "label": "Template for prompt: board",
+    "dateAdded": "2024-01-24T01:55:03.795Z"
   }
 ]
