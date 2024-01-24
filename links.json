@@ -67298,5 +67298,135 @@
     "url": "https://v0.dev/t/3vEH1V9bJxF",
     "label": "Template for prompt: Write a PDF for 401k statement using @react-pdf/renderer",
     "dateAdded": "2024-01-24T16:10:03.908Z"
+  },
+  {
+    "url": "https://v0.dev/t/3zaTJfe5N0I",
+    "label": "Template for prompt: a portal site like yahoo",
+    "dateAdded": "2024-01-24T16:15:08.775Z"
+  },
+  {
+    "url": "https://v0.dev/t/so7Ss4K17i1",
+    "label": "Template for prompt: Build a sidebar for chat shacdn tailwind",
+    "dateAdded": "2024-01-24T16:15:08.776Z"
+  },
+  {
+    "url": "https://v0.dev/t/2AIGTZRivCO",
+    "label": "Template for prompt: Make this splash hyper-modern and aesthetic",
+    "dateAdded": "2024-01-24T16:15:08.776Z"
+  },
+  {
+    "url": "https://v0.dev/t/lghDX6MK5WM",
+    "label": "Template for prompt: Following the upper design a feed that shows activity as events that happened during your working day.\n\nFor example:\nFinished pomodoro session\nFinish break\nStarting pomodoro session",
+    "dateAdded": "2024-01-24T16:15:08.776Z"
+  },
+  {
+    "url": "https://v0.dev/t/OuA5Sl2ZHli",
+    "label": "Template for prompt: a simple chat thread like imessage with gray and blue bubbles",
+    "dateAdded": "2024-01-24T16:15:08.776Z"
+  },
+  {
+    "url": "https://v0.dev/t/J7Vivj2DLFC",
+    "label": "Template for prompt: a multiselect formfield with three different options",
+    "dateAdded": "2024-01-24T16:15:08.777Z"
+  },
+  {
+    "url": "https://v0.dev/t/vkE58cIhGRj",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T16:15:08.777Z"
+  },
+  {
+    "url": "https://v0.dev/t/dO8oI16ondW",
+    "label": "Template for prompt: A react component for a timeline of events, overlaid with statements made by two politicans. The events should be represented as pins on the timeline. The Statements should be represeneted as speech bubbles of two different colors (red and blue)",
+    "dateAdded": "2024-01-24T16:15:08.777Z"
+  },
+  {
+    "url": "https://v0.dev/t/ypW3ZClgPxF",
+    "label": "Template for prompt: Make this ad campaign offer page where you create offers for customers, flow and look better ",
+    "dateAdded": "2024-01-24T16:15:08.777Z"
+  },
+  {
+    "url": "https://v0.dev/t/rIJLnMaZX6H",
+    "label": "Template for prompt: Create a blog page with vertical scroll, including a background image that scrolls horizontally upon that vertical scroll",
+    "dateAdded": "2024-01-24T16:15:08.777Z"
+  },
+  {
+    "url": "https://v0.dev/t/T2YaYkgm4cn",
+    "label": "Template for prompt: A time feed that can show your working activty during the day",
+    "dateAdded": "2024-01-24T16:15:08.778Z"
+  },
+  {
+    "url": "https://v0.dev/t/exLSNZxxBWz",
+    "label": "Template for prompt: http://localhost:8090/LocaSupe/Main.html\n여기에 맞는 간단한 로그인 페이지 만들어줘 ",
+    "dateAdded": "2024-01-24T16:15:08.778Z"
+  },
+  {
+    "url": "https://v0.dev/t/OpPgZV9GHUo",
+    "label": "Template for prompt: GitHub contributions section of a modern portfolio.",
+    "dateAdded": "2024-01-24T16:15:08.778Z"
+  },
+  {
+    "url": "https://v0.dev/t/UI1QKJd3iFn",
+    "label": "Template for prompt: portfolio for a react developer with an appealing visual",
+    "dateAdded": "2024-01-24T16:15:08.779Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZgqHmL9n3pB",
+    "label": "Template for prompt: portfolio for a react developer with an appealing visual",
+    "dateAdded": "2024-01-24T16:15:08.783Z"
+  },
+  {
+    "url": "https://v0.dev/t/bNEgGKHSrWQ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T16:15:08.783Z"
+  },
+  {
+    "url": "https://v0.dev/t/rkeyz87GAPQ",
+    "label": "Template for prompt: a landing page for bakery shop",
+    "dateAdded": "2024-01-24T16:15:08.784Z"
+  },
+  {
+    "url": "https://v0.dev/t/bb5zqqO4bbO",
+    "label": "Template for prompt: display amount of saving by customer by buying deals, or using discounts, and suggest them to treat themselves by some item with the saved amount",
+    "dateAdded": "2024-01-24T16:15:08.784Z"
+  },
+  {
+    "url": "https://v0.dev/t/10aldAK4C9B",
+    "label": "Template for prompt: Do a warning modal",
+    "dateAdded": "2024-01-24T16:15:08.784Z"
+  },
+  {
+    "url": "https://v0.dev/t/RAicXnyERcT",
+    "label": "Template for prompt: A bloc with ability to define 3 inputs :\n- a label with icon (with mouse over showing entire name)\n- a select input to define type of fleet\n- a disabled to input to define emission by parcel",
+    "dateAdded": "2024-01-24T16:15:08.784Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yxazrgx2pHF",
+    "label": "Template for prompt: an ui to enter pain level",
+    "dateAdded": "2024-01-24T16:15:08.784Z"
+  },
+  {
+    "url": "https://v0.dev/t/aEALQgQD7vk",
+    "label": "Template for prompt: generate code for make rust game server list ui",
+    "dateAdded": "2024-01-24T16:15:08.785Z"
+  },
+  {
+    "url": "https://v0.dev/t/gC09MyEbgHE",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-24T16:15:08.785Z"
+  },
+  {
+    "url": "https://v0.dev/t/yHunV3XCmhO",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-24T16:15:08.785Z"
+  },
+  {
+    "url": "https://v0.dev/t/iqiW0FEuTEK",
+    "label": "Template for prompt: Design an advanced and visually appealing user interface for an inventory system of dubbing projects stored on a NAS. The main screen shows an overview of all stored projects, with thumbnails of the series or movie cover art for quick identification. Each project should include details such as series name, season, number of episodes, available languages and file status (complete, in progress, pending). The interface should allow advanced search and filtering by title, genre, voice actor, dubbing director, among others. Make sure the interface is intuitive, with quick access to common functions such as viewing, downloading and updating files. Incorporate tools to manage user access rights and visualize storage usage. The design should be clean, modern and easy to navigate, with a color palette that facilitates reading and reduces visual fatigue.",
+    "dateAdded": "2024-01-24T16:15:08.785Z"
+  },
+  {
+    "url": "https://v0.dev/t/sZKcWIsEvWe",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-24T16:15:08.785Z"
   }
 ]
