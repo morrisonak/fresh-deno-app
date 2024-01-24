@@ -63183,5 +63183,135 @@
     "url": "https://v0.dev/t/njoF2l5eULm",
     "label": "Template for prompt: board",
     "dateAdded": "2024-01-24T01:55:03.795Z"
+  },
+  {
+    "url": "https://v0.dev/t/lRuhEA7gMrH",
+    "label": "Template for prompt: Create a main page for an informational page, which has 3 columns",
+    "dateAdded": "2024-01-24T02:00:04.890Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZPx1wrXfcCx",
+    "label": "Template for prompt: Data structures page",
+    "dateAdded": "2024-01-24T02:00:04.890Z"
+  },
+  {
+    "url": "https://v0.dev/t/oaE8jt4UGwz",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T02:00:04.890Z"
+  },
+  {
+    "url": "https://v0.dev/t/MBxGaRZzBgD",
+    "label": "Template for prompt: 帮我创建一个学员管理系统，包括学员信息管理、课程管理、成绩管理等功能。风格简洁",
+    "dateAdded": "2024-01-24T02:00:04.890Z"
+  },
+  {
+    "url": "https://v0.dev/t/Je3Qb24KLEJ",
+    "label": "Template for prompt: An ecommerce section of \"Build a PC based on the selected GPU\" ",
+    "dateAdded": "2024-01-24T02:00:04.891Z"
+  },
+  {
+    "url": "https://v0.dev/t/CB1RBy5789l",
+    "label": "Template for prompt: modern minimal background gradient for a hero section",
+    "dateAdded": "2024-01-24T02:00:04.891Z"
+  },
+  {
+    "url": "https://v0.dev/t/VRl2Sl8d9NX",
+    "label": "Template for prompt: personal trainer section a services ",
+    "dateAdded": "2024-01-24T02:00:04.891Z"
+  },
+  {
+    "url": "https://v0.dev/t/SsKCuCnMPfl",
+    "label": "Template for prompt: mail dashboard ",
+    "dateAdded": "2024-01-24T02:00:04.891Z"
+  },
+  {
+    "url": "https://v0.dev/t/Hafr4hv8mQX",
+    "label": "Template for prompt: 安装上传的图片生产对应的界面",
+    "dateAdded": "2024-01-24T02:00:04.891Z"
+  },
+  {
+    "url": "https://v0.dev/t/9e60ZRQIO5l",
+    "label": "Template for prompt: create me a very minimalist, clean first page for a ultra modern saas app with fine lines, gradients, and very smooth transitions that displays just a single text area in the middle with very precise welcome text to prompt them to quickly describe their mission today to get started into the text area. \n\nImage this was designed by Apple & Jony Ive in 5 years",
+    "dateAdded": "2024-01-24T02:00:04.892Z"
+  },
+  {
+    "url": "https://v0.dev/t/k1RJOuCG472",
+    "label": "Template for prompt: create me a very minimalist, clean first page for a ultra modern saas app with fine lines, gradients, and very smooth transitions that displays just a single text area in the middle with very precise welcome text to prompt them to quickly describe their mission today to get started into the text area. \n\nImage this was designed by Apple & Jony Ive in 5 years",
+    "dateAdded": "2024-01-24T02:00:04.892Z"
+  },
+  {
+    "url": "https://v0.dev/t/9F4VrhdIqG5",
+    "label": "Template for prompt: please improve this modal",
+    "dateAdded": "2024-01-24T02:00:04.892Z"
+  },
+  {
+    "url": "https://v0.dev/t/FI1WroZZ7NM",
+    "label": "Template for prompt: Pre-screening\nAfter an underwriter clicking on one of the properties on the queue, it will display the data below.\n\nAcceptance Criteria\nUnderwriters can see an up-to-date progress status for each property so they know what stage it's in - pre-screening, due diligence, approved, or rejected.\nUnderwriters can update any incorrect or outdated details about the property so they have accurate information for my evaluation.\nAfter reviewing all the data, underwriters can easily make a decision whether to proceed or reject a property submission so that the right next steps occur.\nFunctional Requirements\n\nUnderwriting Progress\nDisplay progress status of each deal: Pre-screening, Due Diligence, Approved for Listing, Rejected.\nDisplay progress status as a percentage for properties in initial screening and due diligence.\nProperty Details\nAutomatically populate fields with sponsor-submitted data, documents, and manual entries. Display detailed information about each property",
+    "dateAdded": "2024-01-24T02:00:04.892Z"
+  },
+  {
+    "url": "https://v0.dev/t/IW0DFN8g2kP",
+    "label": "Template for prompt: new restroom details form",
+    "dateAdded": "2024-01-24T02:00:04.892Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZHgZ9GPzy5R",
+    "label": "Template for prompt: can you turn this into code  with this styling  style={{\n            background: 'rgba(206, 206, 206, 0.10)',\n            backdropFilter: 'blur(60px)',\n            position: 'absolute',\n            top: '110%', // Adjust the top value based on your layout\n            left: '17%', // Adjust the left value based on your layout\n            transform: 'translate(-50%, -50%)',\n          }}",
+    "dateAdded": "2024-01-24T02:00:04.892Z"
+  },
+  {
+    "url": "https://v0.dev/t/9qf91lfBaTc",
+    "label": "Template for prompt: Create a sidebar that shows a card asking you to login, only text no buttons. use icons if needed",
+    "dateAdded": "2024-01-24T02:00:04.892Z"
+  },
+  {
+    "url": "https://v0.dev/t/mbPhxviq0ZB",
+    "label": "Template for prompt: Creame un slider pero en vez de botones, debe moverse automáticamente. Es decir, es una animacion que se mueve de forma continua enseñando las imagenes",
+    "dateAdded": "2024-01-24T02:00:04.892Z"
+  },
+  {
+    "url": "https://v0.dev/t/kZo4ePUG3cL",
+    "label": "Template for prompt: a product introduce page with pricing feature and login and signup privacy policy",
+    "dateAdded": "2024-01-24T02:00:04.893Z"
+  },
+  {
+    "url": "https://v0.dev/t/ueaL2AOOsm3",
+    "label": "Template for prompt: Slightly Overlapping Photo Collage Components",
+    "dateAdded": "2024-01-24T02:00:04.893Z"
+  },
+  {
+    "url": "https://v0.dev/t/hfio3E4Hksg",
+    "label": "Template for prompt: Board registration page layout with header, texteditor, and submit button",
+    "dateAdded": "2024-01-24T02:00:04.893Z"
+  },
+  {
+    "url": "https://v0.dev/t/sqssw8IIqkM",
+    "label": "Template for prompt: Design a sidebar for a datatable named \"Saved views\", no bigger than width=240px. \nThe sidebar is to save the current filters, order and settings of the datatable columns. We should be able to save a new screen, select a saved one, or delete a current view if it's saved",
+    "dateAdded": "2024-01-24T02:00:04.893Z"
+  },
+  {
+    "url": "https://v0.dev/t/tz0dXmne6MD",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T02:00:04.893Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z1XrDd9dK3p",
+    "label": "Template for prompt: improve this component ",
+    "dateAdded": "2024-01-24T02:00:04.893Z"
+  },
+  {
+    "url": "https://v0.dev/t/vk8vOxZVkkV",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-24T02:00:04.893Z"
+  },
+  {
+    "url": "https://v0.dev/t/qkLd9UpweWE",
+    "label": "Template for prompt: design a portal for a tech. company",
+    "dateAdded": "2024-01-24T02:00:04.893Z"
+  },
+  {
+    "url": "https://v0.dev/t/bcaknHI8PlY",
+    "label": "Template for prompt: Five instructions in page",
+    "dateAdded": "2024-01-24T02:00:04.894Z"
   }
 ]
