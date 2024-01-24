@@ -75703,5 +75703,135 @@
     "url": "https://v0.dev/t/EhwSARD6K2K",
     "label": "Template for prompt: dropdown menu with an option to add options",
     "dateAdded": "2024-01-24T22:50:02.647Z"
+  },
+  {
+    "url": "https://v0.dev/t/vx19hSYrExq",
+    "label": "Template for prompt: I've an admin panel page where I should show the existing events, the exhibitors each event and their available schedule. Within that page you have the option to add the subscriber to a schedule.",
+    "dateAdded": "2024-01-24T22:55:02.765Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ucrpd0srVxO",
+    "label": "Template for prompt: make a textarea that display multine text",
+    "dateAdded": "2024-01-24T22:55:02.765Z"
+  },
+  {
+    "url": "https://v0.dev/t/i0g206ow04M",
+    "label": "Template for prompt: Craft a modern card component with a header titled \"Key Insights,\" a content area displaying four icon-led bullet points, and a footer with navigation buttons, all encapsulated in a minimalist design with a light background.\n\n\n\n\n\n\n",
+    "dateAdded": "2024-01-24T22:55:02.765Z"
+  },
+  {
+    "url": "https://v0.dev/t/SdTIY1xhsk3",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T22:55:02.766Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ptvv8VIE09R",
+    "label": "Template for prompt: invoice template",
+    "dateAdded": "2024-01-24T22:55:02.766Z"
+  },
+  {
+    "url": "https://v0.dev/t/oXkexShiRJ5",
+    "label": "Template for prompt: A whitepaper download hero block, user needs to enter an email before downloading",
+    "dateAdded": "2024-01-24T22:55:02.766Z"
+  },
+  {
+    "url": "https://v0.dev/t/0RtOIvOZGg0",
+    "label": "Template for prompt: Generate a UI layout featuring a top navigation bar with system status icons, a prominent section header titled \"Key Insights,\" followed by a content area with a series of bullet points each preceded by thematic icons, all on a light-colored background with a clean, modern aesthetic.",
+    "dateAdded": "2024-01-24T22:55:02.766Z"
+  },
+  {
+    "url": "https://v0.dev/t/GLMcQF9PYG5",
+    "label": "Template for prompt: Add a dark background and invert colors accordingly, and imrpove design where you see fit",
+    "dateAdded": "2024-01-24T22:55:02.766Z"
+  },
+  {
+    "url": "https://v0.dev/t/ugvfTDRzdDz",
+    "label": "Template for prompt: A landing page for a pizza shop in a village",
+    "dateAdded": "2024-01-24T22:55:02.767Z"
+  },
+  {
+    "url": "https://v0.dev/t/I29kl9RhzCx",
+    "label": "Template for prompt: loading splash screen",
+    "dateAdded": "2024-01-24T22:55:02.767Z"
+  },
+  {
+    "url": "https://v0.dev/t/CASiCQ1Hqmi",
+    "label": "Template for prompt: a faux desktop environment, complete with a \"desktop background\" task bar, app icons, the time, a weather widget, a terminal and a notes app.  **responsive**",
+    "dateAdded": "2024-01-24T22:55:02.767Z"
+  },
+  {
+    "url": "https://v0.dev/t/uRhePEYEdX2",
+    "label": "Template for prompt: please design a sleek login page with a 2 column layout, with the login form on the left side",
+    "dateAdded": "2024-01-24T22:55:02.767Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yt0ARFd2FZi",
+    "label": "Template for prompt: create drawer that opens from left hand side",
+    "dateAdded": "2024-01-24T22:55:02.767Z"
+  },
+  {
+    "url": "https://v0.dev/t/Tc018MRYi34",
+    "label": "Template for prompt: test",
+    "dateAdded": "2024-01-24T22:55:02.768Z"
+  },
+  {
+    "url": "https://v0.dev/t/SaG8kecdeG6",
+    "label": "Template for prompt: a hero for an ecommerce with call to action search bar to look up for products",
+    "dateAdded": "2024-01-24T22:55:02.768Z"
+  },
+  {
+    "url": "https://v0.dev/t/K1laEfrCE1g",
+    "label": "Template for prompt: An Interface to view, edit and manage zapier style automations, that also accounts for scalability, in cases where we have more than 50 automations. Build an interface that is powerful, functional, intuitive and also lets the user search and find an automation easily that they tend to use frequently.",
+    "dateAdded": "2024-01-24T22:55:02.768Z"
+  },
+  {
+    "url": "https://v0.dev/t/yP8lyR1Ivy1",
+    "label": "Template for prompt: I need a landingpage for a tool that lets you create enjoyable podcasts from any blog post / newsletter or any document you have and dont want to read. Also include a small mockup with how a typical newsletter on a tech topic or a blog article by a VC could look like. \nThe user also has the options to choose the voice that should read out the generated podcast.",
+    "dateAdded": "2024-01-24T22:55:02.768Z"
+  },
+  {
+    "url": "https://v0.dev/t/QNUeNATWzWq",
+    "label": "Template for prompt: A review page",
+    "dateAdded": "2024-01-24T22:55:02.768Z"
+  },
+  {
+    "url": "https://v0.dev/t/wKG4SoEvo4D",
+    "label": "Template for prompt: I could make a list of checbox where it is like a mini modal, where you get the Title and the list of checbox. That is a square that stretches with the content with a width and a specific height and colour not quite white, with black borders not very defined, if not rather with shadow. That it doesn't have buttons, because when one is selected, the other one will be deselected, because it will be used for unique filters.",
+    "dateAdded": "2024-01-24T22:55:02.768Z"
+  },
+  {
+    "url": "https://v0.dev/t/CopCmumgYls",
+    "label": "Template for prompt: in page i need to have menu that opens from left side by clicking floating button with burger icon. when icon clicked again burger becomes cross and menu closes down and only main page visible. to open and close menu  need use transition. menu should be full height in the screen. width takes about 30% in desktop and 100% in mobile",
+    "dateAdded": "2024-01-24T22:55:02.769Z"
+  },
+  {
+    "url": "https://v0.dev/t/q3WkBFOll8V",
+    "label": "Template for prompt: left navigation menu with favorites selection functionality",
+    "dateAdded": "2024-01-24T22:55:02.769Z"
+  },
+  {
+    "url": "https://v0.dev/t/QS4qKHP5DKg",
+    "label": "Template for prompt: A golf score card that displays horizontally with the hole numbers on the top and is responsive on mobile - should show players name on the left and their score for each hole plus a total for front nine, back nine, and total for the 18 holes. Should use green and yellow as accent colors. ",
+    "dateAdded": "2024-01-24T22:55:02.769Z"
+  },
+  {
+    "url": "https://v0.dev/t/VaXSuBtLWCD",
+    "label": "Template for prompt: create a beautiful two level marquee component ",
+    "dateAdded": "2024-01-24T22:55:02.769Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ca37DO3fzg8",
+    "label": "Template for prompt: A create a responsive landing page for my student Task Management System Which has functionalities for the teachers/admin to create assign tasks view students and create new students. Students can view their tasks and complete them ",
+    "dateAdded": "2024-01-24T22:55:02.769Z"
+  },
+  {
+    "url": "https://v0.dev/t/YoISAAhpNRn",
+    "label": "Template for prompt: A golf scorecard ",
+    "dateAdded": "2024-01-24T22:55:02.770Z"
+  },
+  {
+    "url": "https://v0.dev/t/homUjVz3GD9",
+    "label": "Template for prompt: Create a dark mode, modern and minimalist articles onepage website, really simple, no header, no footer, just 2 main columns. first column with a list of articles one under the other, second column with a single article unfolded",
+    "dateAdded": "2024-01-24T22:55:02.770Z"
   }
 ]
