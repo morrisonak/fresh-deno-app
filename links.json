@@ -64088,5 +64088,130 @@
     "url": "https://v0.dev/t/6V0GOaF5H2G",
     "label": "Template for prompt: landing page for inventory management page",
     "dateAdded": "2024-01-24T02:30:03.863Z"
+  },
+  {
+    "url": "https://v0.dev/t/xiKnp0n22IM",
+    "label": "Template for prompt: Features List\nUser Registration and Login\nSecure sign-up and login process.\nSocial media account integration for easy registration.\nBrowsing and Searching Coupons\nIntuitive interface for browsing various discounts.\nAdvanced search functionality with filters such as category, location, and popularity.\nGeolocation-based Filtering\nGeolocation technology to show relevant offers based on the user's current location.\nPush Notifications\nReal-time notifications for new deals and expiring coupons.\nCustomizable notification settings based on user preferences.\nSocial Media Integration\nOptions to share deals on various social media platforms.\nReferral program to incentivize users for sharing the app with friends.\nUser Feedback and Rating System\nMechanism for users to rate and review coupons and stores.\nFeedback loop for businesses to improve their offers.",
+    "dateAdded": "2024-01-24T02:35:02.333Z"
+  },
+  {
+    "url": "https://v0.dev/t/DBs2YRcClQY",
+    "label": "Template for prompt: 3 columns blog post listing",
+    "dateAdded": "2024-01-24T02:35:02.333Z"
+  },
+  {
+    "url": "https://v0.dev/t/1L9w4YdppXo",
+    "label": "Template for prompt: multi step vertical form",
+    "dateAdded": "2024-01-24T02:35:02.333Z"
+  },
+  {
+    "url": "https://v0.dev/t/gG0c9ZNIOwh",
+    "label": "Template for prompt: A full bakery and coffee landing page with all sections included",
+    "dateAdded": "2024-01-24T02:35:02.333Z"
+  },
+  {
+    "url": "https://v0.dev/t/mrBylR7phPK",
+    "label": "Template for prompt: multi step form",
+    "dateAdded": "2024-01-24T02:35:02.333Z"
+  },
+  {
+    "url": "https://v0.dev/t/49OOK1Ouw6i",
+    "label": "Template for prompt: 帮我生成一个学员管理系统，包括学员信息管理、成绩管理、课程管理。风格简洁",
+    "dateAdded": "2024-01-24T02:35:02.334Z"
+  },
+  {
+    "url": "https://v0.dev/t/38PXyxZPBlT",
+    "label": "Template for prompt: Generate a link element that is a link for www.mypage.com/profile/link/[userId]\n\nThis is a card that has 2 options in a radio. 1 is \"I have a link\", which does not do anything for now. The other is \"I want to generate and send a link\"\n\nIf they click the \"I want to generate and send a link\", A text box that is autofilled with their Id as theabove comes up that they cannot modify, and they have a copy button on the right of the text box.\n\nUnderneath, there is also an email icon button, that for now doesn't have any logic to it.\n\nUse the shadcn/ui library for this please.",
+    "dateAdded": "2024-01-24T02:35:02.334Z"
+  },
+  {
+    "url": "https://v0.dev/t/SRQsdK2ioo8",
+    "label": "Template for prompt: Homepage for Child Emotional Disorder Development Assessment: Sign Up, Log In, Password Recovery",
+    "dateAdded": "2024-01-24T02:35:02.334Z"
+  },
+  {
+    "url": "https://v0.dev/t/KCet5wxUVX1",
+    "label": "Template for prompt: web ai app, 3 blocks, the middle to upload an image, first block to result test and third block for ads, great and smooth design",
+    "dateAdded": "2024-01-24T02:35:02.334Z"
+  },
+  {
+    "url": "https://v0.dev/t/3pOxHhbi88w",
+    "label": "Template for prompt: 生成一个个人博客页面，要包含头图和文章列表",
+    "dateAdded": "2024-01-24T02:35:02.334Z"
+  },
+  {
+    "url": "https://v0.dev/t/DkxisWUrS3y",
+    "label": "Template for prompt: interview page",
+    "dateAdded": "2024-01-24T02:35:02.334Z"
+  },
+  {
+    "url": "https://v0.dev/t/z9u8T7ezXbi",
+    "label": "Template for prompt: Generate a link element that is a link for www.mypage.com/profile/link/[userId]\n\nThis is a card that has 2 options in a radio. 1 is \"I have a link\", which does not do anything for now. The other is \"I want to generate and send a link\"\n\nIf they click the \"I want to generate and send a link\", A text box that is autofilled with their Id as theabove comes up that they cannot modify, and they have a copy button on the right of the text box.\n\nUnderneath, there is also an email icon button, that for now doesn't have any logic to it.",
+    "dateAdded": "2024-01-24T02:35:02.334Z"
+  },
+  {
+    "url": "https://v0.dev/t/uYqJk1SJWWv",
+    "label": "Template for prompt: generate a profile page that is part of dashboard layout",
+    "dateAdded": "2024-01-24T02:35:02.334Z"
+  },
+  {
+    "url": "https://v0.dev/t/y8JqwSzCyf4",
+    "label": "Template for prompt: A reports page where each report is a row in a table with a preview and download button",
+    "dateAdded": "2024-01-24T02:35:02.335Z"
+  },
+  {
+    "url": "https://v0.dev/t/FInq4q71lXL",
+    "label": "Template for prompt: make amazon",
+    "dateAdded": "2024-01-24T02:35:02.335Z"
+  },
+  {
+    "url": "https://v0.dev/t/lnAVH7uQZOg",
+    "label": "Template for prompt: A download reports page with preview and download buttons",
+    "dateAdded": "2024-01-24T02:35:02.335Z"
+  },
+  {
+    "url": "https://v0.dev/t/j0ECMqYYnJs",
+    "label": "Template for prompt: 使用vue3的<script setup>编写一个步骤条的组件",
+    "dateAdded": "2024-01-24T02:35:02.335Z"
+  },
+  {
+    "url": "https://v0.dev/t/3g3L2PaCGFi",
+    "label": "Template for prompt: A personal wishlist page with various items arranged to display the title, description, image, and price",
+    "dateAdded": "2024-01-24T02:35:02.335Z"
+  },
+  {
+    "url": "https://v0.dev/t/PEA9epAZYY5",
+    "label": "Template for prompt: a campaign section with heading, content and a main CTA and a secondary CTA",
+    "dateAdded": "2024-01-24T02:35:02.335Z"
+  },
+  {
+    "url": "https://v0.dev/t/27DuYKCbnEN",
+    "label": "Template for prompt: 帮我生成一个登录界面，要支持微信登录和手机号登录",
+    "dateAdded": "2024-01-24T02:35:02.335Z"
+  },
+  {
+    "url": "https://v0.dev/t/AxQHXtBX1Y9",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-24T02:35:02.335Z"
+  },
+  {
+    "url": "https://v0.dev/t/KOynGCm5ets",
+    "label": "Template for prompt: make a rolling text animation using tailwind on react",
+    "dateAdded": "2024-01-24T02:35:02.335Z"
+  },
+  {
+    "url": "https://v0.dev/t/P722aBORywp",
+    "label": "Template for prompt: a leader board with scrollable list itmes with avatar, username, and description",
+    "dateAdded": "2024-01-24T02:35:02.336Z"
+  },
+  {
+    "url": "https://v0.dev/t/2qDoWZrmqxg",
+    "label": "Template for prompt: Cream a minimalist login in react native\n",
+    "dateAdded": "2024-01-24T02:35:02.336Z"
+  },
+  {
+    "url": "https://v0.dev/t/1BATkEdmVZL",
+    "label": "Template for prompt: Beautify this design drawing",
+    "dateAdded": "2024-01-24T02:35:02.336Z"
   }
 ]
