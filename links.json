@@ -67678,5 +67678,125 @@
     "url": "https://v0.dev/t/bR5NUbh2GxY",
     "label": "Template for prompt: A blog landing page",
     "dateAdded": "2024-01-24T16:25:02.543Z"
+  },
+  {
+    "url": "https://v0.dev/t/FVWG7NP5f3f",
+    "label": "Template for prompt: CEO message",
+    "dateAdded": "2024-01-24T16:30:02.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/f1wqcFMq0E8",
+    "label": "Template for prompt: An restaurant listing to order",
+    "dateAdded": "2024-01-24T16:30:02.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/85SSmTYIf75",
+    "label": "Template for prompt: A form with editable data with date, country dropdown, full name fields",
+    "dateAdded": "2024-01-24T16:30:02.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/kqiJvSuoCHG",
+    "label": "Template for prompt: Profile",
+    "dateAdded": "2024-01-24T16:30:02.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/f8rMFgt7Doi",
+    "label": "Template for prompt: an edit profile form",
+    "dateAdded": "2024-01-24T16:30:02.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/9iWtRaR0zby",
+    "label": "Template for prompt: Digital SAT reading exam",
+    "dateAdded": "2024-01-24T16:30:02.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/8qSovFIusIe",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T16:30:02.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/oosQe93PaU8",
+    "label": "Template for prompt: Genera esta pagina",
+    "dateAdded": "2024-01-24T16:30:02.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/SJn3yhKpCvF",
+    "label": "Template for prompt: can you create a page where it shows exercise details after i click on its specific card? attached is the page where the exercise is. when i click on it, it should go to another page that shows the details of the card",
+    "dateAdded": "2024-01-24T16:30:02.730Z"
+  },
+  {
+    "url": "https://v0.dev/t/EtZsGC6Mpwj",
+    "label": "Template for prompt: コーポレートサイトでの人物紹介",
+    "dateAdded": "2024-01-24T16:30:02.731Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y8L3BNCp486",
+    "label": "Template for prompt: E-commerce orders list page. When an order is clicked, it shows a modal with the order details inside.",
+    "dateAdded": "2024-01-24T16:30:02.731Z"
+  },
+  {
+    "url": "https://v0.dev/t/8qMPWfoMvAk",
+    "label": "Template for prompt: I need to do like a staff section, which is divided in two: \"Administración\" and \"Game Master\". It must be done in the black background. The main color is #f37c1b.",
+    "dateAdded": "2024-01-24T16:30:02.732Z"
+  },
+  {
+    "url": "https://v0.dev/t/WK26Qk1tDAA",
+    "label": "Template for prompt: A order details modal",
+    "dateAdded": "2024-01-24T16:30:02.732Z"
+  },
+  {
+    "url": "https://v0.dev/t/pEGOSeg7noY",
+    "label": "Template for prompt: a 404 page with a large, page high hero image and link back to the homepage",
+    "dateAdded": "2024-01-24T16:30:02.732Z"
+  },
+  {
+    "url": "https://v0.dev/t/uAfANRxomZb",
+    "label": "Template for prompt: create a hero section for beauty niche blog website",
+    "dateAdded": "2024-01-24T16:30:02.732Z"
+  },
+  {
+    "url": "https://v0.dev/t/G2rtuFCFQAM",
+    "label": "Template for prompt: Hero banner for courses website",
+    "dateAdded": "2024-01-24T16:30:02.732Z"
+  },
+  {
+    "url": "https://v0.dev/t/sXrMzGs14B4",
+    "label": "Template for prompt: Mission and value statement section of a single page landing page",
+    "dateAdded": "2024-01-24T16:30:02.732Z"
+  },
+  {
+    "url": "https://v0.dev/t/t3PB8u4dmJs",
+    "label": "Template for prompt: redesign an existing website www.favourite-fashions.com ",
+    "dateAdded": "2024-01-24T16:30:02.733Z"
+  },
+  {
+    "url": "https://v0.dev/t/Pn50kGUzMex",
+    "label": "Template for prompt: edit product form adding,selecting unselect multiple categories with sub categories",
+    "dateAdded": "2024-01-24T16:30:02.733Z"
+  },
+  {
+    "url": "https://v0.dev/t/ffsZM0tFJ9H",
+    "label": "Template for prompt: Digital SAT Exam ",
+    "dateAdded": "2024-01-24T16:30:02.733Z"
+  },
+  {
+    "url": "https://v0.dev/t/8oKyILxGcex",
+    "label": "Template for prompt: give me a stylish home page with a table ranking page in the center with score and win rate information. all in black and white. Website name is Ranking. I want a Vercel inspiration",
+    "dateAdded": "2024-01-24T16:30:02.733Z"
+  },
+  {
+    "url": "https://v0.dev/t/549gTpyBKgi",
+    "label": "Template for prompt: I need to add it to the next view, in the most appropriate place, a Risk Indicator (high, medium, low), a probability of late payment (85% for example), Recommended Actions (- Send WhatsApp now (Increases by 70% the probability of payment)\n   - Send Reminder by Email (Increases the probability of payment by 20%) for example) and some action buttons [Send WhatsApp] [Send Email] for examples",
+    "dateAdded": "2024-01-24T16:30:02.733Z"
+  },
+  {
+    "url": "https://v0.dev/t/z2QXYHByVs9",
+    "label": "Template for prompt: Select categories for multiple categories with sub categories, best ui/x ",
+    "dateAdded": "2024-01-24T16:30:02.734Z"
+  },
+  {
+    "url": "https://v0.dev/t/CGf3lauj6a7",
+    "label": "Template for prompt: Webflow designer portfolio landing page",
+    "dateAdded": "2024-01-24T16:30:02.734Z"
   }
 ]
