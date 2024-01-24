@@ -67173,5 +67173,130 @@
     "url": "https://v0.dev/t/O7hupiyfc3r",
     "label": "Template for prompt: a dashboard ui for a company to show upcoming events, newest messages and other requests in different cards",
     "dateAdded": "2024-01-24T16:05:02.900Z"
+  },
+  {
+    "url": "https://v0.dev/t/OpPgZV9GHUo",
+    "label": "Template for prompt: GitHub contributions section of a modern portfolio.",
+    "dateAdded": "2024-01-24T16:10:03.905Z"
+  },
+  {
+    "url": "https://v0.dev/t/UI1QKJd3iFn",
+    "label": "Template for prompt: portfolio for a react developer with an appealing visual",
+    "dateAdded": "2024-01-24T16:10:03.905Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZgqHmL9n3pB",
+    "label": "Template for prompt: portfolio for a react developer with an appealing visual",
+    "dateAdded": "2024-01-24T16:10:03.905Z"
+  },
+  {
+    "url": "https://v0.dev/t/bNEgGKHSrWQ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T16:10:03.905Z"
+  },
+  {
+    "url": "https://v0.dev/t/rkeyz87GAPQ",
+    "label": "Template for prompt: a landing page for bakery shop",
+    "dateAdded": "2024-01-24T16:10:03.905Z"
+  },
+  {
+    "url": "https://v0.dev/t/bb5zqqO4bbO",
+    "label": "Template for prompt: display amount of saving by customer by buying deals, or using discounts, and suggest them to treat themselves by some item with the saved amount",
+    "dateAdded": "2024-01-24T16:10:03.905Z"
+  },
+  {
+    "url": "https://v0.dev/t/10aldAK4C9B",
+    "label": "Template for prompt: Do a warning modal",
+    "dateAdded": "2024-01-24T16:10:03.905Z"
+  },
+  {
+    "url": "https://v0.dev/t/RAicXnyERcT",
+    "label": "Template for prompt: A bloc with ability to define 3 inputs :\n- a label with icon (with mouse over showing entire name)\n- a select input to define type of fleet\n- a disabled to input to define emission by parcel",
+    "dateAdded": "2024-01-24T16:10:03.906Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yxazrgx2pHF",
+    "label": "Template for prompt: an ui to enter pain level",
+    "dateAdded": "2024-01-24T16:10:03.906Z"
+  },
+  {
+    "url": "https://v0.dev/t/aEALQgQD7vk",
+    "label": "Template for prompt: generate code for make rust game server list ui",
+    "dateAdded": "2024-01-24T16:10:03.906Z"
+  },
+  {
+    "url": "https://v0.dev/t/gC09MyEbgHE",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-24T16:10:03.906Z"
+  },
+  {
+    "url": "https://v0.dev/t/yHunV3XCmhO",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-24T16:10:03.906Z"
+  },
+  {
+    "url": "https://v0.dev/t/iqiW0FEuTEK",
+    "label": "Template for prompt: Design an advanced and visually appealing user interface for an inventory system of dubbing projects stored on a NAS. The main screen shows an overview of all stored projects, with thumbnails of the series or movie cover art for quick identification. Each project should include details such as series name, season, number of episodes, available languages and file status (complete, in progress, pending). The interface should allow advanced search and filtering by title, genre, voice actor, dubbing director, among others. Make sure the interface is intuitive, with quick access to common functions such as viewing, downloading and updating files. Incorporate tools to manage user access rights and visualize storage usage. The design should be clean, modern and easy to navigate, with a color palette that facilitates reading and reduces visual fatigue.",
+    "dateAdded": "2024-01-24T16:10:03.907Z"
+  },
+  {
+    "url": "https://v0.dev/t/sZKcWIsEvWe",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-24T16:10:03.907Z"
+  },
+  {
+    "url": "https://v0.dev/t/F5WlCM2R6qA",
+    "label": "Template for prompt: A landing page that is only used to explain uncertainty model on machine learning",
+    "dateAdded": "2024-01-24T16:10:03.907Z"
+  },
+  {
+    "url": "https://v0.dev/t/eL5cWV0Kfux",
+    "label": "Template for prompt: chat gpt like chat ui",
+    "dateAdded": "2024-01-24T16:10:03.907Z"
+  },
+  {
+    "url": "https://v0.dev/t/yeQWquYl0fG",
+    "label": "Template for prompt: give me slider which shows mood from 1 to 10 with emoji",
+    "dateAdded": "2024-01-24T16:10:03.907Z"
+  },
+  {
+    "url": "https://v0.dev/t/6KvvirwX53j",
+    "label": "Template for prompt: actor agency landing page, title: \"You can be the starring character\"",
+    "dateAdded": "2024-01-24T16:10:03.907Z"
+  },
+  {
+    "url": "https://v0.dev/t/octJsPqTbew",
+    "label": "Template for prompt: banner",
+    "dateAdded": "2024-01-24T16:10:03.907Z"
+  },
+  {
+    "url": "https://v0.dev/t/cyUaEzTsssI",
+    "label": "Template for prompt:  dashboard is designed for easy navigation, the profiles are simplified forms, the search and order section is intuitive, and the workout editor allows for seamless drag-and-drop functionality with a dedicated list of exercises on the left.",
+    "dateAdded": "2024-01-24T16:10:03.907Z"
+  },
+  {
+    "url": "https://v0.dev/t/rcQ2RYWgki7",
+    "label": "Template for prompt: An attendance tracker for students",
+    "dateAdded": "2024-01-24T16:10:03.908Z"
+  },
+  {
+    "url": "https://v0.dev/t/ALyDFb0UmpH",
+    "label": "Template for prompt: anime themes playlist with video player on the left side and theme cards on the right side",
+    "dateAdded": "2024-01-24T16:10:03.908Z"
+  },
+  {
+    "url": "https://v0.dev/t/0gXZD9nKkmK",
+    "label": "Template for prompt: make me a shopping page with nuxtjs and tailwindcss",
+    "dateAdded": "2024-01-24T16:10:03.908Z"
+  },
+  {
+    "url": "https://v0.dev/t/AnQ96NAlSav",
+    "label": "Template for prompt: A home page for a small farm serving the local community featuring a large image of the farm",
+    "dateAdded": "2024-01-24T16:10:03.908Z"
+  },
+  {
+    "url": "https://v0.dev/t/3vEH1V9bJxF",
+    "label": "Template for prompt: Write a PDF for 401k statement using @react-pdf/renderer",
+    "dateAdded": "2024-01-24T16:10:03.908Z"
   }
 ]
