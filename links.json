@@ -66793,5 +66793,135 @@
     "url": "https://v0.dev/t/XPheVGzP0Xt",
     "label": "Template for prompt: A header component with profile and two links on the right and a logo on the left",
     "dateAdded": "2024-01-24T15:50:03.546Z"
+  },
+  {
+    "url": "https://v0.dev/t/78Gbycr8lmw",
+    "label": "Template for prompt: i need help with some inspiration to my website. so the default layout is just a header with the logo to the left and to the right theres two options contatr and about. i have a side bar as well on the left which has the options home, messages, employees and help. how should it look on other places?",
+    "dateAdded": "2024-01-24T15:55:03.297Z"
+  },
+  {
+    "url": "https://v0.dev/t/a5p12t2eN5e",
+    "label": "Template for prompt: Create the design screen of a google-like search engine that only has PDFs as results",
+    "dateAdded": "2024-01-24T15:55:03.297Z"
+  },
+  {
+    "url": "https://v0.dev/t/oZf7jKGsW8b",
+    "label": "Template for prompt: can you make a school dashboard for a teacher that has a search promt to select students, give grades, attendance and behaviour. It should also include a schedule",
+    "dateAdded": "2024-01-24T15:55:03.297Z"
+  },
+  {
+    "url": "https://v0.dev/t/lbtelcZuirE",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-24T15:55:03.298Z"
+  },
+  {
+    "url": "https://v0.dev/t/Tbjlq1PXdWe",
+    "label": "Template for prompt: A mobile application for displaying appointments at a car dealership. Each appointment should display the customers name, the sales agents name, date and time of the appointment, location of the appointment, notes and the vehicle the customer is interested in. These appointments should be displayed in a daily calendar view.",
+    "dateAdded": "2024-01-24T15:55:03.298Z"
+  },
+  {
+    "url": "https://v0.dev/t/0QPKmVzhhqY",
+    "label": "Template for prompt: Create a greater visual balance for this splash screen. Keep the splash modern, aesthetic, and accessible.",
+    "dateAdded": "2024-01-24T15:55:03.298Z"
+  },
+  {
+    "url": "https://v0.dev/t/sAgJFvTQGcL",
+    "label": "Template for prompt: a screen where a I see my teachers and I can assign them courses and delete assign courses, every teacher card shoud have a photo, ID, name and last name and buttons to make the actios",
+    "dateAdded": "2024-01-24T15:55:03.298Z"
+  },
+  {
+    "url": "https://v0.dev/t/nqUF6meSwHZ",
+    "label": "Template for prompt: update infomation user gender",
+    "dateAdded": "2024-01-24T15:55:03.298Z"
+  },
+  {
+    "url": "https://v0.dev/t/jQA8s9P0dv4",
+    "label": "Template for prompt: bills dashboard",
+    "dateAdded": "2024-01-24T15:55:03.298Z"
+  },
+  {
+    "url": "https://v0.dev/t/zIPqAnQkskY",
+    "label": "Template for prompt: a room for the mind game",
+    "dateAdded": "2024-01-24T15:55:03.299Z"
+  },
+  {
+    "url": "https://v0.dev/t/PhbymMZDSQ7",
+    "label": "Template for prompt: Design a landing page for a legal search engine b2b product",
+    "dateAdded": "2024-01-24T15:55:03.299Z"
+  },
+  {
+    "url": "https://v0.dev/t/s2rA5OGhE65",
+    "label": "Template for prompt: A well laid out form to edit work experience of a person ... title, company, start date, end date, description",
+    "dateAdded": "2024-01-24T15:55:03.299Z"
+  },
+  {
+    "url": "https://v0.dev/t/gUpPTEycG1l",
+    "label": "Template for prompt: make a hero for a car dealership web landing page",
+    "dateAdded": "2024-01-24T15:55:03.299Z"
+  },
+  {
+    "url": "https://v0.dev/t/lZERe1y3MDt",
+    "label": "Template for prompt: Make me a website which sells arab flags",
+    "dateAdded": "2024-01-24T15:55:03.299Z"
+  },
+  {
+    "url": "https://v0.dev/t/NBUKCE4gnI5",
+    "label": "Template for prompt: a field in the profile page where you can store an api key",
+    "dateAdded": "2024-01-24T15:55:03.300Z"
+  },
+  {
+    "url": "https://v0.dev/t/OEwgKyqMVG2",
+    "label": "Template for prompt: a flow of a process that is ongoing, like a migration of a database, with a progress indicator or icon that gives the idea of progression. The instance is inserted in a platform with a side bar menu and 2 steps stepper",
+    "dateAdded": "2024-01-24T15:55:03.300Z"
+  },
+  {
+    "url": "https://v0.dev/t/U1nIb6mniCX",
+    "label": "Template for prompt: Make a form layout with a overall title and subtitle. It should have multiple sections each with multiple input fields. ",
+    "dateAdded": "2024-01-24T15:55:03.300Z"
+  },
+  {
+    "url": "https://v0.dev/t/BVZnunhDW8G",
+    "label": "Template for prompt: A landing page that is only used to explain a machine learning term with an example",
+    "dateAdded": "2024-01-24T15:55:03.300Z"
+  },
+  {
+    "url": "https://v0.dev/t/4XrLBicFsh1",
+    "label": "Template for prompt: I need to add it to the next view, in the most appropriate place, a Risk Indicator (high, medium, low), a probability of late payment (85% for example), Recommended Actions (- Send WhatsApp now (Increases by 70% the probability of payment)\n   - Send Reminder by Email (Increases the probability of payment by 20%) for example) and some action buttons [Send WhatsApp] [Send Email] for examples",
+    "dateAdded": "2024-01-24T15:55:03.300Z"
+  },
+  {
+    "url": "https://v0.dev/t/Om3hoUFycsd",
+    "label": "Template for prompt: a homepage with category1 and category2 list",
+    "dateAdded": "2024-01-24T15:55:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/Nic4p7ER8T9",
+    "label": "Template for prompt: blog page",
+    "dateAdded": "2024-01-24T15:55:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/dZ9Ip39hkPE",
+    "label": "Template for prompt: mobile screen with name search, attendance, test score, assignment grade entry",
+    "dateAdded": "2024-01-24T15:55:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/431pX0sMEw4",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-24T15:55:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/JLdiLAhjUgs",
+    "label": "Template for prompt: Create a single-page static web-based attendance application",
+    "dateAdded": "2024-01-24T15:55:03.301Z"
+  },
+  {
+    "url": "https://v0.dev/t/h9PnNaJkkCq",
+    "label": "Template for prompt: Login form with \"login\" and \"password\" fields",
+    "dateAdded": "2024-01-24T15:55:03.302Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZaQOKjdiGW8",
+    "label": "Template for prompt: Como eu poderia deixar este dashboard mais colorido porem sem exagero?",
+    "dateAdded": "2024-01-24T15:55:03.302Z"
   }
 ]
