@@ -84938,5 +84938,135 @@
     "url": "https://v0.dev/t/KTspE4ig8L2",
     "label": "Template for prompt: Generate AWS and GCP logos",
     "dateAdded": "2024-01-25T18:50:03.684Z"
+  },
+  {
+    "url": "https://v0.dev/t/hSbPPJqnS3t",
+    "label": "Template for prompt: Create a cinema-style header for me with a search bar and links to home and films",
+    "dateAdded": "2024-01-25T18:55:03.172Z"
+  },
+  {
+    "url": "https://v0.dev/t/VrUD2tgmlz5",
+    "label": "Template for prompt: Can you re-arrange the inputs for this form on this page to make it look nicer",
+    "dateAdded": "2024-01-25T18:55:03.173Z"
+  },
+  {
+    "url": "https://v0.dev/t/8O14557tql0",
+    "label": "Template for prompt: ChatterBox is a dynamic real-time chat application that allows users to engage in instant text messaging, voice calls, and video calls. Built with WebSocket for real-time communication and WebRTC for seamless audio and video capabilities, ChatterBox offers a versatile and user-friendly platform for staying connected.",
+    "dateAdded": "2024-01-25T18:55:03.173Z"
+  },
+  {
+    "url": "https://v0.dev/t/T46hUt0EMoP",
+    "label": "Template for prompt: an input component with a prefix and a suffix to add icons in both side of the input",
+    "dateAdded": "2024-01-25T18:55:03.173Z"
+  },
+  {
+    "url": "https://v0.dev/t/uBMDUXxFs9d",
+    "label": "Template for prompt: a minimalistic practice page where there are 10 questions, each question has 4 options, and a description section for the correct answer",
+    "dateAdded": "2024-01-25T18:55:03.173Z"
+  },
+  {
+    "url": "https://v0.dev/t/4uuU7DmNpgu",
+    "label": "Template for prompt: make it beautiful",
+    "dateAdded": "2024-01-25T18:55:03.173Z"
+  },
+  {
+    "url": "https://v0.dev/t/MYIQxpygw0z",
+    "label": "Template for prompt: an onboarding wizard for configuring car dealership software across multiple screens. I should have screens for contact information, communication templates, inventory management, document templates, and connected services",
+    "dateAdded": "2024-01-25T18:55:03.173Z"
+  },
+  {
+    "url": "https://v0.dev/t/MrD92f1d46s",
+    "label": "Template for prompt: create a 404 not found with background black",
+    "dateAdded": "2024-01-25T18:55:03.173Z"
+  },
+  {
+    "url": "https://v0.dev/t/C6WAU788Ve7",
+    "label": "Template for prompt: cloudflare wrapper dashboard, need sections for: CDN, Databases, Functions/routes, KV",
+    "dateAdded": "2024-01-25T18:55:03.174Z"
+  },
+  {
+    "url": "https://v0.dev/t/n3SopLOwWRp",
+    "label": "Template for prompt: Add some colors to make it more user-friendly",
+    "dateAdded": "2024-01-25T18:55:03.174Z"
+  },
+  {
+    "url": "https://v0.dev/t/L8QBaUyH5DJ",
+    "label": "Template for prompt: A nice management system dashboard using tremor js",
+    "dateAdded": "2024-01-25T18:55:03.174Z"
+  },
+  {
+    "url": "https://v0.dev/t/pXXIK0kTrv7",
+    "label": "Template for prompt: ChatterBox is a dynamic real-time chat application that allows users to engage in instant text messaging, voice calls, and video calls. Built with WebSocket for real-time communication and WebRTC for seamless audio and video capabilities, ChatterBox offers a versatile and user-friendly platform for staying connected.\nFeatures\n\n    Real-Time Messaging: Instantaneous text messaging for quick and responsive communication.\n    Voice Calls: Crystal-clear voice calls to enhance the depth of your conversations.\n    Video Calls: Seamless video calls for face-to-face interactions, even when miles apart.\n    WebSocket Integration: Robust WebSocket implementation for reliable real-time communication.\n    WebRTC Technology: Empowering ChatterBox with WebRTC ensures high-quality audio and video calls.\n    Secure Communication: Implementation of encryption protocols to prioritize user privacy.\n",
+    "dateAdded": "2024-01-25T18:55:03.174Z"
+  },
+  {
+    "url": "https://v0.dev/t/gIs5j4mzk9E",
+    "label": "Template for prompt: order completed page",
+    "dateAdded": "2024-01-25T18:55:03.174Z"
+  },
+  {
+    "url": "https://v0.dev/t/Pq106SiIJl5",
+    "label": "Template for prompt: A one-page site for a lead-generation agency, have navy blue theme. The site should feature a catchy hero section, a section of cards about what we do and specialize in, a section of company logos \"our partners\" and a contact form. There should be a footer with address, phone, and copywrites.",
+    "dateAdded": "2024-01-25T18:55:03.174Z"
+  },
+  {
+    "url": "https://v0.dev/t/OKRXisU0sih",
+    "label": "Template for prompt: a simple admin dashboard for a clothing line",
+    "dateAdded": "2024-01-25T18:55:03.175Z"
+  },
+  {
+    "url": "https://v0.dev/t/9yHtiLOqKOV",
+    "label": "Template for prompt: landing page for a checkin website",
+    "dateAdded": "2024-01-25T18:55:03.175Z"
+  },
+  {
+    "url": "https://v0.dev/t/gCo7vc0Tt5d",
+    "label": "Template for prompt: webshop page with products",
+    "dateAdded": "2024-01-25T18:55:03.175Z"
+  },
+  {
+    "url": "https://v0.dev/t/cNioeuiwKLm",
+    "label": "Template for prompt: make a home page for logged in users in a admin application",
+    "dateAdded": "2024-01-25T18:55:03.175Z"
+  },
+  {
+    "url": "https://v0.dev/t/fNTvoCGHIJQ",
+    "label": "Template for prompt: Hero Section:\n\nDesign a captivating hero section with a large background image or video that instantly communicates the essence of the product/service.\nSpecify the placement and styling of the headline and subheadline text for maximum impact.\nInclude a prominent call-to-action (CTA) button with an enticing label, encouraging users to explore further.\nFeature Section:\n\nCreate an engaging feature section with multiple cards showcasing the key features or benefits of the product/service.\nSpecify the layout, including the arrangement of images, text, and any icons representing features.\nImplement hover effects or animations to draw attention to individual features when interacted with.\nTestimonials Carousel:\n\nDevelop a testimonials section with a carousel displaying authentic customer reviews.\nSpecify the design of individual testimonial cards, including the customer's name and a brief quote.\nInclude navigation arrows or indicators for seamless browsing through testimonials.\nCall-to-Action",
+    "dateAdded": "2024-01-25T18:55:03.175Z"
+  },
+  {
+    "url": "https://v0.dev/t/ERqaOpoIv2l",
+    "label": "Template for prompt: A book lookalike component. It takes an array, even length, of objects containing texts and image urls as props, and renders a component that looks like an open book and allows flipping pages. The act of flipping pages should happen when clicking the side of the page, left means back, right means forward. It should have some basic animations when changing the page. The text should be placed on the bottom of each page.",
+    "dateAdded": "2024-01-25T18:55:03.175Z"
+  },
+  {
+    "url": "https://v0.dev/t/YfzflFiNbiS",
+    "label": "Template for prompt: A book lookalike component. It takes an array, even length, of objects containing texts and image urls as props, and renders a component that looks like an open book and allows flipping pages. The act of flipping pages should happen when clicking the side of the page, left means back, right means forward. It should have some basic animations when changing the page. The text should be placed on the bottom of each page.",
+    "dateAdded": "2024-01-25T18:55:03.175Z"
+  },
+  {
+    "url": "https://v0.dev/t/lVelcwiNZBs",
+    "label": "Template for prompt: a simple footed based on the image. I want it svery minimal and concise. no background",
+    "dateAdded": "2024-01-25T18:55:03.175Z"
+  },
+  {
+    "url": "https://v0.dev/t/E81ZYAWrfa4",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T18:55:03.176Z"
+  },
+  {
+    "url": "https://v0.dev/t/cCUNgH419ez",
+    "label": "Template for prompt: 'type1'과 'type2' 버튼 두개, dark color",
+    "dateAdded": "2024-01-25T18:55:03.176Z"
+  },
+  {
+    "url": "https://v0.dev/t/EmyeykLBGqY",
+    "label": "Template for prompt: A page for when users are blocked from viewing content that they are not subscribed to",
+    "dateAdded": "2024-01-25T18:55:03.176Z"
+  },
+  {
+    "url": "https://v0.dev/t/rfWRXTKd0a9",
+    "label": "Template for prompt: Make a beautiful card with an image at top and title and description at bottom, with tailwind css",
+    "dateAdded": "2024-01-25T18:55:03.177Z"
   }
 ]
