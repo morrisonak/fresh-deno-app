@@ -78173,5 +78173,130 @@
     "url": "https://v0.dev/t/NUOC6vG9Auo",
     "label": "Template for prompt: Create a wide-format image that is visually split into two sections. The left section should have a vivid blue background with a prominent white arrow pointing downwards, symbolizing progression or guidance. The right section needs to convey the idea of a dynamic slideshow: a series of diverse, candid images of professionals in a modern office setting, transitioning quickly, with each image appearing for just a half-second before switching to the next. To suggest this rapid change, overlay semi-transparent 'film-strip' frames or a subtle blur effect on the office scene. This effect should hint at movement and rapid activity, implying a slideshow of different collaborative moments in the workplace. The office should have a contemporary design, and the overall feeling should be lively and innovative, indicative of a vibrant, high-energy corporate culture.",
     "dateAdded": "2024-01-25T00:25:03.858Z"
+  },
+  {
+    "url": "https://v0.dev/t/13O1A2TRe5S",
+    "label": "Template for prompt: Add blog post in a CMS. Should contain: post title, slug, post content, post status",
+    "dateAdded": "2024-01-25T00:30:02.901Z"
+  },
+  {
+    "url": "https://v0.dev/t/KTOzsEA8amt",
+    "label": "Template for prompt: Create the UI elements from this design.",
+    "dateAdded": "2024-01-25T00:30:02.901Z"
+  },
+  {
+    "url": "https://v0.dev/t/gF1yNFihSbU",
+    "label": "Template for prompt: A minimalistic homecare nanny service directory listing with profile information page social media contact links and gallery for each user. authentication and signup with next auth social login provision",
+    "dateAdded": "2024-01-25T00:30:02.901Z"
+  },
+  {
+    "url": "https://v0.dev/t/gLIo5RNWSRz",
+    "label": "Template for prompt: tailwind sizes of champion dashboard",
+    "dateAdded": "2024-01-25T00:30:02.901Z"
+  },
+  {
+    "url": "https://v0.dev/t/UnWKsUGAU3o",
+    "label": "Template for prompt: Build a word of the day website",
+    "dateAdded": "2024-01-25T00:30:02.901Z"
+  },
+  {
+    "url": "https://v0.dev/t/E0M4IVjS8WC",
+    "label": "Template for prompt: Dashboard apps that display body conditions like weight, height, blood pressure, heart rate, exercise, muscle mass, bone density",
+    "dateAdded": "2024-01-25T00:30:02.901Z"
+  },
+  {
+    "url": "https://v0.dev/t/M0JDDPWpcgx",
+    "label": "Template for prompt: a profile form where the user can enter their name, gender, date of birth, time of birth,  if the time of birth is accurate and place of birth ",
+    "dateAdded": "2024-01-25T00:30:02.901Z"
+  },
+  {
+    "url": "https://v0.dev/t/d8at8z55Adh",
+    "label": "Template for prompt: a full website inspired on this website but changing the branding to a gym called \"MOVE\" where the highlight color is \"#10803A\" and main color is \"#D7D7D7\"",
+    "dateAdded": "2024-01-25T00:30:02.902Z"
+  },
+  {
+    "url": "https://v0.dev/t/n43IELOmYYj",
+    "label": "Template for prompt: portfolio for photographers showcase",
+    "dateAdded": "2024-01-25T00:30:02.902Z"
+  },
+  {
+    "url": "https://v0.dev/t/uYNtAP1QPLb",
+    "label": "Template for prompt: an online learning platform with different video courses",
+    "dateAdded": "2024-01-25T00:30:02.902Z"
+  },
+  {
+    "url": "https://v0.dev/t/oTksc39eCNh",
+    "label": "Template for prompt: I need a non profit website structrue for a inner city youth support type thing",
+    "dateAdded": "2024-01-25T00:30:02.902Z"
+  },
+  {
+    "url": "https://v0.dev/t/aonLM8BrsgN",
+    "label": "Template for prompt: Portfolio pages with Twitter-like design and vertical scrolling interactions",
+    "dateAdded": "2024-01-25T00:30:02.902Z"
+  },
+  {
+    "url": "https://v0.dev/t/JxS0XEt1oVf",
+    "label": "Template for prompt: web developer landing page",
+    "dateAdded": "2024-01-25T00:30:02.902Z"
+  },
+  {
+    "url": "https://v0.dev/t/G4h5mu3edrV",
+    "label": "Template for prompt: a landing page",
+    "dateAdded": "2024-01-25T00:30:02.902Z"
+  },
+  {
+    "url": "https://v0.dev/t/7tMbwUrrNG1",
+    "label": "Template for prompt: a comment list like the image",
+    "dateAdded": "2024-01-25T00:30:02.902Z"
+  },
+  {
+    "url": "https://v0.dev/t/Sm6cYIxZ6VC",
+    "label": "Template for prompt: amobile app for display blood oxygen levels and heart rate",
+    "dateAdded": "2024-01-25T00:30:02.903Z"
+  },
+  {
+    "url": "https://v0.dev/t/K6IYcIg41I8",
+    "label": "Template for prompt: a comment list",
+    "dateAdded": "2024-01-25T00:30:02.903Z"
+  },
+  {
+    "url": "https://v0.dev/t/ONx8884yuVL",
+    "label": "Template for prompt: The home screen of a food logging iOS app, showing visualizations for carbs, fats, and protein",
+    "dateAdded": "2024-01-25T00:30:02.903Z"
+  },
+  {
+    "url": "https://v0.dev/t/apaYN4qeidu",
+    "label": "Template for prompt: a vps hosting website like zap-hosting",
+    "dateAdded": "2024-01-25T00:30:02.903Z"
+  },
+  {
+    "url": "https://v0.dev/t/hvOwAMq4I7t",
+    "label": "Template for prompt: create a call log card that will show a visual breakdown of the call flow of inbound, answered, transfer hangup",
+    "dateAdded": "2024-01-25T00:30:02.903Z"
+  },
+  {
+    "url": "https://v0.dev/t/G2R6U1lshym",
+    "label": "Template for prompt: mobile app for doordash for farms",
+    "dateAdded": "2024-01-25T00:30:02.903Z"
+  },
+  {
+    "url": "https://v0.dev/t/kiCnnOxD0CN",
+    "label": "Template for prompt: Create a dashboard to to easily visualize call log details, the main part if a two and from number, but an accordian should open the detailed call flow of the call",
+    "dateAdded": "2024-01-25T00:30:02.903Z"
+  },
+  {
+    "url": "https://v0.dev/t/uUHzatcYIO7",
+    "label": "Template for prompt: service status, incident report page",
+    "dateAdded": "2024-01-25T00:30:02.903Z"
+  },
+  {
+    "url": "https://v0.dev/t/jMEMQqpeiyR",
+    "label": "Template for prompt: Crie um dashboard para visualizar tabelas xlsx de forma fácil e apartir dela criar lembretes de forma facil para enviar no email",
+    "dateAdded": "2024-01-25T00:30:02.904Z"
+  },
+  {
+    "url": "https://v0.dev/t/4CxwiKXdXne",
+    "label": "Template for prompt: a call log page that has a to and from number and underneath details about the call flow",
+    "dateAdded": "2024-01-25T00:30:02.904Z"
   }
 ]
