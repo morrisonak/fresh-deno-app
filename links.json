@@ -81533,5 +81533,135 @@
     "url": "https://v0.dev/t/H5wxQZtWfos",
     "label": "Template for prompt: Make me toast",
     "dateAdded": "2024-01-25T15:35:03.172Z"
+  },
+  {
+    "url": "https://v0.dev/t/sTsRvPuyu3N",
+    "label": "Template for prompt: A dark color schemed minimalist dashboard and app launcher for a homelab",
+    "dateAdded": "2024-01-25T15:40:03.576Z"
+  },
+  {
+    "url": "https://v0.dev/t/1fr8oD2fVSM",
+    "label": "Template for prompt: Create a page to display jobs/tickets. including job number, subject, date created a linked customer,\nthe ticket type and status.",
+    "dateAdded": "2024-01-25T15:40:03.576Z"
+  },
+  {
+    "url": "https://v0.dev/t/YPw4iRSAdj6",
+    "label": "Template for prompt: design a minimal table for item, price and description",
+    "dateAdded": "2024-01-25T15:40:03.576Z"
+  },
+  {
+    "url": "https://v0.dev/t/Hyq43LmrrXl",
+    "label": "Template for prompt: using tailwind",
+    "dateAdded": "2024-01-25T15:40:03.576Z"
+  },
+  {
+    "url": "https://v0.dev/t/GEBG44IKQXH",
+    "label": "Template for prompt: a saas dashbaoard to manage network infrastructure",
+    "dateAdded": "2024-01-25T15:40:03.576Z"
+  },
+  {
+    "url": "https://v0.dev/t/HXQUtrTGBEG",
+    "label": "Template for prompt: skeleton of a pie chart and 2 lines of text",
+    "dateAdded": "2024-01-25T15:40:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/mGu8ucxrD9S",
+    "label": "Template for prompt: a weekly kanban board for gym exercise",
+    "dateAdded": "2024-01-25T15:40:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/g4kaH6ifmhP",
+    "label": "Template for prompt: an admin dashboard for my watch website that allows me to create new listings, edit existing listings, as well as see recent sales, with analyzing graphs. ",
+    "dateAdded": "2024-01-25T15:40:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/Dn9JKfj5lsI",
+    "label": "Template for prompt: a landing page for an agro startup",
+    "dateAdded": "2024-01-25T15:40:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/xfvuznaEqfu",
+    "label": "Template for prompt: Generate two buttons in a group where the primary is Apply Changes and the secondary Reset, both have Icons",
+    "dateAdded": "2024-01-25T15:40:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/unolIxJIwiw",
+    "label": "Template for prompt: A landing page hero section for e-commerce page.",
+    "dateAdded": "2024-01-25T15:40:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/4eHDcOjH7hX",
+    "label": "Template for prompt: Canb you create a layout for me where the right 50% is a PDF viewer and the left is a drag and drop editor of blocks?",
+    "dateAdded": "2024-01-25T15:40:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/PWgrVUtLn65",
+    "label": "Template for prompt: maintenance mode page ",
+    "dateAdded": "2024-01-25T15:40:03.577Z"
+  },
+  {
+    "url": "https://v0.dev/t/eA3EYy97aWr",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-25T15:40:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/ARJU5UfDVKU",
+    "label": "Template for prompt: I need a webpage for a social media app that allows users to have conversations with their friends about a video podcasts while watching the video",
+    "dateAdded": "2024-01-25T15:40:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/fOyMKapMJ7r",
+    "label": "Template for prompt: Create a modern product pricing component with 3 different tiers that have a section for the price and bullet pointed list of features each tier gets",
+    "dateAdded": "2024-01-25T15:40:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ic0SdLVqMZG",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-25T15:40:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/yjfdty31hhL",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T15:40:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/44Kixvwe5Tn",
+    "label": "Template for prompt: navbar for resturant",
+    "dateAdded": "2024-01-25T15:40:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/fln4XqnAB51",
+    "label": "Template for prompt: a portfolio website projects section",
+    "dateAdded": "2024-01-25T15:40:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/oOu8AECI2iV",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-25T15:40:03.578Z"
+  },
+  {
+    "url": "https://v0.dev/t/yGVnnrXbBPt",
+    "label": "Template for prompt: i have my code i want responsive or working right this is my code \nimport React, { useState } from 'react';\nimport { Layout, Menu, Button, Dropdown, Avatar, Modal } from 'antd';\nimport { ExclamationCircleOutlined, LogoutOutlined, ProfileOutlined } from '@ant-design/icons';\nimport Link from 'next/link';\nimport { useRouter } from 'next/router';\nimport logo from \"../../public/logo.png\";\nimport Image from 'next/image';\n\nconst { Header } = Layout;\nconst { SubMenu } = Menu;\nconst { confirm } = Modal;\n\n\nconst Navbar = () => {\n  const [collapsed, setCollapsed] = useState(false);\n  const [hoveredAboutUs, setHoveredAboutUs] = useState(false);\n  const [hoveredExplore, setHoveredExplore] = useState(false);\n  const [hoveredServices, setHoveredServices] = useState(false);\n  const { push} = useRouter();\n  const router = useRouter();\n  const [isLoggedIn, setIsLoggedIn] = useState(false);  \n  const toggleCollapsed = () => {\n    setCollapsed(!collapsed);\n  };\n// pop up confirm//\nconst handleLogout = () ",
+    "dateAdded": "2024-01-25T15:40:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/4hhom2Dvn6F",
+    "label": "Template for prompt: Group Activity Network: landing page for a mobile website focused on reviewing and listing lunch spots and activities for groups or companies.",
+    "dateAdded": "2024-01-25T15:40:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/4mhFuajxMzK",
+    "label": "Template for prompt: an ats dashboard",
+    "dateAdded": "2024-01-25T15:40:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/aUbdWbT2gdE",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T15:40:03.579Z"
+  },
+  {
+    "url": "https://v0.dev/t/erm0FNE6SnC",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-25T15:40:03.579Z"
   }
 ]
