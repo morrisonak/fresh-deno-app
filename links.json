@@ -85973,5 +85973,130 @@
     "url": "https://v0.dev/t/Zncv9spMTpr",
     "label": "Template for prompt: a section that tells the service provider on how to improve their profile with action button",
     "dateAdded": "2024-01-25T19:55:03.816Z"
+  },
+  {
+    "url": "https://v0.dev/t/duEvYPFGEHg",
+    "label": "Template for prompt: I want it to generate a page with this frame by keeping the frame code but inserting code inside the widget that allows me to select a photo as the logo and a footer and that both are mobile response <iframe src=\"https://skipshift.io/?skipwidget&ref_wallet=0x3ECfEb66Cf6ce1C58EE082BA855ae99139878d8c&activeMenuTextColor=ff08fe&inactiveMenuTextColor=ea35f6&backgroundColor=fbfbff&buttonGradient=7F00FF&inputBg=ffffff&infoText=000000&headerColor=7F00FF\" id=\"_RBX_SKIPSHIFT_WIDGET\" class=\"skippyWidget\"></iframe>",
+    "dateAdded": "2024-01-25T20:00:02.448Z"
+  },
+  {
+    "url": "https://v0.dev/t/vkiBQLfr3KR",
+    "label": "Template for prompt:  give me a card component. it wll have a background image. aspect ratio will be 1/1. The text X-Trans IV will be in the middle of the card",
+    "dateAdded": "2024-01-25T20:00:02.448Z"
+  },
+  {
+    "url": "https://v0.dev/t/qVEkj31M79C",
+    "label": "Template for prompt: A whats app or discord messaging client",
+    "dateAdded": "2024-01-25T20:00:02.448Z"
+  },
+  {
+    "url": "https://v0.dev/t/a4uLSjg52ZQ",
+    "label": "Template for prompt: a dahboard view for warhammer nerds",
+    "dateAdded": "2024-01-25T20:00:02.448Z"
+  },
+  {
+    "url": "https://v0.dev/t/QT181rDHCdb",
+    "label": "Template for prompt: Voglio che mi generi una pagina con questo frame mantenendo il codice del frame ma inserendo all'interno del widget un codice che mi permetta di selezionare una foto come logo e un footer e che siano entrambi response mobile <iframe src=\"https://skipshift.io/?skipwidget&ref_wallet=0x3ECfEb66Cf6ce1C58EE082BA855ae99139878d8c&activeMenuTextColor=ff08fe&inactiveMenuTextColor=ea35f6&backgroundColor=fbfbff&buttonGradient=7F00FF&inputBg=ffffff&infoText=000000&headerColor=7F00FF\" id=\"_RBX_SKIPSHIFT_WIDGET\" class=\"skippyWidget\"></iframe>",
+    "dateAdded": "2024-01-25T20:00:02.449Z"
+  },
+  {
+    "url": "https://v0.dev/t/9A0MyZ67BE1",
+    "label": "Template for prompt: a dashboard for supplier management with a message popping up from your manager",
+    "dateAdded": "2024-01-25T20:00:02.449Z"
+  },
+  {
+    "url": "https://v0.dev/t/AzjONebp8X0",
+    "label": "Template for prompt: A beautiful table with grouped columns and nested headers.",
+    "dateAdded": "2024-01-25T20:00:02.449Z"
+  },
+  {
+    "url": "https://v0.dev/t/4daPE11qYF3",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T20:00:02.449Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZAqgSUCWYxl",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T20:00:02.449Z"
+  },
+  {
+    "url": "https://v0.dev/t/mFboe4rWJmt",
+    "label": "Template for prompt: Make for me landing page layout for my website about homemade products like olive oil and whine.",
+    "dateAdded": "2024-01-25T20:00:02.450Z"
+  },
+  {
+    "url": "https://v0.dev/t/rv1IkGBLhp1",
+    "label": "Template for prompt: an about page for a web geography game",
+    "dateAdded": "2024-01-25T20:00:02.450Z"
+  },
+  {
+    "url": "https://v0.dev/t/KjDEsf6OVpr",
+    "label": "Template for prompt: a loading spinner in lgbtq colors",
+    "dateAdded": "2024-01-25T20:00:02.450Z"
+  },
+  {
+    "url": "https://v0.dev/t/0HIZdesTzYM",
+    "label": "Template for prompt: faça uma pagina para mim, aonde eu tenho tres imagens uma ao lado da outra, e ao clicar  nelas que apareça abaixo um balão informando o nome do produto e a descricao",
+    "dateAdded": "2024-01-25T20:00:02.450Z"
+  },
+  {
+    "url": "https://v0.dev/t/mYzMbDctxVP",
+    "label": "Template for prompt: I want to display two json files side by side",
+    "dateAdded": "2024-01-25T20:00:02.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/FZBWbFcIpg6",
+    "label": "Template for prompt: build me a site that has a container in the center and images on the side margins of the containor but not the top and bottom",
+    "dateAdded": "2024-01-25T20:00:02.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/G2ji9dugx95",
+    "label": "Template for prompt:  Online Store home page",
+    "dateAdded": "2024-01-25T20:00:02.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/8j2tvec7cNY",
+    "label": "Template for prompt: A dashboard with a sidebar nav and table",
+    "dateAdded": "2024-01-25T20:00:02.451Z"
+  },
+  {
+    "url": "https://v0.dev/t/yTq9vfOxRUy",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T20:00:02.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/CAByYqzwoqZ",
+    "label": "Template for prompt: minimalist and intuitive user interface design for a Fiori SAPUI5 application that facilitates managing, updating, and confirming employee capabilities in an organization",
+    "dateAdded": "2024-01-25T20:00:02.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/piKJveKIhJQ",
+    "label": "Template for prompt: four big central buttons (\"Jouer\",\"Relaxer\",\"Discuter\"",
+    "dateAdded": "2024-01-25T20:00:02.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/rbqt7smwHU8",
+    "label": "Template for prompt: Un menu vertical para una web que sera un admin de un ecommerce. Quiero usar heroicons",
+    "dateAdded": "2024-01-25T20:00:02.452Z"
+  },
+  {
+    "url": "https://v0.dev/t/dUgw87UnWoc",
+    "label": "Template for prompt: create this sidebar",
+    "dateAdded": "2024-01-25T20:00:02.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/arLJCYdrJAd",
+    "label": "Template for prompt: responsive navbar with logo on left . menu in center \"home about us contact us services. and right side button with text Request a Demo. it should be mobile reponsive with humberger menu icon on mobiles",
+    "dateAdded": "2024-01-25T20:00:02.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/VYssYBbAjms",
+    "label": "Template for prompt: 生成一个用户管理列表页面， 表格中不同行显示不同用户姓名，年龄，性别，手机号，  右侧显示 删除， 修改按钮。 列表上部要添加搜索框",
+    "dateAdded": "2024-01-25T20:00:02.453Z"
+  },
+  {
+    "url": "https://v0.dev/t/njkiVYB4vPt",
+    "label": "Template for prompt: four main buttons ",
+    "dateAdded": "2024-01-25T20:00:02.453Z"
   }
 ]
