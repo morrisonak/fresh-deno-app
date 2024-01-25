@@ -81793,5 +81793,135 @@
     "url": "https://v0.dev/t/eA3EYy97aWr",
     "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
     "dateAdded": "2024-01-25T15:45:04.132Z"
+  },
+  {
+    "url": "https://v0.dev/t/gG9MoIlo9hu",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T15:50:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/icbc4ocoXBW",
+    "label": "Template for prompt: Create a compact and intuitive \"Promotional Credits\" section within the account billing page. Feature an interactive display of applied credits, each linked to its respective promotional campaign. Include clear, concise tooltips or a help icon explaining the deduction process of credits. Implement a visually distinct element, like color-coded tags or icons, to indicate the expiration date of each credit. The layout should be clean, with a focus on readability and ease of navigation, ensuring users can quickly grasp their credits' status, origin, and validity period.",
+    "dateAdded": "2024-01-25T15:50:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/R6OnuCaRNIa",
+    "label": "Template for prompt: an user edit modal",
+    "dateAdded": "2024-01-25T15:50:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/pEasMquPC2c",
+    "label": "Template for prompt: A landing page for my design portfolio",
+    "dateAdded": "2024-01-25T15:50:03.314Z"
+  },
+  {
+    "url": "https://v0.dev/t/EKhnNM0TLR6",
+    "label": "Template for prompt: if I send you a website link can you view it",
+    "dateAdded": "2024-01-25T15:50:03.314Z"
+  },
+  {
+    "url": "https://v0.dev/t/KFfoM76tzcN",
+    "label": "Template for prompt: a hangman game with form for letter submission. also simple hangman illustration that changes as guesses are wrong",
+    "dateAdded": "2024-01-25T15:50:03.314Z"
+  },
+  {
+    "url": "https://v0.dev/t/bkvza1xQJ7W",
+    "label": "Template for prompt: 为村务信息收集系统生成一个菜单栏，该系统包含以下功能。 UI 界面请使用中文\n\n用户管理 - 创建以及管理用户账户\n信息收集 - 收集村务相关信息\n统计分析 - 生成和分析村务统计报表\n数据上报 - 将数据上传给上级组织",
+    "dateAdded": "2024-01-25T15:50:03.314Z"
+  },
+  {
+    "url": "https://v0.dev/t/RagjfWsfgKs",
+    "label": "Template for prompt: An Inventory table having sort buttons and search bar on top right.",
+    "dateAdded": "2024-01-25T15:50:03.314Z"
+  },
+  {
+    "url": "https://v0.dev/t/zmp7K2xMaZQ",
+    "label": "Template for prompt: an application that aggregates user feedback into a tree view",
+    "dateAdded": "2024-01-25T15:50:03.314Z"
+  },
+  {
+    "url": "https://v0.dev/t/h9wCfkDE1nj",
+    "label": "Template for prompt: sub-hero section promoting 2 accounts, student and host with benifits",
+    "dateAdded": "2024-01-25T15:50:03.314Z"
+  },
+  {
+    "url": "https://v0.dev/t/D7VEO5qlcUl",
+    "label": "Template for prompt: make a fancy management interface for managing vps, it should have data like cpu / ram / trafic consumption, make the general colors purple/pink, glowing effects, and a shadcn like user interface\nAdd different categoris on the side, a general informations tab, an advanced informations tab, management tab, process tabs, etc...",
+    "dateAdded": "2024-01-25T15:50:03.315Z"
+  },
+  {
+    "url": "https://v0.dev/t/2D0M3QAFoTa",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and a cta button. The hero layout has the heading in the left and an image to the right",
+    "dateAdded": "2024-01-25T15:50:03.315Z"
+  },
+  {
+    "url": "https://v0.dev/t/yRN90Y3PO9w",
+    "label": "Template for prompt: pagina que muestra un numero en el centro y abajo 3 botones",
+    "dateAdded": "2024-01-25T15:50:03.315Z"
+  },
+  {
+    "url": "https://v0.dev/t/oOlFOUfd2Gp",
+    "label": "Template for prompt: render 10 images in a grid, max image size should be 150px height and width ",
+    "dateAdded": "2024-01-25T15:50:03.315Z"
+  },
+  {
+    "url": "https://v0.dev/t/WIBbHS7wQYZ",
+    "label": "Template for prompt: language learning website, multiple choice quiz with microphone to test speech",
+    "dateAdded": "2024-01-25T15:50:03.315Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZKeZD1RzmOu",
+    "label": "Template for prompt: REAL-TIME Sales planning dashboard which allows leadership to see current budgets, sales in the pipeline with statuses, and ability to search, and dig into data, as well as filter it",
+    "dateAdded": "2024-01-25T15:50:03.316Z"
+  },
+  {
+    "url": "https://v0.dev/t/YgIFuwn70Ss",
+    "label": "Template for prompt: create with naive ui",
+    "dateAdded": "2024-01-25T15:50:03.316Z"
+  },
+  {
+    "url": "https://v0.dev/t/tOCdEFBcEtt",
+    "label": "Template for prompt: create with naive ui",
+    "dateAdded": "2024-01-25T15:50:03.316Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZXYDccNLidK",
+    "label": "Template for prompt: create a why choose use section",
+    "dateAdded": "2024-01-25T15:50:03.316Z"
+  },
+  {
+    "url": "https://v0.dev/t/MVUNflYgFAu",
+    "label": "Template for prompt: A layout where the left side is a block editor with blocks and some inputs, the right side is a PDF viewer. It should be mobile optimized",
+    "dateAdded": "2024-01-25T15:50:03.316Z"
+  },
+  {
+    "url": "https://v0.dev/t/hkrPsYvgsLu",
+    "label": "Template for prompt: A wireframe landing page for an educational platform containing two sections advertising new features and an about section below.",
+    "dateAdded": "2024-01-25T15:50:03.316Z"
+  },
+  {
+    "url": "https://v0.dev/t/ltxRERrrSDZ",
+    "label": "Template for prompt: create a component for just one question with 5 radio button answer",
+    "dateAdded": "2024-01-25T15:50:03.317Z"
+  },
+  {
+    "url": "https://v0.dev/t/MHHTpbzHtpy",
+    "label": "Template for prompt: i need a layout with a row of cards taking full screen height. First card has width 140px, next cards are 300px whide, if there the cards do not fill on the screen they will be scrolled horizontally",
+    "dateAdded": "2024-01-25T15:50:03.317Z"
+  },
+  {
+    "url": "https://v0.dev/t/X0DJSVzcLU3",
+    "label": "Template for prompt: create shoping cart checkout",
+    "dateAdded": "2024-01-25T15:50:03.317Z"
+  },
+  {
+    "url": "https://v0.dev/t/XCiRufdUQwl",
+    "label": "Template for prompt: Create a page to display the details for a selected job/ticket. Including job number, subject, date created a linked customer, the ticket type and status.",
+    "dateAdded": "2024-01-25T15:50:03.317Z"
+  },
+  {
+    "url": "https://v0.dev/t/uvssBauWC1X",
+    "label": "Template for prompt: a e-commerce product page .",
+    "dateAdded": "2024-01-25T15:50:03.318Z"
   }
 ]
