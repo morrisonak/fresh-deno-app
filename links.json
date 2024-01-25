@@ -86358,5 +86358,135 @@
     "url": "https://v0.dev/t/ovaQZ8th3G3",
     "label": "Template for prompt: create this design",
     "dateAdded": "2024-01-25T20:10:03.415Z"
+  },
+  {
+    "url": "https://v0.dev/t/ceDqtVr5Wli",
+    "label": "Template for prompt: create a landing page for shadcn ui",
+    "dateAdded": "2024-01-25T20:15:03.393Z"
+  },
+  {
+    "url": "https://v0.dev/t/aR1T00a8f8u",
+    "label": "Template for prompt: give me react and tailwind code of this photo",
+    "dateAdded": "2024-01-25T20:15:03.394Z"
+  },
+  {
+    "url": "https://v0.dev/t/pSSwuG0zn7b",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T20:15:03.394Z"
+  },
+  {
+    "url": "https://v0.dev/t/OFqgroJoRun",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T20:15:03.394Z"
+  },
+  {
+    "url": "https://v0.dev/t/cOyD6F2GTGS",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T20:15:03.394Z"
+  },
+  {
+    "url": "https://v0.dev/t/9wvAxgeIgz4",
+    "label": "Template for prompt: redesign it, make it more modern and user friendly especially edit messages section since it is ugly and bulky;\n\nthis is page for right screenshot editing; use bulma framework",
+    "dateAdded": "2024-01-25T20:15:03.395Z"
+  },
+  {
+    "url": "https://v0.dev/t/SU3H1fsrzzV",
+    "label": "Template for prompt: redesign it, make it more modern and user friendly especially edit messages section since it is ugly and bulky;\n\nthis is page for right screenshot editing; use bulma framework",
+    "dateAdded": "2024-01-25T20:15:03.395Z"
+  },
+  {
+    "url": "https://v0.dev/t/TjiLHFbtkWr",
+    "label": "Template for prompt: redesign it, make it more modern and user friendly especially edit messages section since it is ugly and bulky;\n\nthis is page for right screenshot editing; use bulma framework",
+    "dateAdded": "2024-01-25T20:15:03.395Z"
+  },
+  {
+    "url": "https://v0.dev/t/EjlLWAgP8Kf",
+    "label": "Template for prompt: Generate a slack UI with a channel called \"incidents\", showing alerts that a new incident was created",
+    "dateAdded": "2024-01-25T20:15:03.395Z"
+  },
+  {
+    "url": "https://v0.dev/t/3S0AIW9RwMK",
+    "label": "Template for prompt: mobile bottom menu for a fitness app",
+    "dateAdded": "2024-01-25T20:15:03.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/7lrjRMTFCvP",
+    "label": "Template for prompt: A document editor that is meant to write inspection reports. It is divided into three sections. The central section is a classic document editor like e.g. Google Docs. The left columns is where you can bring up the document of the ISO Standard you're implementing. You can select a section in the standard. Then in the right bar, you can see all internal documents you have that are relevant for the section in the ISO standard. you can search them but they will also be prefiltered already based on the iso section and the content in your doc.",
+    "dateAdded": "2024-01-25T20:15:03.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/5zDH5dcK8KA",
+    "label": "Template for prompt: build a canvas control panel in react that allows users to zoom in/out, pan let/right and pan up/down the canvas? This should looks like the canvas control panel seen miro.com",
+    "dateAdded": "2024-01-25T20:15:03.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/gzkrfdAsLHc",
+    "label": "Template for prompt: i want to replicate this site header",
+    "dateAdded": "2024-01-25T20:15:03.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/1tDeMM7Pc4v",
+    "label": "Template for prompt: create an ui for selecting available options to generate image with a title and image file selector",
+    "dateAdded": "2024-01-25T20:15:03.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/N8aBqHRO1CY",
+    "label": "Template for prompt: Create a small workflow editor where you can create a track and add processes between.",
+    "dateAdded": "2024-01-25T20:15:03.397Z"
+  },
+  {
+    "url": "https://v0.dev/t/KndGiJgvndq",
+    "label": "Template for prompt: card data horse ",
+    "dateAdded": "2024-01-25T20:15:03.397Z"
+  },
+  {
+    "url": "https://v0.dev/t/GKZoYOEVEWh",
+    "label": "Template for prompt: یه فیلم ۱۰ ثانیه ای که مورچه ها یک مخلوط کن حمل میکنن بساز",
+    "dateAdded": "2024-01-25T20:15:03.397Z"
+  },
+  {
+    "url": "https://v0.dev/t/I0PamC9jz3Z",
+    "label": "Template for prompt: landingpage for a constructing service company",
+    "dateAdded": "2024-01-25T20:15:03.397Z"
+  },
+  {
+    "url": "https://v0.dev/t/bD2h26KamaZ",
+    "label": "Template for prompt: landingpage for a constructing service company",
+    "dateAdded": "2024-01-25T20:15:03.397Z"
+  },
+  {
+    "url": "https://v0.dev/t/4c7Kr0Fy34N",
+    "label": "Template for prompt: make an SVG like this please",
+    "dateAdded": "2024-01-25T20:15:03.398Z"
+  },
+  {
+    "url": "https://v0.dev/t/Gu8zERVoWgL",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T20:15:03.398Z"
+  },
+  {
+    "url": "https://v0.dev/t/rcZt7RPzlgi",
+    "label": "Template for prompt: create a website with a mobile responsive logo and a mobile responsive footer.",
+    "dateAdded": "2024-01-25T20:15:03.398Z"
+  },
+  {
+    "url": "https://v0.dev/t/FDAQDqrexQI",
+    "label": "Template for prompt: create a blog site",
+    "dateAdded": "2024-01-25T20:15:03.398Z"
+  },
+  {
+    "url": "https://v0.dev/t/KQTgTimja6f",
+    "label": "Template for prompt: an icon that represents an A.I. assistant",
+    "dateAdded": "2024-01-25T20:15:03.399Z"
+  },
+  {
+    "url": "https://v0.dev/t/AJcy0s7vM7e",
+    "label": "Template for prompt: an admin dashboard with sublayout where an item is selected",
+    "dateAdded": "2024-01-25T20:15:03.399Z"
+  },
+  {
+    "url": "https://v0.dev/t/tRs3XVvPK1y",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-25T20:15:03.399Z"
   }
 ]
