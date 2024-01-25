@@ -80498,5 +80498,135 @@
     "url": "https://v0.dev/t/bk2Ci3SMsSA",
     "label": "Template for prompt: telegram, I want a concrete code, I want telegram to be exactly as in the picture, I want it to be fixed",
     "dateAdded": "2024-01-25T01:55:02.991Z"
+  },
+  {
+    "url": "https://v0.dev/t/b2jg0W7rQFo",
+    "label": "Template for prompt: command modal",
+    "dateAdded": "2024-01-25T02:00:04.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZANywRqEbox",
+    "label": "Template for prompt: An articles page with offset pagination (load more button) and a state where the articles are stores + the total count etc and filters handling as well",
+    "dateAdded": "2024-01-25T02:00:04.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/dHrkIAfo3Pu",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-25T02:00:04.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/7Vjyzp1nF98",
+    "label": "Template for prompt: a small application to run planning poker with team members",
+    "dateAdded": "2024-01-25T02:00:04.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/eBVUAEk07e9",
+    "label": "Template for prompt: ai chat app tutor mobile and desktop",
+    "dateAdded": "2024-01-25T02:00:04.144Z"
+  },
+  {
+    "url": "https://v0.dev/t/NNPhR5g3tgm",
+    "label": "Template for prompt: blog detail",
+    "dateAdded": "2024-01-25T02:00:04.144Z"
+  },
+  {
+    "url": "https://v0.dev/t/MSLsPRMbJ9h",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-25T02:00:04.144Z"
+  },
+  {
+    "url": "https://v0.dev/t/IZXL1R5ohj2",
+    "label": "Template for prompt: has un restyle a este pequeño menu",
+    "dateAdded": "2024-01-25T02:00:04.144Z"
+  },
+  {
+    "url": "https://v0.dev/t/xykrWbQLLE0",
+    "label": "Template for prompt: has un restyle a este pequeño menu",
+    "dateAdded": "2024-01-25T02:00:04.145Z"
+  },
+  {
+    "url": "https://v0.dev/t/mTUQJvkdC1M",
+    "label": "Template for prompt: RV education 101 homepage",
+    "dateAdded": "2024-01-25T02:00:04.145Z"
+  },
+  {
+    "url": "https://v0.dev/t/Orm1DUeSD9T",
+    "label": "Template for prompt: Captions",
+    "dateAdded": "2024-01-25T02:00:04.145Z"
+  },
+  {
+    "url": "https://v0.dev/t/PQnLSyhXLcP",
+    "label": "Template for prompt: create an area that i can show some modals to use some feature, like: \nsome cards of calculator or product",
+    "dateAdded": "2024-01-25T02:00:04.145Z"
+  },
+  {
+    "url": "https://v0.dev/t/8psLhvy7Ryn",
+    "label": "Template for prompt: an article page where a list of recommended articles is shown on the side ",
+    "dateAdded": "2024-01-25T02:00:04.146Z"
+  },
+  {
+    "url": "https://v0.dev/t/vKxh03icbuf",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-25T02:00:04.146Z"
+  },
+  {
+    "url": "https://v0.dev/t/5rMoUuunSnk",
+    "label": "Template for prompt: a minimalist component for a chat conversation. i only know an emoji for the other person in the chat, and their active status. ",
+    "dateAdded": "2024-01-25T02:00:04.146Z"
+  },
+  {
+    "url": "https://v0.dev/t/pqEXzoJ3wTk",
+    "label": "Template for prompt: Create an online store page",
+    "dateAdded": "2024-01-25T02:00:04.146Z"
+  },
+  {
+    "url": "https://v0.dev/t/ztMpyGinwiL",
+    "label": "Template for prompt: loading page with a scanning animation",
+    "dateAdded": "2024-01-25T02:00:04.146Z"
+  },
+  {
+    "url": "https://v0.dev/t/8EKQlAf7fWW",
+    "label": "Template for prompt: 노드링크 편집기",
+    "dateAdded": "2024-01-25T02:00:04.146Z"
+  },
+  {
+    "url": "https://v0.dev/t/w16p7kyaxB3",
+    "label": "Template for prompt: a functional chatbot that uses the openai api",
+    "dateAdded": "2024-01-25T02:00:04.147Z"
+  },
+  {
+    "url": "https://v0.dev/t/w96Nyk2xMVr",
+    "label": "Template for prompt: generate for me a login page ",
+    "dateAdded": "2024-01-25T02:00:04.147Z"
+  },
+  {
+    "url": "https://v0.dev/t/XktnEiIr4b9",
+    "label": "Template for prompt: telegram, I want a concrete code, I want telegram to be exactly as in the picture, I want it to be fixed",
+    "dateAdded": "2024-01-25T02:00:04.147Z"
+  },
+  {
+    "url": "https://v0.dev/t/LfW9EwJOob1",
+    "label": "Template for prompt: 16:9 비율의 노드링크의  경위도와 속성을 편집하는 프로그램 디자인",
+    "dateAdded": "2024-01-25T02:00:04.147Z"
+  },
+  {
+    "url": "https://v0.dev/t/WrrHYHn3pxR",
+    "label": "Template for prompt: 메뉴 아이콘 클릭 시 하단에 부드럽게 스크롤로 리스트가 보이게 만들어줘",
+    "dateAdded": "2024-01-25T02:00:04.147Z"
+  },
+  {
+    "url": "https://v0.dev/t/FTjHAsPCshy",
+    "label": "Template for prompt: loading page",
+    "dateAdded": "2024-01-25T02:00:04.148Z"
+  },
+  {
+    "url": "https://v0.dev/t/qQxHT9DJySZ",
+    "label": "Template for prompt: a saas product interface of a one called speakease with clicky buttons. spekease is about helping people learning languages with ai.",
+    "dateAdded": "2024-01-25T02:00:04.148Z"
+  },
+  {
+    "url": "https://v0.dev/t/sczXCgVtwmV",
+    "label": "Template for prompt: app to call for and interpreter, you can select the language and speciality, and make a voice call or a videcall",
+    "dateAdded": "2024-01-25T02:00:04.148Z"
   }
 ]
