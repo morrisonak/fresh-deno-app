@@ -87898,5 +87898,130 @@
     "url": "https://v0.dev/t/p9uLDqrimy5",
     "label": "Template for prompt: create a website for a lawyer ",
     "dateAdded": "2024-01-25T21:10:02.930Z"
+  },
+  {
+    "url": "https://v0.dev/t/tWovsMkTsjU",
+    "label": "Template for prompt: observability saas pricing page",
+    "dateAdded": "2024-01-25T21:15:02.508Z"
+  },
+  {
+    "url": "https://v0.dev/t/6LvcXCxQ70H",
+    "label": "Template for prompt: create a confirm page for email verification",
+    "dateAdded": "2024-01-25T21:15:02.508Z"
+  },
+  {
+    "url": "https://v0.dev/t/DfYsTwxxGpm",
+    "label": "Template for prompt: list for sale dialog, shares and price",
+    "dateAdded": "2024-01-25T21:15:02.508Z"
+  },
+  {
+    "url": "https://v0.dev/t/ELRe8iJplWp",
+    "label": "Template for prompt: for a delivery website .Create a card for a dish that contains the title, description, image and a button to add, increment or decrement the number of items added",
+    "dateAdded": "2024-01-25T21:15:02.508Z"
+  },
+  {
+    "url": "https://v0.dev/t/TG1yrSVmXTF",
+    "label": "Template for prompt: build a dashboard for a web analytics page for a enterprise chat application",
+    "dateAdded": "2024-01-25T21:15:02.509Z"
+  },
+  {
+    "url": "https://v0.dev/t/AgEpcFJqL4m",
+    "label": "Template for prompt: make this product page describing a product",
+    "dateAdded": "2024-01-25T21:15:02.509Z"
+  },
+  {
+    "url": "https://v0.dev/t/zNvNJHTd8qM",
+    "label": "Template for prompt: saas pricing page",
+    "dateAdded": "2024-01-25T21:15:02.509Z"
+  },
+  {
+    "url": "https://v0.dev/t/N8WweN5l5wA",
+    "label": "Template for prompt: 1. Overview\nRestaker.xyz is an aggregator platform for restaking protocols. It aims to provide users with a comprehensive overview of various restaking protocols, their metrics, and functionality to manage investments in these protocols.\n\n2. Site Structure\nThe site will primarily consist of three main pages:\n\nHome Page\nDashboard Page\nProtocol Detail Page\n3. Home Page\nPurpose: To provide a summary of the total value restaked, key metrics about Eigenlayer, and the number of protocols available.\nLayout:\nHeader: Including logo, navigation (Home, Dashboard), and connect wallet button.\nMain Section:\nTotal Value Restaked: A dynamic display showing the current total value.\nKey Metrics: Display metrics like total protocols, average yield, etc.\nSortable Table: A table listing all restaking protocols. Each row is a full-width card containing key information about each protocol.\nFooter: Basic site info, links to legal and privacy pages.\n4. Dashboard Page\nPurpose: To provide a personalized overview",
+    "dateAdded": "2024-01-25T21:15:02.509Z"
+  },
+  {
+    "url": "https://v0.dev/t/hH8udcStH8B",
+    "label": "Template for prompt: a property listing page with map",
+    "dateAdded": "2024-01-25T21:15:02.509Z"
+  },
+  {
+    "url": "https://v0.dev/t/vxDTXX74Yjb",
+    "label": "Template for prompt: two sticky scrolling panels, left side is three paragraphs spaced 100vh vertically between, right side is a fixed image. repeat layout 3 times.",
+    "dateAdded": "2024-01-25T21:15:02.509Z"
+  },
+  {
+    "url": "https://v0.dev/t/sskzjWXOodU",
+    "label": "Template for prompt: a funny 404 page with star wars puns",
+    "dateAdded": "2024-01-25T21:15:02.509Z"
+  },
+  {
+    "url": "https://v0.dev/t/CNgEvfn4MwW",
+    "label": "Template for prompt: 请生成一张未来十年男女性别比例预测曲线图，不需要使用真实数据",
+    "dateAdded": "2024-01-25T21:15:02.510Z"
+  },
+  {
+    "url": "https://v0.dev/t/LHmO9TL6wrI",
+    "label": "Template for prompt: a responsive modal for with a selection input ",
+    "dateAdded": "2024-01-25T21:15:02.510Z"
+  },
+  {
+    "url": "https://v0.dev/t/To328Gh7HA8",
+    "label": "Template for prompt: can you make blog design for me",
+    "dateAdded": "2024-01-25T21:15:02.510Z"
+  },
+  {
+    "url": "https://v0.dev/t/HGAYZqu6cBh",
+    "label": "Template for prompt: one page app called Dmarc guru, select 8 options to create a dmarc DNS record",
+    "dateAdded": "2024-01-25T21:15:02.510Z"
+  },
+  {
+    "url": "https://v0.dev/t/8NL8J5N1sa0",
+    "label": "Template for prompt: Making this card",
+    "dateAdded": "2024-01-25T21:15:02.510Z"
+  },
+  {
+    "url": "https://v0.dev/t/wsF0TwtKFtC",
+    "label": "Template for prompt: on a container with grid and width not more than md and centered. left side will have 4 images and on right will show selected image",
+    "dateAdded": "2024-01-25T21:15:02.510Z"
+  },
+  {
+    "url": "https://v0.dev/t/0YptTqKmh2e",
+    "label": "Template for prompt: Website that grades anime series",
+    "dateAdded": "2024-01-25T21:15:02.510Z"
+  },
+  {
+    "url": "https://v0.dev/t/xcQqoOqSZlk",
+    "label": "Template for prompt: A contact form with Ime, Prezime, email, and registarska oznaka and slika automobila. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-25T21:15:02.510Z"
+  },
+  {
+    "url": "https://v0.dev/t/1sjF6pmDeC2",
+    "label": "Template for prompt: An artist page which two sections. the header containing their image, name, description, money and some stats (number or arts, sold, purchased). and the body containing a tab component with listed, purchases, sales,",
+    "dateAdded": "2024-01-25T21:15:02.510Z"
+  },
+  {
+    "url": "https://v0.dev/t/F5s2Il6jpNh",
+    "label": "Template for prompt: Design an oboarding screen for the user, Presenting the available targets to the user, asking for any feedback if possible.",
+    "dateAdded": "2024-01-25T21:15:02.511Z"
+  },
+  {
+    "url": "https://v0.dev/t/QXiAS0qDYYO",
+    "label": "Template for prompt: Can you make this as a modal",
+    "dateAdded": "2024-01-25T21:15:02.511Z"
+  },
+  {
+    "url": "https://v0.dev/t/bKiOicYgCL0",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T21:15:02.511Z"
+  },
+  {
+    "url": "https://v0.dev/t/R5yZIluaNqS",
+    "label": "Template for prompt:  create a modal for managing members of a chat session",
+    "dateAdded": "2024-01-25T21:15:02.511Z"
+  },
+  {
+    "url": "https://v0.dev/t/KtjA8jzJMZU",
+    "label": "Template for prompt: register form (email, password, confirm password)",
+    "dateAdded": "2024-01-25T21:15:02.511Z"
   }
 ]
