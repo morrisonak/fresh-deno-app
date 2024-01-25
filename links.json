@@ -84813,5 +84813,130 @@
     "url": "https://v0.dev/t/e1euKsquZ8d",
     "label": "Template for prompt: How to place the Creation flow",
     "dateAdded": "2024-01-25T17:45:03.245Z"
+  },
+  {
+    "url": "https://v0.dev/t/gCo7vc0Tt5d",
+    "label": "Template for prompt: webshop page with products",
+    "dateAdded": "2024-01-25T18:50:03.679Z"
+  },
+  {
+    "url": "https://v0.dev/t/cNioeuiwKLm",
+    "label": "Template for prompt: make a home page for logged in users in a admin application",
+    "dateAdded": "2024-01-25T18:50:03.679Z"
+  },
+  {
+    "url": "https://v0.dev/t/fNTvoCGHIJQ",
+    "label": "Template for prompt: Hero Section:\n\nDesign a captivating hero section with a large background image or video that instantly communicates the essence of the product/service.\nSpecify the placement and styling of the headline and subheadline text for maximum impact.\nInclude a prominent call-to-action (CTA) button with an enticing label, encouraging users to explore further.\nFeature Section:\n\nCreate an engaging feature section with multiple cards showcasing the key features or benefits of the product/service.\nSpecify the layout, including the arrangement of images, text, and any icons representing features.\nImplement hover effects or animations to draw attention to individual features when interacted with.\nTestimonials Carousel:\n\nDevelop a testimonials section with a carousel displaying authentic customer reviews.\nSpecify the design of individual testimonial cards, including the customer's name and a brief quote.\nInclude navigation arrows or indicators for seamless browsing through testimonials.\nCall-to-Action",
+    "dateAdded": "2024-01-25T18:50:03.679Z"
+  },
+  {
+    "url": "https://v0.dev/t/ERqaOpoIv2l",
+    "label": "Template for prompt: A book lookalike component. It takes an array, even length, of objects containing texts and image urls as props, and renders a component that looks like an open book and allows flipping pages. The act of flipping pages should happen when clicking the side of the page, left means back, right means forward. It should have some basic animations when changing the page. The text should be placed on the bottom of each page.",
+    "dateAdded": "2024-01-25T18:50:03.680Z"
+  },
+  {
+    "url": "https://v0.dev/t/YfzflFiNbiS",
+    "label": "Template for prompt: A book lookalike component. It takes an array, even length, of objects containing texts and image urls as props, and renders a component that looks like an open book and allows flipping pages. The act of flipping pages should happen when clicking the side of the page, left means back, right means forward. It should have some basic animations when changing the page. The text should be placed on the bottom of each page.",
+    "dateAdded": "2024-01-25T18:50:03.680Z"
+  },
+  {
+    "url": "https://v0.dev/t/lVelcwiNZBs",
+    "label": "Template for prompt: a simple footed based on the image. I want it svery minimal and concise. no background",
+    "dateAdded": "2024-01-25T18:50:03.680Z"
+  },
+  {
+    "url": "https://v0.dev/t/E81ZYAWrfa4",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T18:50:03.680Z"
+  },
+  {
+    "url": "https://v0.dev/t/cCUNgH419ez",
+    "label": "Template for prompt: 'type1'과 'type2' 버튼 두개, dark color",
+    "dateAdded": "2024-01-25T18:50:03.680Z"
+  },
+  {
+    "url": "https://v0.dev/t/EmyeykLBGqY",
+    "label": "Template for prompt: A page for when users are blocked from viewing content that they are not subscribed to",
+    "dateAdded": "2024-01-25T18:50:03.681Z"
+  },
+  {
+    "url": "https://v0.dev/t/rfWRXTKd0a9",
+    "label": "Template for prompt: Make a beautiful card with an image at top and title and description at bottom, with tailwind css",
+    "dateAdded": "2024-01-25T18:50:03.681Z"
+  },
+  {
+    "url": "https://v0.dev/t/vMRRuEAjQm7",
+    "label": "Template for prompt: somente uma lista de textos contendo chaves e valores",
+    "dateAdded": "2024-01-25T18:50:03.681Z"
+  },
+  {
+    "url": "https://v0.dev/t/ShYZcbXwqcx",
+    "label": "Template for prompt: a 24-style countdown timer",
+    "dateAdded": "2024-01-25T18:50:03.681Z"
+  },
+  {
+    "url": "https://v0.dev/t/hajQzxb88nI",
+    "label": "Template for prompt: a simple ai chat ui",
+    "dateAdded": "2024-01-25T18:50:03.682Z"
+  },
+  {
+    "url": "https://v0.dev/t/8iUAKGXMSwJ",
+    "label": "Template for prompt: a simple admin dashboard for a clothing line",
+    "dateAdded": "2024-01-25T18:50:03.682Z"
+  },
+  {
+    "url": "https://v0.dev/t/RlFd20aXyRx",
+    "label": "Template for prompt: Weather Card Component:\n\nCreate a WeatherCard component that not only displays the current weather but also animates based on the real-time weather conditions. For example, raindrops falling on the card for rainy weather, or the sun shining for clear skies.",
+    "dateAdded": "2024-01-25T18:50:03.682Z"
+  },
+  {
+    "url": "https://v0.dev/t/UzX4xFgbTj6",
+    "label": "Template for prompt: ecommerce navbar",
+    "dateAdded": "2024-01-25T18:50:03.682Z"
+  },
+  {
+    "url": "https://v0.dev/t/9aoY4uCpzAz",
+    "label": "Template for prompt: type1과 type2를 선택할 수 있는 가로로 스와이프 할 수 있는 슬라이더. dark color",
+    "dateAdded": "2024-01-25T18:50:03.682Z"
+  },
+  {
+    "url": "https://v0.dev/t/RguWuROdbec",
+    "label": "Template for prompt: Generate a membership page with sections for claimable beneifts and payments / invoices. There should be data indicating when a member joined and when their current membership ends. Include other relevant sections to fill out the membership page",
+    "dateAdded": "2024-01-25T18:50:03.683Z"
+  },
+  {
+    "url": "https://v0.dev/t/2buBdWcdLya",
+    "label": "Template for prompt: Make a beautiful website where use can upload the pdf and then after uploading there will a output that will the title suggestion provided by the AI",
+    "dateAdded": "2024-01-25T18:50:03.683Z"
+  },
+  {
+    "url": "https://v0.dev/t/AZ4UzwkZBvf",
+    "label": "Template for prompt: Give me a beautiful drop down menu such that which contains subjects in it that is Maths and Digital Logic Design",
+    "dateAdded": "2024-01-25T18:50:03.683Z"
+  },
+  {
+    "url": "https://v0.dev/t/bR9WBw3nvWd",
+    "label": "Template for prompt: a realtime chat appilcation",
+    "dateAdded": "2024-01-25T18:50:03.683Z"
+  },
+  {
+    "url": "https://v0.dev/t/xUAW09YWhxg",
+    "label": "Template for prompt: A book lookalike component. It takes an array, even length, of objects containing texts and image urls as props, and renders a component that looks like an open book and allows flipping pages. The act of flipping pages should happen when clicking the side of the page, left means back, right means forward. It should have some basic animations when changing the page. The text should be placed on the bottom of each page.",
+    "dateAdded": "2024-01-25T18:50:03.683Z"
+  },
+  {
+    "url": "https://v0.dev/t/PLRTxSDHhun",
+    "label": "Template for prompt: Create a user dashboard.",
+    "dateAdded": "2024-01-25T18:50:03.684Z"
+  },
+  {
+    "url": "https://v0.dev/t/NlOdTCqbQiI",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T18:50:03.684Z"
+  },
+  {
+    "url": "https://v0.dev/t/KTspE4ig8L2",
+    "label": "Template for prompt: Generate AWS and GCP logos",
+    "dateAdded": "2024-01-25T18:50:03.684Z"
   }
 ]
