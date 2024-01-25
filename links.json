@@ -89323,5 +89323,135 @@
     "url": "https://v0.dev/t/OW5WCZ4pbu9",
     "label": "Template for prompt: crie uma landing page simples e amigável com um texto grande e centralizado no hero, abaixo um placeholder para vídeo e logo abaixo o features da ferramenta. tenha em conta que é para uma empresa saas",
     "dateAdded": "2024-01-25T22:05:03.622Z"
+  },
+  {
+    "url": "https://v0.dev/t/2pRnu8qONYY",
+    "label": "Template for prompt: 2. User defines a \"topic\"; a theme on which to base the generated content (ie. \"the convenience of timely contact lens refill reminders\", \"the importance of limiting screen time for eye health\")\n    1. There should be a \"Need help?\" option where they'd click a button and the AI model would generate a few topic ideas\n    2. If they like any of the ideas, they should be able to click to add it to the input field with an option to revise as needed",
+    "dateAdded": "2024-01-25T22:10:02.655Z"
+  },
+  {
+    "url": "https://v0.dev/t/w9fgjZPOsnR",
+    "label": "Template for prompt: a dashboard that lets me build charts by entering json",
+    "dateAdded": "2024-01-25T22:10:02.656Z"
+  },
+  {
+    "url": "https://v0.dev/t/XTnBqYYW5zP",
+    "label": "Template for prompt: give me a marketing service page",
+    "dateAdded": "2024-01-25T22:10:02.656Z"
+  },
+  {
+    "url": "https://v0.dev/t/ag3RaRk8hCK",
+    "label": "Template for prompt: Build me a grid exactly like on the image pixel perfect",
+    "dateAdded": "2024-01-25T22:10:02.656Z"
+  },
+  {
+    "url": "https://v0.dev/t/fDiXCvEdObh",
+    "label": "Template for prompt: A sleek interface for interacting with a cypto ecosystem, with working tabbed navigation on a side panel that provides access to fully made pages for Dashboard, My Tokens, Mint Tokens, and Burn Tokens.",
+    "dateAdded": "2024-01-25T22:10:02.656Z"
+  },
+  {
+    "url": "https://v0.dev/t/x48jMtU2lCi",
+    "label": "Template for prompt: create exactly like this",
+    "dateAdded": "2024-01-25T22:10:02.656Z"
+  },
+  {
+    "url": "https://v0.dev/t/0koqh1epGr0",
+    "label": "Template for prompt: upsell modal",
+    "dateAdded": "2024-01-25T22:10:02.656Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZPHSDCtSmwA",
+    "label": "Template for prompt: recipe creation form",
+    "dateAdded": "2024-01-25T22:10:02.656Z"
+  },
+  {
+    "url": "https://v0.dev/t/qqT9USskxfm",
+    "label": "Template for prompt: 2. User defines a \"topic\"; a theme on which to base the generated content (ie. \"the convenience of timely contact lens refill reminders\", \"the importance of limiting screen time for eye health\")\n    1. There should be a \"Need help?\" option where they'd click a button and the AI model would generate a few topic ideas\n    2. If they like any of the ideas, they should be able to click to add it to the input field with an option to revise as needed",
+    "dateAdded": "2024-01-25T22:10:02.656Z"
+  },
+  {
+    "url": "https://v0.dev/t/6zNw3o2LJyR",
+    "label": "Template for prompt: 1. Create new content\"\n\n2. User defines a \"topic\"; a theme on which to base the generated content (ie. \"the convenience of timely contact lens refill reminders\", \"the importance of limiting screen time for eye health\")\n    1. There should be a \"Need help?\" option where they'd click a button and the AI model would generate a few topic ideas\n    2. If they like any of the ideas, they should be able to click to add it to the input field with an option to revise as needed\n\n3. Select the content/channels (blog, email, socials, etc) and number of each, where applicable (ie. 2 instagram posts, 3-step email sequence)\n\n4. If there's artwork required, have the GPT produce a few suggested image descriptions. The user to choose from among the descriptions and edit as needed. We could include a list of artwork \"[styles](https://wgmimedia.com/midjourney-style-prompts)\" to include in the prompt. The description will then be fed back into the AI model for it to generate the image (or images)\n\n5. After",
+    "dateAdded": "2024-01-25T22:10:02.657Z"
+  },
+  {
+    "url": "https://v0.dev/t/nIefFLL1clB",
+    "label": "Template for prompt: A webapp which allows users to create children stories with image and text prompts e.g. a picture of a teddy with a general story outline ",
+    "dateAdded": "2024-01-25T22:10:02.657Z"
+  },
+  {
+    "url": "https://v0.dev/t/mgf911i9pyK",
+    "label": "Template for prompt: A screen that shows a timeline for a subscription process",
+    "dateAdded": "2024-01-25T22:10:02.657Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZdLJ8LZjFvJ",
+    "label": "Template for prompt: 用 中文 生成 地理信息标记和定位 页面， 要求 允许用户在上报数据时标记地理信息，例如通过地图选择位置。\n支持自动获取用户当前位置，提高地理信息的准确性\n",
+    "dateAdded": "2024-01-25T22:10:02.657Z"
+  },
+  {
+    "url": "https://v0.dev/t/xhfqDBMcjx2",
+    "label": "Template for prompt: a page that lists various stickers for whatsapp. Users can select various of them to receive in their phone",
+    "dateAdded": "2024-01-25T22:10:02.657Z"
+  },
+  {
+    "url": "https://v0.dev/t/YuiWzy0aVvV",
+    "label": "Template for prompt: Make a really good dark landing page for a discord bot called astro birb",
+    "dateAdded": "2024-01-25T22:10:02.657Z"
+  },
+  {
+    "url": "https://v0.dev/t/5g2RDIlOhq9",
+    "label": "Template for prompt: create me a grid exactly like on the image",
+    "dateAdded": "2024-01-25T22:10:02.657Z"
+  },
+  {
+    "url": "https://v0.dev/t/P9g630u2rxG",
+    "label": "Template for prompt: a responsive side bar like chatgpt ui",
+    "dateAdded": "2024-01-25T22:10:02.657Z"
+  },
+  {
+    "url": "https://v0.dev/t/HeKOmh25c1y",
+    "label": "Template for prompt: generate me a form with 6 fields in a horizontal line, with a banner above the fields, centered. ",
+    "dateAdded": "2024-01-25T22:10:02.658Z"
+  },
+  {
+    "url": "https://v0.dev/t/KWSOkTYofJ6",
+    "label": "Template for prompt: a page showing user application info in the style of a paper",
+    "dateAdded": "2024-01-25T22:10:02.658Z"
+  },
+  {
+    "url": "https://v0.dev/t/Bu2ObEWKRG1",
+    "label": "Template for prompt:  I am looking for a chat ui for a recipe chat app. The design should incorporate several key features, including the ability for users to view chat history, access their profile through a user avatar, and have options for settings, billing, and logout. Additionally, each chat should have settings that can be hidden by a drawer or sheet. The app logo should also be prominently displayed.\n\nIn terms of functionality, the chat feature should allow users to ask questions and receive recipe suggestions. Users should also be able to refine their queries. Furthermore, the app should be capable of displaying various types of answers, not limited solely to recipes.",
+    "dateAdded": "2024-01-25T22:10:02.658Z"
+  },
+  {
+    "url": "https://v0.dev/t/M2CMZyuReSu",
+    "label": "Template for prompt: form",
+    "dateAdded": "2024-01-25T22:10:02.658Z"
+  },
+  {
+    "url": "https://v0.dev/t/8URUMFe8nCA",
+    "label": "Template for prompt: a homepage for a website that has various images, searchable by their tags, that users can select and download",
+    "dateAdded": "2024-01-25T22:10:02.658Z"
+  },
+  {
+    "url": "https://v0.dev/t/VgmvFAyWJTZ",
+    "label": "Template for prompt: A Dashboard with a minimal and simple calendar in the top right.",
+    "dateAdded": "2024-01-25T22:10:02.658Z"
+  },
+  {
+    "url": "https://v0.dev/t/gIY6n22W7ci",
+    "label": "Template for prompt: Create an ecommerce of travel bookguides. The bookguides are inspired by books, movies or TV shows. In the ecommerce a user should be allowed to search for bookguides by the titles of the stories, and by their authors/actors. The system shows a list of travel bookguides with those characteristics and the user can see the details of those travel guides by clicking them or the user can add the travel guides directly to a cart. Once the user decides everything to buy, the user can enter the cart and do the payment. The system will show a successful screen indicating that the user has received by email a link to download the guide. ",
+    "dateAdded": "2024-01-25T22:10:02.658Z"
+  },
+  {
+    "url": "https://v0.dev/t/jYAU4qW71IY",
+    "label": "Template for prompt: homepage for a chicken / vegetables farm website based on this flyer colors and content",
+    "dateAdded": "2024-01-25T22:10:02.658Z"
+  },
+  {
+    "url": "https://v0.dev/t/NpFfKKarnth",
+    "label": "Template for prompt: create this like and comment section for a post ",
+    "dateAdded": "2024-01-25T22:10:02.658Z"
   }
 ]
