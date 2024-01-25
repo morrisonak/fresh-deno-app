@@ -82813,5 +82813,135 @@
     "url": "https://v0.dev/t/Pcyif90LkQl",
     "label": "Template for prompt: Page section with 3 cards each containing a bar or a pie chart",
     "dateAdded": "2024-01-25T16:25:03.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/bfgkvMMvPsY",
+    "label": "Template for prompt: fun application shell for creating trips",
+    "dateAdded": "2024-01-25T16:30:03.949Z"
+  },
+  {
+    "url": "https://v0.dev/t/qHX8xtOdKpH",
+    "label": "Template for prompt: a nice landing page where it says welcome",
+    "dateAdded": "2024-01-25T16:30:03.949Z"
+  },
+  {
+    "url": "https://v0.dev/t/L8ueoC1SFJd",
+    "label": "Template for prompt: generate a Todos list",
+    "dateAdded": "2024-01-25T16:30:03.949Z"
+  },
+  {
+    "url": "https://v0.dev/t/9YSkWai8m1k",
+    "label": "Template for prompt: A wireframe landing page for an educational platform containing two sections advertising new features and an about section below.",
+    "dateAdded": "2024-01-25T16:30:03.949Z"
+  },
+  {
+    "url": "https://v0.dev/t/STMWrmm8tDc",
+    "label": "Template for prompt: modal with first name, last name, mobile number, message",
+    "dateAdded": "2024-01-25T16:30:03.949Z"
+  },
+  {
+    "url": "https://v0.dev/t/XMRIhlQKCyl",
+    "label": "Template for prompt: design a file input form",
+    "dateAdded": "2024-01-25T16:30:03.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/pHusPg0PJ9h",
+    "label": "Template for prompt: Menu on the left hand side (that can be collapsed) and iframe on the right",
+    "dateAdded": "2024-01-25T16:30:03.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/sMFMOAoDPeH",
+    "label": "Template for prompt: A modal to setup a new KPI indicator, has unit selection (m, m2, m3, tonnes etc) and allows to quickly set a weekly goal so that it would divide automatically into daily goals to achieve the weekly goal",
+    "dateAdded": "2024-01-25T16:30:03.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/xavAPbYWAmV",
+    "label": "Template for prompt: a pop card which displays a project. Should contain the client, porject name, managers, developers, account managers, comments, status, type and budget",
+    "dateAdded": "2024-01-25T16:30:03.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/WGtIbrgHgCS",
+    "label": "Template for prompt: list of wide cards with food name (in bold) and description on the left and price on the right ",
+    "dateAdded": "2024-01-25T16:30:03.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/HiTiJFFaCu0",
+    "label": "Template for prompt: a table containing three columns: a selection check, resouce name and sampler name",
+    "dateAdded": "2024-01-25T16:30:03.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ii1RRlB3fY8",
+    "label": "Template for prompt: Write me a business landing page",
+    "dateAdded": "2024-01-25T16:30:03.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/VP9ImknMqDE",
+    "label": "Template for prompt: a dashboard with top menu, side bar and energy dials",
+    "dateAdded": "2024-01-25T16:30:03.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/JClfZO5R02a",
+    "label": "Template for prompt: about page for my portfolio",
+    "dateAdded": "2024-01-25T16:30:03.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/sXKr2cJVmS9",
+    "label": "Template for prompt: navbar react",
+    "dateAdded": "2024-01-25T16:30:03.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/IFp9F9DDAu8",
+    "label": "Template for prompt: make me this input coponenent",
+    "dateAdded": "2024-01-25T16:30:03.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/X9ZfLqMTTRq",
+    "label": "Template for prompt: I need a \"listining\" style website with a \"hero\" section with title and description and a CTA to see the companies listed. I need a list of companies separated by category. Each company will have a photo, title, short description, list of main services and a button to get in touch. Soon after, a benefits and prices section for companies that wish to be listed. Afterwards, an about us section and a contact section, with name, email and message input. And of course, a footer.",
+    "dateAdded": "2024-01-25T16:30:03.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/dgy9qadWV3V",
+    "label": "Template for prompt: card page ，垂直居中，第一个区域是展示区域，下面区域是文字输入区域,再下面是一个url输入框",
+    "dateAdded": "2024-01-25T16:30:03.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/ISYTpcxzbXV",
+    "label": "Template for prompt: A pricing page design. \n\nStarter Bundle:\nIt has three types of teams: small, medium, and large.\nAll teams (small, medium, and large) have the same features.\nThe only difference is in the price, which depends on the team size. Bigger teams get a better price because they have more people.\nPro Bundle:\nIt also has three types of teams: small, medium, and large.\nAll teams (small, medium, and large) have the same features.\nBut here's the difference: The Pro Bundle includes everything in the Starter Bundle plus extra features.\nSimilar to the Starter Bundle, the price difference depends on the team size, but all teams within the Pro Bundle have the same features.",
+    "dateAdded": "2024-01-25T16:30:03.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/KY4WzutY4q2",
+    "label": "Template for prompt: Create a web page UI featuring a GDPR-compliant cookies banner and customizable tracking analytics settings. At the top or bottom, include a non-intrusive, easily noticeable banner for cookie consent. This banner should provide a brief explanation of cookies used, with a link to a more detailed cookie policy. Offer options like \"Accept All,\" \"Reject All,\" and \"Customize Settings.\" For the 'Customize Settings' option, open a modal or a dedicated section within the page. This area allows users to toggle individual tracking analytics, clearly categorized (e.g., performance, marketing, functional). Each category should have a brief description and a toggle switch for enabling or disabling. Ensure the design is user-friendly and accessible, with clear typography and intuitive navigation. The overall aesthetic should align with the company's branding, maintaining a professional and trustworthy look.",
+    "dateAdded": "2024-01-25T16:30:03.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/IPOTMS2DZyP",
+    "label": "Template for prompt: navigation bar with hamburger menu",
+    "dateAdded": "2024-01-25T16:30:03.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/PzBZwOqsFej",
+    "label": "Template for prompt: A card component guided or united by a timeline",
+    "dateAdded": "2024-01-25T16:30:03.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/Vvg9h3Luiib",
+    "label": "Template for prompt: Generate a mobile app numeric input component with - and + icons to be used as product quantity counter. If it is used to hold product price, then it shouldn't show - and + icons/buttons",
+    "dateAdded": "2024-01-25T16:30:03.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/lSFhUqaRfhq",
+    "label": "Template for prompt: a sales dashboard visualizing transaction data in various charts and graphs, underneath showing a list of transactions with various properties like date, name, amount, category",
+    "dateAdded": "2024-01-25T16:30:03.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/uNDku8B1DgM",
+    "label": "Template for prompt: Moving Border\nA border that moves around the container. Perfect for making your buttons stand out.",
+    "dateAdded": "2024-01-25T16:30:03.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/jqSHMw2WFPm",
+    "label": "Template for prompt: Make a table with 10 rows and header named as Hello customers",
+    "dateAdded": "2024-01-25T16:30:03.952Z"
   }
 ]
