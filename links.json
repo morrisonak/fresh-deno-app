@@ -83453,5 +83453,125 @@
     "url": "https://v0.dev/t/uSlp3kVJRoc",
     "label": "Template for prompt: Company Employee Details Dashboard",
     "dateAdded": "2024-01-25T16:50:03.158Z"
+  },
+  {
+    "url": "https://v0.dev/t/VYfuvxCLTmE",
+    "label": "Template for prompt: hazme una pagina para recibir notificaciones",
+    "dateAdded": "2024-01-25T16:55:02.378Z"
+  },
+  {
+    "url": "https://v0.dev/t/sywdmcRQHBt",
+    "label": "Template for prompt: hazme una pagina para recibir notificaciones",
+    "dateAdded": "2024-01-25T16:55:02.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/e9uUcNyIM9r",
+    "label": "Template for prompt: A moderator dashboard for Discord message searching",
+    "dateAdded": "2024-01-25T16:55:02.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/LVnJRauQcyi",
+    "label": "Template for prompt: Create a ticket/job page based on this screenshot.",
+    "dateAdded": "2024-01-25T16:55:02.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/e36LAUWveyy",
+    "label": "Template for prompt: Generate a login form with the ability to specifiy an email and a password",
+    "dateAdded": "2024-01-25T16:55:02.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/rashcJULIHK",
+    "label": "Template for prompt: make a footer of a developer portfolio",
+    "dateAdded": "2024-01-25T16:55:02.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/6dCHZqsxdoA",
+    "label": "Template for prompt: Create a professionnal navbar",
+    "dateAdded": "2024-01-25T16:55:02.380Z"
+  },
+  {
+    "url": "https://v0.dev/t/6898LcpXH0O",
+    "label": "Template for prompt: a landig pizza page",
+    "dateAdded": "2024-01-25T16:55:02.380Z"
+  },
+  {
+    "url": "https://v0.dev/t/bRyMRGTxm2D",
+    "label": "Template for prompt: a dashboard with a resizable sidebar nav and table",
+    "dateAdded": "2024-01-25T16:55:02.380Z"
+  },
+  {
+    "url": "https://v0.dev/t/zbMQv617fsq",
+    "label": "Template for prompt: pls generate this design <div>\n\t<RMGHeader>Login Page</RMGHeader>\n\t<RMGText>welcome to our amazing app, pls login! </RMGText>\n\t<RMGInput title=\"email\" />\n\t<RMGInput title=\"password\" />\n\t<RMGButton title=\"login\" />\n</div>",
+    "dateAdded": "2024-01-25T16:55:02.380Z"
+  },
+  {
+    "url": "https://v0.dev/t/1i1cq5KvdAd",
+    "label": "Template for prompt: A timer app",
+    "dateAdded": "2024-01-25T16:55:02.380Z"
+  },
+  {
+    "url": "https://v0.dev/t/cwVsJCnkos6",
+    "label": "Template for prompt: Create a design for a social media for an university",
+    "dateAdded": "2024-01-25T16:55:02.380Z"
+  },
+  {
+    "url": "https://v0.dev/t/tAAP0Q9bikO",
+    "label": "Template for prompt: Create a design for a social media for an university",
+    "dateAdded": "2024-01-25T16:55:02.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/XyaOvPxhhj3",
+    "label": "Template for prompt: a primary button with a secondary dropdown on the side that can allow me to perform a primary action as well multiple secondary actions",
+    "dateAdded": "2024-01-25T16:55:02.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/AHM1Sa7Vacc",
+    "label": "Template for prompt: A dashboard with a sidebar nav and table",
+    "dateAdded": "2024-01-25T16:55:02.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/RRrgbv9cfqy",
+    "label": "Template for prompt: Reorganize the components in the photo. Make it look nicer and more modern",
+    "dateAdded": "2024-01-25T16:55:02.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/jRo87wUYkNR",
+    "label": "Template for prompt: build a simple page where users can select either country, state, or city or latitude and longitude to get weather. show the weather below the selections. The country, state and city selections should be a dropdown",
+    "dateAdded": "2024-01-25T16:55:02.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/3DSvVP5XcaU",
+    "label": "Template for prompt: an openlayer map with points of interest",
+    "dateAdded": "2024-01-25T16:55:02.381Z"
+  },
+  {
+    "url": "https://v0.dev/t/jR2XHeHbdvV",
+    "label": "Template for prompt: An exercise application that shows a big circle timer in the middle. It should have a simple set of play, pause, next, previous icons at the bottom. There should be room at the top for an ad banner",
+    "dateAdded": "2024-01-25T16:55:02.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/BnyM86cAaPo",
+    "label": "Template for prompt: a white navbar on a cool gradient background",
+    "dateAdded": "2024-01-25T16:55:02.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/tjCt9f5q6sk",
+    "label": "Template for prompt: blog de cine aesthetic maximalista trashy futurista",
+    "dateAdded": "2024-01-25T16:55:02.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/gWPwLlzXQkd",
+    "label": "Template for prompt: Le design du site est élégant et professionnel, avec une palette de couleurs sombres et des images de haute qualité. Il semble être un site web dédié au café, avec des sections pour les événements, les nouvelles, et d’autres ressources liées au café. L’en-tête du site contient le logo “WORLD BARISTA CUP”, un menu de navigation, et des icônes pour la recherche et le panier. La première section présente une grande image de grains de café sur un fond sombre avec une citation textuelle superposée. En dessous se trouve une section d’actualités ou d’événements avec des images miniatures accompagnées de titres et de descriptions courtes. Il y a également une pagination en bas de cette section pour naviguer à travers différents articles ou événements. Plus bas se trouve une barre contenant des logos de différentes marques ou sponsors associés au site ou à l’événement. Le pied de page contient plus d’informations sur “WORLD BARISTA CUP”, y compris l’adresse e-mail, les liens vers les réseaux so",
+    "dateAdded": "2024-01-25T16:55:02.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/HPYQorDhSTL",
+    "label": "Template for prompt: Resizable dashboard layout",
+    "dateAdded": "2024-01-25T16:55:02.382Z"
+  },
+  {
+    "url": "https://v0.dev/t/093KNImVBiP",
+    "label": "Template for prompt: landing page for a small company producing wood pallets",
+    "dateAdded": "2024-01-25T16:55:02.383Z"
   }
 ]
