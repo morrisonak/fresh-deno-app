@@ -88413,5 +88413,135 @@
     "url": "https://v0.dev/t/PrbEP8YFJME",
     "label": "Template for prompt: Create the exact page as given.",
     "dateAdded": "2024-01-25T21:30:02.988Z"
+  },
+  {
+    "url": "https://v0.dev/t/LDxXD65wQxi",
+    "label": "Template for prompt: Table with items and the title for each column are Name, Connection, VO, Country, Region and lastly i want some actions such as go to and maybe something else",
+    "dateAdded": "2024-01-25T21:35:02.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/v0iluNg8Qia",
+    "label": "Template for prompt: کیفیت اینو بهتر کن ",
+    "dateAdded": "2024-01-25T21:35:02.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/uyp9FAFar8w",
+    "label": "Template for prompt: Create a software house website homepage",
+    "dateAdded": "2024-01-25T21:35:02.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/r8cFANMLDb4",
+    "label": "Template for prompt: Alarm tracking dashboard for multiple sites",
+    "dateAdded": "2024-01-25T21:35:02.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/2W37f5V5IYW",
+    "label": "Template for prompt: input for subdomain with implemented domain",
+    "dateAdded": "2024-01-25T21:35:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/5gT75s2CMco",
+    "label": "Template for prompt: make me a dashboard with a greeting message for a cookbook web application",
+    "dateAdded": "2024-01-25T21:35:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/OqWAEiFZlGv",
+    "label": "Template for prompt: mejora y acomoda elementos. los botones tienene que estar alineados con los de las demas tarjetas",
+    "dateAdded": "2024-01-25T21:35:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/SLYANsdbhbn",
+    "label": "Template for prompt: طرح برای سایت آموزش طراحی سایت",
+    "dateAdded": "2024-01-25T21:35:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/sPvVlP7YHi1",
+    "label": "Template for prompt: page that displays two poker hands and highlights one as the winner",
+    "dateAdded": "2024-01-25T21:35:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/09QnBntE6f9",
+    "label": "Template for prompt: Input form for adding a subdomain to a domain.",
+    "dateAdded": "2024-01-25T21:35:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/NnabFbaRRUu",
+    "label": "Template for prompt: عکس رو تبدیلش کن به یه والپیپر متحرک ",
+    "dateAdded": "2024-01-25T21:35:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/mf6YefmbtWE",
+    "label": "Template for prompt: multiselect combobox",
+    "dateAdded": "2024-01-25T21:35:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/NRld1VOS94B",
+    "label": "Template for prompt: create a footer section for my ecomerce platform for qualty developer tees called devgear  ",
+    "dateAdded": "2024-01-25T21:35:02.713Z"
+  },
+  {
+    "url": "https://v0.dev/t/pmS6gNbEKSY",
+    "label": "Template for prompt: An card selection dialog where each card has an image and title",
+    "dateAdded": "2024-01-25T21:35:02.713Z"
+  },
+  {
+    "url": "https://v0.dev/t/mMRC5s7L9SS",
+    "label": "Template for prompt: a map of the united states where when you click on a click on an area, it zooms in and highlights that area",
+    "dateAdded": "2024-01-25T21:35:02.713Z"
+  },
+  {
+    "url": "https://v0.dev/t/aLOOQeCF0jK",
+    "label": "Template for prompt: front end developer portfolio",
+    "dateAdded": "2024-01-25T21:35:02.713Z"
+  },
+  {
+    "url": "https://v0.dev/t/DQEkGNtdiIg",
+    "label": "Template for prompt: create a button component",
+    "dateAdded": "2024-01-25T21:35:02.713Z"
+  },
+  {
+    "url": "https://v0.dev/t/KWkjBicyktb",
+    "label": "Template for prompt: backend dev portfolio",
+    "dateAdded": "2024-01-25T21:35:02.713Z"
+  },
+  {
+    "url": "https://v0.dev/t/HpWtofBsklP",
+    "label": "Template for prompt: Create a resume website",
+    "dateAdded": "2024-01-25T21:35:02.713Z"
+  },
+  {
+    "url": "https://v0.dev/t/oXyjGxPnNCR",
+    "label": "Template for prompt: School academic information dashboard",
+    "dateAdded": "2024-01-25T21:35:02.714Z"
+  },
+  {
+    "url": "https://v0.dev/t/D31eJ4CkUdm",
+    "label": "Template for prompt: flash message that is always on the top of the page",
+    "dateAdded": "2024-01-25T21:35:02.714Z"
+  },
+  {
+    "url": "https://v0.dev/t/WyUtuIAF5zR",
+    "label": "Template for prompt: barbershop booking admin site. Summary Cards:\n\nToday's Appointments: Number of appointments scheduled for the day.\nNew Customers: Number of customers who signed up in the recent period.\nEarnings Overview: Snapshot of recent earnings, with a comparison to the previous period.\nStaff Performance: Highlight top-performing barbers based on customer ratings and number of appointments.\nAppointments Calendar: A calendar view showing booked, pending, and available slots, allowing the owner to get a quick glance at the schedule.\n\nRecent Activity Feed: Real-time updates about appointments, customer reviews, and staff updates.\n\nmain content of the dashboard page",
+    "dateAdded": "2024-01-25T21:35:02.714Z"
+  },
+  {
+    "url": "https://v0.dev/t/lqZVYXDbPsz",
+    "label": "Template for prompt: i need this section",
+    "dateAdded": "2024-01-25T21:35:02.714Z"
+  },
+  {
+    "url": "https://v0.dev/t/aLC80OinGt5",
+    "label": "Template for prompt: create a funny about page with creative ideas",
+    "dateAdded": "2024-01-25T21:35:02.714Z"
+  },
+  {
+    "url": "https://v0.dev/t/QTpIRouIQND",
+    "label": "Template for prompt: a chat interface between human and ai advanced minimal",
+    "dateAdded": "2024-01-25T21:35:02.714Z"
+  },
+  {
+    "url": "https://v0.dev/t/bgc8ZjRVtx6",
+    "label": "Template for prompt: design this dashboard",
+    "dateAdded": "2024-01-25T21:35:02.715Z"
   }
 ]
