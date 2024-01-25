@@ -82693,5 +82693,125 @@
     "url": "https://v0.dev/t/NGjPP7TOclP",
     "label": "Template for prompt: Features:\n\nGDPR cookies banner,\nenable/disabled certain tracking analytics",
     "dateAdded": "2024-01-25T16:20:02.710Z"
+  },
+  {
+    "url": "https://v0.dev/t/SAUX8A8g42a",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T16:25:03.817Z"
+  },
+  {
+    "url": "https://v0.dev/t/GUAVLvqLON3",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-25T16:25:03.818Z"
+  },
+  {
+    "url": "https://v0.dev/t/VMId2vVLczD",
+    "label": "Template for prompt: give me an event management system for devices, these events are demonstrations.",
+    "dateAdded": "2024-01-25T16:25:03.818Z"
+  },
+  {
+    "url": "https://v0.dev/t/nuLEwfgtL75",
+    "label": "Template for prompt: me de uma tabela de usuarios onde eu tenha as colunas nome, times representados em formato de tags, perfil e icones para editar e apagar",
+    "dateAdded": "2024-01-25T16:25:03.818Z"
+  },
+  {
+    "url": "https://v0.dev/t/gw8EvRTrk4h",
+    "label": "Template for prompt: based on the attached design please make me on the right side a design for advertising new services, that is a design that is in tune with the current one.",
+    "dateAdded": "2024-01-25T16:25:03.819Z"
+  },
+  {
+    "url": "https://v0.dev/t/gjvyCrALmBw",
+    "label": "Template for prompt: Clone UX",
+    "dateAdded": "2024-01-25T16:25:03.819Z"
+  },
+  {
+    "url": "https://v0.dev/t/w61vanWu7yB",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-25T16:25:03.819Z"
+  },
+  {
+    "url": "https://v0.dev/t/9vBCoQ1stQl",
+    "label": "Template for prompt: Write me a rich props button with custom code without and library",
+    "dateAdded": "2024-01-25T16:25:03.819Z"
+  },
+  {
+    "url": "https://v0.dev/t/9vuhDEezSBf",
+    "label": "Template for prompt: create a component for a payment gateway",
+    "dateAdded": "2024-01-25T16:25:03.820Z"
+  },
+  {
+    "url": "https://v0.dev/t/ze6rZ2rD39L",
+    "label": "Template for prompt: loginpage",
+    "dateAdded": "2024-01-25T16:25:03.820Z"
+  },
+  {
+    "url": "https://v0.dev/t/pGEoj3xnJ4B",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T16:25:03.820Z"
+  },
+  {
+    "url": "https://v0.dev/t/yPZsJOeBuIX",
+    "label": "Template for prompt: convert it to code",
+    "dateAdded": "2024-01-25T16:25:03.820Z"
+  },
+  {
+    "url": "https://v0.dev/t/OmU1hQgEJ3D",
+    "label": "Template for prompt: An Italian learning platform with sections for quizzes and tests",
+    "dateAdded": "2024-01-25T16:25:03.821Z"
+  },
+  {
+    "url": "https://v0.dev/t/fjbUK6OOSzx",
+    "label": "Template for prompt: Manager profile page",
+    "dateAdded": "2024-01-25T16:25:03.821Z"
+  },
+  {
+    "url": "https://v0.dev/t/F1CStlBqYim",
+    "label": "Template for prompt: A UI to define an AI function. Users will specify input and output names (it can have multiple input/outputs) along with their respective description.\n\nThe function itself has a name and a short description.\n\nOnce that is saved, users can optionally create examples of how that function behaves by ingesting a test set of input/output combination.\n\nOnce that process is done the user can press \"compile\", which will produce a score beetween 0 and 100",
+    "dateAdded": "2024-01-25T16:25:03.821Z"
+  },
+  {
+    "url": "https://v0.dev/t/M1uSfeClVdL",
+    "label": "Template for prompt: A website called BRB (Buy, Rent, Borrow), on which people can purchase goods from their neighbors",
+    "dateAdded": "2024-01-25T16:25:03.821Z"
+  },
+  {
+    "url": "https://v0.dev/t/0D1jW56hiF5",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-25T16:25:03.821Z"
+  },
+  {
+    "url": "https://v0.dev/t/4X1r9Treta7",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T16:25:03.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/4uE8sWcxpa9",
+    "label": "Template for prompt: generate a todo app ",
+    "dateAdded": "2024-01-25T16:25:03.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/lHxelB9sqJA",
+    "label": "Template for prompt: 请使用中文语言设计一个村务公告模块，以下是对该模块的描述。\n\n3.1\t村务公告\n该功能可以让村务管理者发布各种村务相关的公告，如会议通知、政策宣传、活动邀请等，以及查看村民的评论和反馈。村民可以查看各种村务公告，以及发表评论和反馈。\n3.1.1\t公告发布\n- 村务管理者可以通过系统发布各类村务公告，包括会议通知、政策宣传、活动邀请等。\n- 支持富文本编辑，允许插入图片、链接等丰富内容。\n3.1.2\t公告查看与评论\n- 村民可以在系统中查看所有村务公告，并进行评论和反馈。\n- 公告页面显示评论数量、点赞情况，方便了解村民对公告的关注度。",
+    "dateAdded": "2024-01-25T16:25:03.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/HhNrjx2Rzzf",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T16:25:03.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/kMJ1tvBYBBC",
+    "label": "Template for prompt: Female Nurse Icon SVG",
+    "dateAdded": "2024-01-25T16:25:03.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/lUrPxVBif9m",
+    "label": "Template for prompt: A wireframe landing page for an educational platform containing two sections advertising new features and an about section below.",
+    "dateAdded": "2024-01-25T16:25:03.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/Pcyif90LkQl",
+    "label": "Template for prompt: Page section with 3 cards each containing a bar or a pie chart",
+    "dateAdded": "2024-01-25T16:25:03.823Z"
   }
 ]
