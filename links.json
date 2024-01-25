@@ -83073,5 +83073,135 @@
     "url": "https://v0.dev/t/sMFMOAoDPeH",
     "label": "Template for prompt: A modal to setup a new KPI indicator, has unit selection (m, m2, m3, tonnes etc) and allows to quickly set a weekly goal so that it would divide automatically into daily goals to achieve the weekly goal",
     "dateAdded": "2024-01-25T16:35:03.971Z"
+  },
+  {
+    "url": "https://v0.dev/t/VQjndaDaYN4",
+    "label": "Template for prompt: i like this but i dont want to be hit with copyi´right. can you give me an idea to create the same home page? i dont want the \"\nSigned by:\nCreate Your Signature\n5E01FC06903040D...\nLast 6 Months\n\n0\nAction Required\n0\nWaiting for Others\n0\nExpiring Soon\n0\nCompleted\" part",
+    "dateAdded": "2024-01-25T16:40:03.088Z"
+  },
+  {
+    "url": "https://v0.dev/t/kTtl5rVP9Aj",
+    "label": "Template for prompt: a Search bar with filters that will pull up a list of accordian items ",
+    "dateAdded": "2024-01-25T16:40:03.088Z"
+  },
+  {
+    "url": "https://v0.dev/t/IdXt6BjWM0M",
+    "label": "Template for prompt: page with two tabs one tab is a table of inputs with a add row and update button in tailwind the other tab is a d3 chart that I already have working\n\nit's plain html/css/js",
+    "dateAdded": "2024-01-25T16:40:03.088Z"
+  },
+  {
+    "url": "https://v0.dev/t/BHJy5fmjN3A",
+    "label": "Template for prompt: Make me a portfolio website, that the developper is meek and every projects is a like-windows popup",
+    "dateAdded": "2024-01-25T16:40:03.088Z"
+  },
+  {
+    "url": "https://v0.dev/t/oaxak08rF9X",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T16:40:03.088Z"
+  },
+  {
+    "url": "https://v0.dev/t/EJdoskHk56F",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T16:40:03.088Z"
+  },
+  {
+    "url": "https://v0.dev/t/9N5RoSahChu",
+    "label": "Template for prompt: I want to fix this. the text should not overlap",
+    "dateAdded": "2024-01-25T16:40:03.088Z"
+  },
+  {
+    "url": "https://v0.dev/t/tZroGwrFSmb",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T16:40:03.089Z"
+  },
+  {
+    "url": "https://v0.dev/t/g1qPigYUjLS",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T16:40:03.089Z"
+  },
+  {
+    "url": "https://v0.dev/t/E01QJG2i3Bu",
+    "label": "Template for prompt: This is a board game. Improve the design so that it's more user friendly. The player moves one square forward per turn and the board should show the path that the player has to follow, maybe with the unencountered squares in a faded style. There's a progress bar at the bottom that indicates the difficulty of the current square. At the top there's an indicator of the player's username and at the top-left there's an indicator of the current score ",
+    "dateAdded": "2024-01-25T16:40:03.089Z"
+  },
+  {
+    "url": "https://v0.dev/t/KkbCAt0E4tm",
+    "label": "Template for prompt: A dashboard with a sidebar navigation and a table that consists Assistant properties such as Name, Date Created, Files. ",
+    "dateAdded": "2024-01-25T16:40:03.089Z"
+  },
+  {
+    "url": "https://v0.dev/t/5EYlpGIofSu",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T16:40:03.089Z"
+  },
+  {
+    "url": "https://v0.dev/t/jDCZJA8MaB7",
+    "label": "Template for prompt: simple form page to select the weather either by longitude and latitude or by country city and state.  The form should be in a row. The weather can be shown below the form.",
+    "dateAdded": "2024-01-25T16:40:03.090Z"
+  },
+  {
+    "url": "https://v0.dev/t/02NgIdYVWAG",
+    "label": "Template for prompt: create a search component with a clear button on the right",
+    "dateAdded": "2024-01-25T16:40:03.090Z"
+  },
+  {
+    "url": "https://v0.dev/t/jPmEiuvT61p",
+    "label": "Template for prompt: A Victorian era style antique footer, containing copyright information",
+    "dateAdded": "2024-01-25T16:40:03.090Z"
+  },
+  {
+    "url": "https://v0.dev/t/HF8Ob8NnswH",
+    "label": "Template for prompt: a graph with nodes that can be linked and sorted",
+    "dateAdded": "2024-01-25T16:40:03.090Z"
+  },
+  {
+    "url": "https://v0.dev/t/JjpziILNUKs",
+    "label": "Template for prompt: Recreate the left navigation and the sliding edit menu that appears to the right of that navigation",
+    "dateAdded": "2024-01-25T16:40:03.090Z"
+  },
+  {
+    "url": "https://v0.dev/t/r03Xtw3EAe4",
+    "label": "Template for prompt: create a loading spinner icon",
+    "dateAdded": "2024-01-25T16:40:03.090Z"
+  },
+  {
+    "url": "https://v0.dev/t/IX2ot4FyPPx",
+    "label": "Template for prompt: a home page for a developer portfolio ",
+    "dateAdded": "2024-01-25T16:40:03.091Z"
+  },
+  {
+    "url": "https://v0.dev/t/01NxZUMM7S4",
+    "label": "Template for prompt: preview of a page in a modal, the page should have title, date, time, description and a signup button. make sure its visible that its a preview",
+    "dateAdded": "2024-01-25T16:40:03.091Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yu16aORtji9",
+    "label": "Template for prompt: a workout tracker that shows sets and reps for each workout and highlights personal records",
+    "dateAdded": "2024-01-25T16:40:03.091Z"
+  },
+  {
+    "url": "https://v0.dev/t/nINQ2FKyTVI",
+    "label": "Template for prompt: convert this to code",
+    "dateAdded": "2024-01-25T16:40:03.091Z"
+  },
+  {
+    "url": "https://v0.dev/t/c73ydbjGJ3V",
+    "label": "Template for prompt: Recreate this page",
+    "dateAdded": "2024-01-25T16:40:03.091Z"
+  },
+  {
+    "url": "https://v0.dev/t/bjmMbBGJRIO",
+    "label": "Template for prompt: mobile app for cargo drivers with oders",
+    "dateAdded": "2024-01-25T16:40:03.092Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yi8JciGKqNx",
+    "label": "Template for prompt: profile page for 5 years experience software engineer",
+    "dateAdded": "2024-01-25T16:40:03.092Z"
+  },
+  {
+    "url": "https://v0.dev/t/b05qb0eqzsH",
+    "label": "Template for prompt: create me basic news website ui",
+    "dateAdded": "2024-01-25T16:40:03.092Z"
   }
 ]
