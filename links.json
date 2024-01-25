@@ -81403,5 +81403,135 @@
     "url": "https://v0.dev/t/QTAfxDRGpHc",
     "label": "Template for prompt: Gamer style menu for a website",
     "dateAdded": "2024-01-25T02:30:03.228Z"
+  },
+  {
+    "url": "https://v0.dev/t/ARJU5UfDVKU",
+    "label": "Template for prompt: I need a webpage for a social media app that allows users to have conversations with their friends about a video podcasts while watching the video",
+    "dateAdded": "2024-01-25T15:35:03.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/fOyMKapMJ7r",
+    "label": "Template for prompt: Create a modern product pricing component with 3 different tiers that have a section for the price and bullet pointed list of features each tier gets",
+    "dateAdded": "2024-01-25T15:35:03.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ic0SdLVqMZG",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-25T15:35:03.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/yjfdty31hhL",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T15:35:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/44Kixvwe5Tn",
+    "label": "Template for prompt: navbar for resturant",
+    "dateAdded": "2024-01-25T15:35:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/fln4XqnAB51",
+    "label": "Template for prompt: a portfolio website projects section",
+    "dateAdded": "2024-01-25T15:35:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/oOu8AECI2iV",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-25T15:35:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/yGVnnrXbBPt",
+    "label": "Template for prompt: i have my code i want responsive or working right this is my code \nimport React, { useState } from 'react';\nimport { Layout, Menu, Button, Dropdown, Avatar, Modal } from 'antd';\nimport { ExclamationCircleOutlined, LogoutOutlined, ProfileOutlined } from '@ant-design/icons';\nimport Link from 'next/link';\nimport { useRouter } from 'next/router';\nimport logo from \"../../public/logo.png\";\nimport Image from 'next/image';\n\nconst { Header } = Layout;\nconst { SubMenu } = Menu;\nconst { confirm } = Modal;\n\n\nconst Navbar = () => {\n  const [collapsed, setCollapsed] = useState(false);\n  const [hoveredAboutUs, setHoveredAboutUs] = useState(false);\n  const [hoveredExplore, setHoveredExplore] = useState(false);\n  const [hoveredServices, setHoveredServices] = useState(false);\n  const { push} = useRouter();\n  const router = useRouter();\n  const [isLoggedIn, setIsLoggedIn] = useState(false);  \n  const toggleCollapsed = () => {\n    setCollapsed(!collapsed);\n  };\n// pop up confirm//\nconst handleLogout = () ",
+    "dateAdded": "2024-01-25T15:35:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/4hhom2Dvn6F",
+    "label": "Template for prompt: Group Activity Network: landing page for a mobile website focused on reviewing and listing lunch spots and activities for groups or companies.",
+    "dateAdded": "2024-01-25T15:35:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/4mhFuajxMzK",
+    "label": "Template for prompt: an ats dashboard",
+    "dateAdded": "2024-01-25T15:35:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/aUbdWbT2gdE",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T15:35:03.170Z"
+  },
+  {
+    "url": "https://v0.dev/t/erm0FNE6SnC",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-25T15:35:03.170Z"
+  },
+  {
+    "url": "https://v0.dev/t/w5ZKQBhGPim",
+    "label": "Template for prompt: Create a application that its purpose is to store desings made by YOU!, so if i see nice UI's created by https://v0.dev I want a place to store those individual designs.",
+    "dateAdded": "2024-01-25T15:35:03.170Z"
+  },
+  {
+    "url": "https://v0.dev/t/Mr2tpx5F2jd",
+    "label": "Template for prompt: Create a dashboard for a notes app with user logged in",
+    "dateAdded": "2024-01-25T15:35:03.170Z"
+  },
+  {
+    "url": "https://v0.dev/t/gvChuBRx0lj",
+    "label": "Template for prompt: Mobile version of payment screen for booking mobile travel website based on HIG with credit card data and two payment options(apple pay and paypal)\n",
+    "dateAdded": "2024-01-25T15:35:03.170Z"
+  },
+  {
+    "url": "https://v0.dev/t/p9abVMlOfr2",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T15:35:03.170Z"
+  },
+  {
+    "url": "https://v0.dev/t/eJg6IJgOCGn",
+    "label": "Template for prompt: Improve this footer, make it profesional ",
+    "dateAdded": "2024-01-25T15:35:03.171Z"
+  },
+  {
+    "url": "https://v0.dev/t/thAuR1YRo95",
+    "label": "Template for prompt: Make an alert component and the background looks like bread",
+    "dateAdded": "2024-01-25T15:35:03.171Z"
+  },
+  {
+    "url": "https://v0.dev/t/2zIxexnCmZm",
+    "label": "Template for prompt: Generate a replica HTML representation of the content available at the following URL: https://www.electrodunas.com/. Utilize Tailwind CSS for styling and incorporate JavaScript functionality as needed. Ensure the replicated version closely mirrors the design and features of the original website.",
+    "dateAdded": "2024-01-25T15:35:03.171Z"
+  },
+  {
+    "url": "https://v0.dev/t/hCdPpUVtbhS",
+    "label": "Template for prompt: create a sidebar with shadcn tailwind",
+    "dateAdded": "2024-01-25T15:35:03.171Z"
+  },
+  {
+    "url": "https://v0.dev/t/HPHQ65qZICR",
+    "label": "Template for prompt: A simple login page",
+    "dateAdded": "2024-01-25T15:35:03.171Z"
+  },
+  {
+    "url": "https://v0.dev/t/8gNSws26PgO",
+    "label": "Template for prompt: RESUME builder ",
+    "dateAdded": "2024-01-25T15:35:03.171Z"
+  },
+  {
+    "url": "https://v0.dev/t/0J7PyhwZtIA",
+    "label": "Template for prompt: A saas product detail page",
+    "dateAdded": "2024-01-25T15:35:03.171Z"
+  },
+  {
+    "url": "https://v0.dev/t/Xfq39tsSqSh",
+    "label": "Template for prompt: Create a login form like this",
+    "dateAdded": "2024-01-25T15:35:03.171Z"
+  },
+  {
+    "url": "https://v0.dev/t/YaJj1h2htCN",
+    "label": "Template for prompt: A page to create filters for a website where you can order them easily and add some basic configurations",
+    "dateAdded": "2024-01-25T15:35:03.172Z"
+  },
+  {
+    "url": "https://v0.dev/t/H5wxQZtWfos",
+    "label": "Template for prompt: Make me toast",
+    "dateAdded": "2024-01-25T15:35:03.172Z"
   }
 ]
