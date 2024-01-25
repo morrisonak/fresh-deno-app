@@ -80888,5 +80888,135 @@
     "url": "https://v0.dev/t/b2jg0W7rQFo",
     "label": "Template for prompt: command modal",
     "dateAdded": "2024-01-25T02:10:03.908Z"
+  },
+  {
+    "url": "https://v0.dev/t/WEMxPPzkayF",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T02:15:03.240Z"
+  },
+  {
+    "url": "https://v0.dev/t/ukLdaotnYqw",
+    "label": "Template for prompt: hackathon website",
+    "dateAdded": "2024-01-25T02:15:03.240Z"
+  },
+  {
+    "url": "https://v0.dev/t/TcVZ379IYCT",
+    "label": "Template for prompt: command menu like zeno rocha website",
+    "dateAdded": "2024-01-25T02:15:03.241Z"
+  },
+  {
+    "url": "https://v0.dev/t/J1DqGUFFlD9",
+    "label": "Template for prompt: The component of audio player to listen to the stream of a phone call. The call could be live or recorded. User should be able to play/pause, or stop the playback. There should be a progress bar which glows when the call is live, and shows the progress when the call is being played from a recording.",
+    "dateAdded": "2024-01-25T02:15:03.241Z"
+  },
+  {
+    "url": "https://v0.dev/t/u9UMycQgk5Y",
+    "label": "Template for prompt: News feed for a climb website",
+    "dateAdded": "2024-01-25T02:15:03.241Z"
+  },
+  {
+    "url": "https://v0.dev/t/52G6ZfKxoux",
+    "label": "Template for prompt: A page of an online course video powered by AI where you can interact with the video using ai, talk to an ai about whats happening with the video, and make the app colorful and fun icons",
+    "dateAdded": "2024-01-25T02:15:03.241Z"
+  },
+  {
+    "url": "https://v0.dev/t/WcN48POgPxe",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T02:15:03.241Z"
+  },
+  {
+    "url": "https://v0.dev/t/6Ei33wC55LI",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T02:15:03.242Z"
+  },
+  {
+    "url": "https://v0.dev/t/pDAeA2FF2jN",
+    "label": "Template for prompt: Improve this card",
+    "dateAdded": "2024-01-25T02:15:03.242Z"
+  },
+  {
+    "url": "https://v0.dev/t/MJ4VKV1NNsi",
+    "label": "Template for prompt: web3 wallet connection header",
+    "dateAdded": "2024-01-25T02:15:03.242Z"
+  },
+  {
+    "url": "https://v0.dev/t/paV9GGqtTrD",
+    "label": "Template for prompt: tree",
+    "dateAdded": "2024-01-25T02:15:03.242Z"
+  },
+  {
+    "url": "https://v0.dev/t/VA2iXRCBsEg",
+    "label": "Template for prompt: A page of an online university powered by ai showing an online lexture video, but it is interactive using ai and is designed in a gamified way.",
+    "dateAdded": "2024-01-25T02:15:03.242Z"
+  },
+  {
+    "url": "https://v0.dev/t/YXAZ4CFVCCc",
+    "label": "Template for prompt: An audio player to listen to the stream of a phone call. The call could be live or recorded.",
+    "dateAdded": "2024-01-25T02:15:03.243Z"
+  },
+  {
+    "url": "https://v0.dev/t/1Er5HoGcElt",
+    "label": "Template for prompt: Features page for a slackline website where user can have a history of his journey as a athlete",
+    "dateAdded": "2024-01-25T02:15:03.243Z"
+  },
+  {
+    "url": "https://v0.dev/t/bywdbcR9JwY",
+    "label": "Template for prompt: Landing Page for a Pre-launch service marketplace no products yet just sign up for the beta",
+    "dateAdded": "2024-01-25T02:15:03.243Z"
+  },
+  {
+    "url": "https://v0.dev/t/5R1Sya9gImk",
+    "label": "Template for prompt: 表单页面，包括企业编码（id=enterprise_number）、单位名称（id=enterprise_name）、地区（id=area）、擅长领域（id=areas_of_expertise）、单位类型（id=enterprise_type）、合作基础（id=fundamentals_of_cooperation）、合作频次（id=fundamentals_number）、合作过的项目名单（id=cooperation_history）、技术服务单位简介（id=enterprise_introduction）、备注（id=note）",
+    "dateAdded": "2024-01-25T02:15:03.243Z"
+  },
+  {
+    "url": "https://v0.dev/t/4HsdKL0k548",
+    "label": "Template for prompt: ID, PASSWORD 와 구글, 애플 로그인이 가능한 로그인 화면을 만들어줘",
+    "dateAdded": "2024-01-25T02:15:03.243Z"
+  },
+  {
+    "url": "https://v0.dev/t/jdDPmoUfkfO",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T02:15:03.243Z"
+  },
+  {
+    "url": "https://v0.dev/t/cCvXkYy26Wi",
+    "label": "Template for prompt: landing page for a marketplace",
+    "dateAdded": "2024-01-25T02:15:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/0sRCa8s3m2y",
+    "label": "Template for prompt: A card with company name, status, income, responsible person and a button to open details",
+    "dateAdded": "2024-01-25T02:15:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZzJO679U3Fr",
+    "label": "Template for prompt: 로그인 화면을 만들어줘. 배경색은 아래에서 위로 steelblue 에서 white 로 그라데이션을 줘야해.\n로그인 폼은 화면의 우측 중앙으로 정렬하고, 화면 좌측에는 배경 이미지를 넣어야해.\n로그인 폼 위에는 시스템명을 넣어줘.\n가입 버튼도 추가 되어야 하는데, SNS 연동 가입/로그인도 필요하며,  구글과 애플 계정으로 가입/로그인 가능해",
+    "dateAdded": "2024-01-25T02:15:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/JtrZyL2WsA7",
+    "label": "Template for prompt: We need to create an inbox page listing out received\nmessages from friends\n. Here are the key rules for us to get the goal. A inbox page is designed to provide users with a clear\nand organized view of their received messages. The page\nis divided into fragments that include a navigation bar at\nthe top, a list of message cards, and a bottom navigation\nbar for easy access to other sections of the app. The\ndesign emphasizes readability and ease of navigation, with \na clean layout and visual cues to highlight new messages.\n",
+    "dateAdded": "2024-01-25T02:15:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/QwFLdRYgeuf",
+    "label": "Template for prompt: create a clock and in the right side, the phrase: Salve seu tempo!",
+    "dateAdded": "2024-01-25T02:15:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/YC5ubCGfYi8",
+    "label": "Template for prompt: landing page, cards and mor",
+    "dateAdded": "2024-01-25T02:15:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/FDStJpzG5wS",
+    "label": "Template for prompt: create UI as same as upload",
+    "dateAdded": "2024-01-25T02:15:03.245Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wx8vwx2wh8T",
+    "label": "Template for prompt: Homepage for Child Emotional Disorder Development Assessment: Sign Up, Log In, Password Recover",
+    "dateAdded": "2024-01-25T02:15:03.245Z"
   }
 ]
