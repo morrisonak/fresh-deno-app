@@ -82433,5 +82433,135 @@
     "url": "https://v0.dev/t/VcwpJBxtX2X",
     "label": "Template for prompt: a horizontal connected radio group",
     "dateAdded": "2024-01-25T16:10:02.521Z"
+  },
+  {
+    "url": "https://v0.dev/t/2s6hENtxM7U",
+    "label": "Template for prompt: A landing page for a student group that arranges movie nights, and reviews movies. ",
+    "dateAdded": "2024-01-25T16:15:02.755Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ctc0rBkTiux",
+    "label": "Template for prompt: A list of required spare parts used for maintenance splitted by weeks for the next 2 weeks.",
+    "dateAdded": "2024-01-25T16:15:02.755Z"
+  },
+  {
+    "url": "https://v0.dev/t/PWZ6ew9Si6b",
+    "label": "Template for prompt: Dashboard with manager performance",
+    "dateAdded": "2024-01-25T16:15:02.755Z"
+  },
+  {
+    "url": "https://v0.dev/t/XsZpyTShlsH",
+    "label": "Template for prompt: Create a web page UI featuring a GDPR-compliant cookies banner and customizable tracking analytics settings. At the top or bottom, include a non-intrusive, easily noticeable banner for cookie consent. This banner should provide a brief explanation of cookies used, with a link to a more detailed cookie policy. Offer options like \"Accept All,\" \"Reject All,\" and \"Customize Settings.\" For the 'Customize Settings' option, open a modal or a dedicated section within the page. This area allows users to toggle individual tracking analytics, clearly categorized (e.g., performance, marketing, functional). Each category should have a brief description and a toggle switch for enabling or disabling. Ensure the design is user-friendly and accessible, with clear typography and intuitive navigation. The overall aesthetic should align with the company's branding, maintaining a professional and trustworthy look.",
+    "dateAdded": "2024-01-25T16:15:02.756Z"
+  },
+  {
+    "url": "https://v0.dev/t/d3qU5CRVBzy",
+    "label": "Template for prompt: create a vertical card with image and text ",
+    "dateAdded": "2024-01-25T16:15:02.756Z"
+  },
+  {
+    "url": "https://v0.dev/t/TCcDyyFJy7S",
+    "label": "Template for prompt: make an api usage example div, should have the url and the response example json",
+    "dateAdded": "2024-01-25T16:15:02.756Z"
+  },
+  {
+    "url": "https://v0.dev/t/2aqU1U5QT9c",
+    "label": "Template for prompt: make an api usage example div, should have the url and the response example json",
+    "dateAdded": "2024-01-25T16:15:02.756Z"
+  },
+  {
+    "url": "https://v0.dev/t/rAii5dzNyT1",
+    "label": "Template for prompt: make an api usage example div, should have the url and the response example json",
+    "dateAdded": "2024-01-25T16:15:02.756Z"
+  },
+  {
+    "url": "https://v0.dev/t/WhqduwEBXGj",
+    "label": "Template for prompt: a div with a youtube like card, video in the left side and text in the right. It's for a course lection. needs to have time",
+    "dateAdded": "2024-01-25T16:15:02.756Z"
+  },
+  {
+    "url": "https://v0.dev/t/Jai5Fzu4fZx",
+    "label": "Template for prompt: 动态的",
+    "dateAdded": "2024-01-25T16:15:02.756Z"
+  },
+  {
+    "url": "https://v0.dev/t/NGjPP7TOclP",
+    "label": "Template for prompt: Features:\n\nGDPR cookies banner,\nenable/disabled certain tracking analytics",
+    "dateAdded": "2024-01-25T16:15:02.757Z"
+  },
+  {
+    "url": "https://v0.dev/t/klbN2L6pX2B",
+    "label": "Template for prompt: añade el tiempo solicitado de vacaciones para ese tipo de jornada",
+    "dateAdded": "2024-01-25T16:15:02.757Z"
+  },
+  {
+    "url": "https://v0.dev/t/4RBsOu6B921",
+    "label": "Template for prompt: me de uma pagina com menu lateral onde cada opção seja representada por um icone, onde as opções são: usuários, clientes, chamados e configurações gerais",
+    "dateAdded": "2024-01-25T16:15:02.757Z"
+  },
+  {
+    "url": "https://v0.dev/t/iZFRbHLYYif",
+    "label": "Template for prompt: vue ui 자동완성",
+    "dateAdded": "2024-01-25T16:15:02.757Z"
+  },
+  {
+    "url": "https://v0.dev/t/9SoKxxP6H5l",
+    "label": "Template for prompt: Give me a frontend for a Warehouse Management System Dashboard for Inbound",
+    "dateAdded": "2024-01-25T16:15:02.757Z"
+  },
+  {
+    "url": "https://v0.dev/t/9I8BWjOj8F4",
+    "label": "Template for prompt: A web template to show info of a registered person such as email, phone, office, department, etc.",
+    "dateAdded": "2024-01-25T16:15:02.757Z"
+  },
+  {
+    "url": "https://v0.dev/t/ry2mrfgp20Z",
+    "label": "Template for prompt: Create a filter sidebar for my nft marketplace that will go in the grey block. The filter has a search bar section, then another section with a price, followers and views filter with min and max amount, and also a rarity filters (between 1 and 4)",
+    "dateAdded": "2024-01-25T16:15:02.757Z"
+  },
+  {
+    "url": "https://v0.dev/t/1k4mC9pk89M",
+    "label": "Template for prompt: crea un admin dashboard solo con el panel izquierdo y el navbar y deja el espacio del main en blanco",
+    "dateAdded": "2024-01-25T16:15:02.757Z"
+  },
+  {
+    "url": "https://v0.dev/t/GYtkUnmHL6T",
+    "label": "Template for prompt: The purpose of this project is to generate interest and collect customer contact information through a computer game. The requirements include the development of a single version of the game with the Q Energy logo and distinct versions for different installers. The web-based calculator will estimate savings using the QEnergy app and Battery based on user-inputted information. Notable features involve capturing and storing customer information, notifying about new data, tracking clicks and completions for assessing effectiveness, and incorporating a \"Call Us\" button on the savings report page, linking to Q Energy and recording customer-initiated calls.\n\nUser input comprises three steps: entering last month's electricity costs, selecting a tariff type (with specific savings information provided), and submitting personal details for prize registration, including name and email.\n\nOutput includes monthly and yearly savings presented in both monetary and percentage terms based on the install",
+    "dateAdded": "2024-01-25T16:15:02.758Z"
+  },
+  {
+    "url": "https://v0.dev/t/lOW8kFYnYoV",
+    "label": "Template for prompt: create an image with attribute badges such as free shipping hist only live icon inside the image make it look nice maybe add icons or badges etc u decide add an example image also the image is going to be as small as a youtube image",
+    "dateAdded": "2024-01-25T16:15:02.758Z"
+  },
+  {
+    "url": "https://v0.dev/t/M0MAT4LUTgX",
+    "label": "Template for prompt: make full website for tech2weaks which is a Research and Development company from India",
+    "dateAdded": "2024-01-25T16:15:02.758Z"
+  },
+  {
+    "url": "https://v0.dev/t/rzYwVQcp3yr",
+    "label": "Template for prompt: make an api request example component, should display the api url, method and the json response in a pretty formated way",
+    "dateAdded": "2024-01-25T16:15:02.758Z"
+  },
+  {
+    "url": "https://v0.dev/t/nXqwvbrut3i",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and a \"Sign up for waitlist\"-cta",
+    "dateAdded": "2024-01-25T16:15:02.758Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZTa4CcsMGzf",
+    "label": "Template for prompt: Create a horizontal progress bar with a percentaje indicator",
+    "dateAdded": "2024-01-25T16:15:02.758Z"
+  },
+  {
+    "url": "https://v0.dev/t/lRS4E1NtSH3",
+    "label": "Template for prompt: crypto analytics dashboard for traders",
+    "dateAdded": "2024-01-25T16:15:02.758Z"
+  },
+  {
+    "url": "https://v0.dev/t/iXnwRKiM5YY",
+    "label": "Template for prompt: create an image with attribute badges such as free shipping hist only live icon inside the image make it look nice maybe add icons or badges etc u decide",
+    "dateAdded": "2024-01-25T16:15:02.758Z"
   }
 ]
