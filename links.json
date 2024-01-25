@@ -83573,5 +83573,135 @@
     "url": "https://v0.dev/t/093KNImVBiP",
     "label": "Template for prompt: landing page for a small company producing wood pallets",
     "dateAdded": "2024-01-25T16:55:02.383Z"
+  },
+  {
+    "url": "https://v0.dev/t/6ATQpja9ArS",
+    "label": "Template for prompt: conversation prompts from a chat bubble at the bottom of the page from a chatbot",
+    "dateAdded": "2024-01-25T17:00:04.385Z"
+  },
+  {
+    "url": "https://v0.dev/t/ryaZmgWK2fB",
+    "label": "Template for prompt: a dashboard sidebar nav and table",
+    "dateAdded": "2024-01-25T17:00:04.386Z"
+  },
+  {
+    "url": "https://v0.dev/t/tmqo0eVsSuV",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T17:00:04.386Z"
+  },
+  {
+    "url": "https://v0.dev/t/xshjqn3Zx7B",
+    "label": "Template for prompt: A general dashboard page",
+    "dateAdded": "2024-01-25T17:00:04.386Z"
+  },
+  {
+    "url": "https://v0.dev/t/4b3uJkHgq4a",
+    "label": "Template for prompt: A simple form with three items.\n\n1. Title is \"Focus\". Three options but only one is selectable at a time. The options are \"Rehab\", \"Maintenance\", and \"Strengthening\"\n\n2. Title is \"Minutes\". This one has a slide between 5 and 30.\n\n3. Title is \"Goal\". This one is an empty form for the user to type into",
+    "dateAdded": "2024-01-25T17:00:04.386Z"
+  },
+  {
+    "url": "https://v0.dev/t/O3nzd8yVAko",
+    "label": "Template for prompt: a multiple choice question component",
+    "dateAdded": "2024-01-25T17:00:04.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/rd65e6anjQz",
+    "label": "Template for prompt: A transparent top sticky navbar that blurs it's background and hides when scrolled down, appears when scrolled up or when you're at the top of the page",
+    "dateAdded": "2024-01-25T17:00:04.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/u6MYKUmpICM",
+    "label": "Template for prompt: log viewer with custom search ",
+    "dateAdded": "2024-01-25T17:00:04.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/DykhAHmtJad",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T17:00:04.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/VYfuvxCLTmE",
+    "label": "Template for prompt: hazme una pagina para recibir notificaciones",
+    "dateAdded": "2024-01-25T17:00:04.387Z"
+  },
+  {
+    "url": "https://v0.dev/t/e9uUcNyIM9r",
+    "label": "Template for prompt: A moderator dashboard for Discord message searching",
+    "dateAdded": "2024-01-25T17:00:04.388Z"
+  },
+  {
+    "url": "https://v0.dev/t/LVnJRauQcyi",
+    "label": "Template for prompt: Create a ticket/job page based on this screenshot.",
+    "dateAdded": "2024-01-25T17:00:04.388Z"
+  },
+  {
+    "url": "https://v0.dev/t/e36LAUWveyy",
+    "label": "Template for prompt: Generate a login form with the ability to specifiy an email and a password",
+    "dateAdded": "2024-01-25T17:00:04.388Z"
+  },
+  {
+    "url": "https://v0.dev/t/rashcJULIHK",
+    "label": "Template for prompt: make a footer of a developer portfolio",
+    "dateAdded": "2024-01-25T17:00:04.388Z"
+  },
+  {
+    "url": "https://v0.dev/t/6dCHZqsxdoA",
+    "label": "Template for prompt: Create a professionnal navbar",
+    "dateAdded": "2024-01-25T17:00:04.389Z"
+  },
+  {
+    "url": "https://v0.dev/t/6898LcpXH0O",
+    "label": "Template for prompt: a landig pizza page",
+    "dateAdded": "2024-01-25T17:00:04.389Z"
+  },
+  {
+    "url": "https://v0.dev/t/bRyMRGTxm2D",
+    "label": "Template for prompt: a dashboard with a resizable sidebar nav and table",
+    "dateAdded": "2024-01-25T17:00:04.389Z"
+  },
+  {
+    "url": "https://v0.dev/t/zbMQv617fsq",
+    "label": "Template for prompt: pls generate this design <div>\n\t<RMGHeader>Login Page</RMGHeader>\n\t<RMGText>welcome to our amazing app, pls login! </RMGText>\n\t<RMGInput title=\"email\" />\n\t<RMGInput title=\"password\" />\n\t<RMGButton title=\"login\" />\n</div>",
+    "dateAdded": "2024-01-25T17:00:04.389Z"
+  },
+  {
+    "url": "https://v0.dev/t/1i1cq5KvdAd",
+    "label": "Template for prompt: A timer app",
+    "dateAdded": "2024-01-25T17:00:04.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/cwVsJCnkos6",
+    "label": "Template for prompt: Create a design for a social media for an university",
+    "dateAdded": "2024-01-25T17:00:04.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/XyaOvPxhhj3",
+    "label": "Template for prompt: a primary button with a secondary dropdown on the side that can allow me to perform a primary action as well multiple secondary actions",
+    "dateAdded": "2024-01-25T17:00:04.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/AHM1Sa7Vacc",
+    "label": "Template for prompt: A dashboard with a sidebar nav and table",
+    "dateAdded": "2024-01-25T17:00:04.390Z"
+  },
+  {
+    "url": "https://v0.dev/t/RRrgbv9cfqy",
+    "label": "Template for prompt: Reorganize the components in the photo. Make it look nicer and more modern",
+    "dateAdded": "2024-01-25T17:00:04.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/jRo87wUYkNR",
+    "label": "Template for prompt: build a simple page where users can select either country, state, or city or latitude and longitude to get weather. show the weather below the selections. The country, state and city selections should be a dropdown",
+    "dateAdded": "2024-01-25T17:00:04.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/3DSvVP5XcaU",
+    "label": "Template for prompt: an openlayer map with points of interest",
+    "dateAdded": "2024-01-25T17:00:04.391Z"
+  },
+  {
+    "url": "https://v0.dev/t/jR2XHeHbdvV",
+    "label": "Template for prompt: An exercise application that shows a big circle timer in the middle. It should have a simple set of play, pause, next, previous icons at the bottom. There should be room at the top for an ad banner",
+    "dateAdded": "2024-01-25T17:00:04.392Z"
   }
 ]
