@@ -84308,5 +84308,130 @@
     "url": "https://v0.dev/t/UjKIoTgse6E",
     "label": "Template for prompt: Starter Bundle:\n\nIncludes three team types: small, medium, and large.\nAll teams have identical features.\nPrice varies based on team size, with larger teams receiving better pricing due to increased capacity.\nPro Bundle:\n\nAlso comprises small, medium, and large teams.\nIdentical features across all team sizes.\nIncludes all features from the Starter Bundle plus additional functionalities.\nDistinguishing Features:\n\nStarter Bundle: Price variation based on team size, same features for all teams.\nPro Bundle: Same features for all teams, additional functionalities compared to Starter Bundle.\nImplementation Details:\n\nStarter Bundle Pricing Links:\nSmall Team: Stripe Link: [URL] - Subscribe Now Button\nMedium Team: Stripe Link: [URL] - Mention 15% discount to small team pricing\nLarge Team: Stripe Link: [URL] - Note 29% discount to small team pricing\n\nEnterprise Pricing \nDisplay message: \"If your organization has more than 50 advisors, please contact us for pricing.\"\nProvide a clear call-to-action",
     "dateAdded": "2024-01-25T17:25:03.327Z"
+  },
+  {
+    "url": "https://v0.dev/t/FA5JGl6Jurq",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T17:30:03.295Z"
+  },
+  {
+    "url": "https://v0.dev/t/ixFjfd6D2bj",
+    "label": "Template for prompt: a youtube clone",
+    "dateAdded": "2024-01-25T17:30:03.295Z"
+  },
+  {
+    "url": "https://v0.dev/t/xDQLamhkEU9",
+    "label": "Template for prompt: a form with text input fields, with a button on the bottom of the form that allows you to add more inputs. To the right of each input should be a trash icon that allows you to delete said input",
+    "dateAdded": "2024-01-25T17:30:03.295Z"
+  },
+  {
+    "url": "https://v0.dev/t/wOpyWO9nKsz",
+    "label": "Template for prompt: A consult form with 2 drop down inputs, one textarea, and one checkbox for agreeing to the terms.",
+    "dateAdded": "2024-01-25T17:30:03.295Z"
+  },
+  {
+    "url": "https://v0.dev/t/dnlDSf1lu6r",
+    "label": "Template for prompt: form taking up half width of the parent which takes up the full width of the page. inputs: name, email address, subject, message, and a send button that is on the right side of the form",
+    "dateAdded": "2024-01-25T17:30:03.295Z"
+  },
+  {
+    "url": "https://v0.dev/t/d68MuMXTyIc",
+    "label": "Template for prompt: coming soon website",
+    "dateAdded": "2024-01-25T17:30:03.296Z"
+  },
+  {
+    "url": "https://v0.dev/t/J31Aj1WyYc5",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T17:30:03.296Z"
+  },
+  {
+    "url": "https://v0.dev/t/WaJjb0s2QEk",
+    "label": "Template for prompt: A page for reviewing code changes in a git repository requesting their branch to be merged. A collaborative pull request code review platform. You can click to see the code change diffs side by side, review all the commits that were made, and add comments on individual lines and reply to other comments. ",
+    "dateAdded": "2024-01-25T17:30:03.296Z"
+  },
+  {
+    "url": "https://v0.dev/t/KUkveLlyz5I",
+    "label": "Template for prompt: make me burgers menu and loader ",
+    "dateAdded": "2024-01-25T17:30:03.296Z"
+  },
+  {
+    "url": "https://v0.dev/t/viDMMjr7ffX",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-25T17:30:03.296Z"
+  },
+  {
+    "url": "https://v0.dev/t/JHpMjQ02vYh",
+    "label": "Template for prompt: A footer for a portfolio site like the image attached",
+    "dateAdded": "2024-01-25T17:30:03.296Z"
+  },
+  {
+    "url": "https://v0.dev/t/y5zxYClUQgL",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-25T17:30:03.296Z"
+  },
+  {
+    "url": "https://v0.dev/t/e44BhQY94S6",
+    "label": "Template for prompt: a contact card with kpis about risk",
+    "dateAdded": "2024-01-25T17:30:03.297Z"
+  },
+  {
+    "url": "https://v0.dev/t/tNZplR1Lb2L",
+    "label": "Template for prompt: A hero section that on desktop is a hald and half split between content and an image and on mobile has the image as a background behind the content",
+    "dateAdded": "2024-01-25T17:30:03.297Z"
+  },
+  {
+    "url": "https://v0.dev/t/QcGumzreWew",
+    "label": "Template for prompt: todo app ui ",
+    "dateAdded": "2024-01-25T17:30:03.297Z"
+  },
+  {
+    "url": "https://v0.dev/t/KDIeCHsWPT9",
+    "label": "Template for prompt: continously scrolling testomonial section ",
+    "dateAdded": "2024-01-25T17:30:03.297Z"
+  },
+  {
+    "url": "https://v0.dev/t/SFCKxW30VCQ",
+    "label": "Template for prompt: help me add that curved line image at the bottom of the text",
+    "dateAdded": "2024-01-25T17:30:03.297Z"
+  },
+  {
+    "url": "https://v0.dev/t/QdlTtIzpnlM",
+    "label": "Template for prompt: Review your information Screen as last step of form",
+    "dateAdded": "2024-01-25T17:30:03.297Z"
+  },
+  {
+    "url": "https://v0.dev/t/Njraxk8hhoX",
+    "label": "Template for prompt: a ui from the image",
+    "dateAdded": "2024-01-25T17:30:03.298Z"
+  },
+  {
+    "url": "https://v0.dev/t/PP1lFFfBTbC",
+    "label": "Template for prompt: create a login page in black theme",
+    "dateAdded": "2024-01-25T17:30:03.298Z"
+  },
+  {
+    "url": "https://v0.dev/t/JizYyDhEFUI",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T17:30:03.298Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZneTtERblan",
+    "label": "Template for prompt: Download whitepaper header block (two columns). Email needed to download",
+    "dateAdded": "2024-01-25T17:30:03.298Z"
+  },
+  {
+    "url": "https://v0.dev/t/VERFVM9Avy5",
+    "label": "Template for prompt: Design A word document editor page for my website in react js",
+    "dateAdded": "2024-01-25T17:30:03.299Z"
+  },
+  {
+    "url": "https://v0.dev/t/maaFbPfHvaN",
+    "label": "Template for prompt: change language english and spanish button",
+    "dateAdded": "2024-01-25T17:30:03.299Z"
+  },
+  {
+    "url": "https://v0.dev/t/SKn1Km0Ztfb",
+    "label": "Template for prompt: create a login page in dark mode with colorful colors",
+    "dateAdded": "2024-01-25T17:30:03.299Z"
   }
 ]
