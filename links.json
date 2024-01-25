@@ -88023,5 +88023,135 @@
     "url": "https://v0.dev/t/KtjA8jzJMZU",
     "label": "Template for prompt: register form (email, password, confirm password)",
     "dateAdded": "2024-01-25T21:15:02.511Z"
+  },
+  {
+    "url": "https://v0.dev/t/PrbEP8YFJME",
+    "label": "Template for prompt: Create the exact page as given.",
+    "dateAdded": "2024-01-25T21:20:03.742Z"
+  },
+  {
+    "url": "https://v0.dev/t/gN19X1rXkoO",
+    "label": "Template for prompt: interactive cinema repertoire creator which allows user to drag and drop some crutial cinema repertoire elements ",
+    "dateAdded": "2024-01-25T21:20:03.742Z"
+  },
+  {
+    "url": "https://v0.dev/t/Pi1vJV6m1WW",
+    "label": "Template for prompt: a quiz page for multiple answers",
+    "dateAdded": "2024-01-25T21:20:03.742Z"
+  },
+  {
+    "url": "https://v0.dev/t/a1CdZRk2EA6",
+    "label": "Template for prompt: a quiz page for multiple answers",
+    "dateAdded": "2024-01-25T21:20:03.742Z"
+  },
+  {
+    "url": "https://v0.dev/t/hOTiJXjqfn2",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-25T21:20:03.742Z"
+  },
+  {
+    "url": "https://v0.dev/t/UWyfreMU3AL",
+    "label": "Template for prompt: acomoda eso",
+    "dateAdded": "2024-01-25T21:20:03.742Z"
+  },
+  {
+    "url": "https://v0.dev/t/nhypdudF9Wr",
+    "label": "Template for prompt: create listing form, solicitinc the quantity of shares, price per share, and showing the total",
+    "dateAdded": "2024-01-25T21:20:03.742Z"
+  },
+  {
+    "url": "https://v0.dev/t/GIi715rHRP9",
+    "label": "Template for prompt: Create landing page for a website which allows users to create bio links, shorten links or create shop links the name of my website is easylink.me be creative and moder and expressive which will drive users",
+    "dateAdded": "2024-01-25T21:20:03.743Z"
+  },
+  {
+    "url": "https://v0.dev/t/a4zLz1uAncd",
+    "label": "Template for prompt: create listing form, inputs[quantity of shares, price per share]",
+    "dateAdded": "2024-01-25T21:20:03.743Z"
+  },
+  {
+    "url": "https://v0.dev/t/iaooPhR77xc",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T21:20:03.743Z"
+  },
+  {
+    "url": "https://v0.dev/t/CmWZnOUoM5B",
+    "label": "Template for prompt: Create me a portfolio website.]",
+    "dateAdded": "2024-01-25T21:20:03.743Z"
+  },
+  {
+    "url": "https://v0.dev/t/r4tUl53Nw3k",
+    "label": "Template for prompt: I need a loading component with jumping dots animation",
+    "dateAdded": "2024-01-25T21:20:03.744Z"
+  },
+  {
+    "url": "https://v0.dev/t/yFgJBmfz0Oh",
+    "label": "Template for prompt: create shares listing: [shares] [price per share] [:display total cost:]",
+    "dateAdded": "2024-01-25T21:20:03.744Z"
+  },
+  {
+    "url": "https://v0.dev/t/FA6mG0x4zzM",
+    "label": "Template for prompt: Create a nextjs, react, tailwind css navigation header",
+    "dateAdded": "2024-01-25T21:20:03.744Z"
+  },
+  {
+    "url": "https://v0.dev/t/88JmlnyNiES",
+    "label": "Template for prompt: Can you create me a container with tailwind, where I have a component that is going to show a graph on the left. And on the other side a checkboxes component on the right. That is responsive, and that when I make the brekpoint, the checkboxes are at the top.",
+    "dateAdded": "2024-01-25T21:20:03.744Z"
+  },
+  {
+    "url": "https://v0.dev/t/AfTXqpXUK6n",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T21:20:03.744Z"
+  },
+  {
+    "url": "https://v0.dev/t/MmriC632x19",
+    "label": "Template for prompt: list sell price per share, and number of shares for sale",
+    "dateAdded": "2024-01-25T21:20:03.744Z"
+  },
+  {
+    "url": "https://v0.dev/t/HJfR5fRbtz0",
+    "label": "Template for prompt: Create landing page for a website which allows users to create bio links, shorten links or create shop links",
+    "dateAdded": "2024-01-25T21:20:03.745Z"
+  },
+  {
+    "url": "https://v0.dev/t/H1mF4AyTpL2",
+    "label": "Template for prompt: observability saas pricing page",
+    "dateAdded": "2024-01-25T21:20:03.745Z"
+  },
+  {
+    "url": "https://v0.dev/t/tWovsMkTsjU",
+    "label": "Template for prompt: observability saas pricing page",
+    "dateAdded": "2024-01-25T21:20:03.745Z"
+  },
+  {
+    "url": "https://v0.dev/t/Oi3id2oTKfq",
+    "label": "Template for prompt: minimal blog with images, location, the perfect tourist guide",
+    "dateAdded": "2024-01-25T21:20:03.745Z"
+  },
+  {
+    "url": "https://v0.dev/t/PYzOUer4LTy",
+    "label": "Template for prompt: list shares for sale",
+    "dateAdded": "2024-01-25T21:20:03.745Z"
+  },
+  {
+    "url": "https://v0.dev/t/A1fOoJ6XL5p",
+    "label": "Template for prompt: A chat like interface with user icon and history",
+    "dateAdded": "2024-01-25T21:20:03.746Z"
+  },
+  {
+    "url": "https://v0.dev/t/6gqNR0YNRPZ",
+    "label": "Template for prompt: Give me a landing page with a dark theme",
+    "dateAdded": "2024-01-25T21:20:03.746Z"
+  },
+  {
+    "url": "https://v0.dev/t/6LvcXCxQ70H",
+    "label": "Template for prompt: create a confirm page for email verification",
+    "dateAdded": "2024-01-25T21:20:03.746Z"
+  },
+  {
+    "url": "https://v0.dev/t/DfYsTwxxGpm",
+    "label": "Template for prompt: list for sale dialog, shares and price",
+    "dateAdded": "2024-01-25T21:20:03.746Z"
   }
 ]
