@@ -78423,5 +78423,130 @@
     "url": "https://v0.dev/t/Sm6cYIxZ6VC",
     "label": "Template for prompt: amobile app for display blood oxygen levels and heart rate",
     "dateAdded": "2024-01-25T00:35:03.428Z"
+  },
+  {
+    "url": "https://v0.dev/t/mR8q7lZqqaC",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T00:40:03.741Z"
+  },
+  {
+    "url": "https://v0.dev/t/KEXv1vzyH94",
+    "label": "Template for prompt: A two panel pricing section",
+    "dateAdded": "2024-01-25T00:40:03.742Z"
+  },
+  {
+    "url": "https://v0.dev/t/rO6MDc2Zt1K",
+    "label": "Template for prompt: Wireframe of a UI screen titled \"Set up your business.\". It should have two sections: \"Business owners\" and \"Control Person\"",
+    "dateAdded": "2024-01-25T00:40:03.742Z"
+  },
+  {
+    "url": "https://v0.dev/t/PPIUywuQ6Ju",
+    "label": "Template for prompt: A portfolio",
+    "dateAdded": "2024-01-25T00:40:03.742Z"
+  },
+  {
+    "url": "https://v0.dev/t/FhToVYhLFvZ",
+    "label": "Template for prompt: web developer landing page with vibrant color and a modern look",
+    "dateAdded": "2024-01-25T00:40:03.742Z"
+  },
+  {
+    "url": "https://v0.dev/t/KshwOLRUYOW",
+    "label": "Template for prompt: webpage for a delivery shipping ",
+    "dateAdded": "2024-01-25T00:40:03.742Z"
+  },
+  {
+    "url": "https://v0.dev/t/DOaAuiKZp26",
+    "label": "Template for prompt: a sass admin dashboard similar to stripe",
+    "dateAdded": "2024-01-25T00:40:03.743Z"
+  },
+  {
+    "url": "https://v0.dev/t/oJVJBnKCjch",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T00:40:03.743Z"
+  },
+  {
+    "url": "https://v0.dev/t/h0H94mxI63X",
+    "label": "Template for prompt: make a resizable dashboard component using shad cn",
+    "dateAdded": "2024-01-25T00:40:03.743Z"
+  },
+  {
+    "url": "https://v0.dev/t/G7VvelHRZAH",
+    "label": "Template for prompt: Create a landing page of a real estate fully responsive, where its main colors are: #81807D, #D68741, #1F2E57. I want it to be divided into the following sections:\n\nNavbar: have a logo, the menu (Home, about, projects, blog) and a contact button.\nHero secction: I want it to have a background of a real estate project with a dark effect, also a title and a contact form, I want this form to have a glassphorm effect.\nProjectsSection: I want to show a grid with 3 projects that each project is displayed on a card where you can evr an image of the project a title, description and a button to read more.\nAboutSection: In this section I want to show an image of the organization and a small description of the company, as well as a text of why choose us.\nContact section: I want it to be similar to the hero section.\nFooter: a footer with the logo, the pages, contact.",
+    "dateAdded": "2024-01-25T00:40:03.743Z"
+  },
+  {
+    "url": "https://v0.dev/t/ejsxAMAGoFY",
+    "label": "Template for prompt: web developer portfolio with purple colors",
+    "dateAdded": "2024-01-25T00:40:03.743Z"
+  },
+  {
+    "url": "https://v0.dev/t/h9f6WSRllk8",
+    "label": "Template for prompt: A web page for a financial app",
+    "dateAdded": "2024-01-25T00:40:03.744Z"
+  },
+  {
+    "url": "https://v0.dev/t/GYnc0e882Xl",
+    "label": "Template for prompt: A iOS app that displays a  new word of the day",
+    "dateAdded": "2024-01-25T00:40:03.744Z"
+  },
+  {
+    "url": "https://v0.dev/t/e8DkddiwEtm",
+    "label": "Template for prompt: minimal dashboard with 10 input boxes : total gross earned premium, average base premium, sum Insured, Excess, total claim count, , Items with one plot above these boxes showing a sigmoid function where 1 = win , 0 = lose. ",
+    "dateAdded": "2024-01-25T00:40:03.744Z"
+  },
+  {
+    "url": "https://v0.dev/t/CT9HUdDnUC7",
+    "label": "Template for prompt: Designing an application interface using XML for an online store  ",
+    "dateAdded": "2024-01-25T00:40:03.744Z"
+  },
+  {
+    "url": "https://v0.dev/t/nInQrTZx1YJ",
+    "label": "Template for prompt: an online learning platforn with video courses requiring user authentication",
+    "dateAdded": "2024-01-25T00:40:03.744Z"
+  },
+  {
+    "url": "https://v0.dev/t/JM76FKVLxVz",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T00:40:03.744Z"
+  },
+  {
+    "url": "https://v0.dev/t/1G4twnbY7cD",
+    "label": "Template for prompt: A portfolio SPA designed like twitter",
+    "dateAdded": "2024-01-25T00:40:03.745Z"
+  },
+  {
+    "url": "https://v0.dev/t/7VuFkm6kKOz",
+    "label": "Template for prompt: a saas tool like PCPartPicker that allows user to build a list of pc components, see compatibility, pricing, and link out to amazon/newegg to buy the products. User can also see the reviews, etc. ",
+    "dateAdded": "2024-01-25T00:40:03.745Z"
+  },
+  {
+    "url": "https://v0.dev/t/rgIwrJVCoCX",
+    "label": "Template for prompt: htmx admin panel with daisyui",
+    "dateAdded": "2024-01-25T00:40:03.745Z"
+  },
+  {
+    "url": "https://v0.dev/t/13O1A2TRe5S",
+    "label": "Template for prompt: Add blog post in a CMS. Should contain: post title, slug, post content, post status",
+    "dateAdded": "2024-01-25T00:40:03.745Z"
+  },
+  {
+    "url": "https://v0.dev/t/KTOzsEA8amt",
+    "label": "Template for prompt: Create the UI elements from this design.",
+    "dateAdded": "2024-01-25T00:40:03.745Z"
+  },
+  {
+    "url": "https://v0.dev/t/gF1yNFihSbU",
+    "label": "Template for prompt: A minimalistic homecare nanny service directory listing with profile information page social media contact links and gallery for each user. authentication and signup with next auth social login provision",
+    "dateAdded": "2024-01-25T00:40:03.746Z"
+  },
+  {
+    "url": "https://v0.dev/t/gLIo5RNWSRz",
+    "label": "Template for prompt: tailwind sizes of champion dashboard",
+    "dateAdded": "2024-01-25T00:40:03.746Z"
+  },
+  {
+    "url": "https://v0.dev/t/UnWKsUGAU3o",
+    "label": "Template for prompt: Build a word of the day website",
+    "dateAdded": "2024-01-25T00:40:03.746Z"
   }
 ]
