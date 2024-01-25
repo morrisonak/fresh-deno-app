@@ -89453,5 +89453,135 @@
     "url": "https://v0.dev/t/NpFfKKarnth",
     "label": "Template for prompt: create this like and comment section for a post ",
     "dateAdded": "2024-01-25T22:10:02.658Z"
+  },
+  {
+    "url": "https://v0.dev/t/8lSovve9PTg",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T22:15:02.720Z"
+  },
+  {
+    "url": "https://v0.dev/t/hTx8vci4Qp8",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T22:15:02.720Z"
+  },
+  {
+    "url": "https://v0.dev/t/3yxugiNO6Ir",
+    "label": "Template for prompt: A rich text editor for a blog that supports code blocks. It also has a publish/draft status.",
+    "dateAdded": "2024-01-25T22:15:02.720Z"
+  },
+  {
+    "url": "https://v0.dev/t/RBwjn3szCDE",
+    "label": "Template for prompt: A rich text editor for a blog that supports code blocks. It also has a publish/draft status.",
+    "dateAdded": "2024-01-25T22:15:02.720Z"
+  },
+  {
+    "url": "https://v0.dev/t/iphBcXj6SH7",
+    "label": "Template for prompt: a filter",
+    "dateAdded": "2024-01-25T22:15:02.720Z"
+  },
+  {
+    "url": "https://v0.dev/t/U8fA6rcZhu0",
+    "label": "Template for prompt: this is a screen to filter the travel bookguides by different features",
+    "dateAdded": "2024-01-25T22:15:02.720Z"
+  },
+  {
+    "url": "https://v0.dev/t/6E0fkQuOtHH",
+    "label": "Template for prompt: this is a screen to filter the travel bookguides by different features",
+    "dateAdded": "2024-01-25T22:15:02.720Z"
+  },
+  {
+    "url": "https://v0.dev/t/KfseuVv0zWj",
+    "label": "Template for prompt: tennis landidng page",
+    "dateAdded": "2024-01-25T22:15:02.721Z"
+  },
+  {
+    "url": "https://v0.dev/t/uW29uGFJxot",
+    "label": "Template for prompt: створи сайт лендінг для продажу книг, має бути форма замовлення з імʼям і номером",
+    "dateAdded": "2024-01-25T22:15:02.721Z"
+  },
+  {
+    "url": "https://v0.dev/t/XshDFabHMMZ",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-25T22:15:02.721Z"
+  },
+  {
+    "url": "https://v0.dev/t/kEO4G0mwRxD",
+    "label": "Template for prompt: design me a ui for an application that is used by Exotic Car rental firms to manage their inventory, scheduling, booking, and advertising.  All of this is built on a network of exotic car rental firms using the software and being able to connect with each other and utilize inventory from each other.",
+    "dateAdded": "2024-01-25T22:15:02.721Z"
+  },
+  {
+    "url": "https://v0.dev/t/Dvx6VJS9GcT",
+    "label": "Template for prompt: tennis landing page booking",
+    "dateAdded": "2024-01-25T22:15:02.721Z"
+  },
+  {
+    "url": "https://v0.dev/t/HUuSqJj4fFF",
+    "label": "Template for prompt: create this",
+    "dateAdded": "2024-01-25T22:15:02.721Z"
+  },
+  {
+    "url": "https://v0.dev/t/7A54DqtxVsG",
+    "label": "Template for prompt: search results with a result title, a description, and badges for asset type, and links that go out to more information about that result",
+    "dateAdded": "2024-01-25T22:15:02.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/k6TlW5k6YNk",
+    "label": "Template for prompt: meal planning app",
+    "dateAdded": "2024-01-25T22:15:02.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/vlnV34Pjo9r",
+    "label": "Template for prompt: Create this page using tailwind css",
+    "dateAdded": "2024-01-25T22:15:02.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/GPgE4HOFgO4",
+    "label": "Template for prompt: a cms admin dashboard",
+    "dateAdded": "2024-01-25T22:15:02.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/BPzMZp3Tjwe",
+    "label": "Template for prompt:  a welcome screen in htmx that has a title, and intro paragraph and buttons to login and sign up, at the bottom above the footer, id like rotating logos with the title \"integrations\"",
+    "dateAdded": "2024-01-25T22:15:02.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/vIypVMmyKzQ",
+    "label": "Template for prompt: create exactly like this",
+    "dateAdded": "2024-01-25T22:15:02.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/x48jMtU2lCi",
+    "label": "Template for prompt: create exactly like this",
+    "dateAdded": "2024-01-25T22:15:02.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/2pRnu8qONYY",
+    "label": "Template for prompt: 2. User defines a \"topic\"; a theme on which to base the generated content (ie. \"the convenience of timely contact lens refill reminders\", \"the importance of limiting screen time for eye health\")\n    1. There should be a \"Need help?\" option where they'd click a button and the AI model would generate a few topic ideas\n    2. If they like any of the ideas, they should be able to click to add it to the input field with an option to revise as needed",
+    "dateAdded": "2024-01-25T22:15:02.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/w9fgjZPOsnR",
+    "label": "Template for prompt: a dashboard that lets me build charts by entering json",
+    "dateAdded": "2024-01-25T22:15:02.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/XTnBqYYW5zP",
+    "label": "Template for prompt: give me a marketing service page",
+    "dateAdded": "2024-01-25T22:15:02.723Z"
+  },
+  {
+    "url": "https://v0.dev/t/ag3RaRk8hCK",
+    "label": "Template for prompt: Build me a grid exactly like on the image pixel perfect",
+    "dateAdded": "2024-01-25T22:15:02.723Z"
+  },
+  {
+    "url": "https://v0.dev/t/fDiXCvEdObh",
+    "label": "Template for prompt: A sleek interface for interacting with a cypto ecosystem, with working tabbed navigation on a side panel that provides access to fully made pages for Dashboard, My Tokens, Mint Tokens, and Burn Tokens.",
+    "dateAdded": "2024-01-25T22:15:02.723Z"
+  },
+  {
+    "url": "https://v0.dev/t/0koqh1epGr0",
+    "label": "Template for prompt: upsell modal",
+    "dateAdded": "2024-01-25T22:15:02.723Z"
   }
 ]
