@@ -83703,5 +83703,135 @@
     "url": "https://v0.dev/t/jR2XHeHbdvV",
     "label": "Template for prompt: An exercise application that shows a big circle timer in the middle. It should have a simple set of play, pause, next, previous icons at the bottom. There should be room at the top for an ad banner",
     "dateAdded": "2024-01-25T17:00:04.392Z"
+  },
+  {
+    "url": "https://v0.dev/t/dyjmbHwCdiS",
+    "label": "Template for prompt: create a encryption and decryption",
+    "dateAdded": "2024-01-25T17:05:03.562Z"
+  },
+  {
+    "url": "https://v0.dev/t/rNXjCAtP0Or",
+    "label": "Template for prompt: create a trial balance page for accounting app",
+    "dateAdded": "2024-01-25T17:05:03.562Z"
+  },
+  {
+    "url": "https://v0.dev/t/1N4WOwQ61Wy",
+    "label": "Template for prompt: header for a website include login to discord",
+    "dateAdded": "2024-01-25T17:05:03.562Z"
+  },
+  {
+    "url": "https://v0.dev/t/aOd4heVKmiu",
+    "label": "Template for prompt: A management webpage for buildings and their connections",
+    "dateAdded": "2024-01-25T17:05:03.562Z"
+  },
+  {
+    "url": "https://v0.dev/t/jPPx5r9JGOj",
+    "label": "Template for prompt: there is a chat bubble for opening a chat bot on the webpage. That chat bubble will prompt the user with some welcoming messages or initial messages. The design should be modern, sleek and not invasive for the page. If the chat is opened, those dissapear. They are only for attracting more attention.",
+    "dateAdded": "2024-01-25T17:05:03.563Z"
+  },
+  {
+    "url": "https://v0.dev/t/LYKclpOksl9",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T17:05:03.563Z"
+  },
+  {
+    "url": "https://v0.dev/t/WmR7BrLfF6d",
+    "label": "Template for prompt: create an faq section",
+    "dateAdded": "2024-01-25T17:05:03.563Z"
+  },
+  {
+    "url": "https://v0.dev/t/YXEDaW125Uj",
+    "label": "Template for prompt: make this code responsive     <div className=\"flex w-full min-h-screen-full flex-grow\">\n",
+    "dateAdded": "2024-01-25T17:05:03.563Z"
+  },
+  {
+    "url": "https://v0.dev/t/oJSmwtcLtvt",
+    "label": "Template for prompt: fun application shell for creating trips",
+    "dateAdded": "2024-01-25T17:05:03.563Z"
+  },
+  {
+    "url": "https://v0.dev/t/syD6cnNQdq6",
+    "label": "Template for prompt: a form for responding to an invitation, with first name, surname, email, telephone and a checkbox to indicate whether the person will be accompanied. If so, please specify the number of adults and children.",
+    "dateAdded": "2024-01-25T17:05:03.564Z"
+  },
+  {
+    "url": "https://v0.dev/t/CvgVV9Kz2FV",
+    "label": "Template for prompt: a compact grid with sorting and filtering",
+    "dateAdded": "2024-01-25T17:05:03.564Z"
+  },
+  {
+    "url": "https://v0.dev/t/M9Xzb4imvf8",
+    "label": "Template for prompt: A \" configurable router connected to database \" modal",
+    "dateAdded": "2024-01-25T17:05:03.564Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZrlV6CprT1B",
+    "label": "Template for prompt: ai mockup generator, shows an input box and the generated design below. ",
+    "dateAdded": "2024-01-25T17:05:03.564Z"
+  },
+  {
+    "url": "https://v0.dev/t/nwn9jmXh2yD",
+    "label": "Template for prompt: a landing page for my product owner portfolio",
+    "dateAdded": "2024-01-25T17:05:03.564Z"
+  },
+  {
+    "url": "https://v0.dev/t/ksOXmg8H48k",
+    "label": "Template for prompt: create an sigup screen",
+    "dateAdded": "2024-01-25T17:05:03.565Z"
+  },
+  {
+    "url": "https://v0.dev/t/6ATQpja9ArS",
+    "label": "Template for prompt: conversation prompts from a chat bubble at the bottom of the page from a chatbot",
+    "dateAdded": "2024-01-25T17:05:03.565Z"
+  },
+  {
+    "url": "https://v0.dev/t/ryaZmgWK2fB",
+    "label": "Template for prompt: a dashboard sidebar nav and table",
+    "dateAdded": "2024-01-25T17:05:03.565Z"
+  },
+  {
+    "url": "https://v0.dev/t/tmqo0eVsSuV",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T17:05:03.565Z"
+  },
+  {
+    "url": "https://v0.dev/t/xshjqn3Zx7B",
+    "label": "Template for prompt: A general dashboard page",
+    "dateAdded": "2024-01-25T17:05:03.565Z"
+  },
+  {
+    "url": "https://v0.dev/t/4b3uJkHgq4a",
+    "label": "Template for prompt: A simple form with three items.\n\n1. Title is \"Focus\". Three options but only one is selectable at a time. The options are \"Rehab\", \"Maintenance\", and \"Strengthening\"\n\n2. Title is \"Minutes\". This one has a slide between 5 and 30.\n\n3. Title is \"Goal\". This one is an empty form for the user to type into",
+    "dateAdded": "2024-01-25T17:05:03.566Z"
+  },
+  {
+    "url": "https://v0.dev/t/O3nzd8yVAko",
+    "label": "Template for prompt: a multiple choice question component",
+    "dateAdded": "2024-01-25T17:05:03.566Z"
+  },
+  {
+    "url": "https://v0.dev/t/rd65e6anjQz",
+    "label": "Template for prompt: A transparent top sticky navbar that blurs it's background and hides when scrolled down, appears when scrolled up or when you're at the top of the page",
+    "dateAdded": "2024-01-25T17:05:03.566Z"
+  },
+  {
+    "url": "https://v0.dev/t/u6MYKUmpICM",
+    "label": "Template for prompt: log viewer with custom search ",
+    "dateAdded": "2024-01-25T17:05:03.566Z"
+  },
+  {
+    "url": "https://v0.dev/t/DykhAHmtJad",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T17:05:03.566Z"
+  },
+  {
+    "url": "https://v0.dev/t/VYfuvxCLTmE",
+    "label": "Template for prompt: hazme una pagina para recibir notificaciones",
+    "dateAdded": "2024-01-25T17:05:03.567Z"
+  },
+  {
+    "url": "https://v0.dev/t/e9uUcNyIM9r",
+    "label": "Template for prompt: A moderator dashboard for Discord message searching",
+    "dateAdded": "2024-01-25T17:05:03.567Z"
   }
 ]
