@@ -81148,5 +81148,135 @@
     "url": "https://v0.dev/t/5R1Sya9gImk",
     "label": "Template for prompt: 表单页面，包括企业编码（id=enterprise_number）、单位名称（id=enterprise_name）、地区（id=area）、擅长领域（id=areas_of_expertise）、单位类型（id=enterprise_type）、合作基础（id=fundamentals_of_cooperation）、合作频次（id=fundamentals_number）、合作过的项目名单（id=cooperation_history）、技术服务单位简介（id=enterprise_introduction）、备注（id=note）",
     "dateAdded": "2024-01-25T02:20:03.566Z"
+  },
+  {
+    "url": "https://v0.dev/t/HKJTCVdvkq8",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-25T02:25:02.550Z"
+  },
+  {
+    "url": "https://v0.dev/t/wt25egPVz5A",
+    "label": "Template for prompt: table data",
+    "dateAdded": "2024-01-25T02:25:02.551Z"
+  },
+  {
+    "url": "https://v0.dev/t/LMeda6ddrUp",
+    "label": "Template for prompt: I want to have cards with the user data",
+    "dateAdded": "2024-01-25T02:25:02.551Z"
+  },
+  {
+    "url": "https://v0.dev/t/uyiOovBiLcn",
+    "label": "Template for prompt: a card game for mobile",
+    "dateAdded": "2024-01-25T02:25:02.551Z"
+  },
+  {
+    "url": "https://v0.dev/t/CN4Fahr4kPz",
+    "label": "Template for prompt: convert to a beautiful modern shadcn design",
+    "dateAdded": "2024-01-25T02:25:02.551Z"
+  },
+  {
+    "url": "https://v0.dev/t/b4OY4RdhbKX",
+    "label": "Template for prompt: convert to a beautiful modern shadcn design",
+    "dateAdded": "2024-01-25T02:25:02.552Z"
+  },
+  {
+    "url": "https://v0.dev/t/fjcezHYniLi",
+    "label": "Template for prompt: create a page of an online coursera course playing a video where you can interact with the vieo using ai",
+    "dateAdded": "2024-01-25T02:25:02.552Z"
+  },
+  {
+    "url": "https://v0.dev/t/lBH1dHnkP4I",
+    "label": "Template for prompt: Youtube video clone where you can talk to the video with ai. It is for an online course. Coursera mixed with youtube.",
+    "dateAdded": "2024-01-25T02:25:02.552Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZCzjx64XUXg",
+    "label": "Template for prompt: the checkout page or a payments page I need it set up for defensive driving and if we have group booking or family booking then we give a small discount.  If the discount codes can be set up as a promo code or other to reflect the discount they get.  For example, I may consider a 10% discount (or $30) for one paying family member in a group of 2-3, and the remaining pay the full price.  If I get a larger group, I may consider to applying percentages to the group.  I need it to reflect what I quote the group ",
+    "dateAdded": "2024-01-25T02:25:02.552Z"
+  },
+  {
+    "url": "https://v0.dev/t/QTAfxDRGpHc",
+    "label": "Template for prompt: Gamer style menu for a website",
+    "dateAdded": "2024-01-25T02:25:02.552Z"
+  },
+  {
+    "url": "https://v0.dev/t/5T0oBj0hiRG",
+    "label": "Template for prompt: A dashboard for the user to view the documents they have uploaded. We have collections that can include multiple documents but can't contain other collections. I want collections to be on the side while documents are shown in the middle of the page.",
+    "dateAdded": "2024-01-25T02:25:02.553Z"
+  },
+  {
+    "url": "https://v0.dev/t/zUDbG7psP1x",
+    "label": "Template for prompt: Game menu website",
+    "dateAdded": "2024-01-25T02:25:02.553Z"
+  },
+  {
+    "url": "https://v0.dev/t/vIaGlm7aR8Z",
+    "label": "Template for prompt: Login process",
+    "dateAdded": "2024-01-25T02:25:02.553Z"
+  },
+  {
+    "url": "https://v0.dev/t/nr3YaGuFxrM",
+    "label": "Template for prompt: Login process",
+    "dateAdded": "2024-01-25T02:25:02.553Z"
+  },
+  {
+    "url": "https://v0.dev/t/SKejR7GBngO",
+    "label": "Template for prompt: Create a setting page with a tab bar for different part of setting page.",
+    "dateAdded": "2024-01-25T02:25:02.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ek8ldirM696",
+    "label": "Template for prompt: build a beautiful and responsive stripe upgrade subscription plan page",
+    "dateAdded": "2024-01-25T02:25:02.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z7UvcS57x64",
+    "label": "Template for prompt: a plan details page with plan cards on a grid",
+    "dateAdded": "2024-01-25T02:25:02.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/0CP36PpJwd2",
+    "label": "Template for prompt: Please change it neatly.",
+    "dateAdded": "2024-01-25T02:25:02.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/ch3Y7U1qABp",
+    "label": "Template for prompt: a sleek landing page for an apparel marketplace",
+    "dateAdded": "2024-01-25T02:25:02.554Z"
+  },
+  {
+    "url": "https://v0.dev/t/JjEgCqTIWM9",
+    "label": "Template for prompt: a single page app that can scan all airline, hotel, and rental car sites and randomly generate the lowest price for a vacation given a defined range of dates",
+    "dateAdded": "2024-01-25T02:25:02.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/SqAYs7nm7iU",
+    "label": "Template for prompt: Landing Page for a Pre-launch service marketplace no products yet just sign up for the beta",
+    "dateAdded": "2024-01-25T02:25:02.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/3KMudcLG1Wr",
+    "label": "Template for prompt: Create a dashboard page for sneaker bot\\",
+    "dateAdded": "2024-01-25T02:25:02.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/hnKLDTHbbdw",
+    "label": "Template for prompt: 깔끔하게 디자인을 변경해줘",
+    "dateAdded": "2024-01-25T02:25:02.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/XsdDaiDmhfq",
+    "label": "Template for prompt: command menu like zeno rocha website using shadcn ui",
+    "dateAdded": "2024-01-25T02:25:02.555Z"
+  },
+  {
+    "url": "https://v0.dev/t/WEMxPPzkayF",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T02:25:02.556Z"
+  },
+  {
+    "url": "https://v0.dev/t/ukLdaotnYqw",
+    "label": "Template for prompt: hackathon website",
+    "dateAdded": "2024-01-25T02:25:02.556Z"
   }
 ]
