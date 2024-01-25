@@ -80628,5 +80628,135 @@
     "url": "https://v0.dev/t/sczXCgVtwmV",
     "label": "Template for prompt: app to call for and interpreter, you can select the language and speciality, and make a voice call or a videcall",
     "dateAdded": "2024-01-25T02:00:04.148Z"
+  },
+  {
+    "url": "https://v0.dev/t/DRQ2lZwZW3P",
+    "label": "Template for prompt: create a accordion for apple music authentication for a mobile app at the top of the page. it should have a nice shimmering button in the dropdown if not logged in, and then if logged in it should show a small minimal text with the user info in the accordion",
+    "dateAdded": "2024-01-25T02:05:03.720Z"
+  },
+  {
+    "url": "https://v0.dev/t/3o84MoKXQyW",
+    "label": "Template for prompt: try this",
+    "dateAdded": "2024-01-25T02:05:03.720Z"
+  },
+  {
+    "url": "https://v0.dev/t/bHBrv7MdkAu",
+    "label": "Template for prompt: A list of companies in a card style (3 columns per row) with Name, and income",
+    "dateAdded": "2024-01-25T02:05:03.720Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZxTvLK1UEdn",
+    "label": "Template for prompt: use this",
+    "dateAdded": "2024-01-25T02:05:03.720Z"
+  },
+  {
+    "url": "https://v0.dev/t/prHs9t1m5qY",
+    "label": "Template for prompt: use this",
+    "dateAdded": "2024-01-25T02:05:03.720Z"
+  },
+  {
+    "url": "https://v0.dev/t/j5xPMjA9CkB",
+    "label": "Template for prompt: generate cintact form",
+    "dateAdded": "2024-01-25T02:05:03.721Z"
+  },
+  {
+    "url": "https://v0.dev/t/8OOQMwdLBGY",
+    "label": "Template for prompt: snacks menu page",
+    "dateAdded": "2024-01-25T02:05:03.721Z"
+  },
+  {
+    "url": "https://v0.dev/t/UkkAzi1fbwY",
+    "label": "Template for prompt: create a dropwdown for apple music authentication for a mobile app. it should have a nice shimmering button in the dropdown if not logged in, and then if logged in it should show a small minimal text with the user info in the dropdown",
+    "dateAdded": "2024-01-25T02:05:03.721Z"
+  },
+  {
+    "url": "https://v0.dev/t/YgScM6ocAXX",
+    "label": "Template for prompt: use this",
+    "dateAdded": "2024-01-25T02:05:03.721Z"
+  },
+  {
+    "url": "https://v0.dev/t/CB0xm5py521",
+    "label": "Template for prompt: menu ",
+    "dateAdded": "2024-01-25T02:05:03.721Z"
+  },
+  {
+    "url": "https://v0.dev/t/GUqVeNZUW4O",
+    "label": "Template for prompt: halloween spiderwebs ",
+    "dateAdded": "2024-01-25T02:05:03.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/2IlqLDuxqDJ",
+    "label": "Template for prompt: A ticket seller website home page",
+    "dateAdded": "2024-01-25T02:05:03.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/B4mlA4X1WvJ",
+    "label": "Template for prompt: an articles page with state and pagination and filtering ",
+    "dateAdded": "2024-01-25T02:05:03.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/b2jg0W7rQFo",
+    "label": "Template for prompt: command modal",
+    "dateAdded": "2024-01-25T02:05:03.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZANywRqEbox",
+    "label": "Template for prompt: An articles page with offset pagination (load more button) and a state where the articles are stores + the total count etc and filters handling as well",
+    "dateAdded": "2024-01-25T02:05:03.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/dHrkIAfo3Pu",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-25T02:05:03.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/7Vjyzp1nF98",
+    "label": "Template for prompt: a small application to run planning poker with team members",
+    "dateAdded": "2024-01-25T02:05:03.722Z"
+  },
+  {
+    "url": "https://v0.dev/t/eBVUAEk07e9",
+    "label": "Template for prompt: ai chat app tutor mobile and desktop",
+    "dateAdded": "2024-01-25T02:05:03.723Z"
+  },
+  {
+    "url": "https://v0.dev/t/NNPhR5g3tgm",
+    "label": "Template for prompt: blog detail",
+    "dateAdded": "2024-01-25T02:05:03.723Z"
+  },
+  {
+    "url": "https://v0.dev/t/MSLsPRMbJ9h",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-25T02:05:03.723Z"
+  },
+  {
+    "url": "https://v0.dev/t/IZXL1R5ohj2",
+    "label": "Template for prompt: has un restyle a este pequeño menu",
+    "dateAdded": "2024-01-25T02:05:03.723Z"
+  },
+  {
+    "url": "https://v0.dev/t/xykrWbQLLE0",
+    "label": "Template for prompt: has un restyle a este pequeño menu",
+    "dateAdded": "2024-01-25T02:05:03.723Z"
+  },
+  {
+    "url": "https://v0.dev/t/mTUQJvkdC1M",
+    "label": "Template for prompt: RV education 101 homepage",
+    "dateAdded": "2024-01-25T02:05:03.723Z"
+  },
+  {
+    "url": "https://v0.dev/t/Orm1DUeSD9T",
+    "label": "Template for prompt: Captions",
+    "dateAdded": "2024-01-25T02:05:03.723Z"
+  },
+  {
+    "url": "https://v0.dev/t/PQnLSyhXLcP",
+    "label": "Template for prompt: create an area that i can show some modals to use some feature, like: \nsome cards of calculator or product",
+    "dateAdded": "2024-01-25T02:05:03.723Z"
+  },
+  {
+    "url": "https://v0.dev/t/8psLhvy7Ryn",
+    "label": "Template for prompt: an article page where a list of recommended articles is shown on the side ",
+    "dateAdded": "2024-01-25T02:05:03.724Z"
   }
 ]
