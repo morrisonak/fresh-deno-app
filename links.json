@@ -89063,5 +89063,135 @@
     "url": "https://v0.dev/t/HHiXL0fQiRP",
     "label": "Template for prompt: a featured video full page with list of previous videos below like netflix",
     "dateAdded": "2024-01-25T21:55:02.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/fwyu5sGTOYy",
+    "label": "Template for prompt: A page layout with a top navigation section, a compressible right hand section for settings, and a main section that fills the rest of the space",
+    "dateAdded": "2024-01-25T22:00:02.744Z"
+  },
+  {
+    "url": "https://v0.dev/t/4n69srJPSle",
+    "label": "Template for prompt: blog post page",
+    "dateAdded": "2024-01-25T22:00:02.744Z"
+  },
+  {
+    "url": "https://v0.dev/t/vbCpjq3ejKu",
+    "label": "Template for prompt: Create an ecommerce of travel bookguides. The bookguides are inspired by books, movies or TV shows. In the ecommerce a user should be allowed to search for bookguides by the titles of the stories, and by their authors/actors. The system shows a list of travel bookguides with those characteristics and the user can see the details of those travel guides by clicking them or the user can add the travel guides directly to a cart. Once the user decides everything to buy, the user can enter the cart and do the payment. The system will show a successful screen indicating that the user has received by email a link to download the guide. ",
+    "dateAdded": "2024-01-25T22:00:02.744Z"
+  },
+  {
+    "url": "https://v0.dev/t/aEvIM1nu1B0",
+    "label": "Template for prompt: Create an ecommerce of travel bookguides. The bookguides are inspired by books, movies or TV shows. In the ecommerce a user should be allowed to search for bookguides by the titles of the stories, and by their authors/actors. The system shows a list of travel bookguides with those characteristics and the user can see the details of those travel guides by clicking them or the user can add the travel guides directly to a cart. Once the user decides everything to buy, the user can enter the cart and do the payment. The system will show a successful screen indicating that the user has received by email a link to download the guide. ",
+    "dateAdded": "2024-01-25T22:00:02.745Z"
+  },
+  {
+    "url": "https://v0.dev/t/wu7lMczhUaA",
+    "label": "Template for prompt: The app helps university students rate and review professors. It's designed to help students choose courses and faculty by giving them detailed insights into teaching styles and course content. \n\nSignup Page: Contains a registration form for new users to create an account. Includes input fields for username, password, email, and user role (e.g., student).",
+    "dateAdded": "2024-01-25T22:00:02.745Z"
+  },
+  {
+    "url": "https://v0.dev/t/psGGY4hFg5m",
+    "label": "Template for prompt: saas landing page for a payment processor",
+    "dateAdded": "2024-01-25T22:00:02.745Z"
+  },
+  {
+    "url": "https://v0.dev/t/ImmSF5sD1Fk",
+    "label": "Template for prompt: cloudflare SaaS wrapper dark dashboard like supabase services",
+    "dateAdded": "2024-01-25T22:00:02.745Z"
+  },
+  {
+    "url": "https://v0.dev/t/Nu4xjXwFqgc",
+    "label": "Template for prompt: reproduce that in a desktop and mobile friendly way and more beautiful",
+    "dateAdded": "2024-01-25T22:00:02.746Z"
+  },
+  {
+    "url": "https://v0.dev/t/JGmhUlmUrXK",
+    "label": "Template for prompt: A document upload page",
+    "dateAdded": "2024-01-25T22:00:02.746Z"
+  },
+  {
+    "url": "https://v0.dev/t/fyaSTrjU4xk",
+    "label": "Template for prompt: I want to create a website for my music and party collective SAUSERS, we organise parties. I'ts called sausers because it is centered around the theme of aliens and flying saucers. I want a website where i can showcase the latest parties and sessions. The site needs to be in a cartoony space theme.",
+    "dateAdded": "2024-01-25T22:00:02.746Z"
+  },
+  {
+    "url": "https://v0.dev/t/OW5WCZ4pbu9",
+    "label": "Template for prompt: crie uma landing page simples e amigável com um texto grande e centralizado no hero, abaixo um placeholder para vídeo e logo abaixo o features da ferramenta. tenha em conta que é para uma empresa saas",
+    "dateAdded": "2024-01-25T22:00:02.746Z"
+  },
+  {
+    "url": "https://v0.dev/t/KdjDIKGJgOh",
+    "label": "Template for prompt: an video player and library like netflix",
+    "dateAdded": "2024-01-25T22:00:02.746Z"
+  },
+  {
+    "url": "https://v0.dev/t/tBthtNwAnQb",
+    "label": "Template for prompt: video player element with a comment section",
+    "dateAdded": "2024-01-25T22:00:02.747Z"
+  },
+  {
+    "url": "https://v0.dev/t/dEoXHHdqTK9",
+    "label": "Template for prompt: do this",
+    "dateAdded": "2024-01-25T22:00:02.747Z"
+  },
+  {
+    "url": "https://v0.dev/t/rmQiptgB88T",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T22:00:02.747Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZUKDQ8h1LuD",
+    "label": "Template for prompt: make me a create a recipe page",
+    "dateAdded": "2024-01-25T22:00:02.747Z"
+  },
+  {
+    "url": "https://v0.dev/t/BSxBYWt6DXi",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-25T22:00:02.747Z"
+  },
+  {
+    "url": "https://v0.dev/t/ydVzyNYDoly",
+    "label": "Template for prompt: give me a full hero height carousel for three images which scroll to left-right and have navigation icons above on left and right with arrow icons and move on click. it is also autoplay so carousel autoplay. each slide has image",
+    "dateAdded": "2024-01-25T22:00:02.748Z"
+  },
+  {
+    "url": "https://v0.dev/t/5EQZxqNGO4p",
+    "label": "Template for prompt: image upload page",
+    "dateAdded": "2024-01-25T22:00:02.748Z"
+  },
+  {
+    "url": "https://v0.dev/t/9AXPtnksLtJ",
+    "label": "Template for prompt: form that write a form that accepts\nAdvertiser information\nProduct being advertised\nCampaign inputs i.e. briefs",
+    "dateAdded": "2024-01-25T22:00:02.748Z"
+  },
+  {
+    "url": "https://v0.dev/t/UuiUmZaIN4O",
+    "label": "Template for prompt: make a dark aesthetic register page ",
+    "dateAdded": "2024-01-25T22:00:02.748Z"
+  },
+  {
+    "url": "https://v0.dev/t/TaI6idGqYno",
+    "label": "Template for prompt: A landing page with an email collection",
+    "dateAdded": "2024-01-25T22:00:02.748Z"
+  },
+  {
+    "url": "https://v0.dev/t/xfVKw47WNUA",
+    "label": "Template for prompt: masonry like image gallery with image selection",
+    "dateAdded": "2024-01-25T22:00:02.749Z"
+  },
+  {
+    "url": "https://v0.dev/t/s9dqy3aU0At",
+    "label": "Template for prompt: A video player with scrollable comments",
+    "dateAdded": "2024-01-25T22:00:02.749Z"
+  },
+  {
+    "url": "https://v0.dev/t/Fq0ku0AJbbL",
+    "label": "Template for prompt: sliderboxen with arcord",
+    "dateAdded": "2024-01-25T22:00:02.749Z"
+  },
+  {
+    "url": "https://v0.dev/t/rC4k7VLbhqW",
+    "label": "Template for prompt: create a projects section for my portfolio page",
+    "dateAdded": "2024-01-25T22:00:02.750Z"
   }
 ]
