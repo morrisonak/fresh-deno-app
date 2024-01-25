@@ -80368,5 +80368,135 @@
     "url": "https://v0.dev/t/69XfWstDYXl",
     "label": "Template for prompt: Make a Skeleton to hold a credit card",
     "dateAdded": "2024-01-25T01:50:03.272Z"
+  },
+  {
+    "url": "https://v0.dev/t/PQnLSyhXLcP",
+    "label": "Template for prompt: create an area that i can show some modals to use some feature, like: \nsome cards of calculator or product",
+    "dateAdded": "2024-01-25T01:55:02.986Z"
+  },
+  {
+    "url": "https://v0.dev/t/8psLhvy7Ryn",
+    "label": "Template for prompt: an article page where a list of recommended articles is shown on the side ",
+    "dateAdded": "2024-01-25T01:55:02.986Z"
+  },
+  {
+    "url": "https://v0.dev/t/vKxh03icbuf",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-25T01:55:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/5rMoUuunSnk",
+    "label": "Template for prompt: a minimalist component for a chat conversation. i only know an emoji for the other person in the chat, and their active status. ",
+    "dateAdded": "2024-01-25T01:55:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/pqEXzoJ3wTk",
+    "label": "Template for prompt: Create an online store page",
+    "dateAdded": "2024-01-25T01:55:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/ztMpyGinwiL",
+    "label": "Template for prompt: loading page with a scanning animation",
+    "dateAdded": "2024-01-25T01:55:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/8EKQlAf7fWW",
+    "label": "Template for prompt: 노드링크 편집기",
+    "dateAdded": "2024-01-25T01:55:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/w16p7kyaxB3",
+    "label": "Template for prompt: a functional chatbot that uses the openai api",
+    "dateAdded": "2024-01-25T01:55:02.988Z"
+  },
+  {
+    "url": "https://v0.dev/t/w96Nyk2xMVr",
+    "label": "Template for prompt: generate for me a login page ",
+    "dateAdded": "2024-01-25T01:55:02.988Z"
+  },
+  {
+    "url": "https://v0.dev/t/XktnEiIr4b9",
+    "label": "Template for prompt: telegram, I want a concrete code, I want telegram to be exactly as in the picture, I want it to be fixed",
+    "dateAdded": "2024-01-25T01:55:02.988Z"
+  },
+  {
+    "url": "https://v0.dev/t/LfW9EwJOob1",
+    "label": "Template for prompt: 16:9 비율의 노드링크의  경위도와 속성을 편집하는 프로그램 디자인",
+    "dateAdded": "2024-01-25T01:55:02.988Z"
+  },
+  {
+    "url": "https://v0.dev/t/WrrHYHn3pxR",
+    "label": "Template for prompt: 메뉴 아이콘 클릭 시 하단에 부드럽게 스크롤로 리스트가 보이게 만들어줘",
+    "dateAdded": "2024-01-25T01:55:02.988Z"
+  },
+  {
+    "url": "https://v0.dev/t/FTjHAsPCshy",
+    "label": "Template for prompt: loading page",
+    "dateAdded": "2024-01-25T01:55:02.989Z"
+  },
+  {
+    "url": "https://v0.dev/t/qQxHT9DJySZ",
+    "label": "Template for prompt: a saas product interface of a one called speakease with clicky buttons. spekease is about helping people learning languages with ai.",
+    "dateAdded": "2024-01-25T01:55:02.989Z"
+  },
+  {
+    "url": "https://v0.dev/t/sczXCgVtwmV",
+    "label": "Template for prompt: app to call for and interpreter, you can select the language and speciality, and make a voice call or a videcall",
+    "dateAdded": "2024-01-25T01:55:02.989Z"
+  },
+  {
+    "url": "https://v0.dev/t/cDt9Oy3eXuu",
+    "label": "Template for prompt: Give me a replica of the Ramp.com dashboard",
+    "dateAdded": "2024-01-25T01:55:02.989Z"
+  },
+  {
+    "url": "https://v0.dev/t/OrGWXurlSvJ",
+    "label": "Template for prompt: Create a web3 music app that is built on top of the Nouns Builder Protocol and allows users to buy memberships with crypto",
+    "dateAdded": "2024-01-25T01:55:02.989Z"
+  },
+  {
+    "url": "https://v0.dev/t/uKJ7nDzGaqZ",
+    "label": "Template for prompt: auth2 loginform",
+    "dateAdded": "2024-01-25T01:55:02.989Z"
+  },
+  {
+    "url": "https://v0.dev/t/T0wdC8WNBTN",
+    "label": "Template for prompt: A form centered horizontally inside a container that fits the screen, with first name and last name fields inside a single row with 50% width each, and email field inside its own row with 100% width",
+    "dateAdded": "2024-01-25T01:55:02.990Z"
+  },
+  {
+    "url": "https://v0.dev/t/21DEQIBnMwu",
+    "label": "Template for prompt: turn everything on this page to a modern shadcn deisgn\n",
+    "dateAdded": "2024-01-25T01:55:02.990Z"
+  },
+  {
+    "url": "https://v0.dev/t/nTeLE4osjch",
+    "label": "Template for prompt: turn everything on this page to a modern shadcn deisgn\n",
+    "dateAdded": "2024-01-25T01:55:02.990Z"
+  },
+  {
+    "url": "https://v0.dev/t/qviatepTaDc",
+    "label": "Template for prompt: a modal page to change textareas",
+    "dateAdded": "2024-01-25T01:55:02.990Z"
+  },
+  {
+    "url": "https://v0.dev/t/TSHm0KVHrg1",
+    "label": "Template for prompt: A simple and minimal barbershop landing page with a list of stylists and services, a photo gallery, and online bookings",
+    "dateAdded": "2024-01-25T01:55:02.991Z"
+  },
+  {
+    "url": "https://v0.dev/t/lRl2OBXFGw9",
+    "label": "Template for prompt: single invoice view",
+    "dateAdded": "2024-01-25T01:55:02.991Z"
+  },
+  {
+    "url": "https://v0.dev/t/3Zlc0dqEvoJ",
+    "label": "Template for prompt: create a landing page for a web3 wallet",
+    "dateAdded": "2024-01-25T01:55:02.991Z"
+  },
+  {
+    "url": "https://v0.dev/t/bk2Ci3SMsSA",
+    "label": "Template for prompt: telegram, I want a concrete code, I want telegram to be exactly as in the picture, I want it to be fixed",
+    "dateAdded": "2024-01-25T01:55:02.991Z"
   }
 ]
