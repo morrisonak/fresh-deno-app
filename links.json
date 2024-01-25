@@ -84068,5 +84068,130 @@
     "url": "https://v0.dev/t/JBg56YVu9d1",
     "label": "Template for prompt: create a simple authentication screen for my application",
     "dateAdded": "2024-01-25T17:15:03.545Z"
+  },
+  {
+    "url": "https://v0.dev/t/kN8wVFuQqsy",
+    "label": "Template for prompt: preciso de um ogimage da minha instituição com logo no canto inferior direito , titulo e descrição .",
+    "dateAdded": "2024-01-25T17:20:02.511Z"
+  },
+  {
+    "url": "https://v0.dev/t/HZc1mSp4CC3",
+    "label": "Template for prompt: User\nI'm developing a NextJS app. Give me the different components to develop the screen given as image. Assume I'm using an existing component library for basic components like Button etc. Please give the entire code for everything.",
+    "dateAdded": "2024-01-25T17:20:02.511Z"
+  },
+  {
+    "url": "https://v0.dev/t/9GeyHybhP3r",
+    "label": "Template for prompt: A video hosting platform, minimalistic design, juste a select to select the brand, an upload button, a section for analytics and for videos library",
+    "dateAdded": "2024-01-25T17:20:02.511Z"
+  },
+  {
+    "url": "https://v0.dev/t/tjw4elwRdX1",
+    "label": "Template for prompt: A video hosting platform, minimalistic design, juste a select to select the brand, an upload button, a section for analytics and for videos library",
+    "dateAdded": "2024-01-25T17:20:02.512Z"
+  },
+  {
+    "url": "https://v0.dev/t/UjKIoTgse6E",
+    "label": "Template for prompt: Starter Bundle:\n\nIncludes three team types: small, medium, and large.\nAll teams have identical features.\nPrice varies based on team size, with larger teams receiving better pricing due to increased capacity.\nPro Bundle:\n\nAlso comprises small, medium, and large teams.\nIdentical features across all team sizes.\nIncludes all features from the Starter Bundle plus additional functionalities.\nDistinguishing Features:\n\nStarter Bundle: Price variation based on team size, same features for all teams.\nPro Bundle: Same features for all teams, additional functionalities compared to Starter Bundle.\nImplementation Details:\n\nStarter Bundle Pricing Links:\nSmall Team: Stripe Link: [URL] - Subscribe Now Button\nMedium Team: Stripe Link: [URL] - Mention 15% discount to small team pricing\nLarge Team: Stripe Link: [URL] - Note 29% discount to small team pricing\n\nEnterprise Pricing \nDisplay message: \"If your organization has more than 50 advisors, please contact us for pricing.\"\nProvide a clear call-to-action",
+    "dateAdded": "2024-01-25T17:20:02.512Z"
+  },
+  {
+    "url": "https://v0.dev/t/oko60NpXTxH",
+    "label": "Template for prompt: create ui as in picture",
+    "dateAdded": "2024-01-25T17:20:02.512Z"
+  },
+  {
+    "url": "https://v0.dev/t/bGPAPyOAdpI",
+    "label": "Template for prompt: Social networking service for desktops with a mocha coffee motif",
+    "dateAdded": "2024-01-25T17:20:02.512Z"
+  },
+  {
+    "url": "https://v0.dev/t/4SZ7EdLfmzr",
+    "label": "Template for prompt: music player ",
+    "dateAdded": "2024-01-25T17:20:02.512Z"
+  },
+  {
+    "url": "https://v0.dev/t/BFYnWebq78d",
+    "label": "Template for prompt: make a list of properties in an list showing the image of the property and some information like address, price, size.",
+    "dateAdded": "2024-01-25T17:20:02.512Z"
+  },
+  {
+    "url": "https://v0.dev/t/hoefoEzXhRI",
+    "label": "Template for prompt: please make a easly player profile",
+    "dateAdded": "2024-01-25T17:20:02.512Z"
+  },
+  {
+    "url": "https://v0.dev/t/FjDCj6kKJpM",
+    "label": "Template for prompt: A \" Configurable Data Collector Using Json and API\" configurable",
+    "dateAdded": "2024-01-25T17:20:02.512Z"
+  },
+  {
+    "url": "https://v0.dev/t/BIVvgfVBfNT",
+    "label": "Template for prompt: A chat interface that resembles an old book in the 19th century",
+    "dateAdded": "2024-01-25T17:20:02.513Z"
+  },
+  {
+    "url": "https://v0.dev/t/V9gsWRL0WWI",
+    "label": "Template for prompt: make a easy web telegram copy",
+    "dateAdded": "2024-01-25T17:20:02.513Z"
+  },
+  {
+    "url": "https://v0.dev/t/CVxoni47lnq",
+    "label": "Template for prompt: A whitepaper download hero block, user needs to enter an email before downloading. Seperate Text block next to email for reasons why to download",
+    "dateAdded": "2024-01-25T17:20:02.513Z"
+  },
+  {
+    "url": "https://v0.dev/t/tVhL73vx39o",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T17:20:02.513Z"
+  },
+  {
+    "url": "https://v0.dev/t/rmd8RzdWBOX",
+    "label": "Template for prompt: create an landingpage for me. our company is getting a new website on another domain. the old domain is still aviable. the new on is in progress. i need the landingpage for the page that is in progress",
+    "dateAdded": "2024-01-25T17:20:02.513Z"
+  },
+  {
+    "url": "https://v0.dev/t/0thu1ULzeoW",
+    "label": "Template for prompt: I would like to build a progress bar componet with arbitrary number of stops indicated by a circle when a stop isn't completed and a tick when a stop is completed. The bar should fill smoothly inbetween stops",
+    "dateAdded": "2024-01-25T17:20:02.513Z"
+  },
+  {
+    "url": "https://v0.dev/t/9jumg2APl1F",
+    "label": "Template for prompt: make a wiki page ",
+    "dateAdded": "2024-01-25T17:20:02.513Z"
+  },
+  {
+    "url": "https://v0.dev/t/GcA15mQaldm",
+    "label": "Template for prompt: i need a table, in which, it has a row that can expand 2 more rows",
+    "dateAdded": "2024-01-25T17:20:02.513Z"
+  },
+  {
+    "url": "https://v0.dev/t/Xa0eJ3FAIML",
+    "label": "Template for prompt: a table to manage driver membership in a fleet, it has the driver's name and their role which can be selected and updated with a 2 different options, 'driver' or 'admin'",
+    "dateAdded": "2024-01-25T17:20:02.513Z"
+  },
+  {
+    "url": "https://v0.dev/t/oQQ12JbAAJ3",
+    "label": "Template for prompt: A mobile bottom sheet type of component where the user can select the brand of his motorcycle, then the year of his motorcycle and finally the model. After which he can add the motorcycle to his library",
+    "dateAdded": "2024-01-25T17:20:02.514Z"
+  },
+  {
+    "url": "https://v0.dev/t/SP0I14g0CV1",
+    "label": "Template for prompt: آیا می تونی با کمک سایت fotmob تعداد گل دو تا تیم رو پیش بینی کنی",
+    "dateAdded": "2024-01-25T17:20:02.514Z"
+  },
+  {
+    "url": "https://v0.dev/t/bn9HyxCzhEw",
+    "label": "Template for prompt: please make a frontend for a lunch card business where admins can manage cards",
+    "dateAdded": "2024-01-25T17:20:02.514Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ykgoy3kCupw",
+    "label": "Template for prompt: online shop using bootstrap ui",
+    "dateAdded": "2024-01-25T17:20:02.514Z"
+  },
+  {
+    "url": "https://v0.dev/t/NFpuzbsQXh9",
+    "label": "Template for prompt: create this page",
+    "dateAdded": "2024-01-25T17:20:02.514Z"
   }
 ]
