@@ -87133,5 +87133,135 @@
     "url": "https://v0.dev/t/T3p5Tp0yPwR",
     "label": "Template for prompt: A verification input field having 5 boxes filling in a verification code. Make it smooth and easy to type",
     "dateAdded": "2024-01-25T20:40:02.960Z"
+  },
+  {
+    "url": "https://v0.dev/t/ivS7oAp1eOM",
+    "label": "Template for prompt: make a dashboard with details like name, email address at the top of the page that can be expanded and collapsed. underneath there should be a 3x3 grid of links",
+    "dateAdded": "2024-01-25T20:45:03.221Z"
+  },
+  {
+    "url": "https://v0.dev/t/j7HcsDhYcxz",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T20:45:03.222Z"
+  },
+  {
+    "url": "https://v0.dev/t/srCqxZPCREw",
+    "label": "Template for prompt: crear un input de busqueda de tickets",
+    "dateAdded": "2024-01-25T20:45:03.222Z"
+  },
+  {
+    "url": "https://v0.dev/t/LjIdX3ASpne",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-25T20:45:03.222Z"
+  },
+  {
+    "url": "https://v0.dev/t/w8KIDgB2DQK",
+    "label": "Template for prompt: a card for a client managed by a personal trainer to have overview of some of his stats",
+    "dateAdded": "2024-01-25T20:45:03.222Z"
+  },
+  {
+    "url": "https://v0.dev/t/iaqec62G8SW",
+    "label": "Template for prompt: Create a trivia game room creation and lobby screen for",
+    "dateAdded": "2024-01-25T20:45:03.222Z"
+  },
+  {
+    "url": "https://v0.dev/t/eXUzi3WnkOo",
+    "label": "Template for prompt: A home page of a sass product with fake dashboards",
+    "dateAdded": "2024-01-25T20:45:03.222Z"
+  },
+  {
+    "url": "https://v0.dev/t/WusxR5l3eUS",
+    "label": "Template for prompt: login page with username and pin number",
+    "dateAdded": "2024-01-25T20:45:03.222Z"
+  },
+  {
+    "url": "https://v0.dev/t/HxDFsweLiqk",
+    "label": "Template for prompt: make this better; reduce the whitespace",
+    "dateAdded": "2024-01-25T20:45:03.222Z"
+  },
+  {
+    "url": "https://v0.dev/t/UtYMQROiyIc",
+    "label": "Template for prompt: Payment form that supports three methods and have ield of phone number, bank account number and amount and a button to submit",
+    "dateAdded": "2024-01-25T20:45:03.223Z"
+  },
+  {
+    "url": "https://v0.dev/t/ttOklkPPiI0",
+    "label": "Template for prompt: improve my component\n1vs1 guess the country game",
+    "dateAdded": "2024-01-25T20:45:03.223Z"
+  },
+  {
+    "url": "https://v0.dev/t/UDtvkkLUzLB",
+    "label": "Template for prompt: hero section",
+    "dateAdded": "2024-01-25T20:45:03.223Z"
+  },
+  {
+    "url": "https://v0.dev/t/8q4q62P3dEH",
+    "label": "Template for prompt: make me a app for a digital cookbook",
+    "dateAdded": "2024-01-25T20:45:03.223Z"
+  },
+  {
+    "url": "https://v0.dev/t/sTrTcRGTe0u",
+    "label": "Template for prompt: A landing page to use as my cv",
+    "dateAdded": "2024-01-25T20:45:03.223Z"
+  },
+  {
+    "url": "https://v0.dev/t/wNPCHjhBOpF",
+    "label": "Template for prompt: a view to input an uuid value, and fetch results from a database",
+    "dateAdded": "2024-01-25T20:45:03.223Z"
+  },
+  {
+    "url": "https://v0.dev/t/opl9At1hpz0",
+    "label": "Template for prompt: this is my current app, imporove the game component\nthis is a guess the country 1vs1 online ",
+    "dateAdded": "2024-01-25T20:45:03.223Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y0rRRiZt615",
+    "label": "Template for prompt: A screen where I can list my ongoing tasks. Tasks are divided into, DONE (green), ONGOING (yellow) and CRITICAL (red)",
+    "dateAdded": "2024-01-25T20:45:03.223Z"
+  },
+  {
+    "url": "https://v0.dev/t/LGPvHSK8Lm1",
+    "label": "Template for prompt: create a shadcn ui table listing the top 25 football players",
+    "dateAdded": "2024-01-25T20:45:03.224Z"
+  },
+  {
+    "url": "https://v0.dev/t/RPxnvb4PAxO",
+    "label": "Template for prompt: an ecommerce store for snowboards",
+    "dateAdded": "2024-01-25T20:45:03.224Z"
+  },
+  {
+    "url": "https://v0.dev/t/mHknzveLeR9",
+    "label": "Template for prompt: interactive tooltip\\",
+    "dateAdded": "2024-01-25T20:45:03.224Z"
+  },
+  {
+    "url": "https://v0.dev/t/36g44JB7KUh",
+    "label": "Template for prompt: a dentist contact page for a site on ecolum an image and anotjer form contact",
+    "dateAdded": "2024-01-25T20:45:03.224Z"
+  },
+  {
+    "url": "https://v0.dev/t/0hqvz6kXd8r",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T20:45:03.224Z"
+  },
+  {
+    "url": "https://v0.dev/t/ohoGmKn9Lz2",
+    "label": "Template for prompt: dashboard with left side nav, in nav: \"główna\", \"posty\", \"album\", \"konta\"",
+    "dateAdded": "2024-01-25T20:45:03.224Z"
+  },
+  {
+    "url": "https://v0.dev/t/DvBuOhHWmdh",
+    "label": "Template for prompt: Hero section",
+    "dateAdded": "2024-01-25T20:45:03.224Z"
+  },
+  {
+    "url": "https://v0.dev/t/iJwnPxr8sgk",
+    "label": "Template for prompt: bulma: button with image-icon",
+    "dateAdded": "2024-01-25T20:45:03.224Z"
+  },
+  {
+    "url": "https://v0.dev/t/sWAKK4KqMO5",
+    "label": "Template for prompt: create this layout with collums",
+    "dateAdded": "2024-01-25T20:45:03.225Z"
   }
 ]
