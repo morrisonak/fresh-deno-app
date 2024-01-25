@@ -87643,5 +87643,130 @@
     "url": "https://v0.dev/t/CjMHlq6IZhV",
     "label": "Template for prompt: make me a to do list page",
     "dateAdded": "2024-01-25T21:00:03.124Z"
+  },
+  {
+    "url": "https://v0.dev/t/dAHHOdNp1JT",
+    "label": "Template for prompt: A contact form with first name, last name, email, postcode, address and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-25T21:05:02.710Z"
+  },
+  {
+    "url": "https://v0.dev/t/xKcU3nynQqb",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T21:05:02.710Z"
+  },
+  {
+    "url": "https://v0.dev/t/W5zaYWZPDob",
+    "label": "Template for prompt: a timeline",
+    "dateAdded": "2024-01-25T21:05:02.710Z"
+  },
+  {
+    "url": "https://v0.dev/t/GlzaadJK2sM",
+    "label": "Template for prompt: Given these props:\ninterface DirectCapabilityProps {\n    capabilityId: string;\n    description: string;\n    friendlyName: string;\n    preTemplate?: string;\n}\n\n\ndesign a sleek friendly ui basedoff of the image",
+    "dateAdded": "2024-01-25T21:05:02.710Z"
+  },
+  {
+    "url": "https://v0.dev/t/EDRIKVHKl7A",
+    "label": "Template for prompt: a one page company web with presentation at the top and a list of products in a nice card presentation with autoscroll, all in a minimalistic design and soft animations",
+    "dateAdded": "2024-01-25T21:05:02.710Z"
+  },
+  {
+    "url": "https://v0.dev/t/I3hHHErMAxX",
+    "label": "Template for prompt: landing page with planes and timetable",
+    "dateAdded": "2024-01-25T21:05:02.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/p9uLDqrimy5",
+    "label": "Template for prompt: create a website for a lawyer ",
+    "dateAdded": "2024-01-25T21:05:02.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/J6hlylZLdg9",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T21:05:02.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/T32pr8Zdy2A",
+    "label": "Template for prompt: a pricing table, free, pack and pro, for pack should list 3 different pack to buy, and for pro shoulld be a subscription monthly",
+    "dateAdded": "2024-01-25T21:05:02.711Z"
+  },
+  {
+    "url": "https://v0.dev/t/KilE1zqWr1Z",
+    "label": "Template for prompt: A minimalist password manager with a dashboard style",
+    "dateAdded": "2024-01-25T21:05:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/a7RRIn1T2Et",
+    "label": "Template for prompt: chatbot that has a side menu to store conversations, an input field and suggested prompts",
+    "dateAdded": "2024-01-25T21:05:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/5XFS2SkPxi3",
+    "label": "Template for prompt: Create me a single github pull request page with the ability to add labels and reviewers on the right side",
+    "dateAdded": "2024-01-25T21:05:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/tfr8hYNGECF",
+    "label": "Template for prompt: a testimonial section ",
+    "dateAdded": "2024-01-25T21:05:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/xjLtENrbG6Z",
+    "label": "Template for prompt: insights",
+    "dateAdded": "2024-01-25T21:05:02.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZFJuA3xhQXG",
+    "label": "Template for prompt: question and answer ui component for a help page",
+    "dateAdded": "2024-01-25T21:05:02.713Z"
+  },
+  {
+    "url": "https://v0.dev/t/XmloLaOshAO",
+    "label": "Template for prompt: A beautiful section for social proof \"More than 150 customers\"",
+    "dateAdded": "2024-01-25T21:05:02.713Z"
+  },
+  {
+    "url": "https://v0.dev/t/t2txxIcSlYM",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T21:05:02.713Z"
+  },
+  {
+    "url": "https://v0.dev/t/f2Dk7j5daH2",
+    "label": "Template for prompt: I want to build a calculator ",
+    "dateAdded": "2024-01-25T21:05:02.713Z"
+  },
+  {
+    "url": "https://v0.dev/t/wG73mE00p3n",
+    "label": "Template for prompt: Create me a github review page with the ability to add labels and reviewers",
+    "dateAdded": "2024-01-25T21:05:02.713Z"
+  },
+  {
+    "url": "https://v0.dev/t/s7LGgcFU9vr",
+    "label": "Template for prompt: i need this same in next js",
+    "dateAdded": "2024-01-25T21:05:02.713Z"
+  },
+  {
+    "url": "https://v0.dev/t/rwscJ9aJNZc",
+    "label": "Template for prompt: Make me a minimalistic balck and white left side bar menu component with the logo on top and the user profile with name in the bottom",
+    "dateAdded": "2024-01-25T21:05:02.714Z"
+  },
+  {
+    "url": "https://v0.dev/t/oBimYzB96so",
+    "label": "Template for prompt: Gere um site para uma empresa que vende placas solares",
+    "dateAdded": "2024-01-25T21:05:02.714Z"
+  },
+  {
+    "url": "https://v0.dev/t/MMpeShMdQ69",
+    "label": "Template for prompt: create a 404 page background color is #fffbeb and theme should be based on bee",
+    "dateAdded": "2024-01-25T21:05:02.714Z"
+  },
+  {
+    "url": "https://v0.dev/t/iaiVdYC9Fhq",
+    "label": "Template for prompt: make a dashboard so I can monitor build statuses and server health",
+    "dateAdded": "2024-01-25T21:05:02.714Z"
+  },
+  {
+    "url": "https://v0.dev/t/dEp7GKzyRSR",
+    "label": "Template for prompt: A flow chart mapping the plots of the universe ",
+    "dateAdded": "2024-01-25T21:05:02.715Z"
   }
 ]
