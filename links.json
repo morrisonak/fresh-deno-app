@@ -88803,5 +88803,135 @@
     "url": "https://v0.dev/t/pmS6gNbEKSY",
     "label": "Template for prompt: An card selection dialog where each card has an image and title",
     "dateAdded": "2024-01-25T21:45:02.792Z"
+  },
+  {
+    "url": "https://v0.dev/t/wpjTbQTPaUz",
+    "label": "Template for prompt: ecomcree products page with categories filtering",
+    "dateAdded": "2024-01-25T21:50:03.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/FEjIFixrgfA",
+    "label": "Template for prompt: generate payments page with 3 options \"Free\", \"Premium\" and \"Contact us for more\"",
+    "dateAdded": "2024-01-25T21:50:03.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/lHQRjwDjt7k",
+    "label": "Template for prompt: on click add box. when user hovers on any edge show a plus sign. if user clicks on that box side create a 100px line",
+    "dateAdded": "2024-01-25T21:50:03.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/LroXZaqSxVo",
+    "label": "Template for prompt: Make a form component.  It should have a dropdown that lets the user pick one of these options: Education, Certification, Training, Publications, Additional Experience",
+    "dateAdded": "2024-01-25T21:50:03.293Z"
+  },
+  {
+    "url": "https://v0.dev/t/EwAdGYOtWkc",
+    "label": "Template for prompt: Make a form component.  It should have a dropdown that lets the user pick one of these options: Education, Certification, Training, Publications, Additional Experience.\n\nIf \"Education\" is selected, the visible fields should be: Institution Name\nDegree Type (e.g., B.S., M.S., Ph.D.)\nField of Study\nStart and End Dates\nLocation\nHonors/Awards (if any)\nBrief Description or Key Achievements\nGPA\n\nIf \"Certifications\" is selected, the fields should be:\nCertification Name\nIssuing Organization\nDate of Certification\nExpiry Date (if applicable)\nLicense Number (if applicable)\nBrief Description\n\nIf \"Training\" is selected, the fields displayed should be:\nTraining Program Name\nProvider/Organization\nCompletion Date\nLocation (if relevant)\nSkills or Tools Learned\nBrief Description",
+    "dateAdded": "2024-01-25T21:50:03.293Z"
+  },
+  {
+    "url": "https://v0.dev/t/HHiXL0fQiRP",
+    "label": "Template for prompt: a featured video full page with list of previous videos below like netflix",
+    "dateAdded": "2024-01-25T21:50:03.293Z"
+  },
+  {
+    "url": "https://v0.dev/t/zzPZUrTfKh9",
+    "label": "Template for prompt: a pricing page for an SaaS called ResumeGen that takes resumes and generates a cover letter based on a job posting.  There is a free tier with 3 resumes and 3 cover letters and email support. an unlimited pro tier at 19.99/mo and enterprise tier",
+    "dateAdded": "2024-01-25T21:50:03.293Z"
+  },
+  {
+    "url": "https://v0.dev/t/0M9fPMVggbL",
+    "label": "Template for prompt: crea una interfaz para una app web que permita a los pequeños y grandes emprendimiientos calcular el costo de sus productos",
+    "dateAdded": "2024-01-25T21:50:03.294Z"
+  },
+  {
+    "url": "https://v0.dev/t/ywFK5izLNOI",
+    "label": "Template for prompt: Create a Landing page with a hero section slider with a section for eCommerce products and categories below",
+    "dateAdded": "2024-01-25T21:50:03.294Z"
+  },
+  {
+    "url": "https://v0.dev/t/fEspLFFQxQX",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T21:50:03.294Z"
+  },
+  {
+    "url": "https://v0.dev/t/dHYYcTjwLcY",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T21:50:03.294Z"
+  },
+  {
+    "url": "https://v0.dev/t/ImmV2DA3pxA",
+    "label": "Template for prompt: a cybersecurity product to display several feeds of emerging news stories in realtime",
+    "dateAdded": "2024-01-25T21:50:03.295Z"
+  },
+  {
+    "url": "https://v0.dev/t/8K0QDPUAiPZ",
+    "label": "Template for prompt: login page and form",
+    "dateAdded": "2024-01-25T21:50:03.295Z"
+  },
+  {
+    "url": "https://v0.dev/t/Dj88Hvwf6kk",
+    "label": "Template for prompt: login page and form",
+    "dateAdded": "2024-01-25T21:50:03.295Z"
+  },
+  {
+    "url": "https://v0.dev/t/oYPMtZ8Ib6B",
+    "label": "Template for prompt: write a form that accepts\nAdvertiser information\nProduct being advertised\nCampaign inputs i.e. briefs\n",
+    "dateAdded": "2024-01-25T21:50:03.295Z"
+  },
+  {
+    "url": "https://v0.dev/t/dggQc7Z0qyU",
+    "label": "Template for prompt: an adaptive grid of images with subtitles",
+    "dateAdded": "2024-01-25T21:50:03.295Z"
+  },
+  {
+    "url": "https://v0.dev/t/RrVAA5Ol1YG",
+    "label": "Template for prompt: A control panel for geolocalizing pieces. With a map in the right side an menu and controls in the left side. A statue bar floating on top of the map",
+    "dateAdded": "2024-01-25T21:50:03.296Z"
+  },
+  {
+    "url": "https://v0.dev/t/mX9ClrLKSBl",
+    "label": "Template for prompt: A campaign landing page for state attorney with tagline \"Fighting For Your Voice, Your Tampa, Your Justice.\" ",
+    "dateAdded": "2024-01-25T21:50:03.296Z"
+  },
+  {
+    "url": "https://v0.dev/t/pvxxtEI36TE",
+    "label": "Template for prompt: a news site homepage for venezuelan political news events blog interviews",
+    "dateAdded": "2024-01-25T21:50:03.296Z"
+  },
+  {
+    "url": "https://v0.dev/t/G1vi26iGKza",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T21:50:03.296Z"
+  },
+  {
+    "url": "https://v0.dev/t/DfpcxjCdN0L",
+    "label": "Template for prompt: A leftside navbar that has nested routes within the nested routes.",
+    "dateAdded": "2024-01-25T21:50:03.296Z"
+  },
+  {
+    "url": "https://v0.dev/t/rxAY2b08oiX",
+    "label": "Template for prompt: A leftside navbar that has nested routes within the nested routes.",
+    "dateAdded": "2024-01-25T21:50:03.296Z"
+  },
+  {
+    "url": "https://v0.dev/t/dpB05gwkAYZ",
+    "label": "Template for prompt: photo blog focusing on artist product ",
+    "dateAdded": "2024-01-25T21:50:03.297Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q4Wl6WoecYw",
+    "label": "Template for prompt: create a part list for a product page",
+    "dateAdded": "2024-01-25T21:50:03.297Z"
+  },
+  {
+    "url": "https://v0.dev/t/oxQIGHQfBIr",
+    "label": "Template for prompt: A personal blog frontpage",
+    "dateAdded": "2024-01-25T21:50:03.297Z"
+  },
+  {
+    "url": "https://v0.dev/t/NuGrC7QGCFH",
+    "label": "Template for prompt: A sidebar navigation menu on the left side. this side bar can collapse and uncollpase with a toggle button that appears on hover. There are links that link to different routes, and some routes have nested routes and some of those nested routes have more nested routes to direct users with a shortcut.",
+    "dateAdded": "2024-01-25T21:50:03.297Z"
   }
 ]
