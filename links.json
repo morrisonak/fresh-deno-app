@@ -82053,5 +82053,125 @@
     "url": "https://v0.dev/t/pEasMquPC2c",
     "label": "Template for prompt: A landing page for my design portfolio",
     "dateAdded": "2024-01-25T15:55:02.936Z"
+  },
+  {
+    "url": "https://v0.dev/t/zWSYVEGpVB6",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-01-25T16:00:03.666Z"
+  },
+  {
+    "url": "https://v0.dev/t/J7UX1Lji9WT",
+    "label": "Template for prompt: 请使用中文语言设计一个用户管理模块，以下是对该模块的描述。\n\n1\t账户创建\n- 用户不需要自行注册，而是由系统管理员在后台进行集中管理和创建，支持用户使用手机号码进行登录。\n2\t实名认证\n用户首次登录后需要进行实名认证，确保用户信息的真实、准确\n3\t社交账户绑定\n- 系统提供统计报表导出功能，支持导出为Excel、PDF等格式。\n- 村务管理者可以方便地分享统计数据给相关部门、机构或村民。\n4\t权限管理\n- 系统管理员可以对不同用户授予不同的权限，对不同用户只开放其所需要的功能和相关操作权限\n5   账户管理\n- 系统管理员可以对普通用户账户进行修改，存档等相关操作",
+    "dateAdded": "2024-01-25T16:00:03.666Z"
+  },
+  {
+    "url": "https://v0.dev/t/roWU7Q8wTdl",
+    "label": "Template for prompt: Design a frontend for a seach application which helps journalists to search troughout the existing database of a media company. This includes articles, texts, video, photos. ",
+    "dateAdded": "2024-01-25T16:00:03.666Z"
+  },
+  {
+    "url": "https://v0.dev/t/kt17qlt2QQb",
+    "label": "Template for prompt: Can you merge these two designs while maintaining all the same data",
+    "dateAdded": "2024-01-25T16:00:03.666Z"
+  },
+  {
+    "url": "https://v0.dev/t/PTHRMTnumL7",
+    "label": "Template for prompt: Expandable form with a single video URL input, pops from a button",
+    "dateAdded": "2024-01-25T16:00:03.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/ddvLBbZGeBG",
+    "label": "Template for prompt: use tailwindcss to create website like the image",
+    "dateAdded": "2024-01-25T16:00:03.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/9IWXym1WQmy",
+    "label": "Template for prompt: make a list with a timeline beside it with a continous line going down and dots in between the items saying the time ago that item was",
+    "dateAdded": "2024-01-25T16:00:03.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/dvvvGghpD3K",
+    "label": "Template for prompt: A nice, modern looking online newspaper website",
+    "dateAdded": "2024-01-25T16:00:03.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/fxRadB6antI",
+    "label": "Template for prompt: A reverse image search website home page where users can search in a gallery of photos by text or another image",
+    "dateAdded": "2024-01-25T16:00:03.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/1KMUuvrPsiJ",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-01-25T16:00:03.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/kBQFMS9PWEJ",
+    "label": "Template for prompt: A admin dashboard with CRUD operations, with HTML CSS JS and PHP object oriented with MySQL ",
+    "dateAdded": "2024-01-25T16:00:03.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/AMzrM5O5fg1",
+    "label": "Template for prompt: create a date picker component for a sing up form",
+    "dateAdded": "2024-01-25T16:00:03.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q9n4xwJIk13",
+    "label": "Template for prompt: point of sale",
+    "dateAdded": "2024-01-25T16:00:03.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/N72pEtnTRTt",
+    "label": "Template for prompt: improve the chapter make it beautyfull and professionale",
+    "dateAdded": "2024-01-25T16:00:03.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/0KYcRDIfWgs",
+    "label": "Template for prompt: A landing page hero section for an event ",
+    "dateAdded": "2024-01-25T16:00:03.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/rl6UKohRB67",
+    "label": "Template for prompt: a multistep form with a pretty background and epic animations.",
+    "dateAdded": "2024-01-25T16:00:03.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/K8V5S0M7nSm",
+    "label": "Template for prompt: saas admin dashboard for a chat ai service",
+    "dateAdded": "2024-01-25T16:00:03.669Z"
+  },
+  {
+    "url": "https://v0.dev/t/bvll8Gsy13x",
+    "label": "Template for prompt: a modern and simple login form model in the center of the  screen",
+    "dateAdded": "2024-01-25T16:00:03.669Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zbo4MZAIP7G",
+    "label": "Template for prompt: Create a main page for your blog. Introduce who you are in large print, followed by a small print blurb, and then place your blog posts below. Also, design it beautifully.",
+    "dateAdded": "2024-01-25T16:00:03.669Z"
+  },
+  {
+    "url": "https://v0.dev/t/yI4IW1uLfR5",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-01-25T16:00:03.669Z"
+  },
+  {
+    "url": "https://v0.dev/t/Iqfjrdserdn",
+    "label": "Template for prompt: profile page with image , basic info, bio, and services",
+    "dateAdded": "2024-01-25T16:00:03.669Z"
+  },
+  {
+    "url": "https://v0.dev/t/FzFHXQhrPs4",
+    "label": "Template for prompt: generate the best landing page on basing this image plaease",
+    "dateAdded": "2024-01-25T16:00:03.669Z"
+  },
+  {
+    "url": "https://v0.dev/t/Sq9idpI5oow",
+    "label": "Template for prompt: create a dashboard for viewing candlestick charts for watch prices. implement a right-aligned side panel for watches to choose from.",
+    "dateAdded": "2024-01-25T16:00:03.669Z"
+  },
+  {
+    "url": "https://v0.dev/t/Kj46AjVpkHf",
+    "label": "Template for prompt: a sleek table component with pagination and search",
+    "dateAdded": "2024-01-25T16:00:03.669Z"
   }
 ]
