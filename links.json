@@ -79198,5 +79198,135 @@
     "url": "https://v0.dev/t/y182EnrOyQ2",
     "label": "Template for prompt: a webgl demo webpage, the main body is a webgl demo showing animation of a rectangular box moving around inside the window, bouncing around (init bounce at the center towards top right direciton).",
     "dateAdded": "2024-01-25T01:05:03.768Z"
+  },
+  {
+    "url": "https://v0.dev/t/nBi61YQ5TDE",
+    "label": "Template for prompt: Create a landing page of a book lending fully responsive, where its main colors are: #122235 as primary colors, #FF7303 as accent, #EEEEEE as background page, #FFFFFF as second accent, #6E757C as text color. Use font sora for title section and button. font poppins for description text. make the web look like web design. section into the following sections:\n\nNavbar: have a logo, the menu and a login button and justified between.\nHero section: I want it to have a two columns, also a title, little description, and button on left column and on the right column is for hero illustration image. set title size for web is 50px, its description to 22px\nList Book Section: I want to show a grid with 4 books products list with title, and description. place the title and description section on center.\nSubcription Section: In this section I want to show an book library and a small description of its benefits.\nFooter: a footer with the logo, the pages.",
+    "dateAdded": "2024-01-25T01:10:03.287Z"
+  },
+  {
+    "url": "https://v0.dev/t/bzsbxgyGZUk",
+    "label": "Template for prompt: Create a landing page of a book lending fully responsive, where its main colors are: #122235 as primary colors, #FF7303 as accent, #EEEEEE as background page, #FFFFFF as second accent, #6E757C as text color. Use font sora for title section and button. font poppins for description text. make the web look like web design. section into the following sections:\n\nNavbar: have a logo, the menu and a login button and justified between.\nHero section: I want it to have a two columns, also a title, little description, and button on left column and on the right column is for hero illustration image. set title size for web is 50px, its description to 22px\nList Book Section: I want to show a grid with 4 books products list with title, and description. place the title and description section on center.\nSubcription Section: In this section I want to show an book library and a small description of its benefits.\nFooter: a footer with the logo, the pages.",
+    "dateAdded": "2024-01-25T01:10:03.287Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ib4JpkkjJiK",
+    "label": "Template for prompt: a notification banner that drops down from the top of the viewport and can be dismissed by the user",
+    "dateAdded": "2024-01-25T01:10:03.287Z"
+  },
+  {
+    "url": "https://v0.dev/t/VNhh2GZ40Mt",
+    "label": "Template for prompt: a datatable table with multiple columns rows and sub child rows under each parent row",
+    "dateAdded": "2024-01-25T01:10:03.287Z"
+  },
+  {
+    "url": "https://v0.dev/t/5EcnFHVTnIr",
+    "label": "Template for prompt: video internet lecture page",
+    "dateAdded": "2024-01-25T01:10:03.287Z"
+  },
+  {
+    "url": "https://v0.dev/t/1qFMySoaxbU",
+    "label": "Template for prompt: Una pagina de una liga de futbol llamada PSAF con 4 tablas de clasificación llamadas: WEL, MSL, GBL y Encel",
+    "dateAdded": "2024-01-25T01:10:03.287Z"
+  },
+  {
+    "url": "https://v0.dev/t/2YpHessXSdS",
+    "label": "Template for prompt: a terminal UI looks like linux",
+    "dateAdded": "2024-01-25T01:10:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZaZtGDIHg9A",
+    "label": "Template for prompt: a digital goods (software) checkout page showing the selected product and the phases you gotta go throw like choosing a length for the product and checking out with the credit card information",
+    "dateAdded": "2024-01-25T01:10:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/S452lAupIRr",
+    "label": "Template for prompt: Chat app design",
+    "dateAdded": "2024-01-25T01:10:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/vNO8eNtNxsH",
+    "label": "Template for prompt: select",
+    "dateAdded": "2024-01-25T01:10:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/4DoR7ajh3zY",
+    "label": "Template for prompt: customer details screen for a web application displaying:\n\nPerson's Name: [Name]\nCustomer Type: [Individual/Company]\nEmail: [Email address]\nCompany: [Company name, if applicable]\nDisplay Company Name: [true/false]\nDocument: [Document number, if available]\nAddress:\n\nCity: [City name]\nState: [State]\nDistrict: [District name]\nStreet: [Street name]\nNumber: [Address number]\nComplement: [Complement, if applicable]",
+    "dateAdded": "2024-01-25T01:10:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/liBHDHEjixf",
+    "label": "Template for prompt: giveaway website\n",
+    "dateAdded": "2024-01-25T01:10:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/k2GdjkEHTwT",
+    "label": "Template for prompt: pricing page with 3 options and also page with stripe",
+    "dateAdded": "2024-01-25T01:10:03.289Z"
+  },
+  {
+    "url": "https://v0.dev/t/Vb8ATuHxNrl",
+    "label": "Template for prompt: A Home Page for a footbal community website, should have a top navigator where you cna switch between visualizing players and teams",
+    "dateAdded": "2024-01-25T01:10:03.289Z"
+  },
+  {
+    "url": "https://v0.dev/t/ovOkTuAGQZ5",
+    "label": "Template for prompt: This is a results page.  Help me build it",
+    "dateAdded": "2024-01-25T01:10:03.289Z"
+  },
+  {
+    "url": "https://v0.dev/t/kO5QkVE2jbg",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-01-25T01:10:03.289Z"
+  },
+  {
+    "url": "https://v0.dev/t/sbjtne3qxhl",
+    "label": "Template for prompt: iphone device mockup",
+    "dateAdded": "2024-01-25T01:10:03.289Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zc572ABLGZA",
+    "label": "Template for prompt: iphone device mockup",
+    "dateAdded": "2024-01-25T01:10:03.289Z"
+  },
+  {
+    "url": "https://v0.dev/t/1xZAOn1OhEy",
+    "label": "Template for prompt: a minimalist ml dash board with charts cotaining a brokers most common type of applicant, a brokers average sum insured, a brokers decline rate, a brokers win rate , iteraction with broker , interaction with broker this month. ",
+    "dateAdded": "2024-01-25T01:10:03.289Z"
+  },
+  {
+    "url": "https://v0.dev/t/H0D69iaqmG9",
+    "label": "Template for prompt: a simple navbar for a shop site",
+    "dateAdded": "2024-01-25T01:10:03.289Z"
+  },
+  {
+    "url": "https://v0.dev/t/QFOJ5haOzho",
+    "label": "Template for prompt: login ui",
+    "dateAdded": "2024-01-25T01:10:03.290Z"
+  },
+  {
+    "url": "https://v0.dev/t/yZ3z0vv7RPq",
+    "label": "Template for prompt: lists of products with price, name, quantiry, sum price and button delete for mobile device",
+    "dateAdded": "2024-01-25T01:10:03.290Z"
+  },
+  {
+    "url": "https://v0.dev/t/3wwPefdyMfv",
+    "label": "Template for prompt: lists of products with price, name, quantiry, sum price and button delete for mobile device",
+    "dateAdded": "2024-01-25T01:10:03.290Z"
+  },
+  {
+    "url": "https://v0.dev/t/5I8gtu9EE6J",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-01-25T01:10:03.290Z"
+  },
+  {
+    "url": "https://v0.dev/t/vqVfWeFhuFl",
+    "label": "Template for prompt: dashboard task management",
+    "dateAdded": "2024-01-25T01:10:03.290Z"
+  },
+  {
+    "url": "https://v0.dev/t/S1vSILUYTRL",
+    "label": "Template for prompt: could you give me a bill rates page, which includes a table with pagination, and this table has some common columns for bill rates.",
+    "dateAdded": "2024-01-25T01:10:03.291Z"
   }
 ]
