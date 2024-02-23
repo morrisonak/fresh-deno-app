@@ -4348,5 +4348,135 @@
     "url": "https://v0.dev/t/vZpmWBflcna",
     "label": "Template for prompt: Game ",
     "dateAdded": "2024-02-23T14:15:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/zmb58wxnnIf",
+    "label": "Template for prompt: a page that teachs statistics with practical examples",
+    "dateAdded": "2024-02-23T14:20:03.052Z"
+  },
+  {
+    "url": "https://v0.dev/t/8WC51I6ndFx",
+    "label": "Template for prompt: \nweb developer portfolio with initial description section and project section, with modern and futuristic design",
+    "dateAdded": "2024-02-23T14:20:03.052Z"
+  },
+  {
+    "url": "https://v0.dev/t/bDbU9gk6aRU",
+    "label": "Template for prompt: Write a component that describes the three installation steps horizontally.\nEach installation step includes 1 photo and 1-2 lines of text.",
+    "dateAdded": "2024-02-23T14:20:03.052Z"
+  },
+  {
+    "url": "https://v0.dev/t/HCeBpYlFG9S",
+    "label": "Template for prompt: Vertical timeline for my World of Warcraft character. Use icons for events like level-up, battle, new gear.",
+    "dateAdded": "2024-02-23T14:20:03.052Z"
+  },
+  {
+    "url": "https://v0.dev/t/ausjJ5fVq2S",
+    "label": "Template for prompt: An Airbnb Property Search Form.",
+    "dateAdded": "2024-02-23T14:20:03.052Z"
+  },
+  {
+    "url": "https://v0.dev/t/hgjeGpd4MiO",
+    "label": "Template for prompt: Create a form from a card that proposes 4 fields: title, short description, long description, and status. Add a submit button to validate the form.",
+    "dateAdded": "2024-02-23T14:20:03.053Z"
+  },
+  {
+    "url": "https://v0.dev/t/KNbmuOPGbu3",
+    "label": "Template for prompt: landing page for health website",
+    "dateAdded": "2024-02-23T14:20:03.053Z"
+  },
+  {
+    "url": "https://v0.dev/t/UL4kdZ0qmHO",
+    "label": "Template for prompt: i have some details about  a company. i want to create a page where users will be able to see companies details including name, website, IR website, and about the company as in description",
+    "dateAdded": "2024-02-23T14:20:03.053Z"
+  },
+  {
+    "url": "https://v0.dev/t/UzZE4IBxpo9",
+    "label": "Template for prompt: a school website that features all the clubs",
+    "dateAdded": "2024-02-23T14:20:03.053Z"
+  },
+  {
+    "url": "https://v0.dev/t/UDjSg48fHFh",
+    "label": "Template for prompt: recreate this bank account view using the example above",
+    "dateAdded": "2024-02-23T14:20:03.053Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wphcf7Pdtmp",
+    "label": "Template for prompt: 가로로 3개의 설치 step을 설명하는 컴포넌트 작성해줘.\n각 설치 step에는 사진1개, 글 1~2줄이 들어가",
+    "dateAdded": "2024-02-23T14:20:03.053Z"
+  },
+  {
+    "url": "https://v0.dev/t/YtmNgUxDNYn",
+    "label": "Template for prompt: create a home page with login/signup for a website named \"The Parking Guardian\" with a decription of the website and listing the features it provides,use images for better ui",
+    "dateAdded": "2024-02-23T14:20:03.053Z"
+  },
+  {
+    "url": "https://v0.dev/t/jIUpTnSkXur",
+    "label": "Template for prompt: create a multi step form",
+    "dateAdded": "2024-02-23T14:20:03.053Z"
+  },
+  {
+    "url": "https://v0.dev/t/oavEEPdvlxm",
+    "label": "Template for prompt: create a site, on the left are filter options and on the right is a list of accordians",
+    "dateAdded": "2024-02-23T14:20:03.053Z"
+  },
+  {
+    "url": "https://v0.dev/t/FvNCE37yJSK",
+    "label": "Template for prompt: a multi-service bill payment",
+    "dateAdded": "2024-02-23T14:20:03.053Z"
+  },
+  {
+    "url": "https://v0.dev/t/g3cBnvQG1rA",
+    "label": "Template for prompt: Please display a pentagon radar chart on the left side of the page",
+    "dateAdded": "2024-02-23T14:20:03.053Z"
+  },
+  {
+    "url": "https://v0.dev/t/FzWZbC7XSNj",
+    "label": "Template for prompt: a simple blog",
+    "dateAdded": "2024-02-23T14:20:03.054Z"
+  },
+  {
+    "url": "https://v0.dev/t/qZwOSCrA2DH",
+    "label": "Template for prompt: capaign for squirrel rights",
+    "dateAdded": "2024-02-23T14:20:03.054Z"
+  },
+  {
+    "url": "https://v0.dev/t/LG2HCl9rju7",
+    "label": "Template for prompt: create me a dashboard for a client of an online school council election system the dashboard should include\n- 3 registration buttons: one for registration as a user, one for registeration as a admin, one for registeration as a candidate\n- election summary which contains the total no. of voters and the no. votes done\n- change password button for client\n- logout button for client\n- live results \n- candidates\n- voters",
+    "dateAdded": "2024-02-23T14:20:03.054Z"
+  },
+  {
+    "url": "https://v0.dev/t/oWUYyA6iv5B",
+    "label": "Template for prompt: make a announcment bar at the bootom for my page that show some status ",
+    "dateAdded": "2024-02-23T14:20:03.054Z"
+  },
+  {
+    "url": "https://v0.dev/t/9iqPvI1LZyw",
+    "label": "Template for prompt: 制作一个用户控制中心，显示用户余额，订阅总数，订单总数，用户身份",
+    "dateAdded": "2024-02-23T14:20:03.054Z"
+  },
+  {
+    "url": "https://v0.dev/t/BUxHMci6clk",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T14:20:03.054Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q9URHz2MJWD",
+    "label": "Template for prompt: mmo private server",
+    "dateAdded": "2024-02-23T14:20:03.054Z"
+  },
+  {
+    "url": "https://v0.dev/t/SF3isgNsUdT",
+    "label": "Template for prompt: admin dashboard with lots of charts and tables",
+    "dateAdded": "2024-02-23T14:20:03.054Z"
+  },
+  {
+    "url": "https://v0.dev/t/rfX1kVKTK9O",
+    "label": "Template for prompt: a list of coins for a collector's catalog of ancient coins",
+    "dateAdded": "2024-02-23T14:20:03.054Z"
+  },
+  {
+    "url": "https://v0.dev/t/gGSYZJ2hPKe",
+    "label": "Template for prompt: Button inside an input field",
+    "dateAdded": "2024-02-23T14:20:03.054Z"
   }
 ]
