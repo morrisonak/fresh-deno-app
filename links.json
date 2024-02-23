@@ -12358,5 +12358,135 @@
     "url": "https://v0.dev/t/YWb5mLJhLLH",
     "label": "Template for prompt: create a SaaS sidebar with categories and sections under those",
     "dateAdded": "2024-02-23T19:30:02.458Z"
+  },
+  {
+    "url": "https://v0.dev/t/SMBxUvp9K82",
+    "label": "Template for prompt: epayment page that takes in 2 inputs then displays outstanding payments and payment method. Also need a section that displays optionally that lets the user enters the  payment amount manually",
+    "dateAdded": "2024-02-23T19:35:02.786Z"
+  },
+  {
+    "url": "https://v0.dev/t/zs7TtkPhYhR",
+    "label": "Template for prompt: game model shop UI",
+    "dateAdded": "2024-02-23T19:35:02.787Z"
+  },
+  {
+    "url": "https://v0.dev/t/AqhLSsTHjRu",
+    "label": "Template for prompt: a view more linkbutton with lines on each side and a chevron down icon",
+    "dateAdded": "2024-02-23T19:35:02.787Z"
+  },
+  {
+    "url": "https://v0.dev/t/NxokhZtwRUO",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-23T19:35:02.787Z"
+  },
+  {
+    "url": "https://v0.dev/t/uJIwcLPD1xF",
+    "label": "Template for prompt: Create a hero section for the marketing page.",
+    "dateAdded": "2024-02-23T19:35:02.787Z"
+  },
+  {
+    "url": "https://v0.dev/t/IzA5EullEEd",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-02-23T19:35:02.787Z"
+  },
+  {
+    "url": "https://v0.dev/t/6ood5jZqKjK",
+    "label": "Template for prompt: A view more link button like this ---View More---",
+    "dateAdded": "2024-02-23T19:35:02.787Z"
+  },
+  {
+    "url": "https://v0.dev/t/SkbQMhwIrrJ",
+    "label": "Template for prompt: Internal dashboard for listing AI evals",
+    "dateAdded": "2024-02-23T19:35:02.787Z"
+  },
+  {
+    "url": "https://v0.dev/t/V0BKCXVKNBN",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-23T19:35:02.787Z"
+  },
+  {
+    "url": "https://v0.dev/t/AUAcHkJYDKj",
+    "label": "Template for prompt: create a svg noise filter with feTurbulence",
+    "dateAdded": "2024-02-23T19:35:02.787Z"
+  },
+  {
+    "url": "https://v0.dev/t/XpVuMcQD3aE",
+    "label": "Template for prompt: Create a simple CAROUSAL for the hero section",
+    "dateAdded": "2024-02-23T19:35:02.788Z"
+  },
+  {
+    "url": "https://v0.dev/t/x2l5XlBMPeH",
+    "label": "Template for prompt: tinder clone",
+    "dateAdded": "2024-02-23T19:35:02.788Z"
+  },
+  {
+    "url": "https://v0.dev/t/5s7KYHuLd0G",
+    "label": "Template for prompt: Login page for modern agricalture e-comernce",
+    "dateAdded": "2024-02-23T19:35:02.788Z"
+  },
+  {
+    "url": "https://v0.dev/t/zWCijBezX6V",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-23T19:35:02.788Z"
+  },
+  {
+    "url": "https://v0.dev/t/iehxfIbqSrD",
+    "label": "Template for prompt: Create a UI card to select bettween 3 graphic modes : responsive, fluid, fluid clamped",
+    "dateAdded": "2024-02-23T19:35:02.788Z"
+  },
+  {
+    "url": "https://v0.dev/t/6jmJRM3f1dm",
+    "label": "Template for prompt: A centered \"view more\" link button with a nice icon to add after long text",
+    "dateAdded": "2024-02-23T19:35:02.788Z"
+  },
+  {
+    "url": "https://v0.dev/t/RTBvICx4bDA",
+    "label": "Template for prompt: swiftui login page",
+    "dateAdded": "2024-02-23T19:35:02.788Z"
+  },
+  {
+    "url": "https://v0.dev/t/1ggEkAhta3i",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-23T19:35:02.788Z"
+  },
+  {
+    "url": "https://v0.dev/t/U8VIdDmJSM6",
+    "label": "Template for prompt: An e-commerce landing page with hero section and parallax scroll effect",
+    "dateAdded": "2024-02-23T19:35:02.788Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZkF4udZUBdt",
+    "label": "Template for prompt: a portfolio website for front end web developer ",
+    "dateAdded": "2024-02-23T19:35:02.788Z"
+  },
+  {
+    "url": "https://v0.dev/t/mDqnJFfzmbe",
+    "label": "Template for prompt: internal dashboard for listing ai evals",
+    "dateAdded": "2024-02-23T19:35:02.788Z"
+  },
+  {
+    "url": "https://v0.dev/t/RR5eTx5BT8L",
+    "label": "Template for prompt: A centered \"view more\" button to add after long text",
+    "dateAdded": "2024-02-23T19:35:02.788Z"
+  },
+  {
+    "url": "https://v0.dev/t/sDe1wRPvEq1",
+    "label": "Template for prompt: hihjkhkjhkhkhkj",
+    "dateAdded": "2024-02-23T19:35:02.788Z"
+  },
+  {
+    "url": "https://v0.dev/t/WSOaaNQAaWB",
+    "label": "Template for prompt: user authentication system",
+    "dateAdded": "2024-02-23T19:35:02.788Z"
+  },
+  {
+    "url": "https://v0.dev/t/8MchdKnY04i",
+    "label": "Template for prompt: crowdfunding project page",
+    "dateAdded": "2024-02-23T19:35:02.788Z"
+  },
+  {
+    "url": "https://v0.dev/t/1oZKDV8S0ap",
+    "label": "Template for prompt: searchable select with users",
+    "dateAdded": "2024-02-23T19:35:02.789Z"
   }
 ]
