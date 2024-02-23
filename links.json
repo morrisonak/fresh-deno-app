@@ -14768,5 +14768,135 @@
     "url": "https://v0.dev/t/avnXmroQXiu",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2024-02-23T21:05:03.114Z"
+  },
+  {
+    "url": "https://v0.dev/t/O3agL6KvUQa",
+    "label": "Template for prompt: I need an interface to inform a user about their automation or email marketing parameters",
+    "dateAdded": "2024-02-23T21:10:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/IZkOW6cCcK9",
+    "label": "Template for prompt: a notifications dropdown menu for a nav bar",
+    "dateAdded": "2024-02-23T21:10:03.517Z"
+  },
+  {
+    "url": "https://v0.dev/t/hsI4WFJUTJC",
+    "label": "Template for prompt: A iOS Movie Explore app",
+    "dateAdded": "2024-02-23T21:10:03.517Z"
+  },
+  {
+    "url": "https://v0.dev/t/UeeDCywrQn6",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-23T21:10:03.517Z"
+  },
+  {
+    "url": "https://v0.dev/t/4c7VkR89ghJ",
+    "label": "Template for prompt: This is part of my base design. It is a web app (built in NextJS) that helps people manage their kubernetes cluster. I want to symplify it even further and allow for users to start servers using a simple wizard. Can you create a design for this, where users can fill out the containers, the ports, volumes, etc. and then the resources (CPUs, memory, etc) and then have a results page with the details and the final URL?\n\nStep 1: Container Configuration\nTitle: Set Up Your Container\nInstructions: \"Fill in the details for the container you wish to run.\"\nFields:\nContainer Name\nContainer Image (e.g., nginx:latest)\nPorts (with options to add multiple ports)\nVolumes (with options to define volume mounts)\nEnvironment Variables (key-value pairs)\nCommands (if any)\nStep 2: Resource Allocation\nTitle: Allocate Resources\nInstructions: \"Specify the amount of resources to allocate to your container.\"\nFields:\nCPU Request (e.g., 250m)\nCPU Limit (e.g., 500m)\nMemory Request (e.g., 128Mi)\nMemory Limit (e.g., 2",
+    "dateAdded": "2024-02-23T21:10:03.517Z"
+  },
+  {
+    "url": "https://v0.dev/t/5OCZsFOu2DQ",
+    "label": "Template for prompt: App to control restaurant tables and orders",
+    "dateAdded": "2024-02-23T21:10:03.517Z"
+  },
+  {
+    "url": "https://v0.dev/t/34yJBe92Ci3",
+    "label": "Template for prompt: A landing page for a neobank where users can sign up for early access",
+    "dateAdded": "2024-02-23T21:10:03.517Z"
+  },
+  {
+    "url": "https://v0.dev/t/jCKykFwO5JU",
+    "label": "Template for prompt: create a dashboard that controls a library",
+    "dateAdded": "2024-02-23T21:10:03.517Z"
+  },
+  {
+    "url": "https://v0.dev/t/smSBdT1bShg",
+    "label": "Template for prompt: give me a pricing application app",
+    "dateAdded": "2024-02-23T21:10:03.517Z"
+  },
+  {
+    "url": "https://v0.dev/t/xb5OOS5U8G6",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T21:10:03.517Z"
+  },
+  {
+    "url": "https://v0.dev/t/Lvlp2KF0Wqu",
+    "label": "Template for prompt: a dynamic tooltip that auto adjusts when next to left or right sides of window. Should also have a carot that points to the element that is being hovered. ",
+    "dateAdded": "2024-02-23T21:10:03.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZlYWvDMQ77S",
+    "label": "Template for prompt: blog paige cite",
+    "dateAdded": "2024-02-23T21:10:03.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/o3Qbm0XoGif",
+    "label": "Template for prompt: blog page cute",
+    "dateAdded": "2024-02-23T21:10:03.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/wyIUoBmvLs7",
+    "label": "Template for prompt: a dark-themed chat app",
+    "dateAdded": "2024-02-23T21:10:03.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/4EyqTyaUecT",
+    "label": "Template for prompt: payslip app",
+    "dateAdded": "2024-02-23T21:10:03.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/KonXGXbVmj2",
+    "label": "Template for prompt: create a hero section same as the reference image, use tailwindcss",
+    "dateAdded": "2024-02-23T21:10:03.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/JriRyWpxkUR",
+    "label": "Template for prompt: A homepage for a coffee selling website",
+    "dateAdded": "2024-02-23T21:10:03.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/rzPLLHDMis2",
+    "label": "Template for prompt: calculator",
+    "dateAdded": "2024-02-23T21:10:03.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/nIVCTabcYuY",
+    "label": "Template for prompt: E-learning platform landing page",
+    "dateAdded": "2024-02-23T21:10:03.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/JElcpExkO8x",
+    "label": "Template for prompt: modal ",
+    "dateAdded": "2024-02-23T21:10:03.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/qW0K34pMy3N",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T21:10:03.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/x5kI9VGa1iq",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and dual ctas",
+    "dateAdded": "2024-02-23T21:10:03.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/pK1QTw7zoUK",
+    "label": "Template for prompt: payslip",
+    "dateAdded": "2024-02-23T21:10:03.519Z"
+  },
+  {
+    "url": "https://v0.dev/t/r9aAGWidH3d",
+    "label": "Template for prompt: a super fast HLS video player on top of Shaka Player",
+    "dateAdded": "2024-02-23T21:10:03.519Z"
+  },
+  {
+    "url": "https://v0.dev/t/MtqqwSEvUYn",
+    "label": "Template for prompt: error 404 page",
+    "dateAdded": "2024-02-23T21:10:03.519Z"
+  },
+  {
+    "url": "https://v0.dev/t/Be3t68rk5aI",
+    "label": "Template for prompt: give me a contact seccion, for linkedin, gmail, whatsapp and github, atractive but simple and dark",
+    "dateAdded": "2024-02-23T21:10:03.519Z"
   }
 ]
