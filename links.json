@@ -12728,5 +12728,130 @@
     "url": "https://v0.dev/t/oCWmXIegjb8",
     "label": "Template for prompt: List of movies",
     "dateAdded": "2024-02-23T19:45:02.443Z"
+  },
+  {
+    "url": "https://v0.dev/t/bbwNZ862hHo",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-02-23T19:50:02.394Z"
+  },
+  {
+    "url": "https://v0.dev/t/QX3DG33OyHS",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T19:50:02.394Z"
+  },
+  {
+    "url": "https://v0.dev/t/lBcg28zc0j3",
+    "label": "Template for prompt: login page",
+    "dateAdded": "2024-02-23T19:50:02.395Z"
+  },
+  {
+    "url": "https://v0.dev/t/2gUcYiwbB6B",
+    "label": "Template for prompt: Create a pills with different colors",
+    "dateAdded": "2024-02-23T19:50:02.395Z"
+  },
+  {
+    "url": "https://v0.dev/t/FxKMZYUktUk",
+    "label": "Template for prompt: Create a pills with different colors",
+    "dateAdded": "2024-02-23T19:50:02.395Z"
+  },
+  {
+    "url": "https://v0.dev/t/VLBPXcA6A5v",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T19:50:02.395Z"
+  },
+  {
+    "url": "https://v0.dev/t/gJjRmV7ekCC",
+    "label": "Template for prompt: acme",
+    "dateAdded": "2024-02-23T19:50:02.395Z"
+  },
+  {
+    "url": "https://v0.dev/t/5ReyCiJkBlj",
+    "label": "Template for prompt: add feature to save designs",
+    "dateAdded": "2024-02-23T19:50:02.395Z"
+  },
+  {
+    "url": "https://v0.dev/t/kC99OjUW5ww",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T19:50:02.395Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zdj0eWGToxn",
+    "label": "Template for prompt: a page for roleplay between 4 characters at the top . canvas (placeholder) for relevant images at the center and chat bubbles at the bottom",
+    "dateAdded": "2024-02-23T19:50:02.395Z"
+  },
+  {
+    "url": "https://v0.dev/t/dS5mUqqhzAU",
+    "label": "Template for prompt: A questionnaire for rating features one by one",
+    "dateAdded": "2024-02-23T19:50:02.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/TPKEuTVNlh7",
+    "label": "Template for prompt: app like a pokedex for my pokemon",
+    "dateAdded": "2024-02-23T19:50:02.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/8rN0UkBpFzh",
+    "label": "Template for prompt: a dashboard page for a software called 'BoardFinder' that helps local chess players setup and play chess with each other. Social network.",
+    "dateAdded": "2024-02-23T19:50:02.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ln9cc8NcrU0",
+    "label": "Template for prompt: Create a Hero Parallax Effect",
+    "dateAdded": "2024-02-23T19:50:02.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/qXHTuJrkHdH",
+    "label": "Template for prompt: a product feedback page",
+    "dateAdded": "2024-02-23T19:50:02.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/w7dj1JPMBOH",
+    "label": "Template for prompt: create a dashboard page",
+    "dateAdded": "2024-02-23T19:50:02.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/f91U2wFaPn3",
+    "label": "Template for prompt: E commerce store for midi controler ",
+    "dateAdded": "2024-02-23T19:50:02.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/35CQ3HX3q9r",
+    "label": "Template for prompt: create a responesive hero with gradient blury background and nav which is fixed on scroll",
+    "dateAdded": "2024-02-23T19:50:02.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/N5F98UF4veg",
+    "label": "Template for prompt: steam market place",
+    "dateAdded": "2024-02-23T19:50:02.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/8jKeAvklgFu",
+    "label": "Template for prompt: A react website, containing a page that has a main component which is a 2d simulation box with fixed width and height, a slidebar underneath it that represents a timeline, and a settings section with different configuration inputs.  ",
+    "dateAdded": "2024-02-23T19:50:02.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/CugPjTWVv7p",
+    "label": "Template for prompt: Create a simple card with these details\n-> Card Image\n-> Card Title\n-> Card Price\n-> Card Description\n-> Card Button \"Learn More\"\n",
+    "dateAdded": "2024-02-23T19:50:02.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/hBsYPwDuMDD",
+    "label": "Template for prompt: Navbar",
+    "dateAdded": "2024-02-23T19:50:02.396Z"
+  },
+  {
+    "url": "https://v0.dev/t/CVUBvUkwmVw",
+    "label": "Template for prompt: create a progress bar",
+    "dateAdded": "2024-02-23T19:50:02.397Z"
+  },
+  {
+    "url": "https://v0.dev/t/K61Vraeun5p",
+    "label": "Template for prompt: make a responsive and 3d admin dashboard",
+    "dateAdded": "2024-02-23T19:50:02.397Z"
+  },
+  {
+    "url": "https://v0.dev/t/dctZbE1FUtC",
+    "label": "Template for prompt: saas ",
+    "dateAdded": "2024-02-23T19:50:02.397Z"
   }
 ]
