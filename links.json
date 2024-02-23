@@ -1958,5 +1958,135 @@
     "url": "https://v0.dev/t/pLre8wfyrsu",
     "label": "Template for prompt: futuristic list of users",
     "dateAdded": "2024-02-23T01:35:03.033Z"
+  },
+  {
+    "url": "https://v0.dev/t/0QNbutEOtX5",
+    "label": "Template for prompt: create a flickr clone",
+    "dateAdded": "2024-02-23T01:40:02.726Z"
+  },
+  {
+    "url": "https://v0.dev/t/CXljsd5oWPc",
+    "label": "Template for prompt: Generates a tree table that can be expanded and closed",
+    "dateAdded": "2024-02-23T01:40:02.726Z"
+  },
+  {
+    "url": "https://v0.dev/t/Nlr0EAPzley",
+    "label": "Template for prompt: 生成一个树形表格，可展开关闭",
+    "dateAdded": "2024-02-23T01:40:02.726Z"
+  },
+  {
+    "url": "https://v0.dev/t/8joK7ng4zdn",
+    "label": "Template for prompt: 生成一个树形表格，可展开关闭",
+    "dateAdded": "2024-02-23T01:40:02.726Z"
+  },
+  {
+    "url": "https://v0.dev/t/uTAXOfsJjCM",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T01:40:02.727Z"
+  },
+  {
+    "url": "https://v0.dev/t/rLDx4TFGVap",
+    "label": "Template for prompt: design the exact UI",
+    "dateAdded": "2024-02-23T01:40:02.727Z"
+  },
+  {
+    "url": "https://v0.dev/t/MwqvQLkOHNY",
+    "label": "Template for prompt: Form with two sections, first with list with check of accounts, the second with 2 buttons [sync, scan]",
+    "dateAdded": "2024-02-23T01:40:02.727Z"
+  },
+  {
+    "url": "https://v0.dev/t/jEGprXJPdFq",
+    "label": "Template for prompt: vue3生成一个lis页面, 包括操作按钮, 编辑,执行",
+    "dateAdded": "2024-02-23T01:40:02.727Z"
+  },
+  {
+    "url": "https://v0.dev/t/a5CY5jFPsG8",
+    "label": "Template for prompt: An input field that show atocomplete options as I type",
+    "dateAdded": "2024-02-23T01:40:02.727Z"
+  },
+  {
+    "url": "https://v0.dev/t/7UKzb74UTJK",
+    "label": "Template for prompt: Make a classroom like dashboard for a learning management system",
+    "dateAdded": "2024-02-23T01:40:02.727Z"
+  },
+  {
+    "url": "https://v0.dev/t/5anLVeQFhhr",
+    "label": "Template for prompt: contractos data table with skeleton",
+    "dateAdded": "2024-02-23T01:40:02.727Z"
+  },
+  {
+    "url": "https://v0.dev/t/e51xNFRD6WQ",
+    "label": "Template for prompt: a landing page for portfolio",
+    "dateAdded": "2024-02-23T01:40:02.727Z"
+  },
+  {
+    "url": "https://v0.dev/t/vKihSRGGHyB",
+    "label": "Template for prompt: solar site Dashboards containing consolidated site map view, Solar Plant View, Solar PV plant monitoring parameters,Operational status",
+    "dateAdded": "2024-02-23T01:40:02.727Z"
+  },
+  {
+    "url": "https://v0.dev/t/B5USgFNhKgN",
+    "label": "Template for prompt: Using shadcdn, create an imput field that autocompletes as I type something and shows a list of possible completions",
+    "dateAdded": "2024-02-23T01:40:02.727Z"
+  },
+  {
+    "url": "https://v0.dev/t/RYoyqGowlZk",
+    "label": "Template for prompt: A calculator to basal metabolism",
+    "dateAdded": "2024-02-23T01:40:02.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/bXcgjTrCkFG",
+    "label": "Template for prompt: generame una landing page de venta de productos tecnologicos en base a este ejemplo ",
+    "dateAdded": "2024-02-23T01:40:02.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/FWrSKkxEIBB",
+    "label": "Template for prompt: registration form that save current location for address too",
+    "dateAdded": "2024-02-23T01:40:02.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/BccI5sJUn6S",
+    "label": "Template for prompt: registration form that save current location for address too in html ",
+    "dateAdded": "2024-02-23T01:40:02.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/8FHHYMd31Nz",
+    "label": "Template for prompt: a website about the development of the world wide web, in the style of a terminal editor.",
+    "dateAdded": "2024-02-23T01:40:02.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/QMbsgE9tORF",
+    "label": "Template for prompt: create a toolbar column for creating a draggable resizeable box",
+    "dateAdded": "2024-02-23T01:40:02.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/XJ6nGDwcmt5",
+    "label": "Template for prompt: A landing page for a devtool called Airlock. It is a unified interface for managing infrastructure as code. Airlock puts strict validation, composable building blocks, seamless distribution, and the most amazing CI/CD experience you've ever seen for terraform. Make developers more efficient, ensure infrastructure security, and distribute the operational burden.\n\nThe home page should have a code snippet area to copy and paste the snippet. When the snippet is copied replace the code window with a youtube placeholder. The copy above the code window says \"Want to see the source code? Run this script.\"\n\nBold orange. Space warthogs.",
+    "dateAdded": "2024-02-23T01:40:02.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/DACa11vyUcx",
+    "label": "Template for prompt: educational platform home page with call to action and basic information",
+    "dateAdded": "2024-02-23T01:40:02.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/9mSsclYY4js",
+    "label": "Template for prompt: educational platform home page with call to action and basic information",
+    "dateAdded": "2024-02-23T01:40:02.728Z"
+  },
+  {
+    "url": "https://v0.dev/t/VoTphigLDvM",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-23T01:40:02.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/ELh1wgBvBDU",
+    "label": "Template for prompt: \"www.catchfashion.com\" E-commerce\nSimilar\n",
+    "dateAdded": "2024-02-23T01:40:02.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/JIX5Q0nnF0p",
+    "label": "Template for prompt: Design an intuitive and user-friendly main page for 'Academic Practices' in an educational management system, featuring a top navigation bar with the institution's logo on the left and user account options on the right, and a central dashboard with visually appealing interactive cards for different sections including 'Create Request', 'View Requests', 'Requests in Process', 'Practice Reports', and 'Email Invitations'. Each card should have a relevant icon or image, a title, and a brief description (optional), set against a clean and spacious layout using the institution's color scheme and style. Include a search bar (optional) at the top for quick access to information, quick links or shortcuts on the side or bottom for frequently used functions, and additional information or footer at the bottom with contact info and policy links, ensuring the design is responsive and accessible, using frameworks like Angular Material or Bootstrap and icon libraries like Font Awesome or Material Icons",
+    "dateAdded": "2024-02-23T01:40:02.729Z"
   }
 ]
