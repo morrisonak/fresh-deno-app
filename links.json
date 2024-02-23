@@ -518,5 +518,135 @@
     "url": "https://v0.dev/t/k9LIH0o9qlk",
     "label": "Template for prompt: A list of product categories with image, name and description.",
     "dateAdded": "2024-02-23T00:35:02.206Z"
+  },
+  {
+    "url": "https://v0.dev/t/P4QHKO2eBQv",
+    "label": "Template for prompt: a landing page customer review section",
+    "dateAdded": "2024-02-23T00:40:38.291Z"
+  },
+  {
+    "url": "https://v0.dev/t/w6dd6m40E2p",
+    "label": "Template for prompt: Make a cursor that has a box for the users name. the border should be rounded. All of it should be the same color",
+    "dateAdded": "2024-02-23T00:40:38.291Z"
+  },
+  {
+    "url": "https://v0.dev/t/MrRuCNcewCd",
+    "label": "Template for prompt: a modern reservation page for restaurant",
+    "dateAdded": "2024-02-23T00:40:38.291Z"
+  },
+  {
+    "url": "https://v0.dev/t/66rks756Urq",
+    "label": "Template for prompt: a modern reservation page for restaurant",
+    "dateAdded": "2024-02-23T00:40:38.291Z"
+  },
+  {
+    "url": "https://v0.dev/t/kjSDVTWFbuT",
+    "label": "Template for prompt: a modern sign up page that incldues oauth",
+    "dateAdded": "2024-02-23T00:40:38.291Z"
+  },
+  {
+    "url": "https://v0.dev/t/sRPMwAxZd60",
+    "label": "Template for prompt: create a searchbar to search for Channels",
+    "dateAdded": "2024-02-23T00:40:38.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/32qMHIwrHqF",
+    "label": "Template for prompt: create a task application, the app takes in the task name, a select for the project it is associated, a description for the task that is optional, and a start and a due date. also create a section that shows that tasks and they are categorized by project",
+    "dateAdded": "2024-02-23T00:40:38.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/MEWwoFMEeyY",
+    "label": "Template for prompt: A book list website with the following features:\n\n- A header with a logo, a search bar, and a user menu\n- A sidebar with navigation links to different pages: Home, My Books, Recommendations, Friends, Settings\n- A main content area that displays the books in a grid or a list, with filters, sorting, and pagination options\n- A footer with some information and links\n\nThe Home page should show the latest books added by the user and their friends, with ratings, reviews, and comments.\n\nThe My Books page should show the books that the user has read or wants to read, with categories, progress, and actions.\n\nThe Recommendations page should show the books that the user might like, based on their preferences, ratings, and friends.\n\nThe Friends page should show the user's friends, with their profiles, books, and activities.\n\nThe Settings page should allow the user to manage their account, preferences, and notifications.\n",
+    "dateAdded": "2024-02-23T00:40:38.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/uQohxYLuGfq",
+    "label": "Template for prompt: make an otp modal that also has an option to resend the opt after 60 seconds",
+    "dateAdded": "2024-02-23T00:40:38.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/I6WvHZ0gfsP",
+    "label": "Template for prompt: Before requesting SMS verification for the user's mobile number, confirm with recaptcha. After the verification button is activated, display the code input field when the verification button is clicked.\n\n\n\n\n",
+    "dateAdded": "2024-02-23T00:40:38.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/iqFm6PvAqWj",
+    "label": "Template for prompt: A MERN stack Dashboard website with the following features:\n\n- A header with a logo, a search bar, and a user menu\n- A sidebar with navigation links to different pages: Task manager, Customers, Projects, Proposals, Sales, Services, Portfolio, Accounts db, Meeting notes\n- A main content area that displays the current date and time in large scale, and a summary of the daily activity, schedule, habits, goals, notes, audio notes, mindmaps, tasks, todo, journal, ideas, knowledgebase\n- A footer with some information and links\n\nThe Task manager page should have a list and a kanban view of the tasks, with filters, sorting, and drag and drop functionality.\n\nThe Customers page should have a table of the customers, with pagination, search, and edit options.\n\nThe Projects page should have a grid of the projects, with progress bars, status, and actions.\n\nThe Proposals page should have a list of the proposals, with details, status, and actions.\n\nThe Sales page should have a chart of the sales, with ",
+    "dateAdded": "2024-02-23T00:40:38.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/Hk792YhvZlG",
+    "label": "Template for prompt: a profile page where you can follow a content creator and see their recent work",
+    "dateAdded": "2024-02-23T00:40:38.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/YOQyezaNmv3",
+    "label": "Template for prompt: A image list with description and zoom on click",
+    "dateAdded": "2024-02-23T00:40:38.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zm1SwWoVTaJ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T00:40:38.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/J0W4HBxz5AP",
+    "label": "Template for prompt: a blog website",
+    "dateAdded": "2024-02-23T00:40:38.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/9JNErs25lTa",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T00:40:38.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z4Ot4pPj6r3",
+    "label": "Template for prompt: a subscriptions orders admin panel",
+    "dateAdded": "2024-02-23T00:40:38.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/9ITkvKL5Eni",
+    "label": "Template for prompt: Give a 3D object editor with color, position, and a slider for size ",
+    "dateAdded": "2024-02-23T00:40:38.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/qCwBeqYVSlv",
+    "label": "Template for prompt: generate a table for my school class schedule",
+    "dateAdded": "2024-02-23T00:40:38.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/x0cc0rtEmdT",
+    "label": "Template for prompt: a page of map with pins and list of locations with filter",
+    "dateAdded": "2024-02-23T00:40:38.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/96OqBCeUCoq",
+    "label": "Template for prompt: a signin page",
+    "dateAdded": "2024-02-23T00:40:38.292Z"
+  },
+  {
+    "url": "https://v0.dev/t/qEB1eJfC63Q",
+    "label": "Template for prompt: 사용자 휴대번호 문자인증 요청 전 recaptcha로 컨펌받고 문자인증 버튼활성화 된후 인증 클릭시 인증코드 입력창 노출",
+    "dateAdded": "2024-02-23T00:40:38.293Z"
+  },
+  {
+    "url": "https://v0.dev/t/o7Iq8dpd5gK",
+    "label": "Template for prompt: an subscription order",
+    "dateAdded": "2024-02-23T00:40:38.293Z"
+  },
+  {
+    "url": "https://v0.dev/t/H5iJaxVyxmF",
+    "label": "Template for prompt: form with phone number verification by sms",
+    "dateAdded": "2024-02-23T00:40:38.293Z"
+  },
+  {
+    "url": "https://v0.dev/t/58JzTewBDyl",
+    "label": "Template for prompt: sign up page with firebase integration",
+    "dateAdded": "2024-02-23T00:40:38.293Z"
+  },
+  {
+    "url": "https://v0.dev/t/EhahDoh1l9H",
+    "label": "Template for prompt: data table",
+    "dateAdded": "2024-02-23T00:40:38.293Z"
   }
 ]
