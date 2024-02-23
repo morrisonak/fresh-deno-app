@@ -2088,5 +2088,135 @@
     "url": "https://v0.dev/t/JIX5Q0nnF0p",
     "label": "Template for prompt: Design an intuitive and user-friendly main page for 'Academic Practices' in an educational management system, featuring a top navigation bar with the institution's logo on the left and user account options on the right, and a central dashboard with visually appealing interactive cards for different sections including 'Create Request', 'View Requests', 'Requests in Process', 'Practice Reports', and 'Email Invitations'. Each card should have a relevant icon or image, a title, and a brief description (optional), set against a clean and spacious layout using the institution's color scheme and style. Include a search bar (optional) at the top for quick access to information, quick links or shortcuts on the side or bottom for frequently used functions, and additional information or footer at the bottom with contact info and policy links, ensuring the design is responsive and accessible, using frameworks like Angular Material or Bootstrap and icon libraries like Font Awesome or Material Icons",
     "dateAdded": "2024-02-23T01:40:02.729Z"
+  },
+  {
+    "url": "https://v0.dev/t/P4R7mhEQyIF",
+    "label": "Template for prompt: 이렇게 html 만들어줘",
+    "dateAdded": "2024-02-23T01:45:02.846Z"
+  },
+  {
+    "url": "https://v0.dev/t/rQCI0UNfYIo",
+    "label": "Template for prompt: app with a form to register food income for a food bank",
+    "dateAdded": "2024-02-23T01:45:02.846Z"
+  },
+  {
+    "url": "https://v0.dev/t/VDXqfu2oMj5",
+    "label": "Template for prompt: app with a form to register food income for a food bank",
+    "dateAdded": "2024-02-23T01:45:02.847Z"
+  },
+  {
+    "url": "https://v0.dev/t/hiKZzsuGSdJ",
+    "label": "Template for prompt: app with a form to register food income for a food bank",
+    "dateAdded": "2024-02-23T01:45:02.847Z"
+  },
+  {
+    "url": "https://v0.dev/t/uYtnWwB7dhc",
+    "label": "Template for prompt: a device management card with a heartbeat color and a few lines of data",
+    "dateAdded": "2024-02-23T01:45:02.847Z"
+  },
+  {
+    "url": "https://v0.dev/t/T3MLlhHYvF5",
+    "label": "Template for prompt: a dashboard page for rrhh admin",
+    "dateAdded": "2024-02-23T01:45:02.847Z"
+  },
+  {
+    "url": "https://v0.dev/t/bOUqBQOGJQp",
+    "label": "Template for prompt: a how it works minimalist infographic page `How it works\n1. Fill out the Booking Form completely. The questions asked in the form are all necessary for Food Trucks to accept a catering gig.\n2. Food truck Proposal We’ll send a confirmation email immediately and you can expect a response within 48 hours. We will then present you with food truck options and pricing that fit your preferences.\n3. Confirm & Pay After receiving the proposal, you can request changes or choose from the suggested of truck(s). We will then request a deposit to be made and will facilitate communication between you and your chosen food truck.\n\nBook A Food Truck For Your Next Event\nOR\nPlease Complete The Form Below\n\nTell us about your event\nDescribe your event\n(required)\nService needed\n\n- Food Truck service\n- Drop Off\n- Catering\n- Buffet\n- Unsure\n\nNumber of Attendees\n(required)\n- <100\n- 100-300\n- 300-500\n- 500-1000\n- >1000\n\nWho's paying?\n(required)\n\n- Host\n- Attendees\n\nWhat's your Budget or Minimum*\n(required)\nA min",
+    "dateAdded": "2024-02-23T01:45:02.847Z"
+  },
+  {
+    "url": "https://v0.dev/t/yB5AKtKkSfZ",
+    "label": "Template for prompt: design a pricing page ",
+    "dateAdded": "2024-02-23T01:45:02.847Z"
+  },
+  {
+    "url": "https://v0.dev/t/eb8xvC2xDfu",
+    "label": "Template for prompt: Text editor, with options like: Changing font, changing text color etc. (Example: Google Docs, word), basically all in a toolbar on the top, with font being a select field, etc.",
+    "dateAdded": "2024-02-23T01:45:02.847Z"
+  },
+  {
+    "url": "https://v0.dev/t/LyyHYUFmKnR",
+    "label": "Template for prompt: Text editor, with options like: Changing font, changing text color etc. (Example: Google Docs, word), basically all in a toolbar on the top, with font being a select field, etc.",
+    "dateAdded": "2024-02-23T01:45:02.847Z"
+  },
+  {
+    "url": "https://v0.dev/t/4s75JWv8Ev0",
+    "label": "Template for prompt: drop down list",
+    "dateAdded": "2024-02-23T01:45:02.847Z"
+  },
+  {
+    "url": "https://v0.dev/t/dnQZLdWYUaG",
+    "label": "Template for prompt: header with icon+text on far left with link to home, 3 navigation buttons in the middle, and a CTA button on the far right. make the middle navigation buttons have some styling with a bush or grass, themed for a landscaping company",
+    "dateAdded": "2024-02-23T01:45:02.847Z"
+  },
+  {
+    "url": "https://v0.dev/t/Sfj3rvuEkG0",
+    "label": "Template for prompt: 帮我用vue3实现一个树形表格，带增删改查按钮",
+    "dateAdded": "2024-02-23T01:45:02.847Z"
+  },
+  {
+    "url": "https://v0.dev/t/4WZcCJTyV7s",
+    "label": "Template for prompt: create an image gallery like google photos",
+    "dateAdded": "2024-02-23T01:45:02.847Z"
+  },
+  {
+    "url": "https://v0.dev/t/jvhQq4ZgMwN",
+    "label": "Template for prompt: simple navbar",
+    "dateAdded": "2024-02-23T01:45:02.847Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZugW6KwjO1K",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-23T01:45:02.847Z"
+  },
+  {
+    "url": "https://v0.dev/t/0QNbutEOtX5",
+    "label": "Template for prompt: create a flickr clone",
+    "dateAdded": "2024-02-23T01:45:02.848Z"
+  },
+  {
+    "url": "https://v0.dev/t/CXljsd5oWPc",
+    "label": "Template for prompt: Generates a tree table that can be expanded and closed",
+    "dateAdded": "2024-02-23T01:45:02.848Z"
+  },
+  {
+    "url": "https://v0.dev/t/Nlr0EAPzley",
+    "label": "Template for prompt: 生成一个树形表格，可展开关闭",
+    "dateAdded": "2024-02-23T01:45:02.848Z"
+  },
+  {
+    "url": "https://v0.dev/t/8joK7ng4zdn",
+    "label": "Template for prompt: 生成一个树形表格，可展开关闭",
+    "dateAdded": "2024-02-23T01:45:02.848Z"
+  },
+  {
+    "url": "https://v0.dev/t/uTAXOfsJjCM",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T01:45:02.848Z"
+  },
+  {
+    "url": "https://v0.dev/t/rLDx4TFGVap",
+    "label": "Template for prompt: design the exact UI",
+    "dateAdded": "2024-02-23T01:45:02.848Z"
+  },
+  {
+    "url": "https://v0.dev/t/MwqvQLkOHNY",
+    "label": "Template for prompt: Form with two sections, first with list with check of accounts, the second with 2 buttons [sync, scan]",
+    "dateAdded": "2024-02-23T01:45:02.848Z"
+  },
+  {
+    "url": "https://v0.dev/t/jEGprXJPdFq",
+    "label": "Template for prompt: vue3生成一个lis页面, 包括操作按钮, 编辑,执行",
+    "dateAdded": "2024-02-23T01:45:02.848Z"
+  },
+  {
+    "url": "https://v0.dev/t/a5CY5jFPsG8",
+    "label": "Template for prompt: An input field that show atocomplete options as I type",
+    "dateAdded": "2024-02-23T01:45:02.848Z"
+  },
+  {
+    "url": "https://v0.dev/t/7UKzb74UTJK",
+    "label": "Template for prompt: Make a classroom like dashboard for a learning management system",
+    "dateAdded": "2024-02-23T01:45:02.848Z"
   }
 ]
