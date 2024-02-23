@@ -9303,5 +9303,130 @@
     "url": "https://v0.dev/t/QoaiDGo9kRc",
     "label": "Template for prompt: News website header with weather, breaking news, stock market information search, login / signup subscribe",
     "dateAdded": "2024-02-23T17:30:02.410Z"
+  },
+  {
+    "url": "https://v0.dev/t/NNLYWch59dt",
+    "label": "Template for prompt: web component library",
+    "dateAdded": "2024-02-23T17:35:02.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/j9fvWXQCfmL",
+    "label": "Template for prompt: kullanıcılar hikaye kitabı karakteri üretebilecekleri bir form oluştur",
+    "dateAdded": "2024-02-23T17:35:02.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/wecA3Db3aU2",
+    "label": "Template for prompt: banner slider",
+    "dateAdded": "2024-02-23T17:35:02.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/tF7MqtVbKB7",
+    "label": "Template for prompt: an airbnb like grid",
+    "dateAdded": "2024-02-23T17:35:02.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/0hwo4WZRoUx",
+    "label": "Template for prompt: crea un portafolio ",
+    "dateAdded": "2024-02-23T17:35:02.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/cs1H5PYDJQr",
+    "label": "Template for prompt: I'm going to design a website.\nFirst of all, the name of the service is \"Financial Partners\"\nLet me explain the design of the top bar first.\nLogo and service name are written on the left side of the top bar\n\nAnd there's a left bar\nThere are three tabs in the left bar\n1. a household account book \n2. Budget\n3. Analysis\nThe format of these three tabs is displayed as Logo - Tab Name\n\nAt the bottom of the left bar are the Settings, Logout text buttons\n\nPlease design it up to here\nThe text will be on the right side of the left bar, so please leave it blank",
+    "dateAdded": "2024-02-23T17:35:02.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/o9IuMUexSgJ",
+    "label": "Template for prompt: Layout from cashback frontpage",
+    "dateAdded": "2024-02-23T17:35:02.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/ytaQ6WQkVMW",
+    "label": "Template for prompt: Crea una página el cual contenga información de tu perro,",
+    "dateAdded": "2024-02-23T17:35:02.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZHOsEhmvWtt",
+    "label": "Template for prompt: create a login page",
+    "dateAdded": "2024-02-23T17:35:02.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/qniMKuPkAkv",
+    "label": "Template for prompt: Email Management Web app.",
+    "dateAdded": "2024-02-23T17:35:02.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/zh8v0gzKC9f",
+    "label": "Template for prompt: Crear un dashboard para movil para un profesor de ski, que desde su movil pueda ver sus siguientes clases, buscar alumnos y emitir insignias badges digitales",
+    "dateAdded": "2024-02-23T17:35:02.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/cSQuI0yh6Dx",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-02-23T17:35:02.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/UOumTdcBzU7",
+    "label": "Template for prompt: un modal donde pida al usuario preguntas de datos personales, como nombre, direccion, telefono, genero",
+    "dateAdded": "2024-02-23T17:35:02.864Z"
+  },
+  {
+    "url": "https://v0.dev/t/cTTYVo9WXND",
+    "label": "Template for prompt: Write me a account management page that contains the user email and then some privacy policies. It has two different settings for privacy policies: one for image uploaded and another for images generated. The values can be daily, weekly, monthly or each three months.\n\nthe email is read only",
+    "dateAdded": "2024-02-23T17:35:02.865Z"
+  },
+  {
+    "url": "https://v0.dev/t/CDcCanWZ4fd",
+    "label": "Template for prompt: A 3D loading section mave using rive animations, for a Data Scientist Portfolio. It should be awesome and clear.",
+    "dateAdded": "2024-02-23T17:35:02.865Z"
+  },
+  {
+    "url": "https://v0.dev/t/b4gca1v7F8V",
+    "label": "Template for prompt: a live transcription app that records audio, it should show a new line for each sentence of the transcription and have controls for pausing / starting / existing the recording",
+    "dateAdded": "2024-02-23T17:35:02.865Z"
+  },
+  {
+    "url": "https://v0.dev/t/dIqGl2twyuf",
+    "label": "Template for prompt: A company organize PE level Hack-a-thon yearly basic to find and implement some best out of box ideas. Currently everything is manual from idea submission to evaluation and involves Excel and email. \n\nThe objective is to build a web application to make this Hack-a-thon event fully automated from idea submission to top 3 idea selection. With the help of this application, interested participants can submit their ideas. Same will be implemented once selected and evaluated. \n\nTechnical Stack to be used (at least but not limiting to)\n•\tJava 11 - Multithreading, JSP (HTML5, CSS, JS), Collections, Properties and XML files\n•\tReactJS - UI Development, User Authentication, API Management\n•\tGitHub, Spring MVC/Boot Framework\n•\tMySQL/ Oracle/ MongoDB - Basic SQL Operations\n•\tRest API - Calling Existing Open API and creating customized API (If required)\n•\tLogging Framework – Extension\nHigh level functionality to be implemented\n•\tRole management (Three roles – participants, panelists, judges; SSO pre",
+    "dateAdded": "2024-02-23T17:35:02.865Z"
+  },
+  {
+    "url": "https://v0.dev/t/1QLZuA5uKgT",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-23T17:35:02.865Z"
+  },
+  {
+    "url": "https://v0.dev/t/u3asTO0qASa",
+    "label": "Template for prompt: login page ",
+    "dateAdded": "2024-02-23T17:35:02.865Z"
+  },
+  {
+    "url": "https://v0.dev/t/PaKBcQ1lfsG",
+    "label": "Template for prompt: A edit page for mobile recharge platform",
+    "dateAdded": "2024-02-23T17:35:02.865Z"
+  },
+  {
+    "url": "https://v0.dev/t/sRh7E0GZti5",
+    "label": "Template for prompt: Online forum",
+    "dateAdded": "2024-02-23T17:35:02.865Z"
+  },
+  {
+    "url": "https://v0.dev/t/dmeGh0nYlrv",
+    "label": "Template for prompt: Tela de consultorio para chamar os pacientes por ordem de chegada",
+    "dateAdded": "2024-02-23T17:35:02.865Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZCbC7o5OmqZ",
+    "label": "Template for prompt: چطوری یه سرور رایگان برای تست ربات تلگرامی پیدا کنم ",
+    "dateAdded": "2024-02-23T17:35:02.865Z"
+  },
+  {
+    "url": "https://v0.dev/t/lsP5mNFeUp6",
+    "label": "Template for prompt: Bana Konuşmak İçin Bir Yapay Zeka Oluştur Alt Kısımda Mesaj Yaz Kısmı Olsun Ve Sol Üst Köşede Kullanıcı Adı Olarak Elnur Yazılsın ",
+    "dateAdded": "2024-02-23T17:35:02.865Z"
+  },
+  {
+    "url": "https://v0.dev/t/MuSqgq7kvji",
+    "label": "Template for prompt: A company organize PE level Hack-a-thon yearly basic to find and implement some best out of box ideas. Currently everything is manual from idea submission to evaluation and involves Excel and email. \n\nThe objective is to build a web application to make this Hack-a-thon event fully automated from idea submission to top 3 idea selection. With the help of this application, interested participants can submit their ideas. Same will be implemented once selected and evaluated. \n\nTechnical Stack to be used (at least but not limiting to)\n•\tJava 11 - Multithreading, JSP (HTML5, CSS, JS), Collections, Properties and XML files\n•\tReactJS - UI Development, User Authentication, API Management\n•\tGitHub, Spring MVC/Boot Framework\n•\tMySQL/ Oracle/ MongoDB - Basic SQL Operations\n•\tRest API - Calling Existing Open API and creating customized API (If required)\n•\tLogging Framework – Extension\nHigh level functionality to be implemented\n•\tRole management (Three roles – participants, panelists, judges; SSO pre",
+    "dateAdded": "2024-02-23T17:35:02.865Z"
   }
 ]
