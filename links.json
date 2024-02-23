@@ -10443,5 +10443,135 @@
     "url": "https://v0.dev/t/VwKKb7RixJf",
     "label": "Template for prompt: GitaGPT is designed to provide individuals with personalized spiritual insights and guidance based on their unique needs and circumstances. The platform will feature a variety of tools and resources, including a chatbot, a meditation guide, and a library of spiritual teachings.\nWe are looking for a UI designer who can create a visually appealing and user-friendly interface for GitaGPT. The UI should be intuitive and easy to navigate, and it should reflect the platform's focus on spirituality and personal growth.\nWe have compiled a list of 100-word prompts that describe the desired look and feel of the GitaGPT UI. These prompts cover a wide range of topics, including the overall design aesthetic, the layout and organization of elements, and the use of colors and typography.",
     "dateAdded": "2024-02-23T18:15:03.801Z"
+  },
+  {
+    "url": "https://v0.dev/t/gPiNcZRLSyu",
+    "label": "Template for prompt: A landing page for a Resume builder",
+    "dateAdded": "2024-02-23T18:20:03.266Z"
+  },
+  {
+    "url": "https://v0.dev/t/RlgMXulkstx",
+    "label": "Template for prompt: Create a customizable dashboard app using React, where users can add, remove, and rearrange various images on the screen. \n\nCore Features:\nDynamic Module System: Implement a system that allows users to add predefined module images as in the attached layout jpeg image. \n\nDrag-and-Drop Layout: Users should be able to rearrange images on the dashboard using drag-and-drop functionality. The layout should be responsive to ensure usability across various device sizes.\n\nPersistent Configuration: The layout configuration (in which images are present, their order, and any customization options) should be saved to localStorage to retain their setup across sessions.\n\nModule Customization: Allow basic customization of images, such as",
+    "dateAdded": "2024-02-23T18:20:03.267Z"
+  },
+  {
+    "url": "https://v0.dev/t/YhQuZmEZVn4",
+    "label": "Template for prompt: A chat history column that contains a list of buttons holding a small bit of text that describes the summary of the chat. The column will be displayed next to a chatbox component. ",
+    "dateAdded": "2024-02-23T18:20:03.267Z"
+  },
+  {
+    "url": "https://v0.dev/t/Glse1WBq42w",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-23T18:20:03.267Z"
+  },
+  {
+    "url": "https://v0.dev/t/6jY4vvtFAiW",
+    "label": "Template for prompt: Recreate this using a light background and simpler black and white colours",
+    "dateAdded": "2024-02-23T18:20:03.267Z"
+  },
+  {
+    "url": "https://v0.dev/t/XnezyYGgLvq",
+    "label": "Template for prompt: project modal",
+    "dateAdded": "2024-02-23T18:20:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/R7FmkuIderH",
+    "label": "Template for prompt: create a main dashboard page for the user/voter of an online school council election sytem, the dasboard page should include:\n- show different 3 candidates names under different/each categories like: head boy, head girl, cultural head girl, cultural head boy along with their photos, their manifestos, and a tick box option to vote for them \n- submit vote button",
+    "dateAdded": "2024-02-23T18:20:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/MmIuMM2t0Hr",
+    "label": "Template for prompt: a page to add products with name, quantity and stock room with a drag drop menu of StockR1 and StockR2. I want the theme to be red and white. I need a nav bar with home and name of page 'PantherStocks'",
+    "dateAdded": "2024-02-23T18:20:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/xVBBUTsLS7U",
+    "label": "Template for prompt: A search engine website is a digital platform designed to help users find information on the World Wide Web. By entering keywords or phrases into the search engine's query box, users can retrieve a wide array of information related to their search terms. These results are typically presented in the form of a list, often referred to as search engine results pages (SERPs), which may include web pages, images, videos, and other types of files.\n\nThe core functionality of a search engine website lies in its ability to index millions to billions of web pages in its database. It uses complex algorithms to rank these pages based on relevance to the user's query, the quality of content, the authority of the website, and many other factors. The aim is to provide the most accurate and useful information possible to the user in a matter of seconds.\n\nSearch engine websites often offer additional features to enhance the user experience, such as advanced search options that allow users to narrow down",
+    "dateAdded": "2024-02-23T18:20:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z8FDuc9yyHZ",
+    "label": "Template for prompt: Create different pills with different colors",
+    "dateAdded": "2024-02-23T18:20:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/mFAmGtTzMS8",
+    "label": "Template for prompt: custom ai for business solution section",
+    "dateAdded": "2024-02-23T18:20:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/daQdtwTz5ks",
+    "label": "Template for prompt: create a 404 page",
+    "dateAdded": "2024-02-23T18:20:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/YpXGZANVSpp",
+    "label": "Template for prompt: i need the code for this page please. its a card component. make sure to get the font formatting and sizes",
+    "dateAdded": "2024-02-23T18:20:03.268Z"
+  },
+  {
+    "url": "https://v0.dev/t/2rKwnxAtNWq",
+    "label": "Template for prompt: Create a button with gradient border around it and when i hover over the button it should also provide transition for the background color as well, and the button text should say \"Learn More\"",
+    "dateAdded": "2024-02-23T18:20:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/WxBQwWGi2Gj",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-23T18:20:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/gR91DVDtWnt",
+    "label": "Template for prompt: sale tracker",
+    "dateAdded": "2024-02-23T18:20:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/xGT7eRlfWOe",
+    "label": "Template for prompt: medical advice writer",
+    "dateAdded": "2024-02-23T18:20:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/3NU3hSSULuh",
+    "label": "Template for prompt: orders, style dashboard, mobile",
+    "dateAdded": "2024-02-23T18:20:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/8phZnAeY5hZ",
+    "label": "Template for prompt: custom bot solution section",
+    "dateAdded": "2024-02-23T18:20:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/wgjriiuAAtB",
+    "label": "Template for prompt: A Range Bound Stability page for a DApp that has two grid columns with the data snapshot on the left and the amount pickers on the right",
+    "dateAdded": "2024-02-23T18:20:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/iLHidUpP8OP",
+    "label": "Template for prompt: Give me e commerce website full ",
+    "dateAdded": "2024-02-23T18:20:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/1x3N2K2Bwgr",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T18:20:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/W2xD7h5DQYp",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T18:20:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/eRGV1l1KmoZ",
+    "label": "Template for prompt: admin dashboard layout",
+    "dateAdded": "2024-02-23T18:20:03.269Z"
+  },
+  {
+    "url": "https://v0.dev/t/She7h2N7Tov",
+    "label": "Template for prompt: create a hero section for a restaurant",
+    "dateAdded": "2024-02-23T18:20:03.270Z"
+  },
+  {
+    "url": "https://v0.dev/t/MoXkmyreAQE",
+    "label": "Template for prompt: ecommerce website page with topbar and side bar have filter products with price color size for men women and kids. and in the main page all products have shown with product card have title description price buy button. also make the footer",
+    "dateAdded": "2024-02-23T18:20:03.270Z"
   }
 ]
