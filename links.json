@@ -6743,5 +6743,130 @@
     "url": "https://v0.dev/t/5DV3eiHwVhi",
     "label": "Template for prompt: A landing page for a property investment company",
     "dateAdded": "2024-02-23T15:50:03.240Z"
+  },
+  {
+    "url": "https://v0.dev/t/jzsTHH2Qm5x",
+    "label": "Template for prompt: Hero section for portfolio personal website with centered elements",
+    "dateAdded": "2024-02-23T15:55:02.204Z"
+  },
+  {
+    "url": "https://v0.dev/t/KpOdsjjqYFo",
+    "label": "Template for prompt: a beautiful, elegant, minimal app that lets a logged in user see the books they want to read or what they've rated books already read",
+    "dateAdded": "2024-02-23T15:55:02.204Z"
+  },
+  {
+    "url": "https://v0.dev/t/hUdsXphzkc0",
+    "label": "Template for prompt: landing page for online courses",
+    "dateAdded": "2024-02-23T15:55:02.204Z"
+  },
+  {
+    "url": "https://v0.dev/t/uWRJJwyVhU2",
+    "label": "Template for prompt: A mobile user lobby for an educational game",
+    "dateAdded": "2024-02-23T15:55:02.204Z"
+  },
+  {
+    "url": "https://v0.dev/t/FBnFhil7i51",
+    "label": "Template for prompt: maquetame esta pantalla",
+    "dateAdded": "2024-02-23T15:55:02.204Z"
+  },
+  {
+    "url": "https://v0.dev/t/PNArZDsEndE",
+    "label": "Template for prompt: Awesome CSS Border Animation & Image Effects ",
+    "dateAdded": "2024-02-23T15:55:02.204Z"
+  },
+  {
+    "url": "https://v0.dev/t/iv7H1e1XtCB",
+    "label": "Template for prompt: I want an individual invoice/order layout that shows multiple products, quanity, unit price, total price. Additionally, it shows the status of the payment(s) and related transactions.",
+    "dateAdded": "2024-02-23T15:55:02.204Z"
+  },
+  {
+    "url": "https://v0.dev/t/EAymLaTTFIj",
+    "label": "Template for prompt: Design an accordian with Edit and Add icons",
+    "dateAdded": "2024-02-23T15:55:02.204Z"
+  },
+  {
+    "url": "https://v0.dev/t/7Rfvjnvlgks",
+    "label": "Template for prompt: an faq page for a crypto art marketplace",
+    "dateAdded": "2024-02-23T15:55:02.204Z"
+  },
+  {
+    "url": "https://v0.dev/t/IXEsN72EIqM",
+    "label": "Template for prompt: A responsive chat/messages page containing a sidebar on messages on the right side.",
+    "dateAdded": "2024-02-23T15:55:02.205Z"
+  },
+  {
+    "url": "https://v0.dev/t/zlEGib1vClj",
+    "label": "Template for prompt: Create me a page to schedule workflows. It should include play symbol pause symbol and should be like a table. Clean and minimalistic",
+    "dateAdded": "2024-02-23T15:55:02.205Z"
+  },
+  {
+    "url": "https://v0.dev/t/jwYJB5fFGCY",
+    "label": "Template for prompt: a table that contains three columns, input signal, a temperature range and output signal using shadcn",
+    "dateAdded": "2024-02-23T15:55:02.205Z"
+  },
+  {
+    "url": "https://v0.dev/t/VxjKGbigjXc",
+    "label": "Template for prompt: a marketplace header",
+    "dateAdded": "2024-02-23T15:55:02.205Z"
+  },
+  {
+    "url": "https://v0.dev/t/H3oHMbFfuVz",
+    "label": "Template for prompt: I need an admin page for managing an individual order with order items, associated invoices, and payments. Ability to request payment, mark order paid, and issue refund is important too.",
+    "dateAdded": "2024-02-23T15:55:02.205Z"
+  },
+  {
+    "url": "https://v0.dev/t/3jmqeueROwd",
+    "label": "Template for prompt: landing page UI for a real estate company. modern, minimalistic, premium dark theme",
+    "dateAdded": "2024-02-23T15:55:02.205Z"
+  },
+  {
+    "url": "https://v0.dev/t/oAqtay2RRxK",
+    "label": "Template for prompt: make me a cv website",
+    "dateAdded": "2024-02-23T15:55:02.205Z"
+  },
+  {
+    "url": "https://v0.dev/t/73SVFoMRJXw",
+    "label": "Template for prompt: a table that contains three columns, input signal, a temperature range and output signal",
+    "dateAdded": "2024-02-23T15:55:02.205Z"
+  },
+  {
+    "url": "https://v0.dev/t/HC7uE5rbJbF",
+    "label": "Template for prompt: give me dropdown button",
+    "dateAdded": "2024-02-23T15:55:02.205Z"
+  },
+  {
+    "url": "https://v0.dev/t/by9j6CkL9fI",
+    "label": "Template for prompt: creat a software to manage a veterinary clinic. It has to have a medical records history, a section to add a new client, etc",
+    "dateAdded": "2024-02-23T15:55:02.205Z"
+  },
+  {
+    "url": "https://v0.dev/t/0sbNgc91BLg",
+    "label": "Template for prompt: give a website like the above on which is compactible with mobile view",
+    "dateAdded": "2024-02-23T15:55:02.205Z"
+  },
+  {
+    "url": "https://v0.dev/t/PtHmD7LcFMJ",
+    "label": "Template for prompt: a search bar",
+    "dateAdded": "2024-02-23T15:55:02.205Z"
+  },
+  {
+    "url": "https://v0.dev/t/uohYwe5fnnq",
+    "label": "Template for prompt: create user card with this fields \n\n  id: number;\n  email: string;\n  login: string;\n  password: string;\n  firstName: string;\n  lastName: string;\n  role: ProfileRole;\n  country: {\n    id: number;\n    label: string;\n    code: string;\n  };",
+    "dateAdded": "2024-02-23T15:55:02.205Z"
+  },
+  {
+    "url": "https://v0.dev/t/IctAs8SUwNr",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-02-23T15:55:02.205Z"
+  },
+  {
+    "url": "https://v0.dev/t/3au7taQ8y5Z",
+    "label": "Template for prompt: create a chat ui, where have a input for send message for ai, in bottom and butthon to send and up have a field for show response",
+    "dateAdded": "2024-02-23T15:55:02.205Z"
+  },
+  {
+    "url": "https://v0.dev/t/Sq3Aczivi5J",
+    "label": "Template for prompt: create a netflix website",
+    "dateAdded": "2024-02-23T15:55:02.205Z"
   }
 ]
