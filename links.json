@@ -6363,5 +6363,125 @@
     "url": "https://v0.dev/t/0uhNBPwC5UG",
     "label": "Template for prompt: Grocery website",
     "dateAdded": "2024-02-23T15:35:03.112Z"
+  },
+  {
+    "url": "https://v0.dev/t/A0uVHXTJa6W",
+    "label": "Template for prompt: accordion",
+    "dateAdded": "2024-02-23T15:40:03.260Z"
+  },
+  {
+    "url": "https://v0.dev/t/aHHmVmRyQoD",
+    "label": "Template for prompt: Ongoing Call details display",
+    "dateAdded": "2024-02-23T15:40:03.260Z"
+  },
+  {
+    "url": "https://v0.dev/t/Kx7LUdWZirS",
+    "label": "Template for prompt: a minimal, floating, minimisable file tree selector",
+    "dateAdded": "2024-02-23T15:40:03.260Z"
+  },
+  {
+    "url": "https://v0.dev/t/wtdxDuhHUse",
+    "label": "Template for prompt: i have this color fade going on and i want a sleek clean looking button or animated button to appear here to take the user to the strart free trial page. make it look professional and inovative, dont change colours of background but make the button fit in nicely with the backgorund ",
+    "dateAdded": "2024-02-23T15:40:03.260Z"
+  },
+  {
+    "url": "https://v0.dev/t/33XZ5mFk2hD",
+    "label": "Template for prompt: Next, focus on the landing page: design a visually appealing layout that effectively communicates the value proposition of the SaaS product. Include eye-catching graphics, concise copy, and a clear call-to-action to encourage user engagement.",
+    "dateAdded": "2024-02-23T15:40:03.260Z"
+  },
+  {
+    "url": "https://v0.dev/t/dDyvWjFfoMC",
+    "label": "Template for prompt: portpolio for game designer",
+    "dateAdded": "2024-02-23T15:40:03.260Z"
+  },
+  {
+    "url": "https://v0.dev/t/qgab2uzTYsD",
+    "label": "Template for prompt: login page for cybersecurity saas admin",
+    "dateAdded": "2024-02-23T15:40:03.260Z"
+  },
+  {
+    "url": "https://v0.dev/t/RW7JA5KpgMm",
+    "label": "Template for prompt: Create code for above and write tailwindcss",
+    "dateAdded": "2024-02-23T15:40:03.260Z"
+  },
+  {
+    "url": "https://v0.dev/t/ISwn6Yjc9KR",
+    "label": "Template for prompt: give me input slider component with double range for prices intervals, from 0$ to 1000$ with steps of 5$, when user clicks in the middle of the range focus on the most near input\nthe input slider must to handle minimum values and maximum values \nthe input slider should handle clicks in the middle of the range\nif user clicks in the middle of the range try to use the slider closer to the clicked location",
+    "dateAdded": "2024-02-23T15:40:03.260Z"
+  },
+  {
+    "url": "https://v0.dev/t/IqIPZpvIUTL",
+    "label": "Template for prompt: make a navbar using shadcn",
+    "dateAdded": "2024-02-23T15:40:03.260Z"
+  },
+  {
+    "url": "https://v0.dev/t/iJ8yJptFi8w",
+    "label": "Template for prompt: An upload page ",
+    "dateAdded": "2024-02-23T15:40:03.260Z"
+  },
+  {
+    "url": "https://v0.dev/t/I2ho1yhGTRf",
+    "label": "Template for prompt: create bankin help page",
+    "dateAdded": "2024-02-23T15:40:03.260Z"
+  },
+  {
+    "url": "https://v0.dev/t/oZk0ShNlK5c",
+    "label": "Template for prompt: create bankin help page",
+    "dateAdded": "2024-02-23T15:40:03.261Z"
+  },
+  {
+    "url": "https://v0.dev/t/nCxvdhFE6m0",
+    "label": "Template for prompt: A card component",
+    "dateAdded": "2024-02-23T15:40:03.261Z"
+  },
+  {
+    "url": "https://v0.dev/t/Gj2HPWSAsap",
+    "label": "Template for prompt: Create banking help page",
+    "dateAdded": "2024-02-23T15:40:03.261Z"
+  },
+  {
+    "url": "https://v0.dev/t/FSgGiHHZsHY",
+    "label": "Template for prompt: login page",
+    "dateAdded": "2024-02-23T15:40:03.261Z"
+  },
+  {
+    "url": "https://v0.dev/t/3EKxjULm51F",
+    "label": "Template for prompt: create me a similar page to youtube with a duck logo",
+    "dateAdded": "2024-02-23T15:40:03.261Z"
+  },
+  {
+    "url": "https://v0.dev/t/p0QYCHsVn4O",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-02-23T15:40:03.261Z"
+  },
+  {
+    "url": "https://v0.dev/t/ovibP6gdIXZ",
+    "label": "Template for prompt: Improve the css code. 'use client';\n\nimport { Input } from '@/components/ui/input';\nimport { useChat } from 'ai/react';\n\nexport default function Chat() {\n  const { messages, input, handleInputChange, handleSubmit } = useChat();\n  return (\n    <div className='flex w-full'>\n      {messages.map((m) => (\n        <div\n          key={m.id}\n          className='whitespace-pre-wrap text-[#E1BBC9] w-full'\n        >\n          {m.role === 'user' ? 'Pema Wangchuk: ' : 'FalconAI: '}\n          <span className='text-justify mx-4'>{m.content}</span>\n        </div>\n      ))}\n\n      <form onSubmit={handleSubmit}>\n        <Input\n          className='fixed bottom-0  text-white w-full max-w-md p-8 mb-8 border border-green-600 rounded shadow-xl'\n          value={input}\n          placeholder='Ask Any Question...'\n          onChange={handleInputChange}\n        />\n      </form>\n    </div>\n  );\n}\n",
+    "dateAdded": "2024-02-23T15:40:03.261Z"
+  },
+  {
+    "url": "https://v0.dev/t/Lw4O8StXxVP",
+    "label": "Template for prompt: Improve the css code. 'use client';\n\nimport { Input } from '@/components/ui/input';\nimport { useChat } from 'ai/react';\n\nexport default function Chat() {\n  const { messages, input, handleInputChange, handleSubmit } = useChat();\n  return (\n    <div className='flex w-full'>\n      {messages.map((m) => (\n        <div\n          key={m.id}\n          className='whitespace-pre-wrap text-[#E1BBC9] w-full'\n        >\n          {m.role === 'user' ? 'Pema Wangchuk: ' : 'FalconAI: '}\n          <span className='text-justify mx-4'>{m.content}</span>\n        </div>\n      ))}\n\n      <form onSubmit={handleSubmit}>\n        <Input\n          className='fixed bottom-0  text-white w-full max-w-md p-8 mb-8 border border-green-600 rounded shadow-xl'\n          value={input}\n          placeholder='Ask Any Question...'\n          onChange={handleInputChange}\n        />\n      </form>\n    </div>\n  );\n}\n",
+    "dateAdded": "2024-02-23T15:40:03.261Z"
+  },
+  {
+    "url": "https://v0.dev/t/sELP0PUT4Fp",
+    "label": "Template for prompt: design a note taking app. On this app, there is a central input field where I can take notes. Once I jolted down a note, the note becomes a card on the page. More notes make up a grid of card. Design on each a card a microinteraction to associate the card to a lsit of dynamic categories",
+    "dateAdded": "2024-02-23T15:40:03.261Z"
+  },
+  {
+    "url": "https://v0.dev/t/rzF1pEBMATL",
+    "label": "Template for prompt: give me a double range slider, when user clicks in the middle of the range focus on the most near input",
+    "dateAdded": "2024-02-23T15:40:03.261Z"
+  },
+  {
+    "url": "https://v0.dev/t/cnReMgVbPHL",
+    "label": "Template for prompt: An app to build historical timelines. It shows a set of projects. Each project contains a timeline, and one can display and add events (attached to one date), or perdods (attached to two dates) to the timeline\n",
+    "dateAdded": "2024-02-23T15:40:03.261Z"
+  },
+  {
+    "url": "https://v0.dev/t/gg1EIy0S2JE",
+    "label": "Template for prompt: like this",
+    "dateAdded": "2024-02-23T15:40:03.261Z"
   }
 ]
