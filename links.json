@@ -7498,5 +7498,135 @@
     "url": "https://v0.dev/t/m6ECPcNOlOo",
     "label": "Template for prompt: Create a permissions page which shows permissions for different roles \n\n[PERMISSION.BILLING]: {\n    [OP.READ]: [owner, admin, developer, member, viewer],\n    [OP.WRITE]: [owner, admin],\n  },\n  [PERMISSION.ORG_SETTINGS]: {\n    [OP.READ]: [owner, admin, developer, member, viewer],\n    [OP.WRITE]: [owner, admin, developer, member],\n  },\n  [PERMISSION.USERS]: {\n    [OP.READ]: [owner, admin, developer, member, viewer],\n    [OP.WRITE]: [owner, admin],\n  },\n  [PERMISSION.PAYMENT_PROVIDER]: {\n    [OP.READ]: [owner, admin, developer, member, viewer],\n    [OP.WRITE]: [owner, admin],\n  },\n  [PERMISSION.CUSTOM_DOMAIN]: {\n    [OP.READ]: [owner, admin, developer, member, viewer],\n    [OP.WRITE]: [owner, admin, developer],\n  },\n  [PERMISSION.CANCEL_FLOWS]: {\n    [OP.READ]: [owner, admin, developer, member, viewer],\n    [OP.WRITE]: [owner, admin, developer, member],\n  },\n  [PERMISSION.DUNNING_CAMPAIGNS]: {\n    [OP.READ]: [owner, admin, developer, member, viewer],\n    [OP.WRITE]: [owner, admin],\n  },\n ",
     "dateAdded": "2024-02-23T16:20:02.548Z"
+  },
+  {
+    "url": "https://v0.dev/t/acjM7m1Axw6",
+    "label": "Template for prompt: need this design with tailwind css without component libary",
+    "dateAdded": "2024-02-23T16:25:02.199Z"
+  },
+  {
+    "url": "https://v0.dev/t/9obVBfk9xL7",
+    "label": "Template for prompt: A dashboard with an upper section that monitors the amount of support requests by topic, the average time to resolve, and the collaboration in the company to resolve the issue. \nBeneath the graphs and the BI part there is a feed of slack messages of people who helped resolve issues",
+    "dateAdded": "2024-02-23T16:25:02.199Z"
+  },
+  {
+    "url": "https://v0.dev/t/oPS5PBmFobn",
+    "label": "Template for prompt: A dashboard with a slidebar and table",
+    "dateAdded": "2024-02-23T16:25:02.199Z"
+  },
+  {
+    "url": "https://v0.dev/t/mxj75hPGk4e",
+    "label": "Template for prompt: create navbar with searchbar and favirite icon and shop icon ",
+    "dateAdded": "2024-02-23T16:25:02.199Z"
+  },
+  {
+    "url": "https://v0.dev/t/jW6IznKQMGY",
+    "label": "Template for prompt: Card list with menu header (menu has 2 sides one with create button and 2 icon buttons to sort and filter and one is empty) Card list renders multiple cards with title description and a bottom row for metadata",
+    "dateAdded": "2024-02-23T16:25:02.200Z"
+  },
+  {
+    "url": "https://v0.dev/t/JFqYShymKK4",
+    "label": "Template for prompt: Make a nicely styled list with these items for our weekly engineering call \n- Ignacio\n\t- Paddle - done!\n\t- Onboarding updates for dunning - in progress\n- Mert\n\t- Data for industry leader content - done!\n\t- V0 of product feedback - done and iterating\n- Rob\n\t- SOC-2 Least privilege access\n\t\t- Snowflake DB key permissions\n\t\t- Github permissions - let me know if you have problems\n\t- Customer data export - done!\n\t- Updated user permissions - in progress",
+    "dateAdded": "2024-02-23T16:25:02.200Z"
+  },
+  {
+    "url": "https://v0.dev/t/l3MHhnzPVeL",
+    "label": "Template for prompt: screen with list of chats with different people and the user's avatar",
+    "dateAdded": "2024-02-23T16:25:02.200Z"
+  },
+  {
+    "url": "https://v0.dev/t/7s4FuDLAzwp",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T16:25:02.200Z"
+  },
+  {
+    "url": "https://v0.dev/t/q6NiurUXSKJ",
+    "label": "Template for prompt: an input with a dropdown search function with a create new button",
+    "dateAdded": "2024-02-23T16:25:02.200Z"
+  },
+  {
+    "url": "https://v0.dev/t/NBiDboUyQb5",
+    "label": "Template for prompt: search icon that expands onclick to an search input",
+    "dateAdded": "2024-02-23T16:25:02.200Z"
+  },
+  {
+    "url": "https://v0.dev/t/tA2hiiqK8C1",
+    "label": "Template for prompt: A shopping cart page for a cocktails webshop",
+    "dateAdded": "2024-02-23T16:25:02.200Z"
+  },
+  {
+    "url": "https://v0.dev/t/UzBW1TDcPvJ",
+    "label": "Template for prompt: a product comparison site with a headline and a subline. underneath a big search field and a search button. \nafter pressing the button a list with the results appears - every item has a title a subline a decription and a picture on the left on the right there is a price and a button \"add to cart\"",
+    "dateAdded": "2024-02-23T16:25:02.200Z"
+  },
+  {
+    "url": "https://v0.dev/t/D3nEeXOkZvH",
+    "label": "Template for prompt: A flight ticket booking confirmation email",
+    "dateAdded": "2024-02-23T16:25:02.200Z"
+  },
+  {
+    "url": "https://v0.dev/t/hYv89okN8vj",
+    "label": "Template for prompt: write me  a portfolia website",
+    "dateAdded": "2024-02-23T16:25:02.201Z"
+  },
+  {
+    "url": "https://v0.dev/t/3dnj5oyaM4v",
+    "label": "Template for prompt: make this design in context with AI pc assistant which shows three options voice, chat ,roleplay",
+    "dateAdded": "2024-02-23T16:25:02.201Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zseo7Ro6Ww2",
+    "label": "Template for prompt: chat app screen with message list and user avatar",
+    "dateAdded": "2024-02-23T16:25:02.201Z"
+  },
+  {
+    "url": "https://v0.dev/t/ad86vqoU1mh",
+    "label": "Template for prompt: home page for a boardgame tournament website and a betting website",
+    "dateAdded": "2024-02-23T16:25:02.201Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZDyfYV4kaIK",
+    "label": "Template for prompt: Create a nicely styled summary list of these items for our weekly engineering call\n\n Ignacio\n\t- Paddle - done!\n\t- Onboarding updates for dunning - in progress\n- Mert\n\t- Data for industry leader content - done!\n\t- V0 of product feedback - done and iterating\n- Rob\n\t- SOC-2 Least privilege access\n\t\t- Snowflake DB key permissions\n\t\t- Github permissions - let me know if you have problems\n\t- Customer data export - done!\n\t- Updated user permissions - in progress",
+    "dateAdded": "2024-02-23T16:25:02.201Z"
+  },
+  {
+    "url": "https://v0.dev/t/yaMqLYxr1qw",
+    "label": "Template for prompt: A contact page with github, linkedin and email links. Should include a form to send project inquiries, with budget ranges, project description, contact email, name and anything else that is appropriate",
+    "dateAdded": "2024-02-23T16:25:02.201Z"
+  },
+  {
+    "url": "https://v0.dev/t/XKTqetPO8B8",
+    "label": "Template for prompt: To create a landing page design that encapsulates all these services, we'll need to craft a detailed prompt that conveys the essence of each service in a visually engaging way. The landing page will be designed to showcase your extensive range of services in software development, cloud computing, CI/CD, code quality, programming support, testing, performance optimization, AI and ML advisory, leadership, refactoring, and educational workshops.\n\nThe design will include sections for each service, integrating visual elements that resonate with each theme. For instance, cloud computing might be represented with cloud imagery and a modern, sleek design; CI/CD implementation can be symbolized by interconnected gears or pipelines; programming support can include icons or imagery of the various programming languages; AI and ML advisory can feature futuristic or tech-inspired visuals; and the section on leadership and strategic planning can have a more corporate, professional look.",
+    "dateAdded": "2024-02-23T16:25:02.201Z"
+  },
+  {
+    "url": "https://v0.dev/t/mJAA7vNLetO",
+    "label": "Template for prompt: create navbar with searchbar and favirite icon and shop icon ",
+    "dateAdded": "2024-02-23T16:25:02.201Z"
+  },
+  {
+    "url": "https://v0.dev/t/UWRgt1asGij",
+    "label": "Template for prompt: need a webiste like this the structure should be looks like this and the theme should be change and also the deign",
+    "dateAdded": "2024-02-23T16:25:02.201Z"
+  },
+  {
+    "url": "https://v0.dev/t/T2U7Pjmxs9X",
+    "label": "Template for prompt: For the pricing page: create a structured pricing table that outlines different subscription plans and their respective features. Use clear pricing tiers and highlight the benefits of each plan to help users make informed decisions.",
+    "dateAdded": "2024-02-23T16:25:02.201Z"
+  },
+  {
+    "url": "https://v0.dev/t/FPd5AtzZCmw",
+    "label": "Template for prompt: A Users dashboard for my SaaS app",
+    "dateAdded": "2024-02-23T16:25:02.202Z"
+  },
+  {
+    "url": "https://v0.dev/t/occZmXSUUk3",
+    "label": "Template for prompt: Make a page like this ",
+    "dateAdded": "2024-02-23T16:25:02.202Z"
+  },
+  {
+    "url": "https://v0.dev/t/qowFqsd9sDp",
+    "label": "Template for prompt: A patient management UI, with a side bar that has \"Previous consultations\"",
+    "dateAdded": "2024-02-23T16:25:02.202Z"
   }
 ]
