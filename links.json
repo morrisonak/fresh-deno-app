@@ -3068,5 +3068,130 @@
     "url": "https://v0.dev/t/V030x22EV0m",
     "label": "Template for prompt: A login page with and enter username box, enter password box, login button and create account button on top of the page have a picture slideshow. ",
     "dateAdded": "2024-02-23T02:20:02.590Z"
+  },
+  {
+    "url": "https://v0.dev/t/JqQYBtHMizq",
+    "label": "Template for prompt: A centered container with grid of cards in a page. And a featured section, 1 column of cards on the left side of the centered container",
+    "dateAdded": "2024-02-23T02:25:02.866Z"
+  },
+  {
+    "url": "https://v0.dev/t/qd2Ym41JNiK",
+    "label": "Template for prompt: List where you can view rtsp on the web",
+    "dateAdded": "2024-02-23T02:25:02.866Z"
+  },
+  {
+    "url": "https://v0.dev/t/AgVr83ZdeEm",
+    "label": "Template for prompt: make a and responsive and  color neon ",
+    "dateAdded": "2024-02-23T02:25:02.866Z"
+  },
+  {
+    "url": "https://v0.dev/t/9MU1NqDbTiQ",
+    "label": "Template for prompt: Use typescript ",
+    "dateAdded": "2024-02-23T02:25:02.866Z"
+  },
+  {
+    "url": "https://v0.dev/t/dIZYd7YCCH8",
+    "label": "Template for prompt: A news card ",
+    "dateAdded": "2024-02-23T02:25:02.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/KjoxoXtrgoS",
+    "label": "Template for prompt: Create a news homepage with a top section like this",
+    "dateAdded": "2024-02-23T02:25:02.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/kAZa2lHDIC3",
+    "label": "Template for prompt: A gym landing page called fit-pair with a menu consists of \"Home, Download, About App, Shop, Rewards, Contact Us, Terms, FAQs\" with animation",
+    "dateAdded": "2024-02-23T02:25:02.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/i71BdRKtxlX",
+    "label": "Template for prompt: 请生成对应的页面",
+    "dateAdded": "2024-02-23T02:25:02.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/gSy23LFJ7A4",
+    "label": "Template for prompt: A chat dialog",
+    "dateAdded": "2024-02-23T02:25:02.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/oD3lhi06RlD",
+    "label": "Template for prompt: profile header card",
+    "dateAdded": "2024-02-23T02:25:02.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/657PG2CXJas",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-02-23T02:25:02.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/GYFSCKQIhnm",
+    "label": "Template for prompt: a tiptap editor",
+    "dateAdded": "2024-02-23T02:25:02.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZibxBW7ZF4H",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T02:25:02.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/iQnJjhvt2EK",
+    "label": "Template for prompt: business card component with a persons contact information and job title and name and icon",
+    "dateAdded": "2024-02-23T02:25:02.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/xXytWDZanJD",
+    "label": "Template for prompt: Personal Details: Player's name, date of birth, contact information.\nPlayer Photo: A visual representation of the player.\nTeam Affiliation: The team(s) the player is associated with.\nStatistics: Performance metrics, achievements, and historical data.\nBio/Career Summary: A brief overview of the player's sports career.\nMatch History: Record of past matches, scores, and contributions.\nInjury History: If applicable, details of any injuries sustained.\nTeam Role/Position: Player's position and role within the team.\nSocial Media Links: Optional, for connecting with fans and followers.\nPlayer's Preferences: Any relevant personal preferences or details.\nMake an players profile page for website ",
+    "dateAdded": "2024-02-23T02:25:02.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/NYuNOaWbRHx",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-23T02:25:02.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/jJhpmVYQu7U",
+    "label": "Template for prompt: sidebar rayout",
+    "dateAdded": "2024-02-23T02:25:02.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/7Xz08TnX4ar",
+    "label": "Template for prompt: I need highlights / tour dates like:\n\n2024 Jan  (empty space here) live Coachella main stage\n2023 Sep  (empty space here) live London\n\nbla bla",
+    "dateAdded": "2024-02-23T02:25:02.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/jUR081EnJ6o",
+    "label": "Template for prompt: I need highlights / tour dates like:\n\n2024 Jan  (empty space here) live Coachella main stage\n2023 Sep  (empty space here) live London\n\nbla bla",
+    "dateAdded": "2024-02-23T02:25:02.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/qZQ79BJC2sq",
+    "label": "Template for prompt: a time span of shows an actor has been. this should be a column where each row consists of\n- the year\n- and the name of role of the job\n\nthe year and name should be separated by a bullet point. \n\nthere should be multiple years. only render the year of an element is the newest job in the year",
+    "dateAdded": "2024-02-23T02:25:02.867Z"
+  },
+  {
+    "url": "https://v0.dev/t/xRAyvrCunuX",
+    "label": "Template for prompt: hierarchical and expandable sidebar menu",
+    "dateAdded": "2024-02-23T02:25:02.868Z"
+  },
+  {
+    "url": "https://v0.dev/t/7MZ2ZRcxPv1",
+    "label": "Template for prompt: make me a landing page for showing lot of category of a product with image from a minimarket in bunch of mini card component",
+    "dateAdded": "2024-02-23T02:25:02.868Z"
+  },
+  {
+    "url": "https://v0.dev/t/gI5qvfVuQT2",
+    "label": "Template for prompt: a time span of shows an actor has been. this should be a column where each row consists of\n- the year\n- and the name of role of the job\n\nthe year and name should be separated by a bullet point. \n\nthere should be multiple years. only render the year of an element is the newest job in the year",
+    "dateAdded": "2024-02-23T02:25:02.868Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZRvLogW3YZN",
+    "label": "Template for prompt: mobile hamburger navigation menu",
+    "dateAdded": "2024-02-23T02:25:02.868Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ksol3zrBvXE",
+    "label": "Template for prompt: One about the different modes of electric toothbrushes\nUse the interface",
+    "dateAdded": "2024-02-23T02:25:02.868Z"
   }
 ]
