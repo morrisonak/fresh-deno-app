@@ -2833,5 +2833,120 @@
     "url": "https://v0.dev/t/XuFCnolehD3",
     "label": "Template for prompt: I need a profile page",
     "dateAdded": "2024-02-23T02:10:03.191Z"
+  },
+  {
+    "url": "https://v0.dev/t/7MZ2ZRcxPv1",
+    "label": "Template for prompt: make me a landing page for showing lot of category of a product with image from a minimarket in bunch of mini card component",
+    "dateAdded": "2024-02-23T02:15:38.003Z"
+  },
+  {
+    "url": "https://v0.dev/t/gI5qvfVuQT2",
+    "label": "Template for prompt: a time span of shows an actor has been. this should be a column where each row consists of\n- the year\n- and the name of role of the job\n\nthe year and name should be separated by a bullet point. \n\nthere should be multiple years. only render the year of an element is the newest job in the year",
+    "dateAdded": "2024-02-23T02:15:38.003Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZRvLogW3YZN",
+    "label": "Template for prompt: mobile hamburger navigation menu",
+    "dateAdded": "2024-02-23T02:15:38.003Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ksol3zrBvXE",
+    "label": "Template for prompt: One about the different modes of electric toothbrushes\nUse the interface",
+    "dateAdded": "2024-02-23T02:15:38.003Z"
+  },
+  {
+    "url": "https://v0.dev/t/SIrHXjnPoc5",
+    "label": "Template for prompt: One about the different modes of electric toothbrushes\nUse the interface",
+    "dateAdded": "2024-02-23T02:15:38.003Z"
+  },
+  {
+    "url": "https://v0.dev/t/bE8SNS0mVB0",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-23T02:15:38.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/9enYzijTJiT",
+    "label": "Template for prompt: a sleek business card component with contact information",
+    "dateAdded": "2024-02-23T02:15:38.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/3S7rQodwjPs",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-23T02:15:38.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/zZEoVwYqRAX",
+    "label": "Template for prompt: Terms and Conditions section using Astro v4",
+    "dateAdded": "2024-02-23T02:15:38.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/2RL4uKMJqZp",
+    "label": "Template for prompt: home page for a tech company",
+    "dateAdded": "2024-02-23T02:15:38.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZEJqtWadzX0",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T02:15:38.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/TgHDbgPZL5Z",
+    "label": "Template for prompt: a responsive admin dashboard layout consist of header with breadcrumb, sidebar, main content and a footer",
+    "dateAdded": "2024-02-23T02:15:38.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/WWeDINGmr8b",
+    "label": "Template for prompt: A React component with a list of player names.  Each name has a number input field next to it, accepting values from 1 to 5",
+    "dateAdded": "2024-02-23T02:15:38.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/V030x22EV0m",
+    "label": "Template for prompt: A login page with and enter username box, enter password box, login button and create account button on top of the page have a picture slideshow. ",
+    "dateAdded": "2024-02-23T02:15:38.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/lYCi4pEeRm0",
+    "label": "Template for prompt: Login page with username, password, company logo, side image 50% page ",
+    "dateAdded": "2024-02-23T02:15:38.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/HoZ4gQYb2LS",
+    "label": "Template for prompt: make a form license key submit responsive and use best font",
+    "dateAdded": "2024-02-23T02:15:38.004Z"
+  },
+  {
+    "url": "https://v0.dev/t/mm7S41A99kX",
+    "label": "Template for prompt: create a chat interface similar to chatgpt",
+    "dateAdded": "2024-02-23T02:15:38.005Z"
+  },
+  {
+    "url": "https://v0.dev/t/vGlDZT2ZdVv",
+    "label": "Template for prompt: make a login with key responsive",
+    "dateAdded": "2024-02-23T02:15:38.005Z"
+  },
+  {
+    "url": "https://v0.dev/t/mgkyZ1ndKfa",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T02:15:38.005Z"
+  },
+  {
+    "url": "https://v0.dev/t/MHF2rSOD37t",
+    "label": "Template for prompt: hierarchical and expandable sidebar menu",
+    "dateAdded": "2024-02-23T02:15:38.005Z"
+  },
+  {
+    "url": "https://v0.dev/t/BREah9VXE1h",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T02:15:38.005Z"
+  },
+  {
+    "url": "https://v0.dev/t/3o0Rz94BDKy",
+    "label": "Template for prompt: Homepage for an AI startup company, including a header, a hero section, a section for introducing its four products, typical scenarios, and contacts. It should be concise and have responsive design.",
+    "dateAdded": "2024-02-23T02:15:38.005Z"
+  },
+  {
+    "url": "https://v0.dev/t/biKN2lau2lt",
+    "label": "Template for prompt: a drag and drop (dropzone) component",
+    "dateAdded": "2024-02-23T02:15:38.005Z"
   }
 ]
