@@ -5353,5 +5353,135 @@
     "url": "https://v0.dev/t/2gquKSs4Ips",
     "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
     "dateAdded": "2024-02-23T14:55:02.179Z"
+  },
+  {
+    "url": "https://v0.dev/t/6fzYHUXfL1j",
+    "label": "Template for prompt: usa flex para poner la imagen al lado de los procedimientos para escritorio pero para mobile que se vea normal en flex-col responsiva para cualquier dispositivo",
+    "dateAdded": "2024-02-23T15:00:03.311Z"
+  },
+  {
+    "url": "https://v0.dev/t/RI9NBirELLE",
+    "label": "Template for prompt: Explain how to resolve the follwing error that is shown in the image ",
+    "dateAdded": "2024-02-23T15:00:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/PUNGDY5h2uo",
+    "label": "Template for prompt: A beautiful pricing page with three large columns showing my free, pro and enterprise tiers of service for my new saas news offering ",
+    "dateAdded": "2024-02-23T15:00:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/6kZ53GFT8gQ",
+    "label": "Template for prompt: Create an elegant, beautiful, innovative, user-friendly layout with easily readable information, including a form for creation that has 3 pieces of information: name, email, and password.",
+    "dateAdded": "2024-02-23T15:00:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/TSuq3PU3B1Y",
+    "label": "Template for prompt: make form for todo app",
+    "dateAdded": "2024-02-23T15:00:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/WJPt350f1wM",
+    "label": "Template for prompt: a dashboard page where you can have two options. Either generate a text via a upload screen, or choose the other option to enter a prompt to generate a text. Focus on the functionality to either choose on option",
+    "dateAdded": "2024-02-23T15:00:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/bABJpmL1uMj",
+    "label": "Template for prompt: A landing page for a ChatPDF web application with an email input field for waitilist",
+    "dateAdded": "2024-02-23T15:00:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/KbPF2KQQYKL",
+    "label": "Template for prompt: hero section for a notion clone called Instanotes",
+    "dateAdded": "2024-02-23T15:00:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/bQEa2IfVf3c",
+    "label": "Template for prompt: hero section",
+    "dateAdded": "2024-02-23T15:00:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/mS04tMz4uD9",
+    "label": "Template for prompt: hero section",
+    "dateAdded": "2024-02-23T15:00:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/MNKRyF0HkxZ",
+    "label": "Template for prompt: login page with tabs for register and login ",
+    "dateAdded": "2024-02-23T15:00:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/l8YYRS3XMwd",
+    "label": "Template for prompt: avoir un espace au milieu entre les deux div en utilisant flex",
+    "dateAdded": "2024-02-23T15:00:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/YPna1BhyVTa",
+    "label": "Template for prompt: a login page for chat app",
+    "dateAdded": "2024-02-23T15:00:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/hkWZqZqmZhM",
+    "label": "Template for prompt: Create a pomodoro timer application with a start, pause, and reset button. Display the time and a header that says pomodoro",
+    "dateAdded": "2024-02-23T15:00:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/iTybB2SL5jT",
+    "label": "Template for prompt: Uploaded multiple Image's preview with x button on top right corner to remove the image in horizontal grid row with + button as last    item",
+    "dateAdded": "2024-02-23T15:00:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/KCJPw8T9Uuv",
+    "label": "Template for prompt: A ticketing system",
+    "dateAdded": "2024-02-23T15:00:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/lGw0KoXTmtc",
+    "label": "Template for prompt: A contact form",
+    "dateAdded": "2024-02-23T15:00:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/J3YB4C6403v",
+    "label": "Template for prompt: Uploaded Image's preview with x button on top right corner to remove the image in horizontal pane with + button as last    item",
+    "dateAdded": "2024-02-23T15:00:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/DXWi0uidDPY",
+    "label": "Template for prompt: Un panel de control de comercio electronico con navegacion lateral y una tabla de pedidos recientes",
+    "dateAdded": "2024-02-23T15:00:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/1RxIuqNZG7o",
+    "label": "Template for prompt: player personal records page",
+    "dateAdded": "2024-02-23T15:00:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/USOXLmQu0qB",
+    "label": "Template for prompt: generate me nice beatuful file uploader for dark theme with usage of react-dropzone component",
+    "dateAdded": "2024-02-23T15:00:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/qsnAhyGs4N0",
+    "label": "Template for prompt: compare price diff on different centralized exchanges",
+    "dateAdded": "2024-02-23T15:00:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/vQzfhfIig6w",
+    "label": "Template for prompt: A dashboard for showing the user logs of an API key usage",
+    "dateAdded": "2024-02-23T15:00:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qg0RbURWix8",
+    "label": "Template for prompt: chat with PDF UI",
+    "dateAdded": "2024-02-23T15:00:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/04KJisbirhV",
+    "label": "Template for prompt: Create a frontend interface for HomeFinder AI, allowing users to input their housing preferences and receive personalized recommendations. Include intuitive input fields for bedrooms, bathrooms, square footage, location, and additional filters such as schools nearby, stores nearby, and public transportation access. Ensure a responsive design for optimal usability on desktop and mobile devices.",
+    "dateAdded": "2024-02-23T15:00:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/P9fmTMoe1wi",
+    "label": "Template for prompt: Modern Order summary in lime and green shades",
+    "dateAdded": "2024-02-23T15:00:03.313Z"
   }
 ]
