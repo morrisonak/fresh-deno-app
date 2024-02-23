@@ -648,5 +648,130 @@
     "url": "https://v0.dev/t/EhahDoh1l9H",
     "label": "Template for prompt: data table",
     "dateAdded": "2024-02-23T00:40:38.293Z"
+  },
+  {
+    "url": "https://v0.dev/t/2GoOzr1xVvl",
+    "label": "Template for prompt: make a site that shows the announcement of 3 tournaments happening simultaneously this weekend",
+    "dateAdded": "2024-02-23T00:45:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZURK9TX1aB5",
+    "label": "Template for prompt: create a dual horizontal axis bar chart, where split (down the middle) the left side should be the color red, and on the right side of the split, the color should be royal blue. ",
+    "dateAdded": "2024-02-23T00:45:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/oqJMo4n6LXm",
+    "label": "Template for prompt: make a banner button cool",
+    "dateAdded": "2024-02-23T00:45:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/9DEq4uWh6R2",
+    "label": "Template for prompt: A coming soon page for the Hendra @ 30 conference",
+    "dateAdded": "2024-02-23T00:45:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/4NocHlaTIjZ",
+    "label": "Template for prompt: create a landing page for event apps that has clients, users and suppliers",
+    "dateAdded": "2024-02-23T00:45:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/HvWBTTS6Xny",
+    "label": "Template for prompt: make a search box",
+    "dateAdded": "2024-02-23T00:45:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/HsDBz3C8w1y",
+    "label": "Template for prompt: A chat interface for a legal AI bot that has a side panel for showing sources",
+    "dateAdded": "2024-02-23T00:45:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/VyODGoB99nT",
+    "label": "Template for prompt: create a landing page for event apps",
+    "dateAdded": "2024-02-23T00:45:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/yLPt8Ryxxvt",
+    "label": "Template for prompt: make a web design banner",
+    "dateAdded": "2024-02-23T00:45:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/QMtQ6eujU9s",
+    "label": "Template for prompt: produce a sign up form",
+    "dateAdded": "2024-02-23T00:45:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/P2kALbnQ53F",
+    "label": "Template for prompt: make a dropdown menu",
+    "dateAdded": "2024-02-23T00:45:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZFjfn2c0Nze",
+    "label": "Template for prompt: In short, my app is an app that controls the expiration date of some sales, in it I could register the category of my sale, the value and the expiration date; I only need two screens, one to display the charge name, amount and due date and one to register the charge",
+    "dateAdded": "2024-02-23T00:45:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/tmBIJLslus8",
+    "label": "Template for prompt: Implementing a Comment Board with Comments and File Attachments as a React Component",
+    "dateAdded": "2024-02-23T00:45:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/ddqTtELDRof",
+    "label": "Template for prompt: Build this react component but in light mode not dark mode",
+    "dateAdded": "2024-02-23T00:45:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/swiuxJWv1Iu",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-23T00:45:03.022Z"
+  },
+  {
+    "url": "https://v0.dev/t/P4QHKO2eBQv",
+    "label": "Template for prompt: a landing page customer review section",
+    "dateAdded": "2024-02-23T00:45:03.023Z"
+  },
+  {
+    "url": "https://v0.dev/t/w6dd6m40E2p",
+    "label": "Template for prompt: Make a cursor that has a box for the users name. the border should be rounded. All of it should be the same color",
+    "dateAdded": "2024-02-23T00:45:03.023Z"
+  },
+  {
+    "url": "https://v0.dev/t/MrRuCNcewCd",
+    "label": "Template for prompt: a modern reservation page for restaurant",
+    "dateAdded": "2024-02-23T00:45:03.023Z"
+  },
+  {
+    "url": "https://v0.dev/t/66rks756Urq",
+    "label": "Template for prompt: a modern reservation page for restaurant",
+    "dateAdded": "2024-02-23T00:45:03.023Z"
+  },
+  {
+    "url": "https://v0.dev/t/kjSDVTWFbuT",
+    "label": "Template for prompt: a modern sign up page that incldues oauth",
+    "dateAdded": "2024-02-23T00:45:03.023Z"
+  },
+  {
+    "url": "https://v0.dev/t/sRPMwAxZd60",
+    "label": "Template for prompt: create a searchbar to search for Channels",
+    "dateAdded": "2024-02-23T00:45:03.023Z"
+  },
+  {
+    "url": "https://v0.dev/t/32qMHIwrHqF",
+    "label": "Template for prompt: create a task application, the app takes in the task name, a select for the project it is associated, a description for the task that is optional, and a start and a due date. also create a section that shows that tasks and they are categorized by project",
+    "dateAdded": "2024-02-23T00:45:03.023Z"
+  },
+  {
+    "url": "https://v0.dev/t/MEWwoFMEeyY",
+    "label": "Template for prompt: A book list website with the following features:\n\n- A header with a logo, a search bar, and a user menu\n- A sidebar with navigation links to different pages: Home, My Books, Recommendations, Friends, Settings\n- A main content area that displays the books in a grid or a list, with filters, sorting, and pagination options\n- A footer with some information and links\n\nThe Home page should show the latest books added by the user and their friends, with ratings, reviews, and comments.\n\nThe My Books page should show the books that the user has read or wants to read, with categories, progress, and actions.\n\nThe Recommendations page should show the books that the user might like, based on their preferences, ratings, and friends.\n\nThe Friends page should show the user's friends, with their profiles, books, and activities.\n\nThe Settings page should allow the user to manage their account, preferences, and notifications.\n",
+    "dateAdded": "2024-02-23T00:45:03.023Z"
+  },
+  {
+    "url": "https://v0.dev/t/uQohxYLuGfq",
+    "label": "Template for prompt: make an otp modal that also has an option to resend the opt after 60 seconds",
+    "dateAdded": "2024-02-23T00:45:03.023Z"
+  },
+  {
+    "url": "https://v0.dev/t/I6WvHZ0gfsP",
+    "label": "Template for prompt: Before requesting SMS verification for the user's mobile number, confirm with recaptcha. After the verification button is activated, display the code input field when the verification button is clicked.\n\n\n\n\n",
+    "dateAdded": "2024-02-23T00:45:03.023Z"
   }
 ]
