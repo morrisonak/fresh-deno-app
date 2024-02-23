@@ -9683,5 +9683,135 @@
     "url": "https://v0.dev/t/2iKKAKwFN5c",
     "label": "Template for prompt: dame un formulario que tenga la siguiente intereface {\n    id: number;\n    covenant_number: string;\n    denomination_id: number;\n    name: string;\n    dateI : Date;\n    dateF : Date;\n    localidad_id : number;\n}",
     "dateAdded": "2024-02-23T17:45:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/NszKNGcw9WJ",
+    "label": "Template for prompt: a visual generation",
+    "dateAdded": "2024-02-23T17:50:02.488Z"
+  },
+  {
+    "url": "https://v0.dev/t/iskIaXyY11d",
+    "label": "Template for prompt: A want a interfcae for a desktop app madewith angular, for a game server manager, ",
+    "dateAdded": "2024-02-23T17:50:02.488Z"
+  },
+  {
+    "url": "https://v0.dev/t/E6j2FzDGsHm",
+    "label": "Template for prompt: a user dashpage to manage products, edit products, and assign them to categories",
+    "dateAdded": "2024-02-23T17:50:02.488Z"
+  },
+  {
+    "url": "https://v0.dev/t/JkDvXh4tLGY",
+    "label": "Template for prompt: give me code like that it should move when scrooling",
+    "dateAdded": "2024-02-23T17:50:02.488Z"
+  },
+  {
+    "url": "https://v0.dev/t/huPA7g6MuXH",
+    "label": "Template for prompt: Blog, blur navbar",
+    "dateAdded": "2024-02-23T17:50:02.488Z"
+  },
+  {
+    "url": "https://v0.dev/t/DwR5F12gxKD",
+    "label": "Template for prompt: 3 pricing plans section",
+    "dateAdded": "2024-02-23T17:50:02.488Z"
+  },
+  {
+    "url": "https://v0.dev/t/70xlqOyXjJ5",
+    "label": "Template for prompt: A web camera application",
+    "dateAdded": "2024-02-23T17:50:02.488Z"
+  },
+  {
+    "url": "https://v0.dev/t/jrlpR6FxjCE",
+    "label": "Template for prompt: create a page to search for events based on location, or browse upcoming events",
+    "dateAdded": "2024-02-23T17:50:02.488Z"
+  },
+  {
+    "url": "https://v0.dev/t/R4iFkcIFu9P",
+    "label": "Template for prompt: unique button collection",
+    "dateAdded": "2024-02-23T17:50:02.488Z"
+  },
+  {
+    "url": "https://v0.dev/t/IOWRc0jwHtf",
+    "label": "Template for prompt: can you create a button with the name of different AI models. Please include your model name in bold",
+    "dateAdded": "2024-02-23T17:50:02.488Z"
+  },
+  {
+    "url": "https://v0.dev/t/W8kbWsgfKxC",
+    "label": "Template for prompt: Imagine um painel digital, moderno e elegante, situado em uma sala de espera de uma clínica médica. Este painel é projetado para exibir os nomes dos pacientes convocados para consulta, promovendo um fluxo de atendimento eficiente e organizado. A tela deve ser de alta resolução, garantindo que as informações sejam fáceis de ler a partir de qualquer ponto da sala. A interface do painel é minimalista, com um fundo neutro e letras grandes e claras para facilitar a visualização.\n\nNo centro do painel, o nome do paciente atualmente chamado é exibido em letras grandes, destacando-se claramente contra o fundo. Abaixo, em letras um pouco menores, aparece a sala ou consultório para o qual o paciente deve se dirigir, juntamente com uma seta direcional simples, indicando a localização. O painel também inclui um relógio digital no canto superior direito, mostrando a hora atual para manter todos na sala de espera informados.\n\nAcima do nome do paciente, uma mensagem de boas-vindas personalizável pode ",
+    "dateAdded": "2024-02-23T17:50:02.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/UBbrY5H5S9N",
+    "label": "Template for prompt: A list of product categories with image, name, and description.",
+    "dateAdded": "2024-02-23T17:50:02.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/GRt5lg0Q8MK",
+    "label": "Template for prompt: Field service management software dashboard ",
+    "dateAdded": "2024-02-23T17:50:02.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/rDSnJjKzHCl",
+    "label": "Template for prompt: facebook sponsored post card",
+    "dateAdded": "2024-02-23T17:50:02.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/23HwYY3HWRl",
+    "label": "Template for prompt: facebook sponsored post card",
+    "dateAdded": "2024-02-23T17:50:02.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/VbmQafY9qcE",
+    "label": "Template for prompt: party cocktail service",
+    "dateAdded": "2024-02-23T17:50:02.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/mdhpgWAvdLa",
+    "label": "Template for prompt: border options",
+    "dateAdded": "2024-02-23T17:50:02.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/bPBZAW0Hyje",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-23T17:50:02.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/kINbXQZZ6QC",
+    "label": "Template for prompt: a dashboard with a list of participants",
+    "dateAdded": "2024-02-23T17:50:02.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/asvTVlddL5X",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-02-23T17:50:02.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/fNrGWEZsRKM",
+    "label": "Template for prompt: A portfolio Testimonial section",
+    "dateAdded": "2024-02-23T17:50:02.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/OxsnNVc7prZ",
+    "label": "Template for prompt: Create me a landing page for my ai application. we are creating a web ai application for users who want to learn about programming concepts using a real life examples and in story format.",
+    "dateAdded": "2024-02-23T17:50:02.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/FbWuLkUWpX2",
+    "label": "Template for prompt: \nA settings page in a mobile recharge application should include various options and functionalities that allow users to customize their experience, manage their account, and control certain aspects of the application. Here are some essential components that a settings page should include:\n\nAccount Information:\n\nDisplay the user's name, email address, and mobile number.\nOption to edit personal information such as name, email, and mobile number.\nSecurity and Privacy Settings:\n\nChange password: Allow users to update their account password.\nTwo-factor authentication: Enable or disable two-factor authentication for added security.\nPrivacy settings: Allow users to control privacy settings related to their account and transactions.\nNotification Preferences:\n\nManage notification preferences: Allow users to choose their notification preferences, such as email notifications for transactions, account updates, etc.\nOpt-in or opt-out of promotional emails or SMS.\nPayment Settings:\n\nManage payment ",
+    "dateAdded": "2024-02-23T17:50:02.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/OqhqShYSQkA",
+    "label": "Template for prompt: give me a shop hero that tells the brand name and a button to start shopping with a cool style",
+    "dateAdded": "2024-02-23T17:50:02.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/v7m4r1Irv8N",
+    "label": "Template for prompt: a web based game for playing black jack, should have the multiple card positions and the dealer position. then the ability to hit, stand, split etc",
+    "dateAdded": "2024-02-23T17:50:02.489Z"
+  },
+  {
+    "url": "https://v0.dev/t/hLt9Qf5szCW",
+    "label": "Template for prompt: make a about page",
+    "dateAdded": "2024-02-23T17:50:02.490Z"
   }
 ]
