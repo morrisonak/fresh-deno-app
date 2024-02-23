@@ -15273,5 +15273,130 @@
     "url": "https://v0.dev/t/QStpnBPniyk",
     "label": "Template for prompt: build a pricing page with free and premium plan cards both appearing in a row taking 50% of the width each",
     "dateAdded": "2024-02-23T21:25:02.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/jPHZARKZWAC",
+    "label": "Template for prompt: Create a loading spinner for when the application is verifying if the user is authenticated",
+    "dateAdded": "2024-02-23T21:30:03.165Z"
+  },
+  {
+    "url": "https://v0.dev/t/PKkkMTULlbn",
+    "label": "Template for prompt: Create the layout for the main screen and menus for a d&d assistant appp",
+    "dateAdded": "2024-02-23T21:30:03.165Z"
+  },
+  {
+    "url": "https://v0.dev/t/X3wIDnYTsHA",
+    "label": "Template for prompt: A dashboard for docker containers management ",
+    "dateAdded": "2024-02-23T21:30:03.165Z"
+  },
+  {
+    "url": "https://v0.dev/t/rFAz8lzcgPy",
+    "label": "Template for prompt: budget tracker",
+    "dateAdded": "2024-02-23T21:30:03.165Z"
+  },
+  {
+    "url": "https://v0.dev/t/DycWKMO0CBK",
+    "label": "Template for prompt: barbershop dashboard",
+    "dateAdded": "2024-02-23T21:30:03.165Z"
+  },
+  {
+    "url": "https://v0.dev/t/F2kD5Fgcc4l",
+    "label": "Template for prompt: write me this as a component",
+    "dateAdded": "2024-02-23T21:30:03.165Z"
+  },
+  {
+    "url": "https://v0.dev/t/StnYLdQXzAP",
+    "label": "Template for prompt: footer of foods",
+    "dateAdded": "2024-02-23T21:30:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/R77qDUL9ZKf",
+    "label": "Template for prompt: footer of foods",
+    "dateAdded": "2024-02-23T21:30:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/u6DZ2eOEZRj",
+    "label": "Template for prompt: A bulleted features list.",
+    "dateAdded": "2024-02-23T21:30:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/v3L8iPJF5rJ",
+    "label": "Template for prompt: create a clone of the trello interface and layout; however, style it as if the design came from Vercel",
+    "dateAdded": "2024-02-23T21:30:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/zRNtmsTYzEF",
+    "label": "Template for prompt: A questionnaire consisting of multiple cards with questions and rating from 1 to 5",
+    "dateAdded": "2024-02-23T21:30:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/qWIG7mwC96p",
+    "label": "Template for prompt: Give me a gallery for website pictures, with 4 horizontal spaces and 2 vertical (mobile) spaces, all in grid layout",
+    "dateAdded": "2024-02-23T21:30:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/ct4Un4LO4mr",
+    "label": "Template for prompt: create a message chat ui with chat selection on the left sidebar and a list of details on the right",
+    "dateAdded": "2024-02-23T21:30:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/y6tZOaYIaVO",
+    "label": "Template for prompt: a sidebar with product catalogue",
+    "dateAdded": "2024-02-23T21:30:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/546QFtime6i",
+    "label": "Template for prompt: give me a login with google, facebook and twitter",
+    "dateAdded": "2024-02-23T21:30:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/FR9JvbZD7q5",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T21:30:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/4uAYXf7IPN3",
+    "label": "Template for prompt: an interface to control a spaceship. It can select planet to go, view systems, and control the ship",
+    "dateAdded": "2024-02-23T21:30:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/zKUBV6A2sQy",
+    "label": "Template for prompt: generate a navigation menu for header section on right side",
+    "dateAdded": "2024-02-23T21:30:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/UojWm5aUnF3",
+    "label": "Template for prompt: dashboard",
+    "dateAdded": "2024-02-23T21:30:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/OA6bIqbn5cJ",
+    "label": "Template for prompt: a login page",
+    "dateAdded": "2024-02-23T21:30:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/X9Luk2RzdqB",
+    "label": "Template for prompt: Give me a gallery for products using a grid with 4 pictures or less",
+    "dateAdded": "2024-02-23T21:30:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/KGAb18JzVoy",
+    "label": "Template for prompt: Give me a gallery for products using a grid with 4 pictures or less",
+    "dateAdded": "2024-02-23T21:30:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/5Xvur7Zgrry",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T21:30:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/exRW8ivkl9r",
+    "label": "Template for prompt: create a navigation menu for header",
+    "dateAdded": "2024-02-23T21:30:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/fAYLhVk3CtK",
+    "label": "Template for prompt: Create the linear dashboard",
+    "dateAdded": "2024-02-23T21:30:03.168Z"
   }
 ]
