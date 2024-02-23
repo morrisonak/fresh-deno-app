@@ -3318,5 +3318,135 @@
     "url": "https://v0.dev/t/657PG2CXJas",
     "label": "Template for prompt: A list of product categories with image, name and description.",
     "dateAdded": "2024-02-23T02:30:02.779Z"
+  },
+  {
+    "url": "https://v0.dev/t/yW1oOoepUZK",
+    "label": "Template for prompt: 主页区 简洁好看\n\t悬赏平台今日任务总览（简单的关注 投票 注册）\n\t近期新增项目包含简介[项目类型+推荐指数(利润指数 推广难度 提现速度 封号限制 )]\n\t\t后期流量高了可以加入拓展承接广告+代刷网+流量卡（172号卡 账户3211138814 手机号15576506233）+我的个人公众号掘金项目拆解推流（服务器）\n\n主要项目(主)（后期拓展高质量付费内容--看广告得卡密 出售永久卡密）\n\t付费项目拆解（不涉及引流的可以直接搬运）\n\t看广告（协议）\n\t挂机（脚本）\n\t起号养号（注册机）\n\t薅羊毛（线报库app尝试采集或者直接采集手机便签里面的的论坛）\n\t\t（前期自己搬运 然后做分区：人头类型 秒到类型 抽奖类型 问卷类型 注册类型等 后期拓展社群自动机器人+人工）\n\t\t流量卡 外卖卷 电商卷 支付宝红包\n\n软件区（引流 卓聚直接搬运）\n\t破解版软件&&实用工具软件\n\n工具区\n\t程序员区\n\t\t代码对比工具\n\t\t代码逻辑工具\n\t\t一键加解密或者是一键数据辅助分析之类的\n\t\t一键生成数据请求包（java,python,js）\n\t生活日常区\n\t\t做个决定\n\t\t李跳跳\n个人中心\n\t作者业务\n\t\t收徒&承接定制&开发&维护更新\n\t软件近期版本更新新增内容\n\t交流群&项目群\n\t内置Bug反馈\n\t内置功能项目活动投稿\n\t帮助\n\t\t介绍脚本 协议 注册机 薅羊毛 项目 看广告",
+    "dateAdded": "2024-02-23T02:35:02.777Z"
+  },
+  {
+    "url": "https://v0.dev/t/eEK3MtzQTR3",
+    "label": "Template for prompt: A home maintenance calendar for reminders like changing your HVAC filter, checking your gutters, etc",
+    "dateAdded": "2024-02-23T02:35:02.777Z"
+  },
+  {
+    "url": "https://v0.dev/t/fJwDqjRSnEg",
+    "label": "Template for prompt: A SaaS admin dashboard for generating a time series forecast plot",
+    "dateAdded": "2024-02-23T02:35:02.777Z"
+  },
+  {
+    "url": "https://v0.dev/t/hkVxlTgoP0B",
+    "label": "Template for prompt: A signup form for the National Homeowner Notification Service. A user submits their address, and the form will highlight some of these useful features/reason for signing up - Lawn care reminder (when to aerate, when to fertilize, drought warning)\nGutter cleaning - good times to get the cleaning done (after leaves fell)\nFirst frost\nPest surge - cockroaches are surging in your area!\nAllergies\nFirst Big heat / cold - test your HVAC before you get caught in an emergency\nHeavy rain - check/test your gutters / sump pumps\nHome maintenance calendar - regular annual reminders for air filters, fire alarm, etc",
+    "dateAdded": "2024-02-23T02:35:02.777Z"
+  },
+  {
+    "url": "https://v0.dev/t/px3ROxLEJGF",
+    "label": "Template for prompt: a dashboard for a social media of books",
+    "dateAdded": "2024-02-23T02:35:02.777Z"
+  },
+  {
+    "url": "https://v0.dev/t/mDBK3j2Cmff",
+    "label": "Template for prompt: create pagination with previous and next button ",
+    "dateAdded": "2024-02-23T02:35:02.778Z"
+  },
+  {
+    "url": "https://v0.dev/t/uFn8Ts7Cd7N",
+    "label": "Template for prompt: A Saas analytic dashboard for users",
+    "dateAdded": "2024-02-23T02:35:02.778Z"
+  },
+  {
+    "url": "https://v0.dev/t/WWLfUAVsCya",
+    "label": "Template for prompt: A contact card with first name, last name, email, phone number, and address information.",
+    "dateAdded": "2024-02-23T02:35:02.778Z"
+  },
+  {
+    "url": "https://v0.dev/t/7FSbP5h1GXq",
+    "label": "Template for prompt: a lead management platform dashboard",
+    "dateAdded": "2024-02-23T02:35:02.778Z"
+  },
+  {
+    "url": "https://v0.dev/t/gdWGzOGnSWl",
+    "label": "Template for prompt: a login screen of a social media of books",
+    "dateAdded": "2024-02-23T02:35:02.778Z"
+  },
+  {
+    "url": "https://v0.dev/t/EEEZsWdpZxV",
+    "label": "Template for prompt: A website where you can view one rtsp",
+    "dateAdded": "2024-02-23T02:35:02.778Z"
+  },
+  {
+    "url": "https://v0.dev/t/Bv5bw2iMvEh",
+    "label": "Template for prompt: Can you generate a user receipt page after using scan an payment ? ",
+    "dateAdded": "2024-02-23T02:35:02.778Z"
+  },
+  {
+    "url": "https://v0.dev/t/UClGZFFdhR6",
+    "label": "Template for prompt: Landing Login page for college website",
+    "dateAdded": "2024-02-23T02:35:02.778Z"
+  },
+  {
+    "url": "https://v0.dev/t/JDWDN8PUjOD",
+    "label": "Template for prompt: This is a contact form i need this type of contact form component",
+    "dateAdded": "2024-02-23T02:35:02.778Z"
+  },
+  {
+    "url": "https://v0.dev/t/1WlcVKrmAVQ",
+    "label": "Template for prompt: Make me a side navbar for an analytic dashboard",
+    "dateAdded": "2024-02-23T02:35:02.778Z"
+  },
+  {
+    "url": "https://v0.dev/t/0LnyT4v68N7",
+    "label": "Template for prompt: UI that shows the first and last things of a list. It should imply that there are things in between the first and last things",
+    "dateAdded": "2024-02-23T02:35:02.778Z"
+  },
+  {
+    "url": "https://v0.dev/t/u7pP7pCK7Lm",
+    "label": "Template for prompt: UI that shows the first and last things of a list. It should imply that there are things in between the first and last things",
+    "dateAdded": "2024-02-23T02:35:02.779Z"
+  },
+  {
+    "url": "https://v0.dev/t/eaWqqWJuaJ9",
+    "label": "Template for prompt: a search box with a search button to the right and a title above that reads \"Business Register Search\"",
+    "dateAdded": "2024-02-23T02:35:02.779Z"
+  },
+  {
+    "url": "https://v0.dev/t/KJiF4r1GuLA",
+    "label": "Template for prompt: a client dashboard with upload functions and a table to see different data that was uploaded",
+    "dateAdded": "2024-02-23T02:35:02.779Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ysz4J1e3iTZ",
+    "label": "Template for prompt: a callout box highlighting key statistics about a lawn care category",
+    "dateAdded": "2024-02-23T02:35:02.779Z"
+  },
+  {
+    "url": "https://v0.dev/t/RQrbVJaDLri",
+    "label": "Template for prompt: list of orders ",
+    "dateAdded": "2024-02-23T02:35:02.779Z"
+  },
+  {
+    "url": "https://v0.dev/t/JqQYBtHMizq",
+    "label": "Template for prompt: A centered container with grid of cards in a page. And a featured section, 1 column of cards on the left side of the centered container",
+    "dateAdded": "2024-02-23T02:35:02.779Z"
+  },
+  {
+    "url": "https://v0.dev/t/qd2Ym41JNiK",
+    "label": "Template for prompt: List where you can view rtsp on the web",
+    "dateAdded": "2024-02-23T02:35:02.779Z"
+  },
+  {
+    "url": "https://v0.dev/t/AgVr83ZdeEm",
+    "label": "Template for prompt: make a and responsive and  color neon ",
+    "dateAdded": "2024-02-23T02:35:02.779Z"
+  },
+  {
+    "url": "https://v0.dev/t/9MU1NqDbTiQ",
+    "label": "Template for prompt: Use typescript ",
+    "dateAdded": "2024-02-23T02:35:02.779Z"
+  },
+  {
+    "url": "https://v0.dev/t/dIZYd7YCCH8",
+    "label": "Template for prompt: A news card ",
+    "dateAdded": "2024-02-23T02:35:02.779Z"
   }
 ]
