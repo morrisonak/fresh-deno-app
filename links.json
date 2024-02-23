@@ -6238,5 +6238,130 @@
     "url": "https://v0.dev/t/U2V67KtXinh",
     "label": "Template for prompt: Marketing page for fitness app",
     "dateAdded": "2024-02-23T15:30:03.783Z"
+  },
+  {
+    "url": "https://v0.dev/t/on2glBe34SZ",
+    "label": "Template for prompt: https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/landing_page.jpg?q=50&fit=crop&w=1500&dpr=1.5",
+    "dateAdded": "2024-02-23T15:35:03.110Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qloj2kjsaBT",
+    "label": "Template for prompt: Make a landing page for an app that teaches you about biking rules",
+    "dateAdded": "2024-02-23T15:35:03.110Z"
+  },
+  {
+    "url": "https://v0.dev/t/oUEQGfD1nij",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-23T15:35:03.110Z"
+  },
+  {
+    "url": "https://v0.dev/t/B2Qyj7TTX2r",
+    "label": "Template for prompt: create bankin help page",
+    "dateAdded": "2024-02-23T15:35:03.110Z"
+  },
+  {
+    "url": "https://v0.dev/t/uCWzECxSY2s",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T15:35:03.111Z"
+  },
+  {
+    "url": "https://v0.dev/t/dGLbavMOEdV",
+    "label": "Template for prompt: Create navbar just like that and responsive as well add toggle button on screen having 992px and less.",
+    "dateAdded": "2024-02-23T15:35:03.111Z"
+  },
+  {
+    "url": "https://v0.dev/t/epMB4bMbHMR",
+    "label": "Template for prompt: a portfolio website for mern stack",
+    "dateAdded": "2024-02-23T15:35:03.111Z"
+  },
+  {
+    "url": "https://v0.dev/t/HcjtFtl5OYz",
+    "label": "Template for prompt: a portfolio website for mern stack",
+    "dateAdded": "2024-02-23T15:35:03.111Z"
+  },
+  {
+    "url": "https://v0.dev/t/MSJZKtpN0Cg",
+    "label": "Template for prompt: Mejora esto tanto en UI como en UX",
+    "dateAdded": "2024-02-23T15:35:03.111Z"
+  },
+  {
+    "url": "https://v0.dev/t/TWgQ0UI1uY9",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T15:35:03.111Z"
+  },
+  {
+    "url": "https://v0.dev/t/YBqRXwo12TO",
+    "label": "Template for prompt: a music player application",
+    "dateAdded": "2024-02-23T15:35:03.111Z"
+  },
+  {
+    "url": "https://v0.dev/t/lrHuMrTtFro",
+    "label": "Template for prompt: the page where you can add products to your cart",
+    "dateAdded": "2024-02-23T15:35:03.111Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZqQ3V0HYh5t",
+    "label": "Template for prompt: build me a crm solution",
+    "dateAdded": "2024-02-23T15:35:03.111Z"
+  },
+  {
+    "url": "https://v0.dev/t/W5oSOln57ke",
+    "label": "Template for prompt: create a login page. In the left side put an image with a title text in gradient colors. Add a subtitle in gradien color to. Aside the normal login form. Use shadcn.",
+    "dateAdded": "2024-02-23T15:35:03.111Z"
+  },
+  {
+    "url": "https://v0.dev/t/XVPpBOTtsrj",
+    "label": "Template for prompt: generate a horizontal card with a imagen on the left, and in the right the  description and two prices",
+    "dateAdded": "2024-02-23T15:35:03.111Z"
+  },
+  {
+    "url": "https://v0.dev/t/sVxynnZBw5t",
+    "label": "Template for prompt: please create a homepage in a card format, with contact details, job title and headshot",
+    "dateAdded": "2024-02-23T15:35:03.111Z"
+  },
+  {
+    "url": "https://v0.dev/t/BfYt0fxac2c",
+    "label": "Template for prompt: introduction page for siri",
+    "dateAdded": "2024-02-23T15:35:03.111Z"
+  },
+  {
+    "url": "https://v0.dev/t/3itFipg5RMk",
+    "label": "Template for prompt: A user dashboard which tracks your subscriptions to courses and which courses you created, as well as subscription management",
+    "dateAdded": "2024-02-23T15:35:03.111Z"
+  },
+  {
+    "url": "https://v0.dev/t/VRAuEZE3mGW",
+    "label": "Template for prompt: a responsive sidebar and basic content on the right side for admin dashboard",
+    "dateAdded": "2024-02-23T15:35:03.111Z"
+  },
+  {
+    "url": "https://v0.dev/t/OGlEC5w2bL9",
+    "label": "Template for prompt:  <div className='rounded-md bg-white dark:bg-black  shadow'>\n      <div className='px-2 py-4 flex justify-between'>\n        <PostVoteClient\n          postId={post.id}\n          initialVotesAmt={_votesAmt}\n          initialVote={_currentVote?.type}\n        />\n\n        <div className='w-0 flex-1'>\n          <div className='max-h-40 mt-1 text-xs text-gray-500'>\n            {subredditName ? (\n              <>\n                <a\n                  className='underline text-zinc-900 dark:text-white text-sm underline-offset-2'\n                  href={`/r/${subredditName}`}>\n                  r/{subredditName}\n                </a>\n                <span className='px-1'>•</span>\n              </>\n            ) : null}\n            {/* <UserAvatar\n          user={{ name: post.author.name || null,image: post.author.image || null, }}className='h-4 w-4' />  */}\n         <span>Posted by  \n        u/{post.author.username}</span>{' '}\n            {formatTimeToNow(new Date(post.createdAt))}\n          </d",
+    "dateAdded": "2024-02-23T15:35:03.111Z"
+  },
+  {
+    "url": "https://v0.dev/t/w558iuLkPLF",
+    "label": "Template for prompt: generate a horizontal card with a product, description and two prices",
+    "dateAdded": "2024-02-23T15:35:03.112Z"
+  },
+  {
+    "url": "https://v0.dev/t/olq9RmFiXIs",
+    "label": "Template for prompt: **Storyboard Page Components:**\n\n**1. Story Display Container:**\n   - **Grid Placement:** Positioned on the left side of the page using a responsive grid layout.\n   - **Functionality:** Displays the ongoing narrative sequentially, presenting each paragraph or snippet of the story.\n   - **Interaction:** Clickable lines allow users to view additional details about the contribution, including the contributor's name, contributed line, and voting statistics.\n   - **Visual Feedback:** Implement hover effects to highlight selected lines and provide visual feedback to users.\n\n**2. Contribution Container:**\n   - **Grid Placement:** Positioned on the right side of the page using a responsive grid layout.\n   - **Functionality:** Allows users to contribute their own lines to the ongoing story.\n   - **Input Field:** User-friendly input field for typing and submitting contributions.\n   - **Real-time Preview:** Displays a dynamic preview of the user's contribution as they type, giving immediate feedb",
+    "dateAdded": "2024-02-23T15:35:03.112Z"
+  },
+  {
+    "url": "https://v0.dev/t/f4lhHt0N0A8",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T15:35:03.112Z"
+  },
+  {
+    "url": "https://v0.dev/t/QKulgPtyGyf",
+    "label": "Template for prompt: The beginning of a blog for a seedling, first the name of the seedling occupying the entire page, when the active events and projects are scrolled and below the blogs",
+    "dateAdded": "2024-02-23T15:35:03.112Z"
+  },
+  {
+    "url": "https://v0.dev/t/0uhNBPwC5UG",
+    "label": "Template for prompt: Grocery website",
+    "dateAdded": "2024-02-23T15:35:03.112Z"
   }
 ]
