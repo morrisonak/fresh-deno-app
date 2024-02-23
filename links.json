@@ -8658,5 +8658,135 @@
     "url": "https://v0.dev/t/04LVM7Zqhlv",
     "label": "Template for prompt: a landing page like airbnb",
     "dateAdded": "2024-02-23T17:05:03.531Z"
+  },
+  {
+    "url": "https://v0.dev/t/Pg1WXg5LL8U",
+    "label": "Template for prompt: Landing page for saas",
+    "dateAdded": "2024-02-23T17:10:03.378Z"
+  },
+  {
+    "url": "https://v0.dev/t/4rkl67JANhk",
+    "label": "Template for prompt: modal window",
+    "dateAdded": "2024-02-23T17:10:03.378Z"
+  },
+  {
+    "url": "https://v0.dev/t/ah3TyAft05Z",
+    "label": "Template for prompt: drag and drop form builder",
+    "dateAdded": "2024-02-23T17:10:03.378Z"
+  },
+  {
+    "url": "https://v0.dev/t/si9k6OgPi9d",
+    "label": "Template for prompt: ecommerce dashboard",
+    "dateAdded": "2024-02-23T17:10:03.378Z"
+  },
+  {
+    "url": "https://v0.dev/t/85ox92JSigZ",
+    "label": "Template for prompt: signup form with left side image",
+    "dateAdded": "2024-02-23T17:10:03.378Z"
+  },
+  {
+    "url": "https://v0.dev/t/jdOVGc6yP4z",
+    "label": "Template for prompt: Write me 5 pages of a book, regarding South Italy Calabria and tell the story of the food agriculture, the importance and write a few recipe ",
+    "dateAdded": "2024-02-23T17:10:03.378Z"
+  },
+  {
+    "url": "https://v0.dev/t/8NmqMYGwUNh",
+    "label": "Template for prompt: Architecture website",
+    "dateAdded": "2024-02-23T17:10:03.378Z"
+  },
+  {
+    "url": "https://v0.dev/t/IXvyYwhmyE5",
+    "label": "Template for prompt: create a dashboard",
+    "dateAdded": "2024-02-23T17:10:03.378Z"
+  },
+  {
+    "url": "https://v0.dev/t/fKJ7wfP9CQj",
+    "label": "Template for prompt: An animated face, through which I can have a conversation. The conversation should be audio based, that is, it should able to listen to what I speak and answer me back through a audio voice. It should be able to do facial expression when it speaks and listens",
+    "dateAdded": "2024-02-23T17:10:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/Mw1AYdF0oyL",
+    "label": "Template for prompt: landing page of a saas app that helps people track their expenses",
+    "dateAdded": "2024-02-23T17:10:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/BQKv0bHhjLs",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T17:10:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/WDuCKp2bvYb",
+    "label": "Template for prompt: Landing page for prices",
+    "dateAdded": "2024-02-23T17:10:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/wF7nlGZzJIM",
+    "label": "Template for prompt: a 'report issues' modal",
+    "dateAdded": "2024-02-23T17:10:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/esU6b57ZAHd",
+    "label": "Template for prompt: A table for sales leads with the following headers (    business_name\n    business_type\n    address_1\n    address_2\n    postcode\n    email\n    phone\n    state)\n\nIt must be optimised for mobile responsiveness. I have attched a screenshot, only produce the table using shadcn UI table and tailwind CSS\n",
+    "dateAdded": "2024-02-23T17:10:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ray9GwNhSZ0",
+    "label": "Template for prompt: landing page about a car dealer ",
+    "dateAdded": "2024-02-23T17:10:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/cdaeeRHZEuN",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-02-23T17:10:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/c8JAXwCLOML",
+    "label": "Template for prompt: how it works section",
+    "dateAdded": "2024-02-23T17:10:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/Hd0UrJfOwmR",
+    "label": "Template for prompt: application to randomize the order of persons in a daily standup",
+    "dateAdded": "2024-02-23T17:10:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/8Xil9wkzTsi",
+    "label": "Template for prompt: Frequently asked questions sections",
+    "dateAdded": "2024-02-23T17:10:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/apbCYuzOkfi",
+    "label": "Template for prompt: can you design input file",
+    "dateAdded": "2024-02-23T17:10:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/oanDg7PkvW4",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T17:10:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/XxnFN9kAKVO",
+    "label": "Template for prompt: A beautiful speedometer that has the numbers equally divided across it, with a space inside that contains the RPM and the gear as well. It uses tailwindcss.",
+    "dateAdded": "2024-02-23T17:10:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/fSCFyCnUJEb",
+    "label": "Template for prompt: landing page for window cleaning company ",
+    "dateAdded": "2024-02-23T17:10:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/22QdX4mfSdg",
+    "label": "Template for prompt: clone it",
+    "dateAdded": "2024-02-23T17:10:03.379Z"
+  },
+  {
+    "url": "https://v0.dev/t/UDJESfizl4n",
+    "label": "Template for prompt: a beautiful modal",
+    "dateAdded": "2024-02-23T17:10:03.380Z"
+  },
+  {
+    "url": "https://v0.dev/t/40Y8dmhWUXA",
+    "label": "Template for prompt: A login page for mobile recharge platform ",
+    "dateAdded": "2024-02-23T17:10:03.380Z"
   }
 ]
