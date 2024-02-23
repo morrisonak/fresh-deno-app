@@ -12613,5 +12613,120 @@
     "url": "https://v0.dev/t/6ood5jZqKjK",
     "label": "Template for prompt: A view more link button like this ---View More---",
     "dateAdded": "2024-02-23T19:40:03.293Z"
+  },
+  {
+    "url": "https://v0.dev/t/CugPjTWVv7p",
+    "label": "Template for prompt: Create a simple card with these details\n-> Card Image\n-> Card Title\n-> Card Price\n-> Card Description\n-> Card Button \"Learn More\"\n",
+    "dateAdded": "2024-02-23T19:45:02.441Z"
+  },
+  {
+    "url": "https://v0.dev/t/hBsYPwDuMDD",
+    "label": "Template for prompt: Navbar",
+    "dateAdded": "2024-02-23T19:45:02.441Z"
+  },
+  {
+    "url": "https://v0.dev/t/CVUBvUkwmVw",
+    "label": "Template for prompt: create a progress bar",
+    "dateAdded": "2024-02-23T19:45:02.441Z"
+  },
+  {
+    "url": "https://v0.dev/t/K61Vraeun5p",
+    "label": "Template for prompt: make a responsive and 3d admin dashboard",
+    "dateAdded": "2024-02-23T19:45:02.441Z"
+  },
+  {
+    "url": "https://v0.dev/t/dctZbE1FUtC",
+    "label": "Template for prompt: saas ",
+    "dateAdded": "2024-02-23T19:45:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/9DVzCBT2FJ4",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-23T19:45:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/OSGTXYmlHpY",
+    "label": "Template for prompt: A widget displaying bus next passage to a station",
+    "dateAdded": "2024-02-23T19:45:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/fN7xIbSTLva",
+    "label": "Template for prompt: Landing page about url shortener",
+    "dateAdded": "2024-02-23T19:45:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/etEeCxN9AYy",
+    "label": "Template for prompt: an email inbox",
+    "dateAdded": "2024-02-23T19:45:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/X70aliuEfDw",
+    "label": "Template for prompt: make a good home page for a job search app UI",
+    "dateAdded": "2024-02-23T19:45:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/CIwzVojKGuN",
+    "label": "Template for prompt: build a banner toast at the top of admin dashboard. Support red, yellow and green",
+    "dateAdded": "2024-02-23T19:45:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/KpB901fZDT7",
+    "label": "Template for prompt: i am making a decentralized voting system that will be used for national election. make me a professional verification page for the system. this page should have a form, which the voter will fill up with their national ID information so go to the second step. there should also be a \"steps\" component on the top to show me which step of the way I am at and which step is next. there are 3 steps - verifying national ID information, entering otp and finally voting.",
+    "dateAdded": "2024-02-23T19:45:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/ytuWLj7EdfS",
+    "label": "Template for prompt: create incidnet  attackmap UI that shows nodes of assets and artifacts , the connection between them is the insight\nallow to drag the nodes individually. when hover on node or link we should have sample text ",
+    "dateAdded": "2024-02-23T19:45:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/vsDsi82HvBY",
+    "label": "Template for prompt: create incidnet  attackmap UI that shows nodes of assets and artifacts , the connection between them is the insight\nallow to drag the nodes individually. when hover on node or link we should have sample text ",
+    "dateAdded": "2024-02-23T19:45:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/hWZCR3JglWK",
+    "label": "Template for prompt: home page, user input url/ ip, then checkboxes below:\naccept agreements(need this to checked before able to check next boxes), Recon only, Attack only, Recon + Attack ",
+    "dateAdded": "2024-02-23T19:45:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/LEficynA5ey",
+    "label": "Template for prompt: a setting panel for a text editor ",
+    "dateAdded": "2024-02-23T19:45:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/AmkLbbaIVra",
+    "label": "Template for prompt: subscription pricing window with features showing under each tier and use Byggfakta Group colors (If they are available)",
+    "dateAdded": "2024-02-23T19:45:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/2CoeRLcDv4W",
+    "label": "Template for prompt: i am making a decentralized voting system that will be used for national election. make me a \"verifying national ID info\" page for the system. this page should have a form. there should also be a \"steps\" component on the top to show me which step of the way I am at and which step is next. there are 3 steps - verifying national ID information, entering otp and finally voting.",
+    "dateAdded": "2024-02-23T19:45:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/d38vrxCdpDG",
+    "label": "Template for prompt: create for me a style to upload an image an another to upload a video",
+    "dateAdded": "2024-02-23T19:45:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/YdQIibASwnh",
+    "label": "Template for prompt: create for me a style to upload an image an another to upload a video",
+    "dateAdded": "2024-02-23T19:45:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/89a6NmlrD6T",
+    "label": "Template for prompt: login facebook page",
+    "dateAdded": "2024-02-23T19:45:02.443Z"
+  },
+  {
+    "url": "https://v0.dev/t/trRifuXOTXD",
+    "label": "Template for prompt: Results page for items with single images and a card view of collection which includes many images",
+    "dateAdded": "2024-02-23T19:45:02.443Z"
+  },
+  {
+    "url": "https://v0.dev/t/oCWmXIegjb8",
+    "label": "Template for prompt: List of movies",
+    "dateAdded": "2024-02-23T19:45:02.443Z"
   }
 ]
