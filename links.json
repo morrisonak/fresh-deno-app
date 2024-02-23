@@ -3833,5 +3833,130 @@
     "url": "https://v0.dev/t/Wb3P4qh4h0X",
     "label": "Template for prompt: i have some details about  a company. i want to create a page where users will be able to see companies details including name, website, IR website, and about the company as in description",
     "dateAdded": "2024-02-23T13:55:03.174Z"
+  },
+  {
+    "url": "https://v0.dev/t/MydBW4rs2Gw",
+    "label": "Template for prompt: create a section like this for a cannabis dispensory website",
+    "dateAdded": "2024-02-23T14:00:03.243Z"
+  },
+  {
+    "url": "https://v0.dev/t/deq91y39upV",
+    "label": "Template for prompt: create a section like this for a cannabis dispensory website",
+    "dateAdded": "2024-02-23T14:00:03.243Z"
+  },
+  {
+    "url": "https://v0.dev/t/DGCWlYKh3Yw",
+    "label": "Template for prompt: hey can you make a presentation?",
+    "dateAdded": "2024-02-23T14:00:03.243Z"
+  },
+  {
+    "url": "https://v0.dev/t/YNQmZeabqzX",
+    "label": "Template for prompt: A wireframe for a login page.",
+    "dateAdded": "2024-02-23T14:00:03.243Z"
+  },
+  {
+    "url": "https://v0.dev/t/M1Kxtioc3Sk",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-23T14:00:03.243Z"
+  },
+  {
+    "url": "https://v0.dev/t/uMQoL4GH56y",
+    "label": "Template for prompt: generame esta maqueta",
+    "dateAdded": "2024-02-23T14:00:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/RCpkYn3EP1x",
+    "label": "Template for prompt: generame esta maqueta",
+    "dateAdded": "2024-02-23T14:00:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/Sb9IdX2BEeN",
+    "label": "Template for prompt: a table with edit and delete buttons for the row items",
+    "dateAdded": "2024-02-23T14:00:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/WAq535XsWlP",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-23T14:00:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/IQkn4YH3vee",
+    "label": "Template for prompt: design me a chat app",
+    "dateAdded": "2024-02-23T14:00:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/HCacgCMg0eF",
+    "label": "Template for prompt: redesign this such that it's divided by weeks, and i can copy and paste schedules from one day to another",
+    "dateAdded": "2024-02-23T14:00:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/7b4VTFpOgVX",
+    "label": "Template for prompt: Create this with React and tailwind",
+    "dateAdded": "2024-02-23T14:00:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/sT1kQ96GDjQ",
+    "label": "Template for prompt: section design of a list with 8 items. two rows",
+    "dateAdded": "2024-02-23T14:00:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/C4Sk13BMUnI",
+    "label": "Template for prompt: section design of a list with 8 items. two rows",
+    "dateAdded": "2024-02-23T14:00:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/oSWv0aARUX0",
+    "label": "Template for prompt: Please create the ui using tailwindcss and react. Do not use any other library",
+    "dateAdded": "2024-02-23T14:00:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/lK15758VB4w",
+    "label": "Template for prompt: Please create the ui using tailwindcss and react. Do not use any other library",
+    "dateAdded": "2024-02-23T14:00:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/imlqh2wLduG",
+    "label": "Template for prompt: purchase section",
+    "dateAdded": "2024-02-23T14:00:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/17prrLFKn3C",
+    "label": "Template for prompt: Visualize a modern website header component. On the far left, the name 'LinguaVerse' is elegantly placed, establishing the brand's presence. The center of the header features a navigation menu, designed to facilitate user exploration, incorporating three key sections: 'Words', 'Sentences', and 'Notebook'. This navigation is crafted to allow users seamless transitions across various parts of the website. At the extreme right of the header, there's a button for users to log in, positioned to be visually prominent and easily accessible. The overall design exudes a contemporary and user-friendly ambiance, harmonizing with the website's overarching theme.",
+    "dateAdded": "2024-02-23T14:00:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/GRLbHLPuYbn",
+    "label": "Template for prompt: hero section with gradient colour background",
+    "dateAdded": "2024-02-23T14:00:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/frpBTtfUNV0",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T14:00:03.245Z"
+  },
+  {
+    "url": "https://v0.dev/t/VN2OEis8UXf",
+    "label": "Template for prompt: make a card student details mobile number adharnaumber fees status student management",
+    "dateAdded": "2024-02-23T14:00:03.245Z"
+  },
+  {
+    "url": "https://v0.dev/t/ggNcUIVzYI4",
+    "label": "Template for prompt: \nCreate a minimalist website design featuring a large table displaying Apple Watch listings from Amazon. Include filtering and sorting options for each column (Price, Series, Screen Size, etc.) to enhance user interaction. Use clear headers, subtle visual cues, and hover effects for better usability. Differentiate rows with light shading or color variations and add a subtle border around the table. Keep the design minimal to prioritize focus on the content.",
+    "dateAdded": "2024-02-23T14:00:03.245Z"
+  },
+  {
+    "url": "https://v0.dev/t/LvrvZqv8Aug",
+    "label": "Template for prompt: A page with black background with pink gradient glare. A prompt bar in the middle of the page and a glass morphism header in the top.",
+    "dateAdded": "2024-02-23T14:00:03.245Z"
+  },
+  {
+    "url": "https://v0.dev/t/lElpe9iBdfj",
+    "label": "Template for prompt: interface for uploading images and videos, for each uploaded video the user should be able to choose a preview image",
+    "dateAdded": "2024-02-23T14:00:03.245Z"
+  },
+  {
+    "url": "https://v0.dev/t/c5JDt2ZgxXb",
+    "label": "Template for prompt: I have this list of days, where doctors can set up their schedule and add intervals. How can i design this such that it's easier for them to set up their schedule and copy schedule from one day/week to another?",
+    "dateAdded": "2024-02-23T14:00:03.245Z"
   }
 ]
