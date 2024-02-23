@@ -16778,5 +16778,130 @@
     "url": "https://v0.dev/t/vyFn2gHJO69",
     "label": "Template for prompt: create for me chat what will be in the right botto",
     "dateAdded": "2024-02-23T22:25:03.712Z"
+  },
+  {
+    "url": "https://v0.dev/t/j7UJHPNy5I7",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T22:30:02.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZMbwm4ZSDDm",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T22:30:02.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/ex9QTiYtoZz",
+    "label": "Template for prompt: dashboard only tables",
+    "dateAdded": "2024-02-23T22:30:02.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/zHnZaSKhrcv",
+    "label": "Template for prompt: Create a login page for a fintech, to use the ai assistant",
+    "dateAdded": "2024-02-23T22:30:02.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/NQaeatleik1",
+    "label": "Template for prompt: service description section, put an image, make it minimalist",
+    "dateAdded": "2024-02-23T22:30:02.557Z"
+  },
+  {
+    "url": "https://v0.dev/t/ijINRj0eVGV",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-23T22:30:02.558Z"
+  },
+  {
+    "url": "https://v0.dev/t/5hNTlGTuVfh",
+    "label": "Template for prompt: pie de pagina ",
+    "dateAdded": "2024-02-23T22:30:02.558Z"
+  },
+  {
+    "url": "https://v0.dev/t/kNkKrk5XzxZ",
+    "label": "Template for prompt: pie de pagina ",
+    "dateAdded": "2024-02-23T22:30:02.558Z"
+  },
+  {
+    "url": "https://v0.dev/t/lnWi7ygLZ2v",
+    "label": "Template for prompt: service category section",
+    "dateAdded": "2024-02-23T22:30:02.558Z"
+  },
+  {
+    "url": "https://v0.dev/t/nldjO9Gtw3P",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-23T22:30:02.558Z"
+  },
+  {
+    "url": "https://v0.dev/t/WaXKQq0VlEG",
+    "label": "Template for prompt: create a message that appears when it has a value, the value should be of object {status: 'ERORR' | 'SUCCESS'|'WARNING', message: string}, the color of the component is depending on the status. with shadcn",
+    "dateAdded": "2024-02-23T22:30:02.558Z"
+  },
+  {
+    "url": "https://v0.dev/t/5WJjXnle143",
+    "label": "Template for prompt: create a message that appears when it has a value, the value should be of object {status: 'ERORR' | 'SUCCESS'|'WARNING', message: string}, the color of the component is depending on the status. with shadcn",
+    "dateAdded": "2024-02-23T22:30:02.558Z"
+  },
+  {
+    "url": "https://v0.dev/t/tzM636B0usM",
+    "label": "Template for prompt: create for me chat where i can write with bot on the react",
+    "dateAdded": "2024-02-23T22:30:02.558Z"
+  },
+  {
+    "url": "https://v0.dev/t/uGt60oUUCur",
+    "label": "Template for prompt: A landing page for an application titled \"Rizzlet\", which is a flashcard application for Cal Poly students. Do not include sign up/register information. Please use tailwind",
+    "dateAdded": "2024-02-23T22:30:02.559Z"
+  },
+  {
+    "url": "https://v0.dev/t/rYOxCnztjEl",
+    "label": "Template for prompt: create a website UI that searches for apartments",
+    "dateAdded": "2024-02-23T22:30:02.559Z"
+  },
+  {
+    "url": "https://v0.dev/t/jRfpYm69Qf5",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T22:30:02.559Z"
+  },
+  {
+    "url": "https://v0.dev/t/8JQluqGRtW6",
+    "label": "Template for prompt: create this structure in tailwind",
+    "dateAdded": "2024-02-23T22:30:02.559Z"
+  },
+  {
+    "url": "https://v0.dev/t/m5VMz7Mwq1s",
+    "label": "Template for prompt: lading page for a gym manager system",
+    "dateAdded": "2024-02-23T22:30:02.559Z"
+  },
+  {
+    "url": "https://v0.dev/t/woz8ak6ONiy",
+    "label": "Template for prompt: Create a landing page for a fintech card, called bamboo",
+    "dateAdded": "2024-02-23T22:30:02.559Z"
+  },
+  {
+    "url": "https://v0.dev/t/al0Iruaf3Q3",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-23T22:30:02.559Z"
+  },
+  {
+    "url": "https://v0.dev/t/xN7vTc2jH8x",
+    "label": "Template for prompt: write a page with sidebar ",
+    "dateAdded": "2024-02-23T22:30:02.560Z"
+  },
+  {
+    "url": "https://v0.dev/t/SO4tSOAjXHF",
+    "label": "Template for prompt: edit members combobox similar to trello ",
+    "dateAdded": "2024-02-23T22:30:02.560Z"
+  },
+  {
+    "url": "https://v0.dev/t/Jhuhisz3PjS",
+    "label": "Template for prompt: a shadcn table",
+    "dateAdded": "2024-02-23T22:30:02.560Z"
+  },
+  {
+    "url": "https://v0.dev/t/dMh75m40qA1",
+    "label": "Template for prompt: Necesito el diseño para una aplicación de un club de deportes de montaña. Es una app para los miembros del club donde podrán ver las noticias, competiciones eventos y apuntarse a ellos. Colores principales verde claro amarillo negro. El club se llama peñón del nervo en el adjunto están los colores principales y el escudo del club",
+    "dateAdded": "2024-02-23T22:30:02.560Z"
+  },
+  {
+    "url": "https://v0.dev/t/3HriiCfTy28",
+    "label": "Template for prompt: a website form with multiple input types",
+    "dateAdded": "2024-02-23T22:30:02.560Z"
   }
 ]
