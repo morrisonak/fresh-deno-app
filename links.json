@@ -4478,5 +4478,135 @@
     "url": "https://v0.dev/t/gGSYZJ2hPKe",
     "label": "Template for prompt: Button inside an input field",
     "dateAdded": "2024-02-23T14:20:03.054Z"
+  },
+  {
+    "url": "https://v0.dev/t/JLbvc0RmfJN",
+    "label": "Template for prompt: a simple navigation with a logo on the left, on the center navigation items with a chevron that flips on hover and a cta on the right. on mobile it should turn into a burger menu with a button on the right, and everything should be fully accessible. when hovering non direct link menu items, a floating nav menu should pop up under with further options.",
+    "dateAdded": "2024-02-23T14:25:02.986Z"
+  },
+  {
+    "url": "https://v0.dev/t/bhEpVFEusoe",
+    "label": "Template for prompt: create a solar panel installing website in react",
+    "dateAdded": "2024-02-23T14:25:02.986Z"
+  },
+  {
+    "url": "https://v0.dev/t/PYthYxV3afc",
+    "label": "Template for prompt: a school website that features all the clubs",
+    "dateAdded": "2024-02-23T14:25:02.986Z"
+  },
+  {
+    "url": "https://v0.dev/t/RTDBDx1q2Oc",
+    "label": "Template for prompt: a school website that features all the clubs",
+    "dateAdded": "2024-02-23T14:25:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/2BAn4LvwUMC",
+    "label": "Template for prompt: A page explaining installation steps.\nThere are three steps arranged horizontally.\nEach step is vertical with an image at the top and an explanation below.",
+    "dateAdded": "2024-02-23T14:25:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/GqAhAu1PF3b",
+    "label": "Template for prompt: A page explaining installation steps.\nThere are three steps arranged horizontally.\nEach step is vertical with an image at the top and an explanation below.",
+    "dateAdded": "2024-02-23T14:25:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/RMHBq1sMh44",
+    "label": "Template for prompt: A page explaining installation steps.\nThere are three steps arranged horizontally.\nEach step is vertical with an image at the top and an explanation below.",
+    "dateAdded": "2024-02-23T14:25:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/o6pdLJms28n",
+    "label": "Template for prompt: Vertical timeline for my World of Warcraft character. Use icons for events like level-up, battle, new gear.",
+    "dateAdded": "2024-02-23T14:25:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/fGn8yNQVDbH",
+    "label": "Template for prompt: Vertical timeline for my World of Warcraft character. Use icons for events like level-up, battle, new gear.",
+    "dateAdded": "2024-02-23T14:25:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/kr0zGTX4Qc7",
+    "label": "Template for prompt: Make a section for view verification status with verify and block button for admin side in tailwind css with responsiveness",
+    "dateAdded": "2024-02-23T14:25:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/yzfh5aMgJRu",
+    "label": "Template for prompt: make this page using react",
+    "dateAdded": "2024-02-23T14:25:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/Oswd3Hf4RwR",
+    "label": "Template for prompt: landing page to introduce the ai generated video.",
+    "dateAdded": "2024-02-23T14:25:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/AMCjdaMSv8V",
+    "label": "Template for prompt: add the shinny highlight in the background ",
+    "dateAdded": "2024-02-23T14:25:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/VzWT0gcDb1F",
+    "label": "Template for prompt: a drop down menu, with a play button and text, and a search button ",
+    "dateAdded": "2024-02-23T14:25:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qx8vscsfTVQ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T14:25:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/3RWrXBM90r7",
+    "label": "Template for prompt: create me a main dashboard for the client of an online school council election system the main dashboard should include\n- client profile\n- 3 registration buttons: one for registration as a user, one for registeration as a admin, one for registeration as a candidate\n- election summary which contains the total no. of voters and the no. votes that have been casted by the voters\n- live results (it should contain 3 categories, one for head boy in which there should be 3 candidate names with the no of votes they recieved, one for head girl in which there should be 3 candidate names with the no of votes they recieved, one for cultural head girl in which there should be 3 candidate names with the no of votes they recieved)\n- candidates name with their post(head boy, head girl, cultural head girl)\n- voters\n- change password button for client\n- logout button for client",
+    "dateAdded": "2024-02-23T14:25:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/BZZjaneLZ26",
+    "label": "Template for prompt: create an ios app view for a user to view their account balance information, us the image as an example. instead of purple, make it black",
+    "dateAdded": "2024-02-23T14:25:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/jyxQJFavrV5",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-02-23T14:25:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/98LchGcbLjC",
+    "label": "Template for prompt: We are making a website for an AIML project on house price prediction .\nwhere the user enters details such as bedrooms, bathrooms, sqft area , location, the number of members in the family going to be living there, whether they need schooling facilities nearby for children , local stores nreaby for easy access , etc . on the basis of these need an ai model will be predicitng the house the user could buy or rent .",
+    "dateAdded": "2024-02-23T14:25:02.987Z"
+  },
+  {
+    "url": "https://v0.dev/t/5NRNl4uhgFp",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T14:25:02.988Z"
+  },
+  {
+    "url": "https://v0.dev/t/LpNrCO31VwP",
+    "label": "Template for prompt: html table with multiple colums in pie chart",
+    "dateAdded": "2024-02-23T14:25:02.988Z"
+  },
+  {
+    "url": "https://v0.dev/t/gHzBrarVhca",
+    "label": "Template for prompt: I want a llm chat in the right region",
+    "dateAdded": "2024-02-23T14:25:02.988Z"
+  },
+  {
+    "url": "https://v0.dev/t/JMANYpnCLra",
+    "label": "Template for prompt: Write a component that describes the three installation steps horizontally.\nEach installation step includes 1 photo and 1-2 lines of text.",
+    "dateAdded": "2024-02-23T14:25:02.988Z"
+  },
+  {
+    "url": "https://v0.dev/t/q272YyKJApT",
+    "label": "Template for prompt: pop out feedback stars",
+    "dateAdded": "2024-02-23T14:25:02.988Z"
+  },
+  {
+    "url": "https://v0.dev/t/zmb58wxnnIf",
+    "label": "Template for prompt: a page that teachs statistics with practical examples",
+    "dateAdded": "2024-02-23T14:25:02.988Z"
+  },
+  {
+    "url": "https://v0.dev/t/8WC51I6ndFx",
+    "label": "Template for prompt: \nweb developer portfolio with initial description section and project section, with modern and futuristic design",
+    "dateAdded": "2024-02-23T14:25:02.988Z"
   }
 ]
