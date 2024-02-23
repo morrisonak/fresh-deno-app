@@ -7878,5 +7878,135 @@
     "url": "https://v0.dev/t/3bXoRQuIEWf",
     "label": "Template for prompt: similar to this https://mimo.org/web/219/section/0",
     "dateAdded": "2024-02-23T16:35:02.447Z"
+  },
+  {
+    "url": "https://v0.dev/t/KAZIQcR4JCJ",
+    "label": "Template for prompt: login page that is divided in 2 columns the first one render a simple input with email and password and the second one an image",
+    "dateAdded": "2024-02-23T16:40:03.366Z"
+  },
+  {
+    "url": "https://v0.dev/t/7tqAkYiwdbE",
+    "label": "Template for prompt: a footer",
+    "dateAdded": "2024-02-23T16:40:03.366Z"
+  },
+  {
+    "url": "https://v0.dev/t/2lvejIuaNh1",
+    "label": "Template for prompt: A landing page for my design portfolio",
+    "dateAdded": "2024-02-23T16:40:03.366Z"
+  },
+  {
+    "url": "https://v0.dev/t/jh3iSb0TYUt",
+    "label": "Template for prompt: create tabs , the tab label need connect with the content",
+    "dateAdded": "2024-02-23T16:40:03.366Z"
+  },
+  {
+    "url": "https://v0.dev/t/H03rqw1iEQL",
+    "label": "Template for prompt: what background color code use to inseted image, write same as same background color",
+    "dateAdded": "2024-02-23T16:40:03.366Z"
+  },
+  {
+    "url": "https://v0.dev/t/o2fjxLLrzT4",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T16:40:03.367Z"
+  },
+  {
+    "url": "https://v0.dev/t/YEmKEqDCEfG",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-02-23T16:40:03.367Z"
+  },
+  {
+    "url": "https://v0.dev/t/ov9KpyVJnl2",
+    "label": "Template for prompt: generate a user dashboard for mobile recharge platform",
+    "dateAdded": "2024-02-23T16:40:03.367Z"
+  },
+  {
+    "url": "https://v0.dev/t/cVp7E9vh3gB",
+    "label": "Template for prompt: Write a Chip component for the following:\n\n\t\t\t\t\t<Chip variant=\"dot\" color=\"danger\" onClick={() => onChange(10)}>\n\t\t\t\t\t\tBad\n\t\t\t\t\t</Chip>",
+    "dateAdded": "2024-02-23T16:40:03.367Z"
+  },
+  {
+    "url": "https://v0.dev/t/zIlahVzAFYd",
+    "label": "Template for prompt: login page with email magic link",
+    "dateAdded": "2024-02-23T16:40:03.367Z"
+  },
+  {
+    "url": "https://v0.dev/t/5MdeyvdBP7r",
+    "label": "Template for prompt: an interface like google drive that lists out items of different types.  it has a search bar at the top and a list of some folders above that",
+    "dateAdded": "2024-02-23T16:40:03.367Z"
+  },
+  {
+    "url": "https://v0.dev/t/TLIZA36pDMW",
+    "label": "Template for prompt: tabs",
+    "dateAdded": "2024-02-23T16:40:03.367Z"
+  },
+  {
+    "url": "https://v0.dev/t/fAin5whkjsb",
+    "label": "Template for prompt: a basic page with three cards. One for uploading images, one for display an image output, and one with an accordion for image titles and description",
+    "dateAdded": "2024-02-23T16:40:03.367Z"
+  },
+  {
+    "url": "https://v0.dev/t/EM1l7diyIb1",
+    "label": "Template for prompt: A landing page with image and text, with responsive text size",
+    "dateAdded": "2024-02-23T16:40:03.367Z"
+  },
+  {
+    "url": "https://v0.dev/t/fMOIT6rRoMR",
+    "label": "Template for prompt: An AI tattoo generator homepage",
+    "dateAdded": "2024-02-23T16:40:03.367Z"
+  },
+  {
+    "url": "https://v0.dev/t/8eYhi9byJGq",
+    "label": "Template for prompt: write this  background gradient color",
+    "dateAdded": "2024-02-23T16:40:03.367Z"
+  },
+  {
+    "url": "https://v0.dev/t/9I8QgMtpmjk",
+    "label": "Template for prompt: a magic link email login",
+    "dateAdded": "2024-02-23T16:40:03.367Z"
+  },
+  {
+    "url": "https://v0.dev/t/7FEAFCDxvhW",
+    "label": "Template for prompt: app de busqueda y localización de cafeterías",
+    "dateAdded": "2024-02-23T16:40:03.367Z"
+  },
+  {
+    "url": "https://v0.dev/t/KPnx3CT5oI0",
+    "label": "Template for prompt: Un cms para gestionar secciones, y que dentro de cada seccion pueda gestionar documentos",
+    "dateAdded": "2024-02-23T16:40:03.367Z"
+  },
+  {
+    "url": "https://v0.dev/t/ICI5WjE0Vei",
+    "label": "Template for prompt: Brand Assets",
+    "dateAdded": "2024-02-23T16:40:03.368Z"
+  },
+  {
+    "url": "https://v0.dev/t/skPMgzKmV3W",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-23T16:40:03.368Z"
+  },
+  {
+    "url": "https://v0.dev/t/Rmob5UahWOk",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-23T16:40:03.368Z"
+  },
+  {
+    "url": "https://v0.dev/t/5xFM87BoNvv",
+    "label": "Template for prompt: cart page for online clothes shop",
+    "dateAdded": "2024-02-23T16:40:03.368Z"
+  },
+  {
+    "url": "https://v0.dev/t/5ojkl0WXFlg",
+    "label": "Template for prompt: create a simple chat design",
+    "dateAdded": "2024-02-23T16:40:03.368Z"
+  },
+  {
+    "url": "https://v0.dev/t/UMwh3yLdY6K",
+    "label": "Template for prompt: create a simple chat design",
+    "dateAdded": "2024-02-23T16:40:03.368Z"
+  },
+  {
+    "url": "https://v0.dev/t/CxfQFFMTWPt",
+    "label": "Template for prompt: https://www.udemy.com/?utm_source=adwords-brand&utm_medium=udemyads&utm_campaign=Brand-Udemy_la.JA_cc.JP&utm_term=_._ag_103751308239_._ad_451175836549_._de_c_._dm__._pl__._ti_kwd-296956216253_._li_1009282_._pd__._&utm_term=_._pd__._kw_udemy_._&matchtype=b&gad_source=1&gclid=Cj0KCQiAoeGuBhCBARIsAGfKY7w7LKaxIu1KuBcGU68K4rHlZb-Onruv_G92wDQS9RYDbuVPRhODyC4aAlmhEALw_wcB#main-content-anchor",
+    "dateAdded": "2024-02-23T16:40:03.368Z"
   }
 ]
