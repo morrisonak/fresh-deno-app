@@ -13623,5 +13623,135 @@
     "url": "https://v0.dev/t/OcmduzJUPce",
     "label": "Template for prompt: quiero una plataforma donde pueda subir mis noticias, write ups y recursos. debe estar en modo oscuro y minimalista, podes usar tonos rojos y negros, el nombre de la pagina debe ser Cibertalk y debe haber un boton azul en la esquina superior derecha que diga contacto y te lleve a otra pagina, que siguiendo la misma logica debe tener mi contacto (Nombre, apellido, num de telefono, email, redes sociales), debe haber un espacio para poner un logo en el banner del inicio",
     "dateAdded": "2024-02-23T20:20:02.804Z"
+  },
+  {
+    "url": "https://v0.dev/t/7u6yCHJaf02",
+    "label": "Template for prompt: fitness app",
+    "dateAdded": "2024-02-23T20:25:02.561Z"
+  },
+  {
+    "url": "https://v0.dev/t/vBNLYg84K1t",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T20:25:02.561Z"
+  },
+  {
+    "url": "https://v0.dev/t/Lb1rxfEqlra",
+    "label": "Template for prompt: create a site search with search previews",
+    "dateAdded": "2024-02-23T20:25:02.561Z"
+  },
+  {
+    "url": "https://v0.dev/t/xTXHWRiYcAp",
+    "label": "Template for prompt: a <ScrollArea /> component like shadcn/ui but built with svelte and tailwind",
+    "dateAdded": "2024-02-23T20:25:02.561Z"
+  },
+  {
+    "url": "https://v0.dev/t/y38D0T3aDai",
+    "label": "Template for prompt: get code popup",
+    "dateAdded": "2024-02-23T20:25:02.561Z"
+  },
+  {
+    "url": "https://v0.dev/t/F7VbH2qkXn5",
+    "label": "Template for prompt: get code popup",
+    "dateAdded": "2024-02-23T20:25:02.562Z"
+  },
+  {
+    "url": "https://v0.dev/t/nqJNIx71vn1",
+    "label": "Template for prompt: get code popup",
+    "dateAdded": "2024-02-23T20:25:02.562Z"
+  },
+  {
+    "url": "https://v0.dev/t/b5Eoslq5SNu",
+    "label": "Template for prompt: get code popup",
+    "dateAdded": "2024-02-23T20:25:02.562Z"
+  },
+  {
+    "url": "https://v0.dev/t/6uMx7UaQKry",
+    "label": "Template for prompt: get code popup",
+    "dateAdded": "2024-02-23T20:25:02.562Z"
+  },
+  {
+    "url": "https://v0.dev/t/SJgn7cpNyEu",
+    "label": "Template for prompt: a note-taking app. each note is displayed in a card. cards can have background colors. long text notes can be opened by clicking on them. they then open up a modal. floating action button on the bottom right to add a new note. notes have a \"delete\", \"archive\", \"pin\" button.",
+    "dateAdded": "2024-02-23T20:25:02.562Z"
+  },
+  {
+    "url": "https://v0.dev/t/bBHQMyJ9fZU",
+    "label": "Template for prompt: facturacion de cuentas por cobrar ",
+    "dateAdded": "2024-02-23T20:25:02.562Z"
+  },
+  {
+    "url": "https://v0.dev/t/k5Dd71B9HAT",
+    "label": "Template for prompt: Chrome extension taking the right side bar with ability to scan any phone nhnebrs listinf them and ability to select those numbers to send a whatsapp message to ",
+    "dateAdded": "2024-02-23T20:25:02.562Z"
+  },
+  {
+    "url": "https://v0.dev/t/7nV253OenvD",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-02-23T20:25:02.562Z"
+  },
+  {
+    "url": "https://v0.dev/t/lohV5agCBmA",
+    "label": "Template for prompt: creame una landing de contacto para un restaurante",
+    "dateAdded": "2024-02-23T20:25:02.562Z"
+  },
+  {
+    "url": "https://v0.dev/t/MS9X7zNIN37",
+    "label": "Template for prompt: creame una landing de contacto para un restaurante",
+    "dateAdded": "2024-02-23T20:25:02.562Z"
+  },
+  {
+    "url": "https://v0.dev/t/flDZbm3jjwf",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-02-23T20:25:02.563Z"
+  },
+  {
+    "url": "https://v0.dev/t/Nt8wNe7swxM",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T20:25:02.563Z"
+  },
+  {
+    "url": "https://v0.dev/t/TGP8l3MHGYz",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T20:25:02.563Z"
+  },
+  {
+    "url": "https://v0.dev/t/WqdcmSdevDa",
+    "label": "Template for prompt: Create a Log in",
+    "dateAdded": "2024-02-23T20:25:02.563Z"
+  },
+  {
+    "url": "https://v0.dev/t/CEKbUFe3VYq",
+    "label": "Template for prompt: order detail",
+    "dateAdded": "2024-02-23T20:25:02.563Z"
+  },
+  {
+    "url": "https://v0.dev/t/o2m3zMAs5YN",
+    "label": "Template for prompt: \"google keep\" like note-taking app",
+    "dateAdded": "2024-02-23T20:25:02.563Z"
+  },
+  {
+    "url": "https://v0.dev/t/YuPEVn540lf",
+    "label": "Template for prompt: make me a filter component that is floating ",
+    "dateAdded": "2024-02-23T20:25:02.563Z"
+  },
+  {
+    "url": "https://v0.dev/t/wfqqflsbHY4",
+    "label": "Template for prompt: Make a bottom navbar for mobile application. Nav item are 4. Nav item has icon and name.",
+    "dateAdded": "2024-02-23T20:25:02.563Z"
+  },
+  {
+    "url": "https://v0.dev/t/vyLWb7rMifC",
+    "label": "Template for prompt: chatgpt like interface",
+    "dateAdded": "2024-02-23T20:25:02.563Z"
+  },
+  {
+    "url": "https://v0.dev/t/D151KhH9Aae",
+    "label": "Template for prompt: confirmation modal for deletion",
+    "dateAdded": "2024-02-23T20:25:02.563Z"
+  },
+  {
+    "url": "https://v0.dev/t/CS7LzWwIepF",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T20:25:02.564Z"
   }
 ]
