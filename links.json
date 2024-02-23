@@ -9048,5 +9048,135 @@
     "url": "https://v0.dev/t/nEC4O89ySj9",
     "label": "Template for prompt: Design an impactful portfolio website for a React developer. The header should feature a logo on the left, the developer's name in the middle, and a menu on the left with options for 'About,' 'Experience,' 'Projects,' and 'Contact Me,' including a 'Download Resume/CV' option. The first page should exude professionalism, incorporating animations, 3D illustrations, and graphics. Include an emotionally resonant introduction like 'I am Pranav, a developer,' with a short description and a 3D cut-out image on the side. The second page should showcase experiences, projects, skills (Java, Python, HTML, CSS, JS, React JS, React Native, MongoDB, GitHub, VSCode, Figma, Dribbble, Vercel), achievements with scrolling images, and a 'Contact Me' form. In the 'Projects' section, display images of project titles, short descriptions, languages used, and GitHub links, with three main projects in a loop and a 'See More' option redirecting to GitHub. Creatively present 'Experience' details with roles, comp",
     "dateAdded": "2024-02-23T17:20:03.103Z"
+  },
+  {
+    "url": "https://v0.dev/t/EKvyHa6v2Lj",
+    "label": "Template for prompt: Create a pop up screen that take user inputs from a drop down and two date inputs and a file name inputs",
+    "dateAdded": "2024-02-23T17:25:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/vs7Ywa5pO0b",
+    "label": "Template for prompt: Architeture website with 4 pages: Home, About us, Portofolio and Contacts. All pages have navbar and footer\nHome have hero section, about section, list of best portofolio, contact form.\nAbout us have about section, team section, gallery section.\nPortofolio have all projects in a grid.\nContacts have a list of contacts and map.",
+    "dateAdded": "2024-02-23T17:25:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/yEGskggsMqW",
+    "label": "Template for prompt: a footer for a study abroad website",
+    "dateAdded": "2024-02-23T17:25:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/6WZPMU30BS3",
+    "label": "Template for prompt: An animated face, through which I can have a conversation. The conversation should be audio based, that is, it should able to listen to what I speak and answer me back through a audio voice. It should be able to do facial expression when it speaks and listens",
+    "dateAdded": "2024-02-23T17:25:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/kPAbmeOw5VY",
+    "label": "Template for prompt: An animated face, through which I can have a conversation. The conversation should be audio based, that is, it should able to listen to what I speak and answer me back through a audio voice. It should be able to do facial expression when it speaks and listens",
+    "dateAdded": "2024-02-23T17:25:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/RfdUAWHtwv3",
+    "label": "Template for prompt: An animated face, through which I can have a conversation. The conversation should be audio based, that is, it should able to listen to what I speak and answer me back through a audio voice. It should be able to do facial expression when it speaks and listens",
+    "dateAdded": "2024-02-23T17:25:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/PkEUG4510c0",
+    "label": "Template for prompt: İnstagram için Takipçi Hilesi Sayfası Kur Bu Sayfada Önplana Kullanıcı Adı ve Takipçi Sayısı Butonu Ve Gönder Butonu olsun Gönder butonuna Basdıkta Gönderildi desin ",
+    "dateAdded": "2024-02-23T17:25:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/BNGgFIeqrIH",
+    "label": "Template for prompt: Create a admin dashboard for a ticket management and a faculty dashboard for ticket creation",
+    "dateAdded": "2024-02-23T17:25:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/5baskSbaU7x",
+    "label": "Template for prompt: A landing page for a digital marketing company with nice looking charts and a table underneath each",
+    "dateAdded": "2024-02-23T17:25:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/UcxG0rQQdoZ",
+    "label": "Template for prompt: an onboarding screen for a meditation app",
+    "dateAdded": "2024-02-23T17:25:02.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/RWAV8Mtt1WJ",
+    "label": "Template for prompt: a table of application runs with pagination, each row has an id, type, status, created at timestamp, finished at timestamp.\nabove the table are filters for: type, status and id",
+    "dateAdded": "2024-02-23T17:25:02.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/uPstezqAqHv",
+    "label": "Template for prompt: portfolio",
+    "dateAdded": "2024-02-23T17:25:02.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/UuPV1R8PS6Q",
+    "label": "Template for prompt: a login form",
+    "dateAdded": "2024-02-23T17:25:02.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/92aBcK0ez4x",
+    "label": "Template for prompt: Can you create slider text with the slider functionality",
+    "dateAdded": "2024-02-23T17:25:02.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/uHgnggkNDqi",
+    "label": "Template for prompt: Can you create slider text with the slider functionality",
+    "dateAdded": "2024-02-23T17:25:02.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/FA9xEKLfWGS",
+    "label": "Template for prompt: Horizontal menu on home page with 20 items",
+    "dateAdded": "2024-02-23T17:25:02.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/lkicdYL6x0I",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button and a close button svg on the top right corner.",
+    "dateAdded": "2024-02-23T17:25:02.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/pXtXZr3ILWp",
+    "label": "Template for prompt: dashboard clients table, las columnas tienen nombre, cliente y telefono",
+    "dateAdded": "2024-02-23T17:25:02.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/IYi3Drf9S3Z",
+    "label": "Template for prompt: create page crud with list and button to open modal em show form with inputs. the CRUd its person ",
+    "dateAdded": "2024-02-23T17:25:02.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/NzukEMf7gJt",
+    "label": "Template for prompt: axtarış bölməsi olsun. Youtube dərsləri qoymaq olsun",
+    "dateAdded": "2024-02-23T17:25:02.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/aGWqeHC8IKf",
+    "label": "Template for prompt: A game to guess the emoji from 3 major colors",
+    "dateAdded": "2024-02-23T17:25:02.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/64Vkt7Fv01a",
+    "label": "Template for prompt: A contact form with  name,  email, and message fields. Put the form in a card with a submit button. use John doe to plce holders",
+    "dateAdded": "2024-02-23T17:25:02.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/xtv1vTEjGeg",
+    "label": "Template for prompt: products",
+    "dateAdded": "2024-02-23T17:25:02.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/6yUGjMQvAU7",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-23T17:25:02.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/kLwwE6Yi8Md",
+    "label": "Template for prompt: Un dibujo vectorial, o de canvas de una constelación. hay estrellas en el medio del dibujo de la constelación. estan unidas entre sí y tienen brillo. al unirse todas forman la constelación",
+    "dateAdded": "2024-02-23T17:25:02.824Z"
+  },
+  {
+    "url": "https://v0.dev/t/27oL8ncYIY8",
+    "label": "Template for prompt: Make layout for a timereporting system for IT consultants",
+    "dateAdded": "2024-02-23T17:25:02.824Z"
   }
 ]
