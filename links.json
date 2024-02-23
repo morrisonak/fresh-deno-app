@@ -4608,5 +4608,125 @@
     "url": "https://v0.dev/t/8WC51I6ndFx",
     "label": "Template for prompt: \nweb developer portfolio with initial description section and project section, with modern and futuristic design",
     "dateAdded": "2024-02-23T14:25:02.988Z"
+  },
+  {
+    "url": "https://v0.dev/t/UgT5i0l4ElW",
+    "label": "Template for prompt: Make a credit card expenses visualizer",
+    "dateAdded": "2024-02-23T14:30:02.799Z"
+  },
+  {
+    "url": "https://v0.dev/t/6g0sC2lxV4L",
+    "label": "Template for prompt: Make a dialog where you can change user settings, like set update interval, update API and toggle theme. Option to delete all coins as well.",
+    "dateAdded": "2024-02-23T14:30:02.799Z"
+  },
+  {
+    "url": "https://v0.dev/t/qtQQZW9Fvqc",
+    "label": "Template for prompt: make component on the left side fixed to its position with vertical text",
+    "dateAdded": "2024-02-23T14:30:02.800Z"
+  },
+  {
+    "url": "https://v0.dev/t/4k0cVyFtm0v",
+    "label": "Template for prompt: make the progress bar wit 5 dots and on the dot upper and lower are some content available",
+    "dateAdded": "2024-02-23T14:30:02.800Z"
+  },
+  {
+    "url": "https://v0.dev/t/uKmq60cgKzJ",
+    "label": "Template for prompt: A latest reports section showing 3 different reports with a picture ,title , and a small excerpt  ",
+    "dateAdded": "2024-02-23T14:30:02.800Z"
+  },
+  {
+    "url": "https://v0.dev/t/7v7iMY7PoeN",
+    "label": "Template for prompt: create me an icon, button or shape that you can navigate back from a detail page",
+    "dateAdded": "2024-02-23T14:30:02.800Z"
+  },
+  {
+    "url": "https://v0.dev/t/r2u3cu5deZ1",
+    "label": "Template for prompt: Make a finance dashboard with expenses and types of expenses",
+    "dateAdded": "2024-02-23T14:30:02.800Z"
+  },
+  {
+    "url": "https://v0.dev/t/P85L4JXpsLs",
+    "label": "Template for prompt: Designing a mobile version of the Smart Answer System page",
+    "dateAdded": "2024-02-23T14:30:02.800Z"
+  },
+  {
+    "url": "https://v0.dev/t/OHjE9pxuLwz",
+    "label": "Template for prompt: I need a timeline of my company, perhaps with a line and several markers between it, mentioning 1980, 1982, 1999, historical events.",
+    "dateAdded": "2024-02-23T14:30:02.800Z"
+  },
+  {
+    "url": "https://v0.dev/t/OBGPGTVR5lY",
+    "label": "Template for prompt: a feedback form submision on the top right that pops out ",
+    "dateAdded": "2024-02-23T14:30:02.800Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q07TJXN6g0d",
+    "label": "Template for prompt: sidescroll",
+    "dateAdded": "2024-02-23T14:30:02.800Z"
+  },
+  {
+    "url": "https://v0.dev/t/A3OVUya4dQw",
+    "label": "Template for prompt: video thumbnail slider in vue js",
+    "dateAdded": "2024-02-23T14:30:02.800Z"
+  },
+  {
+    "url": "https://v0.dev/t/09Y8i4ZlGi5",
+    "label": "Template for prompt: main page showing articles with dates, title and content",
+    "dateAdded": "2024-02-23T14:30:02.800Z"
+  },
+  {
+    "url": "https://v0.dev/t/vxaM2VddwZ2",
+    "label": "Template for prompt: A section showing 4 different services provided. Each should have a title a bit of description and a button",
+    "dateAdded": "2024-02-23T14:30:02.800Z"
+  },
+  {
+    "url": "https://v0.dev/t/UYPl61cTipz",
+    "label": "Template for prompt: A lesson planning dashboard for a piano teacher to create and modify and delete appointments of students, as well as marking absences. The ability to create appointments in blocks (multiple at a time) is also a needed feature",
+    "dateAdded": "2024-02-23T14:30:02.800Z"
+  },
+  {
+    "url": "https://v0.dev/t/scFIA3js0sh",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T14:30:02.800Z"
+  },
+  {
+    "url": "https://v0.dev/t/BFVOT1yvf2I",
+    "label": "Template for prompt: a plastic card of a certified service partner of a company",
+    "dateAdded": "2024-02-23T14:30:02.801Z"
+  },
+  {
+    "url": "https://v0.dev/t/n0o1651Tqje",
+    "label": "Template for prompt: Make a section for view verification status with verify and block button for admin side in tailwind css with responsiveness for single profile",
+    "dateAdded": "2024-02-23T14:30:02.801Z"
+  },
+  {
+    "url": "https://v0.dev/t/jPwlFPHyqA5",
+    "label": "Template for prompt: A simple table with headers and lines aligning the data in the center, and in the first column of each line an icon that when clicked opens a div below the line with information related to the clicked line, when clicking on the icon again the div closes",
+    "dateAdded": "2024-02-23T14:30:02.801Z"
+  },
+  {
+    "url": "https://v0.dev/t/JLbvc0RmfJN",
+    "label": "Template for prompt: a simple navigation with a logo on the left, on the center navigation items with a chevron that flips on hover and a cta on the right. on mobile it should turn into a burger menu with a button on the right, and everything should be fully accessible. when hovering non direct link menu items, a floating nav menu should pop up under with further options.",
+    "dateAdded": "2024-02-23T14:30:02.801Z"
+  },
+  {
+    "url": "https://v0.dev/t/bhEpVFEusoe",
+    "label": "Template for prompt: create a solar panel installing website in react",
+    "dateAdded": "2024-02-23T14:30:02.801Z"
+  },
+  {
+    "url": "https://v0.dev/t/PYthYxV3afc",
+    "label": "Template for prompt: a school website that features all the clubs",
+    "dateAdded": "2024-02-23T14:30:02.801Z"
+  },
+  {
+    "url": "https://v0.dev/t/2BAn4LvwUMC",
+    "label": "Template for prompt: A page explaining installation steps.\nThere are three steps arranged horizontally.\nEach step is vertical with an image at the top and an explanation below.",
+    "dateAdded": "2024-02-23T14:30:02.801Z"
+  },
+  {
+    "url": "https://v0.dev/t/o6pdLJms28n",
+    "label": "Template for prompt: Vertical timeline for my World of Warcraft character. Use icons for events like level-up, battle, new gear.",
+    "dateAdded": "2024-02-23T14:30:02.801Z"
   }
 ]
