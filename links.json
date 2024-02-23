@@ -258,5 +258,135 @@
     "url": "https://v0.dev/t/8aPx2r041rz",
     "label": "Template for prompt: Huge title Big impact for a landing page to prompte a Python coding online course",
     "dateAdded": "2024-02-23T00:25:03.244Z"
+  },
+  {
+    "url": "https://v0.dev/t/Hk792YhvZlG",
+    "label": "Template for prompt: a profile page where you can follow a content creator and see their recent work",
+    "dateAdded": "2024-02-23T00:30:02.820Z"
+  },
+  {
+    "url": "https://v0.dev/t/YOQyezaNmv3",
+    "label": "Template for prompt: A image list with description and zoom on click",
+    "dateAdded": "2024-02-23T00:30:02.821Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zm1SwWoVTaJ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T00:30:02.821Z"
+  },
+  {
+    "url": "https://v0.dev/t/J0W4HBxz5AP",
+    "label": "Template for prompt: a blog website",
+    "dateAdded": "2024-02-23T00:30:02.821Z"
+  },
+  {
+    "url": "https://v0.dev/t/9JNErs25lTa",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T00:30:02.821Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z4Ot4pPj6r3",
+    "label": "Template for prompt: a subscriptions orders admin panel",
+    "dateAdded": "2024-02-23T00:30:02.821Z"
+  },
+  {
+    "url": "https://v0.dev/t/9ITkvKL5Eni",
+    "label": "Template for prompt: Give a 3D object editor with color, position, and a slider for size ",
+    "dateAdded": "2024-02-23T00:30:02.821Z"
+  },
+  {
+    "url": "https://v0.dev/t/qCwBeqYVSlv",
+    "label": "Template for prompt: generate a table for my school class schedule",
+    "dateAdded": "2024-02-23T00:30:02.821Z"
+  },
+  {
+    "url": "https://v0.dev/t/x0cc0rtEmdT",
+    "label": "Template for prompt: a page of map with pins and list of locations with filter",
+    "dateAdded": "2024-02-23T00:30:02.821Z"
+  },
+  {
+    "url": "https://v0.dev/t/96OqBCeUCoq",
+    "label": "Template for prompt: a signin page",
+    "dateAdded": "2024-02-23T00:30:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/qEB1eJfC63Q",
+    "label": "Template for prompt: 사용자 휴대번호 문자인증 요청 전 recaptcha로 컨펌받고 문자인증 버튼활성화 된후 인증 클릭시 인증코드 입력창 노출",
+    "dateAdded": "2024-02-23T00:30:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/o7Iq8dpd5gK",
+    "label": "Template for prompt: an subscription order",
+    "dateAdded": "2024-02-23T00:30:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/H5iJaxVyxmF",
+    "label": "Template for prompt: form with phone number verification by sms",
+    "dateAdded": "2024-02-23T00:30:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/58JzTewBDyl",
+    "label": "Template for prompt: sign up page with firebase integration",
+    "dateAdded": "2024-02-23T00:30:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/EhahDoh1l9H",
+    "label": "Template for prompt: data table",
+    "dateAdded": "2024-02-23T00:30:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/vaccXfwDghu",
+    "label": "Template for prompt: data table",
+    "dateAdded": "2024-02-23T00:30:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/RLAnZSXT3tm",
+    "label": "Template for prompt: an edit profile page",
+    "dateAdded": "2024-02-23T00:30:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/TUN0IhQ8HB3",
+    "label": "Template for prompt: Create a financial dashboard based on an array of transaction objects like this one:\n\n{\n    \"Date\": \"28-Dec\",\n    \"Company\": \"PONTERRA_AMERICAS\",\n    \"Account level I\": \"Income\",\n    \"Account level II\": \"Funding\",\n    \"Account level III\": \"Carbon_streaming\",\n    \"Description\": \"30 dic operational Funds      0119786557\",\n    \"Debit\": 0.0,\n    \"Credit\": 55376.81,\n    \"Balance\": 60102.9\n  },",
+    "dateAdded": "2024-02-23T00:30:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/k9LIH0o9qlk",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-02-23T00:30:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ip77uGdm1UJ",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-02-23T00:30:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zc2AM8YOf5d",
+    "label": "Template for prompt: modern footer",
+    "dateAdded": "2024-02-23T00:30:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/kTuVyt4nAxV",
+    "label": "Template for prompt: I need a patient portal profile, with two columns: one for the patients information with an avatar display, and another to be the patients exams, this one should be a table that display all the patients exams",
+    "dateAdded": "2024-02-23T00:30:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/deeLS6H3tXL",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T00:30:02.822Z"
+  },
+  {
+    "url": "https://v0.dev/t/GXePgQNcxPK",
+    "label": "Template for prompt: The ultra-summer internet radio station, with floating iframes of embedings that I can move around the page with mouse",
+    "dateAdded": "2024-02-23T00:30:02.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/2cJrj5vLDxg",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T00:30:02.823Z"
+  },
+  {
+    "url": "https://v0.dev/t/2k5m7moprnn",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T00:30:02.823Z"
   }
 ]
