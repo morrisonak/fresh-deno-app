@@ -14898,5 +14898,130 @@
     "url": "https://v0.dev/t/Be3t68rk5aI",
     "label": "Template for prompt: give me a contact seccion, for linkedin, gmail, whatsapp and github, atractive but simple and dark",
     "dateAdded": "2024-02-23T21:10:03.519Z"
+  },
+  {
+    "url": "https://v0.dev/t/e6DpqeLVRy7",
+    "label": "Template for prompt: a page where there are 4 cards, with the following titles:\n- Insert or modify\n- Consult projects or subprojects\n- check billing\n- check assignment\n\nThe first must have two buttons, one to insert and another to modify and the other three have a single button to redirect to those pages.",
+    "dateAdded": "2024-02-23T21:15:03.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/CrRNf6k0v1d",
+    "label": "Template for prompt: Search page showing results next to each other. Thumbnail should include a title and uploaded by. Some results will be collections, show multiple images for collection results",
+    "dateAdded": "2024-02-23T21:15:03.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/XUuIGHz5bu6",
+    "label": "Template for prompt: react product screen with image gallery also it should be wrapped with continer",
+    "dateAdded": "2024-02-23T21:15:03.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/emZgqVVQfBS",
+    "label": "Template for prompt: react product screen with image gallery also it should be wrapped with continer",
+    "dateAdded": "2024-02-23T21:15:03.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/thpBtiO1a8D",
+    "label": "Template for prompt: test",
+    "dateAdded": "2024-02-23T21:15:03.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/O7Oyn2lUks8",
+    "label": "Template for prompt: An analysis page for analyzing chess games. It should have a components for the PGN (which displays each move), stockfish analysis (for displaying the best lines going forward), the chessboard itself and a place to annotate the current position",
+    "dateAdded": "2024-02-23T21:15:03.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/La94eBdIo3c",
+    "label": "Template for prompt: a AI interface where the background represent the state of mind of the ai",
+    "dateAdded": "2024-02-23T21:15:03.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/OsWHbgZRLbb",
+    "label": "Template for prompt: dashboard for a survey app, list of active surveys, link to survey results page. blue badge with count of votes for each survey. button (blue bottom right) to create a new survey",
+    "dateAdded": "2024-02-23T21:15:03.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/KgQwO4LEKPr",
+    "label": "Template for prompt: modern mobile app for managing gym mwmbwership",
+    "dateAdded": "2024-02-23T21:15:03.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/WScpy90YgPd",
+    "label": "Template for prompt: a form with a select box with 10 languages in it for selection and a text area to type in a paragraph and a button labelled \"Translate\" with a modern look",
+    "dateAdded": "2024-02-23T21:15:03.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/sINKQPgefwR",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-23T21:15:03.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/kEfCT7M4UkT",
+    "label": "Template for prompt: can you recreate this tooltip ",
+    "dateAdded": "2024-02-23T21:15:03.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/ea92tTqGWwK",
+    "label": "Template for prompt: A switch/toggle selecting betwen yearly and monthly payments.",
+    "dateAdded": "2024-02-23T21:15:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/zmvrwhPgUdn",
+    "label": "Template for prompt: can you create this tooltip ",
+    "dateAdded": "2024-02-23T21:15:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/4JG4lr3LgkU",
+    "label": "Template for prompt: can you create this tooltip ",
+    "dateAdded": "2024-02-23T21:15:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/iiECPQIat6R",
+    "label": "Template for prompt: interface of a dashboard with a header and a button which display a block with services",
+    "dateAdded": "2024-02-23T21:15:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/bWwlX7hyNpp",
+    "label": "Template for prompt: a component that shows one or more addresses for a given person",
+    "dateAdded": "2024-02-23T21:15:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/nblDKvwpyx0",
+    "label": "Template for prompt: give me the website design for my academic service agency",
+    "dateAdded": "2024-02-23T21:15:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/VSGsvpa9OSL",
+    "label": "Template for prompt: This is part of my base design. It is a web app (built in NextJS) that helps people manage their kubernetes cluster. I want to symplify it even further and allow for users to start servers using a simple wizard. Can you create a design for this, where users can fill out the containers, the ports, volumes, etc. and then the resources (CPUs, memory, etc) and then have a results page with the details and the final URL?\n\nStep 1: Container Configuration\nTitle: Set Up Your Container\nInstructions: \"Fill in the details for the container you wish to run.\"\nFields:\nContainer Name\nContainer Image (e.g., nginx:latest)\nPorts (with options to add multiple ports)\nVolumes (with options to define volume mounts)\nEnvironment Variables (key-value pairs)\nCommands (if any)\nStep 2: Resource Allocation\nTitle: Allocate Resources\nInstructions: \"Specify the amount of resources to allocate to your container.\"\nFields:\nCPU Request (e.g., 250m)\nCPU Limit (e.g., 500m)\nMemory Request (e.g., 128Mi)\nMemory Limit (e.g., 2",
+    "dateAdded": "2024-02-23T21:15:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/4c7VkR89ghJ",
+    "label": "Template for prompt: This is part of my base design. It is a web app (built in NextJS) that helps people manage their kubernetes cluster. I want to symplify it even further and allow for users to start servers using a simple wizard. Can you create a design for this, where users can fill out the containers, the ports, volumes, etc. and then the resources (CPUs, memory, etc) and then have a results page with the details and the final URL?\n\nStep 1: Container Configuration\nTitle: Set Up Your Container\nInstructions: \"Fill in the details for the container you wish to run.\"\nFields:\nContainer Name\nContainer Image (e.g., nginx:latest)\nPorts (with options to add multiple ports)\nVolumes (with options to define volume mounts)\nEnvironment Variables (key-value pairs)\nCommands (if any)\nStep 2: Resource Allocation\nTitle: Allocate Resources\nInstructions: \"Specify the amount of resources to allocate to your container.\"\nFields:\nCPU Request (e.g., 250m)\nCPU Limit (e.g., 500m)\nMemory Request (e.g., 128Mi)\nMemory Limit (e.g., 2",
+    "dateAdded": "2024-02-23T21:15:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/O3agL6KvUQa",
+    "label": "Template for prompt: I need an interface to inform a user about their automation or email marketing parameters",
+    "dateAdded": "2024-02-23T21:15:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/IZkOW6cCcK9",
+    "label": "Template for prompt: a notifications dropdown menu for a nav bar",
+    "dateAdded": "2024-02-23T21:15:03.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/hsI4WFJUTJC",
+    "label": "Template for prompt: A iOS Movie Explore app",
+    "dateAdded": "2024-02-23T21:15:03.165Z"
+  },
+  {
+    "url": "https://v0.dev/t/UeeDCywrQn6",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-23T21:15:03.165Z"
+  },
+  {
+    "url": "https://v0.dev/t/5OCZsFOu2DQ",
+    "label": "Template for prompt: App to control restaurant tables and orders",
+    "dateAdded": "2024-02-23T21:15:03.165Z"
   }
 ]
