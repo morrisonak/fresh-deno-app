@@ -6108,5 +6108,135 @@
     "url": "https://v0.dev/t/XkwpgGNLFL9",
     "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
     "dateAdded": "2024-02-23T15:25:02.986Z"
+  },
+  {
+    "url": "https://v0.dev/t/lGmdnkKZFKd",
+    "label": "Template for prompt: Create a responsive navbar with logo on right side and 4 list items on left side and hambourg shoud appers on screens having width 992px and less.",
+    "dateAdded": "2024-02-23T15:30:03.781Z"
+  },
+  {
+    "url": "https://v0.dev/t/HH8uhAVdv9F",
+    "label": "Template for prompt: Create a page like this, page is about a \"bio\" page, bio as in where people can create theyre own about me pages.",
+    "dateAdded": "2024-02-23T15:30:03.781Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZlFVrzhGvOQ",
+    "label": "Template for prompt: code editor modal with comment section",
+    "dateAdded": "2024-02-23T15:30:03.781Z"
+  },
+  {
+    "url": "https://v0.dev/t/1ZqWSGQeetT",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T15:30:03.781Z"
+  },
+  {
+    "url": "https://v0.dev/t/FIUh9zEhYmV",
+    "label": "Template for prompt: Make a Was this article helpful? component at the end of a documentation page, make sure it shows how many people said it was helpful",
+    "dateAdded": "2024-02-23T15:30:03.781Z"
+  },
+  {
+    "url": "https://v0.dev/t/0qxRtWXk7Au",
+    "label": "Template for prompt: a character profile showing 5 axes. Each axis has a score going from -1 to 1. The score is represented by a rectangle on the axis representing the value",
+    "dateAdded": "2024-02-23T15:30:03.781Z"
+  },
+  {
+    "url": "https://v0.dev/t/gJ64014Jnx9",
+    "label": "Template for prompt: a profile label, display like. Role: Teacher",
+    "dateAdded": "2024-02-23T15:30:03.781Z"
+  },
+  {
+    "url": "https://v0.dev/t/qKa1hLkqFwf",
+    "label": "Template for prompt: create website",
+    "dateAdded": "2024-02-23T15:30:03.781Z"
+  },
+  {
+    "url": "https://v0.dev/t/VAEhkhfNYyU",
+    "label": "Template for prompt: create website",
+    "dateAdded": "2024-02-23T15:30:03.781Z"
+  },
+  {
+    "url": "https://v0.dev/t/dMY3IlI7sNV",
+    "label": "Template for prompt: An ecommercece website for snowboards",
+    "dateAdded": "2024-02-23T15:30:03.782Z"
+  },
+  {
+    "url": "https://v0.dev/t/u3UxqNWUu3Q",
+    "label": "Template for prompt: Component that showcases my projects",
+    "dateAdded": "2024-02-23T15:30:03.782Z"
+  },
+  {
+    "url": "https://v0.dev/t/zqHYFd8od9N",
+    "label": "Template for prompt: Component that showcases my projects",
+    "dateAdded": "2024-02-23T15:30:03.782Z"
+  },
+  {
+    "url": "https://v0.dev/t/xsBzqGBbvYJ",
+    "label": "Template for prompt: Create a landing page for a \"bio\" project, where pople can create theyre own \"about me\" pages",
+    "dateAdded": "2024-02-23T15:30:03.782Z"
+  },
+  {
+    "url": "https://v0.dev/t/UNjZol9tOpN",
+    "label": "Template for prompt: Story Display:\n\nThe central focus of the Story Board page is the display of the narrative itself. Each line of the story is presented sequentially, allowing users to follow the flow of the narrative effortlessly. The text is formatted for readability, with appropriate spacing and typography choices. As users scroll down the page, new lines of the story unfold, creating a compelling storytelling experience.\n\nContributed Lines:\n\nInterspersed among the main narrative are contributed lines from users. These lines are visually distinct, often highlighted with a different color or background to differentiate them from the original story. Each contributed line is accompanied by the username of the user who made the contribution, allowing for easy attribution and recognition.\n\nInteractive Features:\n\nUsers can actively engage with the contributed lines by clicking on them. Upon clicking, a sidebar or modal window appears, displaying additional details about the contribution. This includes the u",
+    "dateAdded": "2024-02-23T15:30:03.782Z"
+  },
+  {
+    "url": "https://v0.dev/t/8RGQSg4jr35",
+    "label": "Template for prompt: button with border and shadow",
+    "dateAdded": "2024-02-23T15:30:03.782Z"
+  },
+  {
+    "url": "https://v0.dev/t/YqJto97GF2O",
+    "label": "Template for prompt: a \"stay connected\" section with links to socials",
+    "dateAdded": "2024-02-23T15:30:03.782Z"
+  },
+  {
+    "url": "https://v0.dev/t/f2jtLmPUEsw",
+    "label": "Template for prompt: create tailwind css like this",
+    "dateAdded": "2024-02-23T15:30:03.782Z"
+  },
+  {
+    "url": "https://v0.dev/t/BL10U72SzbA",
+    "label": "Template for prompt: minimal login form",
+    "dateAdded": "2024-02-23T15:30:03.782Z"
+  },
+  {
+    "url": "https://v0.dev/t/BDDvlgwelpc",
+    "label": "Template for prompt: a seat reservation system for booking tickets with A and B locations",
+    "dateAdded": "2024-02-23T15:30:03.782Z"
+  },
+  {
+    "url": "https://v0.dev/t/Mp1efwMOomU",
+    "label": "Template for prompt: a business card like this or better",
+    "dateAdded": "2024-02-23T15:30:03.782Z"
+  },
+  {
+    "url": "https://v0.dev/t/GruUUuIosLg",
+    "label": "Template for prompt: create gradient button and animate when its hover",
+    "dateAdded": "2024-02-23T15:30:03.783Z"
+  },
+  {
+    "url": "https://v0.dev/t/j2cvG6NwQKS",
+    "label": "Template for prompt: generate a Welcome page, for a project called \"CMPS - 405 Project\" following the best practice. feel free to add anything you want",
+    "dateAdded": "2024-02-23T15:30:03.783Z"
+  },
+  {
+    "url": "https://v0.dev/t/iATf2VzqXel",
+    "label": "Template for prompt: A casting calls listing with a search bar",
+    "dateAdded": "2024-02-23T15:30:03.783Z"
+  },
+  {
+    "url": "https://v0.dev/t/XGYcN4cWTuY",
+    "label": "Template for prompt: create ieee website",
+    "dateAdded": "2024-02-23T15:30:03.783Z"
+  },
+  {
+    "url": "https://v0.dev/t/VEQYIWeP2Sy",
+    "label": "Template for prompt: Horizontally scrollable field with cards of products",
+    "dateAdded": "2024-02-23T15:30:03.783Z"
+  },
+  {
+    "url": "https://v0.dev/t/U2V67KtXinh",
+    "label": "Template for prompt: Marketing page for fitness app",
+    "dateAdded": "2024-02-23T15:30:03.783Z"
   }
 ]
