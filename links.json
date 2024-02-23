@@ -1483,5 +1483,120 @@
     "url": "https://v0.dev/t/w8pFo39ncF9",
     "label": "Template for prompt: A product card for some produce",
     "dateAdded": "2024-02-23T01:15:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/D5TzTUBljk5",
+    "label": "Template for prompt: retro and vintage site that mimics the aesthetic of the first macbook.",
+    "dateAdded": "2024-02-23T01:20:02.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/nSg6s6B2iq9",
+    "label": "Template for prompt: make a and responsive",
+    "dateAdded": "2024-02-23T01:20:02.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/PLtp8Cmrn6Q",
+    "label": "Template for prompt: select box",
+    "dateAdded": "2024-02-23T01:20:02.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q003o8WXewq",
+    "label": "Template for prompt: An SaaS dashboard (calorie tracker) with a sidebar navigation.",
+    "dateAdded": "2024-02-23T01:20:02.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/3hnJxnRdDFZ",
+    "label": "Template for prompt: generate device status charts",
+    "dateAdded": "2024-02-23T01:20:02.498Z"
+  },
+  {
+    "url": "https://v0.dev/t/9FLSAKF5B8n",
+    "label": "Template for prompt: Generate my a graph with thresholds on the upper and lower bounds identifying outliers",
+    "dateAdded": "2024-02-23T01:20:02.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/EUwa4qiMRlz",
+    "label": "Template for prompt: landing page for the Jenoschlopit cryptocurrency utilizing Binklehinden-vongenshraden verification tech",
+    "dateAdded": "2024-02-23T01:20:02.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/XLlWB13p5Wu",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T01:20:02.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/dMij0aAQc5B",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-23T01:20:02.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/OjGixBuOrxW",
+    "label": "Template for prompt: kanbanboard",
+    "dateAdded": "2024-02-23T01:20:02.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/zYdsKTl57VL",
+    "label": "Template for prompt: progressbar인데 최소값, 최대값, 그리고 평균을 표시해줘야해",
+    "dateAdded": "2024-02-23T01:20:02.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/Mwm9lzd8dfk",
+    "label": "Template for prompt: component to preview a friends profile page",
+    "dateAdded": "2024-02-23T01:20:02.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/LVd9LCKHNj3",
+    "label": "Template for prompt: A dashboard with a resizable and hideable sidebar and a header.",
+    "dateAdded": "2024-02-23T01:20:02.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/t8OcPE70rhE",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T01:20:02.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/qq2787ARmWo",
+    "label": "Template for prompt: A SaaS dashboard for a calorie tracker powered by AI.",
+    "dateAdded": "2024-02-23T01:20:02.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/NFYzS1jGmCB",
+    "label": "Template for prompt: A minimalist Discord bot dashboard, with left sidebar.",
+    "dateAdded": "2024-02-23T01:20:02.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/KwUPbw5eQci",
+    "label": "Template for prompt: a simple form for creating a \"note\" with a title and description",
+    "dateAdded": "2024-02-23T01:20:02.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/FFJPQwtRnP0",
+    "label": "Template for prompt: Organizational chart with multiple nodes representing org positions. Each position may have multiple reports, each report should be connected to the parent with a line",
+    "dateAdded": "2024-02-23T01:20:02.499Z"
+  },
+  {
+    "url": "https://v0.dev/t/6h6O5A5bsNi",
+    "label": "Template for prompt: Organizational chart with multiple nodes representing org positions. Each position may have multiple reports, each report should be connected to the parent with a line",
+    "dateAdded": "2024-02-23T01:20:02.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/L4qyhXxcZpl",
+    "label": "Template for prompt: Text editor, with options like: Changing font, changing text color etc. (Example: Google Docs, word), basically all in a toolbar on the top, with font being a select field, etc.",
+    "dateAdded": "2024-02-23T01:20:02.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/jzgIsDaVVEM",
+    "label": "Template for prompt: A home page for an application where users can join one or multiple different organizations. A user can also create an organization or manage ones they are an admin of. They should be able to search for different organizations available to join. Within an organization, a user can see a directory of the other members in the organization with each of their roles. A user can also see shifts/events they are scheduled for or shifts/events they can sign up for. ",
+    "dateAdded": "2024-02-23T01:20:02.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/ELVQNDQavRa",
+    "label": "Template for prompt: Landing page for a new revolutionary currency named  Jenoschlopit, and explain why its better than alternative cryptocurrencies",
+    "dateAdded": "2024-02-23T01:20:02.500Z"
+  },
+  {
+    "url": "https://v0.dev/t/MofgD8oWbX2",
+    "label": "Template for prompt: kanban dashboard",
+    "dateAdded": "2024-02-23T01:20:02.500Z"
   }
 ]
