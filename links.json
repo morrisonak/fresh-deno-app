@@ -18383,5 +18383,130 @@
     "url": "https://v0.dev/t/4tOdVm8KHC7",
     "label": "Template for prompt: Personal profile page, and under the profile, the account’s posts, make them in the middle.",
     "dateAdded": "2024-02-23T23:30:03.155Z"
+  },
+  {
+    "url": "https://v0.dev/t/ThMkaxfZaEM",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-02-23T23:35:03.887Z"
+  },
+  {
+    "url": "https://v0.dev/t/RSqljrwikQY",
+    "label": "Template for prompt: A SaaS admin dashboard",
+    "dateAdded": "2024-02-23T23:35:03.887Z"
+  },
+  {
+    "url": "https://v0.dev/t/x1lhL4EIpNj",
+    "label": "Template for prompt: A contact card that looks like an index card",
+    "dateAdded": "2024-02-23T23:35:03.887Z"
+  },
+  {
+    "url": "https://v0.dev/t/v59P6D60u9D",
+    "label": "Template for prompt: mejorar menu ",
+    "dateAdded": "2024-02-23T23:35:03.887Z"
+  },
+  {
+    "url": "https://v0.dev/t/042UM2L9a0S",
+    "label": "Template for prompt: design this onboarding flow",
+    "dateAdded": "2024-02-23T23:35:03.887Z"
+  },
+  {
+    "url": "https://v0.dev/t/iIPwnsu1qDM",
+    "label": "Template for prompt: interface that allows to select image, with a button to analyze image and a container where the selected image is displayed.",
+    "dateAdded": "2024-02-23T23:35:03.887Z"
+  },
+  {
+    "url": "https://v0.dev/t/AtWsyVrQEFD",
+    "label": "Template for prompt: Create a timer landing page",
+    "dateAdded": "2024-02-23T23:35:03.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/qaUPgdvsPwQ",
+    "label": "Template for prompt: create me a table using tanstack table with the following headers\n\ncampaignName,platformSelection,typeSelection,campaignIndustry,amount,campaignStartDate,campaignEndDate,activityType",
+    "dateAdded": "2024-02-23T23:35:03.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/LVf8dnZbXRy",
+    "label": "Template for prompt: A unit conversion website",
+    "dateAdded": "2024-02-23T23:35:03.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/MqgpofsbShW",
+    "label": "Template for prompt: landing page with title, description and background image",
+    "dateAdded": "2024-02-23T23:35:03.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/A9h5ZcH4B3j",
+    "label": "Template for prompt: plud.dj dashboard",
+    "dateAdded": "2024-02-23T23:35:03.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/l9nQB7kbuWO",
+    "label": "Template for prompt: A tax rate calculatro",
+    "dateAdded": "2024-02-23T23:35:03.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/lmR0RwbLUxi",
+    "label": "Template for prompt: Make a screen for a input based webgame where each user has to provide a answer. Add a little indecator at the bottom who has given their answer",
+    "dateAdded": "2024-02-23T23:35:03.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZpCgeQbfhr9",
+    "label": "Template for prompt: create react only dashboard",
+    "dateAdded": "2024-02-23T23:35:03.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/eVZ6EqBpIWV",
+    "label": "Template for prompt: a portfolio of a full stack web developer",
+    "dateAdded": "2024-02-23T23:35:03.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ms2upPjjPon",
+    "label": "Template for prompt: plug.dj dashboard",
+    "dateAdded": "2024-02-23T23:35:03.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/fpwSF6JgoZj",
+    "label": "Template for prompt: An autocomplete component that shows an image and a description of each item as you search it",
+    "dateAdded": "2024-02-23T23:35:03.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/eJwImXDkb9O",
+    "label": "Template for prompt: Delete account card",
+    "dateAdded": "2024-02-23T23:35:03.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/T8slEqUvcuT",
+    "label": "Template for prompt: users table containing name, e-mail, role ",
+    "dateAdded": "2024-02-23T23:35:03.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/dD9hkNaVUCA",
+    "label": "Template for prompt: A main website for countryside",
+    "dateAdded": "2024-02-23T23:35:03.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/VD95uSD3VUc",
+    "label": "Template for prompt: you are a front end programmer. Create an exact replica of the image as a website using html javascript, jquery, css. Maintain the color, layout and data. Maintain the exact look and feel of the buttons ",
+    "dateAdded": "2024-02-23T23:35:03.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/gSwsIf1P5qf",
+    "label": "Template for prompt: create a dashboard with header, side navbar, main content with multiple cards and sections",
+    "dateAdded": "2024-02-23T23:35:03.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/I71IfSbJWEY",
+    "label": "Template for prompt: you are a front end programmer. Create an exact replica of the image as a website using html javascript, jquery, css. Maintain the color, layout and data. Maintain the exact look and feel of the buttons ",
+    "dateAdded": "2024-02-23T23:35:03.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/tE9S3wfivJG",
+    "label": "Template for prompt: Hero section about the company with a picture",
+    "dateAdded": "2024-02-23T23:35:03.889Z"
+  },
+  {
+    "url": "https://v0.dev/t/8QBlz6VNjee",
+    "label": "Template for prompt: login for app",
+    "dateAdded": "2024-02-23T23:35:03.890Z"
   }
 ]
