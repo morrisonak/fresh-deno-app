@@ -2708,5 +2708,130 @@
     "url": "https://v0.dev/t/Jg9TofoOfYX",
     "label": "Template for prompt: a dashboard page for rrhh admin",
     "dateAdded": "2024-02-23T02:05:02.819Z"
+  },
+  {
+    "url": "https://v0.dev/t/WWeDINGmr8b",
+    "label": "Template for prompt: A React component with a list of player names.  Each name has a number input field next to it, accepting values from 1 to 5",
+    "dateAdded": "2024-02-23T02:10:03.189Z"
+  },
+  {
+    "url": "https://v0.dev/t/V030x22EV0m",
+    "label": "Template for prompt: A login page with and enter username box, enter password box, login button and create account button on top of the page have a picture slideshow. ",
+    "dateAdded": "2024-02-23T02:10:03.189Z"
+  },
+  {
+    "url": "https://v0.dev/t/lYCi4pEeRm0",
+    "label": "Template for prompt: Login page with username, password, company logo, side image 50% page ",
+    "dateAdded": "2024-02-23T02:10:03.189Z"
+  },
+  {
+    "url": "https://v0.dev/t/HoZ4gQYb2LS",
+    "label": "Template for prompt: make a form license key submit responsive and use best font",
+    "dateAdded": "2024-02-23T02:10:03.189Z"
+  },
+  {
+    "url": "https://v0.dev/t/CvUuzmkVHEd",
+    "label": "Template for prompt: 사진처럼 디자인해줘",
+    "dateAdded": "2024-02-23T02:10:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/mm7S41A99kX",
+    "label": "Template for prompt: create a chat interface similar to chatgpt",
+    "dateAdded": "2024-02-23T02:10:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/vGlDZT2ZdVv",
+    "label": "Template for prompt: make a login with key responsive",
+    "dateAdded": "2024-02-23T02:10:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/mgkyZ1ndKfa",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T02:10:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/MHF2rSOD37t",
+    "label": "Template for prompt: hierarchical and expandable sidebar menu",
+    "dateAdded": "2024-02-23T02:10:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/BREah9VXE1h",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T02:10:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/3o0Rz94BDKy",
+    "label": "Template for prompt: Homepage for an AI startup company, including a header, a hero section, a section for introducing its four products, typical scenarios, and contacts. It should be concise and have responsive design.",
+    "dateAdded": "2024-02-23T02:10:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/biKN2lau2lt",
+    "label": "Template for prompt: a drag and drop (dropzone) component",
+    "dateAdded": "2024-02-23T02:10:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/4Exc2hjvkJ2",
+    "label": "Template for prompt: A landing page for a service for SME business owners called One Minute Marketer. It is pitching an automated creation of leadgen landing pages and automated management of Google Ads account. The pitch is to set up their digital marketing in one minute.",
+    "dateAdded": "2024-02-23T02:10:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/BSk0nCjHl0H",
+    "label": "Template for prompt: generate a popup login with gmail and mail link",
+    "dateAdded": "2024-02-23T02:10:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/0o3Rqq5TMQe",
+    "label": "Template for prompt: a web page that provide tool to compress image",
+    "dateAdded": "2024-02-23T02:10:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/JCTWOTSbjIh",
+    "label": "Template for prompt: a collapsible card component that show only a name when collapsed.  When expanded, it additionally shows the persons job title, contact information, and address, all of which are optionally editable",
+    "dateAdded": "2024-02-23T02:10:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/YTTes4YwO9c",
+    "label": "Template for prompt: a minimalist blog post template",
+    "dateAdded": "2024-02-23T02:10:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wtjg2Jz4pKT",
+    "label": "Template for prompt: a modal wizard page with a qr code and a pin form entry field",
+    "dateAdded": "2024-02-23T02:10:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/EGKYiPR3PRY",
+    "label": "Template for prompt: use inline styles",
+    "dateAdded": "2024-02-23T02:10:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/cEEbpvkA3s9",
+    "label": "Template for prompt: use inline styles",
+    "dateAdded": "2024-02-23T02:10:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/XSSn2l9EWFv",
+    "label": "Template for prompt: use inline styles",
+    "dateAdded": "2024-02-23T02:10:03.190Z"
+  },
+  {
+    "url": "https://v0.dev/t/AJ31QObZh8e",
+    "label": "Template for prompt: Recreate this twitter. ui",
+    "dateAdded": "2024-02-23T02:10:03.191Z"
+  },
+  {
+    "url": "https://v0.dev/t/rd8B8eSby5G",
+    "label": "Template for prompt: full page profile page, showing profile picture, user information, companiy information adn group informat",
+    "dateAdded": "2024-02-23T02:10:03.191Z"
+  },
+  {
+    "url": "https://v0.dev/t/n2s1rw3O0G0",
+    "label": "Template for prompt: 이런거 만들어줘",
+    "dateAdded": "2024-02-23T02:10:03.191Z"
+  },
+  {
+    "url": "https://v0.dev/t/XuFCnolehD3",
+    "label": "Template for prompt: I need a profile page",
+    "dateAdded": "2024-02-23T02:10:03.191Z"
   }
 ]
