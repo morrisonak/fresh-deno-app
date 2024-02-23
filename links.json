@@ -1353,5 +1353,135 @@
     "url": "https://v0.dev/t/VNf4YOBgQHL",
     "label": "Template for prompt: Create a modern user-friendly login page designed according to UX principles. This page will feature a single authentication method: login via phone number. The layout includes an input field that allows users to select their country from a dropdown menu, ensuring the phone number input is automatically formatted according to the selected country's standards. There will be a prominent login button for user action. Additionally, for users who do not have an account, there will be a clearly marked, underlined label stating \"Choose a Plan\" which, when clicked, redirects them to the homepage to select a subscription plan. This design emphasizes simplicity, ease of use, and efficient navigation, catering to a seamless user experience.",
     "dateAdded": "2024-02-23T01:10:03.066Z"
+  },
+  {
+    "url": "https://v0.dev/t/qq2787ARmWo",
+    "label": "Template for prompt: A SaaS dashboard for a calorie tracker powered by AI.",
+    "dateAdded": "2024-02-23T01:15:02.881Z"
+  },
+  {
+    "url": "https://v0.dev/t/NFYzS1jGmCB",
+    "label": "Template for prompt: A minimalist Discord bot dashboard, with left sidebar.",
+    "dateAdded": "2024-02-23T01:15:02.881Z"
+  },
+  {
+    "url": "https://v0.dev/t/KwUPbw5eQci",
+    "label": "Template for prompt: a simple form for creating a \"note\" with a title and description",
+    "dateAdded": "2024-02-23T01:15:02.881Z"
+  },
+  {
+    "url": "https://v0.dev/t/FFJPQwtRnP0",
+    "label": "Template for prompt: Organizational chart with multiple nodes representing org positions. Each position may have multiple reports, each report should be connected to the parent with a line",
+    "dateAdded": "2024-02-23T01:15:02.881Z"
+  },
+  {
+    "url": "https://v0.dev/t/6h6O5A5bsNi",
+    "label": "Template for prompt: Organizational chart with multiple nodes representing org positions. Each position may have multiple reports, each report should be connected to the parent with a line",
+    "dateAdded": "2024-02-23T01:15:02.881Z"
+  },
+  {
+    "url": "https://v0.dev/t/mjZ4FkCs9Zk",
+    "label": "Template for prompt: Organizational chart with multiple nodes representing org positions. Each position may have multiple reports, each report should be connected to the parent with a line",
+    "dateAdded": "2024-02-23T01:15:02.881Z"
+  },
+  {
+    "url": "https://v0.dev/t/L4qyhXxcZpl",
+    "label": "Template for prompt: Text editor, with options like: Changing font, changing text color etc. (Example: Google Docs, word), basically all in a toolbar on the top, with font being a select field, etc.",
+    "dateAdded": "2024-02-23T01:15:02.881Z"
+  },
+  {
+    "url": "https://v0.dev/t/jzgIsDaVVEM",
+    "label": "Template for prompt: A home page for an application where users can join one or multiple different organizations. A user can also create an organization or manage ones they are an admin of. They should be able to search for different organizations available to join. Within an organization, a user can see a directory of the other members in the organization with each of their roles. A user can also see shifts/events they are scheduled for or shifts/events they can sign up for. ",
+    "dateAdded": "2024-02-23T01:15:02.881Z"
+  },
+  {
+    "url": "https://v0.dev/t/ELVQNDQavRa",
+    "label": "Template for prompt: Landing page for a new revolutionary currency named  Jenoschlopit, and explain why its better than alternative cryptocurrencies",
+    "dateAdded": "2024-02-23T01:15:02.881Z"
+  },
+  {
+    "url": "https://v0.dev/t/MofgD8oWbX2",
+    "label": "Template for prompt: kanban dashboard",
+    "dateAdded": "2024-02-23T01:15:02.881Z"
+  },
+  {
+    "url": "https://v0.dev/t/e5Xmk5nGaVq",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T01:15:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/kSLzWj3vD6F",
+    "label": "Template for prompt: A nice homepage with a Hero text that says \"development of the world wide web\" and space for additional text via scrolling. Make the website be styled after retro, first websites and transition into a modern and sleek design as the user scrolls.",
+    "dateAdded": "2024-02-23T01:15:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/r4A5EgUmp27",
+    "label": "Template for prompt: mobile sidebar navigation component",
+    "dateAdded": "2024-02-23T01:15:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/iTzghmRaIkD",
+    "label": "Template for prompt:  Jenoschlopit crypto",
+    "dateAdded": "2024-02-23T01:15:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/SfN7IRoq7cV",
+    "label": "Template for prompt: A social media picture viewer. It shows who uploaded the picture, when it was taken, the picture itself. It also has a next and previous button on the sides. The pictures are all vertical, aproximately 2:1 ratio",
+    "dateAdded": "2024-02-23T01:15:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/5lzBNnxLBfw",
+    "label": "Template for prompt: On top half of screen, you can upload xlsx files (drop and drag). On bottom half of screen, you can check the list of uploaded files and file processing status. In the list, there is progress bar and status. It is beautifully designed and anyone can use it easily.",
+    "dateAdded": "2024-02-23T01:15:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/i6yreCzrnIk",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-23T01:15:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/rYPJJYXt1Qt",
+    "label": "Template for prompt: fix navbar:\n\n\n\"use client\";\n\nimport { useState } from \"react\";\nimport Image from \"next/image\";\nimport Link from \"next/link\";\nimport logo from \"@/public/logo.svg\";\nimport ThemeSwitchButton from \"./ThemeSwitchButton\";\nimport MobileMenuBar from \"../icons/mobile-menu-bar\";\n\nexport default function Navbar() {\n  const [isMenuOpen, setIsMenuOpen] = useState(false);\n\n  const toggleMenu = () => {\n    setIsMenuOpen(!isMenuOpen);\n  };\n\n  return (\n    <nav className=\"fixed inset-x-0 top-0 z-50 border-gray-200 bg-[#eff1f5] backdrop-filter dark:bg-[#0d1117]\">\n      <div className=\"mx-auto flex max-w-screen-xl flex-wrap items-center justify-between px-4 py-8\">\n        <Link href=\"/\" className=\"flex items-center\">\n          <Image\n            className=\"mr-3 h-8 dark:invert\"\n            alt=\"Eternalcode Logo\"\n            aria-label=\"Eternalcode Logo\"\n            src={logo}\n            width=\"32\"\n            height=\"32\"\n          />\n          <span className=\"hidden self-center whitespace-nowrap text-2",
+    "dateAdded": "2024-02-23T01:15:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/XGRFYUzj7Yk",
+    "label": "Template for prompt: a ui to ouput a generated article",
+    "dateAdded": "2024-02-23T01:15:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/zn60NhKB6Uo",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-23T01:15:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/XLbVtCjlHF9",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-23T01:15:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/XKD7KGnLpUK",
+    "label": "Template for prompt: create a website home page for a mini soccer place with dark green as the theme color",
+    "dateAdded": "2024-02-23T01:15:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/L3QQIfKPXjr",
+    "label": "Template for prompt: create a portfolio website with all features ",
+    "dateAdded": "2024-02-23T01:15:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/1JWUReGseXz",
+    "label": "Template for prompt: A Chat UI looks like OpenAI",
+    "dateAdded": "2024-02-23T01:15:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/WWcQeJH1971",
+    "label": "Template for prompt: A countdown for an index page",
+    "dateAdded": "2024-02-23T01:15:02.882Z"
+  },
+  {
+    "url": "https://v0.dev/t/w8pFo39ncF9",
+    "label": "Template for prompt: A product card for some produce",
+    "dateAdded": "2024-02-23T01:15:02.882Z"
   }
 ]
