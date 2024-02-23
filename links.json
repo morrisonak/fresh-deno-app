@@ -1,0 +1,132 @@
+[
+  {
+    "url": "https://v0.dev/t/TUN0IhQ8HB3",
+    "label": "Template for prompt: Create a financial dashboard based on an array of transaction objects like this one:\n\n{\n    \"Date\": \"28-Dec\",\n    \"Company\": \"PONTERRA_AMERICAS\",\n    \"Account level I\": \"Income\",\n    \"Account level II\": \"Funding\",\n    \"Account level III\": \"Carbon_streaming\",\n    \"Description\": \"30 dic operational Funds      0119786557\",\n    \"Debit\": 0.0,\n    \"Credit\": 55376.81,\n    \"Balance\": 60102.9\n  },",
+    "dateAdded": "2024-02-23T00:20:03.784Z"
+  },
+  {
+    "url": "https://v0.dev/t/k9LIH0o9qlk",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-02-23T00:20:03.785Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ip77uGdm1UJ",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-02-23T00:20:03.785Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zc2AM8YOf5d",
+    "label": "Template for prompt: modern footer",
+    "dateAdded": "2024-02-23T00:20:03.785Z"
+  },
+  {
+    "url": "https://v0.dev/t/kTuVyt4nAxV",
+    "label": "Template for prompt: I need a patient portal profile, with two columns: one for the patients information with an avatar display, and another to be the patients exams, this one should be a table that display all the patients exams",
+    "dateAdded": "2024-02-23T00:20:03.785Z"
+  },
+  {
+    "url": "https://v0.dev/t/deeLS6H3tXL",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T00:20:03.786Z"
+  },
+  {
+    "url": "https://v0.dev/t/GXePgQNcxPK",
+    "label": "Template for prompt: The ultra-summer internet radio station, with floating iframes of embedings that I can move around the page with mouse",
+    "dateAdded": "2024-02-23T00:20:03.786Z"
+  },
+  {
+    "url": "https://v0.dev/t/2cJrj5vLDxg",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T00:20:03.786Z"
+  },
+  {
+    "url": "https://v0.dev/t/2k5m7moprnn",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T00:20:03.786Z"
+  },
+  {
+    "url": "https://v0.dev/t/QXLdPIBZmsC",
+    "label": "Template for prompt: card",
+    "dateAdded": "2024-02-23T00:20:03.786Z"
+  },
+  {
+    "url": "https://v0.dev/t/Nw6C5XbkGzk",
+    "label": "Template for prompt: See more component for big text limiting the size",
+    "dateAdded": "2024-02-23T00:20:03.786Z"
+  },
+  {
+    "url": "https://v0.dev/t/7LD3Ca07urL",
+    "label": "Template for prompt: make a poolsuite.net clone ",
+    "dateAdded": "2024-02-23T00:20:03.787Z"
+  },
+  {
+    "url": "https://v0.dev/t/vjKiDClIW2g",
+    "label": "Template for prompt: a ui that allows a user to insert a youtube link that will be rewritten into a article. The ui should provide the option to input the article length, the audience and tone ",
+    "dateAdded": "2024-02-23T00:20:03.787Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qvqlr3pXBMw",
+    "label": "Template for prompt: dark mode file browser",
+    "dateAdded": "2024-02-23T00:20:03.787Z"
+  },
+  {
+    "url": "https://v0.dev/t/SGnBSAVR97J",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T00:20:03.787Z"
+  },
+  {
+    "url": "https://v0.dev/t/UZNvwb1lBzJ",
+    "label": "Template for prompt: make a dark pricing plan for a premium SaaS product",
+    "dateAdded": "2024-02-23T00:20:03.787Z"
+  },
+  {
+    "url": "https://v0.dev/t/8aPx2r041rz",
+    "label": "Template for prompt: Huge title Big impact for a landing page to prompte a Python coding online course",
+    "dateAdded": "2024-02-23T00:20:03.787Z"
+  },
+  {
+    "url": "https://v0.dev/t/PMukOBGitkx",
+    "label": "Template for prompt: card to input a 6 digits token",
+    "dateAdded": "2024-02-23T00:20:03.787Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y4kbdklqvfU",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-23T00:20:03.787Z"
+  },
+  {
+    "url": "https://v0.dev/t/I7l33mC0flA",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-02-23T00:20:03.787Z"
+  },
+  {
+    "url": "https://v0.dev/t/oWQPq06fFGu",
+    "label": "Template for prompt: dashboard to submit text. show multiple small cards with title, upvote and downvote, and count of votes.",
+    "dateAdded": "2024-02-23T00:20:03.788Z"
+  },
+  {
+    "url": "https://v0.dev/t/rSOvUD07ssI",
+    "label": "Template for prompt: A simple ui to manage domains under an organization",
+    "dateAdded": "2024-02-23T00:20:03.788Z"
+  },
+  {
+    "url": "https://v0.dev/t/LTynqYpGoxr",
+    "label": "Template for prompt: implement this",
+    "dateAdded": "2024-02-23T00:20:03.788Z"
+  },
+  {
+    "url": "https://v0.dev/t/BvioRVAq6jD",
+    "label": "Template for prompt: create a manage profile",
+    "dateAdded": "2024-02-23T00:20:03.788Z"
+  },
+  {
+    "url": "https://v0.dev/t/yscSAUo4aOe",
+    "label": "Template for prompt: a page for a user to reset their password",
+    "dateAdded": "2024-02-23T00:20:03.788Z"
+  },
+  {
+    "url": "https://v0.dev/t/t8cxuSmaRMo",
+    "label": "Template for prompt: login page",
+    "dateAdded": "2024-02-23T00:20:03.788Z"
+  }
+]
