@@ -17163,5 +17163,135 @@
     "url": "https://v0.dev/t/6xScIZ16irj",
     "label": "Template for prompt: a sleek and modern landing page of an upcoming marketplace with a button to create an account or sign up for the email list",
     "dateAdded": "2024-02-23T22:40:02.495Z"
+  },
+  {
+    "url": "https://v0.dev/t/KmjmxHcKi06",
+    "label": "Template for prompt: generate a moder 3d hover effect on card",
+    "dateAdded": "2024-02-23T22:45:03.515Z"
+  },
+  {
+    "url": "https://v0.dev/t/p9VqIl4Yr20",
+    "label": "Template for prompt: \nCreate a header that has a navigation bar, add a good design with some svg or decoration",
+    "dateAdded": "2024-02-23T22:45:03.515Z"
+  },
+  {
+    "url": "https://v0.dev/t/oV5segoMj4V",
+    "label": "Template for prompt: a wizard that walks a user through 3 steps in documenting an expense. First step, is selecting a user, second step is filling out general details like purchase location, and purchase date, and receipt image. Third step is itemizing actually what you bought.",
+    "dateAdded": "2024-02-23T22:45:03.515Z"
+  },
+  {
+    "url": "https://v0.dev/t/Vjhj39zU5Ms",
+    "label": "Template for prompt: Trust hero section with icon",
+    "dateAdded": "2024-02-23T22:45:03.515Z"
+  },
+  {
+    "url": "https://v0.dev/t/An8rXg1leqm",
+    "label": "Template for prompt: Login",
+    "dateAdded": "2024-02-23T22:45:03.515Z"
+  },
+  {
+    "url": "https://v0.dev/t/lm26fjD5sHS",
+    "label": "Template for prompt: Generate a pomodoro timer using this prompt, make it more user friendly\n",
+    "dateAdded": "2024-02-23T22:45:03.515Z"
+  },
+  {
+    "url": "https://v0.dev/t/UqNx4NVRVwJ",
+    "label": "Template for prompt: Make a landing page that looks like the image",
+    "dateAdded": "2024-02-23T22:45:03.515Z"
+  },
+  {
+    "url": "https://v0.dev/t/cedyk8uBN40",
+    "label": "Template for prompt: Create a simple form with the following inputs \n- Selector : Assigned builder (List of 3 different names)\n- Selector : Type (Feature, Fix, Improvement)\n- Input : Titlte\n- Text Area : Short description\n- Button to cancel\n- Button to generate ",
+    "dateAdded": "2024-02-23T22:45:03.515Z"
+  },
+  {
+    "url": "https://v0.dev/t/TpDfVsS66Wg",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T22:45:03.515Z"
+  },
+  {
+    "url": "https://v0.dev/t/LuDdsJ1bQdy",
+    "label": "Template for prompt: trust heiro",
+    "dateAdded": "2024-02-23T22:45:03.515Z"
+  },
+  {
+    "url": "https://v0.dev/t/IfEltAzEJeM",
+    "label": "Template for prompt: project management dashboard",
+    "dateAdded": "2024-02-23T22:45:03.515Z"
+  },
+  {
+    "url": "https://v0.dev/t/zAdLNIevu41",
+    "label": "Template for prompt: A landing page for header section with title, paragraph, with modern design.",
+    "dateAdded": "2024-02-23T22:45:03.515Z"
+  },
+  {
+    "url": "https://v0.dev/t/SnudyyGUrZK",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T22:45:03.515Z"
+  },
+  {
+    "url": "https://v0.dev/t/qUiGhgc5k9q",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-02-23T22:45:03.515Z"
+  },
+  {
+    "url": "https://v0.dev/t/MqbEXjK02jF",
+    "label": "Template for prompt: A homepage for a forensic investigator",
+    "dateAdded": "2024-02-23T22:45:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/hnqwpCNnwJM",
+    "label": "Template for prompt: un boton con un icono de usuario, cuando pongo el mouse sobre el se habre un spreadsheet con opciones",
+    "dateAdded": "2024-02-23T22:45:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/JtyTPRbya3a",
+    "label": "Template for prompt: A component displaying this information \"Your browser: 2/23/2024, 11:19 PM Europe/Oslo locales: en-US, en, nb-NO, nb, en-GB\"",
+    "dateAdded": "2024-02-23T22:45:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/vF6MilE8kw3",
+    "label": "Template for prompt: translation page",
+    "dateAdded": "2024-02-23T22:45:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/b5lgXMcqGxK",
+    "label": "Template for prompt: The first page for a car rental website that highlights some cars and the service ",
+    "dateAdded": "2024-02-23T22:45:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/gBWLGsxBZpa",
+    "label": "Template for prompt: create ai app for text to video",
+    "dateAdded": "2024-02-23T22:45:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/yJafMAM4z7T",
+    "label": "Template for prompt: Sidebar dark mode con tailwind  para un dashboard",
+    "dateAdded": "2024-02-23T22:45:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/ECKrMlZQJCD",
+    "label": "Template for prompt: Page showing exercise details with an image, a back button and buttons to edit/delete exercise and to add exercise to a user's training and to favorite exercises",
+    "dateAdded": "2024-02-23T22:45:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/BJzdcBgABKi",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-23T22:45:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZEJenVXDePF",
+    "label": "Template for prompt: A house rental landing page similar to airbnb",
+    "dateAdded": "2024-02-23T22:45:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/6FbS0uxUuJF",
+    "label": "Template for prompt: tabla que muestre todas las areas",
+    "dateAdded": "2024-02-23T22:45:03.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/MsPmOYcNLAr",
+    "label": "Template for prompt: vercel style hero section",
+    "dateAdded": "2024-02-23T22:45:03.517Z"
   }
 ]
