@@ -4218,5 +4218,135 @@
     "url": "https://v0.dev/t/HE1SnAE0Kv0",
     "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
     "dateAdded": "2024-02-23T14:10:02.702Z"
+  },
+  {
+    "url": "https://v0.dev/t/A4sq8ZZsmA7",
+    "label": "Template for prompt: A landing page for a book ",
+    "dateAdded": "2024-02-23T14:15:03.311Z"
+  },
+  {
+    "url": "https://v0.dev/t/X31SZp0i9J3",
+    "label": "Template for prompt: 五角形のレーダーチャートと５つの積み上げ棒グラフが左右に表示されるページ",
+    "dateAdded": "2024-02-23T14:15:03.311Z"
+  },
+  {
+    "url": "https://v0.dev/t/rnWSXk8HkrW",
+    "label": "Template for prompt: Oyun xeberleri saytı,kateqoriyalar elave et,axtaris bolmesi elave et ",
+    "dateAdded": "2024-02-23T14:15:03.311Z"
+  },
+  {
+    "url": "https://v0.dev/t/c7mp8KK6FtP",
+    "label": "Template for prompt: Oyun xeberleri saytı,kateqoriyalar elave et,axtaris bolmesi elave et ",
+    "dateAdded": "2024-02-23T14:15:03.311Z"
+  },
+  {
+    "url": "https://v0.dev/t/VXHLLv4AGM7",
+    "label": "Template for prompt: Dashboard for SnackTrack Resumo Nutricional Diário: No topo do dashboard, deve haver um resumo que mostra o total de calorias consumidas, assim como a distribuição de macronutrientes (proteínas, carboidratos, gorduras) do dia atual.\n\nHistórico de Refeições: Uma seção onde os usuários podem visualizar um histórico das refeições enviadas, incluindo a análise de calorias e macronutrientes de cada uma. Isso pode ser apresentado em uma lista ou em um layout de grade com fotos das refeições.\n\nProgresso de Metas: Um gráfico de barras ou de linha que exibe o progresso do usuário em relação às suas metas de calorias e nutrição ao longo do tempo, similar ao gráfico \"Overview\" no modelo enviado.\n\nRecomendações de Nutrição: Um espaço para sugestões personalizadas com base na análise das refeições do usuário. Isso pode incluir conselhos para equilibrar a dieta ou atingir objetivos específicos.\n\nIntegração com o WhatsApp: Deve haver uma indicação clara de que o usuário pode registrar suas refeições ",
+    "dateAdded": "2024-02-23T14:15:03.311Z"
+  },
+  {
+    "url": "https://v0.dev/t/Edt7srh6RMv",
+    "label": "Template for prompt: User\ngive me ux ideas of a trade account info popup with this data:\n\n{\n    \"Login\": 172283,\n    \"FirstTradeTime\": 1708428861,\n    \"lastTradeTime\": 1708502821,\n    \"CountTrade\": 4,\n    \"MaxDrawdown\": 0.040804779302853714,\n    \"CountDayTrade\": 2,\n    \"Chart\": [\n        {\n            \"Time\": 0,\n            \"Balance\": 0,\n            \"Equity\": 0\n        },\n        {\n            \"Time\": 1708428855,\n            \"Balance\": 10000,\n            \"Equity\": 10000\n        },\n        {\n            \"Time\": 1708428856,\n            \"Balance\": 10000,\n            \"Equity\": 10000\n        },\n    ]\n}",
+    "dateAdded": "2024-02-23T14:15:03.311Z"
+  },
+  {
+    "url": "https://v0.dev/t/Hk08RVd0Lc4",
+    "label": "Template for prompt: ### SnackTrack Dashboard Overview\n\n**Daily Nutrition Summary:** At the top, you’ll find a snapshot of the day’s total calorie count and macronutrient distribution (protein, carbs, fats).\n\n**Meal History:** Scroll through a log of your meal uploads, complete with calorie and nutrient analysis, viewable as a list or grid with images.\n\n**Goal Progress:** Track your calorie and nutrition goals over time with a bar or line chart similar to the \"Overview\" graph.\n\n**Nutrition Recommendations:** Get customized dietary tips based on your meal data to help balance your diet or meet specific objectives.\n\n**WhatsApp Integration:** Look for a clear sign you can log meals via WhatsApp, possibly a button to open the messenger app directly.\n\n**Quick Log Access:** Use shortcuts to easily add new meal details by photo, voice, or text.\n\n**Feedback & Support Section:** A place to suggest new features or get answers to FAQs.\n\n**Privacy Control Panel:** Manage who sees your data and images in this dedicated",
+    "dateAdded": "2024-02-23T14:15:03.311Z"
+  },
+  {
+    "url": "https://v0.dev/t/6lS5OYKsePg",
+    "label": "Template for prompt: a list of coins for a collector's catalog of ancient coins",
+    "dateAdded": "2024-02-23T14:15:03.311Z"
+  },
+  {
+    "url": "https://v0.dev/t/knrzpsNv0Ng",
+    "label": "Template for prompt: minimal clients section using framer motion",
+    "dateAdded": "2024-02-23T14:15:03.311Z"
+  },
+  {
+    "url": "https://v0.dev/t/zgSvUDCnUKH",
+    "label": "Template for prompt: A quick settings panel, allowing the user to switch dark/light mode, set notifications settings, language and common other things, and includes a link to the full settings page",
+    "dateAdded": "2024-02-23T14:15:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/RUFdsvbf7ew",
+    "label": "Template for prompt: form",
+    "dateAdded": "2024-02-23T14:15:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/P2RYbNbeVbm",
+    "label": "Template for prompt: a simple audio player styled beautifully",
+    "dateAdded": "2024-02-23T14:15:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/MCawjk3bO79",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-02-23T14:15:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/nWuCJSXBXrT",
+    "label": "Template for prompt: slider for landing page",
+    "dateAdded": "2024-02-23T14:15:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/11wliF0spc4",
+    "label": "Template for prompt: A Modal dialog on a button click.",
+    "dateAdded": "2024-02-23T14:15:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/z73j80TM9EH",
+    "label": "Template for prompt: Blog Page",
+    "dateAdded": "2024-02-23T14:15:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/61pBeTNoHDg",
+    "label": "Template for prompt: Blog Page",
+    "dateAdded": "2024-02-23T14:15:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/XAXdoeEfvcO",
+    "label": "Template for prompt: i need ah wesite like this which is compactable with mobile\\",
+    "dateAdded": "2024-02-23T14:15:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ff2wgIswvcm",
+    "label": "Template for prompt: a dashboard card showing this month's views and % increase or decrease compared to last month",
+    "dateAdded": "2024-02-23T14:15:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/n6DzJsRzmf3",
+    "label": "Template for prompt: Watch selling e commerce site",
+    "dateAdded": "2024-02-23T14:15:03.312Z"
+  },
+  {
+    "url": "https://v0.dev/t/I2r5jzVLtua",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-23T14:15:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/eUtlaG1vLmx",
+    "label": "Template for prompt: i need same like this website which will be compactiable with mobile view",
+    "dateAdded": "2024-02-23T14:15:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/lbFUVa5XgCd",
+    "label": "Template for prompt: a dashboard card ",
+    "dateAdded": "2024-02-23T14:15:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/3aXJ6JsThr7",
+    "label": "Template for prompt: need it startup website in react js",
+    "dateAdded": "2024-02-23T14:15:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/BO682v8WG0w",
+    "label": "Template for prompt: course list for sell",
+    "dateAdded": "2024-02-23T14:15:03.313Z"
+  },
+  {
+    "url": "https://v0.dev/t/vZpmWBflcna",
+    "label": "Template for prompt: Game ",
+    "dateAdded": "2024-02-23T14:15:03.313Z"
   }
 ]
