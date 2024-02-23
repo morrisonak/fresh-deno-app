@@ -11583,5 +11583,135 @@
     "url": "https://v0.dev/t/a3YgOwHKiyg",
     "label": "Template for prompt: descripcion de imagen ciruclar",
     "dateAdded": "2024-02-23T19:00:03.513Z"
+  },
+  {
+    "url": "https://v0.dev/t/dGPKPpaeWjA",
+    "label": "Template for prompt: i want you to create a multistep form with the following fields\nCampaign title , Campaign Hashtags,Campaign Description ,Do's, Donts,start date end date,industry gender campaign type campaign platform,budget and upload verification\n",
+    "dateAdded": "2024-02-23T19:05:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q76oj7wAigY",
+    "label": "Template for prompt: create a page that display a Caterogie details, the page include a Hero header with title and description,  and a list of subcategories that display name and definition and sub-subcategories that still display name and definition",
+    "dateAdded": "2024-02-23T19:05:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/rn8ifvBcqCq",
+    "label": "Template for prompt: I need a landing page for Healing and Trama coach/mentor who has receiently had a book published. It should have a spot for the for her biography and photo. She needs a way to link to the amazon store where her book is sold and a way for people to contact her. ",
+    "dateAdded": "2024-02-23T19:05:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/sU6yaxHG0pY",
+    "label": "Template for prompt: I need a landing page for Healing and Trama coach/mentor who has receiently had a book published. It should have a spot for the for her biography and photo. She needs a way to link to the amazon store where her book is sold and a way for people to contact her. ",
+    "dateAdded": "2024-02-23T19:05:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/1zWFV8ByaZl",
+    "label": "Template for prompt: A candidate profile page for an AI-powered interview platform. Prioritize a clean layout and easy navigation. Include fields for basic candidate information (name, email, contact), a section for uploading a resume or highlighting relevant skills (the AI could even suggest keywords based on the resume).  Provide a clear list of the candidate's interview history, including dates, status, and possibly links to view recorded interviews (if your privacy settings allow). Include a settings section where the candidate can manage notifications, privacy, account information, and access support resources.",
+    "dateAdded": "2024-02-23T19:05:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/yzDNxJ9ZtNU",
+    "label": "Template for prompt: create pricing table",
+    "dateAdded": "2024-02-23T19:05:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/l6imAu5U3KK",
+    "label": "Template for prompt: A login screen for my card game, the user can login with google",
+    "dateAdded": "2024-02-23T19:05:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/WxDfSYvwu1f",
+    "label": "Template for prompt: info form ",
+    "dateAdded": "2024-02-23T19:05:03.142Z"
+  },
+  {
+    "url": "https://v0.dev/t/YCGZ1yRsGQh",
+    "label": "Template for prompt: A \"projects\" section for a developer portfolio website",
+    "dateAdded": "2024-02-23T19:05:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/SbaaDUG42PH",
+    "label": "Template for prompt: Elan saytı hazırla. Bütün funksiyaları əlavə et. Hər şey admin panelindən idarə olunsun. İstifadəçi panelidə əlavə et, elanları vip etmək olsun. Axtarış olsun. Kategoriler olsun. elana 10 şəkil əlavə etmək olaun. Elandakə şəkillərə saytın domen adı logo kimi vuruısun. İstifadəçi elan əlavə edə bilsin, elanları admin paneldən təstiq və ya silə bilsin. Redaktə edə bilsin.",
+    "dateAdded": "2024-02-23T19:05:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/Anme4uAD7Ep",
+    "label": "Template for prompt: a professional looking \"voting\" page. the page will have cards of all candidates who can be voted for. the page will also show the idea the voter is registered in. be creative and add other required things that you feel are important. this page is for a decentralized voting system which will be used for national election.",
+    "dateAdded": "2024-02-23T19:05:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ob1pLU7jj8n",
+    "label": "Template for prompt: create a login page for a veterinary clinic managings webapp",
+    "dateAdded": "2024-02-23T19:05:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/aaXq4Jrzu9b",
+    "label": "Template for prompt: A stepper component",
+    "dateAdded": "2024-02-23T19:05:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/i0ePRpk2rcV",
+    "label": "Template for prompt: Design a payment app layout for native",
+    "dateAdded": "2024-02-23T19:05:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/zAdTY4Kffyv",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an image.",
+    "dateAdded": "2024-02-23T19:05:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/eMJWKm2NZ6t",
+    "label": "Template for prompt: A SaaS inline table editor for Goals in HR tech that is fast for editing multiple goals.",
+    "dateAdded": "2024-02-23T19:05:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/18jrct6tWpS",
+    "label": "Template for prompt: portfolio website for a web developer/desginer. Make it minimalist in style",
+    "dateAdded": "2024-02-23T19:05:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/VQ96dWSP4fJ",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-23T19:05:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yvx2Z8wLGz7",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T19:05:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/9CI30ljNjP4",
+    "label": "Template for prompt: creame un tab que tenga un formulario de registro y uno de login",
+    "dateAdded": "2024-02-23T19:05:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/XuIE7K1c0bn",
+    "label": "Template for prompt: a responsible and mobile accessible image carousel",
+    "dateAdded": "2024-02-23T19:05:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/oEnUOzozAQC",
+    "label": "Template for prompt: a masonry grid",
+    "dateAdded": "2024-02-23T19:05:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/9CfNp5FyrzY",
+    "label": "Template for prompt: Page mobile for login ",
+    "dateAdded": "2024-02-23T19:05:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/Kr9JbGOh2tx",
+    "label": "Template for prompt: A header / navigation bar with logo on the left and user account with avatar and icon on the right. Also there should be a button to upgrade account",
+    "dateAdded": "2024-02-23T19:05:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/DNm1gLECwYY",
+    "label": "Template for prompt: Hero section and navbar. good alignment and layout. modern and minimalistic",
+    "dateAdded": "2024-02-23T19:05:03.143Z"
+  },
+  {
+    "url": "https://v0.dev/t/Esyw8QnWU6W",
+    "label": "Template for prompt: a card for pet adoption, with image and some text",
+    "dateAdded": "2024-02-23T19:05:03.144Z"
   }
 ]
