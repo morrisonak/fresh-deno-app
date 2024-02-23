@@ -9553,5 +9553,135 @@
     "url": "https://v0.dev/t/I1P4UrCQf4k",
     "label": "Template for prompt: create a collapseable sidebar in which when reduce or close the siden",
     "dateAdded": "2024-02-23T17:40:02.152Z"
+  },
+  {
+    "url": "https://v0.dev/t/fwsKeMiQ45Z",
+    "label": "Template for prompt: a mobile todo app that organises tasks by tags, the home screen should show each of dynamically generated user tags e.g. #work, #life, #house, #car",
+    "dateAdded": "2024-02-23T17:45:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/xU7MrADrOhf",
+    "label": "Template for prompt: i need a page that allows the user to change their name and phone number and other important details ",
+    "dateAdded": "2024-02-23T17:45:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/9dZu5yv3RrE",
+    "label": "Template for prompt: and also have all the days of the week and working hours between 10 and 17 in the form and then send the received information to the following email address",
+    "dateAdded": "2024-02-23T17:45:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/2dehQfgIovj",
+    "label": "Template for prompt: a landing page hero with centralized hero text and sub-hero, following an image that has a little tab the controls the image.",
+    "dateAdded": "2024-02-23T17:45:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/CxCITN8gdvU",
+    "label": "Template for prompt: Create an image, video upload and html code editor",
+    "dateAdded": "2024-02-23T17:45:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/oZ6hJNNegGS",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and a CTA for a building company",
+    "dateAdded": "2024-02-23T17:45:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/EkxDRdzgeHr",
+    "label": "Template for prompt: Login and register page using shadcn and remix that is abel to connect to a mongodb database using prisma",
+    "dateAdded": "2024-02-23T17:45:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/fdGW2B97Qul",
+    "label": "Template for prompt: A saas landing page with a short description and two pricing plans and a footer",
+    "dateAdded": "2024-02-23T17:45:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/3M9FYsSYBrF",
+    "label": "Template for prompt: design a user management dashboard. the users have an ID, first name, last name, email address, effective date, expiration date, created on date, update on date, and could have many roles.",
+    "dateAdded": "2024-02-23T17:45:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/xBm78Fj8vPb",
+    "label": "Template for prompt: Imagine um formulário de prontuário médico digital, desenhado para refletir os padrões brasileiros de documentação clínica, com uma interface intuitiva e campos em português. A tela principal do formulário apresenta um layout limpo e organizado, priorizando a facilidade de uso. No topo, há um cabeçalho com o nome da clínica ou hospital, seguido de um subtítulo \"Prontuário Médico\". Abaixo, um espaço dedicado ao nome completo do paciente, data de nascimento, sexo, e CPF, garantindo a identificação precisa.\n\nA seguir, divide-se em seções claramente marcadas: \"Dados de Contato\", incluindo endereço residencial, telefone para contato e e-mail; \"Histórico Médico do Paciente\", com campos para descrever condições preexistentes, alergias, medicamentos em uso e cirurgias anteriores; \"Consulta Atual\", oferecendo espaço para a data da consulta, motivo da visita, sintomas relatados, diagnóstico preliminar e exames solicitados.\n\n",
+    "dateAdded": "2024-02-23T17:45:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/V3Cv79eWqIA",
+    "label": "Template for prompt: give me a 4 checkboxes",
+    "dateAdded": "2024-02-23T17:45:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/1QYpoTYuioG",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-23T17:45:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/btP6gBgwsrl",
+    "label": "Template for prompt: like this image",
+    "dateAdded": "2024-02-23T17:45:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/FhpJ7oCllcj",
+    "label": "Template for prompt: A single 5-digit password screen with the digits in the center",
+    "dateAdded": "2024-02-23T17:45:03.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/NqgidSxBOAP",
+    "label": "Template for prompt: give me tabs of 3 tabs contians 'Calls' , \"Errors\",\"Latency\"",
+    "dateAdded": "2024-02-23T17:45:03.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wczb28ZNrDL",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-23T17:45:03.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/8gvEzMeka8j",
+    "label": "Template for prompt: For an edit page in a mobile recharge application, you would typically want to allow users to edit their recharge details or make changes to their account information. Here's what an edit page for a mobile recharge application might contain:\n\nHeader: A header section displaying the application name or logo with a navigation option to go back to the dashboard or previous page.\n\nForm Fields:\n\nMobile Number: Input field to edit the mobile number associated with the account.\nRecharge Amount: Input field to edit the recharge amount.\nPayment Method: Dropdown or selection input to choose the payment method (Credit Card, Debit Card, Net Banking, etc.).\nEdit/Save Button: Button to submit the edited information.\nTransaction History: Display a brief history of recent transactions for reference.\n\nBalance Information: Display the current account balance or wallet balance.\n\nNotification Area: An area to display success or error messages upon editing the recharge details.",
+    "dateAdded": "2024-02-23T17:45:03.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZkIhrv8jeBC",
+    "label": "Template for prompt: mobile interface for urban sports club booking",
+    "dateAdded": "2024-02-23T17:45:03.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/KJfk7GLRTm7",
+    "label": "Template for prompt: create an admin dashboard",
+    "dateAdded": "2024-02-23T17:45:03.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/dPH6vF9RqHs",
+    "label": "Template for prompt: tags",
+    "dateAdded": "2024-02-23T17:45:03.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/3thuSCDU1G2",
+    "label": "Template for prompt: barra horizontal en movimiento",
+    "dateAdded": "2024-02-23T17:45:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/L9kLdK87Zvs",
+    "label": "Template for prompt: Can you make navbar where on the left side will say \"Moj Termin\" in the middle will be search field and on the right will be button for log in or registration, let the colors be a variation of green",
+    "dateAdded": "2024-02-23T17:45:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/r1wpq64PXU1",
+    "label": "Template for prompt: A landing page with a colourful hero section and 2 col layout below it",
+    "dateAdded": "2024-02-23T17:45:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZflxlOclXh5",
+    "label": "Template for prompt: create a collapseable sidebar in which when reduce or close the sidenav text hide show only icons",
+    "dateAdded": "2024-02-23T17:45:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/pwfCchoDA0w",
+    "label": "Template for prompt: Create this card",
+    "dateAdded": "2024-02-23T17:45:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/2iKKAKwFN5c",
+    "label": "Template for prompt: dame un formulario que tenga la siguiente intereface {\n    id: number;\n    covenant_number: string;\n    denomination_id: number;\n    name: string;\n    dateI : Date;\n    dateF : Date;\n    localidad_id : number;\n}",
+    "dateAdded": "2024-02-23T17:45:03.169Z"
   }
 ]
