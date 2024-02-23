@@ -5228,5 +5228,130 @@
     "url": "https://v0.dev/t/4PBPn0r4455",
     "label": "Template for prompt: Pricing and programs section showing three different subscription options",
     "dateAdded": "2024-02-23T14:50:03.465Z"
+  },
+  {
+    "url": "https://v0.dev/t/04KJisbirhV",
+    "label": "Template for prompt: Create a frontend interface for HomeFinder AI, allowing users to input their housing preferences and receive personalized recommendations. Include intuitive input fields for bedrooms, bathrooms, square footage, location, and additional filters such as schools nearby, stores nearby, and public transportation access. Ensure a responsive design for optimal usability on desktop and mobile devices.",
+    "dateAdded": "2024-02-23T14:55:02.177Z"
+  },
+  {
+    "url": "https://v0.dev/t/qhOk49VftSW",
+    "label": "Template for prompt: Create a frontend interface for HomeFinder AI, allowing users to input their housing preferences and receive personalized recommendations. Include intuitive input fields for bedrooms, bathrooms, square footage, location, and additional filters such as schools nearby, stores nearby, and public transportation access. Ensure a responsive design for optimal usability on desktop and mobile devices.",
+    "dateAdded": "2024-02-23T14:55:02.177Z"
+  },
+  {
+    "url": "https://v0.dev/t/P9fmTMoe1wi",
+    "label": "Template for prompt: Modern Order summary in lime and green shades",
+    "dateAdded": "2024-02-23T14:55:02.177Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZujV5kWxcbG",
+    "label": "Template for prompt: A pomodoro timer for studying ",
+    "dateAdded": "2024-02-23T14:55:02.177Z"
+  },
+  {
+    "url": "https://v0.dev/t/0UzcMJKqo1l",
+    "label": "Template for prompt: Give the front end and style sheet ",
+    "dateAdded": "2024-02-23T14:55:02.178Z"
+  },
+  {
+    "url": "https://v0.dev/t/7Cnd4o3Xlaq",
+    "label": "Template for prompt: a price watcher for coins",
+    "dateAdded": "2024-02-23T14:55:02.178Z"
+  },
+  {
+    "url": "https://v0.dev/t/WGwsKQ9A81u",
+    "label": "Template for prompt: Detailed setting screen in a sci-fi game like the image",
+    "dateAdded": "2024-02-23T14:55:02.178Z"
+  },
+  {
+    "url": "https://v0.dev/t/xqTFo1ThH7v",
+    "label": "Template for prompt: Token claim reward system ",
+    "dateAdded": "2024-02-23T14:55:02.178Z"
+  },
+  {
+    "url": "https://v0.dev/t/B5lGPwOPrLf",
+    "label": "Template for prompt: We are making a website for an AIML project on house price prediction .\nwhere the user enters details such as bedrooms, bathrooms, sqft area , location, the number of members in the family going to be living there, whether they need schooling facilities nearby for children , local stores nreaby for easy access , etc . on the basis of these need an ai model will be predicitng the house the user could buy or rent .",
+    "dateAdded": "2024-02-23T14:55:02.178Z"
+  },
+  {
+    "url": "https://v0.dev/t/Htx1y1yWAK7",
+    "label": "Template for prompt: a grid of cards with name and picture",
+    "dateAdded": "2024-02-23T14:55:02.178Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z9BvFNMmDCQ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T14:55:02.178Z"
+  },
+  {
+    "url": "https://v0.dev/t/jqiR7N9y2LM",
+    "label": "Template for prompt: a login screen with magic link option",
+    "dateAdded": "2024-02-23T14:55:02.178Z"
+  },
+  {
+    "url": "https://v0.dev/t/6wDv901Zco0",
+    "label": "Template for prompt: dashboard for vendors profile",
+    "dateAdded": "2024-02-23T14:55:02.178Z"
+  },
+  {
+    "url": "https://v0.dev/t/COB0TzGx1DX",
+    "label": "Template for prompt: Order summary",
+    "dateAdded": "2024-02-23T14:55:02.178Z"
+  },
+  {
+    "url": "https://v0.dev/t/4o8j8hhST7v",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-23T14:55:02.178Z"
+  },
+  {
+    "url": "https://v0.dev/t/7aWEugAgARN",
+    "label": "Template for prompt: **Pace UI Description:**\n\nThe Pace UI is a vibrant and engaging web-based platform designed to foster collaborative storytelling among users. At its core, Pace encourages users to contribute short paragraphs or snippets, collectively weaving a continuous narrative in real-time. The UI is intuitive, inviting both seasoned writers and enthusiastic amateurs to participate in the creative process.\n\n**Homepage:**\n\nUpon landing on the homepage, users are greeted with an immersive display of trending stories dynamically generated based on user contributions. Each story snippet is accompanied by its title, author, publication date, and an enticing preview of the narrative's beginning.\n\n**Navigation Bar:**\n\nThe navigation bar situated at the top of the page provides easy access to various sections of the platform, including:\n- **Home:** Returns users to the homepage where they can explore trending stories.\n- **Create Story:** Directs users to the story creation page where they can contribute to",
+    "dateAdded": "2024-02-23T14:55:02.178Z"
+  },
+  {
+    "url": "https://v0.dev/t/fAcJ2aDhOL6",
+    "label": "Template for prompt: **Pace UI Description:**\n\nThe Pace UI is a vibrant and engaging web-based platform designed to foster collaborative storytelling among users. At its core, Pace encourages users to contribute short paragraphs or snippets, collectively weaving a continuous narrative in real-time. The UI is intuitive, inviting both seasoned writers and enthusiastic amateurs to participate in the creative process.\n\n**Homepage:**\n\nUpon landing on the homepage, users are greeted with an immersive display of trending stories dynamically generated based on user contributions. Each story snippet is accompanied by its title, author, publication date, and an enticing preview of the narrative's beginning.\n\n**Navigation Bar:**\n\nThe navigation bar situated at the top of the page provides easy access to various sections of the platform, including:\n- **Home:** Returns users to the homepage where they can explore trending stories.\n- **Create Story:** Directs users to the story creation page where they can contribute to",
+    "dateAdded": "2024-02-23T14:55:02.178Z"
+  },
+  {
+    "url": "https://v0.dev/t/PBs8frpuuf4",
+    "label": "Template for prompt: a varcel looking create an account page",
+    "dateAdded": "2024-02-23T14:55:02.178Z"
+  },
+  {
+    "url": "https://v0.dev/t/NHXdVHoViex",
+    "label": "Template for prompt: tab screen where player goals are shown",
+    "dateAdded": "2024-02-23T14:55:02.178Z"
+  },
+  {
+    "url": "https://v0.dev/t/TfGUEM5H48G",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T14:55:02.178Z"
+  },
+  {
+    "url": "https://v0.dev/t/vc8h1kjOYYY",
+    "label": "Template for prompt: create a text accordion with more and less buttons. When text is expanded - less button should be visible, when collapsed - more button should be visible. More and less buttons should be a clickable text and should go inline with other text",
+    "dateAdded": "2024-02-23T14:55:02.179Z"
+  },
+  {
+    "url": "https://v0.dev/t/1QtpnBqVH8o",
+    "label": "Template for prompt: Project card with a image, a title, a description and a list of technologies used to create the project",
+    "dateAdded": "2024-02-23T14:55:02.179Z"
+  },
+  {
+    "url": "https://v0.dev/t/n7t3PMDtZxE",
+    "label": "Template for prompt: gib mir den code ",
+    "dateAdded": "2024-02-23T14:55:02.179Z"
+  },
+  {
+    "url": "https://v0.dev/t/yfE6dGd2n9Z",
+    "label": "Template for prompt: bento grid for a dashboard using chart, data table ",
+    "dateAdded": "2024-02-23T14:55:02.179Z"
+  },
+  {
+    "url": "https://v0.dev/t/2gquKSs4Ips",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-23T14:55:02.179Z"
   }
 ]
