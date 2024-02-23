@@ -15148,5 +15148,130 @@
     "url": "https://v0.dev/t/XUuIGHz5bu6",
     "label": "Template for prompt: react product screen with image gallery also it should be wrapped with continer",
     "dateAdded": "2024-02-23T21:20:03.888Z"
+  },
+  {
+    "url": "https://v0.dev/t/KGAb18JzVoy",
+    "label": "Template for prompt: Give me a gallery for products using a grid with 4 pictures or less",
+    "dateAdded": "2024-02-23T21:25:02.835Z"
+  },
+  {
+    "url": "https://v0.dev/t/5Xvur7Zgrry",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T21:25:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/exRW8ivkl9r",
+    "label": "Template for prompt: create a navigation menu for header",
+    "dateAdded": "2024-02-23T21:25:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/fAYLhVk3CtK",
+    "label": "Template for prompt: Create the linear dashboard",
+    "dateAdded": "2024-02-23T21:25:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/x4QZIhULIpc",
+    "label": "Template for prompt: Create a log viewer dashboard with an SQL filter input box. It needs a table for the logs to go into",
+    "dateAdded": "2024-02-23T21:25:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/3RcMZNT0dth",
+    "label": "Template for prompt: menu navigation and a notification banner under it",
+    "dateAdded": "2024-02-23T21:25:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/NuyOMy0fbvQ",
+    "label": "Template for prompt: A landing page for a AI Business Solutions company called AI Sync",
+    "dateAdded": "2024-02-23T21:25:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/bduJDqyhtFQ",
+    "label": "Template for prompt: a permission-management ui with the ability to:\n- copy existing roles\n- edit roles\n- delete roles\n- create a new role\n\neach role has a\n- title\n- badge\n- description\n\ntheme white + blue",
+    "dateAdded": "2024-02-23T21:25:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/pIC7nLQEu5L",
+    "label": "Template for prompt: create a document analysis form. the form has all the inputs for the user data like, name date of birth and so on. the form has an area where the user can upload his ID picture and capture a selfie",
+    "dateAdded": "2024-02-23T21:25:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/kJAyfliVRKJ",
+    "label": "Template for prompt: Hero with search bar in upper middle ",
+    "dateAdded": "2024-02-23T21:25:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/da4u4zq5uPh",
+    "label": "Template for prompt: add a search button as well",
+    "dateAdded": "2024-02-23T21:25:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/a5xAFWbeKSY",
+    "label": "Template for prompt: dashboard with sidebar and header with some statistics",
+    "dateAdded": "2024-02-23T21:25:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ejq2ejhxwRI",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T21:25:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/zr6z9FE1qkh",
+    "label": "Template for prompt: a header nav with text in the center and a button floating to the right end",
+    "dateAdded": "2024-02-23T21:25:02.836Z"
+  },
+  {
+    "url": "https://v0.dev/t/JjUlhNejeBS",
+    "label": "Template for prompt: modal dialog to enter a income or expense value and a description",
+    "dateAdded": "2024-02-23T21:25:02.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/rj8H4TasdUN",
+    "label": "Template for prompt: modal dialog to enter a income or expense value and a description",
+    "dateAdded": "2024-02-23T21:25:02.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/CUE4obzNCCx",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-23T21:25:02.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/tq36KME4xTE",
+    "label": "Template for prompt: Generate 5 steps form for entering billing details",
+    "dateAdded": "2024-02-23T21:25:02.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/d0zyHzlzmdl",
+    "label": "Template for prompt: Create a layout and page that looks beauitful, has great spacing, typing, and looks fun for all ages.  The content is for a home chore application for children, I would like some ideas on layouts for presenting chores that need to be done, an completed chores.  One idea I had was to use a familiar drag and drop expierence. ",
+    "dateAdded": "2024-02-23T21:25:02.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/Po573PGqJiB",
+    "label": "Template for prompt: recreate me this",
+    "dateAdded": "2024-02-23T21:25:02.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/mhR7KBv4WIh",
+    "label": "Template for prompt: a minimalisic hero section",
+    "dateAdded": "2024-02-23T21:25:02.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/q1XZUaNayak",
+    "label": "Template for prompt: what is node-red",
+    "dateAdded": "2024-02-23T21:25:02.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/DLa7g2ALmEY",
+    "label": "Template for prompt: a quiz layout ",
+    "dateAdded": "2024-02-23T21:25:02.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/CUBNE1GyWxv",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-23T21:25:02.837Z"
+  },
+  {
+    "url": "https://v0.dev/t/QStpnBPniyk",
+    "label": "Template for prompt: build a pricing page with free and premium plan cards both appearing in a row taking 50% of the width each",
+    "dateAdded": "2024-02-23T21:25:02.837Z"
   }
 ]
