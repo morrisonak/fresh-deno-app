@@ -6613,5 +6613,135 @@
     "url": "https://v0.dev/t/wtdxDuhHUse",
     "label": "Template for prompt: i have this color fade going on and i want a sleek clean looking button or animated button to appear here to take the user to the strart free trial page. make it look professional and inovative, dont change colours of background but make the button fit in nicely with the backgorund ",
     "dateAdded": "2024-02-23T15:45:02.904Z"
+  },
+  {
+    "url": "https://v0.dev/t/H3oHMbFfuVz",
+    "label": "Template for prompt: I need an admin page for managing an individual order with order items, associated invoices, and payments. Ability to request payment, mark order paid, and issue refund is important too.",
+    "dateAdded": "2024-02-23T15:50:03.238Z"
+  },
+  {
+    "url": "https://v0.dev/t/3jmqeueROwd",
+    "label": "Template for prompt: landing page UI for a real estate company. modern, minimalistic, premium dark theme",
+    "dateAdded": "2024-02-23T15:50:03.238Z"
+  },
+  {
+    "url": "https://v0.dev/t/oAqtay2RRxK",
+    "label": "Template for prompt: make me a cv website",
+    "dateAdded": "2024-02-23T15:50:03.239Z"
+  },
+  {
+    "url": "https://v0.dev/t/73SVFoMRJXw",
+    "label": "Template for prompt: a table that contains three columns, input signal, a temperature range and output signal",
+    "dateAdded": "2024-02-23T15:50:03.239Z"
+  },
+  {
+    "url": "https://v0.dev/t/HC7uE5rbJbF",
+    "label": "Template for prompt: give me dropdown button",
+    "dateAdded": "2024-02-23T15:50:03.239Z"
+  },
+  {
+    "url": "https://v0.dev/t/by9j6CkL9fI",
+    "label": "Template for prompt: creat a software to manage a veterinary clinic. It has to have a medical records history, a section to add a new client, etc",
+    "dateAdded": "2024-02-23T15:50:03.239Z"
+  },
+  {
+    "url": "https://v0.dev/t/0sbNgc91BLg",
+    "label": "Template for prompt: give a website like the above on which is compactible with mobile view",
+    "dateAdded": "2024-02-23T15:50:03.239Z"
+  },
+  {
+    "url": "https://v0.dev/t/PtHmD7LcFMJ",
+    "label": "Template for prompt: a search bar",
+    "dateAdded": "2024-02-23T15:50:03.239Z"
+  },
+  {
+    "url": "https://v0.dev/t/uohYwe5fnnq",
+    "label": "Template for prompt: create user card with this fields \n\n  id: number;\n  email: string;\n  login: string;\n  password: string;\n  firstName: string;\n  lastName: string;\n  role: ProfileRole;\n  country: {\n    id: number;\n    label: string;\n    code: string;\n  };",
+    "dateAdded": "2024-02-23T15:50:03.239Z"
+  },
+  {
+    "url": "https://v0.dev/t/IctAs8SUwNr",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-02-23T15:50:03.239Z"
+  },
+  {
+    "url": "https://v0.dev/t/3au7taQ8y5Z",
+    "label": "Template for prompt: create a chat ui, where have a input for send message for ai, in bottom and butthon to send and up have a field for show response",
+    "dateAdded": "2024-02-23T15:50:03.239Z"
+  },
+  {
+    "url": "https://v0.dev/t/Sq3Aczivi5J",
+    "label": "Template for prompt: create a netflix website",
+    "dateAdded": "2024-02-23T15:50:03.239Z"
+  },
+  {
+    "url": "https://v0.dev/t/PEIx1gDlqGw",
+    "label": "Template for prompt: Create a profile card page for social media which contains most basic information about user, like not profile page but a list of profile cards that i can use in friend request etc etc purpose with button in bottom",
+    "dateAdded": "2024-02-23T15:50:03.239Z"
+  },
+  {
+    "url": "https://v0.dev/t/XCBuGuC97Z9",
+    "label": "Template for prompt: An assignment dashboard with the problem in a left plane",
+    "dateAdded": "2024-02-23T15:50:03.239Z"
+  },
+  {
+    "url": "https://v0.dev/t/ofnGBnqOR7r",
+    "label": "Template for prompt: make a page like this",
+    "dateAdded": "2024-02-23T15:50:03.239Z"
+  },
+  {
+    "url": "https://v0.dev/t/qpqiExxA1CZ",
+    "label": "Template for prompt: write a timeline that lists the lauches for spacex",
+    "dateAdded": "2024-02-23T15:50:03.239Z"
+  },
+  {
+    "url": "https://v0.dev/t/FyKedBDAG8O",
+    "label": "Template for prompt: testimonial section for a study abroad website for the landing page",
+    "dateAdded": "2024-02-23T15:50:03.239Z"
+  },
+  {
+    "url": "https://v0.dev/t/DjV7pVox3n6",
+    "label": "Template for prompt: create a introduction page for AI personal assitant like siri",
+    "dateAdded": "2024-02-23T15:50:03.240Z"
+  },
+  {
+    "url": "https://v0.dev/t/60P6nk0awP9",
+    "label": "Template for prompt: landing page for shoe reapair website with other services, include a form and a map",
+    "dateAdded": "2024-02-23T15:50:03.240Z"
+  },
+  {
+    "url": "https://v0.dev/t/PmC5tNglc8L",
+    "label": "Template for prompt: responsive grid 4 colums",
+    "dateAdded": "2024-02-23T15:50:03.240Z"
+  },
+  {
+    "url": "https://v0.dev/t/8ldQ2N2re91",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-23T15:50:03.240Z"
+  },
+  {
+    "url": "https://v0.dev/t/N5PBEl3LQs4",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T15:50:03.240Z"
+  },
+  {
+    "url": "https://v0.dev/t/MVxkTPTcYmI",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-23T15:50:03.240Z"
+  },
+  {
+    "url": "https://v0.dev/t/qIJpVbedw5B",
+    "label": "Template for prompt: A landing page to look up information about a car. Include year, make, and model, with an optional trim level/engine varient. These should either be a dropdown or cards",
+    "dateAdded": "2024-02-23T15:50:03.240Z"
+  },
+  {
+    "url": "https://v0.dev/t/Gjf7rIaTwEC",
+    "label": "Template for prompt: a landing page for music website",
+    "dateAdded": "2024-02-23T15:50:03.240Z"
+  },
+  {
+    "url": "https://v0.dev/t/5DV3eiHwVhi",
+    "label": "Template for prompt: A landing page for a property investment company",
+    "dateAdded": "2024-02-23T15:50:03.240Z"
   }
 ]
