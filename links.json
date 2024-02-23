@@ -1023,5 +1023,120 @@
     "url": "https://v0.dev/t/4NocHlaTIjZ",
     "label": "Template for prompt: create a landing page for event apps that has clients, users and suppliers",
     "dateAdded": "2024-02-23T00:55:02.688Z"
+  },
+  {
+    "url": "https://v0.dev/t/VNf4YOBgQHL",
+    "label": "Template for prompt: Create a modern user-friendly login page designed according to UX principles. This page will feature a single authentication method: login via phone number. The layout includes an input field that allows users to select their country from a dropdown menu, ensuring the phone number input is automatically formatted according to the selected country's standards. There will be a prominent login button for user action. Additionally, for users who do not have an account, there will be a clearly marked, underlined label stating \"Choose a Plan\" which, when clicked, redirects them to the homepage to select a subscription plan. This design emphasizes simplicity, ease of use, and efficient navigation, catering to a seamless user experience.",
+    "dateAdded": "2024-02-23T01:00:02.162Z"
+  },
+  {
+    "url": "https://v0.dev/t/Od14lPWFxsi",
+    "label": "Template for prompt: a row of example image cards",
+    "dateAdded": "2024-02-23T01:00:02.162Z"
+  },
+  {
+    "url": "https://v0.dev/t/FSfvAR8V6zN",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T01:00:02.162Z"
+  },
+  {
+    "url": "https://v0.dev/t/Vr6C0dHctLa",
+    "label": "Template for prompt: A widget showing a stream of recent quotes for lawn care, example \"Mary H. in Pittsburgh - $79\"",
+    "dateAdded": "2024-02-23T01:00:02.162Z"
+  },
+  {
+    "url": "https://v0.dev/t/K0OLqIenRPH",
+    "label": "Template for prompt: can you generate the react code for this webpage?",
+    "dateAdded": "2024-02-23T01:00:02.162Z"
+  },
+  {
+    "url": "https://v0.dev/t/zz24wUIOg4n",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form using materialui typescript and not tailwind",
+    "dateAdded": "2024-02-23T01:00:02.162Z"
+  },
+  {
+    "url": "https://v0.dev/t/az2dxp30G0T",
+    "label": "Template for prompt: Login page. Only one method allowed: phone number. Must accept a international number. If user is not registered, must be choose a plan/redirect to the pricing table.",
+    "dateAdded": "2024-02-23T01:00:02.162Z"
+  },
+  {
+    "url": "https://v0.dev/t/TQDQl27rjZj",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T01:00:02.162Z"
+  },
+  {
+    "url": "https://v0.dev/t/EfbX6k5nAAr",
+    "label": "Template for prompt: employee hierarchy chart",
+    "dateAdded": "2024-02-23T01:00:02.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/CtCELquM3uM",
+    "label": "Template for prompt: Create a page that contain switch to change the page ( tab header ) ",
+    "dateAdded": "2024-02-23T01:00:02.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/nfqIttR5Uua",
+    "label": "Template for prompt: simples app para celular para cadastrar cobranças com data de vencimento e valor e a categoria",
+    "dateAdded": "2024-02-23T01:00:02.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/6XEOUGKON8Q",
+    "label": "Template for prompt: simples app para celular para cadastrar cobranças com data de vencimento e valor e a categoria",
+    "dateAdded": "2024-02-23T01:00:02.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/mfv8urImqZ0",
+    "label": "Template for prompt: Create a personal website template with space for a personal photo, introduction, card for personal photos, and card for projects",
+    "dateAdded": "2024-02-23T01:00:02.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/VUuNxdl7UmT",
+    "label": "Template for prompt: browsing ai character ",
+    "dateAdded": "2024-02-23T01:00:02.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/3mavaal0Q26",
+    "label": "Template for prompt: simples app para celular para cadastrar cobranças com data de vencimento e valor",
+    "dateAdded": "2024-02-23T01:00:02.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/CTwqAN58muR",
+    "label": "Template for prompt: give me a dashboard to create charts and graphs using ai",
+    "dateAdded": "2024-02-23T01:00:02.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/iwauWhJCYnL",
+    "label": "Template for prompt: i want when i click on the arrow it open the answer like an Accordion",
+    "dateAdded": "2024-02-23T01:00:02.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/t3DFMKecO5d",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-23T01:00:02.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/ezhBbFTeUR9",
+    "label": "Template for prompt: a simple top navigation bar",
+    "dateAdded": "2024-02-23T01:00:02.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/ghR9s1qAEVp",
+    "label": "Template for prompt: In short, my app is a (mobile) app that controls the expiration date of some sales, in it I could register the category of my sale, the value and the expiration date; and another screen to display these sales and whether they are overdue",
+    "dateAdded": "2024-02-23T01:00:02.163Z"
+  },
+  {
+    "url": "https://v0.dev/t/3GIdlTNnkat",
+    "label": "Template for prompt: In short, my app is a (mobile) app that controls the expiration date of some sales, in it I could register the category of my sale, the value and the expiration date; and another screen to display these sales and whether they are overdue",
+    "dateAdded": "2024-02-23T01:00:02.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/masYMC5Ngws",
+    "label": "Template for prompt: A testimonial widget showing recent quotes for lawn care, example \"Mary H. in Pittsburgh - $79\"",
+    "dateAdded": "2024-02-23T01:00:02.164Z"
+  },
+  {
+    "url": "https://v0.dev/t/FrkLYNr5dOF",
+    "label": "Template for prompt: make a landing page for a mobile app, with an option for viewers to add their email to a waitlist. Below this main section there should be boxes for features of app.",
+    "dateAdded": "2024-02-23T01:00:02.164Z"
   }
 ]
