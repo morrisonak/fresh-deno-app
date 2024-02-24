@@ -23208,5 +23208,125 @@
     "url": "https://v0.dev/t/TUQef7RXJI1",
     "label": "Template for prompt: section for best category like dev and marketing",
     "dateAdded": "2024-02-24T02:40:07.606Z"
+  },
+  {
+    "url": "https://v0.dev/t/QrsktuMLFa8",
+    "label": "Template for prompt: login dashboard",
+    "dateAdded": "2024-02-24T02:45:02.347Z"
+  },
+  {
+    "url": "https://v0.dev/t/uYaFORvENgj",
+    "label": "Template for prompt: selectable list of \"files\" that i can toggle on and off being selected",
+    "dateAdded": "2024-02-24T02:45:02.348Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wtx9zZl0BgB",
+    "label": "Template for prompt: copy the image and make a landing page for a sass",
+    "dateAdded": "2024-02-24T02:45:02.349Z"
+  },
+  {
+    "url": "https://v0.dev/t/pRrDIBDzjJO",
+    "label": "Template for prompt: Login",
+    "dateAdded": "2024-02-24T02:45:02.349Z"
+  },
+  {
+    "url": "https://v0.dev/t/mxb8h5Ommbc",
+    "label": "Template for prompt: beautiful form for a real state bussiness. 6 inputs ",
+    "dateAdded": "2024-02-24T02:45:02.349Z"
+  },
+  {
+    "url": "https://v0.dev/t/W4owyW5Knzu",
+    "label": "Template for prompt: create a responsive square card with a background image. On front of image there will space for titile and descroption with black background and with an Icon in hexagonal border",
+    "dateAdded": "2024-02-24T02:45:02.349Z"
+  },
+  {
+    "url": "https://v0.dev/t/y0d1841E8NW",
+    "label": "Template for prompt: give me frontend code for the above design , make sure that the website page looks exactly like the design",
+    "dateAdded": "2024-02-24T02:45:02.350Z"
+  },
+  {
+    "url": "https://v0.dev/t/nULnAdPkWou",
+    "label": "Template for prompt: I need a component toshow astatus peocessing someting",
+    "dateAdded": "2024-02-24T02:45:02.350Z"
+  },
+  {
+    "url": "https://v0.dev/t/Q4eOgbHaswb",
+    "label": "Template for prompt: Animated pricing section in form of a flowchart, also add discount coupon thing to it",
+    "dateAdded": "2024-02-24T02:45:02.350Z"
+  },
+  {
+    "url": "https://v0.dev/t/fjjRxqVVD6m",
+    "label": "Template for prompt: copy the image",
+    "dateAdded": "2024-02-24T02:45:02.350Z"
+  },
+  {
+    "url": "https://v0.dev/t/ry7Nzmnnso1",
+    "label": "Template for prompt: make a tailwind compatible page with minimal markup that serves as a student management system. It should show the student's name, date of birth, school they're attending, date of enrollment, and status (active, inactive)\n\nThe first name and last name, and date of birth can be one form with an \"update\" button.\n\nThe status can have a toggle button.\n\nThe school should be a dropdown, and should offer the ability to enroll or unenroll a student from a school, enrollment date should be another field when enrolling.\n\nFinally there should be a history section that shows all of the events/actions that occurred on the student.",
+    "dateAdded": "2024-02-24T02:45:02.350Z"
+  },
+  {
+    "url": "https://v0.dev/t/GOKYaMiQFLc",
+    "label": "Template for prompt: make a tailwind compatible page with minimal markup that serves as a student management system. It should show the student's name, date of birth, school they're attending, date of enrollment, and status (active, inactive)\n\nThe first name and last name, and date of birth can be one form with an \"update\" button.\n\nThe status can have a toggle button.\n\nThe school should be a dropdown, and should offer the ability to enroll or unenroll a student from a school, enrollment date should be another field when enrolling.\n\nFinally there should be a history section that shows all of the events/actions that occurred on the student.",
+    "dateAdded": "2024-02-24T02:45:02.351Z"
+  },
+  {
+    "url": "https://v0.dev/t/GdnvRpaLcyZ",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T02:45:02.351Z"
+  },
+  {
+    "url": "https://v0.dev/t/fnqX0bSTN9c",
+    "label": "Template for prompt: a footer for an e learning web site with a contact us pop up",
+    "dateAdded": "2024-02-24T02:45:02.351Z"
+  },
+  {
+    "url": "https://v0.dev/t/HWlRZj7yOp6",
+    "label": "Template for prompt: https://twitter.com",
+    "dateAdded": "2024-02-24T02:45:02.351Z"
+  },
+  {
+    "url": "https://v0.dev/t/tUB2BYnhsmb",
+    "label": "Template for prompt: crea una pagina con un fondo de color rgb(13, 17, 23)",
+    "dateAdded": "2024-02-24T02:45:02.352Z"
+  },
+  {
+    "url": "https://v0.dev/t/nJANbuhG3FX",
+    "label": "Template for prompt: a crud ",
+    "dateAdded": "2024-02-24T02:45:02.352Z"
+  },
+  {
+    "url": "https://v0.dev/t/qhwx5LcskIT",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-24T02:45:02.352Z"
+  },
+  {
+    "url": "https://v0.dev/t/B6GXl9Ay6nT",
+    "label": "Template for prompt: Panel para listar archivos y cargar archivos, con opciones para eliminar, modificar nombre, descargar, ver y modificar metadatos. En la lista aparecen los siguientes elementos: nombre, propietario, fecha de carga, tamaño y estado.",
+    "dateAdded": "2024-02-24T02:45:02.352Z"
+  },
+  {
+    "url": "https://v0.dev/t/KZhKrJthhgX",
+    "label": "Template for prompt: profile page like patreon",
+    "dateAdded": "2024-02-24T02:45:02.353Z"
+  },
+  {
+    "url": "https://v0.dev/t/xZzQqdy6ggQ",
+    "label": "Template for prompt: login",
+    "dateAdded": "2024-02-24T02:45:02.353Z"
+  },
+  {
+    "url": "https://v0.dev/t/aAqi5vkUK7e",
+    "label": "Template for prompt: a website to buy car parts",
+    "dateAdded": "2024-02-24T02:45:02.353Z"
+  },
+  {
+    "url": "https://v0.dev/t/m8dl3BYD2cE",
+    "label": "Template for prompt: a section for Top categories like Development and Business and Marketing",
+    "dateAdded": "2024-02-24T02:45:02.353Z"
+  },
+  {
+    "url": "https://v0.dev/t/46zJA891X0F",
+    "label": "Template for prompt: Real-time emails statistics dashboard",
+    "dateAdded": "2024-02-24T02:45:02.353Z"
   }
 ]
