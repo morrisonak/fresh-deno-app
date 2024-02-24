@@ -20298,5 +20298,125 @@
     "url": "https://v0.dev/t/D317bhlXfZ5",
     "label": "Template for prompt: a card with a travel package (house + bus + flights)",
     "dateAdded": "2024-02-24T00:45:02.377Z"
+  },
+  {
+    "url": "https://v0.dev/t/IrnV2E5pV9a",
+    "label": "Template for prompt: navbar",
+    "dateAdded": "2024-02-24T00:50:02.920Z"
+  },
+  {
+    "url": "https://v0.dev/t/nXbLkDZHXJj",
+    "label": "Template for prompt: url shortener landing paeg",
+    "dateAdded": "2024-02-24T00:50:02.920Z"
+  },
+  {
+    "url": "https://v0.dev/t/jN36ZlLj4VE",
+    "label": "Template for prompt: make a shadcn 404 not found page",
+    "dateAdded": "2024-02-24T00:50:02.920Z"
+  },
+  {
+    "url": "https://v0.dev/t/3mYLMXvBfQ0",
+    "label": "Template for prompt: make a shadcn 404 not found page",
+    "dateAdded": "2024-02-24T00:50:02.921Z"
+  },
+  {
+    "url": "https://v0.dev/t/bmKWJl42UuF",
+    "label": "Template for prompt: make a shadcn 404 not found page",
+    "dateAdded": "2024-02-24T00:50:02.921Z"
+  },
+  {
+    "url": "https://v0.dev/t/RR5qCRnRXKo",
+    "label": "Template for prompt: remake this in shadcn \"use client\";\n\nimport { useFormStatus } from \"react-dom\";\nimport { type ComponentProps } from \"react\";\n\ntype Props = ComponentProps<\"button\"> & {\n  pendingText?: string;\n};\n\nexport function SubmitButton({ children, pendingText, ...props }: Props) {\n  const { pending, action } = useFormStatus();\n\n  const isPending = pending && action === props.formAction;\n\n  return (\n    <button {...props} type=\"submit\" aria-disabled={pending}>\n      {isPending ? pendingText : children}\n    </button>\n  );\n}\n",
+    "dateAdded": "2024-02-24T00:50:02.921Z"
+  },
+  {
+    "url": "https://v0.dev/t/fm0ytpLCl1W",
+    "label": "Template for prompt: Education section for portfolio website",
+    "dateAdded": "2024-02-24T00:50:02.921Z"
+  },
+  {
+    "url": "https://v0.dev/t/7ljEMdzNZsp",
+    "label": "Template for prompt: A music right search engine with pre-filter functionality",
+    "dateAdded": "2024-02-24T00:50:02.921Z"
+  },
+  {
+    "url": "https://v0.dev/t/uy88EHn46cD",
+    "label": "Template for prompt: improve UI",
+    "dateAdded": "2024-02-24T00:50:02.921Z"
+  },
+  {
+    "url": "https://v0.dev/t/hI3Ht3lnsUa",
+    "label": "Template for prompt: mobile form with three buttons at the bottom",
+    "dateAdded": "2024-02-24T00:50:02.921Z"
+  },
+  {
+    "url": "https://v0.dev/t/Yhyt9Fm9RmF",
+    "label": "Template for prompt: a main screen with different tabs or options for different forms or procedures, in one of those tabs, add a small form to the left side, so that pdfs are displayed on the right side.",
+    "dateAdded": "2024-02-24T00:50:02.921Z"
+  },
+  {
+    "url": "https://v0.dev/t/D0CTcvEaM91",
+    "label": "Template for prompt: a dashboard with navbar",
+    "dateAdded": "2024-02-24T00:50:02.922Z"
+  },
+  {
+    "url": "https://v0.dev/t/htU4esrRNXc",
+    "label": "Template for prompt: resume management profile dashboard",
+    "dateAdded": "2024-02-24T00:50:02.922Z"
+  },
+  {
+    "url": "https://v0.dev/t/uCziZQ8PTgC",
+    "label": "Template for prompt: Twitter card with quoted tweet. and responsive and stylish",
+    "dateAdded": "2024-02-24T00:50:02.922Z"
+  },
+  {
+    "url": "https://v0.dev/t/GSTh15f9420",
+    "label": "Template for prompt: an app that takes in user inputs for their favorite songs, albums, etc. the site returns a list of reccomendations based on the inputs",
+    "dateAdded": "2024-02-24T00:50:02.922Z"
+  },
+  {
+    "url": "https://v0.dev/t/4QYPo7BaceE",
+    "label": "Template for prompt: an app that takes in user inputs for their favorite songs, albums, etc. the site returns a list of reccomendations based on the inputs",
+    "dateAdded": "2024-02-24T00:50:02.922Z"
+  },
+  {
+    "url": "https://v0.dev/t/tS2NHiqtqxL",
+    "label": "Template for prompt: A dinamic form where each input corresponse a list of alternatives inputs",
+    "dateAdded": "2024-02-24T00:50:02.922Z"
+  },
+  {
+    "url": "https://v0.dev/t/IvOIAxy4QZM",
+    "label": "Template for prompt: Generate about us section, which includes vision, company introductio, projects and references and news",
+    "dateAdded": "2024-02-24T00:50:02.922Z"
+  },
+  {
+    "url": "https://v0.dev/t/KjBBNgjhikh",
+    "label": "Template for prompt: Generate about us section, which includes vision, company introductio, projects and references and news",
+    "dateAdded": "2024-02-24T00:50:02.922Z"
+  },
+  {
+    "url": "https://v0.dev/t/157rvWzsLsB",
+    "label": "Template for prompt: Dinamic form",
+    "dateAdded": "2024-02-24T00:50:02.922Z"
+  },
+  {
+    "url": "https://v0.dev/t/iJti3HgklEC",
+    "label": "Template for prompt: cyber secure , mysterious landing page that only have a login card and a wecome message ",
+    "dateAdded": "2024-02-24T00:50:02.923Z"
+  },
+  {
+    "url": "https://v0.dev/t/A2Xm0QwbFj4",
+    "label": "Template for prompt: Design a clean, themed interface for reading module content. Each module contains article-length recommendations grouped by theme. Include navigational elements for moving between modules.",
+    "dateAdded": "2024-02-24T00:50:02.923Z"
+  },
+  {
+    "url": "https://v0.dev/t/W2q5ImDXW7x",
+    "label": "Template for prompt: in a shopping cart, for each item added, have a feature that lets users to add notes related to the course",
+    "dateAdded": "2024-02-24T00:50:02.923Z"
+  },
+  {
+    "url": "https://v0.dev/t/x016CP6CeAA",
+    "label": "Template for prompt: landing page for the rework company",
+    "dateAdded": "2024-02-24T00:50:02.923Z"
   }
 ]
