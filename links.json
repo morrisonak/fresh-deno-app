@@ -21538,5 +21538,135 @@
     "url": "https://v0.dev/t/DVe89yNSnBJ",
     "label": "Template for prompt: A clan website UI for SA:MP",
     "dateAdded": "2024-02-24T01:35:02.376Z"
+  },
+  {
+    "url": "https://v0.dev/t/81kMr1j3kle",
+    "label": "Template for prompt: card ",
+    "dateAdded": "2024-02-24T01:40:02.938Z"
+  },
+  {
+    "url": "https://v0.dev/t/47MVQf76a6Z",
+    "label": "Template for prompt: Meka me a timeline like this one and add some animations on hover",
+    "dateAdded": "2024-02-24T01:40:02.938Z"
+  },
+  {
+    "url": "https://v0.dev/t/FwYd56Y4f3K",
+    "label": "Template for prompt: Meka me a timeline like this one and add some animations on hover",
+    "dateAdded": "2024-02-24T01:40:02.938Z"
+  },
+  {
+    "url": "https://v0.dev/t/zsOMz6owhxf",
+    "label": "Template for prompt: A base page with a minimalist design",
+    "dateAdded": "2024-02-24T01:40:02.938Z"
+  },
+  {
+    "url": "https://v0.dev/t/0YiSKhshPx6",
+    "label": "Template for prompt: faça uma sidebar responsiva",
+    "dateAdded": "2024-02-24T01:40:02.938Z"
+  },
+  {
+    "url": "https://v0.dev/t/U5JO59A1ZPY",
+    "label": "Template for prompt: Hero section",
+    "dateAdded": "2024-02-24T01:40:02.939Z"
+  },
+  {
+    "url": "https://v0.dev/t/fM6xefnzOCI",
+    "label": "Template for prompt: create a settings menu for an app that lists VR headsets and allows to send different commands",
+    "dateAdded": "2024-02-24T01:40:02.939Z"
+  },
+  {
+    "url": "https://v0.dev/t/o4uo5TThBDG",
+    "label": "Template for prompt: component renders a circular blue chat button with an assistant icon and a green status indicator. When clicked, it toggles the visibility of a popup in the middle of the screen with a close button in the upper right corner.",
+    "dateAdded": "2024-02-24T01:40:02.939Z"
+  },
+  {
+    "url": "https://v0.dev/t/x7cPl15MUWe",
+    "label": "Template for prompt: Nice hero",
+    "dateAdded": "2024-02-24T01:40:02.939Z"
+  },
+  {
+    "url": "https://v0.dev/t/hnDULR7dJd2",
+    "label": "Template for prompt: beautiful navbar ",
+    "dateAdded": "2024-02-24T01:40:02.939Z"
+  },
+  {
+    "url": "https://v0.dev/t/UBimDVreijG",
+    "label": "Template for prompt: payment method where you can scan a qr code, also the account holder name, and as an alternative to the qr code you can copy a phone number with a copy button to make the payment externally.",
+    "dateAdded": "2024-02-24T01:40:02.939Z"
+  },
+  {
+    "url": "https://v0.dev/t/L4D68e6xoGR",
+    "label": "Template for prompt: A clan website UI with posts and clanwars",
+    "dateAdded": "2024-02-24T01:40:02.939Z"
+  },
+  {
+    "url": "https://v0.dev/t/GQZV7sVHVaY",
+    "label": "Template for prompt: navbar",
+    "dateAdded": "2024-02-24T01:40:02.940Z"
+  },
+  {
+    "url": "https://v0.dev/t/PJfPPC8YMMm",
+    "label": "Template for prompt: navbar",
+    "dateAdded": "2024-02-24T01:40:02.940Z"
+  },
+  {
+    "url": "https://v0.dev/t/q2QDQuIRhuL",
+    "label": "Template for prompt: navbar",
+    "dateAdded": "2024-02-24T01:40:02.940Z"
+  },
+  {
+    "url": "https://v0.dev/t/kc0ZedqgTGu",
+    "label": "Template for prompt: navbar",
+    "dateAdded": "2024-02-24T01:40:02.940Z"
+  },
+  {
+    "url": "https://v0.dev/t/k1CQ9m3vDgf",
+    "label": "Template for prompt: Sure, here's an example of how you can create a component in Next.js that implements the described UI:\n\n```jsx\nimport { useState } from 'react';\n\nconst ChatButton = () => {\n  const [isOpen, setIsOpen] = useState(false);\n\n  const togglePopup = () => {\n    setIsOpen(!isOpen);\n  };\n\n  return (\n    <>\n      <button className=\"chat-button\" onClick={togglePopup}>\n        <img src=\"/assistant-icon.png\" alt=\"Assistant Icon\" className=\"assistant-icon\" />\n        <span className=\"status-indicator\"></span>\n      </button>\n      {isOpen && (\n        <div className=\"popup\">\n          <button className=\"close-btn\" onClick={togglePopup}>\n            <i className=\"fas fa-times\"></i>\n          </button>\n          {/* Content of the popup */}\n        </div>\n      )}\n      <style jsx>{`\n        .chat-button {\n          background-color: blue;\n          border: none;\n          border-radius: 50%;\n          width: 60px;\n          height: 60px;\n          display: flex;\n          align-items: center;\n       ",
+    "dateAdded": "2024-02-24T01:40:02.940Z"
+  },
+  {
+    "url": "https://v0.dev/t/prBWbFaIFru",
+    "label": "Template for prompt: Make an exercise, nutrition, and mental well-being management admin panel.   Left sidebar navigation should contain navigations for Clients, Goals, Plans, Activities, Exercises, Workouts ",
+    "dateAdded": "2024-02-24T01:40:02.940Z"
+  },
+  {
+    "url": "https://v0.dev/t/dqfP7FrM4YD",
+    "label": "Template for prompt: quero uma pagina para criar uma conta",
+    "dateAdded": "2024-02-24T01:40:02.940Z"
+  },
+  {
+    "url": "https://v0.dev/t/cxrpxvci0ls",
+    "label": "Template for prompt: puedes crear un datatable donde se generen los usuarios",
+    "dateAdded": "2024-02-24T01:40:02.940Z"
+  },
+  {
+    "url": "https://v0.dev/t/srPIR0xEJJf",
+    "label": "Template for prompt: copy this website layout with the buttons at the top",
+    "dateAdded": "2024-02-24T01:40:02.940Z"
+  },
+  {
+    "url": "https://v0.dev/t/zIdKwWtQrDB",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T01:40:02.941Z"
+  },
+  {
+    "url": "https://v0.dev/t/YEnKWwjKZbX",
+    "label": "Template for prompt: me ayudas a generar un login de usuario para ASP.net",
+    "dateAdded": "2024-02-24T01:40:02.941Z"
+  },
+  {
+    "url": "https://v0.dev/t/xMOypbQIXT6",
+    "label": "Template for prompt: an interface for building a minecraft modpack. users can select a minecraft version and mod loader (i.e. fabric) and then select mods by searching modrinth",
+    "dateAdded": "2024-02-24T01:40:02.941Z"
+  },
+  {
+    "url": "https://v0.dev/t/g0FpZaxSGmq",
+    "label": "Template for prompt: login user",
+    "dateAdded": "2024-02-24T01:40:02.941Z"
+  },
+  {
+    "url": "https://v0.dev/t/C88ZhuoxipJ",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-24T01:40:02.941Z"
   }
 ]
