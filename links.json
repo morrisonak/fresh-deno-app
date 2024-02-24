@@ -22698,5 +22698,135 @@
     "url": "https://v0.dev/t/w0UWho0j7l4",
     "label": "Template for prompt: Put the buttons inside de card and make them centered vertically with the other elements, the buttons must be aligned to the right",
     "dateAdded": "2024-02-24T02:20:02.468Z"
+  },
+  {
+    "url": "https://v0.dev/t/E47NRCE24E4",
+    "label": "Template for prompt: a twitch-like UI for playing video streams",
+    "dateAdded": "2024-02-24T02:25:03.284Z"
+  },
+  {
+    "url": "https://v0.dev/t/oOO3vQrlsP1",
+    "label": "Template for prompt: create a copilot builder UI for LLM-based assistants. There are 3 types of copilots:\n\n- Chat: this is a type of copilot that can get a series of custom prompt messages.\n- RAG: this is a retrieval augmented generation copilot that gets tied to a series of documents and runs semantic search on them, feeding them to the LLM. The user picks the LLM and documents/collections to use in the semantic search, and maximum retrieval token count.\n- Agent: this one will be given a set of tools (one of them is semantic search) and the LLM chooses which one to use. The retrieval tool opens up a document/collection selection UI. The other tools are listed and can be enabled as the user chooses.",
+    "dateAdded": "2024-02-24T02:25:03.285Z"
+  },
+  {
+    "url": "https://v0.dev/t/ujQuuJ4uSMX",
+    "label": "Template for prompt: Necesito crear un componente que sea parecido a la lista de documentos de Google drive con la opción de subir archivos ",
+    "dateAdded": "2024-02-24T02:25:03.285Z"
+  },
+  {
+    "url": "https://v0.dev/t/04RmZqlnXOL",
+    "label": "Template for prompt: Necesito crear un componente que sea parecido a la lista de documentos de Google drive con la opción de subir archivos ",
+    "dateAdded": "2024-02-24T02:25:03.285Z"
+  },
+  {
+    "url": "https://v0.dev/t/xOcF3JdVQX0",
+    "label": "Template for prompt: Formulario de logueo ",
+    "dateAdded": "2024-02-24T02:25:03.285Z"
+  },
+  {
+    "url": "https://v0.dev/t/9cwY0j6CMsC",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T02:25:03.285Z"
+  },
+  {
+    "url": "https://v0.dev/t/K3eubpg5zeA",
+    "label": "Template for prompt: tailwind",
+    "dateAdded": "2024-02-24T02:25:03.285Z"
+  },
+  {
+    "url": "https://v0.dev/t/Cjw6mJkpdw3",
+    "label": "Template for prompt: copia el componente q ves en la foto. pero agrega un boton para volver atras. muy al estilo iphone el boton, sutil, moderno. acorde al diseño que ves.",
+    "dateAdded": "2024-02-24T02:25:03.286Z"
+  },
+  {
+    "url": "https://v0.dev/t/H3iU3mn9llQ",
+    "label": "Template for prompt: landing page for exercise tracker",
+    "dateAdded": "2024-02-24T02:25:03.286Z"
+  },
+  {
+    "url": "https://v0.dev/t/uKvCJoiDKT0",
+    "label": "Template for prompt: a landing page `offerup but for services like car work, sales people, food trucks, catering`",
+    "dateAdded": "2024-02-24T02:25:03.286Z"
+  },
+  {
+    "url": "https://v0.dev/t/3faAolqtgbQ",
+    "label": "Template for prompt: form",
+    "dateAdded": "2024-02-24T02:25:03.286Z"
+  },
+  {
+    "url": "https://v0.dev/t/27QOrIRoXAw",
+    "label": "Template for prompt: create label component ",
+    "dateAdded": "2024-02-24T02:25:03.286Z"
+  },
+  {
+    "url": "https://v0.dev/t/SeHgUd6JTqT",
+    "label": "Template for prompt: offerup but for services like car work, sales people, food trucks, catering",
+    "dateAdded": "2024-02-24T02:25:03.286Z"
+  },
+  {
+    "url": "https://v0.dev/t/nGG1Oz8oUJj",
+    "label": "Template for prompt: login otp",
+    "dateAdded": "2024-02-24T02:25:03.286Z"
+  },
+  {
+    "url": "https://v0.dev/t/BQIbmTjUEop",
+    "label": "Template for prompt: A mobile device screen. There must be 3 elements. A logo, an audio frequency display, preferably circular, and a button with a microphone icon. ",
+    "dateAdded": "2024-02-24T02:25:03.286Z"
+  },
+  {
+    "url": "https://v0.dev/t/ccK8FuMTTDX",
+    "label": "Template for prompt: A pricing page with 3 cards",
+    "dateAdded": "2024-02-24T02:25:03.287Z"
+  },
+  {
+    "url": "https://v0.dev/t/LOKGCfLwRxh",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T02:25:03.287Z"
+  },
+  {
+    "url": "https://v0.dev/t/3GRvb90bGR8",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T02:25:03.287Z"
+  },
+  {
+    "url": "https://v0.dev/t/lGaZdoH0VJf",
+    "label": "Template for prompt: create an OTP login",
+    "dateAdded": "2024-02-24T02:25:03.287Z"
+  },
+  {
+    "url": "https://v0.dev/t/s4H6F6gz79x",
+    "label": "Template for prompt: Createa a modal dialog like this",
+    "dateAdded": "2024-02-24T02:25:03.287Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zvst1c90rdh",
+    "label": "Template for prompt: A single page showcasing a web dev project",
+    "dateAdded": "2024-02-24T02:25:03.287Z"
+  },
+  {
+    "url": "https://v0.dev/t/w3ND7Sr1gRR",
+    "label": "Template for prompt: create a component with a 5xl title on the top left \"Genera ganancias en DiDi Conductor\" below this title a 2xl orange title \"¿Tienes vehículo de?\" and belo what subtitle 2 images side by side. On the right part of the component I want a subtitle \"Hay un DiDi para ti.\" below that a paragraph \"Contamos con diferentes modalidades de acuerdo a tus necesidades:\" and below that a list with circle check icons for 4 products names. Finally ending with a big CTA btn",
+    "dateAdded": "2024-02-24T02:25:03.287Z"
+  },
+  {
+    "url": "https://v0.dev/t/MYcVXEFSqb9",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T02:25:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/ti9hoXv6BcI",
+    "label": "Template for prompt: Créame un listado de información de mascota ",
+    "dateAdded": "2024-02-24T02:25:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/xI7ze9uqCdy",
+    "label": "Template for prompt: 로그인 버튼",
+    "dateAdded": "2024-02-24T02:25:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/1LIfBXqZ6dh",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T02:25:03.288Z"
   }
 ]
