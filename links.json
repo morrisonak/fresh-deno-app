@@ -21923,5 +21923,135 @@
     "url": "https://v0.dev/t/RFYxDUaHsG9",
     "label": "Template for prompt: login page",
     "dateAdded": "2024-02-24T01:50:03.425Z"
+  },
+  {
+    "url": "https://v0.dev/t/S4nFy7hEQHc",
+    "label": "Template for prompt: a profile form.\ntext_input\nselect_input\ntextarea_input",
+    "dateAdded": "2024-02-24T01:55:02.664Z"
+  },
+  {
+    "url": "https://v0.dev/t/llNoTLqlID4",
+    "label": "Template for prompt: search bar",
+    "dateAdded": "2024-02-24T01:55:02.665Z"
+  },
+  {
+    "url": "https://v0.dev/t/mqr3Tbvj7QN",
+    "label": "Template for prompt: a responsive component to show three data points with an icon and divider between them",
+    "dateAdded": "2024-02-24T01:55:02.665Z"
+  },
+  {
+    "url": "https://v0.dev/t/1EsqqU3Y1TN",
+    "label": "Template for prompt: a responsive component to show three data points with an icon and divider between them",
+    "dateAdded": "2024-02-24T01:55:02.665Z"
+  },
+  {
+    "url": "https://v0.dev/t/TChV55LbwuG",
+    "label": "Template for prompt: Generate a landing page for a AI copilot called Scrubs which is an ambient assistant that listens in on doctor-patients and generates actionable notes that can be copied into the Docto's EHR assistant. Make sure to have a demo section with a audio player, and the transcript below it and notes generated from that transcript. ",
+    "dateAdded": "2024-02-24T01:55:02.665Z"
+  },
+  {
+    "url": "https://v0.dev/t/uW8Jdl9SpOl",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-24T01:55:02.665Z"
+  },
+  {
+    "url": "https://v0.dev/t/u3wek8GtbHE",
+    "label": "Template for prompt: 一个运维大屏",
+    "dateAdded": "2024-02-24T01:55:02.665Z"
+  },
+  {
+    "url": "https://v0.dev/t/DXlsmeL3FH8",
+    "label": "Template for prompt: Blockchain intro page gradient dark theme ",
+    "dateAdded": "2024-02-24T01:55:02.665Z"
+  },
+  {
+    "url": "https://v0.dev/t/1ldzGUpcCBC",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T01:55:02.666Z"
+  },
+  {
+    "url": "https://v0.dev/t/cwdSmiEJLYM",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T01:55:02.666Z"
+  },
+  {
+    "url": "https://v0.dev/t/to4vqWvuG86",
+    "label": "Template for prompt: Battle cats ",
+    "dateAdded": "2024-02-24T01:55:02.666Z"
+  },
+  {
+    "url": "https://v0.dev/t/UGSINXviLci",
+    "label": "Template for prompt: create a kahoot style multiple choice quiz about different phobias",
+    "dateAdded": "2024-02-24T01:55:02.666Z"
+  },
+  {
+    "url": "https://v0.dev/t/mOmVzn7EAQz",
+    "label": "Template for prompt: please recreate this dashboard",
+    "dateAdded": "2024-02-24T01:55:02.666Z"
+  },
+  {
+    "url": "https://v0.dev/t/ov7j9MdlXUt",
+    "label": "Template for prompt: beautiful navbar ",
+    "dateAdded": "2024-02-24T01:55:02.666Z"
+  },
+  {
+    "url": "https://v0.dev/t/A8bnlic5Qzz",
+    "label": "Template for prompt: beautiful navbar ",
+    "dateAdded": "2024-02-24T01:55:02.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/JQwDw3yK4kx",
+    "label": "Template for prompt: beautiful navbar ",
+    "dateAdded": "2024-02-24T01:55:02.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/b6Yd3yfvcGa",
+    "label": "Template for prompt: a wordle-type game with a \"bookish\" theme",
+    "dateAdded": "2024-02-24T01:55:02.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/jrW2w2ym3x8",
+    "label": "Template for prompt: dashboard proyect and task",
+    "dateAdded": "2024-02-24T01:55:02.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/oa8VwccDPVN",
+    "label": "Template for prompt: dashboard proyect and task",
+    "dateAdded": "2024-02-24T01:55:02.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/CrkEh02hBDL",
+    "label": "Template for prompt: segmented button, radio buttons as badges with badges showing numbers",
+    "dateAdded": "2024-02-24T01:55:02.667Z"
+  },
+  {
+    "url": "https://v0.dev/t/cwQr2EOfbKv",
+    "label": "Template for prompt: Hazme un foms con las categorias:\n° Información persona. en la que tenga los siguientes inputs:\nNombre , Apellido, Edad, Numerod e huspedes, Fecha de registro y Fecha de salida \n° Habiaciones: Tipo de habitación, Numero de habitación, Estado de la habitación, Maximo numero de personas, Descripcion.\n",
+    "dateAdded": "2024-02-24T01:55:02.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/eWPXOFtWaB7",
+    "label": "Template for prompt: Codeforces hero section",
+    "dateAdded": "2024-02-24T01:55:02.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/f0dfA1nqUWB",
+    "label": "Template for prompt: Build a portfolio website which has ui similar to hoobank's website",
+    "dateAdded": "2024-02-24T01:55:02.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/9shiG0AXkvc",
+    "label": "Template for prompt: A list of every day of a month, will have several columns as day name and day number, datetime and tatus.",
+    "dateAdded": "2024-02-24T01:55:02.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/SJWBwJJNEOh",
+    "label": "Template for prompt: generate me a gantt chart",
+    "dateAdded": "2024-02-24T01:55:02.668Z"
+  },
+  {
+    "url": "https://v0.dev/t/BArLtU5uDBb",
+    "label": "Template for prompt: Discord server ui",
+    "dateAdded": "2024-02-24T01:55:02.669Z"
   }
 ]
