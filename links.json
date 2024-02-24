@@ -23328,5 +23328,125 @@
     "url": "https://v0.dev/t/46zJA891X0F",
     "label": "Template for prompt: Real-time emails statistics dashboard",
     "dateAdded": "2024-02-24T02:45:02.353Z"
+  },
+  {
+    "url": "https://v0.dev/t/k4UAoCPcGBJ",
+    "label": "Template for prompt: api key",
+    "dateAdded": "2024-02-24T02:50:03.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/5DjltsPq48x",
+    "label": "Template for prompt: api key",
+    "dateAdded": "2024-02-24T02:50:03.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/giVtzc2t6Gs",
+    "label": "Template for prompt: api key",
+    "dateAdded": "2024-02-24T02:50:03.925Z"
+  },
+  {
+    "url": "https://v0.dev/t/Fbba48fNKJ2",
+    "label": "Template for prompt: CrossFit app for competitions with leaderboard for every competition ",
+    "dateAdded": "2024-02-24T02:50:03.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/LR00F3X5vMY",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-02-24T02:50:03.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZA0CNjV72UY",
+    "label": "Template for prompt: A profile picker for your Whop. It is a GPT wrapper that takes in prompt and makes profile pics. You can save the profile pic directly to your Whop. Live feed of photo changes across Whop\n\n\n\n\n\n\nMake me a very simple UI for inputting a prompt and seeing the image, then making it your profile pic, and then a feed of othe rpeople changing their pics.",
+    "dateAdded": "2024-02-24T02:50:03.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/SlIBbfHJOKk",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-24T02:50:03.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/x6oKBYFmuOH",
+    "label": "Template for prompt: form with 6 inputs",
+    "dateAdded": "2024-02-24T02:50:03.926Z"
+  },
+  {
+    "url": "https://v0.dev/t/TpIIk9qEDK2",
+    "label": "Template for prompt: Create a portfolio page like above image\ncode should be optimized and for all screens sm,md and lg",
+    "dateAdded": "2024-02-24T02:50:03.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/p34mCaPkej7",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T02:50:03.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/cTyVTLV8lsr",
+    "label": "Template for prompt: a dashboard template",
+    "dateAdded": "2024-02-24T02:50:03.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/MQfM3fcJVHp",
+    "label": "Template for prompt: card for a task that shows title, description and two buttons on the right side",
+    "dateAdded": "2024-02-24T02:50:03.927Z"
+  },
+  {
+    "url": "https://v0.dev/t/6mIktVin3Mc",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-24T02:50:03.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/QPYjq5XlHZF",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-24T02:50:03.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/xwLich5Cw0q",
+    "label": "Template for prompt: can you make me this landing page but for ai generated resumes",
+    "dateAdded": "2024-02-24T02:50:03.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/20vYV5cBf1Q",
+    "label": "Template for prompt: a dashboard to create and modificate clients form a bank",
+    "dateAdded": "2024-02-24T02:50:03.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/rR7pcDyS0fA",
+    "label": "Template for prompt: Create a page about a university with sections to see grades, news, everything that has to do with a university",
+    "dateAdded": "2024-02-24T02:50:03.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/nF6AHb2xgeP",
+    "label": "Template for prompt: a footer for an e learning web site with a pop up when i click on contact us",
+    "dateAdded": "2024-02-24T02:50:03.928Z"
+  },
+  {
+    "url": "https://v0.dev/t/xtrXzlpkBCg",
+    "label": "Template for prompt: make a dashboard with dropdown options in a dark theme",
+    "dateAdded": "2024-02-24T02:50:03.929Z"
+  },
+  {
+    "url": "https://v0.dev/t/spGGB9Xi07y",
+    "label": "Template for prompt: copy the image",
+    "dateAdded": "2024-02-24T02:50:03.929Z"
+  },
+  {
+    "url": "https://v0.dev/t/HqaIi9JrDJN",
+    "label": "Template for prompt: real state form ",
+    "dateAdded": "2024-02-24T02:50:03.929Z"
+  },
+  {
+    "url": "https://v0.dev/t/QrsktuMLFa8",
+    "label": "Template for prompt: login dashboard",
+    "dateAdded": "2024-02-24T02:50:03.929Z"
+  },
+  {
+    "url": "https://v0.dev/t/uYaFORvENgj",
+    "label": "Template for prompt: selectable list of \"files\" that i can toggle on and off being selected",
+    "dateAdded": "2024-02-24T02:50:03.929Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wtx9zZl0BgB",
+    "label": "Template for prompt: copy the image and make a landing page for a sass",
+    "dateAdded": "2024-02-24T02:50:03.929Z"
   }
 ]
