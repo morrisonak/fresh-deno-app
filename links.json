@@ -22828,5 +22828,135 @@
     "url": "https://v0.dev/t/1LIfBXqZ6dh",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2024-02-24T02:25:03.288Z"
+  },
+  {
+    "url": "https://v0.dev/t/y2UIMn66Br2",
+    "label": "Template for prompt: personal finance dashboard",
+    "dateAdded": "2024-02-24T02:30:02.516Z"
+  },
+  {
+    "url": "https://v0.dev/t/CNC56yFyZr7",
+    "label": "Template for prompt: navbar mega menu",
+    "dateAdded": "2024-02-24T02:30:02.517Z"
+  },
+  {
+    "url": "https://v0.dev/t/xI0SFCaug9z",
+    "label": "Template for prompt: a simple login page",
+    "dateAdded": "2024-02-24T02:30:02.517Z"
+  },
+  {
+    "url": "https://v0.dev/t/0srSjxS28KG",
+    "label": "Template for prompt: a sidebar with recursive menus",
+    "dateAdded": "2024-02-24T02:30:02.517Z"
+  },
+  {
+    "url": "https://v0.dev/t/AosDUYRTs80",
+    "label": "Template for prompt: a very well designed very big back button that will be used creatively later",
+    "dateAdded": "2024-02-24T02:30:02.517Z"
+  },
+  {
+    "url": "https://v0.dev/t/8PNDO9qwWPx",
+    "label": "Template for prompt:  home page ecommerce based on the style and content sequence of the largest online stores",
+    "dateAdded": "2024-02-24T02:30:02.517Z"
+  },
+  {
+    "url": "https://v0.dev/t/gLZEaWNRqcj",
+    "label": "Template for prompt: A carrusel of titles of categories ",
+    "dateAdded": "2024-02-24T02:30:02.517Z"
+  },
+  {
+    "url": "https://v0.dev/t/fRgHOWiFOa6",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-02-24T02:30:02.517Z"
+  },
+  {
+    "url": "https://v0.dev/t/yKCXT6MnzaC",
+    "label": "Template for prompt: list of transactions",
+    "dateAdded": "2024-02-24T02:30:02.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/ttJ4KUkQwjc",
+    "label": "Template for prompt: Necesito crear un componente que sea parecido a la lista de documentos de Google drive con la opción de subir archivos ",
+    "dateAdded": "2024-02-24T02:30:02.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/ujQuuJ4uSMX",
+    "label": "Template for prompt: Necesito crear un componente que sea parecido a la lista de documentos de Google drive con la opción de subir archivos ",
+    "dateAdded": "2024-02-24T02:30:02.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/04RmZqlnXOL",
+    "label": "Template for prompt: Necesito crear un componente que sea parecido a la lista de documentos de Google drive con la opción de subir archivos ",
+    "dateAdded": "2024-02-24T02:30:02.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/IznHN7xaEiw",
+    "label": "Template for prompt: a landing page for food truck to business sales, i.e. like weekly lunches with chooseable food trucks",
+    "dateAdded": "2024-02-24T02:30:02.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/mVqi8Ex5F8J",
+    "label": "Template for prompt: A carrusel of text with categories",
+    "dateAdded": "2024-02-24T02:30:02.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/E47NRCE24E4",
+    "label": "Template for prompt: a twitch-like UI for playing video streams",
+    "dateAdded": "2024-02-24T02:30:02.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/oOO3vQrlsP1",
+    "label": "Template for prompt: create a copilot builder UI for LLM-based assistants. There are 3 types of copilots:\n\n- Chat: this is a type of copilot that can get a series of custom prompt messages.\n- RAG: this is a retrieval augmented generation copilot that gets tied to a series of documents and runs semantic search on them, feeding them to the LLM. The user picks the LLM and documents/collections to use in the semantic search, and maximum retrieval token count.\n- Agent: this one will be given a set of tools (one of them is semantic search) and the LLM chooses which one to use. The retrieval tool opens up a document/collection selection UI. The other tools are listed and can be enabled as the user chooses.",
+    "dateAdded": "2024-02-24T02:30:02.518Z"
+  },
+  {
+    "url": "https://v0.dev/t/xOcF3JdVQX0",
+    "label": "Template for prompt: Formulario de logueo ",
+    "dateAdded": "2024-02-24T02:30:02.519Z"
+  },
+  {
+    "url": "https://v0.dev/t/9cwY0j6CMsC",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T02:30:02.519Z"
+  },
+  {
+    "url": "https://v0.dev/t/K3eubpg5zeA",
+    "label": "Template for prompt: tailwind",
+    "dateAdded": "2024-02-24T02:30:02.519Z"
+  },
+  {
+    "url": "https://v0.dev/t/Cjw6mJkpdw3",
+    "label": "Template for prompt: copia el componente q ves en la foto. pero agrega un boton para volver atras. muy al estilo iphone el boton, sutil, moderno. acorde al diseño que ves.",
+    "dateAdded": "2024-02-24T02:30:02.519Z"
+  },
+  {
+    "url": "https://v0.dev/t/H3iU3mn9llQ",
+    "label": "Template for prompt: landing page for exercise tracker",
+    "dateAdded": "2024-02-24T02:30:02.519Z"
+  },
+  {
+    "url": "https://v0.dev/t/uKvCJoiDKT0",
+    "label": "Template for prompt: a landing page `offerup but for services like car work, sales people, food trucks, catering`",
+    "dateAdded": "2024-02-24T02:30:02.519Z"
+  },
+  {
+    "url": "https://v0.dev/t/3faAolqtgbQ",
+    "label": "Template for prompt: form",
+    "dateAdded": "2024-02-24T02:30:02.519Z"
+  },
+  {
+    "url": "https://v0.dev/t/27QOrIRoXAw",
+    "label": "Template for prompt: create label component ",
+    "dateAdded": "2024-02-24T02:30:02.519Z"
+  },
+  {
+    "url": "https://v0.dev/t/SeHgUd6JTqT",
+    "label": "Template for prompt: offerup but for services like car work, sales people, food trucks, catering",
+    "dateAdded": "2024-02-24T02:30:02.520Z"
+  },
+  {
+    "url": "https://v0.dev/t/nGG1Oz8oUJj",
+    "label": "Template for prompt: login otp",
+    "dateAdded": "2024-02-24T02:30:02.520Z"
   }
 ]
