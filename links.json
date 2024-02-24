@@ -19538,5 +19538,135 @@
     "url": "https://v0.dev/t/UegI6sJzfUj",
     "label": "Template for prompt: build me a portfolio website",
     "dateAdded": "2024-02-24T00:15:02.965Z"
+  },
+  {
+    "url": "https://v0.dev/t/zkDPfX4j4Ar",
+    "label": "Template for prompt: blur header",
+    "dateAdded": "2024-02-24T00:20:03.062Z"
+  },
+  {
+    "url": "https://v0.dev/t/vlFDLaQRAZT",
+    "label": "Template for prompt: stats cards",
+    "dateAdded": "2024-02-24T00:20:03.062Z"
+  },
+  {
+    "url": "https://v0.dev/t/zw74zeou8PQ",
+    "label": "Template for prompt: create a page to manage events with a registration tab and a check in tab ",
+    "dateAdded": "2024-02-24T00:20:03.062Z"
+  },
+  {
+    "url": "https://v0.dev/t/c6IFjFm25Xh",
+    "label": "Template for prompt: subscription card displaying two tiers, free and premium with a feature comparison",
+    "dateAdded": "2024-02-24T00:20:03.062Z"
+  },
+  {
+    "url": "https://v0.dev/t/u0d2JYwMHb0",
+    "label": "Template for prompt: slick loading indicator that says \"creating your vault\"",
+    "dateAdded": "2024-02-24T00:20:03.062Z"
+  },
+  {
+    "url": "https://v0.dev/t/iRD8mLFoV9K",
+    "label": "Template for prompt: notes for book",
+    "dateAdded": "2024-02-24T00:20:03.062Z"
+  },
+  {
+    "url": "https://v0.dev/t/2BhW9IK89fv",
+    "label": "Template for prompt: landing page for saas product",
+    "dateAdded": "2024-02-24T00:20:03.062Z"
+  },
+  {
+    "url": "https://v0.dev/t/WPNjzWkoudg",
+    "label": "Template for prompt: create a card that emulates the github merged UI. i want to show:\n- the merged icon\n- title\n- description\n- lines changed\n- company logo",
+    "dateAdded": "2024-02-24T00:20:03.063Z"
+  },
+  {
+    "url": "https://v0.dev/t/IyADcT1lum1",
+    "label": "Template for prompt: make a horizontal timeline for a calendar year that can highlight key events happening at certain points of the year.",
+    "dateAdded": "2024-02-24T00:20:03.063Z"
+  },
+  {
+    "url": "https://v0.dev/t/eqrAENwkouu",
+    "label": "Template for prompt: make a cool loading component that has animated skeletons like the one used on this site when generating",
+    "dateAdded": "2024-02-24T00:20:03.063Z"
+  },
+  {
+    "url": "https://v0.dev/t/urYFujlOEhE",
+    "label": "Template for prompt: make a cool loading component that has animated skeletons like the one used on this site when generating",
+    "dateAdded": "2024-02-24T00:20:03.063Z"
+  },
+  {
+    "url": "https://v0.dev/t/1aUIfTjTDhC",
+    "label": "Template for prompt: generate a tailwind progress bar with custom step completion milestone markers ",
+    "dateAdded": "2024-02-24T00:20:03.063Z"
+  },
+  {
+    "url": "https://v0.dev/t/jgTCoHMlr01",
+    "label": "Template for prompt: application to teach languages",
+    "dateAdded": "2024-02-24T00:20:03.063Z"
+  },
+  {
+    "url": "https://v0.dev/t/HukUkeCzd3T",
+    "label": "Template for prompt: make the venmo pay screen ",
+    "dateAdded": "2024-02-24T00:20:03.063Z"
+  },
+  {
+    "url": "https://v0.dev/t/7cisMfgbC0t",
+    "label": "Template for prompt: make a loading screen like the one used in v0.dev with the skeleton",
+    "dateAdded": "2024-02-24T00:20:03.063Z"
+  },
+  {
+    "url": "https://v0.dev/t/23F96knwqJV",
+    "label": "Template for prompt: create a card with a icon on the top center. Below, I want a text that says. You don't have accounts. With a text tinier below it that says, create one now",
+    "dateAdded": "2024-02-24T00:20:03.063Z"
+  },
+  {
+    "url": "https://v0.dev/t/lPTY4EwTCGW",
+    "label": "Template for prompt: make a loader that says \"creating your vault...\" it should type on the screen with a blinking cursor",
+    "dateAdded": "2024-02-24T00:20:03.063Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wb3MgfSqXCt",
+    "label": "Template for prompt: a form that shoes error messages under submit button",
+    "dateAdded": "2024-02-24T00:20:03.063Z"
+  },
+  {
+    "url": "https://v0.dev/t/7ZT5MTKn87b",
+    "label": "Template for prompt: a basic form",
+    "dateAdded": "2024-02-24T00:20:03.063Z"
+  },
+  {
+    "url": "https://v0.dev/t/gOGC3rHBw9L",
+    "label": "Template for prompt: a landing page for a real estate service",
+    "dateAdded": "2024-02-24T00:20:03.063Z"
+  },
+  {
+    "url": "https://v0.dev/t/DgqUdoXWCiq",
+    "label": "Template for prompt: an input form with error message showing at bottom of form",
+    "dateAdded": "2024-02-24T00:20:03.063Z"
+  },
+  {
+    "url": "https://v0.dev/t/giIjuCAEZZZ",
+    "label": "Template for prompt: I want a responsive page with 3 modules, the top one has two inside divs that say left and one that says right and the left and right are aligned to the appropriate edge, the second module is below the first module and is responsive and so is the 3rd module",
+    "dateAdded": "2024-02-24T00:20:03.063Z"
+  },
+  {
+    "url": "https://v0.dev/t/hSgcBG0KmbV",
+    "label": "Template for prompt: an input form with error message showing",
+    "dateAdded": "2024-02-24T00:20:03.063Z"
+  },
+  {
+    "url": "https://v0.dev/t/ohOkxkCzMiR",
+    "label": "Template for prompt: A single page event page with a signup form. ",
+    "dateAdded": "2024-02-24T00:20:03.063Z"
+  },
+  {
+    "url": "https://v0.dev/t/1qzbnWdzJ51",
+    "label": "Template for prompt: a hero section for a real estate service",
+    "dateAdded": "2024-02-24T00:20:03.064Z"
+  },
+  {
+    "url": "https://v0.dev/t/eAe4TwBBAR6",
+    "label": "Template for prompt: a loading component that fills its parents space. it should say \"creating your vault...\"",
+    "dateAdded": "2024-02-24T00:20:03.064Z"
   }
 ]
