@@ -20773,5 +20773,135 @@
     "url": "https://v0.dev/t/IrnV2E5pV9a",
     "label": "Template for prompt: navbar",
     "dateAdded": "2024-02-24T01:05:02.628Z"
+  },
+  {
+    "url": "https://v0.dev/t/8lUXGjC5jRS",
+    "label": "Template for prompt: create a button like this but make it say coming soon:",
+    "dateAdded": "2024-02-24T01:10:03.082Z"
+  },
+  {
+    "url": "https://v0.dev/t/jOjD7czDRNO",
+    "label": "Template for prompt: Form with start time field, end time field, text area, Another text field, a drop down, and a Button",
+    "dateAdded": "2024-02-24T01:10:03.082Z"
+  },
+  {
+    "url": "https://v0.dev/t/eZAMIeNtrM8",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T01:10:03.082Z"
+  },
+  {
+    "url": "https://v0.dev/t/peMtQjjkEuH",
+    "label": "Template for prompt: Prompt:\n\nDesign a web UI for the Secret Hitler game that incorporates real-time updates using websockets. The UI should include the following elements:\n\nConnected Players:\n\nDisplay a list of all players currently connected to the game.\nClearly indicate which players are still alive.\nCurrent President:\n\nHighlight the player who is currently the president.\nIf the user is the president, display additional actions that can be performed on other players (e.g., kill, investigate, elect).\nAvailable Actions (if the user is the president):\n\nShow buttons or options for actions that the president can take, such as:\nKill: Select a player to eliminate from the game.\nInvestigate: Choose a player to investigate their role secretly.\nElect: Start the process of selecting a chancellor for the upcoming round.\nCurrent Chancellor:\n\nDisplay the player who is currently the chancellor (if there is one).\nDead Players:\n\nProvide a section to display players who are no longer part of the game (dead).\nEnsure that ",
+    "dateAdded": "2024-02-24T01:10:03.082Z"
+  },
+  {
+    "url": "https://v0.dev/t/UlpbJvUlBCz",
+    "label": "Template for prompt: A card services",
+    "dateAdded": "2024-02-24T01:10:03.082Z"
+  },
+  {
+    "url": "https://v0.dev/t/5yOQoYO2hve",
+    "label": "Template for prompt: a homepage for a breathing exercise app",
+    "dateAdded": "2024-02-24T01:10:03.082Z"
+  },
+  {
+    "url": "https://v0.dev/t/mzMO4MQ42He",
+    "label": "Template for prompt: an order tracking page with timeline",
+    "dateAdded": "2024-02-24T01:10:03.082Z"
+  },
+  {
+    "url": "https://v0.dev/t/K5MuucgTQFL",
+    "label": "Template for prompt: card with title on top, content in middle and action buttons on button",
+    "dateAdded": "2024-02-24T01:10:03.083Z"
+  },
+  {
+    "url": "https://v0.dev/t/BtA6uLPOAHi",
+    "label": "Template for prompt: A complex management dashboard with a sidebar and a page to view all residents",
+    "dateAdded": "2024-02-24T01:10:03.083Z"
+  },
+  {
+    "url": "https://v0.dev/t/8u98nzVd2KZ",
+    "label": "Template for prompt: Make a portfolio with dark colors and add a button to change to dark mode",
+    "dateAdded": "2024-02-24T01:10:03.083Z"
+  },
+  {
+    "url": "https://v0.dev/t/U9I8dzNjVlu",
+    "label": "Template for prompt: a ui for a game. in this game, there are around 6-8 people connected through websockets. the game works by rotating around the president role, and the president can do different actions. so, the other people must be able to view what the president is doing, and the president must be able to do his actions. his actions are kill, investigate, and elect. and there are also 2 lines that track the liberal/bad side state of cards",
+    "dateAdded": "2024-02-24T01:10:03.083Z"
+  },
+  {
+    "url": "https://v0.dev/t/XfYOdoIIf05",
+    "label": "Template for prompt: A contact form",
+    "dateAdded": "2024-02-24T01:10:03.083Z"
+  },
+  {
+    "url": "https://v0.dev/t/b4ldx3H8lKM",
+    "label": "Template for prompt: animated gradient svg \n\nmake it a random kind of shape, not like a square or circle, like a blob\n\nmake it be animated and moving ",
+    "dateAdded": "2024-02-24T01:10:03.083Z"
+  },
+  {
+    "url": "https://v0.dev/t/Eaq6sWoKXTm",
+    "label": "Template for prompt: Copy this image",
+    "dateAdded": "2024-02-24T01:10:03.083Z"
+  },
+  {
+    "url": "https://v0.dev/t/vnnwiBCmxnz",
+    "label": "Template for prompt: A dashboard for a music rights search engine music rights administration software with side dashboard menu with menu items categorized as manage, monitor, and any other relevant category that music rights admins might need.  ",
+    "dateAdded": "2024-02-24T01:10:03.084Z"
+  },
+  {
+    "url": "https://v0.dev/t/bhkKZEku21j",
+    "label": "Template for prompt: Make a portfolio with dark colors and add a button to change to dark mode",
+    "dateAdded": "2024-02-24T01:10:03.084Z"
+  },
+  {
+    "url": "https://v0.dev/t/XUdx4SiTErE",
+    "label": "Template for prompt: Make a portfolio with dark colors and add a button to change to dark mode",
+    "dateAdded": "2024-02-24T01:10:03.084Z"
+  },
+  {
+    "url": "https://v0.dev/t/vbeZL4YUrv4",
+    "label": "Template for prompt: A landing page hero section mobile app resolution with a heading, leading text and a button",
+    "dateAdded": "2024-02-24T01:10:03.084Z"
+  },
+  {
+    "url": "https://v0.dev/t/8YI3g4xjtZd",
+    "label": "Template for prompt: create this bento design for a dashboard with scale out features on hover ",
+    "dateAdded": "2024-02-24T01:10:03.084Z"
+  },
+  {
+    "url": "https://v0.dev/t/nuLIJR8LsEG",
+    "label": "Template for prompt: ask ai tab where there is an input and button to send information",
+    "dateAdded": "2024-02-24T01:10:03.084Z"
+  },
+  {
+    "url": "https://v0.dev/t/lHYOhjb2qNa",
+    "label": "Template for prompt: heart icon",
+    "dateAdded": "2024-02-24T01:10:03.084Z"
+  },
+  {
+    "url": "https://v0.dev/t/VW3LJKySX9K",
+    "label": "Template for prompt: ai evaluation dashboard",
+    "dateAdded": "2024-02-24T01:10:03.084Z"
+  },
+  {
+    "url": "https://v0.dev/t/p2NW5fbektg",
+    "label": "Template for prompt: copy this image",
+    "dateAdded": "2024-02-24T01:10:03.084Z"
+  },
+  {
+    "url": "https://v0.dev/t/9zi08MqO7nQ",
+    "label": "Template for prompt: A shopping cart from an e-commerce page",
+    "dateAdded": "2024-02-24T01:10:03.085Z"
+  },
+  {
+    "url": "https://v0.dev/t/VRGx6QlLBcn",
+    "label": "Template for prompt: A UI to allow a user to sign in with email and password, sign in with magic link , sign in with google aaccount or sign up",
+    "dateAdded": "2024-02-24T01:10:03.085Z"
+  },
+  {
+    "url": "https://v0.dev/t/dlYvczEez3W",
+    "label": "Template for prompt: hi, i wanna a navbar whit this titles: Home\nDevelopers\nProjects\nabout me",
+    "dateAdded": "2024-02-24T01:10:03.085Z"
   }
 ]
