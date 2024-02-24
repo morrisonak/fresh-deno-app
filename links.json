@@ -21793,5 +21793,135 @@
     "url": "https://v0.dev/t/o4uo5TThBDG",
     "label": "Template for prompt: component renders a circular blue chat button with an assistant icon and a green status indicator. When clicked, it toggles the visibility of a popup in the middle of the screen with a close button in the upper right corner.",
     "dateAdded": "2024-02-24T01:45:02.280Z"
+  },
+  {
+    "url": "https://v0.dev/t/cwdSmiEJLYM",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T01:50:03.421Z"
+  },
+  {
+    "url": "https://v0.dev/t/UGSINXviLci",
+    "label": "Template for prompt: create a kahoot style multiple choice quiz about different phobias",
+    "dateAdded": "2024-02-24T01:50:03.421Z"
+  },
+  {
+    "url": "https://v0.dev/t/mOmVzn7EAQz",
+    "label": "Template for prompt: please recreate this dashboard",
+    "dateAdded": "2024-02-24T01:50:03.421Z"
+  },
+  {
+    "url": "https://v0.dev/t/ov7j9MdlXUt",
+    "label": "Template for prompt: beautiful navbar ",
+    "dateAdded": "2024-02-24T01:50:03.421Z"
+  },
+  {
+    "url": "https://v0.dev/t/A8bnlic5Qzz",
+    "label": "Template for prompt: beautiful navbar ",
+    "dateAdded": "2024-02-24T01:50:03.421Z"
+  },
+  {
+    "url": "https://v0.dev/t/JQwDw3yK4kx",
+    "label": "Template for prompt: beautiful navbar ",
+    "dateAdded": "2024-02-24T01:50:03.421Z"
+  },
+  {
+    "url": "https://v0.dev/t/b6Yd3yfvcGa",
+    "label": "Template for prompt: a wordle-type game with a \"bookish\" theme",
+    "dateAdded": "2024-02-24T01:50:03.421Z"
+  },
+  {
+    "url": "https://v0.dev/t/jrW2w2ym3x8",
+    "label": "Template for prompt: dashboard proyect and task",
+    "dateAdded": "2024-02-24T01:50:03.422Z"
+  },
+  {
+    "url": "https://v0.dev/t/oa8VwccDPVN",
+    "label": "Template for prompt: dashboard proyect and task",
+    "dateAdded": "2024-02-24T01:50:03.422Z"
+  },
+  {
+    "url": "https://v0.dev/t/CrkEh02hBDL",
+    "label": "Template for prompt: segmented button, radio buttons as badges with badges showing numbers",
+    "dateAdded": "2024-02-24T01:50:03.422Z"
+  },
+  {
+    "url": "https://v0.dev/t/cwQr2EOfbKv",
+    "label": "Template for prompt: Hazme un foms con las categorias:\n° Información persona. en la que tenga los siguientes inputs:\nNombre , Apellido, Edad, Numerod e huspedes, Fecha de registro y Fecha de salida \n° Habiaciones: Tipo de habitación, Numero de habitación, Estado de la habitación, Maximo numero de personas, Descripcion.\n",
+    "dateAdded": "2024-02-24T01:50:03.422Z"
+  },
+  {
+    "url": "https://v0.dev/t/eWPXOFtWaB7",
+    "label": "Template for prompt: Codeforces hero section",
+    "dateAdded": "2024-02-24T01:50:03.422Z"
+  },
+  {
+    "url": "https://v0.dev/t/f0dfA1nqUWB",
+    "label": "Template for prompt: Build a portfolio website which has ui similar to hoobank's website",
+    "dateAdded": "2024-02-24T01:50:03.422Z"
+  },
+  {
+    "url": "https://v0.dev/t/9shiG0AXkvc",
+    "label": "Template for prompt: A list of every day of a month, will have several columns as day name and day number, datetime and tatus.",
+    "dateAdded": "2024-02-24T01:50:03.422Z"
+  },
+  {
+    "url": "https://v0.dev/t/SJWBwJJNEOh",
+    "label": "Template for prompt: generate me a gantt chart",
+    "dateAdded": "2024-02-24T01:50:03.423Z"
+  },
+  {
+    "url": "https://v0.dev/t/BArLtU5uDBb",
+    "label": "Template for prompt: Discord server ui",
+    "dateAdded": "2024-02-24T01:50:03.423Z"
+  },
+  {
+    "url": "https://v0.dev/t/ucGV7F5WQq8",
+    "label": "Template for prompt: make a about me section for a frontend developer",
+    "dateAdded": "2024-02-24T01:50:03.423Z"
+  },
+  {
+    "url": "https://v0.dev/t/03g1UnrKLtG",
+    "label": "Template for prompt: hazlo",
+    "dateAdded": "2024-02-24T01:50:03.423Z"
+  },
+  {
+    "url": "https://v0.dev/t/C4EZkZnDZOx",
+    "label": "Template for prompt: A job card that has information about a job listing",
+    "dateAdded": "2024-02-24T01:50:03.423Z"
+  },
+  {
+    "url": "https://v0.dev/t/UrmNTiHIuq3",
+    "label": "Template for prompt: hazlo",
+    "dateAdded": "2024-02-24T01:50:03.423Z"
+  },
+  {
+    "url": "https://v0.dev/t/jCRa6kXq1XF",
+    "label": "Template for prompt: 网站访问的 流量统计图",
+    "dateAdded": "2024-02-24T01:50:03.423Z"
+  },
+  {
+    "url": "https://v0.dev/t/RTWfz7SFiwQ",
+    "label": "Template for prompt: make a bg using a gradient animation",
+    "dateAdded": "2024-02-24T01:50:03.424Z"
+  },
+  {
+    "url": "https://v0.dev/t/gqRiZg7uMsf",
+    "label": "Template for prompt: portafolio de proyectos web",
+    "dateAdded": "2024-02-24T01:50:03.424Z"
+  },
+  {
+    "url": "https://v0.dev/t/IHMSr9slybd",
+    "label": "Template for prompt: Footer",
+    "dateAdded": "2024-02-24T01:50:03.424Z"
+  },
+  {
+    "url": "https://v0.dev/t/ZPAu0ZcGikA",
+    "label": "Template for prompt: formulario para la recepcion de materiales de un erp",
+    "dateAdded": "2024-02-24T01:50:03.424Z"
+  },
+  {
+    "url": "https://v0.dev/t/RFYxDUaHsG9",
+    "label": "Template for prompt: login page",
+    "dateAdded": "2024-02-24T01:50:03.425Z"
   }
 ]
