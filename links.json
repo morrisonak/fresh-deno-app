@@ -19408,5 +19408,135 @@
     "url": "https://v0.dev/t/10iC2PxLTak",
     "label": "Template for prompt: A visual generation",
     "dateAdded": "2024-02-24T00:10:02.411Z"
+  },
+  {
+    "url": "https://v0.dev/t/23F96knwqJV",
+    "label": "Template for prompt: create a card with a icon on the top center. Below, I want a text that says. You don't have accounts. With a text tinier below it that says, create one now",
+    "dateAdded": "2024-02-24T00:15:02.963Z"
+  },
+  {
+    "url": "https://v0.dev/t/lPTY4EwTCGW",
+    "label": "Template for prompt: make a loader that says \"creating your vault...\" it should type on the screen with a blinking cursor",
+    "dateAdded": "2024-02-24T00:15:02.963Z"
+  },
+  {
+    "url": "https://v0.dev/t/Wb3MgfSqXCt",
+    "label": "Template for prompt: a form that shoes error messages under submit button",
+    "dateAdded": "2024-02-24T00:15:02.963Z"
+  },
+  {
+    "url": "https://v0.dev/t/7ZT5MTKn87b",
+    "label": "Template for prompt: a basic form",
+    "dateAdded": "2024-02-24T00:15:02.963Z"
+  },
+  {
+    "url": "https://v0.dev/t/gOGC3rHBw9L",
+    "label": "Template for prompt: a landing page for a real estate service",
+    "dateAdded": "2024-02-24T00:15:02.963Z"
+  },
+  {
+    "url": "https://v0.dev/t/DgqUdoXWCiq",
+    "label": "Template for prompt: an input form with error message showing at bottom of form",
+    "dateAdded": "2024-02-24T00:15:02.963Z"
+  },
+  {
+    "url": "https://v0.dev/t/giIjuCAEZZZ",
+    "label": "Template for prompt: I want a responsive page with 3 modules, the top one has two inside divs that say left and one that says right and the left and right are aligned to the appropriate edge, the second module is below the first module and is responsive and so is the 3rd module",
+    "dateAdded": "2024-02-24T00:15:02.964Z"
+  },
+  {
+    "url": "https://v0.dev/t/hSgcBG0KmbV",
+    "label": "Template for prompt: an input form with error message showing",
+    "dateAdded": "2024-02-24T00:15:02.964Z"
+  },
+  {
+    "url": "https://v0.dev/t/ohOkxkCzMiR",
+    "label": "Template for prompt: A single page event page with a signup form. ",
+    "dateAdded": "2024-02-24T00:15:02.964Z"
+  },
+  {
+    "url": "https://v0.dev/t/1qzbnWdzJ51",
+    "label": "Template for prompt: a hero section for a real estate service",
+    "dateAdded": "2024-02-24T00:15:02.964Z"
+  },
+  {
+    "url": "https://v0.dev/t/eAe4TwBBAR6",
+    "label": "Template for prompt: a loading component that fills its parents space. it should say \"creating your vault...\"",
+    "dateAdded": "2024-02-24T00:15:02.964Z"
+  },
+  {
+    "url": "https://v0.dev/t/qqyXTn2Rmmw",
+    "label": "Template for prompt: can you make a portfolio using the design style of airbnb.com",
+    "dateAdded": "2024-02-24T00:15:02.964Z"
+  },
+  {
+    "url": "https://v0.dev/t/t77oUaJ0IYK",
+    "label": "Template for prompt: Interactive code editor",
+    "dateAdded": "2024-02-24T00:15:02.964Z"
+  },
+  {
+    "url": "https://v0.dev/t/quf2cmJ7Zzr",
+    "label": "Template for prompt: generate this homepage with the background style and text",
+    "dateAdded": "2024-02-24T00:15:02.964Z"
+  },
+  {
+    "url": "https://v0.dev/t/OXTHIqVVvfa",
+    "label": "Template for prompt: A zip code input, that when entered, returns the hardiness zone of that zipcode, followed by a matrix with the months of the year then vegetables that can are grown in that month",
+    "dateAdded": "2024-02-24T00:15:02.964Z"
+  },
+  {
+    "url": "https://v0.dev/t/lEqjDhFXBAP",
+    "label": "Template for prompt: can you make a portfolio using the design style of miro.com ",
+    "dateAdded": "2024-02-24T00:15:02.964Z"
+  },
+  {
+    "url": "https://v0.dev/t/lmzAcPxQjDg",
+    "label": "Template for prompt: Creame una notificacion que este abajo a la derecha de la pantalla que indique que esta cargando GPT y ademas debe tener a su izquierda el tipico logo de cargando, un diseño animalista quiero",
+    "dateAdded": "2024-02-24T00:15:02.964Z"
+  },
+  {
+    "url": "https://v0.dev/t/RiLmfPlL3v3",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T00:15:02.964Z"
+  },
+  {
+    "url": "https://v0.dev/t/14tYmeb96wc",
+    "label": "Template for prompt: header cms",
+    "dateAdded": "2024-02-24T00:15:02.964Z"
+  },
+  {
+    "url": "https://v0.dev/t/YrD8CmCkn92",
+    "label": "Template for prompt: make a tailwind based table with alternating row colors, a clear header, a search box, a title, and pagination.",
+    "dateAdded": "2024-02-24T00:15:02.964Z"
+  },
+  {
+    "url": "https://v0.dev/t/OIaIIv6L0Wv",
+    "label": "Template for prompt: A reading manga/comic page",
+    "dateAdded": "2024-02-24T00:15:02.964Z"
+  },
+  {
+    "url": "https://v0.dev/t/DSXSjkFFM9H",
+    "label": "Template for prompt: create a login form with icons on the inputs and an eye for showing password",
+    "dateAdded": "2024-02-24T00:15:02.964Z"
+  },
+  {
+    "url": "https://v0.dev/t/Z2rfyR8DHmE",
+    "label": "Template for prompt: a no location permissions screen for a mobile app",
+    "dateAdded": "2024-02-24T00:15:02.964Z"
+  },
+  {
+    "url": "https://v0.dev/t/gFyg5HxVmm8",
+    "label": "Template for prompt: workout dashboard with tailwind",
+    "dateAdded": "2024-02-24T00:15:02.965Z"
+  },
+  {
+    "url": "https://v0.dev/t/03f6LRxVF9h",
+    "label": "Template for prompt: a registration form for  an university club event",
+    "dateAdded": "2024-02-24T00:15:02.965Z"
+  },
+  {
+    "url": "https://v0.dev/t/UegI6sJzfUj",
+    "label": "Template for prompt: build me a portfolio website",
+    "dateAdded": "2024-02-24T00:15:02.965Z"
   }
 ]
