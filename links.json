@@ -23083,5 +23083,130 @@
     "url": "https://v0.dev/t/oOO3vQrlsP1",
     "label": "Template for prompt: create a copilot builder UI for LLM-based assistants. There are 3 types of copilots:\n\n- Chat: this is a type of copilot that can get a series of custom prompt messages.\n- RAG: this is a retrieval augmented generation copilot that gets tied to a series of documents and runs semantic search on them, feeding them to the LLM. The user picks the LLM and documents/collections to use in the semantic search, and maximum retrieval token count.\n- Agent: this one will be given a set of tools (one of them is semantic search) and the LLM chooses which one to use. The retrieval tool opens up a document/collection selection UI. The other tools are listed and can be enabled as the user chooses.",
     "dateAdded": "2024-02-24T02:35:02.399Z"
+  },
+  {
+    "url": "https://v0.dev/t/fnqX0bSTN9c",
+    "label": "Template for prompt: a footer for an e learning web site with a contact us pop up",
+    "dateAdded": "2024-02-24T02:40:07.601Z"
+  },
+  {
+    "url": "https://v0.dev/t/8QOPaVlRVG6",
+    "label": "Template for prompt: A mobile first application to search information about a person on internet (people search engine) that returns websites, social networks and documents about the person in the web.",
+    "dateAdded": "2024-02-24T02:40:07.601Z"
+  },
+  {
+    "url": "https://v0.dev/t/EY306JTXBkd",
+    "label": "Template for prompt: A mobile first application to search information about a person on internet (people search engine) that returns websites, social networks and documents about the person in the web.",
+    "dateAdded": "2024-02-24T02:40:07.601Z"
+  },
+  {
+    "url": "https://v0.dev/t/HWlRZj7yOp6",
+    "label": "Template for prompt: https://twitter.com",
+    "dateAdded": "2024-02-24T02:40:07.602Z"
+  },
+  {
+    "url": "https://v0.dev/t/tUB2BYnhsmb",
+    "label": "Template for prompt: crea una pagina con un fondo de color rgb(13, 17, 23)",
+    "dateAdded": "2024-02-24T02:40:07.602Z"
+  },
+  {
+    "url": "https://v0.dev/t/nJANbuhG3FX",
+    "label": "Template for prompt: a crud ",
+    "dateAdded": "2024-02-24T02:40:07.602Z"
+  },
+  {
+    "url": "https://v0.dev/t/qhwx5LcskIT",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-24T02:40:07.602Z"
+  },
+  {
+    "url": "https://v0.dev/t/B6GXl9Ay6nT",
+    "label": "Template for prompt: Panel para listar archivos y cargar archivos, con opciones para eliminar, modificar nombre, descargar, ver y modificar metadatos. En la lista aparecen los siguientes elementos: nombre, propietario, fecha de carga, tamaño y estado.",
+    "dateAdded": "2024-02-24T02:40:07.602Z"
+  },
+  {
+    "url": "https://v0.dev/t/KZhKrJthhgX",
+    "label": "Template for prompt: profile page like patreon",
+    "dateAdded": "2024-02-24T02:40:07.603Z"
+  },
+  {
+    "url": "https://v0.dev/t/xZzQqdy6ggQ",
+    "label": "Template for prompt: login",
+    "dateAdded": "2024-02-24T02:40:07.603Z"
+  },
+  {
+    "url": "https://v0.dev/t/aAqi5vkUK7e",
+    "label": "Template for prompt: a website to buy car parts",
+    "dateAdded": "2024-02-24T02:40:07.603Z"
+  },
+  {
+    "url": "https://v0.dev/t/m8dl3BYD2cE",
+    "label": "Template for prompt: a section for Top categories like Development and Business and Marketing",
+    "dateAdded": "2024-02-24T02:40:07.603Z"
+  },
+  {
+    "url": "https://v0.dev/t/46zJA891X0F",
+    "label": "Template for prompt: Real-time emails statistics dashboard",
+    "dateAdded": "2024-02-24T02:40:07.604Z"
+  },
+  {
+    "url": "https://v0.dev/t/3qKZAlNcdGC",
+    "label": "Template for prompt: Create a fancy navbar for an AI automation agency",
+    "dateAdded": "2024-02-24T02:40:07.604Z"
+  },
+  {
+    "url": "https://v0.dev/t/CrSEEI2R8gD",
+    "label": "Template for prompt: admin tools dashboard with 50 individual links to specific tools",
+    "dateAdded": "2024-02-24T02:40:07.604Z"
+  },
+  {
+    "url": "https://v0.dev/t/JtURYUBsgSA",
+    "label": "Template for prompt: https://hieu.lol/",
+    "dateAdded": "2024-02-24T02:40:07.604Z"
+  },
+  {
+    "url": "https://v0.dev/t/WzDM97n16vl",
+    "label": "Template for prompt: Make a 2 column section with left text and right image",
+    "dateAdded": "2024-02-24T02:40:07.604Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zd7W7osrZct",
+    "label": "Template for prompt: kappug learning",
+    "dateAdded": "2024-02-24T02:40:07.604Z"
+  },
+  {
+    "url": "https://v0.dev/t/Y7qzF4Nfc43",
+    "label": "Template for prompt: a web application to upload files to encrypt",
+    "dateAdded": "2024-02-24T02:40:07.605Z"
+  },
+  {
+    "url": "https://v0.dev/t/E01jnheSV6a",
+    "label": "Template for prompt: A page section with a carousel of images under a title",
+    "dateAdded": "2024-02-24T02:40:07.605Z"
+  },
+  {
+    "url": "https://v0.dev/t/J7tSgytC5RZ",
+    "label": "Template for prompt: Sign in form",
+    "dateAdded": "2024-02-24T02:40:07.605Z"
+  },
+  {
+    "url": "https://v0.dev/t/neUR4y5QlSe",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T02:40:07.605Z"
+  },
+  {
+    "url": "https://v0.dev/t/RzxMZSzQPa3",
+    "label": "Template for prompt: Create a WYSIWYG text editor",
+    "dateAdded": "2024-02-24T02:40:07.605Z"
+  },
+  {
+    "url": "https://v0.dev/t/7ZrXKlwledX",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders. flex justify-center, items-center, all borders rond 20px, each button different gradient",
+    "dateAdded": "2024-02-24T02:40:07.606Z"
+  },
+  {
+    "url": "https://v0.dev/t/TUQef7RXJI1",
+    "label": "Template for prompt: section for best category like dev and marketing",
+    "dateAdded": "2024-02-24T02:40:07.606Z"
   }
 ]
