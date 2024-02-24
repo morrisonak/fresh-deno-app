@@ -24098,5 +24098,135 @@
     "url": "https://v0.dev/t/s4LYA1SKSet",
     "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
     "dateAdded": "2024-02-24T13:55:03.363Z"
+  },
+  {
+    "url": "https://v0.dev/t/sS5H617wLNl",
+    "label": "Template for prompt: a mutli-step form with gaussian blur on the background",
+    "dateAdded": "2024-02-24T14:00:02.440Z"
+  },
+  {
+    "url": "https://v0.dev/t/Qb29F2q8jkK",
+    "label": "Template for prompt: edit this image",
+    "dateAdded": "2024-02-24T14:00:02.440Z"
+  },
+  {
+    "url": "https://v0.dev/t/cFiF21lA5Ah",
+    "label": "Template for prompt: create pricing page using reacte tailwnid cdd",
+    "dateAdded": "2024-02-24T14:00:02.440Z"
+  },
+  {
+    "url": "https://v0.dev/t/TlTGe557qqU",
+    "label": "Template for prompt: create this same ui",
+    "dateAdded": "2024-02-24T14:00:02.440Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zs1tnadGgz4",
+    "label": "Template for prompt: form",
+    "dateAdded": "2024-02-24T14:00:02.440Z"
+  },
+  {
+    "url": "https://v0.dev/t/sJ2HtbAYBS4",
+    "label": "Template for prompt: create marketplace",
+    "dateAdded": "2024-02-24T14:00:02.440Z"
+  },
+  {
+    "url": "https://v0.dev/t/8YWhFcy2zrE",
+    "label": "Template for prompt: create marketplace",
+    "dateAdded": "2024-02-24T14:00:02.441Z"
+  },
+  {
+    "url": "https://v0.dev/t/A62R7Paa9IM",
+    "label": "Template for prompt: header",
+    "dateAdded": "2024-02-24T14:00:02.441Z"
+  },
+  {
+    "url": "https://v0.dev/t/HhrM6UDt669",
+    "label": "Template for prompt: Problem Statement #1: Flight Ticket Booking\nCreate a web application for flight ticket booking. A console based application would work.\nSubmissions with a very basic UI will be given extra marks.\nType of Users\na. User\nb. Admin\nUser Use Cases\n● Login\n● Sign up\n● Searching for flights based on date and time\n● Booking tickets on a flight based on availability (assuming the default seat count is 60)\n● My Booking -> to list out all the bookings made by that user\n● Logout\nAdmin Use Cases\n● Login (Seperate login for Admin)\n● Add Flights\n● Remove flights\n● View all the booking based on flight number and time",
+    "dateAdded": "2024-02-24T14:00:02.441Z"
+  },
+  {
+    "url": "https://v0.dev/t/shCz0KwHVEY",
+    "label": "Template for prompt: 강의 제목과 강사이름이 있는 카드 컴포넌트",
+    "dateAdded": "2024-02-24T14:00:02.441Z"
+  },
+  {
+    "url": "https://v0.dev/t/YLY6zfpqWWw",
+    "label": "Template for prompt: Menu responsiva",
+    "dateAdded": "2024-02-24T14:00:02.441Z"
+  },
+  {
+    "url": "https://v0.dev/t/P7CsuYkBlxY",
+    "label": "Template for prompt: drawer on the left side of the application to render all the routes such as home, tasks, my calendar, config and subroutes too",
+    "dateAdded": "2024-02-24T14:00:02.441Z"
+  },
+  {
+    "url": "https://v0.dev/t/SuRnOB8Kvf0",
+    "label": "Template for prompt: create sidbar like this",
+    "dateAdded": "2024-02-24T14:00:02.441Z"
+  },
+  {
+    "url": "https://v0.dev/t/2w9WJhOzJwh",
+    "label": "Template for prompt: без красных полос",
+    "dateAdded": "2024-02-24T14:00:02.441Z"
+  },
+  {
+    "url": "https://v0.dev/t/QtDcBLn62Jz",
+    "label": "Template for prompt: без красных полос",
+    "dateAdded": "2024-02-24T14:00:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/STAzN8psGoE",
+    "label": "Template for prompt: без красных полос",
+    "dateAdded": "2024-02-24T14:00:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/c1gSr16fKPu",
+    "label": "Template for prompt: An organization dashboard showing a list of users, a list of roles and some other settings",
+    "dateAdded": "2024-02-24T14:00:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/eivuId5sNFF",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T14:00:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/YGGB8OlGsUj",
+    "label": "Template for prompt: task lists",
+    "dateAdded": "2024-02-24T14:00:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/rk9mVS32NN9",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T14:00:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/WLyUWHlSU7o",
+    "label": "Template for prompt: Navegador responsiva",
+    "dateAdded": "2024-02-24T14:00:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/IstNqhK6Kd0",
+    "label": "Template for prompt: build an AI tricome tracker. users can upload images and the app uses chatgpt gives a percentage based on if the trichome as mature or not. show a table with the image, and 3 colunms clear, milky, amber each one a percentage. ",
+    "dateAdded": "2024-02-24T14:00:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/uJMPu0tUrCY",
+    "label": "Template for prompt: sign up page",
+    "dateAdded": "2024-02-24T14:00:02.442Z"
+  },
+  {
+    "url": "https://v0.dev/t/60KzID2KWsc",
+    "label": "Template for prompt: generate this image ui 100% same in tailwind ",
+    "dateAdded": "2024-02-24T14:00:02.443Z"
+  },
+  {
+    "url": "https://v0.dev/t/ypxwRKReRkU",
+    "label": "Template for prompt: A MEGA style page",
+    "dateAdded": "2024-02-24T14:00:02.443Z"
+  },
+  {
+    "url": "https://v0.dev/t/hyQ4P61ciMn",
+    "label": "Template for prompt: admin dashboard",
+    "dateAdded": "2024-02-24T14:00:02.443Z"
   }
 ]
