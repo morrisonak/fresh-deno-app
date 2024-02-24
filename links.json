@@ -22053,5 +22053,135 @@
     "url": "https://v0.dev/t/BArLtU5uDBb",
     "label": "Template for prompt: Discord server ui",
     "dateAdded": "2024-02-24T01:55:02.669Z"
+  },
+  {
+    "url": "https://v0.dev/t/WlyJz2fqnov",
+    "label": "Template for prompt: make a better web site of thsi https://academy.thinkroman.com",
+    "dateAdded": "2024-02-24T02:00:02.584Z"
+  },
+  {
+    "url": "https://v0.dev/t/r82Fs74Jn2n",
+    "label": "Template for prompt: An ai assistant pane with a floating button for current ai model and label with the ammount of tokens left",
+    "dateAdded": "2024-02-24T02:00:02.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/fbRx0YkepAO",
+    "label": "Template for prompt: A landing page for pomodoro timer ",
+    "dateAdded": "2024-02-24T02:00:02.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/CzOess0YYZ1",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-02-24T02:00:02.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/G1wwEOmmU0g",
+    "label": "Template for prompt: card product whit image, price , description and buttons for buy",
+    "dateAdded": "2024-02-24T02:00:02.585Z"
+  },
+  {
+    "url": "https://v0.dev/t/HFeS8bZ5rE3",
+    "label": "Template for prompt: vocaburary template for anki, including word, definition(noun, verb...), audio",
+    "dateAdded": "2024-02-24T02:00:02.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/etRZd0ZUvyH",
+    "label": "Template for prompt: rotating schedule projection report",
+    "dateAdded": "2024-02-24T02:00:02.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/xQSwAmtLEYw",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-02-24T02:00:02.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/DTJiOxRFHKm",
+    "label": "Template for prompt: Create A custom Dropdown with three fields \"fast speed, speed, Quality\" and make dropdown Ccol",
+    "dateAdded": "2024-02-24T02:00:02.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/hs6KrdjSnVu",
+    "label": "Template for prompt: A Saas landing page ",
+    "dateAdded": "2024-02-24T02:00:02.586Z"
+  },
+  {
+    "url": "https://v0.dev/t/z7zBg02ZGBs",
+    "label": "Template for prompt: 下記の内容を含むランディングページを作成してください。\n文章に対してイメージ画像も掲載してください。\n\n---\n\n**新しい始まりに向けた希望を**\n\n生き別れた父親を探すための道標\n\n---\n\n1. **希望を手にして喜んでもらえます。**  \n   Omniを使えば、生き別れた父親を探し出す希望が現実のものとなります。心の中に眠る願いが、喜びに満ちた未来をもたらします。\n\n2. **明るい未来が創造できる。**  \n   喜び、期待、そして楽観。これらの感情が結びつき、新たな始まりへの扉を開きます。Omniは、明日への希望を育むための手助けとなるでしょう。\n\n3. **Omniを使用して希望を持ってください。**  \n   Omniは、生活を変える力を持ちます。失われた絆を取り戻し、希望を見出すための道筋を示します。あなたの心に光を灯し、新しい始まりへと導くでしょう。\n\n4. **現状を変えられる希望を持ってください。**  \n   希望は過去の終わりを意味しません。むしろ、新たな道を切り開く鍵です。Omniは、あなたが望む未来を創造するためのツールです。\n\n5. **Omniを使用することにより希望が持てます。**  \n   Omniは、探す喜びをあなたにもたらします。そして、父親との再会があなたを安心させるでしょう。",
+    "dateAdded": "2024-02-24T02:00:02.587Z"
+  },
+  {
+    "url": "https://v0.dev/t/7q7CGSqlfTQ",
+    "label": "Template for prompt: A saas landing page",
+    "dateAdded": "2024-02-24T02:00:02.587Z"
+  },
+  {
+    "url": "https://v0.dev/t/VBWYPdjdVT6",
+    "label": "Template for prompt: dashboard admin",
+    "dateAdded": "2024-02-24T02:00:02.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/JO5mfHpELPy",
+    "label": "Template for prompt: use thsi in hero  below that an 3 colum main and 2 colum vison  and mission and bottom about us   This web iste is for TrPharma add that in header  and also give a footer ",
+    "dateAdded": "2024-02-24T02:00:02.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/PP5Apdp1UKK",
+    "label": "Template for prompt: make a infinite slider for my project cards, to show only 2 per time",
+    "dateAdded": "2024-02-24T02:00:02.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/MyvlvCeTRvu",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-02-24T02:00:02.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/8Dcm6p0CChE",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T02:00:02.588Z"
+  },
+  {
+    "url": "https://v0.dev/t/0OoZbNYiAYd",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-24T02:00:02.589Z"
+  },
+  {
+    "url": "https://v0.dev/t/2vLMvB4WiZi",
+    "label": "Template for prompt: Hazme un foms con las categorias:\n° Información persona. en la que tenga los siguientes inputs:\nNombre , Apellido, Edad, Numerod e huspedes, Fecha de registro y Fecha de salida \n° Habiaciones: Tipo de habitación, Numero de habitación, Estado de la habitación, Maximo numero de personas, Descripcion.\n",
+    "dateAdded": "2024-02-24T02:00:02.589Z"
+  },
+  {
+    "url": "https://v0.dev/t/S4nFy7hEQHc",
+    "label": "Template for prompt: a profile form.\ntext_input\nselect_input\ntextarea_input",
+    "dateAdded": "2024-02-24T02:00:02.589Z"
+  },
+  {
+    "url": "https://v0.dev/t/llNoTLqlID4",
+    "label": "Template for prompt: search bar",
+    "dateAdded": "2024-02-24T02:00:02.589Z"
+  },
+  {
+    "url": "https://v0.dev/t/mqr3Tbvj7QN",
+    "label": "Template for prompt: a responsive component to show three data points with an icon and divider between them",
+    "dateAdded": "2024-02-24T02:00:02.589Z"
+  },
+  {
+    "url": "https://v0.dev/t/1EsqqU3Y1TN",
+    "label": "Template for prompt: a responsive component to show three data points with an icon and divider between them",
+    "dateAdded": "2024-02-24T02:00:02.589Z"
+  },
+  {
+    "url": "https://v0.dev/t/TChV55LbwuG",
+    "label": "Template for prompt: Generate a landing page for a AI copilot called Scrubs which is an ambient assistant that listens in on doctor-patients and generates actionable notes that can be copied into the Docto's EHR assistant. Make sure to have a demo section with a audio player, and the transcript below it and notes generated from that transcript. ",
+    "dateAdded": "2024-02-24T02:00:02.590Z"
+  },
+  {
+    "url": "https://v0.dev/t/uW8Jdl9SpOl",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-24T02:00:02.590Z"
+  },
+  {
+    "url": "https://v0.dev/t/u3wek8GtbHE",
+    "label": "Template for prompt: 一个运维大屏",
+    "dateAdded": "2024-02-24T02:00:02.590Z"
   }
 ]
