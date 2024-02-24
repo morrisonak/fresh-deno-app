@@ -23968,5 +23968,135 @@
     "url": "https://v0.dev/t/sKyttu2DVKY",
     "label": "Template for prompt: Say I have a SaaS app where I want to do per seat pricing. \nI have a sign up flow where the user who signs up creates a team and is the owner / admin of the team. I have an onboarding route where I take there name, username, password and team name to create the user and team accounts. Then I want to redirect them to the stripe billing portal. However, where I need your help is how do I handle the per seat pricing.\n\n1. I want the user to be able to say I want to sign up with 5 seats and here are their emails to invite them.\n2. I want to provide the user the option to pay monthly or years (with a discount) per seat",
     "dateAdded": "2024-02-24T13:50:03.031Z"
+  },
+  {
+    "url": "https://v0.dev/t/ypxwRKReRkU",
+    "label": "Template for prompt: A MEGA style page",
+    "dateAdded": "2024-02-24T13:55:03.359Z"
+  },
+  {
+    "url": "https://v0.dev/t/STAzN8psGoE",
+    "label": "Template for prompt: без красных полос",
+    "dateAdded": "2024-02-24T13:55:03.360Z"
+  },
+  {
+    "url": "https://v0.dev/t/HNGF8dWYzTo",
+    "label": "Template for prompt: I have an app that allows users to create commitments to fight against procrastination. If they do not complete the commitment in a given deadline they will loose their bet money.  My user has just created a commitment.  Give me a commitment details page where they can see: - Title of commitment - Commit amount and currency\n- A deadline ticker - Commitment status (Not started, Ongoing, Lost, Won) - Option to add proof of commit completion - Comment section with invited referees (friends)   My app uses currently shadcn and dark theme \n",
+    "dateAdded": "2024-02-24T13:55:03.360Z"
+  },
+  {
+    "url": "https://v0.dev/t/hyQ4P61ciMn",
+    "label": "Template for prompt: admin dashboard",
+    "dateAdded": "2024-02-24T13:55:03.360Z"
+  },
+  {
+    "url": "https://v0.dev/t/kuRPCAFjVkL",
+    "label": "Template for prompt: A product Page for an ecommerce simply with two colums, a big product image and dark theme ",
+    "dateAdded": "2024-02-24T13:55:03.360Z"
+  },
+  {
+    "url": "https://v0.dev/t/DBj2OXkEU2F",
+    "label": "Template for prompt: in this the out of stock and picked button looks messy arrange it to look it more clear",
+    "dateAdded": "2024-02-24T13:55:03.360Z"
+  },
+  {
+    "url": "https://v0.dev/t/7yqBU2QdaC8",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-24T13:55:03.360Z"
+  },
+  {
+    "url": "https://v0.dev/t/bppqKWrxjSn",
+    "label": "Template for prompt: generate this complete ui from the image 100% same in tailwind ",
+    "dateAdded": "2024-02-24T13:55:03.360Z"
+  },
+  {
+    "url": "https://v0.dev/t/L9WmKolcE8y",
+    "label": "Template for prompt: get username with initials",
+    "dateAdded": "2024-02-24T13:55:03.360Z"
+  },
+  {
+    "url": "https://v0.dev/t/DhLuGUgZg8a",
+    "label": "Template for prompt: a modal with two actions: add and sync, should show all the exist items list for user to select",
+    "dateAdded": "2024-02-24T13:55:03.361Z"
+  },
+  {
+    "url": "https://v0.dev/t/L6Iz8kIvimC",
+    "label": "Template for prompt: generame un vista web para empresa de transporte que ofrece categorias con sus destinos , inicio, sobre nosotros, contacto, version en ingles",
+    "dateAdded": "2024-02-24T13:55:03.361Z"
+  },
+  {
+    "url": "https://v0.dev/t/n72ze4sbtm5",
+    "label": "Template for prompt: A tweet card with an avatar photo, profile name and title, that shows the number of hours or minutes since the post was made",
+    "dateAdded": "2024-02-24T13:55:03.361Z"
+  },
+  {
+    "url": "https://v0.dev/t/SIqqgyBgX2i",
+    "label": "Template for prompt: テキサスホールデムのハンドをメモる入力画面",
+    "dateAdded": "2024-02-24T13:55:03.361Z"
+  },
+  {
+    "url": "https://v0.dev/t/e5L4XapFvTC",
+    "label": "Template for prompt: Design a portafolio for a junior developer",
+    "dateAdded": "2024-02-24T13:55:03.361Z"
+  },
+  {
+    "url": "https://v0.dev/t/ERAeuXTW7SU",
+    "label": "Template for prompt: Gráficos estadísticos ",
+    "dateAdded": "2024-02-24T13:55:03.361Z"
+  },
+  {
+    "url": "https://v0.dev/t/PXHCki71DEB",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-24T13:55:03.361Z"
+  },
+  {
+    "url": "https://v0.dev/t/nuEjzZNXU3l",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T13:55:03.362Z"
+  },
+  {
+    "url": "https://v0.dev/t/8HCHq5HmkFT",
+    "label": "Template for prompt: A site distributing game assets dumped from the splatoon game series, like player models and textures.",
+    "dateAdded": "2024-02-24T13:55:03.362Z"
+  },
+  {
+    "url": "https://v0.dev/t/gXs9FGAVV0D",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-24T13:55:03.362Z"
+  },
+  {
+    "url": "https://v0.dev/t/Xbhx2k2Arvb",
+    "label": "Template for prompt: drawer on the left side of the application to render all the routes such as home, tasks, my calendar, config and subroutes too",
+    "dateAdded": "2024-02-24T13:55:03.362Z"
+  },
+  {
+    "url": "https://v0.dev/t/gwwfyp4kap3",
+    "label": "Template for prompt: design a page to create a blog with image upload field, title field, and content field with submit button",
+    "dateAdded": "2024-02-24T13:55:03.362Z"
+  },
+  {
+    "url": "https://v0.dev/t/y9FbG3no1ag",
+    "label": "Template for prompt: A site distributed dumped video game assets, like player models and such.",
+    "dateAdded": "2024-02-24T13:55:03.362Z"
+  },
+  {
+    "url": "https://v0.dev/t/3eXLz9CsEKh",
+    "label": "Template for prompt: A landing page for a restaurant management app",
+    "dateAdded": "2024-02-24T13:55:03.362Z"
+  },
+  {
+    "url": "https://v0.dev/t/Ua9Z4VzJ1HB",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T13:55:03.362Z"
+  },
+  {
+    "url": "https://v0.dev/t/FntoAn0dviT",
+    "label": "Template for prompt: idea generate page",
+    "dateAdded": "2024-02-24T13:55:03.363Z"
+  },
+  {
+    "url": "https://v0.dev/t/s4LYA1SKSet",
+    "label": "Template for prompt: An ecommerce dashboard with a sidebar navigation and a table of recent orders.",
+    "dateAdded": "2024-02-24T13:55:03.363Z"
   }
 ]
