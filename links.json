@@ -22438,5 +22438,135 @@
     "url": "https://v0.dev/t/wiX8sAjVFdB",
     "label": "Template for prompt: input for amount and currency",
     "dateAdded": "2024-02-24T02:10:03.231Z"
+  },
+  {
+    "url": "https://v0.dev/t/xI7ze9uqCdy",
+    "label": "Template for prompt: 로그인 버튼",
+    "dateAdded": "2024-02-24T02:15:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/1LIfBXqZ6dh",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T02:15:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/aFcx1cc8e6j",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T02:15:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/VhC9lxz87wF",
+    "label": "Template for prompt: 一个运维大屏",
+    "dateAdded": "2024-02-24T02:15:03.166Z"
+  },
+  {
+    "url": "https://v0.dev/t/qDqhNf3t3AX",
+    "label": "Template for prompt: card to upload data on the amount of electricity consumed",
+    "dateAdded": "2024-02-24T02:15:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/giKl7qhSg1s",
+    "label": "Template for prompt: make market service",
+    "dateAdded": "2024-02-24T02:15:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/RAwruJo6mYc",
+    "label": "Template for prompt: Create a modern, clean and sofisticated customer crud with:\n\n\"\"\"\nNome\nData de nascimento\nWhatsApp\nInstagram\nSite\nFacebook,\nE-mail\nDe qual canal de comunicação ele veio\nEmpresa\nNicho\nnegocio digital ou fisico\nse fisico, endereço\nData de entrada no sistema\nQual a dor que ele tem (necessidade)\nQual desejo (Solução que ele busca)\n\"\"\"",
+    "dateAdded": "2024-02-24T02:15:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/VfwzOwkXaAN",
+    "label": "Template for prompt: Create a modern, clean and sofisticated customer crud with:\n\n\"\"\"\nNome\nData de nascimento\nWhatsApp\nInstagram\nSite\nFacebook,\nE-mail\nDe qual canal de comunicação ele veio\nEmpresa\nNicho\nnegocio digital ou fisico\nse fisico, endereço\nData de entrada no sistema\nQual a dor que ele tem (necessidade)\nQual desejo (Solução que ele busca)\n\"\"\"",
+    "dateAdded": "2024-02-24T02:15:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/TmXJFTmu28M",
+    "label": "Template for prompt: Sign up completed successfully page",
+    "dateAdded": "2024-02-24T02:15:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/HQHupKmoRP0",
+    "label": "Template for prompt: can you create this page in html and css",
+    "dateAdded": "2024-02-24T02:15:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/kpIj6uFhwb6",
+    "label": "Template for prompt: he image you see is a login page for a website. Can you write the code to create this page using HTML, CSS, and JavaScript? The page should be responsive and look good on all devices. Here are the specific elements of the page:\n\n* A logo\n* A sign-up form with fields for username, email, and password\n* A login form with fields for email and password\n* A button that says \"Sign up with Google\"\n* A link that says \"Forgot password?\"\n* A link that says \"Create account\"\n\nPlease make sure the code is clean, well-structured, and easy to understand.\n\nI would appreciate it if you could also include some comments in the code to explain what each part is doing.\n\nThank you!",
+    "dateAdded": "2024-02-24T02:15:03.167Z"
+  },
+  {
+    "url": "https://v0.dev/t/MQFsv4ybRPm",
+    "label": "Template for prompt: A landing page Tesimonial section with a Name, Profile and Tesimonial text with carousel slider contain 3 cards",
+    "dateAdded": "2024-02-24T02:15:03.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/M2QEsxF5vNx",
+    "label": "Template for prompt: payment page. one selector - number (quantity) input",
+    "dateAdded": "2024-02-24T02:15:03.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/ek39hCFolJS",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T02:15:03.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/BWbcF2Pkd3C",
+    "label": "Template for prompt: a dashboard of a music app similar to Spotify",
+    "dateAdded": "2024-02-24T02:15:03.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/THiY7y1KJvu",
+    "label": "Template for prompt: A landing page Tesimonial section with a Name, Profile and Tesimonial text with carousel slider.",
+    "dateAdded": "2024-02-24T02:15:03.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/5DOAjcC7S2H",
+    "label": "Template for prompt: a grid with boxes",
+    "dateAdded": "2024-02-24T02:15:03.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/w0UWho0j7l4",
+    "label": "Template for prompt: Put the buttons inside de card and make them centered vertically with the other elements, the buttons must be aligned to the right",
+    "dateAdded": "2024-02-24T02:15:03.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/XR6MYgNbwdv",
+    "label": "Template for prompt: Put the buttons inside de card and make them centered vertically with the other elements, the buttons must be aligned to the right",
+    "dateAdded": "2024-02-24T02:15:03.168Z"
+  },
+  {
+    "url": "https://v0.dev/t/hVA4JlihPI2",
+    "label": "Template for prompt: A contact form with Nombre completo, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-02-24T02:15:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/AfvxJOuEgr4",
+    "label": "Template for prompt: recrie essa login page",
+    "dateAdded": "2024-02-24T02:15:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/S7pfhO0bHRP",
+    "label": "Template for prompt: A landing page hero section with a heading, leading text and an opt-in form.",
+    "dateAdded": "2024-02-24T02:15:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/r2ughpZDJRi",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields. Put the form in a card with a submit button.",
+    "dateAdded": "2024-02-24T02:15:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/1njvjGbr7cU",
+    "label": "Template for prompt: login",
+    "dateAdded": "2024-02-24T02:15:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/7EFXLJ0H1Cc",
+    "label": "Template for prompt: Develop a user-friendly interface for a sports club that rents out its facilities. The interface should enable users to easily schedule appointments for facility rentals. Consider incorporating features such as calendar integration, real-time availability updates, and a seamless booking process. Prioritize a clean and intuitive design to enhance the user experience. Ensure compatibility with various devices and browsers. Additionally, explore options for user accounts, payment integration, and automated confirmation notifications. Provide a comprehensive solution that streamlines the reservation process for both the club and its members. Specify any technical requirements or frameworks you recommend for optimal performance and scalability.",
+    "dateAdded": "2024-02-24T02:15:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/qPHI30X8LaG",
+    "label": "Template for prompt: a table filter ui",
+    "dateAdded": "2024-02-24T02:15:03.169Z"
   }
 ]
