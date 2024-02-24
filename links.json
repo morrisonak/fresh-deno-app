@@ -23708,5 +23708,135 @@
     "url": "https://v0.dev/t/Oixvo1po881",
     "label": "Template for prompt: etiquetas para esdatis",
     "dateAdded": "2024-02-24T03:00:03.145Z"
+  },
+  {
+    "url": "https://v0.dev/t/L0jBl9jiFCv",
+    "label": "Template for prompt: Card swipe",
+    "dateAdded": "2024-02-24T13:45:02.949Z"
+  },
+  {
+    "url": "https://v0.dev/t/1oxrormwYfF",
+    "label": "Template for prompt: My app allows users to create commitments to fight against procrastenation. Create a page that shows the details of a newly create commitment with:\n\n- Title\n- Status (Created, Ongoing, Awaiting approval, Lost, Won)\n- Amount and currency\n- Referees (these are the friends invited to judge the commitment)\n- Section to upload proof of commitment completion\n- Comments section between the commiter and referees",
+    "dateAdded": "2024-02-24T13:45:02.949Z"
+  },
+  {
+    "url": "https://v0.dev/t/yMBcpQSWNz7",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T13:45:02.949Z"
+  },
+  {
+    "url": "https://v0.dev/t/LJA5aXeylsU",
+    "label": "Template for prompt: Welcome to the Modern Jamz Academy, where knowledge meets spirituality, and personal growth takes center stage. As a distinguished online institution, we are devoted to providing a transformative journey through the exploration of the Quran and the Arabic language.\n\nOur meticulously crafted courses are designed to enrich lives, offering a diverse array of learning opportunities. Beyond being an educational hub, we pride ourselves on creating a nurturing space where qualified instructors guide students in a supportive and interactive environment.\n\nAt [Your Academy Name], we invite you to elevate your understanding of the Quran, master the Arabic language, and deepen your connection to the teachings of Islam. Join our community of learners, and embark on a journey that goes beyond education – one that fosters personal and spiritual development.\n\ncreate a about section for academy of arabic and quran teaching",
+    "dateAdded": "2024-02-24T13:45:02.949Z"
+  },
+  {
+    "url": "https://v0.dev/t/9YXAUON9gR6",
+    "label": "Template for prompt: Welcome to the Modern Jamz Academy, where knowledge meets spirituality, and personal growth takes center stage. As a distinguished online institution, we are devoted to providing a transformative journey through the exploration of the Quran and the Arabic language.\n\nOur meticulously crafted courses are designed to enrich lives, offering a diverse array of learning opportunities. Beyond being an educational hub, we pride ourselves on creating a nurturing space where qualified instructors guide students in a supportive and interactive environment.\n\nAt [Your Academy Name], we invite you to elevate your understanding of the Quran, master the Arabic language, and deepen your connection to the teachings of Islam. Join our community of learners, and embark on a journey that goes beyond education – one that fosters personal and spiritual development.\n\ncreate a about section for academy of arabic and quran teaching",
+    "dateAdded": "2024-02-24T13:45:02.949Z"
+  },
+  {
+    "url": "https://v0.dev/t/rfBMR6pFfkV",
+    "label": "Template for prompt: A scrolling carousel, where the items in the carousel are UI components. These components represent messages, posts, and buttons. The code is written using Material UI.",
+    "dateAdded": "2024-02-24T13:45:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/sKyttu2DVKY",
+    "label": "Template for prompt: Say I have a SaaS app where I want to do per seat pricing. \nI have a sign up flow where the user who signs up creates a team and is the owner / admin of the team. I have an onboarding route where I take there name, username, password and team name to create the user and team accounts. Then I want to redirect them to the stripe billing portal. However, where I need your help is how do I handle the per seat pricing.\n\n1. I want the user to be able to say I want to sign up with 5 seats and here are their emails to invite them.\n2. I want to provide the user the option to pay monthly or years (with a discount) per seat",
+    "dateAdded": "2024-02-24T13:45:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/PpuTiFIsD7g",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T13:45:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/DOcB0yzIxy3",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T13:45:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/U85LYE4C7pD",
+    "label": "Template for prompt: A login page with the login box centered and split 50% image and 50% login fields.",
+    "dateAdded": "2024-02-24T13:45:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/8ch0Mq5roXp",
+    "label": "Template for prompt: a sleek prcing page for Saas ",
+    "dateAdded": "2024-02-24T13:45:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/lLmtrTK4Ym2",
+    "label": "Template for prompt: admin dashboard with futuristic theme with preload animations and hover animations on each element",
+    "dateAdded": "2024-02-24T13:45:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/oxjNiTdB9se",
+    "label": "Template for prompt: A contact form with first name, last name, email, and message fields with animation. Put the form in a card with a submit button",
+    "dateAdded": "2024-02-24T13:45:02.950Z"
+  },
+  {
+    "url": "https://v0.dev/t/KxpoyotBTRR",
+    "label": "Template for prompt: creat ea hero section where 1/4 from left side is a red box with text on center other 3/4 is a product and add to card button . There sould be a bottle of wine in the middle of 1/4 and 3/4",
+    "dateAdded": "2024-02-24T13:45:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/fn0j5Zn4iCt",
+    "label": "Template for prompt: una pagina de login que tenga el cuadro de login centrado y sea 50% imagen y 50% campos de inicio de sesion",
+    "dateAdded": "2024-02-24T13:45:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/VEm3kBBYQzH",
+    "label": "Template for prompt: A details page for created commitment. The previously filled values include: [title, amount, referees, currency]",
+    "dateAdded": "2024-02-24T13:45:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/VDOudHBshMH",
+    "label": "Template for prompt: Tomando en cuenta este estilo crea una pagina que sea para hablar con un chatbot de la empresa. ",
+    "dateAdded": "2024-02-24T13:45:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/9vINMdG45KE",
+    "label": "Template for prompt: a services card carousel, each card must have a background image and the services name must show up on hover",
+    "dateAdded": "2024-02-24T13:45:02.951Z"
+  },
+  {
+    "url": "https://v0.dev/t/PIDDuxNHABT",
+    "label": "Template for prompt: image site body",
+    "dateAdded": "2024-02-24T13:45:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/XLqq16ZeWjb",
+    "label": "Template for prompt: image site body",
+    "dateAdded": "2024-02-24T13:45:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/5hw9cUAQq94",
+    "label": "Template for prompt: A list of product categories with image, name and description.",
+    "dateAdded": "2024-02-24T13:45:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/1LPSoJH1on3",
+    "label": "Template for prompt: a completed crud for employees leaves",
+    "dateAdded": "2024-02-24T13:45:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/0vGq4iVolqd",
+    "label": "Template for prompt: create a CRM for cannabis dispensaries silimar to hubspot etc.",
+    "dateAdded": "2024-02-24T13:45:02.952Z"
+  },
+  {
+    "url": "https://v0.dev/t/j8RdbWULtaj",
+    "label": "Template for prompt: Create File upload component for pdf",
+    "dateAdded": "2024-02-24T13:45:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/u0F0in54gUJ",
+    "label": "Template for prompt: crea un reproductor de musica, con su seccion de playlist y con aspecto similar a iTunes",
+    "dateAdded": "2024-02-24T13:45:02.953Z"
+  },
+  {
+    "url": "https://v0.dev/t/JOMkOMyE9MK",
+    "label": "Template for prompt: a landing page that has a tool bar and components to describe why you should use our service",
+    "dateAdded": "2024-02-24T13:45:02.953Z"
   }
 ]
