@@ -22568,5 +22568,135 @@
     "url": "https://v0.dev/t/qPHI30X8LaG",
     "label": "Template for prompt: a table filter ui",
     "dateAdded": "2024-02-24T02:15:03.169Z"
+  },
+  {
+    "url": "https://v0.dev/t/LOKGCfLwRxh",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T02:20:02.464Z"
+  },
+  {
+    "url": "https://v0.dev/t/3GRvb90bGR8",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T02:20:02.464Z"
+  },
+  {
+    "url": "https://v0.dev/t/lGaZdoH0VJf",
+    "label": "Template for prompt: create an OTP login",
+    "dateAdded": "2024-02-24T02:20:02.464Z"
+  },
+  {
+    "url": "https://v0.dev/t/s4H6F6gz79x",
+    "label": "Template for prompt: Createa a modal dialog like this",
+    "dateAdded": "2024-02-24T02:20:02.464Z"
+  },
+  {
+    "url": "https://v0.dev/t/Zvst1c90rdh",
+    "label": "Template for prompt: A single page showcasing a web dev project",
+    "dateAdded": "2024-02-24T02:20:02.465Z"
+  },
+  {
+    "url": "https://v0.dev/t/w3ND7Sr1gRR",
+    "label": "Template for prompt: create a component with a 5xl title on the top left \"Genera ganancias en DiDi Conductor\" below this title a 2xl orange title \"¿Tienes vehículo de?\" and belo what subtitle 2 images side by side. On the right part of the component I want a subtitle \"Hay un DiDi para ti.\" below that a paragraph \"Contamos con diferentes modalidades de acuerdo a tus necesidades:\" and below that a list with circle check icons for 4 products names. Finally ending with a big CTA btn",
+    "dateAdded": "2024-02-24T02:20:02.465Z"
+  },
+  {
+    "url": "https://v0.dev/t/MYcVXEFSqb9",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T02:20:02.465Z"
+  },
+  {
+    "url": "https://v0.dev/t/ti9hoXv6BcI",
+    "label": "Template for prompt: Créame un listado de información de mascota ",
+    "dateAdded": "2024-02-24T02:20:02.465Z"
+  },
+  {
+    "url": "https://v0.dev/t/xI7ze9uqCdy",
+    "label": "Template for prompt: 로그인 버튼",
+    "dateAdded": "2024-02-24T02:20:02.465Z"
+  },
+  {
+    "url": "https://v0.dev/t/1LIfBXqZ6dh",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T02:20:02.465Z"
+  },
+  {
+    "url": "https://v0.dev/t/aFcx1cc8e6j",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T02:20:02.466Z"
+  },
+  {
+    "url": "https://v0.dev/t/VhC9lxz87wF",
+    "label": "Template for prompt: 一个运维大屏",
+    "dateAdded": "2024-02-24T02:20:02.466Z"
+  },
+  {
+    "url": "https://v0.dev/t/qDqhNf3t3AX",
+    "label": "Template for prompt: card to upload data on the amount of electricity consumed",
+    "dateAdded": "2024-02-24T02:20:02.466Z"
+  },
+  {
+    "url": "https://v0.dev/t/giKl7qhSg1s",
+    "label": "Template for prompt: make market service",
+    "dateAdded": "2024-02-24T02:20:02.466Z"
+  },
+  {
+    "url": "https://v0.dev/t/RAwruJo6mYc",
+    "label": "Template for prompt: Create a modern, clean and sofisticated customer crud with:\n\n\"\"\"\nNome\nData de nascimento\nWhatsApp\nInstagram\nSite\nFacebook,\nE-mail\nDe qual canal de comunicação ele veio\nEmpresa\nNicho\nnegocio digital ou fisico\nse fisico, endereço\nData de entrada no sistema\nQual a dor que ele tem (necessidade)\nQual desejo (Solução que ele busca)\n\"\"\"",
+    "dateAdded": "2024-02-24T02:20:02.466Z"
+  },
+  {
+    "url": "https://v0.dev/t/VfwzOwkXaAN",
+    "label": "Template for prompt: Create a modern, clean and sofisticated customer crud with:\n\n\"\"\"\nNome\nData de nascimento\nWhatsApp\nInstagram\nSite\nFacebook,\nE-mail\nDe qual canal de comunicação ele veio\nEmpresa\nNicho\nnegocio digital ou fisico\nse fisico, endereço\nData de entrada no sistema\nQual a dor que ele tem (necessidade)\nQual desejo (Solução que ele busca)\n\"\"\"",
+    "dateAdded": "2024-02-24T02:20:02.466Z"
+  },
+  {
+    "url": "https://v0.dev/t/TmXJFTmu28M",
+    "label": "Template for prompt: Sign up completed successfully page",
+    "dateAdded": "2024-02-24T02:20:02.466Z"
+  },
+  {
+    "url": "https://v0.dev/t/HQHupKmoRP0",
+    "label": "Template for prompt: can you create this page in html and css",
+    "dateAdded": "2024-02-24T02:20:02.467Z"
+  },
+  {
+    "url": "https://v0.dev/t/kpIj6uFhwb6",
+    "label": "Template for prompt: he image you see is a login page for a website. Can you write the code to create this page using HTML, CSS, and JavaScript? The page should be responsive and look good on all devices. Here are the specific elements of the page:\n\n* A logo\n* A sign-up form with fields for username, email, and password\n* A login form with fields for email and password\n* A button that says \"Sign up with Google\"\n* A link that says \"Forgot password?\"\n* A link that says \"Create account\"\n\nPlease make sure the code is clean, well-structured, and easy to understand.\n\nI would appreciate it if you could also include some comments in the code to explain what each part is doing.\n\nThank you!",
+    "dateAdded": "2024-02-24T02:20:02.467Z"
+  },
+  {
+    "url": "https://v0.dev/t/MQFsv4ybRPm",
+    "label": "Template for prompt: A landing page Tesimonial section with a Name, Profile and Tesimonial text with carousel slider contain 3 cards",
+    "dateAdded": "2024-02-24T02:20:02.467Z"
+  },
+  {
+    "url": "https://v0.dev/t/M2QEsxF5vNx",
+    "label": "Template for prompt: payment page. one selector - number (quantity) input",
+    "dateAdded": "2024-02-24T02:20:02.467Z"
+  },
+  {
+    "url": "https://v0.dev/t/ek39hCFolJS",
+    "label": "Template for prompt: A visual generation",
+    "dateAdded": "2024-02-24T02:20:02.467Z"
+  },
+  {
+    "url": "https://v0.dev/t/BWbcF2Pkd3C",
+    "label": "Template for prompt: a dashboard of a music app similar to Spotify",
+    "dateAdded": "2024-02-24T02:20:02.467Z"
+  },
+  {
+    "url": "https://v0.dev/t/THiY7y1KJvu",
+    "label": "Template for prompt: A landing page Tesimonial section with a Name, Profile and Tesimonial text with carousel slider.",
+    "dateAdded": "2024-02-24T02:20:02.467Z"
+  },
+  {
+    "url": "https://v0.dev/t/5DOAjcC7S2H",
+    "label": "Template for prompt: a grid with boxes",
+    "dateAdded": "2024-02-24T02:20:02.468Z"
+  },
+  {
+    "url": "https://v0.dev/t/w0UWho0j7l4",
+    "label": "Template for prompt: Put the buttons inside de card and make them centered vertically with the other elements, the buttons must be aligned to the right",
+    "dateAdded": "2024-02-24T02:20:02.468Z"
   }
 ]
